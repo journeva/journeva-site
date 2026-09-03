@@ -1,0 +1,257 @@
+/* Journeva website — one stylesheet, no external resources on purpose:
+   the privacy policy promises no cookies, no trackers, no third-party fonts.
+   Palette follows the app icon: indigo → violet, with a coral accent. */
+
+:root {
+  color-scheme: light dark;
+  --bg: #f5f5fa;
+  --card: #ffffff;
+  --text: #17171c;
+  --muted: #676773;
+  --accent: #4a45b8;
+  --accent-2: #6b3fc7;
+  --coral: #f97a5a;
+  --accent-soft: rgba(74, 69, 184, 0.10);
+  --line: rgba(20, 20, 40, 0.08);
+  --shadow: 0 18px 50px rgba(30, 25, 90, 0.18);
+  --radius: 18px;
+  --hero-text: #ffffff;
+  --hero-muted: rgba(255, 255, 255, 0.78);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0e0e14;
+    --card: #1a1a22;
+    --text: #f3f3f6;
+    --muted: #9d9da8;
+    --accent: #8f89ff;
+    --accent-2: #a98bff;
+    --accent-soft: rgba(143, 137, 255, 0.14);
+    --line: rgba(255, 255, 255, 0.10);
+    --shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus-visible { text-decoration: underline; }
+img { max-width: 100%; height: auto; display: block; }
+
+/* ---------- Header ---------- */
+
+header.site {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 22px 24px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+header.site .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 700;
+  font-size: 20px;
+  color: inherit;
+  letter-spacing: -0.01em;
+}
+header.site .brand img { width: 30px; height: 30px; border-radius: 8px; }
+
+header.site nav a { margin-left: 20px; color: inherit; opacity: 0.75; font-size: 15px; }
+header.site nav a:hover { opacity: 1; }
+
+/* ---------- Hero ---------- */
+
+.hero {
+  color: var(--hero-text);
+  background: linear-gradient(160deg, #25318f 0%, #4a45b8 45%, #6b3fc7 100%);
+}
+.hero header.site { color: var(--hero-text); }
+.hero header.site nav a { color: var(--hero-text); }
+
+.hero-inner {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 56px 24px 0;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 40px;
+  align-items: end;
+}
+
+.hero h1 {
+  font-size: 50px;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+  margin: 14px 0 16px;
+}
+.hero .lead { color: var(--hero-muted); font-size: 21px; max-width: 34ch; margin: 0 0 26px; }
+.hero .pill { background: rgba(255, 255, 255, 0.16); color: #fff; }
+.hero .actions { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; padding-bottom: 56px; }
+.hero .actions .link { color: var(--hero-muted); }
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 22px;
+  border-radius: 14px;
+  background: var(--coral);
+  color: #1b1010;
+  font-weight: 700;
+  box-shadow: 0 8px 24px rgba(249, 122, 90, 0.35);
+}
+.cta:hover, .cta:focus-visible { text-decoration: none; filter: brightness(1.05); }
+.cta.secondary { background: var(--accent-soft); color: var(--accent); box-shadow: none; }
+
+/* Phone frame around a screenshot */
+.phone {
+  width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 46px;
+  background: #0c0c10;
+  box-shadow: var(--shadow);
+}
+.phone img { border-radius: 36px; }
+.hero .phone { margin-bottom: -60px; }
+.phone.small { width: 250px; border-radius: 40px; padding: 8px; }
+.phone.small img { border-radius: 32px; }
+
+/* ---------- Sections ---------- */
+
+main { max-width: 1040px; margin: 0 auto; padding: 0 24px 56px; }
+section { padding-top: 88px; }
+section:first-of-type { padding-top: 96px; }
+.section-title { font-size: 34px; line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 8px; }
+.section-lead { color: var(--muted); font-size: 19px; margin: 0 0 28px; max-width: 60ch; }
+
+h1 { font-size: 40px; line-height: 1.12; letter-spacing: -0.02em; margin: 24px 0 8px; }
+h2 { font-size: 26px; letter-spacing: -0.01em; margin: 36px 0 10px; }
+h3 { font-size: 18px; margin: 0 0 6px; }
+.lead { font-size: 21px; color: var(--muted); margin: 0 0 24px; }
+.muted { color: var(--muted); }
+.small { font-size: 14px; }
+
+.pill {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+  margin: 16px 0;
+  border: 1px solid var(--line);
+}
+
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; margin: 0; }
+.grid .card { margin: 0; }
+
+/* Steps */
+.steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: start; }
+.step .num {
+  display: inline-grid; place-items: center;
+  width: 34px; height: 34px; border-radius: 50%;
+  background: var(--accent); color: #fff; font-weight: 700; margin-bottom: 12px;
+}
+.step p { color: var(--muted); margin: 0; }
+.step .phone { margin: 20px auto 0; }
+
+/* Feature icons */
+.feature { display: flex; gap: 14px; align-items: flex-start; }
+.feature svg { flex: 0 0 auto; width: 40px; height: 40px; padding: 8px; border-radius: 12px; background: var(--accent-soft); color: var(--accent); }
+.feature p { margin: 0; color: var(--muted); }
+
+/* Languages */
+.languages { display: flex; flex-wrap: wrap; gap: 10px; }
+.languages span { background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-weight: 600; }
+
+/* Pricing */
+.pricing { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.plan { position: relative; }
+.plan.featured { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.plan.featured::before {
+  content: "7-day free trial";
+  position: absolute; top: -13px; left: 20px;
+  background: var(--coral); color: #1b1010; font-size: 12px; font-weight: 700;
+  padding: 4px 10px; border-radius: 999px;
+}
+.price { font-size: 38px; font-weight: 700; letter-spacing: -0.02em; margin: 6px 0 2px; }
+.price span { font-size: 15px; font-weight: 400; color: var(--muted); }
+.plan ul { padding-left: 20px; margin: 12px 0 0; }
+.plan li { margin: 4px 0; color: var(--muted); }
+
+/* FAQ / details */
+details { margin: 10px 0; padding: 4px 0; border-bottom: 1px solid var(--line); }
+summary { cursor: pointer; font-weight: 600; padding: 8px 0; }
+details p { margin: 4px 0 12px; color: var(--muted); }
+
+dl.contact dt { font-weight: 600; margin-top: 12px; }
+dl.contact dd { margin: 2px 0 0; }
+
+.placeholder {
+  background: rgba(255, 196, 0, 0.18);
+  border: 1px dashed rgba(255, 160, 0, 0.7);
+  border-radius: 6px;
+  padding: 0 6px;
+}
+
+/* ---------- Footer ---------- */
+
+footer.site {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 28px 24px 44px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 22px;
+}
+footer.site a { color: inherit; }
+
+/* Inner pages share a compact hero band */
+.band { background: linear-gradient(160deg, #25318f 0%, #4a45b8 45%, #6b3fc7 100%); color: #fff; }
+.band header.site nav a, .band header.site .brand { color: #fff; }
+.band .band-inner { max-width: 1040px; margin: 0 auto; padding: 40px 24px 44px; }
+.band h1 { margin: 0 0 6px; }
+.band .lead { color: var(--hero-muted); margin: 0; }
+.page { max-width: 760px; margin: 0 auto; padding: 8px 24px 56px; }
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 860px) {
+  .hero-inner { grid-template-columns: 1fr; gap: 28px; }
+  .hero h1 { font-size: 40px; }
+  .hero .phone { margin-bottom: -40px; width: 260px; }
+  .steps { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 480px) {
+  header.site { flex-direction: column; align-items: flex-start; }
+  header.site nav a { margin: 0 16px 0 0; }
+  .hero h1 { font-size: 34px; }
+  .section-title { font-size: 28px; }
+}
