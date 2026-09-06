@@ -66,6 +66,20 @@ they are; they don't interact with these. Certificate issuance takes a few minut
 to an hour after the DNS check passes. `https://journeva.app`, `/privacy.html`,
 `/support.html` and `/imprint.html` are then live.
 
+## Launch day
+
+The app was submitted to App Review on 2026-09-06 with manual release. When you
+press Release in App Store Connect, make these two edits in `index.html` and push:
+
+1. The hero button: change
+   `<a class="cta" href="support.html">Coming soon to the App Store</a>` to
+   `<a class="cta" href="https://apps.apple.com/app/id6808384465">Download on the App Store</a>`.
+2. Optionally add the same link to the `#pricing` section under the plans.
+
+The `apple-itunes-app` meta tag on `index.html` and `support.html` is already in
+place: once the app is live, Safari on iPhone shows Apple's Smart App Banner at the
+top of those pages by itself; before that it shows nothing.
+
 ## Updating
 
 Edit the file, commit, push. GitHub Pages redeploys within a minute. The
