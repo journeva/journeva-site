@@ -15,6 +15,7 @@ external fonts or scripts — the privacy policy promises that, so keep it true.
 | `CNAME` | tells GitHub Pages the custom domain |
 | `.nojekyll` | tells GitHub Pages to serve files as-is |
 | `content/` | written by the publish script: `manifest.json`, `content.json`, `images/` |
+| `stories/` | **generated** by `ContentStudio/build_story_pages.py` — one page per story per language (A1 text, level previews, links to the app), a language index each, the pictures; plus `sitemap.xml` and `robots.txt` at the root. Never edit by hand; rerun the script after every content batch |
 
 ## Publisher details
 
@@ -75,6 +76,10 @@ press Release in App Store Connect, make these two edits in `index.html` and pus
    `<a class="cta" href="support.html">Coming soon to the App Store</a>` to
    `<a class="cta" href="https://apps.apple.com/app/id6808384465">Download on the App Store</a>`.
 2. Optionally add the same link to the `#pricing` section under the plans.
+3. In `ContentStudio/build_story_pages.py` set `LAUNCHED = True` and, once App
+   Analytics is available (a day or so after release), paste the provider token
+   from Analytics → Acquisition → Campaigns into `PROVIDER_TOKEN`; rerun the
+   script so every story page's button becomes an attributed App Store link.
 
 The `apple-itunes-app` meta tag on `index.html` and `support.html` is already in
 place: once the app is live, Safari on iPhone shows Apple's Smart App Banner at the
