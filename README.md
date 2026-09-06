@@ -82,6 +82,15 @@ top of those pages by itself; before that it shows nothing.
 
 ## Updating
 
-Edit the file, commit, push. GitHub Pages redeploys within a minute. The
-`content/` folder is updated by the publish script the same way (commit + push),
-which is how a new story reaches every installed app without an App Store update.
+This folder is the source of truth; the live site is the separate public repo
+`journeva/journeva-site`, cloned at `../../journeva-site` (sibling of the app
+folder, set up 2026-09-06 with a repo-scoped deploy key `~/.ssh/id_ed25519_github`,
+read/write, no passphrase). To publish, after committing here:
+
+```bash
+cd /Users/sheli/Documents/Learning/App/journeva-site && rsync -a --delete --exclude .git --exclude .DS_Store ../Journeva/docs/ ./ && git add -A && git commit -m "Update site" && git push
+```
+
+GitHub Pages redeploys within a minute. The `content/` folder is updated by the
+publish script the same way (commit here, then the command above), which is how a
+new story reaches every installed app without an App Store update.
