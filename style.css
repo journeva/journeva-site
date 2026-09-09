@@ -232,6 +232,10 @@ footer.site {
   gap: 8px 22px;
 }
 footer.site a { color: inherit; }
+footer.site .social { display: inline-flex; gap: 14px; align-items: center; }
+footer.site .social a { display: inline-flex; opacity: 0.75; }
+footer.site .social a:hover { opacity: 1; }
+footer.site .social svg { width: 20px; height: 20px; }
 
 /* Inner pages share a compact hero band */
 .band { background: linear-gradient(160deg, #25318f 0%, #4a45b8 45%, #6b3fc7 100%); color: #fff; }
