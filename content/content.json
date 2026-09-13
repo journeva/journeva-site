@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 2,
-  "generatedAt" : "2026-09-12",
+  "contentVersion" : 3,
+  "generatedAt" : "2026-09-13",
   "glossary" : {
     "english" : [
       {
@@ -45999,7 +45999,7 @@
         "forms" : [
           "ab"
         ],
-        "note" : "Often part of a separable verb, like \"abbrechen\" (to break off).",
+        "note" : "Often part of a separable verb, like \"abbrechen\" (to break off). At the end of a clause, „ab“ is usually the detached half of a separable verb (abhören, abdecken, abhängen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "off, from"
       },
@@ -46129,7 +46129,7 @@
         "forms" : [
           "an"
         ],
-        "note" : "Describes position, often vertical surfaces.",
+        "note" : "Describes position, often vertical surfaces. At the end of a clause, „an“ is usually the detached half of a separable verb (anschauen, anfangen, ankommen, sich anfühlen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "at, on"
       },
@@ -46205,7 +46205,7 @@
         "forms" : [
           "auf"
         ],
-        "note" : "Describes position, often horizontal surfaces.",
+        "note" : "Describes position, often horizontal surfaces. At the end of a clause, „auf“ is usually the detached half of a separable verb (aufhören, aufwachen, aufschreiben …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "on, onto"
       },
@@ -46257,7 +46257,7 @@
         "forms" : [
           "aus"
         ],
-        "note" : "Describes origin.",
+        "note" : "Describes origin. At the end of a clause, „aus“ is usually the detached half of a separable verb (aussehen, ausprobieren, ausatmen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "out of, from"
       },
@@ -46577,7 +46577,7 @@
         "forms" : [
           "brach"
         ],
-        "note" : "Brechen (to break), past tense.",
+        "note" : "Brechen (to break), past tense. Separable: … aus = ausbrechen, to burst out (laughing).",
         "pos" : "verb",
         "translation" : "broke"
       },
@@ -46585,7 +46585,7 @@
         "forms" : [
           "brachte"
         ],
-        "note" : "Bringen (to bring), past tense.",
+        "note" : "Bringen (to bring), past tense. Separable: … mit = mitbringen, to bring along.",
         "pos" : "verb",
         "translation" : "brought"
       },
@@ -46664,7 +46664,7 @@
           "dachte",
           "dachten"
         ],
-        "note" : "Denken (to think), past tense — \"dachte\" (er/sie/es), \"dachten\" (sie/wir).",
+        "note" : "Denken (to think), past tense — \"dachte\" (er/sie/es), \"dachten\" (sie/wir). Separable: … nach = nachdenken, to think it over.",
         "pos" : "verb",
         "translation" : "thought"
       },
@@ -46772,7 +46772,7 @@
         "forms" : [
           "dazu"
         ],
-        "note" : "As in adding an ingredient.",
+        "note" : "As in adding an ingredient. At the end of a clause, „dazu“ is usually the detached half of a separable verb (dazugeben, dazuschreiben …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "to it, in addition"
       },
@@ -46930,7 +46930,7 @@
         "forms" : [
           "durch"
         ],
-        "note" : "Describes movement through something.",
+        "note" : "Describes movement through something. At the end of a clause, „durch“ is usually the detached half of a separable verb (durchhalten …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "through"
       },
@@ -46985,7 +46985,7 @@
           "einer",
           "eines"
         ],
-        "note" : "German's indefinite article changes form by case and gender.",
+        "note" : "German's indefinite article changes form by case and gender. At the end of a clause, „ein“ is usually the detached half of a separable verb (einatmen, einrühren, einschlafen …): the meaning is on the verb's card.",
         "pos" : "article",
         "translation" : "a, an"
       },
@@ -47369,7 +47369,7 @@
           "fuhr",
           "fuhren"
         ],
-        "note" : "Fahren (to drive/travel), past tense.",
+        "note" : "Fahren (to drive/travel), past tense. Separable: … fort = fortfahren, to continue.",
         "pos" : "verb",
         "translation" : "drove, traveled"
       },
@@ -47403,7 +47403,7 @@
         "forms" : [
           "fügt"
         ],
-        "note" : "(Hinzu)fügen (to add), \"er/sie/es\" form.",
+        "note" : "(Hinzu)fügen (to add), \"er/sie/es\" form. Separable: … hinzu = hinzufügen, to add.",
         "pos" : "verb",
         "translation" : "adds"
       },
@@ -47413,7 +47413,7 @@
           "fühlte",
           "fühlten"
         ],
-        "note" : "From (sich) fühlen (to feel).",
+        "note" : "From (sich) fühlen (to feel). Separable: … an = sich anfühlen, to feel (like).",
         "pos" : "verb",
         "translation" : "feels, felt"
       },
@@ -47424,7 +47424,7 @@
           "füllte",
           "füllten"
         ],
-        "note" : "Forms of füllen across tenses.",
+        "note" : "Forms of füllen across tenses. Separable: … um = umfüllen, to pour into another container.",
         "pos" : "verb",
         "translation" : "to fill"
       },
@@ -47449,7 +47449,7 @@
         "forms" : [
           "gab"
         ],
-        "note" : "Geben (to give), past tense — \"es gab\" means \"there was.\"",
+        "note" : "Geben (to give), past tense — \"es gab\" means \"there was.\" Separable: … dazu = dazugeben, to add; … hinzu = hinzugeben, to add.",
         "pos" : "verb",
         "translation" : "gave, was"
       },
@@ -47475,7 +47475,7 @@
         "forms" : [
           "geben"
         ],
-        "note" : "Infinitive of geben.",
+        "note" : "Infinitive of geben. Separable: … dazu = dazugeben, to add.",
         "pos" : "verb",
         "translation" : "to give"
       },
@@ -47533,7 +47533,7 @@
           "gehen",
           "geht"
         ],
-        "note" : "\"Gehen\" infinitive, \"geht\" er/sie/es form.",
+        "note" : "\"Gehen\" infinitive, \"geht\" er/sie/es form. Separable: … hin = hingehen, to go (somewhere); … weiter = weitergehen, to continue; … weg = weggehen, to go away.",
         "pos" : "verb",
         "translation" : "to go, walk"
       },
@@ -47914,7 +47914,7 @@
         "forms" : [
           "hin"
         ],
-        "note" : "As in \"genau hin\" (closely, precisely).",
+        "note" : "As in \"genau hin\" (closely, precisely). At the end of a clause, „hin“ is usually the detached half of a separable verb (hinschauen, sich hinsetzen, hingehen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "there, toward"
       },
@@ -47923,7 +47923,7 @@
           "hinein",
           "hineinlegt"
         ],
-        "note" : "\"Hinein\" describes motion inward; \"hineinlegt\" is a verb form of hineinlegen.",
+        "note" : "\"Hinein\" describes motion inward; \"hineinlegt\" is a verb form of hineinlegen. At the end of a clause, „hinein“ is usually the detached half of a separable verb (hineinlegen, hineinschütten, hineintauchen …): the meaning is on the verb's card.",
         "pos" : "other",
         "translation" : "into it / puts into"
       },
@@ -47931,7 +47931,7 @@
         "forms" : [
           "hinzu"
         ],
-        "note" : "As in adding something.",
+        "note" : "As in adding something. At the end of a clause, „hinzu“ is usually the detached half of a separable verb (hinzufügen, hinzugeben …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "in addition"
       },
@@ -47939,7 +47939,7 @@
         "forms" : [
           "hob"
         ],
-        "note" : "Heben (to lift), past tense.",
+        "note" : "Heben (to lift), past tense. Separable: … auf = aufheben, to pick up.",
         "pos" : "verb",
         "translation" : "lifted"
       },
@@ -48199,7 +48199,7 @@
         "forms" : [
           "kam"
         ],
-        "note" : "Kommen (to come), past tense.",
+        "note" : "Kommen (to come), past tense. Separable: … an = ankommen, to arrive; … zurück = zurückkommen, to come back.",
         "pos" : "verb",
         "translation" : "came"
       },
@@ -48327,7 +48327,7 @@
         "forms" : [
           "klingt"
         ],
-        "note" : "Klingen (to sound), \"er/sie/es\" form.",
+        "note" : "Klingen (to sound), \"er/sie/es\" form. Separable: … nach = nachklingen, to linger, to resonate.",
         "pos" : "verb",
         "translation" : "sounds"
       },
@@ -48495,7 +48495,7 @@
           "legen",
           "legte"
         ],
-        "note" : "\"Legen\" infinitive, \"legte\" past tense.",
+        "note" : "\"Legen\" infinitive, \"legte\" past tense. Separable: … hin = hinlegen, to put down; … weg = weglegen, to put away; … hinein = hineinlegen, to put in.",
         "pos" : "verb",
         "translation" : "to put, lay / put, laid"
       },
@@ -48558,7 +48558,7 @@
         "forms" : [
           "ließ"
         ],
-        "note" : "Lassen (to let), past tense.",
+        "note" : "Lassen (to let), past tense. Separable: … los = loslassen, to let go.",
         "pos" : "verb",
         "translation" : "let, allowed"
       },
@@ -48618,7 +48618,7 @@
         "forms" : [
           "lässt"
         ],
-        "note" : "Lassen (to let), \"er/sie/es\" form.",
+        "note" : "Lassen (to let), \"er/sie/es\" form. Separable: … zurück = zurücklassen, to leave behind.",
         "pos" : "verb",
         "translation" : "lets, leaves"
       },
@@ -48807,7 +48807,7 @@
         "forms" : [
           "mit"
         ],
-        "note" : "One of the most common German prepositions.",
+        "note" : "One of the most common German prepositions. At the end of a clause, „mit“ is usually the detached half of a separable verb (mitbringen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "with"
       },
@@ -48897,7 +48897,7 @@
           "nach",
           "nachdem"
         ],
-        "note" : "\"Nachdem\" introduces a time clause; \"nach\" is the simple preposition.",
+        "note" : "\"Nachdem\" introduces a time clause; \"nach\" is the simple preposition. At the end of a clause, „nach“ is usually the detached half of a separable verb (nachdenken, nachklingen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "after"
       },
@@ -49203,7 +49203,7 @@
         "forms" : [
           "probierte"
         ],
-        "note" : "Probieren (to try), past tense.",
+        "note" : "Probieren (to try), past tense. Separable: … aus = ausprobieren, to try out.",
         "pos" : "verb",
         "translation" : "tried"
       },
@@ -49374,7 +49374,7 @@
         "forms" : [
           "rührte"
         ],
-        "note" : "Rühren (to stir), past tense.",
+        "note" : "Rühren (to stir), past tense. Separable: … ein = einrühren, to stir in.",
         "pos" : "verb",
         "translation" : "stirred"
       },
@@ -49402,7 +49402,7 @@
         "forms" : [
           "sah"
         ],
-        "note" : "Sehen (to see), past tense.",
+        "note" : "Sehen (to see), past tense. Separable: … aus = aussehen, to look, to appear; … zu = zusehen, to watch.",
         "pos" : "verb",
         "translation" : "saw"
       },
@@ -49497,7 +49497,7 @@
         "forms" : [
           "schauen"
         ],
-        "note" : "Infinitive of schauen.",
+        "note" : "Infinitive of schauen. Separable: … an = anschauen, to look at; … hin = hinschauen, to look closely.",
         "pos" : "verb",
         "translation" : "to look"
       },
@@ -49534,7 +49534,7 @@
           "schlafen",
           "schlief"
         ],
-        "note" : "\"Schlaf\" (noun), \"schlafen\" (infinitive), \"schlief\" (past tense).",
+        "note" : "\"Schlaf\" (noun), \"schlafen\" (infinitive), \"schlief\" (past tense). Separable: … ein = einschlafen, to fall asleep.",
         "pos" : "noun",
         "translation" : "sleep / to sleep / slept"
       },
@@ -49558,7 +49558,7 @@
         "forms" : [
           "schmeckte"
         ],
-        "note" : "Schmecken (to taste), past tense.",
+        "note" : "Schmecken (to taste), past tense. Separable: … ab = abschmecken, to season to taste.",
         "pos" : "verb",
         "translation" : "tasted"
       },
@@ -49584,7 +49584,7 @@
           "schreiben",
           "schrieb"
         ],
-        "note" : "\"Schrieb\" is the past tense (ich/er/sie/es form).",
+        "note" : "\"Schrieb\" is the past tense (ich/er/sie/es form). Separable: … ab = abschreiben, to copy out; … auf = aufschreiben, to write down.",
         "pos" : "verb",
         "translation" : "to write; wrote"
       },
@@ -49673,7 +49673,7 @@
         "forms" : [
           "schüttete"
         ],
-        "note" : "Schütten (to pour), past tense.",
+        "note" : "Schütten (to pour), past tense. Separable: … hinein = hineinschütten, to pour in.",
         "pos" : "verb",
         "translation" : "poured"
       },
@@ -50324,7 +50324,7 @@
         "forms" : [
           "um"
         ],
-        "note" : "As in \"um die Berge\" (around the mountains) or \"um zu\" (in order to).",
+        "note" : "As in \"um die Berge\" (around the mountains) or \"um zu\" (in order to). At the end of a clause, „um“ is usually the detached half of a separable verb (umrühren, umdrehen, umfüllen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "around, in order to"
       },
@@ -50517,7 +50517,7 @@
           "vertrauen"
         ],
         "gender" : "neuter",
-        "note" : "Confidence in someone or something.",
+        "note" : "Confidence in someone or something. Separable: … an = anvertrauen, to entrust.",
         "pos" : "noun",
         "translation" : "trust"
       },
@@ -50585,7 +50585,7 @@
         "forms" : [
           "vor"
         ],
-        "note" : "Describes time or position.",
+        "note" : "Describes time or position. At the end of a clause, „vor“ is usually the detached half of a separable verb (vorlesen, sich vornehmen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "before, in front of"
       },
@@ -50670,7 +50670,7 @@
           "wege"
         ],
         "gender" : "masculine",
-        "note" : "\"Wege\" is the plural.",
+        "note" : "\"Wege\" is the plural. At the end of a clause, „weg“ is usually the detached half of a separable verb (wegwerfen, weglegen, weggehen …): the meaning is on the verb's card.",
         "pos" : "noun",
         "translation" : "way, path"
       },
@@ -50689,7 +50689,7 @@
           "weiter",
           "weitergeht"
         ],
-        "note" : "\"Weiter\" means \"further/on\"; \"weitergeht\" is a verb form of weitergehen (to continue).",
+        "note" : "\"Weiter\" means \"further/on\"; \"weitergeht\" is a verb form of weitergehen (to continue). At the end of a clause, „weiter“ is usually the detached half of a separable verb (weiterlaufen, weitergehen, weitersingen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "further, on / continues"
       },
@@ -50749,7 +50749,7 @@
         "forms" : [
           "wieder"
         ],
-        "note" : "Refers to repetition.",
+        "note" : "Refers to repetition. At the end of a clause, „wieder“ is usually the detached half of a separable verb (wiederkommen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "again"
       },
@@ -50928,7 +50928,7 @@
           "zum",
           "zur"
         ],
-        "note" : "\"Zum\" (zu + dem), \"zur\" (zu + der) — contractions.",
+        "note" : "\"Zum\" (zu + dem), \"zur\" (zu + der) — contractions. At the end of a clause, „zu“ is usually the detached half of a separable verb (zuhören, zusehen, zustimmen …): the meaning is on the verb's card.",
         "pos" : "preposition",
         "translation" : "to, too"
       },
@@ -50981,7 +50981,7 @@
           "zurück",
           "zurückgebracht"
         ],
-        "note" : "\"Zurück\" means \"back\"; \"zurückgebracht\" is the past participle of zurückbringen.",
+        "note" : "\"Zurück\" means \"back\"; \"zurückgebracht\" is the past participle of zurückbringen. At the end of a clause, „zurück“ is usually the detached half of a separable verb (zurückkommen, zurückgeben, zurücklassen …): the meaning is on the verb's card.",
         "pos" : "other",
         "translation" : "back / brought back"
       },
@@ -52151,7 +52151,7 @@
         "forms" : [
           "erkennt"
         ],
-        "note" : "Present tense of erkennen.",
+        "note" : "Present tense of erkennen. Separable: … an = anerkennen, to acknowledge.",
         "pos" : "verb",
         "translation" : "recognizes"
       },
@@ -52340,7 +52340,7 @@
         "forms" : [
           "fest"
         ],
-        "note" : "Also used adverbially.",
+        "note" : "Also used adverbially. At the end of a clause, „fest“ is usually the detached half of a separable verb (feststellen …): the meaning is on the verb's card.",
         "pos" : "adjective",
         "translation" : "firm, solid"
       },
@@ -52364,7 +52364,7 @@
         "forms" : [
           "fingen"
         ],
-        "note" : "Past tense of fangen/anfangen, plural.",
+        "note" : "Past tense of fangen/anfangen, plural. Separable: … an = anfangen, to begin.",
         "pos" : "verb",
         "translation" : "began, caught"
       },
@@ -52424,7 +52424,7 @@
           "fügen",
           "fügten"
         ],
-        "note" : "Present and past forms of (hinzu)fügen.",
+        "note" : "Present and past forms of (hinzu)fügen. Separable: … hinzu = hinzufügen, to add.",
         "pos" : "verb",
         "translation" : "add, added"
       },
@@ -52834,7 +52834,7 @@
         "forms" : [
           "hielt"
         ],
-        "note" : "Past tense of halten.",
+        "note" : "Past tense of halten. Separable: … aus = aushalten, to bear, to stand; … durch = durchhalten, to keep it up.",
         "pos" : "verb",
         "translation" : "held"
       },
@@ -53036,7 +53036,7 @@
         "forms" : [
           "kommt"
         ],
-        "note" : "Present tense of kommen.",
+        "note" : "Present tense of kommen. Separable: … heraus = herauskommen, to come out; … hinein = hineinkommen, to go in; … wieder = wiederkommen, to come back.",
         "pos" : "verb",
         "translation" : "comes"
       },
@@ -53171,7 +53171,7 @@
         "forms" : [
           "lassen"
         ],
-        "note" : "Infinitive of lassen.",
+        "note" : "Infinitive of lassen. Separable: … nieder = sich niederlassen, to settle down.",
         "pos" : "verb",
         "translation" : "to let, leave"
       },
@@ -53196,7 +53196,7 @@
         "forms" : [
           "legt"
         ],
-        "note" : "Present tense of legen.",
+        "note" : "Present tense of legen. Separable: … weg = weglegen, to put away; … hinein = hineinlegen, to put in.",
         "pos" : "verb",
         "translation" : "lays, puts"
       },
@@ -53255,7 +53255,7 @@
         "forms" : [
           "los"
         ],
-        "note" : "As in \"los sein\" (to be going on).",
+        "note" : "As in \"los sein\" (to be going on). At the end of a clause, „los“ is usually the detached half of a separable verb (loslassen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "loose, off"
       },
@@ -53449,7 +53449,7 @@
         "forms" : [
           "nehmen"
         ],
-        "note" : "Infinitive of nehmen.",
+        "note" : "Infinitive of nehmen. Separable: … heraus = herausnehmen, to take out.",
         "pos" : "verb",
         "translation" : "to take"
       },
@@ -53686,7 +53686,7 @@
           "reden",
           "redete"
         ],
-        "note" : "Past tense of reden.",
+        "note" : "Past tense of reden. Separable: … ein = sich einreden, to tell oneself.",
         "pos" : "verb",
         "translation" : "talked, spoke"
       },
@@ -53870,7 +53870,7 @@
         "forms" : [
           "schneiden"
         ],
-        "note" : "Infinitive of schneiden.",
+        "note" : "Infinitive of schneiden. Separable: … heraus = herausschneiden, to cut out.",
         "pos" : "verb",
         "translation" : "to cut"
       },
@@ -54038,7 +54038,7 @@
         "forms" : [
           "spricht"
         ],
-        "note" : "Present tense of sprechen.",
+        "note" : "Present tense of sprechen. Separable: … aus = aussprechen, to say out loud.",
         "pos" : "verb",
         "translation" : "speaks"
       },
@@ -54096,7 +54096,7 @@
         "forms" : [
           "stellte"
         ],
-        "note" : "Past tense of stellen.",
+        "note" : "Past tense of stellen. Separable: … ein = sich einstellen, to set in, to appear; … fest = feststellen, to notice, to find; … heraus = sich herausstellen, to turn out.",
         "pos" : "verb",
         "translation" : "placed, posed"
       },
@@ -54239,7 +54239,7 @@
           "trat",
           "traten"
         ],
-        "note" : "Past tense of treten, plural.",
+        "note" : "Past tense of treten, plural. Separable: … auf = auftreten, to occur.",
         "pos" : "verb",
         "translation" : "stepped, entered"
       },
@@ -54623,7 +54623,7 @@
         "forms" : [
           "wachsen"
         ],
-        "note" : "Infinitive of wachsen.",
+        "note" : "Infinitive of wachsen. Separable: … auf = aufwachsen, to grow up.",
         "pos" : "verb",
         "translation" : "to grow"
       },
@@ -55846,7 +55846,7 @@
         "forms" : [
           "gebe"
         ],
-        "note" : "Geben, \"ich\" form.",
+        "note" : "Geben, \"ich\" form. Separable: … zurück = zurückgeben, to give back.",
         "pos" : "verb",
         "translation" : "give"
       },
@@ -55946,7 +55946,7 @@
         "forms" : [
           "heraus"
         ],
-        "note" : "Movement outward — \"Wasser tropfte heraus\" (water dripped out).",
+        "note" : "Movement outward — \"Wasser tropfte heraus\" (water dripped out). At the end of a clause, „heraus“ is usually the detached half of a separable verb (herausnehmen, herauskommen, sich herausstellen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "out (of)"
       },
@@ -56151,7 +56151,7 @@
           "schaust",
           "schaute"
         ],
-        "note" : "Forms of schauen — \"schau\" is the imperative.",
+        "note" : "Forms of schauen — \"schau\" is the imperative. Separable: … an = anschauen, to look at.",
         "pos" : "verb",
         "translation" : "look"
       },
@@ -56276,7 +56276,7 @@
         "forms" : [
           "tropfte"
         ],
-        "note" : "Past tense of tropfen.",
+        "note" : "Past tense of tropfen. Separable: … heraus = heraustropfen, to drip out.",
         "pos" : "verb",
         "translation" : "dripped"
       },
@@ -56700,7 +56700,7 @@
         "forms" : [
           "atme"
         ],
-        "note" : "Atmen, imperative form.",
+        "note" : "Atmen, imperative form. Separable: … aus = ausatmen, to breathe out; … ein = einatmen, to breathe in.",
         "pos" : "verb",
         "translation" : "breathe!"
       },
@@ -57483,7 +57483,7 @@
         "forms" : [
           "drängt"
         ],
-        "note" : "Drängen, er/sie/es form.",
+        "note" : "Drängen, er/sie/es form. Separable: … zusammen = zusammendrängen, to crowd together.",
         "pos" : "verb",
         "translation" : "presses, crams together"
       },
@@ -58525,7 +58525,7 @@
           "greifen",
           "greift"
         ],
-        "note" : "Greift is er/sie/es form.",
+        "note" : "Greift is er/sie/es form. Separable: … zurück = zurückgreifen, to fall back on.",
         "pos" : "verb",
         "translation" : "to reach, to grasp"
       },
@@ -58607,7 +58607,7 @@
           "halte",
           "halten"
         ],
-        "note" : "Halten; halte is the imperative.",
+        "note" : "Halten; halte is the imperative. Separable: … an = anhalten, to hold (the breath); to stop.",
         "pos" : "verb",
         "translation" : "hold!; to hold"
       },
@@ -58771,7 +58771,7 @@
         "forms" : [
           "hält"
         ],
-        "note" : "Halten, er/sie/es form.",
+        "note" : "Halten, er/sie/es form. Separable: … an = anhalten, to persist, to last; … auf = aufhalten, to hold (a door) open.",
         "pos" : "verb",
         "translation" : "holds"
       },
@@ -58789,7 +58789,7 @@
         "forms" : [
           "hängt"
         ],
-        "note" : "Hängen, er/sie/es form — \"hängt davon ab\" = depends on.",
+        "note" : "Hängen, er/sie/es form — \"hängt davon ab\" = depends on. Separable: … ab = abhängen, to depend on.",
         "pos" : "verb",
         "translation" : "hangs, depends"
       },
@@ -58807,7 +58807,7 @@
           "hören",
           "hört"
         ],
-        "note" : "Hört is er/sie/es form.",
+        "note" : "Hört is er/sie/es form. Separable: … ab = abhören, to listen to (the heart, with a stethoscope); … auf = aufhören, to stop; … zu = zuhören, to listen.",
         "pos" : "verb",
         "translation" : "to hear; hears"
       },
@@ -58991,7 +58991,7 @@
         "forms" : [
           "kamen"
         ],
-        "note" : "Past tense of kommen, plural.",
+        "note" : "Past tense of kommen, plural. Separable: … zurück = zurückkommen, to come back.",
         "pos" : "verb",
         "translation" : "came"
       },
@@ -59076,7 +59076,7 @@
         "forms" : [
           "kommen"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive. Separable: … zurück = zurückkommen, to come back.",
         "pos" : "verb",
         "translation" : "to come"
       },
@@ -59273,7 +59273,7 @@
         "forms" : [
           "laufen"
         ],
-        "note" : "\"Weiter laufen\" = to keep running (of the mind).",
+        "note" : "\"Weiter laufen\" = to keep running (of the mind). Separable: … weiter = weiterlaufen, to keep running.",
         "pos" : "verb",
         "translation" : "to run"
       },
@@ -59333,7 +59333,7 @@
         "forms" : [
           "lockt"
         ],
-        "note" : "Locken, er/sie/es form.",
+        "note" : "Locken, er/sie/es form. Separable: … zurück = zurücklocken, to lure back.",
         "pos" : "verb",
         "translation" : "attracts, lures"
       },
@@ -59392,7 +59392,7 @@
         "forms" : [
           "läuft"
         ],
-        "note" : "Laufen, er/sie/es form.",
+        "note" : "Laufen, er/sie/es form. Separable: … weiter = weiterlaufen, to keep running.",
         "pos" : "verb",
         "translation" : "runs"
       },
@@ -59565,7 +59565,7 @@
           "mischen",
           "mischte"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive. Separable: … zusammen = zusammenmischen, to mix together.",
         "pos" : "verb",
         "translation" : "to mix"
       },
@@ -59695,7 +59695,7 @@
         "forms" : [
           "nahm"
         ],
-        "note" : "Past tense of nehmen.",
+        "note" : "Past tense of nehmen. Separable: … ab = abnehmen, to take (blood) from; … an = annehmen, to take on, to adopt; … vor = sich vornehmen, to resolve to.",
         "pos" : "verb",
         "translation" : "took"
       },
@@ -59754,7 +59754,7 @@
         "forms" : [
           "nieder"
         ],
-        "note" : "\"Sich niederlassen\" = to settle down.",
+        "note" : "\"Sich niederlassen\" = to settle down. At the end of a clause, „nieder“ is usually the detached half of a separable verb (sich niederlassen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "down"
       },
@@ -59912,7 +59912,7 @@
           "pflanzen",
           "pflanzt"
         ],
-        "note" : "Pflanzt is er/sie/es form; can also mean \"plants\" as a noun.",
+        "note" : "Pflanzt is er/sie/es form; can also mean \"plants\" as a noun. Separable: … zusammen = zusammenpflanzen, to plant close together.",
         "pos" : "verb",
         "translation" : "to plant; plants"
       },
@@ -60150,7 +60150,7 @@
         "forms" : [
           "rühren"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive. Separable: … ein = einrühren, to stir in; … um = umrühren, to stir; … zusammen = zusammenrühren, to stir together.",
         "pos" : "verb",
         "translation" : "to stir"
       },
@@ -60278,7 +60278,7 @@
           "schreib",
           "schreibt"
         ],
-        "note" : "Schreiben; schreib is the imperative, schreibt is er/sie/es.",
+        "note" : "Schreiben; schreib is the imperative, schreibt is er/sie/es. Separable: … auf = aufschreiben, to write down; … dazu = dazuschreiben, to add (in writing).",
         "pos" : "verb",
         "translation" : "write!, writes"
       },
@@ -60346,7 +60346,7 @@
           "setzt",
           "setzte"
         ],
-        "note" : "Setzt is er/sie/es form; setzte is past tense.",
+        "note" : "Setzt is er/sie/es form; setzte is past tense. Separable: … hin = sich hinsetzen, to sit down; … zusammen = zusammensetzen, to put together.",
         "pos" : "verb",
         "translation" : "to set, to sit; sets; set"
       },
@@ -60379,7 +60379,7 @@
           "singen",
           "singt"
         ],
-        "note" : "Singt is er/sie/es form.",
+        "note" : "Singt is er/sie/es form. Separable: … weiter = weitersingen, to keep singing.",
         "pos" : "verb",
         "translation" : "to sing; sings"
       },
@@ -60473,7 +60473,7 @@
         "forms" : [
           "stimmten"
         ],
-        "note" : "Past tense of zustimmen, plural.",
+        "note" : "Past tense of zustimmen, plural. Separable: … zu = zustimmen, to agree.",
         "pos" : "verb",
         "translation" : "agreed"
       },
@@ -60568,7 +60568,7 @@
         "forms" : [
           "tauchten"
         ],
-        "note" : "Past tense of tauchen/auftauchen, plural.",
+        "note" : "Past tense of tauchen/auftauchen, plural. Separable: … auf = auftauchen, to turn up, to appear.",
         "pos" : "verb",
         "translation" : "dived, appeared"
       },
@@ -60863,7 +60863,7 @@
         "forms" : [
           "verlangt"
         ],
-        "note" : "Verlangen, er/sie/es form.",
+        "note" : "Verlangen, er/sie/es form. Separable: … zurück = zurückverlangen, to demand back.",
         "pos" : "verb",
         "translation" : "demands, requires"
       },
@@ -61115,7 +61115,7 @@
         "forms" : [
           "wachte"
         ],
-        "note" : "Past tense of wachen/aufwachen.",
+        "note" : "Past tense of wachen/aufwachen. Separable: … auf = aufwachen, to wake up.",
         "pos" : "verb",
         "translation" : "woke"
       },
@@ -61365,7 +61365,7 @@
         "forms" : [
           "wog"
         ],
-        "note" : "Past tense of wiegen, used both literally and figuratively.",
+        "note" : "Past tense of wiegen, used both literally and figuratively. Separable: … ab = abwägen, to weigh up.",
         "pos" : "verb",
         "translation" : "weighed"
       },
@@ -61535,7 +61535,7 @@
         "forms" : [
           "zusammen"
         ],
-        "note" : "\"Ihn zusammen gepflanzt\" = planted it together.",
+        "note" : "\"Ihn zusammen gepflanzt\" = planted it together. At the end of a clause, „zusammen“ is usually the detached half of a separable verb (zusammenrühren, zusammenzählen, zusammensetzen …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "together"
       },
@@ -61981,7 +61981,7 @@
         "forms" : [
           "baue"
         ],
-        "note" : "First person of \"bauen.\"",
+        "note" : "First person of \"bauen.\" Separable: … an = anbauen, to grow, to cultivate.",
         "pos" : "verb",
         "translation" : "build (I)"
       },
@@ -62332,7 +62332,7 @@
           "deckt"
         ],
         "gender" : "feminine",
-        "note" : "Verb forms included.",
+        "note" : "Verb forms included. Separable: … ab = abdecken, to cover.",
         "pos" : "noun",
         "translation" : "ceiling; to cover; covers"
       },
@@ -62365,7 +62365,7 @@
         "forms" : [
           "deutet"
         ],
-        "note" : "From \"deuten.\"",
+        "note" : "From \"deuten.\" Separable: … hin = hindeuten, to point to.",
         "pos" : "verb",
         "translation" : "indicates, suggests"
       },
@@ -62785,7 +62785,7 @@
           "fort",
           "fortan"
         ],
-        "note" : "Adverbs included.",
+        "note" : "Adverbs included. At the end of a clause, „fort“ is usually the detached half of a separable verb (fortfahren …): the meaning is on the verb's card.",
         "pos" : "verb",
         "translation" : "to follow; onward; from now on"
       },
@@ -63451,7 +63451,7 @@
         "forms" : [
           "hörte"
         ],
-        "note" : "Past tense of \"hören.\"",
+        "note" : "Past tense of \"hören.\" Separable: … ab = abhören, to listen to (the heart, with a stethoscope).",
         "pos" : "verb",
         "translation" : "heard"
       },
@@ -64108,7 +64108,7 @@
           "nahen",
           "nahmen"
         ],
-        "note" : "Verb form is past tense plural of \"nehmen.\"",
+        "note" : "Verb form is past tense plural of \"nehmen.\" Separable: … heraus = herausnehmen, to take out.",
         "pos" : "adjective",
         "translation" : "near; took"
       },
@@ -64391,7 +64391,7 @@
           "reichen",
           "reiches"
         ],
-        "note" : "Verb form is \"reichen,\" to suffice.",
+        "note" : "Verb form is \"reichen,\" to suffice. Separable: … aus = ausreichen, to be enough.",
         "pos" : "adjective",
         "translation" : "rich; enough, suffice"
       },
@@ -64488,7 +64488,7 @@
         "forms" : [
           "sahen"
         ],
-        "note" : "Past tense plural of \"sehen.\"",
+        "note" : "Past tense plural of \"sehen.\" Separable: … aus = aussehen, to look, to appear.",
         "pos" : "verb",
         "translation" : "saw"
       },
@@ -64647,7 +64647,7 @@
         "forms" : [
           "sieht"
         ],
-        "note" : "From \"sehen.\"",
+        "note" : "From \"sehen.\" Separable: … aus = aussehen, to look, to appear.",
         "pos" : "verb",
         "translation" : "sees"
       },
@@ -64751,7 +64751,7 @@
           "stimmt",
           "stimmte"
         ],
-        "note" : "As in \"stimmt nicht,\" isn't right.",
+        "note" : "As in \"stimmt nicht,\" isn't right. Separable: … zu = zustimmen, to agree.",
         "pos" : "verb",
         "translation" : "is correct, is right"
       },
@@ -64811,7 +64811,7 @@
           "tauchen",
           "taucht"
         ],
-        "note" : "Forms of \"tauchen.\"",
+        "note" : "Forms of \"tauchen.\" Separable: … hinein = hineintauchen, to dip in.",
         "pos" : "verb",
         "translation" : "to dip; dips"
       },
@@ -66484,7 +66484,7 @@
           "drehen",
           "dreht"
         ],
-        "note" : "Drehen, \"er/sie/es\" form — the wind turning the blades.",
+        "note" : "Drehen, \"er/sie/es\" form — the wind turning the blades. Separable: … um = umdrehen, to turn over.",
         "pos" : "verb",
         "translation" : "turns"
       },
@@ -67119,7 +67119,7 @@
           "gezählt",
           "zählten"
         ],
-        "note" : "Zählen: past participle and preterite plural.",
+        "note" : "Zählen: past participle and preterite plural. Separable: … zusammen = zusammenzählen, to add up.",
         "pos" : "verb",
         "translation" : "counted"
       },
@@ -67245,7 +67245,7 @@
         "forms" : [
           "herum"
         ],
-        "note" : "\"Der Wind schiebt es herum\" = the wind pushes it around.",
+        "note" : "\"Der Wind schiebt es herum\" = the wind pushes it around. At the end of a clause, „herum“ is usually the detached half of a separable verb (herumschieben …): the meaning is on the verb's card.",
         "pos" : "adverb",
         "translation" : "around"
       },
@@ -67441,7 +67441,7 @@
         "forms" : [
           "klopft"
         ],
-        "note" : "Klopfen, \"er/sie/es\" form.",
+        "note" : "Klopfen, \"er/sie/es\" form. Separable: … an = anklopfen, to knock.",
         "pos" : "verb",
         "translation" : "knocks"
       },
@@ -67622,7 +67622,7 @@
         "forms" : [
           "liest"
         ],
-        "note" : "Lesen, \"er/sie/es\" form.",
+        "note" : "Lesen, \"er/sie/es\" form. Separable: … vor = vorlesen, to read aloud.",
         "pos" : "verb",
         "translation" : "reads"
       },
@@ -68174,7 +68174,7 @@
         "forms" : [
           "ruft"
         ],
-        "note" : "Rufen, \"er/sie/es\" form.",
+        "note" : "Rufen, \"er/sie/es\" form. Separable: … an = anrufen, to call (by phone).",
         "pos" : "verb",
         "translation" : "calls"
       },
@@ -68275,7 +68275,7 @@
         "forms" : [
           "schiebt"
         ],
-        "note" : "Schieben, \"er/sie/es\" form.",
+        "note" : "Schieben, \"er/sie/es\" form. Separable: … herum = herumschieben, to push around.",
         "pos" : "verb",
         "translation" : "pushes"
       },
@@ -68972,7 +68972,7 @@
         "forms" : [
           "wachen"
         ],
-        "note" : "Present plural of aufwachen (separable) — \"Sie wachen leicht auf\" = you wake up easily.",
+        "note" : "Present plural of aufwachen (separable) — \"Sie wachen leicht auf\" = you wake up easily. Separable: … auf = aufwachen, to wake up.",
         "pos" : "verb",
         "translation" : "wake up"
       },
@@ -69093,7 +69093,7 @@
         "forms" : [
           "wirft"
         ],
-        "note" : "Werfen, \"er/sie/es\" form — \"wirft einen Blick\" = casts a glance.",
+        "note" : "Werfen, \"er/sie/es\" form — \"wirft einen Blick\" = casts a glance. Separable: … weg = wegwerfen, to throw away.",
         "pos" : "verb",
         "translation" : "throws, casts"
       },
@@ -69885,7 +69885,7 @@
         "forms" : [
           "fiel"
         ],
-        "note" : "„Die Antwort fiel deutlicher aus\".",
+        "note" : "„Die Antwort fiel deutlicher aus\". Separable: … aus = ausfallen, to turn out.",
         "pos" : "verb",
         "translation" : "turned out (fiel aus)"
       },
@@ -70529,7 +70529,7 @@
         "forms" : [
           "merkten"
         ],
-        "note" : "„Merkten an\" = remarked.",
+        "note" : "„Merkten an\" = remarked. Separable: … an = anmerken, to remark.",
         "pos" : "verb",
         "translation" : "noted (they)"
       },
@@ -70770,7 +70770,7 @@
         "forms" : [
           "richtete"
         ],
-        "note" : "„Richtete sich für Stunden ein\".",
+        "note" : "„Richtete sich für Stunden ein\". Separable: … ein = sich einrichten, to settle in.",
         "pos" : "verb",
         "translation" : "settled in (richtete sich ein)"
       },
