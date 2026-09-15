@@ -317,3 +317,23 @@ blockquote { margin: 16px 0; padding: 4px 0 4px 18px; border-left: 3px solid var
   .hero h1 { font-size: 34px; }
   .section-title { font-size: 28px; }
 }
+
+/* Start: language → level → the story grows (home) */
+.start { display: grid; gap: 40px; }
+.start-step .num {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px; border-radius: 50%;
+  background: var(--accent-soft); color: var(--accent); font-weight: 700; margin-bottom: 10px;
+}
+.levels { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.level { background: var(--card, #fff); border: 1px solid var(--line, rgba(0,0,0,0.08)); border-radius: 16px; padding: 16px 18px; display: grid; gap: 6px; }
+.level b { color: var(--accent); font-size: 20px; }
+.level span { color: var(--muted); }
+.ladder { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; max-width: 60ch; }
+.ladder li { display: grid; grid-template-columns: 44px 1fr; gap: 12px; align-items: start; }
+.ladder .badge {
+  display: inline-flex; align-items: center; justify-content: center; height: 28px;
+  border-radius: 8px; background: var(--accent-soft); color: var(--accent); font-weight: 700; font-size: 14px;
+}
+.ladder p { margin: 3px 0 0; font-size: 18px; line-height: 1.45; }
+

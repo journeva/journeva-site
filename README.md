@@ -74,12 +74,20 @@ press Release in App Store Connect, make these two edits in `index.html` and pus
 
 1. The hero button: change
    `<a class="cta" href="support.html">Coming soon to the App Store</a>` to
-   `<a class="cta" href="https://apps.apple.com/app/id6808384465">Download on the App Store</a>`.
+   `<a class="cta" href="go/web.html">Download Journeva — free</a>`.
 2. Optionally add the same link to the `#pricing` section under the plans.
-3. In `ContentStudio/build_story_pages.py` set `LAUNCHED = True` and, once App
-   Analytics is available (a day or so after release), paste the provider token
-   from Analytics → Acquisition → Campaigns into `PROVIDER_TOKEN`; rerun the
-   script so every story page's button becomes an attributed App Store link.
+3. In `ContentStudio/build_story_pages.py` set `LAUNCHED = True`, run it **and**
+   `python3 ContentStudio/build_go_pages.py`: the story-page buttons and every
+   `go/<channel>.html` redirect now point at the App Store. A day or so after release,
+   paste the provider token from Analytics → Acquisition → Campaigns into
+   `PROVIDER_TOKEN` and rerun both scripts: every link becomes an attributed campaign
+   link (`?pt=…&ct=<channel>&mt=8`) without touching anything already posted.
+
+`go/` is the attribution layer (added 2026-09-15): `journeva.app/go/tiktok`,
+`/go/instagram`, `/go/youtube`, `/go/facebook`, `/go/linkedin`, `/go/reddit`, `/go/hn`,
+`/go/producthunt`, `/go/press`, `/go/creator`, `/go/share`, `/go/email`, `/go/web`,
+`/go/testflight`. Bios, captions, posts and e-mails use those and never a raw store
+URL; before launch they all go to the homepage. No scripts: a meta refresh and a link.
 
 The `apple-itunes-app` meta tag on `index.html` and `support.html` is already in
 place: once the app is live, Safari on iPhone shows Apple's Smart App Banner at the
