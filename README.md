@@ -74,7 +74,7 @@ press Release in App Store Connect, make these two edits in `index.html` and pus
 
 1. The hero button: change
    `<a class="cta" href="support.html">Coming soon to the App Store</a>` to
-   `<a class="cta" href="go/web.html">Download Journeva — free</a>`.
+   `<a class="cta" href="go/web.html">Download Journeva</a>`.
 2. Optionally add the same link to the `#pricing` section under the plans.
 3. In `ContentStudio/build_story_pages.py` set `LAUNCHED = True`, run it **and**
    `python3 ContentStudio/build_go_pages.py`: the story-page buttons and every
