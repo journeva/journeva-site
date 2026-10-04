@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 5,
-  "generatedAt" : "2026-09-27",
+  "contentVersion" : 6,
+  "generatedAt" : "2026-10-05",
   "glossary" : {
     "english" : [
       {
@@ -6390,7 +6390,8 @@
       },
       {
         "forms" : [
-          "team"
+          "team",
+          "team's"
         ],
         "note" : "As in \"the small team.\"",
         "pos" : "noun",
@@ -10905,6 +10906,7 @@
       {
         "forms" : [
           "recover",
+          "recovered",
           "recovering",
           "recovery"
         ],
@@ -21115,7 +21117,8 @@
       },
       {
         "forms" : [
-          "wins"
+          "wins",
+          "won"
         ],
         "note" : "Present simple with it: \"the music wins\" = the music is the stronger of the two; the past is won.",
         "pos" : "verb",
@@ -21241,6 +21244,601 @@
         "note" : "\"A wish to rest\" = wanting to rest; the verb wish means to want.",
         "pos" : "noun",
         "translation" : "a strong want"
+      },
+      {
+        "forms" : [
+          "1972"
+        ],
+        "note" : "The year of Chile's last human case of rabies from a dog.",
+        "pos" : "number",
+        "translation" : "1972"
+      },
+      {
+        "forms" : [
+          "achievement"
+        ],
+        "note" : "From achieve: to do something hard successfully.",
+        "pos" : "noun",
+        "translation" : "something difficult done well"
+      },
+      {
+        "forms" : [
+          "bite"
+        ],
+        "note" : "A dog's bite is the way rabies passes to people.",
+        "pos" : "noun",
+        "translation" : "the mark or injury from teeth; to cut with teeth"
+      },
+      {
+        "forms" : [
+          "case"
+        ],
+        "note" : "\"The last case\" means the last person who caught it.",
+        "pos" : "noun",
+        "translation" : "one person who has an illness"
+      },
+      {
+        "forms" : [
+          "cats"
+        ],
+        "note" : "Plural of cat.",
+        "pos" : "noun",
+        "translation" : "small furry pets"
+      },
+      {
+        "forms" : [
+          "certificate"
+        ],
+        "note" : "The WHO gave Chile a certificate.",
+        "pos" : "noun",
+        "translation" : "an official paper that proves something"
+      },
+      {
+        "forms" : [
+          "certified"
+        ],
+        "note" : "Past tense of certify: to say officially that something is true.",
+        "pos" : "verb",
+        "translation" : "confirmed officially"
+      },
+      {
+        "forms" : [
+          "chile"
+        ],
+        "note" : "A country in South America.",
+        "pos" : "noun",
+        "translation" : "Chile"
+      },
+      {
+        "forms" : [
+          "chile's"
+        ],
+        "note" : "The 's shows that something belongs to Chile.",
+        "pos" : "noun",
+        "translation" : "of Chile"
+      },
+      {
+        "forms" : [
+          "delay"
+        ],
+        "note" : "\"Without delay\" means at once.",
+        "pos" : "noun",
+        "translation" : "waiting; a late start"
+      },
+      {
+        "forms" : [
+          "dies"
+        ],
+        "note" : "Present tense, he/she/it form of die; the past is died.",
+        "pos" : "verb",
+        "translation" : "stops living"
+      },
+      {
+        "forms" : [
+          "dog"
+        ],
+        "note" : "Dogs can pass rabies on through a bite.",
+        "pos" : "noun",
+        "translation" : "a common pet animal"
+      },
+      {
+        "forms" : [
+          "dog's"
+        ],
+        "note" : "The 's shows that the bite belongs to the dog.",
+        "pos" : "noun",
+        "translation" : "of a dog"
+      },
+      {
+        "forms" : [
+          "dog-transmitted"
+        ],
+        "note" : "A compound: dog + transmitted (passed on from one to another).",
+        "pos" : "adjective",
+        "translation" : "passed on by dogs"
+      },
+      {
+        "forms" : [
+          "eliminating"
+        ],
+        "note" : "From eliminate: to get rid of something entirely.",
+        "pos" : "verb",
+        "translation" : "removing completely"
+      },
+      {
+        "forms" : [
+          "elimination"
+        ],
+        "note" : "The noun for eliminate.",
+        "pos" : "noun",
+        "translation" : "removing something completely"
+      },
+      {
+        "forms" : [
+          "fatal"
+        ],
+        "note" : "Almost always fatal means nearly everyone who gets it dies.",
+        "pos" : "adjective",
+        "translation" : "causing death"
+      },
+      {
+        "forms" : [
+          "geneva"
+        ],
+        "note" : "A city in Switzerland where the World Health Organization has its headquarters.",
+        "pos" : "noun",
+        "translation" : "Geneva"
+      },
+      {
+        "forms" : [
+          "invisible"
+        ],
+        "note" : "In- (not) + visible (can be seen).",
+        "pos" : "adjective",
+        "translation" : "not able to be seen"
+      },
+      {
+        "forms" : [
+          "leprosy"
+        ],
+        "note" : "Chile was the first country in the Americas verified to have eliminated it, in 2026.",
+        "pos" : "noun",
+        "translation" : "a long-lasting disease of the skin and nerves"
+      },
+      {
+        "forms" : [
+          "luck"
+        ],
+        "note" : "\"Did not wait for luck\" means did the work instead.",
+        "pos" : "noun",
+        "translation" : "good things that happen by chance"
+      },
+      {
+        "forms" : [
+          "rabies"
+        ],
+        "note" : "Passed on through a bite; almost always fatal once symptoms start.",
+        "pos" : "noun",
+        "translation" : "a deadly virus disease that dogs can pass on"
+      },
+      {
+        "forms" : [
+          "santiago"
+        ],
+        "note" : "The capital city of Chile.",
+        "pos" : "noun",
+        "translation" : "Santiago"
+      },
+      {
+        "forms" : [
+          "somebody"
+        ],
+        "note" : "The same as someone, a little less formal.",
+        "pos" : "pronoun",
+        "translation" : "some person"
+      },
+      {
+        "forms" : [
+          "strange"
+        ],
+        "note" : "\"The strange thing\" introduces a surprising fact.",
+        "pos" : "adjective",
+        "translation" : "unusual and a little surprising"
+      },
+      {
+        "forms" : [
+          "surveillance"
+        ],
+        "note" : "Health surveillance means watching for new cases.",
+        "pos" : "noun",
+        "translation" : "careful watching for signs of something"
+      },
+      {
+        "forms" : [
+          "symptoms"
+        ],
+        "note" : "Plural of symptom.",
+        "pos" : "noun",
+        "translation" : "signs that a person is ill"
+      },
+      {
+        "forms" : [
+          "tens"
+        ],
+        "note" : "\"Tens of thousands\" means many ten-thousands, so 20,000, 30,000 and more.",
+        "pos" : "noun",
+        "translation" : "groups of ten"
+      },
+      {
+        "forms" : [
+          "treated"
+        ],
+        "note" : "Past tense of treat.",
+        "pos" : "verb",
+        "translation" : "gave medical care to"
+      },
+      {
+        "forms" : [
+          "treating"
+        ],
+        "note" : "The -ing form of treat.",
+        "pos" : "verb",
+        "translation" : "giving medical care to"
+      },
+      {
+        "forms" : [
+          "vaccinated"
+        ],
+        "note" : "Past tense of vaccinate.",
+        "pos" : "verb",
+        "translation" : "gave a vaccine to"
+      },
+      {
+        "forms" : [
+          "vaccinates"
+        ],
+        "note" : "Present tense, he/she/it form of vaccinate.",
+        "pos" : "verb",
+        "translation" : "gives a vaccine to"
+      },
+      {
+        "forms" : [
+          "vaccination"
+        ],
+        "note" : "The noun for vaccinate.",
+        "pos" : "noun",
+        "translation" : "giving a vaccine"
+      },
+      {
+        "forms" : [
+          "vaccinators"
+        ],
+        "note" : "Vaccinate + -or: the person who does it.",
+        "pos" : "noun",
+        "translation" : "people who give vaccines"
+      },
+      {
+        "forms" : [
+          "vaccines"
+        ],
+        "note" : "Plural of vaccine.",
+        "pos" : "noun",
+        "translation" : "medicines that protect against a disease"
+      },
+      {
+        "forms" : [
+          "validated"
+        ],
+        "note" : "Past participle of validate: to confirm officially.",
+        "pos" : "verb",
+        "translation" : "officially confirmed as correct"
+      },
+      {
+        "forms" : [
+          "washington"
+        ],
+        "note" : "The US capital, where the Pan American Health Organization has its office.",
+        "pos" : "noun",
+        "translation" : "Washington"
+      },
+      {
+        "forms" : [
+          "1"
+        ],
+        "note" : "In \"Formula 1\" the number is said \"one\": Formula One.",
+        "pos" : "number",
+        "translation" : "one"
+      },
+      {
+        "forms" : [
+          "2.3"
+        ],
+        "note" : "A decimal number: English writes a point and says \"two point three seconds\".",
+        "pos" : "number",
+        "translation" : "two point three"
+      },
+      {
+        "forms" : [
+          "2017"
+        ],
+        "note" : "The year of the last Formula 1 race at Sepang before 2026; said \"twenty seventeen\".",
+        "pos" : "number",
+        "translation" : "2017"
+      },
+      {
+        "forms" : [
+          "4"
+        ],
+        "note" : "In a date, \"4 October\" is said \"the fourth of October\".",
+        "pos" : "number",
+        "translation" : "four; the fourth"
+      },
+      {
+        "forms" : [
+          "84"
+        ],
+        "note" : "Antonelli's lead in championship points after this race.",
+        "pos" : "number",
+        "translation" : "eighty-four"
+      },
+      {
+        "forms" : [
+          "antonelli",
+          "antonelli's"
+        ],
+        "note" : "Kimi Antonelli, an Italian driver for the Mercedes team. \"Antonelli's\" = belonging to Antonelli.",
+        "pos" : "noun",
+        "translation" : "Antonelli"
+      },
+      {
+        "forms" : [
+          "bahrain"
+        ],
+        "note" : "A small country in the Persian Gulf. Its Grand Prix took place in Malaysia in 2026.",
+        "pos" : "noun",
+        "translation" : "Bahrain"
+      },
+      {
+        "forms" : [
+          "bull",
+          "bull's"
+        ],
+        "note" : "Red Bull is the name of Max Verstappen's racing team. \"Red Bull's\" = belonging to Red Bull.",
+        "pos" : "noun",
+        "translation" : "Bull (in \"Red Bull\")"
+      },
+      {
+        "forms" : [
+          "championship"
+        ],
+        "note" : "The driver with the most points at the end of the season wins the championship.",
+        "pos" : "noun",
+        "translation" : "a competition to find the best over a whole season"
+      },
+      {
+        "forms" : [
+          "ferrari"
+        ],
+        "note" : "An Italian racing team; Lewis Hamilton drives for it.",
+        "pos" : "noun",
+        "translation" : "Ferrari"
+      },
+      {
+        "forms" : [
+          "field"
+        ],
+        "note" : "In sport, \"the field\" is everyone taking part. A safety car closes the field up: the cars come close together.",
+        "pos" : "noun",
+        "translation" : "all the cars in a race"
+      },
+      {
+        "forms" : [
+          "formula"
+        ],
+        "note" : "Formula 1 is the top class of car racing in the world.",
+        "pos" : "noun",
+        "translation" : "Formula (in \"Formula 1\")"
+      },
+      {
+        "forms" : [
+          "grand"
+        ],
+        "note" : "\"Grand Prix\" is French for \"big prize\": the name for a Formula 1 race.",
+        "pos" : "noun",
+        "translation" : "Grand (in \"Grand Prix\")"
+      },
+      {
+        "forms" : [
+          "grid"
+        ],
+        "note" : "The cars line up on the grid before the start. \"First on the grid\" = in the first starting place.",
+        "pos" : "noun",
+        "translation" : "the starting places of the cars"
+      },
+      {
+        "forms" : [
+          "hamilton"
+        ],
+        "note" : "Lewis Hamilton, a British driver for the Ferrari team.",
+        "pos" : "noun",
+        "translation" : "Hamilton"
+      },
+      {
+        "forms" : [
+          "kimi"
+        ],
+        "note" : "The first name of the driver Kimi Antonelli.",
+        "pos" : "noun",
+        "translation" : "Kimi"
+      },
+      {
+        "forms" : [
+          "laps"
+        ],
+        "note" : "Plural of lap. A race has a fixed number of laps.",
+        "pos" : "noun",
+        "translation" : "full trips around the track"
+      },
+      {
+        "forms" : [
+          "lead"
+        ],
+        "note" : "A noun here: \"his lead has grown to 84 points\" = he is now 84 points ahead.",
+        "pos" : "noun",
+        "translation" : "the first place; how far ahead someone is"
+      },
+      {
+        "forms" : [
+          "lewis"
+        ],
+        "note" : "The first name of the driver Lewis Hamilton.",
+        "pos" : "noun",
+        "translation" : "Lewis"
+      },
+      {
+        "forms" : [
+          "malaysia"
+        ],
+        "note" : "A country in South-East Asia. The Sepang track is there.",
+        "pos" : "noun",
+        "translation" : "Malaysia"
+      },
+      {
+        "forms" : [
+          "mercedes"
+        ],
+        "note" : "A racing team; Kimi Antonelli and George Russell drive for it.",
+        "pos" : "noun",
+        "translation" : "Mercedes"
+      },
+      {
+        "forms" : [
+          "ninety"
+        ],
+        "note" : "Ninety minutes is an hour and a half.",
+        "pos" : "number",
+        "translation" : "90"
+      },
+      {
+        "forms" : [
+          "october"
+        ],
+        "note" : "Months are written with a capital letter in English.",
+        "pos" : "noun",
+        "translation" : "the tenth month of the year"
+      },
+      {
+        "forms" : [
+          "overtook"
+        ],
+        "note" : "Past tense of overtake: over + take. Irregular like take → took.",
+        "pos" : "verb",
+        "translation" : "passed a car that was in front"
+      },
+      {
+        "forms" : [
+          "points"
+        ],
+        "note" : "The winner of a race gets 25 points. Points are added up over the season.",
+        "pos" : "noun",
+        "translation" : "the numbers a driver wins for a good result"
+      },
+      {
+        "forms" : [
+          "prix"
+        ],
+        "note" : "A French word, said \"pree\". A Grand Prix is a Formula 1 race.",
+        "pos" : "noun",
+        "translation" : "Prix (in \"Grand Prix\")"
+      },
+      {
+        "forms" : [
+          "race",
+          "races"
+        ],
+        "note" : "The plural is races. \"Seven races left\" = seven more to come.",
+        "pos" : "noun",
+        "translation" : "a competition to see who is fastest"
+      },
+      {
+        "forms" : [
+          "rains"
+        ],
+        "note" : "The verb is used with \"it\": it rains. \"It rains a lot\" = much rain falls.",
+        "pos" : "verb",
+        "translation" : "water falls from the sky"
+      },
+      {
+        "forms" : [
+          "russell"
+        ],
+        "note" : "George Russell, a British driver for the Mercedes team.",
+        "pos" : "noun",
+        "translation" : "Russell"
+      },
+      {
+        "forms" : [
+          "safety"
+        ],
+        "note" : "A safety car drives in front of the racing cars to slow them down when the track is dangerous.",
+        "pos" : "noun",
+        "translation" : "being safe from danger"
+      },
+      {
+        "forms" : [
+          "sepang"
+        ],
+        "note" : "A racing track in Malaysia, near Kuala Lumpur.",
+        "pos" : "noun",
+        "translation" : "Sepang"
+      },
+      {
+        "forms" : [
+          "singapore"
+        ],
+        "note" : "A city and country in South-East Asia, with a Formula 1 race on its streets.",
+        "pos" : "noun",
+        "translation" : "Singapore"
+      },
+      {
+        "forms" : [
+          "torrential"
+        ],
+        "note" : "Used almost only with rain: torrential rain falls fast and in great amounts.",
+        "pos" : "adjective",
+        "translation" : "very heavy (of rain)"
+      },
+      {
+        "forms" : [
+          "track"
+        ],
+        "note" : "A racing track is a closed road built for races. The plural is tracks.",
+        "pos" : "noun",
+        "translation" : "the road that the cars race on"
+      },
+      {
+        "forms" : [
+          "verstappen"
+        ],
+        "note" : "Max Verstappen, a Dutch driver for the Red Bull team.",
+        "pos" : "noun",
+        "translation" : "Verstappen"
+      },
+      {
+        "forms" : [
+          "victory"
+        ],
+        "note" : "A more formal word for win. The plural is victories.",
+        "pos" : "noun",
+        "translation" : "a win"
+      },
+      {
+        "forms" : [
+          "win"
+        ],
+        "note" : "A noun here: \"his first win\". The verb is the same word: to win.",
+        "pos" : "noun",
+        "translation" : "a first place in a race or game"
       }
     ],
     "french" : [
@@ -21642,7 +22240,8 @@
       },
       {
         "forms" : [
-          "place"
+          "place",
+          "places"
         ],
         "gender" : "feminine",
         "note" : "Here it means available space, as in \"no more room.\"",
@@ -23179,6 +23778,7 @@
       },
       {
         "forms" : [
+          "dangereuse",
           "dangereux"
         ],
         "gender" : "masculine",
@@ -23489,7 +24089,11 @@
       },
       {
         "forms" : [
-          "dépassant"
+          "dépassant",
+          "dépasse",
+          "dépassent",
+          "dépassé",
+          "dépassés"
         ],
         "note" : "Present participle of dépasser.",
         "pos" : "verb",
@@ -25705,7 +26309,8 @@
       },
       {
         "forms" : [
-          "rattrape"
+          "rattrape",
+          "rattrapé"
         ],
         "note" : "Rattraper (to catch up), \"il/elle\" form.",
         "pos" : "verb",
@@ -26101,6 +26706,7 @@
       },
       {
         "forms" : [
+          "signifiait",
           "signifie"
         ],
         "note" : "Signifier (to mean), \"il/elle\" form.",
@@ -26729,6 +27335,7 @@
       },
       {
         "forms" : [
+          "voiture",
           "voitures"
         ],
         "gender" : "feminine",
@@ -29720,6 +30327,7 @@
       },
       {
         "forms" : [
+          "partait",
           "parti",
           "partir"
         ],
@@ -29823,6 +30431,7 @@
       },
       {
         "forms" : [
+          "piste",
           "pistes"
         ],
         "gender" : "feminine",
@@ -30972,7 +31581,8 @@
       {
         "forms" : [
           "suivi",
-          "suivie"
+          "suivie",
+          "suivit"
         ],
         "note" : "Past participle of suivre.",
         "pos" : "verb",
@@ -31126,6 +31736,7 @@
       },
       {
         "forms" : [
+          "termina",
           "terminer"
         ],
         "note" : "Infinitive of terminer.",
@@ -34762,7 +35373,8 @@
       {
         "forms" : [
           "gratuit",
-          "gratuite"
+          "gratuite",
+          "gratuits"
         ],
         "note" : "Gratuite is feminine.",
         "pos" : "adjective",
@@ -36128,7 +36740,8 @@
       },
       {
         "forms" : [
-          "point"
+          "point",
+          "points"
         ],
         "gender" : "masculine",
         "note" : "\"Le point central\" = the main point.",
@@ -39000,6 +39613,7 @@
       },
       {
         "forms" : [
+          "débuta",
           "débute"
         ],
         "note" : "From \"débuter.\"",
@@ -39567,6 +40181,7 @@
       },
       {
         "forms" : [
+          "humain",
           "humains"
         ],
         "note" : "From \"humain.\"",
@@ -41630,6 +42245,7 @@
       {
         "forms" : [
           "sien",
+          "sienne",
           "siennes"
         ],
         "note" : "Possessive pronoun.",
@@ -41868,7 +42484,8 @@
       },
       {
         "forms" : [
-          "tomber"
+          "tomber",
+          "tombée"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -46073,7 +46690,8 @@
       },
       {
         "forms" : [
-          "apparaissaient"
+          "apparaissaient",
+          "apparaissent"
         ],
         "note" : "Imparfait de « apparaître », 3e personne du pluriel.",
         "pos" : "verb",
@@ -47067,6 +47685,7 @@
       {
         "forms" : [
           "meurent",
+          "meurt",
           "mort",
           "mourait",
           "mourir",
@@ -47777,6 +48396,7 @@
       },
       {
         "forms" : [
+          "transmet",
           "transmettent",
           "transmise"
         ],
@@ -47795,7 +48415,8 @@
       },
       {
         "forms" : [
-          "vaccin"
+          "vaccin",
+          "vaccins"
         ],
         "gender" : "masculine",
         "note" : "« Un vaccin contre le paludisme ».",
@@ -48122,7 +48743,8 @@
       },
       {
         "forms" : [
-          "prochain"
+          "prochain",
+          "prochaine"
         ],
         "note" : "« Son prochain rendez-vous »; before the noun it means the next one in a series.",
         "pos" : "adjective",
@@ -49597,7 +50219,8 @@
       },
       {
         "forms" : [
-          "gagne"
+          "gagne",
+          "gagné"
         ],
         "note" : "Present of gagner: « la musique gagne » = the music wins; also means to earn.",
         "pos" : "verb",
@@ -49801,6 +50424,7 @@
       },
       {
         "forms" : [
+          "soignaient",
           "soignent",
           "soigné"
         ],
@@ -50185,6 +50809,626 @@
         "note" : "Present of embaumer: « leur odeur embaume la maison » = their smell fills the house.",
         "pos" : "verb",
         "translation" : "fills with its scent"
+      },
+      {
+        "forms" : [
+          "1972"
+        ],
+        "note" : "The year of the last human rabies death in Chile.",
+        "pos" : "number",
+        "translation" : "1972"
+      },
+      {
+        "forms" : [
+          "rage"
+        ],
+        "gender" : "feminine",
+        "note" : "A deadly virus passed on by animal bites; « la rage » always takes the article.",
+        "pos" : "noun",
+        "translation" : "rabies"
+      },
+      {
+        "forms" : [
+          "chien"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un chien » = a dog; « à cause d'un chien » = because of a dog.",
+        "pos" : "noun",
+        "translation" : "dog"
+      },
+      {
+        "forms" : [
+          "chats"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « chat » (cat); « les chiens et les chats » = dogs and cats.",
+        "pos" : "noun",
+        "translation" : "cats"
+      },
+      {
+        "forms" : [
+          "chili"
+        ],
+        "gender" : "masculine",
+        "note" : "The country in South America; written « le Chili » in French, with the article.",
+        "pos" : "noun",
+        "translation" : "Chile"
+      },
+      {
+        "forms" : [
+          "asie"
+        ],
+        "gender" : "feminine",
+        "note" : "The continent; « en Asie » = in Asia, with « en » before a feminine continent.",
+        "pos" : "noun",
+        "translation" : "Asia"
+      },
+      {
+        "forms" : [
+          "santiago"
+        ],
+        "note" : "The capital of Chile.",
+        "pos" : "noun",
+        "translation" : "Santiago"
+      },
+      {
+        "forms" : [
+          "washington"
+        ],
+        "note" : "The US capital, where the WHO's regional office for the Americas sits.",
+        "pos" : "noun",
+        "translation" : "Washington"
+      },
+      {
+        "forms" : [
+          "genève"
+        ],
+        "note" : "The Swiss city where the World Health Organization has its headquarters.",
+        "pos" : "noun",
+        "translation" : "Geneva"
+      },
+      {
+        "forms" : [
+          "certificat"
+        ],
+        "gender" : "masculine",
+        "note" : "A document that proves something officially.",
+        "pos" : "noun",
+        "translation" : "certificate"
+      },
+      {
+        "forms" : [
+          "certifié"
+        ],
+        "note" : "Past participle of certifier; « a certifié » is the passé composé, « the WHO has certified ».",
+        "pos" : "verb",
+        "translation" : "certified"
+      },
+      {
+        "forms" : [
+          "morsure",
+          "morsures"
+        ],
+        "gender" : "feminine",
+        "note" : "« La morsure d'un chien » = a dog's bite; the plural adds -s.",
+        "pos" : "noun",
+        "translation" : "bite, bites"
+      },
+      {
+        "forms" : [
+          "vaccine",
+          "vacciné"
+        ],
+        "note" : "Present and past participle of vacciner: « Le Chili vaccine ses chiens »; « a vacciné » is the passé composé.",
+        "pos" : "verb",
+        "translation" : "vaccinates; vaccinated"
+      },
+      {
+        "forms" : [
+          "vaccinateurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Workers who give vaccinations; the plural adds -s.",
+        "pos" : "noun",
+        "translation" : "vaccinators, people who give vaccines"
+      },
+      {
+        "forms" : [
+          "vaccination"
+        ],
+        "gender" : "feminine",
+        "note" : "The act of vaccinating; nouns in -tion are feminine in French.",
+        "pos" : "noun",
+        "translation" : "vaccination"
+      },
+      {
+        "forms" : [
+          "demi-siècle"
+        ],
+        "gender" : "masculine",
+        "note" : "A hyphenated compound: demi- (half) + siècle (century); « un demi-siècle » = fifty years.",
+        "pos" : "noun",
+        "translation" : "half-century"
+      },
+      {
+        "forms" : [
+          "invisible"
+        ],
+        "note" : "Same form for masculine and feminine: « le résultat était invisible ».",
+        "pos" : "adjective",
+        "translation" : "invisible"
+      },
+      {
+        "forms" : [
+          "lèpre"
+        ],
+        "gender" : "feminine",
+        "note" : "An ancient disease that the WHO also validated as eliminated in Chile in 2026.",
+        "pos" : "noun",
+        "translation" : "leprosy"
+      },
+      {
+        "forms" : [
+          "mortelle"
+        ],
+        "note" : "Feminine of « mortel », agreeing with « rage ».",
+        "pos" : "adjective",
+        "translation" : "deadly, fatal (feminine)"
+      },
+      {
+        "forms" : [
+          "symptômes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « symptôme », a sign of a disease.",
+        "pos" : "noun",
+        "translation" : "symptoms"
+      },
+      {
+        "forms" : [
+          "validé"
+        ],
+        "note" : "Past participle of valider used as an adjective: « validé pour l'élimination » = validated for the elimination.",
+        "pos" : "adjective",
+        "translation" : "validated"
+      },
+      {
+        "forms" : [
+          "l'élimination",
+          "élimination"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns in -tion are feminine; « l'élimination » is « la » shortened before a vowel.",
+        "pos" : "noun",
+        "translation" : "elimination"
+      },
+      {
+        "forms" : [
+          "succès"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine; the -s is the same in singular and plural.",
+        "pos" : "noun",
+        "translation" : "success"
+      },
+      {
+        "forms" : [
+          "là-bas"
+        ],
+        "note" : "A hyphenated token: là (there) + bas (down); « personne là-bas » = nobody there.",
+        "pos" : "adverb",
+        "translation" : "over there"
+      },
+      {
+        "forms" : [
+          "routine"
+        ],
+        "gender" : "feminine",
+        "note" : "Same word as in English, with a French pronunciation.",
+        "pos" : "noun",
+        "translation" : "routine"
+      },
+      {
+        "forms" : [
+          "surveillance"
+        ],
+        "gender" : "feminine",
+        "note" : "Close and constant watching; a feminine noun.",
+        "pos" : "noun",
+        "translation" : "surveillance, monitoring"
+      },
+      {
+        "forms" : [
+          "constante"
+        ],
+        "note" : "Feminine of « constant », agreeing with « surveillance ».",
+        "pos" : "adjective",
+        "translation" : "constant (feminine)"
+      },
+      {
+        "forms" : [
+          "contractée"
+        ],
+        "note" : "Past participle of contracter used as an adjective: « la rage contractée » = rabies caught; it agrees with « rage ».",
+        "pos" : "verb",
+        "translation" : "caught, contracted (feminine)"
+      },
+      {
+        "forms" : [
+          "délai"
+        ],
+        "gender" : "masculine",
+        "note" : "« Sans délai » = without delay, immediately.",
+        "pos" : "noun",
+        "translation" : "delay"
+      },
+      {
+        "forms" : [
+          "jadis"
+        ],
+        "note" : "A literary word for « autrefois »: « jadis la peur » = fear in the old days.",
+        "pos" : "adverb",
+        "translation" : "long ago, once"
+      },
+      {
+        "forms" : [
+          "d'étrange"
+        ],
+        "note" : "Contraction of « de » + « étrange »: « ce qu'il y a d'étrange » = what is strange.",
+        "pos" : "other",
+        "translation" : "of strangeness, strange"
+      },
+      {
+        "forms" : [
+          "l'exploit"
+        ],
+        "gender" : "masculine",
+        "note" : "« L'exploit » is « le exploit » shortened before a vowel; masculine.",
+        "pos" : "noun",
+        "translation" : "the feat, the achievement"
+      },
+      {
+        "forms" : [
+          "4"
+        ],
+        "note" : "The day of the month: « le 4 octobre » is read « le quatre octobre », with no word for « of ».",
+        "pos" : "number",
+        "translation" : "4, four"
+      },
+      {
+        "forms" : [
+          "1"
+        ],
+        "note" : "« La Formule 1 » is read « Formule un ».",
+        "pos" : "number",
+        "translation" : "1, one"
+      },
+      {
+        "forms" : [
+          "2017"
+        ],
+        "note" : "The year of the last Formula 1 race at Sepang before this one; read « deux mille dix-sept ».",
+        "pos" : "number",
+        "translation" : "2017"
+      },
+      {
+        "forms" : [
+          "quatre-vingt-dix"
+        ],
+        "note" : "90 in the French of France, literally « four twenties and ten »; a hyphenated single word.",
+        "pos" : "number",
+        "translation" : "ninety"
+      },
+      {
+        "forms" : [
+          "2,3"
+        ],
+        "note" : "French writes decimals with a comma: « 2,3 secondes » is read « deux virgule trois secondes ».",
+        "pos" : "number",
+        "translation" : "2.3"
+      },
+      {
+        "forms" : [
+          "84"
+        ],
+        "note" : "Read « quatre-vingt-quatre », literally four twenties and four.",
+        "pos" : "number",
+        "translation" : "84, eighty-four"
+      },
+      {
+        "forms" : [
+          "octobre"
+        ],
+        "gender" : "masculine",
+        "note" : "Months take no capital letter: « le dimanche 4 octobre 2026 ».",
+        "pos" : "noun",
+        "translation" : "October"
+      },
+      {
+        "forms" : [
+          "sepang"
+        ],
+        "note" : "The place in Malaysia where the race circuit is; « à Sepang » = at Sepang.",
+        "pos" : "noun",
+        "translation" : "Sepang"
+      },
+      {
+        "forms" : [
+          "malaisie"
+        ],
+        "gender" : "feminine",
+        "note" : "A country in Asia; it is feminine, so « en Malaisie » = in Malaysia.",
+        "pos" : "noun",
+        "translation" : "Malaysia"
+      },
+      {
+        "forms" : [
+          "verstappen"
+        ],
+        "note" : "Max Verstappen, the Red Bull driver who wins this race.",
+        "pos" : "noun",
+        "translation" : "Verstappen"
+      },
+      {
+        "forms" : [
+          "bull",
+          "red"
+        ],
+        "note" : "The Formula 1 team Max Verstappen drives for; the two English words stay unchanged in French.",
+        "pos" : "noun",
+        "translation" : "Red Bull"
+      },
+      {
+        "forms" : [
+          "mercedes"
+        ],
+        "note" : "A Formula 1 team; after a noun the name stays unchanged: « les deux pilotes Mercedes ».",
+        "pos" : "noun",
+        "translation" : "Mercedes"
+      },
+      {
+        "forms" : [
+          "kimi"
+        ],
+        "note" : "First name of the Mercedes driver Kimi Antonelli.",
+        "pos" : "noun",
+        "translation" : "Kimi"
+      },
+      {
+        "forms" : [
+          "antonelli",
+          "d'antonelli"
+        ],
+        "note" : "Kimi Antonelli, a Mercedes driver, second in this race and first in the championship; « d'Antonelli » = of Antonelli, with « de » shortened before the vowel.",
+        "pos" : "noun",
+        "translation" : "Antonelli"
+      },
+      {
+        "forms" : [
+          "russell"
+        ],
+        "note" : "George Russell, the other Mercedes driver, whose car stops near the end.",
+        "pos" : "noun",
+        "translation" : "Russell"
+      },
+      {
+        "forms" : [
+          "lewis"
+        ],
+        "note" : "First name of the Ferrari driver Lewis Hamilton.",
+        "pos" : "noun",
+        "translation" : "Lewis"
+      },
+      {
+        "forms" : [
+          "hamilton"
+        ],
+        "note" : "Lewis Hamilton, the Ferrari driver who finishes third in this race.",
+        "pos" : "noun",
+        "translation" : "Hamilton"
+      },
+      {
+        "forms" : [
+          "ferrari"
+        ],
+        "note" : "The Formula 1 team Lewis Hamilton drives for.",
+        "pos" : "noun",
+        "translation" : "Ferrari"
+      },
+      {
+        "forms" : [
+          "singapour"
+        ],
+        "note" : "The city where the next race is; it takes no article: « à Singapour ».",
+        "pos" : "noun",
+        "translation" : "Singapore"
+      },
+      {
+        "forms" : [
+          "bahreïn"
+        ],
+        "gender" : "masculine",
+        "note" : "A country in the Gulf that gives this Grand Prix its name; used without an article: « le Grand Prix de Bahreïn ».",
+        "pos" : "noun",
+        "translation" : "Bahrain"
+      },
+      {
+        "forms" : [
+          "pleut"
+        ],
+        "note" : "Present of pleuvoir, used only with « il »: « il pleut » = it rains.",
+        "pos" : "verb",
+        "translation" : "rains, is raining"
+      },
+      {
+        "forms" : [
+          "départ"
+        ],
+        "gender" : "masculine",
+        "note" : "The noun of partir: « au départ » = at the start (of the race).",
+        "pos" : "noun",
+        "translation" : "start; departure"
+      },
+      {
+        "forms" : [
+          "victoire"
+        ],
+        "gender" : "feminine",
+        "note" : "« Sa première victoire » = his first win; same family as English « victory ».",
+        "pos" : "noun",
+        "translation" : "victory, win"
+      },
+      {
+        "forms" : [
+          "circuit"
+        ],
+        "gender" : "masculine",
+        "note" : "The closed road where races are run: « ce circuit » = this track.",
+        "pos" : "noun",
+        "translation" : "circuit, race track"
+      },
+      {
+        "forms" : [
+          "repris"
+        ],
+        "note" : "Past participle of reprendre (re- + prendre): « il a repris la première place » = he took first place again.",
+        "pos" : "verb",
+        "translation" : "taken back, retaken"
+      },
+      {
+        "forms" : [
+          "championnat"
+        ],
+        "gender" : "masculine",
+        "note" : "From « champion »; « mener le championnat » = to lead the championship.",
+        "pos" : "noun",
+        "translation" : "championship"
+      },
+      {
+        "forms" : [
+          "déplacé"
+        ],
+        "note" : "Past participle of déplacer (to move) used as an adjective or in the passive: « avait été déplacé » = had been moved.",
+        "pos" : "adjective",
+        "translation" : "moved, relocated"
+      },
+      {
+        "forms" : [
+          "pole"
+        ],
+        "gender" : "feminine",
+        "note" : "Borrowed from English: « la pole position », or just « la pole », is the first place at the start; « en pole » = on pole.",
+        "pos" : "noun",
+        "translation" : "pole (position)"
+      },
+      {
+        "forms" : [
+          "position"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns in -tion are feminine; « partir en pole position » = to start from pole position.",
+        "pos" : "noun",
+        "translation" : "position"
+      },
+      {
+        "forms" : [
+          "mouillée"
+        ],
+        "note" : "Feminine of « mouillé », agreeing with « piste ».",
+        "pos" : "adjective",
+        "translation" : "wet (feminine)"
+      },
+      {
+        "forms" : [
+          "doubla",
+          "doublèrent",
+          "doublés"
+        ],
+        "note" : "Forms of doubler, which means to overtake on a road or a track as well as to double: passé simple « il doubla », « ils doublèrent »; past participle « doublés », with -s after « les ».",
+        "pos" : "verb",
+        "translation" : "overtook; overtaken"
+      },
+      {
+        "forms" : [
+          "torrentielle"
+        ],
+        "note" : "Feminine of « torrentiel », from « torrent »: « une pluie torrentielle » = very heavy rain.",
+        "pos" : "adjective",
+        "translation" : "torrential (feminine)"
+      },
+      {
+        "forms" : [
+          "patienter"
+        ],
+        "note" : "From « patient »; « faire patienter quelqu'un » = to keep someone waiting.",
+        "pos" : "verb",
+        "translation" : "to wait (patiently)"
+      },
+      {
+        "forms" : [
+          "détrempée"
+        ],
+        "note" : "Stronger than « mouillée »: full of water; it agrees with « piste ».",
+        "pos" : "adjective",
+        "translation" : "soaked, waterlogged (feminine)"
+      },
+      {
+        "forms" : [
+          "s'élança"
+        ],
+        "note" : "Passé simple of s'élancer, to set off with speed: « il s'élança lentement » = he got away slowly.",
+        "pos" : "verb",
+        "translation" : "set off, got away"
+      },
+      {
+        "forms" : [
+          "regroupé"
+        ],
+        "note" : "Past participle of regrouper (re- + grouper); « eut regroupé » is the passé antérieur, « had bunched up ».",
+        "pos" : "verb",
+        "translation" : "brought back together, bunched up"
+      },
+      {
+        "forms" : [
+          "peloton"
+        ],
+        "gender" : "masculine",
+        "note" : "The group of competitors in a race: « regrouper le peloton » = to bunch the field up.",
+        "pos" : "noun",
+        "translation" : "pack, field (of competitors)"
+      },
+      {
+        "forms" : [
+          "remonta"
+        ],
+        "note" : "Passé simple of remonter (re- + monter): « il remonta jusqu'à la troisième place » = he climbed back to third place.",
+        "pos" : "verb",
+        "translation" : "climbed back up"
+      },
+      {
+        "forms" : [
+          "l'avance"
+        ],
+        "gender" : "feminine",
+        "note" : "« L'avance » is « la avance » shortened before a vowel: the gap between the leader and the next one; « 84 points d'avance » = a lead of 84 points.",
+        "pos" : "noun",
+        "translation" : "the lead"
+      },
+      {
+        "forms" : [
+          "montée"
+        ],
+        "note" : "Past participle of monter; with être it agrees with the subject: « l'avance est montée à 84 points ».",
+        "pos" : "verb",
+        "translation" : "risen, gone up (feminine)"
+      },
+      {
+        "forms" : [
+          "quant"
+        ],
+        "note" : "Always « quant à »: « quant à Verstappen » = as for Verstappen; not to be confused with « quand » (when).",
+        "pos" : "other",
+        "translation" : "as for (with « à »)"
       }
     ],
     "german" : [
@@ -50489,6 +51733,7 @@
       },
       {
         "forms" : [
+          "auto",
           "autos"
         ],
         "gender" : "neuter",
@@ -50555,7 +51800,8 @@
       },
       {
         "forms" : [
-          "bedeutet"
+          "bedeutet",
+          "bedeutete"
         ],
         "note" : "Bedeuten (to mean), \"er/sie/es\" form.",
         "pos" : "verb",
@@ -51233,10 +52479,18 @@
       },
       {
         "forms" : [
+          "eingeholt",
           "einholt"
         ],
-        "note" : "Einholen (to catch up with), \"er/sie/es\" form.",
+        "note" : "Einholen (to catch up with), \"er/sie/es\" form. Separable: … ein = einholen, to catch up with.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ein",
+            "translation" : "to catch up with",
+            "verb" : "einholen"
+          }
+        ],
         "translation" : "catches up with"
       },
       {
@@ -51781,7 +53035,8 @@
       },
       {
         "forms" : [
-          "gefährlich"
+          "gefährlich",
+          "gefährliche"
         ],
         "note" : "Same form regardless of gender.",
         "pos" : "adjective",
@@ -52266,7 +53521,10 @@
       },
       {
         "forms" : [
-          "hunde"
+          "hund",
+          "hunde",
+          "hunden",
+          "hundes"
         ],
         "gender" : "masculine",
         "note" : "Plural of Hund.",
@@ -52909,7 +54167,8 @@
       {
         "forms" : [
           "letzte",
-          "letzten"
+          "letzten",
+          "letzter"
         ],
         "note" : "Case-inflected forms of letzt.",
         "pos" : "adjective",
@@ -54620,7 +55879,8 @@
       },
       {
         "forms" : [
-          "team"
+          "team",
+          "teams"
         ],
         "gender" : "neuter",
         "note" : "A group working together.",
@@ -57638,7 +58898,8 @@
       },
       {
         "forms" : [
-          "kostenlos"
+          "kostenlos",
+          "kostenlose"
         ],
         "note" : "Without cost.",
         "pos" : "adjective",
@@ -57697,7 +58958,8 @@
       },
       {
         "forms" : [
-          "lag"
+          "lag",
+          "lagen"
         ],
         "note" : "Past tense of liegen.",
         "pos" : "verb",
@@ -57809,6 +59071,7 @@
       {
         "forms" : [
           "liegen",
+          "liegenden",
           "liegt"
         ],
         "note" : "Present tense of liegen.",
@@ -58187,7 +59450,8 @@
       },
       {
         "forms" : [
-          "punkt"
+          "punkt",
+          "punkte"
         ],
         "gender" : "masculine",
         "note" : "As in \"auf den Punkt bringen\" (to sum up).",
@@ -58766,6 +60030,7 @@
       {
         "forms" : [
           "ständig",
+          "ständige",
           "ständigen"
         ],
         "note" : "Case-inflected forms of ständig.",
@@ -61419,10 +62684,18 @@
       },
       {
         "forms" : [
+          "aufgeschrieben",
           "aufschreiben"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive. Separable: auf = aufschreiben; „hat es aufgeschrieben“ = has written it down.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to write down",
+            "verb" : "aufschreiben"
+          }
+        ],
         "translation" : "to write down"
       },
       {
@@ -63138,7 +64411,8 @@
       {
         "forms" : [
           "gewöhnliche",
-          "gewöhnlichen"
+          "gewöhnlichen",
+          "gewöhnlicher"
         ],
         "note" : "Declined forms of gewöhnlich.",
         "pos" : "adjective",
@@ -63300,7 +64574,8 @@
       },
       {
         "forms" : [
-          "halbe"
+          "halbe",
+          "halbes"
         ],
         "note" : "\"Eine halbe Stunde\" = half an hour.",
         "pos" : "adjective",
@@ -64514,7 +65789,8 @@
       },
       {
         "forms" : [
-          "nass"
+          "nass",
+          "nasser"
         ],
         "note" : "Covered in water.",
         "pos" : "adjective",
@@ -75001,6 +76277,7 @@
       },
       {
         "forms" : [
+          "fall",
           "fälle"
         ],
         "gender" : "masculine",
@@ -76036,7 +77313,8 @@
       },
       {
         "forms" : [
-          "sterben"
+          "sterben",
+          "stirbt"
         ],
         "note" : "Infinitiv.",
         "pos" : "verb",
@@ -76459,7 +77737,8 @@
       },
       {
         "forms" : [
-          "zweite"
+          "zweite",
+          "zweiter"
         ],
         "note" : "„Eine zweite Liste\".",
         "pos" : "adjective",
@@ -76493,7 +77772,8 @@
       },
       {
         "forms" : [
-          "übertragen"
+          "übertragen",
+          "übertragenen"
         ],
         "note" : "„Von Mensch zu Mensch übertragen\".",
         "pos" : "verb",
@@ -77160,7 +78440,8 @@
       },
       {
         "forms" : [
-          "betraf"
+          "betraf",
+          "betrifft"
         ],
         "note" : "Präteritum of betreffen: „Sie betraf einen Bericht“ = it concerned a report.",
         "pos" : "verb",
@@ -77847,7 +79128,8 @@
       },
       {
         "forms" : [
-          "dritte"
+          "dritte",
+          "dritter"
         ],
         "note" : "Ordinal number used as a noun: „das dritte“ = the third one (tool), „das vierte“ the fourth.",
         "pos" : "adjective",
@@ -78745,7 +80027,9 @@
       },
       {
         "forms" : [
-          "gewinnt"
+          "gewann",
+          "gewinnt",
+          "gewonnen"
         ],
         "note" : "Gewinnen, er/sie/es form: „Die Musik gewinnt“ = the music wins.",
         "pos" : "verb",
@@ -79250,6 +80534,743 @@
         "note" : "Declined form of hungrig: „die lange, hungrige Geduld“ = the long, hungry patience.",
         "pos" : "adjective",
         "translation" : "hungry"
+      },
+      {
+        "forms" : [
+          "1972"
+        ],
+        "note" : "A year: German says it as „neunzehnhundertzweiundsiebzig“, and a bare year can start a sentence: „1972 stirbt …“.",
+        "pos" : "number",
+        "translation" : "1972"
+      },
+      {
+        "forms" : [
+          "auftreten"
+        ],
+        "note" : "Separable verb: in a subordinate clause it stays whole („sobald Symptome auftreten“), in a main clause it splits („Symptome treten auf“). Separable: … auf = auftreten, to occur.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to occur, appear",
+            "verb" : "auftreten"
+          }
+        ],
+        "translation" : "to occur, appear"
+      },
+      {
+        "forms" : [
+          "behandelt",
+          "behandelten"
+        ],
+        "note" : "Behandeln (to treat): „behandelt“ is the Partizip II („hat behandelt“) and „behandelten“ the Präteritum plural („die jeden Biss behandelten“).",
+        "pos" : "verb",
+        "translation" : "treated"
+      },
+      {
+        "forms" : [
+          "bescheinigte"
+        ],
+        "note" : "Präteritum of bescheinigen (to certify); the formal word for a written confirmation, from Bescheinigung = certificate.",
+        "pos" : "verb",
+        "translation" : "certified, confirmed in writing"
+      },
+      {
+        "forms" : [
+          "biss",
+          "bisse",
+          "bisses"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Biss (bite); plural Bisse, genitive Bisses. Do not confuse it with „biss“ as a verb form (he bit).",
+        "pos" : "noun",
+        "translation" : "bite"
+      },
+      {
+        "forms" : [
+          "chile",
+          "chiles"
+        ],
+        "gender" : "neuter",
+        "note" : "The country in South America; German country names usually take no article.",
+        "pos" : "noun",
+        "translation" : "Chile"
+      },
+      {
+        "forms" : [
+          "eliminiert"
+        ],
+        "note" : "Partizip II of eliminieren (to eliminate); verbs in -ieren form the participle without ge-: „hat eliminiert“.",
+        "pos" : "verb",
+        "translation" : "eliminated"
+      },
+      {
+        "forms" : [
+          "eliminierung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Eliminierung, from eliminieren; nouns in -ung are feminine.",
+        "pos" : "noun",
+        "translation" : "elimination"
+      },
+      {
+        "forms" : [
+          "fordert"
+        ],
+        "note" : "Fordern, er/sie/es form. „Es fordert Opfer“ = it claims victims (lives).",
+        "pos" : "verb",
+        "translation" : "demands; claims (lives)"
+      },
+      {
+        "forms" : [
+          "geimpft",
+          "impft"
+        ],
+        "note" : "Impfen (to vaccinate): „impft“ is the present (Chile impft seine Hunde), „geimpft“ the Partizip II (hat geimpft).",
+        "pos" : "verb",
+        "translation" : "vaccinated; vaccinates"
+      },
+      {
+        "forms" : [
+          "genf"
+        ],
+        "gender" : "neuter",
+        "note" : "The Swiss city where the World Health Organization has its seat; German name of Geneva.",
+        "pos" : "noun",
+        "translation" : "Geneva"
+      },
+      {
+        "forms" : [
+          "glück"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Glück: „auf Glück warten“ = to wait for luck; an abstract noun used without an article.",
+        "pos" : "noun",
+        "translation" : "luck, good fortune"
+      },
+      {
+        "forms" : [
+          "helfer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Helfer; the plural has the same form, so only the article or the verb shows it: „Helfer gehen“.",
+        "pos" : "noun",
+        "translation" : "helpers, workers"
+      },
+      {
+        "forms" : [
+          "impfteams"
+        ],
+        "gender" : "neuter",
+        "note" : "Impfen (to vaccinate) + Team; the plural of das Impfteam.",
+        "pos" : "noun",
+        "translation" : "vaccination teams"
+      },
+      {
+        "forms" : [
+          "impfung",
+          "impfungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Impfung; nouns in -ung are feminine, plural Impfungen.",
+        "pos" : "noun",
+        "translation" : "vaccination"
+      },
+      {
+        "forms" : [
+          "katze",
+          "katzen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Katze; plural Katzen: „Hunde und Katzen“ = dogs and cats.",
+        "pos" : "noun",
+        "translation" : "cat"
+      },
+      {
+        "forms" : [
+          "lepra"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Lepra, the old disease also called Hansen's disease; no plural.",
+        "pos" : "noun",
+        "translation" : "leprosy"
+      },
+      {
+        "forms" : [
+          "menschliche",
+          "menschlicher"
+        ],
+        "note" : "From Mensch (person); „menschlich“ takes endings: „der menschliche Fall“, „Chiles letzter menschlicher Fall“ = Chile's last human case.",
+        "pos" : "adjective",
+        "translation" : "human"
+      },
+      {
+        "forms" : [
+          "merkwürdige"
+        ],
+        "note" : "Das Merkwürdige is an adjective used as a noun, written with a capital: the strange thing.",
+        "pos" : "adjective",
+        "translation" : "strange, remarkable"
+      },
+      {
+        "forms" : [
+          "opfer"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Opfer; plural has the same form: „zehntausende Opfer“.",
+        "pos" : "noun",
+        "translation" : "victims"
+      },
+      {
+        "forms" : [
+          "routine"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Routine: ordinary repeated work.",
+        "pos" : "noun",
+        "translation" : "routine"
+      },
+      {
+        "forms" : [
+          "santiago"
+        ],
+        "gender" : "neuter",
+        "note" : "The capital of Chile.",
+        "pos" : "noun",
+        "translation" : "Santiago"
+      },
+      {
+        "forms" : [
+          "sofortige"
+        ],
+        "note" : "From sofort (immediately); „die sofortige Behandlung“ = the immediate treatment.",
+        "pos" : "adjective",
+        "translation" : "immediate"
+      },
+      {
+        "forms" : [
+          "symptom",
+          "symptome"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Symptom; plural Symptome: „sobald Symptome auftreten“ = as soon as symptoms appear.",
+        "pos" : "noun",
+        "translation" : "symptom"
+      },
+      {
+        "forms" : [
+          "tollwut"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Tollwut, the disease passed on by a bite; no plural.",
+        "pos" : "noun",
+        "translation" : "rabies"
+      },
+      {
+        "forms" : [
+          "tödlich"
+        ],
+        "note" : "From der Tod (death): „tödlich enden“ = to end fatally.",
+        "pos" : "adjective",
+        "translation" : "fatal, deadly"
+      },
+      {
+        "forms" : [
+          "unsichtbar"
+        ],
+        "note" : "The prefix un- turns sichtbar (visible) into its opposite.",
+        "pos" : "adjective",
+        "translation" : "invisible"
+      },
+      {
+        "forms" : [
+          "vergehen"
+        ],
+        "note" : "Inseparable verb; for time it takes sein: „Fünfzig Jahre vergehen“ = fifty years go by.",
+        "pos" : "verb",
+        "translation" : "to pass (of time)"
+      },
+      {
+        "forms" : [
+          "washington"
+        ],
+        "gender" : "neuter",
+        "note" : "The US capital, where the WHO has a regional office (the Pan American Health Organization).",
+        "pos" : "noun",
+        "translation" : "Washington"
+      },
+      {
+        "forms" : [
+          "weltweit"
+        ],
+        "note" : "Welt (world) + weit: across the whole world.",
+        "pos" : "adverb",
+        "translation" : "worldwide"
+      },
+      {
+        "forms" : [
+          "zehntausende"
+        ],
+        "note" : "Zehn + tausend as a plural noun: „zehntausende Menschen“.",
+        "pos" : "number",
+        "translation" : "tens of thousands"
+      },
+      {
+        "forms" : [
+          "zertifikat"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Zertifikat; the official paper from the WHO.",
+        "pos" : "noun",
+        "translation" : "certificate"
+      },
+      {
+        "forms" : [
+          "ziehende"
+        ],
+        "note" : "Present participle of ziehen used before a noun: „von Tür zu Tür ziehende Impfteams“ = teams going door to door.",
+        "pos" : "adjective",
+        "translation" : "moving, going"
+      },
+      {
+        "forms" : [
+          "überwachung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Überwachung, from überwachen; nouns in -ung are feminine.",
+        "pos" : "noun",
+        "translation" : "monitoring, surveillance"
+      },
+      {
+        "forms" : [
+          "1"
+        ],
+        "note" : "In „Formel 1“ the numeral is said „eins“: „Formel eins“.",
+        "pos" : "number",
+        "translation" : "1"
+      },
+      {
+        "forms" : [
+          "2,3"
+        ],
+        "note" : "German writes a decimal comma where English writes a point: „2,3 Sekunden“ (zwei Komma drei) = 2.3 seconds.",
+        "pos" : "number",
+        "translation" : "2.3"
+      },
+      {
+        "forms" : [
+          "2017"
+        ],
+        "note" : "The year of the last Formula 1 race at Sepang before 2026 (zweitausendsiebzehn); German uses the bare year, without „in“: „Er gewinnt hier auch 2017.“",
+        "pos" : "number",
+        "translation" : "2017"
+      },
+      {
+        "forms" : [
+          "4"
+        ],
+        "note" : "The day in „der 4. Oktober“; the dot after the numeral makes it an ordinal (der vierte, am vierten).",
+        "pos" : "number",
+        "translation" : "4"
+      },
+      {
+        "forms" : [
+          "84"
+        ],
+        "note" : "„84 Punkte“ = eighty-four points; German says the units before the tens: vierundachtzig.",
+        "pos" : "number",
+        "translation" : "84"
+      },
+      {
+        "forms" : [
+          "neunzig"
+        ],
+        "note" : "90; the tens end in -zig (neun + zig): „neunzig Minuten“ = ninety minutes, an hour and a half.",
+        "pos" : "number",
+        "translation" : "ninety"
+      },
+      {
+        "forms" : [
+          "verstappen"
+        ],
+        "gender" : "masculine",
+        "note" : "Max Verstappen, the Red Bull driver who won the Formula 1 race at Sepang on 4 October 2026, as he had won there in 2017.",
+        "pos" : "noun",
+        "translation" : "Verstappen"
+      },
+      {
+        "forms" : [
+          "kimi"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Kimi Antonelli, who drives for Mercedes in Formula 1.",
+        "pos" : "noun",
+        "translation" : "Kimi (a first name)"
+      },
+      {
+        "forms" : [
+          "antonelli",
+          "antonellis"
+        ],
+        "gender" : "masculine",
+        "note" : "Kimi Antonelli, the Mercedes driver who finished second at Sepang on 4 October 2026; „Antonellis Vorsprung“ is the genitive, with -s and no apostrophe.",
+        "pos" : "noun",
+        "translation" : "Antonelli"
+      },
+      {
+        "forms" : [
+          "russell"
+        ],
+        "gender" : "masculine",
+        "note" : "George Russell, a Mercedes driver in Formula 1; he was third at Sepang when his car stopped a few laps from the end.",
+        "pos" : "noun",
+        "translation" : "Russell"
+      },
+      {
+        "forms" : [
+          "lewis"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Lewis Hamilton, who drives for Ferrari in Formula 1.",
+        "pos" : "noun",
+        "translation" : "Lewis (a first name)"
+      },
+      {
+        "forms" : [
+          "hamilton"
+        ],
+        "gender" : "masculine",
+        "note" : "Lewis Hamilton, the Ferrari driver who finished third at Sepang on 4 October 2026.",
+        "pos" : "noun",
+        "translation" : "Hamilton"
+      },
+      {
+        "forms" : [
+          "red"
+        ],
+        "note" : "First word of „Red Bull“, the name of Max Verstappen's Formula 1 team, kept in English.",
+        "pos" : "other",
+        "translation" : "Red (Bull)"
+      },
+      {
+        "forms" : [
+          "bull",
+          "bulls"
+        ],
+        "gender" : "neuter",
+        "note" : "Second word of „Red Bull“, Max Verstappen's Formula 1 team; „Red Bulls ersten Sieg“ is the genitive, with -s and no apostrophe.",
+        "pos" : "noun",
+        "translation" : "(Red) Bull"
+      },
+      {
+        "forms" : [
+          "mercedes"
+        ],
+        "gender" : "masculine",
+        "note" : "The Formula 1 team of Kimi Antonelli and George Russell; one car is „der Mercedes“, and the plural has the same form: „zwei Mercedes“.",
+        "pos" : "noun",
+        "translation" : "Mercedes"
+      },
+      {
+        "forms" : [
+          "ferrari"
+        ],
+        "gender" : "masculine",
+        "note" : "The Formula 1 team Lewis Hamilton drives for; a team name takes no article: „für Ferrari“.",
+        "pos" : "noun",
+        "translation" : "Ferrari"
+      },
+      {
+        "forms" : [
+          "sepang"
+        ],
+        "gender" : "neuter",
+        "note" : "The place in Malaysia with the racing track where Formula 1 raced on 4 October 2026; place names take no article: „in Sepang“.",
+        "pos" : "noun",
+        "translation" : "Sepang"
+      },
+      {
+        "forms" : [
+          "malaysia"
+        ],
+        "gender" : "neuter",
+        "note" : "The country where Sepang lies; most country names are neuter and take no article: „in Malaysia“, „nach Malaysia“.",
+        "pos" : "noun",
+        "translation" : "Malaysia"
+      },
+      {
+        "forms" : [
+          "singapur"
+        ],
+        "gender" : "neuter",
+        "note" : "The German spelling of Singapore, where the next Formula 1 race after Sepang is held.",
+        "pos" : "noun",
+        "translation" : "Singapore"
+      },
+      {
+        "forms" : [
+          "bahrain"
+        ],
+        "gender" : "neuter",
+        "note" : "The country that gives the race its name: the Grand Prix von Bahrain was moved to Malaysia in 2026.",
+        "pos" : "noun",
+        "translation" : "Bahrain"
+      },
+      {
+        "forms" : [
+          "formel"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Formel; „die Formel 1“ (said „Formel eins“) is the car-racing series, always with the feminine article.",
+        "pos" : "noun",
+        "translation" : "formula"
+      },
+      {
+        "forms" : [
+          "grand"
+        ],
+        "gender" : "masculine",
+        "note" : "First word of „der Grand Prix“, French for „Großer Preis“: the name of a Formula 1 race, as in „der Grand Prix von Bahrain“.",
+        "pos" : "noun",
+        "translation" : "Grand (Prix)"
+      },
+      {
+        "forms" : [
+          "prix"
+        ],
+        "gender" : "masculine",
+        "note" : "Second word of „der Grand Prix“ (a Formula 1 race); the x is silent, as in French, and the plural has the same form.",
+        "pos" : "noun",
+        "translation" : "(Grand) Prix"
+      },
+      {
+        "forms" : [
+          "oktober"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Oktober; months are masculine: „am 4. Oktober“ = on 4 October.",
+        "pos" : "noun",
+        "translation" : "October"
+      },
+      {
+        "forms" : [
+          "feld"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Feld: in a race, all the cars together; a safety car brings the field close together again.",
+        "pos" : "noun",
+        "translation" : "field (of cars)"
+      },
+      {
+        "forms" : [
+          "formel-1-rennen"
+        ],
+        "gender" : "neuter",
+        "note" : "Formel 1 + Rennen, joined by hyphens into one neuter noun: „das Formel-1-Rennen“.",
+        "pos" : "noun",
+        "translation" : "Formula 1 race"
+      },
+      {
+        "forms" : [
+          "meisterschaft"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Meisterschaft: the contest over the whole season, decided on points; nouns in -schaft are feminine.",
+        "pos" : "noun",
+        "translation" : "championship"
+      },
+      {
+        "forms" : [
+          "mercedes-fahrer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Fahrer (driver) has the same form in the plural, so „die Mercedes-Fahrer“ = the Mercedes drivers; the hyphen joins the team name to the noun.",
+        "pos" : "noun",
+        "translation" : "Mercedes driver(s)"
+      },
+      {
+        "forms" : [
+          "positionen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Position: a driver's place in the race; „viele Positionen verlieren“ = to lose many places.",
+        "pos" : "noun",
+        "translation" : "positions, places"
+      },
+      {
+        "forms" : [
+          "rang"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Rang: the place in a race or a table; „auf Rang drei“ = in third place, with a plain number and no article.",
+        "pos" : "noun",
+        "translation" : "place, rank"
+      },
+      {
+        "forms" : [
+          "rennen"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Rennen, from the verb rennen (to run, to race); the plural has the same form: „sieben Rennen“ = seven races.",
+        "pos" : "noun",
+        "translation" : "race"
+      },
+      {
+        "forms" : [
+          "runden"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Runde, one lap of the track: „wenige Runden vor Schluss“ = a few laps from the end.",
+        "pos" : "noun",
+        "translation" : "laps"
+      },
+      {
+        "forms" : [
+          "safety-car"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Safety-Car, an English loan written with a hyphen: the car that drives ahead of the racing cars and slows the race down for a while.",
+        "pos" : "noun",
+        "translation" : "safety car"
+      },
+      {
+        "forms" : [
+          "sieg"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Sieg, from siegen (to win): „sein erster Sieg“ = his first win.",
+        "pos" : "noun",
+        "translation" : "win, victory"
+      },
+      {
+        "forms" : [
+          "starkregen"
+        ],
+        "gender" : "masculine",
+        "note" : "Stark (strong) + Regen (rain): the compound for very heavy rain, used here without an article.",
+        "pos" : "noun",
+        "translation" : "heavy rain"
+      },
+      {
+        "forms" : [
+          "start"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Start: the beginning of a race; „beim Start“ = at the start.",
+        "pos" : "noun",
+        "translation" : "start"
+      },
+      {
+        "forms" : [
+          "startplatz"
+        ],
+        "gender" : "masculine",
+        "note" : "Start + Platz: the place a car starts from; „auf Startplatz eins“ = first on the grid.",
+        "pos" : "noun",
+        "translation" : "starting place, grid position"
+      },
+      {
+        "forms" : [
+          "strecke"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Strecke: here the racing track; „auf nasser Strecke“ = on a wet track.",
+        "pos" : "noun",
+        "translation" : "track, course"
+      },
+      {
+        "forms" : [
+          "vorsprung"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Vorsprung: how far ahead someone is; „mit 2,3 Sekunden Vorsprung“ = 2.3 seconds ahead.",
+        "pos" : "noun",
+        "translation" : "lead, advantage"
+      },
+      {
+        "forms" : [
+          "verspätet"
+        ],
+        "note" : "Partizip II of sich verspäten, used like an adverb: „begann neunzig Minuten verspätet“ = began ninety minutes late.",
+        "pos" : "adjective",
+        "translation" : "late, delayed"
+      },
+      {
+        "forms" : [
+          "wohin"
+        ],
+        "note" : "Wohin names a direction (where to), wo a place (where): „Sepang, wohin der Grand Prix verlegt worden war“.",
+        "pos" : "adverb",
+        "translation" : "where (to), to which"
+      },
+      {
+        "forms" : [
+          "geregnet",
+          "regnet",
+          "regnete"
+        ],
+        "note" : "Regnen (to rain) always has the subject „es“: „es regnet“ (present), „es regnete“ (Präteritum), „es hat geregnet“ (Perfekt).",
+        "pos" : "verb",
+        "translation" : "rains, rained"
+      },
+      {
+        "forms" : [
+          "gestartet",
+          "startet",
+          "startete"
+        ],
+        "note" : "Starten (to start): „startet“ is the present, „startete“ the Präteritum, „ist gestartet“ the Perfekt, with sein because it is a movement.",
+        "pos" : "verb",
+        "translation" : "starts, started"
+      },
+      {
+        "forms" : [
+          "überholen",
+          "überholt",
+          "überholte",
+          "überholten"
+        ],
+        "note" : "Überholen is not separable, so its Partizip II has no ge-: „hat überholt“; „überholte“ and „überholten“ are the Präteritum.",
+        "pos" : "verb",
+        "translation" : "to overtake, pass"
+      },
+      {
+        "forms" : [
+          "verlegt"
+        ],
+        "note" : "Partizip II of verlegen (to move something to another place or date): „nach Malaysia verlegt“ = moved to Malaysia.",
+        "pos" : "verb",
+        "translation" : "moved, relocated"
+      },
+      {
+        "forms" : [
+          "zusammengeführt"
+        ],
+        "note" : "Partizip II of zusammenführen; the ge- goes between the particle and the verb. Separable: … zusammen = zusammenführen, to bring together.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "zusammen",
+            "translation" : "to bring together",
+            "verb" : "zusammenführen"
+          }
+        ],
+        "translation" : "brought together"
+      },
+      {
+        "forms" : [
+          "vorfuhr"
+        ],
+        "note" : "Präteritum of vorfahren, written as one word at the end of a subordinate clause: „während er auf Rang drei vorfuhr“. Separable: … vor = vorfahren, to move up.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "vor",
+            "translation" : "to move up, drive forward",
+            "verb" : "vorfahren"
+          }
+        ],
+        "translation" : "moved up, drove forward"
       }
     ],
     "italian" : [
@@ -79537,8 +81558,10 @@
       },
       {
         "forms" : [
+          "accadde",
           "accadesse",
-          "accadevano"
+          "accadevano",
+          "accaduto"
         ],
         "note" : "Imperfect of accadere, \"to happen.\"",
         "pos" : "verb",
@@ -80354,7 +82377,8 @@
       },
       {
         "forms" : [
-          "auto"
+          "auto",
+          "l'auto"
         ],
         "gender" : "feminine",
         "note" : "Short for automobile; invariable.",
@@ -81577,6 +83601,7 @@
           "comincia",
           "cominciano",
           "cominciare",
+          "cominciata",
           "cominciato",
           "cominciò"
         ],
@@ -81613,7 +83638,8 @@
       {
         "forms" : [
           "compaiono",
-          "compare"
+          "compare",
+          "comparsi"
         ],
         "note" : "From comparire, \"to appear.\"",
         "pos" : "verb",
@@ -82007,6 +84033,7 @@
       },
       {
         "forms" : [
+          "corre",
           "correre",
           "correva"
         ],
@@ -82218,7 +84245,9 @@
       {
         "forms" : [
           "cura",
-          "curava"
+          "curato",
+          "curava",
+          "curavano"
         ],
         "note" : "Cura as noun \"care\"; curava, imperfect of curare, \"to tend to.\"",
         "pos" : "verb",
@@ -83539,6 +85568,7 @@
           "ferma",
           "fermare",
           "fermarla",
+          "fermarsi",
           "fermata",
           "fermato",
           "fermò"
@@ -84133,6 +86163,7 @@
       },
       {
         "forms" : [
+          "gratuita",
           "gratuitamente",
           "gratuito"
         ],
@@ -87593,6 +89624,7 @@
       },
       {
         "forms" : [
+          "punti",
           "punto"
         ],
         "gender" : "masculine",
@@ -88124,7 +90156,8 @@
       },
       {
         "forms" : [
-          "riconoscendo"
+          "riconoscendo",
+          "riconosciuto"
         ],
         "note" : "Gerund of riconoscere.",
         "pos" : "verb",
@@ -88933,7 +90966,8 @@
           "segue",
           "seguendo",
           "seguente",
-          "seguito"
+          "seguito",
+          "seguì"
         ],
         "note" : "From seguire.",
         "pos" : "verb",
@@ -94784,7 +96818,8 @@
       },
       {
         "forms" : [
-          "significa"
+          "significa",
+          "significava"
         ],
         "note" : "From \"significare.\"",
         "pos" : "verb",
@@ -95160,7 +97195,8 @@
       },
       {
         "forms" : [
-          "umani"
+          "umani",
+          "umano"
         ],
         "note" : "From \"umano.\"",
         "pos" : "adjective",
@@ -98421,6 +100457,7 @@
         "forms" : [
           "passa",
           "passando",
+          "passano",
           "passato",
           "passi",
           "passò"
@@ -100206,7 +102243,8 @@
           "morte",
           "morto",
           "morì",
-          "muoiono"
+          "muoiono",
+          "muore"
         ],
         "note" : "«La morte» è il nome; «muoiono» presente irregolare.",
         "pos" : "verb",
@@ -100905,6 +102943,8 @@
       },
       {
         "forms" : [
+          "trasmessa",
+          "trasmette",
           "trasmettono"
         ],
         "note" : "Presente.",
@@ -100913,6 +102953,7 @@
       },
       {
         "forms" : [
+          "vaccini",
           "vaccino"
         ],
         "gender" : "masculine",
@@ -102892,7 +104933,8 @@
       },
       {
         "forms" : [
-          "vince"
+          "vince",
+          "vinto"
         ],
         "note" : "Present of vincere, third person: la musica vince = the music wins; the participle is vinto.",
         "pos" : "verb",
@@ -103152,6 +105194,7 @@
       },
       {
         "forms" : [
+          "attendere",
           "attese"
         ],
         "note" : "Passato remoto of attendere (to wait), a formal twin of aspettare: attese con angoscia = he waited in dread.",
@@ -103279,6 +105322,638 @@
         "note" : "In- + compiuto (completed); it agrees with its noun: una cosa incompiuta, lui un po' incompiuto.",
         "pos" : "adjective",
         "translation" : "unfinished"
+      },
+      {
+        "forms" : [
+          "1972"
+        ],
+        "note" : "L'anno dell'ultimo caso umano di rabbia in Cile.",
+        "pos" : "number",
+        "translation" : "1972"
+      },
+      {
+        "forms" : [
+          "america"
+        ],
+        "gender" : "feminine",
+        "note" : "\"Sud America\" è il continente del Cile.",
+        "pos" : "noun",
+        "translation" : "America"
+      },
+      {
+        "forms" : [
+          "asia"
+        ],
+        "gender" : "feminine",
+        "note" : "Il continente dove la rabbia uccide ancora molte persone.",
+        "pos" : "noun",
+        "translation" : "Asia"
+      },
+      {
+        "forms" : [
+          "cane",
+          "cani"
+        ],
+        "gender" : "masculine",
+        "note" : "Plurale: cane, cani; \"cane\" è maschile e il plurale cambia la vocale finale.",
+        "pos" : "noun",
+        "translation" : "dog"
+      },
+      {
+        "forms" : [
+          "certificato"
+        ],
+        "gender" : "masculine",
+        "note" : "Documento ufficiale; è anche il participio di certificare.",
+        "pos" : "noun",
+        "translation" : "certificate"
+      },
+      {
+        "forms" : [
+          "cile"
+        ],
+        "gender" : "masculine",
+        "note" : "Il paese del Sud America di cui parla la storia; in italiano di solito \"il Cile\".",
+        "pos" : "noun",
+        "translation" : "Chile"
+      },
+      {
+        "forms" : [
+          "contratta"
+        ],
+        "note" : "Participio passato femminile di contrarre: \"una malattia contratta\" = a disease that was caught.",
+        "pos" : "verb",
+        "translation" : "caught, contracted"
+      },
+      {
+        "forms" : [
+          "cure"
+        ],
+        "gender" : "feminine",
+        "note" : "Plurale di cura; qui significa il trattamento medico.",
+        "pos" : "noun",
+        "translation" : "treatment, care"
+      },
+      {
+        "forms" : [
+          "eliminazione"
+        ],
+        "gender" : "feminine",
+        "note" : "Il nome di eliminare: la rabbia o la lebbra non è più un problema di sanità pubblica.",
+        "pos" : "noun",
+        "translation" : "elimination"
+      },
+      {
+        "forms" : [
+          "fortuna"
+        ],
+        "gender" : "feminine",
+        "note" : "\"Non aspettare la fortuna\" = non sperare soltanto nel caso.",
+        "pos" : "noun",
+        "translation" : "luck"
+      },
+      {
+        "forms" : [
+          "gatti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plurale di gatto.",
+        "pos" : "noun",
+        "translation" : "cats"
+      },
+      {
+        "forms" : [
+          "ginevra"
+        ],
+        "gender" : "feminine",
+        "note" : "Città della Svizzera, una delle tre città del racconto.",
+        "pos" : "noun",
+        "translation" : "Geneva"
+      },
+      {
+        "forms" : [
+          "gratis"
+        ],
+        "note" : "Invariabile: non cambia mai; è un modo colloquiale di dire gratuitamente.",
+        "pos" : "adverb",
+        "translation" : "free (of charge)"
+      },
+      {
+        "forms" : [
+          "immediate"
+        ],
+        "note" : "Femminile plurale: \"cure immediate\" = immediate treatment.",
+        "pos" : "adjective",
+        "translation" : "immediate"
+      },
+      {
+        "forms" : [
+          "invisibile"
+        ],
+        "note" : "Finisce in -e: vale per il maschile e il femminile.",
+        "pos" : "adjective",
+        "translation" : "invisible"
+      },
+      {
+        "forms" : [
+          "lebbra"
+        ],
+        "gender" : "feminine",
+        "note" : "Una malattia antica; per il Cile fu l'altra eliminazione del 2026.",
+        "pos" : "noun",
+        "translation" : "leprosy"
+      },
+      {
+        "forms" : [
+          "morso"
+        ],
+        "gender" : "masculine",
+        "note" : "Il nome di mordere; \"il morso di un cane\" = a dog's bite.",
+        "pos" : "noun",
+        "translation" : "bite"
+      },
+      {
+        "forms" : [
+          "mortale"
+        ],
+        "note" : "Finisce in -e: vale per il maschile e il femminile.",
+        "pos" : "adjective",
+        "translation" : "fatal, deadly"
+      },
+      {
+        "forms" : [
+          "operatori"
+        ],
+        "gender" : "masculine",
+        "note" : "Plurale di operatore: chi fa un lavoro pratico, qui i vaccinatori.",
+        "pos" : "noun",
+        "translation" : "workers, operators"
+      },
+      {
+        "forms" : [
+          "pericolosa"
+        ],
+        "note" : "Femminile di pericoloso; concorda con \"malattia\".",
+        "pos" : "adjective",
+        "translation" : "dangerous"
+      },
+      {
+        "forms" : [
+          "rabbia"
+        ],
+        "gender" : "feminine",
+        "note" : "In medicina è la malattia trasmessa da un morso; nella vita di ogni giorno significa anche ira.",
+        "pos" : "noun",
+        "translation" : "rabies; anger"
+      },
+      {
+        "forms" : [
+          "routine"
+        ],
+        "gender" : "feminine",
+        "note" : "Parola presa dal francese; in italiano è femminile: la routine.",
+        "pos" : "noun",
+        "translation" : "routine"
+      },
+      {
+        "forms" : [
+          "santiago"
+        ],
+        "gender" : "masculine",
+        "note" : "La capitale del Cile, una delle tre città del racconto.",
+        "pos" : "noun",
+        "translation" : "Santiago"
+      },
+      {
+        "forms" : [
+          "sintomi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plurale di sintomo: i segni di una malattia.",
+        "pos" : "noun",
+        "translation" : "symptoms"
+      },
+      {
+        "forms" : [
+          "sorveglianza"
+        ],
+        "gender" : "feminine",
+        "note" : "Il controllo continuo di una situazione; qui, dei casi di rabbia.",
+        "pos" : "noun",
+        "translation" : "surveillance, monitoring"
+      },
+      {
+        "forms" : [
+          "strana"
+        ],
+        "note" : "Femminile di strano; concorda con \"cosa\".",
+        "pos" : "adjective",
+        "translation" : "strange"
+      },
+      {
+        "forms" : [
+          "vaccina"
+        ],
+        "note" : "Presente di vaccinare (lui/lei).",
+        "pos" : "verb",
+        "translation" : "vaccinates"
+      },
+      {
+        "forms" : [
+          "vaccinato"
+        ],
+        "note" : "Participio passato di vaccinare; con \"hanno\" forma il passato prossimo.",
+        "pos" : "verb",
+        "translation" : "vaccinated"
+      },
+      {
+        "forms" : [
+          "vaccinatori"
+        ],
+        "gender" : "masculine",
+        "note" : "Plurale di vaccinatore: chi dà i vaccini.",
+        "pos" : "noun",
+        "translation" : "vaccinators"
+      },
+      {
+        "forms" : [
+          "vaccinazione"
+        ],
+        "gender" : "feminine",
+        "note" : "Il nome di vaccinare: l'azione di dare un vaccino.",
+        "pos" : "noun",
+        "translation" : "vaccination"
+      },
+      {
+        "forms" : [
+          "washington"
+        ],
+        "gender" : "feminine",
+        "note" : "La capitale degli Stati Uniti, una delle tre città del racconto.",
+        "pos" : "noun",
+        "translation" : "Washington"
+      },
+      {
+        "forms" : [
+          "1"
+        ],
+        "note" : "Read \"uno\": Formula 1 = Formula Uno.",
+        "pos" : "number",
+        "translation" : "1"
+      },
+      {
+        "forms" : [
+          "2,3"
+        ],
+        "note" : "Italian writes decimals with a comma, read \"due virgola tre\": 2,3 secondi = 2.3 seconds.",
+        "pos" : "number",
+        "translation" : "2.3"
+      },
+      {
+        "forms" : [
+          "2017"
+        ],
+        "note" : "The year of the last Formula 1 race at Sepang before this one; nel 2017 = in 2017.",
+        "pos" : "number",
+        "translation" : "2017"
+      },
+      {
+        "forms" : [
+          "4"
+        ],
+        "note" : "Dates use the plain number, without \"of\": domenica 4 ottobre = Sunday, 4 October.",
+        "pos" : "number",
+        "translation" : "4"
+      },
+      {
+        "forms" : [
+          "84"
+        ],
+        "note" : "Read \"ottantaquattro\": 84 punti = 84 points, Antonelli's lead in the championship.",
+        "pos" : "number",
+        "translation" : "84"
+      },
+      {
+        "forms" : [
+          "antonelli"
+        ],
+        "gender" : "masculine",
+        "note" : "Kimi Antonelli, the Mercedes driver who finished second and leads the championship.",
+        "pos" : "noun",
+        "translation" : "Antonelli"
+      },
+      {
+        "forms" : [
+          "bagnata"
+        ],
+        "note" : "Feminine of bagnato; it agrees with la pista: pista bagnata = wet track.",
+        "pos" : "adjective",
+        "translation" : "wet"
+      },
+      {
+        "forms" : [
+          "bahrein"
+        ],
+        "gender" : "masculine",
+        "note" : "The Italian spelling of Bahrain; il Gran Premio del Bahrein = the Bahrain Grand Prix.",
+        "pos" : "noun",
+        "translation" : "Bahrain"
+      },
+      {
+        "forms" : [
+          "bull",
+          "red"
+        ],
+        "gender" : "feminine",
+        "note" : "The Formula 1 team Max Verstappen drives for; team names take the feminine article: la Red Bull.",
+        "pos" : "noun",
+        "translation" : "Red Bull"
+      },
+      {
+        "forms" : [
+          "campionato"
+        ],
+        "gender" : "masculine",
+        "note" : "The season-long competition; primo nel campionato = first in the championship.",
+        "pos" : "noun",
+        "translation" : "championship"
+      },
+      {
+        "forms" : [
+          "car",
+          "safety"
+        ],
+        "gender" : "feminine",
+        "note" : "English term kept in Italian: la safety car, the car that slows the race down and leads the drivers for some laps.",
+        "pos" : "noun",
+        "translation" : "safety car"
+      },
+      {
+        "forms" : [
+          "ferrari"
+        ],
+        "gender" : "feminine",
+        "note" : "The Formula 1 team Lewis Hamilton drives for; team names take the feminine article: la Ferrari.",
+        "pos" : "noun",
+        "translation" : "Ferrari"
+      },
+      {
+        "forms" : [
+          "formula"
+        ],
+        "gender" : "feminine",
+        "note" : "La Formula 1 is the car racing championship of this story; Italian uses the article: la Formula 1.",
+        "pos" : "noun",
+        "translation" : "Formula (1)"
+      },
+      {
+        "forms" : [
+          "gara",
+          "gare"
+        ],
+        "gender" : "feminine",
+        "note" : "Gara, plural gare (the h keeps the hard g); a sette gare dalla fine = with seven races to go.",
+        "pos" : "noun",
+        "translation" : "race"
+      },
+      {
+        "forms" : [
+          "giri"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of giro; in a race un giro is one lap of the track: a pochi giri dalla fine = a few laps from the end.",
+        "pos" : "noun",
+        "translation" : "laps"
+      },
+      {
+        "forms" : [
+          "hamilton"
+        ],
+        "gender" : "masculine",
+        "note" : "Lewis Hamilton, the Ferrari driver who finished third.",
+        "pos" : "noun",
+        "translation" : "Hamilton"
+      },
+      {
+        "forms" : [
+          "kimi"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of the Mercedes driver Kimi Antonelli.",
+        "pos" : "noun",
+        "translation" : "Kimi"
+      },
+      {
+        "forms" : [
+          "lewis"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of the Ferrari driver Lewis Hamilton.",
+        "pos" : "noun",
+        "translation" : "Lewis"
+      },
+      {
+        "forms" : [
+          "malesia"
+        ],
+        "gender" : "feminine",
+        "note" : "Countries take the article in Italian (la Malesia), but not after in: in Malesia = in Malaysia.",
+        "pos" : "noun",
+        "translation" : "Malaysia"
+      },
+      {
+        "forms" : [
+          "mercedes"
+        ],
+        "gender" : "feminine",
+        "note" : "The Formula 1 team of Kimi Antonelli and George Russell; le due Mercedes = the two Mercedes cars.",
+        "pos" : "noun",
+        "translation" : "Mercedes"
+      },
+      {
+        "forms" : [
+          "novanta"
+        ],
+        "note" : "The number 90; novanta minuti = an hour and a half.",
+        "pos" : "number",
+        "translation" : "ninety"
+      },
+      {
+        "forms" : [
+          "ottobre"
+        ],
+        "gender" : "masculine",
+        "note" : "Months are masculine and written in lower case: domenica 4 ottobre 2026.",
+        "pos" : "noun",
+        "translation" : "October"
+      },
+      {
+        "forms" : [
+          "partenza"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun of partire; alla partenza = at the start (of the race).",
+        "pos" : "noun",
+        "translation" : "start, departure"
+      },
+      {
+        "forms" : [
+          "piove",
+          "piovuto"
+        ],
+        "note" : "Piovere has no subject: piove = it rains; ha piovuto (or è piovuto) = it rained. The noun is la pioggia.",
+        "pos" : "verb",
+        "translation" : "it rains; rained"
+      },
+      {
+        "forms" : [
+          "pista"
+        ],
+        "gender" : "feminine",
+        "note" : "Singular of piste; here the race track: questa pista = this track.",
+        "pos" : "noun",
+        "translation" : "track, circuit"
+      },
+      {
+        "forms" : [
+          "pole",
+          "position"
+        ],
+        "gender" : "feminine",
+        "note" : "English term kept in Italian: la pole position is first place at the start; partire dalla pole position = to start first.",
+        "pos" : "noun",
+        "translation" : "pole position"
+      },
+      {
+        "forms" : [
+          "posizioni"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of posizione; perdere molte posizioni = to lose many places in a race.",
+        "pos" : "noun",
+        "translation" : "positions, places"
+      },
+      {
+        "forms" : [
+          "ricompattato"
+        ],
+        "note" : "Past participle of ricompattare (ri- + compatto): to bring a group close together again; with aveva it forms the trapassato prossimo.",
+        "pos" : "verb",
+        "translation" : "closed up, bunched together again"
+      },
+      {
+        "forms" : [
+          "riprendesse"
+        ],
+        "note" : "Imperfect subjunctive of riprendere, to catch up with again; the subjunctive is required after senza che.",
+        "pos" : "verb",
+        "translation" : "caught (him) again"
+      },
+      {
+        "forms" : [
+          "risalito"
+        ],
+        "note" : "Past participle of risalire (ri- + salire), with essere: è risalito al terzo posto = he climbed back to third place.",
+        "pos" : "verb",
+        "translation" : "climbed back up"
+      },
+      {
+        "forms" : [
+          "russell"
+        ],
+        "gender" : "masculine",
+        "note" : "George Russell, the Mercedes driver whose car stopped a few laps from the end.",
+        "pos" : "noun",
+        "translation" : "Russell"
+      },
+      {
+        "forms" : [
+          "salito"
+        ],
+        "note" : "Past participle of salire, with essere: il vantaggio è salito a 84 punti = the lead has grown to 84 points.",
+        "pos" : "verb",
+        "translation" : "risen, gone up"
+      },
+      {
+        "forms" : [
+          "sepang"
+        ],
+        "gender" : "feminine",
+        "note" : "The place in Malaysia with the race track of this story; a Sepang = at Sepang.",
+        "pos" : "noun",
+        "translation" : "Sepang"
+      },
+      {
+        "forms" : [
+          "singapore"
+        ],
+        "gender" : "feminine",
+        "note" : "Where the next race is; used like a city, without an article: a Singapore = in Singapore.",
+        "pos" : "noun",
+        "translation" : "Singapore"
+      },
+      {
+        "forms" : [
+          "spostato"
+        ],
+        "note" : "Past participle of spostare, to move something to another place; era stato spostato = had been moved.",
+        "pos" : "verb",
+        "translation" : "moved"
+      },
+      {
+        "forms" : [
+          "squadra"
+        ],
+        "gender" : "feminine",
+        "note" : "A sports team; la sua squadra = his team, here Red Bull.",
+        "pos" : "noun",
+        "translation" : "team"
+      },
+      {
+        "forms" : [
+          "supera",
+          "superano",
+          "superati",
+          "superato"
+        ],
+        "note" : "From superare: lo superano = they pass him; after li the participle agrees: li ha superati = he overtook them.",
+        "pos" : "verb",
+        "translation" : "to overtake, pass"
+      },
+      {
+        "forms" : [
+          "torrenziale"
+        ],
+        "note" : "From torrente; ends in -e, so it is the same for masculine and feminine: una pioggia torrenziale = very heavy rain.",
+        "pos" : "adjective",
+        "translation" : "torrential"
+      },
+      {
+        "forms" : [
+          "vantaggio"
+        ],
+        "gender" : "masculine",
+        "note" : "How far ahead someone is: con 2,3 secondi di vantaggio = 2.3 seconds ahead.",
+        "pos" : "noun",
+        "translation" : "lead, advantage"
+      },
+      {
+        "forms" : [
+          "verstappen"
+        ],
+        "gender" : "masculine",
+        "note" : "Max Verstappen, the Red Bull driver who won this race.",
+        "pos" : "noun",
+        "translation" : "Verstappen"
+      },
+      {
+        "forms" : [
+          "vittoria"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun of vincere; la sua prima vittoria = his first win.",
+        "pos" : "noun",
+        "translation" : "win, victory"
       }
     ],
     "spanish" : [
@@ -104139,6 +106814,7 @@
       },
       {
         "forms" : [
+          "coche",
           "coches"
         ],
         "gender" : "masculine",
@@ -106544,6 +109220,7 @@
       },
       {
         "forms" : [
+          "peligrosa",
           "peligroso"
         ],
         "gender" : "masculine",
@@ -106585,6 +109262,7 @@
       },
       {
         "forms" : [
+          "perro",
           "perros"
         ],
         "gender" : "masculine",
@@ -107314,7 +109992,8 @@
       },
       {
         "forms" : [
-          "significa"
+          "significa",
+          "significar"
         ],
         "note" : "Significar (to mean), \"él/ella\" form.",
         "pos" : "verb",
@@ -109160,7 +111839,8 @@
       },
       {
         "forms" : [
-          "detener"
+          "detener",
+          "detiene"
         ],
         "note" : "Infinitive of detener.",
         "pos" : "verb",
@@ -110461,6 +113141,7 @@
       },
       {
         "forms" : [
+          "pasan",
           "pasar",
           "pase"
         ],
@@ -113454,6 +116135,7 @@
       {
         "forms" : [
           "confiaba",
+          "confió",
           "confía"
         ],
         "note" : "Confiar; confiaba is imperfect tense.",
@@ -116236,7 +118918,8 @@
       },
       {
         "forms" : [
-          "punto"
+          "punto",
+          "puntos"
         ],
         "gender" : "masculine",
         "note" : "\"El punto central\" = the main point.",
@@ -121230,7 +123913,8 @@
       },
       {
         "forms" : [
-          "traslada"
+          "traslada",
+          "trasladado"
         ],
         "note" : "From \"trasladar.\"",
         "pos" : "verb",
@@ -121238,7 +123922,9 @@
       },
       {
         "forms" : [
-          "trata"
+          "trata",
+          "trataban",
+          "trataron"
         ],
         "note" : "As in \"se trata de.\"",
         "pos" : "verb",
@@ -122133,7 +124819,8 @@
       },
       {
         "forms" : [
-          "alcanzar"
+          "alcanzar",
+          "alcanzarlo"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -124731,7 +127418,8 @@
       },
       {
         "forms" : [
-          "tardar"
+          "tardar",
+          "tardaron"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -126205,7 +128893,9 @@
         "forms" : [
           "morir",
           "moría",
+          "muere",
           "mueren",
+          "muerto",
           "murió"
         ],
         "note" : "Verbo irregular: o→ue («mueren»).",
@@ -126817,7 +129507,9 @@
       },
       {
         "forms" : [
-          "transmiten"
+          "transmite",
+          "transmiten",
+          "transmitida"
         ],
         "note" : "Presente.",
         "pos" : "verb",
@@ -126844,7 +129536,8 @@
       },
       {
         "forms" : [
-          "vacuna"
+          "vacuna",
+          "vacunas"
         ],
         "gender" : "feminine",
         "note" : "«La vacuna».",
@@ -127010,7 +129703,8 @@
       },
       {
         "forms" : [
-          "elimina"
+          "elimina",
+          "eliminado"
         ],
         "note" : "\"Se elimina\" is a passive with se: it is removed.",
         "pos" : "verb",
@@ -128580,7 +131274,9 @@
       },
       {
         "forms" : [
-          "gana"
+          "gana",
+          "ganado",
+          "ganó"
         ],
         "note" : "Present of ganar: \"la música gana\" = the music wins; ganar is also to earn.",
         "pos" : "verb",
@@ -129025,6 +131721,630 @@
         "note" : "Discutir usually means to argue, not to discuss calmly: \"los cocineros todavía discuten\" = cooks still argue.",
         "pos" : "verb",
         "translation" : "argue"
+      },
+      {
+        "forms" : [
+          "1972"
+        ],
+        "note" : "Spanish says years as whole numbers: \"en 1972\" = in 1972 (mil novecientos setenta y dos).",
+        "pos" : "number",
+        "translation" : "1972"
+      },
+      {
+        "forms" : [
+          "antaño"
+        ],
+        "note" : "A literary word for \"in former times\"; everyday Spanish says \"antes\".",
+        "pos" : "adverb",
+        "translation" : "long ago, in the past"
+      },
+      {
+        "forms" : [
+          "certificado"
+        ],
+        "gender" : "masculine",
+        "note" : "A document that confirms a fact; \"certificar\" is the verb.",
+        "pos" : "noun",
+        "translation" : "certificate"
+      },
+      {
+        "forms" : [
+          "certificó"
+        ],
+        "note" : "Pretérito indefinido of certificar (él/ella): a finished action at one moment.",
+        "pos" : "verb",
+        "translation" : "certified"
+      },
+      {
+        "forms" : [
+          "chile"
+        ],
+        "gender" : "masculine",
+        "note" : "The country in South America, the first there to be validated for eliminating dog-transmitted rabies.",
+        "pos" : "noun",
+        "translation" : "Chile"
+      },
+      {
+        "forms" : [
+          "consistió"
+        ],
+        "note" : "Pretérito indefinido of consistir; \"consistir en\" = to consist of.",
+        "pos" : "verb",
+        "translation" : "consisted"
+      },
+      {
+        "forms" : [
+          "contagiada"
+        ],
+        "note" : "Past participle of contagiar used as an adjective; it agrees with feminine \"rabia\".",
+        "pos" : "adjective",
+        "translation" : "passed on, caught (infected)"
+      },
+      {
+        "forms" : [
+          "decenas"
+        ],
+        "gender" : "feminine",
+        "note" : "\"Decenas de miles\" = tens of thousands; \"decena\" is a group of ten.",
+        "pos" : "noun",
+        "translation" : "tens, dozens"
+      },
+      {
+        "forms" : [
+          "eliminación"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns in -ción are feminine: la eliminación.",
+        "pos" : "noun",
+        "translation" : "elimination"
+      },
+      {
+        "forms" : [
+          "enseguida"
+        ],
+        "note" : "One word in Spanish; it means the same as \"inmediatamente\".",
+        "pos" : "adverb",
+        "translation" : "right away, at once"
+      },
+      {
+        "forms" : [
+          "extraño"
+        ],
+        "note" : "\"Lo extraño\" = the strange thing: lo + adjective names an idea.",
+        "pos" : "adjective",
+        "translation" : "strange"
+      },
+      {
+        "forms" : [
+          "gatos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of gato; the masculine plural can include female cats too.",
+        "pos" : "noun",
+        "translation" : "cats"
+      },
+      {
+        "forms" : [
+          "ginebra"
+        ],
+        "gender" : "feminine",
+        "note" : "The Swiss city where the World Health Organization has its headquarters.",
+        "pos" : "noun",
+        "translation" : "Geneva"
+      },
+      {
+        "forms" : [
+          "invisible"
+        ],
+        "note" : "Same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "invisible"
+      },
+      {
+        "forms" : [
+          "lepra"
+        ],
+        "gender" : "feminine",
+        "note" : "A long-lasting bacterial disease; Chile also eliminated it as a public health problem in 2026.",
+        "pos" : "noun",
+        "translation" : "leprosy"
+      },
+      {
+        "forms" : [
+          "mordedura",
+          "mordeduras"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine noun from morder (to bite); plural mordeduras.",
+        "pos" : "noun",
+        "translation" : "bite, bites"
+      },
+      {
+        "forms" : [
+          "mortal"
+        ],
+        "note" : "Same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "deadly, fatal"
+      },
+      {
+        "forms" : [
+          "rabia"
+        ],
+        "gender" : "feminine",
+        "note" : "Also means \"anger\" in everyday Spanish; the context tells you which.",
+        "pos" : "noun",
+        "translation" : "rabies"
+      },
+      {
+        "forms" : [
+          "rutina"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine noun, close to the English word.",
+        "pos" : "noun",
+        "translation" : "routine"
+      },
+      {
+        "forms" : [
+          "santiago"
+        ],
+        "gender" : "masculine",
+        "note" : "The capital of Chile.",
+        "pos" : "noun",
+        "translation" : "Santiago"
+      },
+      {
+        "forms" : [
+          "sinónimo"
+        ],
+        "gender" : "masculine",
+        "note" : "\"Ser sinónimo de\" = to be another word for, to amount to.",
+        "pos" : "noun",
+        "translation" : "synonym, equivalent"
+      },
+      {
+        "forms" : [
+          "suerte"
+        ],
+        "gender" : "feminine",
+        "note" : "\"Confiar en la suerte\" = to trust luck; feminine noun.",
+        "pos" : "noun",
+        "translation" : "luck"
+      },
+      {
+        "forms" : [
+          "síntomas"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of síntoma, which is masculine despite ending in -a: los síntomas.",
+        "pos" : "noun",
+        "translation" : "symptoms"
+      },
+      {
+        "forms" : [
+          "vacunación"
+        ],
+        "gender" : "feminine",
+        "note" : "Noun from vacunar; nouns in -ción are feminine.",
+        "pos" : "noun",
+        "translation" : "vaccination"
+      },
+      {
+        "forms" : [
+          "vacunadores"
+        ],
+        "gender" : "masculine",
+        "note" : "People who vaccinate; singular \"vacunador\".",
+        "pos" : "noun",
+        "translation" : "vaccinators, vaccination workers"
+      },
+      {
+        "forms" : [
+          "vacunaron"
+        ],
+        "note" : "Pretérito indefinido of vacunar (ellos/ellas): they vaccinated.",
+        "pos" : "verb",
+        "translation" : "vaccinated"
+      },
+      {
+        "forms" : [
+          "validado"
+        ],
+        "note" : "Past participle of validar, used as an adjective: \"un país validado por…\".",
+        "pos" : "verb",
+        "translation" : "validated, confirmed"
+      },
+      {
+        "forms" : [
+          "vigilancia"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine noun; \"vigilar\" is to watch over.",
+        "pos" : "noun",
+        "translation" : "surveillance, monitoring"
+      },
+      {
+        "forms" : [
+          "washington"
+        ],
+        "gender" : "masculine",
+        "note" : "The capital of the United States.",
+        "pos" : "noun",
+        "translation" : "Washington"
+      },
+      {
+        "forms" : [
+          "1"
+        ],
+        "note" : "In \"Fórmula 1\" the number is read \"uno\": Fórmula Uno.",
+        "pos" : "number",
+        "translation" : "one"
+      },
+      {
+        "forms" : [
+          "2,3"
+        ],
+        "note" : "Spanish writes decimals with a comma and reads them \"dos coma tres\".",
+        "pos" : "number",
+        "translation" : "2.3 (two point three)"
+      },
+      {
+        "forms" : [
+          "2017"
+        ],
+        "note" : "Read as a whole number, \"dos mil diecisiete\"; the year of the last Formula 1 race at Sepang before 2026.",
+        "pos" : "number",
+        "translation" : "2017"
+      },
+      {
+        "forms" : [
+          "4"
+        ],
+        "note" : "In dates Spanish uses the plain number, not an ordinal: \"el 4 de octubre\" is read \"el cuatro de octubre\".",
+        "pos" : "number",
+        "translation" : "four; the fourth"
+      },
+      {
+        "forms" : [
+          "84"
+        ],
+        "note" : "Read \"ochenta y cuatro\": from 31 to 99 the tens and units are joined with \"y\".",
+        "pos" : "number",
+        "translation" : "eighty-four"
+      },
+      {
+        "forms" : [
+          "adelantarlo",
+          "adelantaron",
+          "adelantó"
+        ],
+        "note" : "Forms of adelantar (to overtake): adelantó (he) and adelantaron (they) are pretérito indefinido; adelantarlo = adelantar + lo, to overtake him.",
+        "pos" : "verb",
+        "translation" : "overtook, passed; to overtake him"
+      },
+      {
+        "forms" : [
+          "ambos"
+        ],
+        "note" : "A more formal word for \"los dos\"; the feminine is ambas.",
+        "pos" : "pronoun",
+        "translation" : "both"
+      },
+      {
+        "forms" : [
+          "antonelli"
+        ],
+        "gender" : "masculine",
+        "note" : "Kimi Antonelli, a driver for the Mercedes team; he leads the 2026 championship after this race.",
+        "pos" : "noun",
+        "translation" : "Antonelli"
+      },
+      {
+        "forms" : [
+          "aumentado"
+        ],
+        "note" : "Past participle of aumentar; \"ha aumentado\" (pretérito perfecto) = has increased.",
+        "pos" : "verb",
+        "translation" : "increased"
+      },
+      {
+        "forms" : [
+          "baréin"
+        ],
+        "gender" : "masculine",
+        "note" : "The Spanish spelling of Bahrain; its Grand Prix (Gran Premio de Baréin) took place in Malaysia in 2026.",
+        "pos" : "noun",
+        "translation" : "Bahrain"
+      },
+      {
+        "forms" : [
+          "bull"
+        ],
+        "gender" : "masculine",
+        "note" : "Red Bull is the name of Max Verstappen's racing team; the English name is not translated.",
+        "pos" : "noun",
+        "translation" : "Bull (in \"Red Bull\")"
+      },
+      {
+        "forms" : [
+          "campeonato"
+        ],
+        "gender" : "masculine",
+        "note" : "From campeón (champion): the ranking over a whole season, won by the driver with the most points.",
+        "pos" : "noun",
+        "translation" : "championship"
+      },
+      {
+        "forms" : [
+          "carreras"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of carrera, which means a race as well as a career: \"quedan siete carreras\" = seven races are left.",
+        "pos" : "noun",
+        "translation" : "races"
+      },
+      {
+        "forms" : [
+          "circuito"
+        ],
+        "gender" : "masculine",
+        "note" : "The closed track where the cars race: \"el circuito de Sepang\".",
+        "pos" : "noun",
+        "translation" : "circuit, race track"
+      },
+      {
+        "forms" : [
+          "ferrari"
+        ],
+        "gender" : "masculine",
+        "note" : "A racing team; Lewis Hamilton drives for it.",
+        "pos" : "noun",
+        "translation" : "Ferrari"
+      },
+      {
+        "forms" : [
+          "fórmula"
+        ],
+        "gender" : "feminine",
+        "note" : "\"La Fórmula 1\" is the top class of car racing; Spanish writes the word with an accent and takes the article \"la\".",
+        "pos" : "noun",
+        "translation" : "formula; Formula (in \"Fórmula 1\")"
+      },
+      {
+        "forms" : [
+          "hamilton"
+        ],
+        "gender" : "masculine",
+        "note" : "Lewis Hamilton, a driver for the Ferrari team; third in this race.",
+        "pos" : "noun",
+        "translation" : "Hamilton"
+      },
+      {
+        "forms" : [
+          "kimi"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of the driver Kimi Antonelli.",
+        "pos" : "noun",
+        "translation" : "Kimi"
+      },
+      {
+        "forms" : [
+          "lewis"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of the driver Lewis Hamilton.",
+        "pos" : "noun",
+        "translation" : "Lewis"
+      },
+      {
+        "forms" : [
+          "llovió"
+        ],
+        "note" : "Pretérito indefinido of llover; weather verbs have no subject and are used only in the third person singular.",
+        "pos" : "verb",
+        "translation" : "it rained"
+      },
+      {
+        "forms" : [
+          "llueve"
+        ],
+        "note" : "Present of llover (o becomes ue); Spanish needs no word for \"it\": \"llueve mucho\" = it rains hard.",
+        "pos" : "verb",
+        "translation" : "it rains, it is raining"
+      },
+      {
+        "forms" : [
+          "malasia"
+        ],
+        "gender" : "feminine",
+        "note" : "The country where the Sepang circuit is; Spanish spells it with an s.",
+        "pos" : "noun",
+        "translation" : "Malaysia"
+      },
+      {
+        "forms" : [
+          "mercedes"
+        ],
+        "gender" : "masculine",
+        "note" : "A racing team; Kimi Antonelli and George Russell drive for it.",
+        "pos" : "noun",
+        "translation" : "Mercedes"
+      },
+      {
+        "forms" : [
+          "mojado"
+        ],
+        "note" : "Past participle of mojar (to wet) used as an adjective: \"un circuito mojado\" = a wet track.",
+        "pos" : "adjective",
+        "translation" : "wet"
+      },
+      {
+        "forms" : [
+          "monoplaza"
+        ],
+        "gender" : "masculine",
+        "note" : "The sports press word for a Formula 1 car, which has one seat (mono + plaza); masculine although it ends in -a.",
+        "pos" : "noun",
+        "translation" : "single-seater (racing car)"
+      },
+      {
+        "forms" : [
+          "noventa"
+        ],
+        "note" : "The tens from 30 to 90 end in -nta: \"noventa minutos\" is an hour and a half.",
+        "pos" : "number",
+        "translation" : "ninety"
+      },
+      {
+        "forms" : [
+          "octubre"
+        ],
+        "gender" : "masculine",
+        "note" : "Months are written without a capital letter in Spanish: \"el 4 de octubre\".",
+        "pos" : "noun",
+        "translation" : "October"
+      },
+      {
+        "forms" : [
+          "parrilla"
+        ],
+        "gender" : "feminine",
+        "note" : "\"La parrilla (de salida)\" is where the cars line up before the start; in a kitchen a parrilla is a grill.",
+        "pos" : "noun",
+        "translation" : "(starting) grid; grill"
+      },
+      {
+        "forms" : [
+          "próxima",
+          "próximo"
+        ],
+        "note" : "Goes before the noun and agrees with it: \"el próximo domingo\", \"la próxima carrera\".",
+        "pos" : "adjective",
+        "translation" : "next"
+      },
+      {
+        "forms" : [
+          "puestos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of the noun puesto, a place in a race or ranking: \"perder puestos\" = to lose places.",
+        "pos" : "noun",
+        "translation" : "places, positions"
+      },
+      {
+        "forms" : [
+          "reagrupados"
+        ],
+        "note" : "Past participle of reagrupar (re + agrupar), masculine plural to agree with \"los pilotos\".",
+        "pos" : "adjective",
+        "translation" : "bunched up, brought together again"
+      },
+      {
+        "forms" : [
+          "red"
+        ],
+        "gender" : "masculine",
+        "note" : "Red Bull is the name of Max Verstappen's racing team; the English name is not translated.",
+        "pos" : "noun",
+        "translation" : "Red (in \"Red Bull\")"
+      },
+      {
+        "forms" : [
+          "remontó"
+        ],
+        "note" : "Pretérito indefinido of remontar: to make up lost places, to come back from behind.",
+        "pos" : "verb",
+        "translation" : "climbed back, recovered"
+      },
+      {
+        "forms" : [
+          "repente"
+        ],
+        "note" : "Used only in the phrase \"de repente\" = suddenly, all at once.",
+        "pos" : "adverb",
+        "translation" : "suddenly (in \"de repente\")"
+      },
+      {
+        "forms" : [
+          "russell"
+        ],
+        "gender" : "masculine",
+        "note" : "George Russell, a driver for the Mercedes team, like Kimi Antonelli.",
+        "pos" : "noun",
+        "translation" : "Russell"
+      },
+      {
+        "forms" : [
+          "salida"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun of salir: in a race \"la salida\" is the start; on a door sign it is the exit.",
+        "pos" : "noun",
+        "translation" : "start (of a race); exit"
+      },
+      {
+        "forms" : [
+          "sepang"
+        ],
+        "gender" : "masculine",
+        "note" : "A racing circuit in Malaysia; Formula 1 raced there on 4 October 2026 and, before that, in 2017.",
+        "pos" : "noun",
+        "translation" : "Sepang"
+      },
+      {
+        "forms" : [
+          "singapur"
+        ],
+        "gender" : "masculine",
+        "note" : "The Spanish spelling of Singapore, where the next race takes place.",
+        "pos" : "noun",
+        "translation" : "Singapore"
+      },
+      {
+        "forms" : [
+          "torrencial"
+        ],
+        "note" : "Same form for masculine and feminine: \"una lluvia torrencial\" = very heavy rain.",
+        "pos" : "adjective",
+        "translation" : "torrential"
+      },
+      {
+        "forms" : [
+          "ventaja"
+        ],
+        "gender" : "feminine",
+        "note" : "\"84 puntos de ventaja\" = a lead of 84 points; \"con 2,3 segundos de ventaja\" = 2.3 seconds ahead.",
+        "pos" : "noun",
+        "translation" : "lead, advantage"
+      },
+      {
+        "forms" : [
+          "verstappen"
+        ],
+        "gender" : "masculine",
+        "note" : "Max Verstappen, a driver for the Red Bull team and the winner of this race.",
+        "pos" : "noun",
+        "translation" : "Verstappen"
+      },
+      {
+        "forms" : [
+          "victoria"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun that goes with ganar (to win): \"su primera victoria\" = his first win.",
+        "pos" : "noun",
+        "translation" : "victory, win"
+      },
+      {
+        "forms" : [
+          "vueltas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of vuelta; in racing a vuelta is one lap of the circuit: \"a pocas vueltas del final\" = a few laps from the end.",
+        "pos" : "noun",
+        "translation" : "laps"
       }
     ]
   },
@@ -145569,6 +148889,1106 @@
       "summary" : "Un impiegato di Madras impara la matematica da solo da un libro preso in prestito, riempie quaderni di teoremi che nessuno ha mai visto e nel 1913 scrive a uno sconosciuto.",
       "title" : "Il quaderno",
       "translationGroup" : "the-notebook"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "fifty-years-without",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In a short A1 story, \"dies\", \"vaccinates\", \"pass\" are all present tense, even for 1972; the dates show when it happens.",
+              "example" : "In 1972 a person in Chile dies of it.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "\"Every year\" takes a singular noun, and the verb after it follows the singular pattern.",
+              "example" : "Every year nobody dies.",
+              "title" : "Every + singular noun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Rabies is a dangerous disease. A dog's bite can carry it. People are afraid. In 1972 a person in Chile dies of it. The last one.",
+            "Then Chile vaccinates its dogs. Workers go from door to door. The vaccine is free.",
+            "Fifty years pass. Every year the dogs get the vaccine. Every year nobody dies.",
+            "On 14 September 2026 the World Health Organization gives Chile a certificate. No more rabies from dogs here. Chile is the first in South America."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "What happened is in the past simple: received, came, died, vaccinated, treated, wrote. Facts that stay true use the present: is, pass, kills.",
+              "example" : "The last case was in 1972.",
+              "title" : "Past simple for events"
+            },
+            {
+              "body" : "The negative past is did not + the base verb: \"did not wait\", \"did not happen\", never \"did not waited\".",
+              "example" : "Chile did not wait for luck.",
+              "title" : "Did not + base verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 14 September 2026 Chile received a certificate for something that did not happen. It came from the World Health Organization.",
+            "For more than fifty years nobody in Chile died of rabies from a dog. The last case was in 1972.",
+            "Rabies is a disease that dogs pass on through a bite. It kills tens of thousands of people every year, mostly in Asia and Africa.",
+            "Chile did not wait for luck. Workers vaccinated dogs and cats for free, going from door to door, and doctors treated every bite quickly.",
+            "The result was a quiet success: nothing happened for fifty years, and now somebody wrote it down. Chile is the first country in South America with this certificate."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had not happened\" and \"had died\" describe what came before the certificate in 2026: the past perfect marks the earlier past.",
+              "example" : "For more than fifty years, nobody there had died of rabies from a dog.",
+              "title" : "Past perfect for the earlier time"
+            },
+            {
+              "body" : "\"…invisible, because the result was nothing\": because gives the reason and starts a new clause.",
+              "example" : "The result was invisible, because the result was nothing: no case, year after year.",
+              "title" : "Because for a reason"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 14 September 2026 the World Health Organization gave Chile a certificate for something that had not happened. For more than fifty years, nobody there had died of rabies from a dog.",
+            "Rabies is a virus that dogs pass on through bites. It is almost always fatal once symptoms start, and it still kills tens of thousands of people a year. A bite used to mean fear.",
+            "The last human case was in 1972. After it came half a century of ordinary work: vaccinators at every door, free vaccines for dogs, doctors treating every bite at once.",
+            "The result was invisible, because the result was nothing: no case, year after year.",
+            "In 2026 somebody wrote it down. Chile became the first country in South America validated for eliminating dog-transmitted rabies, and its second elimination of the year, after leprosy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Almost always fatal once symptoms begin, it still kills…\": an adjective phrase opens the sentence and describes its subject, rabies.",
+              "example" : "Almost always fatal once symptoms begin, it still kills tens of thousands a year, mostly in Asia and Africa.",
+              "title" : "Participle clause at the start"
+            },
+            {
+              "body" : "\"Rabies caught from a dog\" and \"vaccinators going door to door\": a participle after the noun does the job of a relative clause.",
+              "example" : "For more than fifty years, nobody in Chile had died of rabies caught from a dog.",
+              "title" : "Participle after a noun"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 14 September 2026, from Santiago, Washington and Geneva, the World Health Organization certified something that had not happened. For more than fifty years, nobody in Chile had died of rabies caught from a dog.",
+            "Rabies is passed on through a dog's bite. Almost always fatal once symptoms begin, it still kills tens of thousands a year, mostly in Asia and Africa. For a family, a bite once meant fear.",
+            "Chile's last human case was in 1972. What followed was a routine, not a miracle: vaccinators going door to door, free vaccination for dogs and cats, constant surveillance, and treatment for every bite without delay.",
+            "The strange thing about this success is that nobody sees it. Nothing happened for decades, and the nothing was the achievement.",
+            "It was the country's second elimination of 2026, after leprosy. The work nobody notices is the work that works."
+          ]
+        }
+      ],
+      "summary" : "In September 2026 the World Health Organization certifies something that did not happen: for more than fifty years, nobody in Chile has died of rabies from a dog.",
+      "title" : "Fifty Years Without a Bite",
+      "translationGroup" : "fifty-years-without"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "fifty-years-without-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In a short A1 story, \"meurt\", \"vaccine\" and \"passent\" are all in the present tense, even for 1972; the dates show when it happens.",
+              "example" : "En 1972, une personne meurt de la rage au Chili.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "\"Personne\" means nobody and takes \"ne\" before the verb: \"personne ne meurt\" = nobody dies. French needs no extra \"pas\".",
+              "example" : "Chaque année, personne ne meurt.",
+              "title" : "Ne … personne: nobody"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "La rage est une maladie dangereuse. La morsure d'un chien peut la donner. Les gens ont peur. En 1972, une personne meurt de la rage au Chili. C'est la dernière.",
+            "Le Chili vaccine ses chiens. Des employés vont de porte en porte. Le vaccin ne coûte rien.",
+            "Cinquante ans passent. Chaque année, les chiens reçoivent le vaccin. Chaque année, personne ne meurt.",
+            "Le 14 septembre 2026, l'Organisation mondiale de la santé donne un certificat au Chili. Le Chili n'a plus de rage des chiens. Il est le premier d'Amérique du Sud."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passé composé is avoir (or être) in the present plus a past participle: a reçu, a vacciné, est mort. Verbs of coming and dying, like venir and mourir, take être, and the participle agrees with the subject.",
+              "example" : "Pendant plus de cinquante ans, personne au Chili n'est mort de la rage à cause d'un chien.",
+              "title" : "Passé composé for events"
+            },
+            {
+              "body" : "\"Était\" describes how things were, not a single event. It sets the scene around the passé composé actions.",
+              "example" : "Le résultat était un succès tranquille : rien n'est arrivé pendant cinquante ans, et maintenant quelqu'un l'a écrit.",
+              "title" : "Imparfait for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 14 septembre 2026, le Chili a reçu un certificat pour une chose qui n'est pas arrivée. Il est venu de l'Organisation mondiale de la santé.",
+            "Pendant plus de cinquante ans, personne au Chili n'est mort de la rage à cause d'un chien. Le dernier cas a eu lieu en 1972.",
+            "La rage est une maladie que les chiens transmettent par une morsure. Elle tue des dizaines de milliers de personnes par an, surtout en Asie et en Afrique.",
+            "Le Chili n'a pas attendu la chance. Des employés ont vacciné gratuitement les chiens et les chats, de porte en porte. Les médecins ont soigné chaque morsure très vite.",
+            "Le résultat était un succès tranquille : rien n'est arrivé pendant cinquante ans, et maintenant quelqu'un l'a écrit. Le Chili est le premier pays d'Amérique du Sud avec ce certificat."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"N'était pas arrivé\" and \"n'était mort\" describe what came before the certificate: the plus-que-parfait is the imparfait of avoir/être plus a participle, and it marks the earlier past.",
+              "example" : "Pendant plus de cinquante ans, personne là-bas n'était mort de la rage à cause d'un chien.",
+              "title" : "Plus-que-parfait for the earlier time"
+            },
+            {
+              "body" : "\"Que\" replaces the object of the clause and links it to the noun before it: \"un virus que les chiens transmettent\" = a virus that dogs pass on.",
+              "example" : "La rage est un virus que les chiens transmettent par leurs morsures.",
+              "title" : "Relative pronoun que"
+            },
+            {
+              "body" : "\"Parce que\" gives the reason and starts a new clause with its own verb. Before a vowel it becomes \"parce qu'\".",
+              "example" : "Le résultat était invisible, parce que ce résultat n'était rien : aucun cas, année après année.",
+              "title" : "Parce que for a reason"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 14 septembre 2026, l'Organisation mondiale de la santé a remis au Chili un certificat pour quelque chose qui n'était pas arrivé. Pendant plus de cinquante ans, personne là-bas n'était mort de la rage à cause d'un chien.",
+            "La rage est un virus que les chiens transmettent par leurs morsures. Elle est presque toujours mortelle quand les symptômes commencent, et elle tue des dizaines de milliers de personnes par an. Autrefois, une morsure signifiait la peur.",
+            "Le dernier cas humain date de 1972. Ensuite est venu un demi-siècle de travail ordinaire. Il y avait des vaccinateurs à chaque porte, des vaccins gratuits pour les chiens, des médecins qui soignaient chaque morsure.",
+            "Le résultat était invisible, parce que ce résultat n'était rien : aucun cas, année après année.",
+            "En 2026, quelqu'un l'a écrit. Le Chili est devenu le premier pays d'Amérique du Sud validé pour l'élimination de la rage transmise par les chiens. C'était sa deuxième élimination de l'année, après la lèpre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Presque toujours mortelle dès que les symptômes apparaissent, elle tue encore…\": an adjective phrase opens the sentence and describes its subject, la rage, which comes right after the comma.",
+              "example" : "Presque toujours mortelle dès que les symptômes apparaissent, elle tue encore des dizaines de milliers de personnes par an, surtout en Asie et en Afrique.",
+              "title" : "Participle clause at the start"
+            },
+            {
+              "body" : "Written accounts use the passé simple (suivit, fut) where speech would use the passé composé. You read it far more than you say it.",
+              "example" : "Ce qui suivit fut une routine, non un miracle.",
+              "title" : "Passé simple in written narration"
+            },
+            {
+              "body" : "French has no single word for the relative \"what\": use ce qui when it is the subject and ce que when it is the object. \"Ce qu'il y a d'étrange … c'est que\" is a typical way to stress a point.",
+              "example" : "Ce qu'il y a d'étrange dans ce succès, c'est que personne ne le voit.",
+              "title" : "Ce qui / ce que for \"what\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 14 septembre 2026, depuis Santiago, Washington et Genève, l'Organisation mondiale de la santé a certifié ce qui n'avait pas eu lieu. Pendant plus de cinquante ans, personne au Chili n'était mort de la rage contractée auprès d'un chien.",
+            "La rage se transmet par la morsure d'un chien. Presque toujours mortelle dès que les symptômes apparaissent, elle tue encore des dizaines de milliers de personnes par an, surtout en Asie et en Afrique. Pour une famille, une morsure signifiait jadis la peur.",
+            "Le dernier cas humain au Chili date de 1972. Ce qui suivit fut une routine, non un miracle. Il y eut des vaccinateurs de porte en porte, la vaccination gratuite des chiens et des chats, une surveillance constante et le traitement de chaque morsure sans délai.",
+            "Ce qu'il y a d'étrange dans ce succès, c'est que personne ne le voit. Il ne s'est rien passé pendant des décennies, et ce rien était l'exploit.",
+            "Ce fut la deuxième élimination du pays en 2026, après la lèpre. Le travail que personne ne remarque est celui qui marche."
+          ]
+        }
+      ],
+      "summary" : "En septembre 2026, l'Organisation mondiale de la santé certifie quelque chose qui n'est pas arrivé : depuis plus de cinquante ans, personne au Chili ne meurt de la rage à cause d'un chien.",
+      "title" : "Cinquante ans sans morsure",
+      "translationGroup" : "fifty-years-without"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "fifty-years-without-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German tells this A1 story in the present, even for 1972; the date shows when it happens. The conjugated verb stays in second position, so after \"1972\" it comes before the subject.",
+              "example" : "1972 stirbt in Chile ein Mensch daran.",
+              "title" : "Present tense for a story, verb in second place"
+            },
+            {
+              "body" : "\"Jedes Jahr\" means every year: jeder changes its ending to match the gender of the noun, and Jahr is neuter. The time phrase can start the sentence, and the verb follows it.",
+              "example" : "Jedes Jahr stirbt niemand.",
+              "title" : "Jedes + neuter noun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Tollwut ist eine gefährliche Krankheit. Der Biss von einem Hund kann sie bringen. Die Leute haben Angst. 1972 stirbt in Chile ein Mensch daran. Es ist der letzte Fall.",
+            "Dann impft Chile seine Hunde. Helfer gehen von Tür zu Tür. Die Impfung ist kostenlos.",
+            "Fünfzig Jahre vergehen. Jedes Jahr bekommen die Hunde die Impfung. Jedes Jahr stirbt niemand.",
+            "Am 14. September 2026 gibt die Weltgesundheitsorganisation Chile ein Zertifikat. Keine Tollwut mehr von Hunden. Chile ist das erste Land in Südamerika."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with the Perfekt: a helper verb in second place and the participle at the end. Verbs of movement and change, like gehen and sterben, take sein; most others take haben.",
+              "example" : "Helfer sind von Tür zu Tür gegangen und haben Hunde und Katzen kostenlos geimpft.",
+              "title" : "Perfekt: haben or sein + Partizip II at the end"
+            },
+            {
+              "body" : "For \"to be\" and \"to have\" German keeps the short past forms war and hatte even when everything else is in the Perfekt.",
+              "example" : "Der letzte Fall war 1972.",
+              "title" : "War and hatte for the background"
+            },
+            {
+              "body" : "In the Perfekt, nicht usually stands before the participle at the end: \"nicht gewartet\".",
+              "example" : "Chile hat nicht auf Glück gewartet.",
+              "title" : "Nicht before the final part of the sentence"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am 14. September 2026 hat die Weltgesundheitsorganisation Chile ein Zertifikat gegeben. Es war ein Zertifikat für etwas, das nicht passiert ist.",
+            "Mehr als fünfzig Jahre lang ist in Chile niemand an Tollwut von Hunden gestorben. Der letzte Fall war 1972.",
+            "Hunde übertragen Tollwut durch einen Biss. Jedes Jahr sterben zehntausende Menschen daran, meistens in Asien und Afrika.",
+            "Chile hat nicht auf Glück gewartet. Helfer sind von Tür zu Tür gegangen und haben Hunde und Katzen kostenlos geimpft. Ärzte haben jeden Biss schnell behandelt.",
+            "Der Erfolg war leise: Fünfzig Jahre ist nichts passiert, und jetzt hat jemand es aufgeschrieben. Chile ist das erste Land in Südamerika mit diesem Zertifikat."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"War passiert\" and \"war gestorben\" describe what came before the certificate: war/hatte + Partizip II is the German past perfect. Verbs that take sein in the Perfekt also take war here.",
+              "example" : "Mehr als fünfzig Jahre lang war dort niemand an Tollwut von einem Hund gestorben.",
+              "title" : "Plusquamperfekt for the earlier time"
+            },
+            {
+              "body" : "A relative pronoun (das, die) sends the conjugated verb to the end of its clause. The pronoun agrees in gender with the noun it refers to, not with its role in the clause.",
+              "example" : "Tollwut ist ein Virus, das Hunde durch Bisse übertragen.",
+              "title" : "Relative clause: verb at the end"
+            },
+            {
+              "body" : "Weil starts a subordinate clause and sends the verb to the end: \"weil das Ergebnis nichts war\".",
+              "example" : "Das Ergebnis war unsichtbar, weil das Ergebnis nichts war: kein Fall, Jahr für Jahr.",
+              "title" : "Weil for a reason"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am 14. September 2026 gab die Weltgesundheitsorganisation Chile ein Zertifikat für etwas, das nicht passiert war. Mehr als fünfzig Jahre lang war dort niemand an Tollwut von einem Hund gestorben.",
+            "Tollwut ist ein Virus, das Hunde durch Bisse übertragen. Sie endet fast immer tödlich, sobald die Symptome beginnen, und sie tötet weltweit noch heute zehntausende Menschen im Jahr, meistens in Asien und Afrika. Ein Biss bedeutete früher Angst.",
+            "Der letzte menschliche Fall war 1972. Danach kam ein halbes Jahrhundert gewöhnlicher Arbeit: Impfteams von Tür zu Tür, kostenlose Impfungen für Hunde, Ärzte, die jeden Biss sofort behandelten.",
+            "Das Ergebnis war unsichtbar, weil das Ergebnis nichts war: kein Fall, Jahr für Jahr.",
+            "2026 schrieb es endlich jemand auf. Chile wurde das erste Land in Südamerika, das die Tollwut von Hunden eliminiert hat. Es war nach der Lepra die zweite Eliminierung des Jahres."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is formed with werden and the participle at the end; the doer, if named, appears with durch or von. Here the bite is the means: \"durch den Biss\".",
+              "example" : "Tollwut wird durch den Biss eines Hundes übertragen.",
+              "title" : "Vorgangspassiv: werden + Partizip II"
+            },
+            {
+              "body" : "An adjective phrase can open the sentence and describe its subject; the verb then follows directly in second place and the subject comes after it.",
+              "example" : "Fast immer tödlich, sobald Symptome auftreten, fordert sie weltweit noch immer zehntausende Opfer im Jahr, meist in Asien und Afrika.",
+              "title" : "Adjective phrase in front of the verb"
+            },
+            {
+              "body" : "A present or past participle can stand before the noun like a compressed relative clause: \"von Tür zu Tür ziehende Impfteams\" = teams that go door to door. It takes adjective endings.",
+              "example" : "Was folgte, war Routine, kein Wunder: von Tür zu Tür ziehende Impfteams, kostenlose Impfungen für Hunde und Katzen, ständige Überwachung und die sofortige Behandlung jedes Bisses.",
+              "title" : "Extended participle before a noun"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am 14. September 2026 bescheinigte die Weltgesundheitsorganisation, von Santiago, Washington und Genf aus, etwas, das nicht geschehen war. Mehr als fünfzig Jahre lang war in Chile niemand an einer von einem Hund übertragenen Tollwut gestorben.",
+            "Tollwut wird durch den Biss eines Hundes übertragen. Fast immer tödlich, sobald Symptome auftreten, fordert sie weltweit noch immer zehntausende Opfer im Jahr, meist in Asien und Afrika. Für eine Familie bedeutete ein Biss einst Angst.",
+            "Chiles letzter menschlicher Fall war 1972. Was folgte, war Routine, kein Wunder: von Tür zu Tür ziehende Impfteams, kostenlose Impfungen für Hunde und Katzen, ständige Überwachung und die sofortige Behandlung jedes Bisses.",
+            "Das Merkwürdige an diesem Erfolg ist, dass ihn niemand sieht. Jahrzehntelang geschah nichts, und dieses Nichts war die Leistung.",
+            "Es war die zweite Eliminierung des Landes im Jahr 2026, nach der Lepra. Die Arbeit, die niemand bemerkt, ist die Arbeit, die wirkt."
+          ]
+        }
+      ],
+      "summary" : "Im September 2026 bescheinigt die Weltgesundheitsorganisation etwas, das nicht geschehen ist: Seit mehr als fünfzig Jahren ist in Chile niemand mehr an der Tollwut von einem Hund gestorben.",
+      "title" : "Fünfzig Jahre ohne Biss",
+      "translationGroup" : "fifty-years-without"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "fifty-years-without-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In this A1 story \"muere\", \"vacuna\" and \"pasan\" are all present tense, even for 1972; the date shows when it happens.",
+              "example" : "En 1972 una persona muere de rabia en Chile.",
+              "title" : "Present tense to tell a story"
+            },
+            {
+              "body" : "\"Cada\" never changes and always takes a singular noun without an article: cada año, cada día.",
+              "example" : "Cada año nadie muere.",
+              "title" : "Cada + singular noun, no article"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "La rabia es una enfermedad peligrosa. La mordedura de un perro puede traer la rabia. La gente tiene miedo. En 1972 una persona muere de rabia en Chile. Es la última.",
+            "Entonces Chile vacuna a sus perros. Los trabajadores van de puerta en puerta. La vacuna es gratis.",
+            "Pasan cincuenta años. Cada año los perros reciben la vacuna. Cada año nadie muere.",
+            "Es el 14 de septiembre de 2026. La Organización Mundial de la Salud da un certificado a Chile. Ya no hay rabia de perros. Es el primer país de Sudamérica."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Completed past events use the pretérito indefinido: recibió, murió, vacunaron, trataron. Facts that are still true stay in the present: es, mata.",
+              "example" : "Los trabajadores vacunaron gratis a perros y gatos, de puerta en puerta.",
+              "title" : "Pretérito indefinido for finished events"
+            },
+            {
+              "body" : "\"Fue\" is the pretérito indefinido of \"ser\" and is used for a finished fact with a date or a limit.",
+              "example" : "El último caso fue en 1972.",
+              "title" : "Ser in the past: fue"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 14 de septiembre de 2026 Chile recibió un certificado por algo que no pasó. Lo dio la Organización Mundial de la Salud.",
+            "Durante más de cincuenta años nadie en Chile murió de rabia por culpa de un perro. El último caso fue en 1972.",
+            "La rabia es una enfermedad que los perros transmiten con una mordedura. Cada año mata a decenas de miles de personas, sobre todo en Asia y África.",
+            "Chile no confió en la suerte. Los trabajadores vacunaron gratis a perros y gatos, de puerta en puerta. Los médicos trataron cada mordedura enseguida.",
+            "El resultado fue un éxito tranquilo: durante cincuenta años no pasó nada. Y por fin alguien lo escribió. Chile es el primer país de Sudamérica con este certificado."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Había ocurrido\" and \"había muerto\" (haber in the imperfect + participle) describe what had already happened before the certificate in 2026.",
+              "example" : "Durante más de cincuenta años, nadie allí había muerto de rabia por culpa de un perro.",
+              "title" : "Pluscuamperfecto for the earlier past"
+            },
+            {
+              "body" : "\"Que\" links a noun to a clause that describes it: un virus que los perros transmiten = a virus that dogs pass on.",
+              "example" : "La rabia es un virus que los perros transmiten con sus mordeduras.",
+              "title" : "Relative clause with \"que\""
+            },
+            {
+              "body" : "\"Solía\" (imperfect of soler) + infinitive says what used to happen again and again: solía significar = used to mean.",
+              "example" : "Una mordedura solía significar miedo.",
+              "title" : "Soler + infinitive for past habit"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 14 de septiembre de 2026 la Organización Mundial de la Salud entregó a Chile un certificado por algo que no había ocurrido. Durante más de cincuenta años, nadie allí había muerto de rabia por culpa de un perro.",
+            "La rabia es un virus que los perros transmiten con sus mordeduras. Casi siempre es mortal cuando aparecen los síntomas. Todavía mata a decenas de miles de personas al año, sobre todo en Asia y África. Una mordedura solía significar miedo.",
+            "El último caso humano fue en 1972. Después llegó medio siglo de trabajo corriente: vacunadores en cada puerta, vacunas gratis para los perros y médicos que trataban cada mordedura de inmediato.",
+            "El resultado fue invisible, porque consistió en nada: ningún caso, año tras año.",
+            "En 2026 alguien por fin lo escribió. Chile se convirtió en el primer país de Sudamérica validado por haber eliminado la rabia transmitida por perros. Fue también su segunda eliminación del año, después de la lepra."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Casi siempre mortal cuando aparecen los síntomas\" opens the sentence and describes its subject, la rabia, in place of a longer \"como es casi siempre mortal…\".",
+              "example" : "Casi siempre mortal cuando aparecen los síntomas, aún mata a decenas de miles de personas al año, sobre todo en Asia y África.",
+              "title" : "Adjective phrase opening the sentence"
+            },
+            {
+              "body" : "A participle agrees with the noun it follows and works like a relative clause: \"rabia contagiada por un perro\" = rabies that is caught from a dog.",
+              "example" : "Durante más de cincuenta años, nadie en Chile había muerto de rabia contagiada por un perro.",
+              "title" : "Past participle after a noun"
+            },
+            {
+              "body" : "\"Lo\" before an adjective turns it into an abstract noun: lo extraño = the strange thing.",
+              "example" : "Lo extraño de este éxito es que nadie lo ve.",
+              "title" : "Lo + adjective for an abstract idea"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 14 de septiembre de 2026, desde Santiago, Washington y Ginebra, la Organización Mundial de la Salud certificó algo que no había ocurrido. Durante más de cincuenta años, nadie en Chile había muerto de rabia contagiada por un perro.",
+            "La rabia se transmite por la mordedura de un perro. Casi siempre mortal cuando aparecen los síntomas, aún mata a decenas de miles de personas al año, sobre todo en Asia y África. Para una familia, una mordedura era antaño sinónimo de miedo.",
+            "El último caso humano de Chile fue en 1972. Lo que siguió fue una rutina, no un milagro: vacunadores de puerta en puerta, vacunación gratuita de perros y gatos, vigilancia constante y tratamiento inmediato de cada mordedura.",
+            "Lo extraño de este éxito es que nadie lo ve. Durante décadas no pasó nada, y ese nada fue el logro.",
+            "Fue la segunda eliminación del país en 2026, después de la lepra. El trabajo que nadie nota es el trabajo que funciona."
+          ]
+        }
+      ],
+      "summary" : "En septiembre de 2026 la Organización Mundial de la Salud certifica algo que no ocurrió: durante más de cincuenta años, nadie en Chile murió de rabia por culpa de un perro.",
+      "title" : "Cincuenta años sin una mordedura",
+      "translationGroup" : "fifty-years-without"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "fifty-years-without-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In a short A1 story, \"muore\", \"vaccina\", \"passano\" are all present tense, even for 1972; the date shows when it happens.",
+              "example" : "Nel 1972 una persona in Cile muore di rabbia.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "When \"nessuno\" (nobody) comes before the verb, Italian does not add \"non\": \"nessuno muore\". After the verb you would need it: \"non muore nessuno\".",
+              "example" : "Ogni anno nessuno muore.",
+              "title" : "Nessuno takes no \"non\" before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "La rabbia è una malattia pericolosa. Il morso di un cane può dare la rabbia. Le persone hanno paura. Nel 1972 una persona in Cile muore di rabbia. È l'ultima.",
+            "Poi il Cile vaccina i suoi cani. Gli operatori vanno di porta in porta. Il vaccino è gratis.",
+            "Passano cinquant'anni. Ogni anno i cani ricevono il vaccino. Ogni anno nessuno muore.",
+            "Il 14 settembre 2026 l'Organizzazione Mondiale della Sanità dà un certificato al Cile. Qui non c'è più rabbia dai cani. Il Cile è il primo in Sud America."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is a present form of avere or essere plus a past participle: \"ha ricevuto\", \"è successo\", \"è morto\". Verbs of change and happening, like morire and succedere, take essere, and the participle agrees with the subject.",
+              "example" : "Per più di cinquant'anni nessuno è morto di rabbia in Cile.",
+              "title" : "Passato prossimo with avere and essere"
+            },
+            {
+              "body" : "Italian uses \"era\" (imperfect) to describe how things were, while the passato prossimo tells what happened. \"L'ultimo caso era del 1972\" sets the date as background.",
+              "example" : "L'ultimo caso era del 1972.",
+              "title" : "Era for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il 14 settembre 2026 il Cile ha ricevuto un certificato. Il certificato era per qualcosa che non è successo. Lo ha dato l'Organizzazione Mondiale della Sanità.",
+            "Per più di cinquant'anni nessuno è morto di rabbia in Cile. L'ultimo caso era del 1972.",
+            "La rabbia è una malattia che i cani trasmettono con un morso. Uccide decine di migliaia di persone ogni anno, soprattutto in Asia e in Africa.",
+            "Il Cile non ha aspettato la fortuna. Gli operatori hanno vaccinato gratis cani e gatti, di porta in porta. I medici hanno curato subito ogni morso.",
+            "Il risultato è stato un successo silenzioso. Per cinquant'anni non è successo niente e ora qualcuno lo ha scritto. Il Cile è il primo paese in Sud America con questo certificato."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Era successo\" and \"era morto\" (essere or avere in the imperfect + participle) describe what had already happened before the certificate in 2026.",
+              "example" : "Il 14 settembre 2026 l'Organizzazione Mondiale della Sanità ha dato al Cile un certificato per qualcosa che non era successo.",
+              "title" : "Trapassato prossimo for the earlier time"
+            },
+            {
+              "body" : "\"Che\" links a clause to a noun and is never dropped: \"un virus che i cani trasmettono\" = a virus that dogs pass on. It works for both people and things.",
+              "example" : "La rabbia è un virus che i cani trasmettono con il morso.",
+              "title" : "Relative \"che\" for the subject or object"
+            },
+            {
+              "body" : "\"Perché\" gives the reason and starts a new clause: the result was invisible because the result was nothing.",
+              "example" : "Il risultato era invisibile, perché il risultato era niente: nessun caso, anno dopo anno.",
+              "title" : "Perché for a reason"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il 14 settembre 2026 l'Organizzazione Mondiale della Sanità ha dato al Cile un certificato per qualcosa che non era successo. Per più di cinquant'anni, nessuno là era morto di rabbia per il morso di un cane.",
+            "La rabbia è un virus che i cani trasmettono con il morso. Quasi sempre è mortale quando compaiono i sintomi, e ancora oggi uccide decine di migliaia di persone all'anno. Un morso voleva dire paura.",
+            "L'ultimo caso umano è stato nel 1972. Dopo è arrivato mezzo secolo di lavoro ordinario: vaccinatori a ogni porta, vaccini gratis per i cani, medici che curavano ogni morso subito.",
+            "Il risultato era invisibile, perché il risultato era niente: nessun caso, anno dopo anno.",
+            "Nel 2026 qualcuno lo ha scritto. Il Cile è diventato il primo paese del Sud America riconosciuto per aver eliminato la rabbia trasmessa dai cani. Era la sua seconda eliminazione dell'anno, dopo la lebbra."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Una volta comparsi i sintomi\" means once the symptoms have appeared: a past participle that agrees with its noun replaces a whole clause. It is typical of written, formal Italian.",
+              "example" : "Quasi sempre mortale una volta comparsi i sintomi, uccide ancora decine di migliaia di persone all'anno, soprattutto in Asia e in Africa.",
+              "title" : "Absolute participle: una volta + participle"
+            },
+            {
+              "body" : "Written accounts of finished events often use the passato remoto (fu, seguì, accadde) where speech would use the passato prossimo. You will read it far more than you say it.",
+              "example" : "Per decenni non accadde nulla, e quel nulla fu l'impresa.",
+              "title" : "Passato remoto in written narration"
+            },
+            {
+              "body" : "Italian has no single word for the relative \"what\": it uses \"quello che\" (or \"ciò che\"). \"Che cosa\" is only for questions.",
+              "example" : "Quello che seguì fu una routine, non un miracolo: vaccinatori che andavano di porta in porta, vaccinazione gratuita per cani e gatti, sorveglianza costante e cure immediate per ogni morso.",
+              "title" : "\"Quello che\" for \"what\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il 14 settembre 2026, da Santiago, Washington e Ginevra, l'Organizzazione Mondiale della Sanità ha certificato qualcosa che non era accaduto. Per più di cinquant'anni nessuno in Cile era morto di rabbia contratta da un cane.",
+            "La rabbia si trasmette con il morso di un cane. Quasi sempre mortale una volta comparsi i sintomi, uccide ancora decine di migliaia di persone all'anno, soprattutto in Asia e in Africa. Per una famiglia, un morso significava un tempo paura.",
+            "L'ultimo caso umano in Cile fu quello del 1972. Quello che seguì fu una routine, non un miracolo: vaccinatori che andavano di porta in porta, vaccinazione gratuita per cani e gatti, sorveglianza costante e cure immediate per ogni morso.",
+            "La cosa strana di questo successo è che nessuno lo vede. Per decenni non accadde nulla, e quel nulla fu l'impresa.",
+            "Fu la seconda eliminazione dell'anno per il Paese, dopo la lebbra. Il lavoro che nessuno nota è il lavoro che funziona."
+          ]
+        }
+      ],
+      "summary" : "Nel settembre 2026 l'Organizzazione Mondiale della Sanità certifica qualcosa che non è successo: da più di cinquant'anni in Cile nessuno muore di rabbia per il morso di un cane.",
+      "title" : "Cinquant'anni senza un morso",
+      "translationGroup" : "fifty-years-without"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "weekend-sport-2026-10-04",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present: \"starts\", \"pass\", \"wins\". Even 2017 is in the present here; the year shows when it happens.",
+              "example" : "He wins here in 2017 too.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "With he, she, it or one name the present verb takes -s: \"Verstappen starts\", \"it rains\". With a plural there is no -s: \"two cars pass\".",
+              "example" : "Two Mercedes cars pass him.",
+              "title" : "He/she/it + verb with -s"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is Sunday, 4 October 2026. Formula 1 is at Sepang in Malaysia. It rains a lot. The race starts late.",
+            "Max Verstappen starts first. Two Mercedes cars pass him. Then he passes them. He wins for Red Bull, his first win this year.",
+            "Kimi Antonelli is second. George Russell is third, but his car stops. So Lewis Hamilton is third for Ferrari.",
+            "Verstappen knows this track. He wins here in 2017 too. Next Sunday the race is in Singapore."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed: started, passed, finished, stopped. Irregular verbs change: fall → fell, take → took, win → won.",
+              "example" : "After a safety car Verstappen passed them both and won the race.",
+              "title" : "Past simple: regular and irregular verbs"
+            },
+            {
+              "body" : "\"When\" joins two past actions: he was third at the moment the car stopped. Both verbs are in the past simple.",
+              "example" : "Russell was third when his car stopped a few laps from the end.",
+              "title" : "When + past simple"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On Sunday, 4 October 2026, heavy rain fell at Sepang in Malaysia. The Formula 1 race started about ninety minutes late.",
+            "Max Verstappen started first for Red Bull, but his start was slow. The two Mercedes drivers, Kimi Antonelli and George Russell, passed him.",
+            "After a safety car Verstappen passed them both and won the race. It was his first win of 2026.",
+            "Antonelli finished second, 2.3 seconds behind. Russell was third when his car stopped a few laps from the end. Lewis Hamilton took third place for Ferrari.",
+            "Verstappen also won the last race at Sepang, in 2017. Antonelli is still first in the championship, 84 points ahead of Russell. The next race is in Singapore on Sunday."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"So heavy that…\" links a cause to its result: the rain was very heavy, and because of it the race had to wait.",
+              "example" : "On Sunday, 4 October 2026, the rain over Sepang was so heavy that Formula 1 had to wait.",
+              "title" : "So + adjective + that"
+            },
+            {
+              "body" : "\"Had lost\" happened before \"took\": the past perfect (had + past participle) marks the earlier of two past events.",
+              "example" : "Lewis Hamilton, who had lost many places at the start, took third for Ferrari behind Antonelli.",
+              "title" : "Past perfect for the earlier event"
+            },
+            {
+              "body" : "\"However\" shows a contrast with the sentence before. Inside a sentence it stands between commas.",
+              "example" : "After a safety car, however, Verstappen overtook them both.",
+              "title" : "However in the middle of a sentence"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On Sunday, 4 October 2026, the rain over Sepang was so heavy that Formula 1 had to wait. The Bahrain Grand Prix, moved to Malaysia this year, started about ninety minutes late.",
+            "Max Verstappen started first for Red Bull, but he was slow on the wet track. The two Mercedes drivers, Kimi Antonelli and George Russell, passed him immediately.",
+            "After a safety car, however, Verstappen overtook them both. He won by 2.3 seconds, his first victory of 2026 and his team's.",
+            "Russell was third when his car suddenly stopped, a few laps from the end. Lewis Hamilton, who had lost many places at the start, took third for Ferrari behind Antonelli.",
+            "Antonelli is now 84 points ahead in the championship, with seven races left. Next Sunday is Singapore. Verstappen had already won the last race at Sepang, in 2017."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had been moved\" combines the past perfect (had been) with the passive (moved): the move happened before the race, and who moved it is not important.",
+              "example" : "On Sunday, 4 October 2026, torrential rain kept Formula 1 waiting at Sepang, where the Bahrain Grand Prix had been moved this year.",
+              "title" : "Past perfect passive"
+            },
+            {
+              "body" : "\"Having lost many places\" replaces \"after he had lost many places\": a compact, formal way to give the earlier action.",
+              "example" : "Antonelli finished second, while Lewis Hamilton, having lost many places at the start, recovered to third for Ferrari.",
+              "title" : "Perfect participle: having + past participle"
+            },
+            {
+              "body" : "\"Once\" here means \"as soon as\": after the safety car had done its work, the overtaking followed.",
+              "example" : "Once a safety car had closed the field up, Verstappen overtook them both and was never caught, finishing 2.3 seconds ahead: his first victory of 2026, and Red Bull's.",
+              "title" : "Once + past perfect"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On Sunday, 4 October 2026, torrential rain kept Formula 1 waiting at Sepang, where the Bahrain Grand Prix had been moved this year. The race began about ninety minutes late, on a wet track.",
+            "Max Verstappen, first on the grid for Red Bull, got away slowly, and Mercedes drivers Kimi Antonelli and George Russell were soon past him.",
+            "It did not last. Once a safety car had closed the field up, Verstappen overtook them both and was never caught, finishing 2.3 seconds ahead: his first victory of 2026, and Red Bull's.",
+            "Russell, running third, saw his car stop behind a safety car with a few laps remaining. Antonelli finished second, while Lewis Hamilton, having lost many places at the start, recovered to third for Ferrari.",
+            "Antonelli's championship lead over Russell has grown to 84 points with seven races remaining, the next in Singapore on Sunday. As for Verstappen, the last Formula 1 race at Sepang, in 2017, was his too."
+          ]
+        }
+      ],
+      "summary" : "On Sunday 4 October 2026 the rain kept Formula 1 waiting for an hour and a half, and then Max Verstappen won at Sepang, the track where he had last won nine years before.",
+      "title" : "Back at Sepang, Verstappen Wins Again",
+      "translationGroup" : "weekend-sport-2026-10-04"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "weekend-sport-2026-10-04-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present: \"commence\", \"dépasse\", \"gagne\". Even 2017 is in the present here; the year shows when it happens.",
+              "example" : "Il gagne aussi ici en 2017.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "The object pronouns \"le\" (him) and \"les\" (them) stand before the verb, not after it: \"le dépassent\" = pass him, \"il les dépasse\" = he passes them.",
+              "example" : "Deux voitures Mercedes le dépassent.",
+              "title" : "Le and les before the verb"
+            },
+            {
+              "body" : "For the weather French uses \"il\" with no real meaning, like English \"it\": \"il pleut\" = it rains. \"Très fort\" after the verb says how much.",
+              "example" : "Il pleut très fort.",
+              "title" : "Il pleut: \"il\" for the weather"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "C'est le dimanche 4 octobre 2026. La Formule 1 est à Sepang, en Malaisie. Il pleut très fort. La course commence en retard.",
+            "Max Verstappen est premier au départ. Deux voitures Mercedes le dépassent. Puis il les dépasse. Il gagne pour Red Bull. C'est sa première victoire cette année.",
+            "Kimi Antonelli est deuxième. George Russell est troisième, mais sa voiture s'arrête. Alors Lewis Hamilton est troisième pour Ferrari.",
+            "Verstappen connaît ce circuit. Il gagne aussi ici en 2017. Dimanche prochain, la course est à Singapour."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs build the past with avoir in the present plus a past participle: a commencé, a gagné, a fini. Some participles are irregular: prendre → pris, reprendre → repris.",
+              "example" : "Il a gagné la course, sa première victoire de 2026.",
+              "title" : "Passé composé with avoir"
+            },
+            {
+              "body" : "Verbs of movement like tomber and partir, and all reflexive verbs (s'arrêter), take être. The participle then agrees with the subject: la pluie est tombée, la voiture s'est arrêtée.",
+              "example" : "Le dimanche 4 octobre 2026, une forte pluie est tombée sur Sepang, en Malaisie.",
+              "title" : "Passé composé with être"
+            },
+            {
+              "body" : "\"Était\" (imparfait) gives the situation, and the passé composé \"s'est arrêtée\" gives the event that happens in it. \"Quand\" joins the two.",
+              "example" : "Russell était troisième quand sa voiture s'est arrêtée peu avant la fin.",
+              "title" : "Quand: the situation and the event"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le dimanche 4 octobre 2026, une forte pluie est tombée sur Sepang, en Malaisie. La course de Formule 1 a commencé avec environ quatre-vingt-dix minutes de retard.",
+            "Max Verstappen est parti premier pour Red Bull, mais son départ a été lent. Les deux pilotes Mercedes, Kimi Antonelli et George Russell, l'ont dépassé.",
+            "Après une voiture de sécurité, Verstappen les a dépassés tous les deux. Il a repris la première place. Il a gagné la course, sa première victoire de 2026.",
+            "Antonelli a fini deuxième, 2,3 secondes derrière. Russell était troisième quand sa voiture s'est arrêtée peu avant la fin. Lewis Hamilton a pris la troisième place pour Ferrari.",
+            "Verstappen a aussi gagné la dernière course à Sepang, en 2017. Antonelli mène toujours le championnat, 84 points devant Russell. La prochaine course est dimanche, à Singapour."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Si forte que…\" links a cause to its result: the rain was very heavy, and because of it Formula 1 had to wait. The adjective agrees as usual (la pluie → forte).",
+              "example" : "Le dimanche 4 octobre 2026, la pluie était si forte sur Sepang que la Formule 1 a dû attendre.",
+              "title" : "Si + adjective + que"
+            },
+            {
+              "body" : "\"Avait perdu\" happened before \"a fini\": the plus-que-parfait (imparfait of avoir or être + past participle) marks the earlier of two past events.",
+              "example" : "Lewis Hamilton, qui avait perdu beaucoup de places au départ, a fini troisième pour Ferrari, derrière Antonelli.",
+              "title" : "Plus-que-parfait for the earlier event"
+            },
+            {
+              "body" : "\"Pourtant\" (however) shows a contrast with the sentence before. Inside a sentence it stands between commas.",
+              "example" : "Après une voiture de sécurité, pourtant, Verstappen les a doublés tous les deux.",
+              "title" : "Pourtant in the middle of a sentence"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le dimanche 4 octobre 2026, la pluie était si forte sur Sepang que la Formule 1 a dû attendre. Le Grand Prix de Bahreïn, déplacé en Malaisie cette année, a commencé avec environ quatre-vingt-dix minutes de retard.",
+            "Max Verstappen partait en pole position pour Red Bull, mais il a été lent sur la piste mouillée. Les deux pilotes Mercedes, Kimi Antonelli et George Russell, l'ont aussitôt dépassé.",
+            "Après une voiture de sécurité, pourtant, Verstappen les a doublés tous les deux. Il a gagné avec 2,3 secondes d'avance, sa première victoire de 2026 et la première de son équipe.",
+            "Russell était troisième quand sa voiture s'est soudain arrêtée, peu avant la fin. Lewis Hamilton, qui avait perdu beaucoup de places au départ, a fini troisième pour Ferrari, derrière Antonelli.",
+            "Antonelli mène maintenant le championnat avec 84 points d'avance, à sept courses de la fin. Dimanche prochain, c'est Singapour. Verstappen avait déjà gagné la dernière course à Sepang, en 2017."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Avait été déplacé\" combines the plus-que-parfait (avait été) with the passive (déplacé): the move happened before the race, and who moved it is not important.",
+              "example" : "Le dimanche 4 octobre 2026, une pluie torrentielle fit patienter la Formule 1 à Sepang, où le Grand Prix de Bahreïn avait été déplacé cette année.",
+              "title" : "Plus-que-parfait passive"
+            },
+            {
+              "body" : "\"Ayant perdu de nombreuses places\" replaces \"après avoir perdu\" or \"comme il avait perdu\": a compact, formal way to give the earlier action.",
+              "example" : "Antonelli termina deuxième, tandis que Lewis Hamilton, ayant perdu de nombreuses places au départ, remonta jusqu'à la troisième place pour Ferrari.",
+              "title" : "Participe composé: ayant + past participle"
+            },
+            {
+              "body" : "In a passé simple narrative, the action completed just before another takes the passé antérieur (passé simple of avoir or être + participle): \"eut regroupé\" comes first, then \"doubla\".",
+              "example" : "Dès qu'une voiture de sécurité eut regroupé le peloton, Verstappen les doubla tous les deux et ne fut plus rattrapé.",
+              "title" : "Dès que + passé antérieur"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le dimanche 4 octobre 2026, une pluie torrentielle fit patienter la Formule 1 à Sepang, où le Grand Prix de Bahreïn avait été déplacé cette année. La course débuta avec environ quatre-vingt-dix minutes de retard, sur une piste détrempée.",
+            "Max Verstappen, en pole pour Red Bull, s'élança lentement, et les deux pilotes Mercedes, Kimi Antonelli et George Russell, le doublèrent bientôt.",
+            "Cela ne dura pas. Dès qu'une voiture de sécurité eut regroupé le peloton, Verstappen les doubla tous les deux et ne fut plus rattrapé. Il termina avec 2,3 secondes d'avance : sa première victoire de 2026, et la première de Red Bull.",
+            "Russell, alors troisième, vit sa voiture s'arrêter derrière une voiture de sécurité, peu avant l'arrivée. Antonelli termina deuxième, tandis que Lewis Hamilton, ayant perdu de nombreuses places au départ, remonta jusqu'à la troisième place pour Ferrari.",
+            "Au championnat, l'avance d'Antonelli sur Russell est montée à 84 points, à sept courses de la fin, dont la prochaine dimanche à Singapour. Quant à Verstappen, la dernière course de Formule 1 à Sepang, en 2017, était déjà la sienne."
+          ]
+        }
+      ],
+      "summary" : "Le dimanche 4 octobre 2026, la pluie a fait attendre la Formule 1 pendant une heure et demie, puis Max Verstappen a gagné à Sepang, le circuit où sa dernière victoire datait de neuf ans.",
+      "title" : "De retour à Sepang, Verstappen gagne encore",
+      "translationGroup" : "weekend-sport-2026-10-04"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "weekend-sport-2026-10-04-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German tells this A1 story in the present: \"startet\", \"überholt\", \"gewinnt\". Even 2017 is in the present here; the year shows when it happens.",
+              "example" : "Er gewinnt hier auch 2017.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "The conjugated verb is always the second element of a German main clause. When \"dann\" opens the sentence, the subject moves behind the verb: \"Dann überholt er\", not \"Dann er überholt\".",
+              "example" : "Dann überholt er sie.",
+              "title" : "Verb in second place after dann"
+            },
+            {
+              "body" : "For a place in a race German uses the ordinal as a noun, with a capital letter and no article: \"ist Zweiter\" = is second, \"wird Dritter\" = comes third. For a woman it is Zweite, Dritte.",
+              "example" : "Kimi Antonelli ist Zweiter.",
+              "title" : "Erster, Zweiter, Dritter: places in a race"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist Sonntag, der 4. Oktober 2026. Die Formel 1 ist in Sepang in Malaysia. Es regnet stark. Das Rennen beginnt spät.",
+            "Max Verstappen startet als Erster. Zwei Mercedes überholen ihn. Dann überholt er sie. Er gewinnt für Red Bull, sein erster Sieg 2026.",
+            "Kimi Antonelli ist Zweiter. George Russell ist Dritter, aber sein Auto bleibt stehen. So wird Lewis Hamilton Dritter für Ferrari.",
+            "Verstappen kennt die Strecke. Er gewinnt hier auch 2017. Nächsten Sonntag ist das Rennen in Singapur."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with the Perfekt: the helper verb in second place, the participle at the end. Verbs of movement or change (starten, werden, bleiben) take sein, most others take haben; \"war\" stays in its short past form.",
+              "example" : "Max Verstappen ist für Red Bull als Erster gestartet, aber sein Start war langsam.",
+              "title" : "Perfekt: haben or sein + Partizip II at the end"
+            },
+            {
+              "body" : "Verbs that begin with an unstressed prefix such as über-, ge- or be- form the Partizip II without an extra ge-: überholen → überholt, gewinnen → gewonnen, beginnen → begonnen.",
+              "example" : "Nach einem Safety-Car hat Verstappen beide überholt und das Rennen gewonnen.",
+              "title" : "Participles without ge-: überholt, gewonnen"
+            },
+            {
+              "body" : "\"Als\" means \"when\" for a single moment in the past. It starts a subordinate clause, so the conjugated verb (\"ist\") goes to the very end, after the participle.",
+              "example" : "Russell war Dritter, als sein Auto wenige Runden vor Schluss stehen geblieben ist.",
+              "title" : "Als for one moment in the past"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am Sonntag, dem 4. Oktober 2026, hat es in Sepang in Malaysia stark geregnet. Das Formel-1-Rennen hat etwa neunzig Minuten zu spät begonnen.",
+            "Max Verstappen ist für Red Bull als Erster gestartet, aber sein Start war langsam. Beide Mercedes-Fahrer, Kimi Antonelli und George Russell, haben ihn überholt.",
+            "Nach einem Safety-Car hat Verstappen beide überholt und das Rennen gewonnen. Es war sein erster Sieg 2026.",
+            "Antonelli ist Zweiter geworden, 2,3 Sekunden hinter Verstappen. Russell war Dritter, als sein Auto wenige Runden vor Schluss stehen geblieben ist. Lewis Hamilton ist für Ferrari Dritter geworden.",
+            "Verstappen hat 2017 auch das letzte Rennen in Sepang gewonnen. Antonelli bleibt Erster in der Meisterschaft, 84 Punkte vor Russell. Das nächste Rennen ist am Sonntag in Singapur."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"So stark, dass …\" links a cause to its result. \"Dass\" starts a subordinate clause, so the conjugated verb goes to the end, after the infinitive: \"warten musste\".",
+              "example" : "Am Sonntag, dem 4. Oktober 2026, regnete es über Sepang so stark, dass die Formel 1 warten musste.",
+              "title" : "So … dass: a result clause"
+            },
+            {
+              "body" : "\"Der\" refers to Hamilton and sends the verb to the end of its clause. \"Verloren hatte\" (hatte + Partizip II) is the past perfect: he lost the places before he came third.",
+              "example" : "Lewis Hamilton, der beim Start viele Positionen verloren hatte, wurde für Ferrari Dritter hinter Antonelli.",
+              "title" : "Relative clause with the Plusquamperfekt"
+            },
+            {
+              "body" : "\"Jedoch\" (however) marks a contrast with the sentence before. In written German it often stands in the middle of the clause, after the verb and the subject, with no commas.",
+              "example" : "Nach einem Safety-Car überholte Verstappen jedoch beide.",
+              "title" : "Jedoch inside the sentence"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am Sonntag, dem 4. Oktober 2026, regnete es über Sepang so stark, dass die Formel 1 warten musste. Der Grand Prix von Bahrain, der dieses Jahr nach Malaysia verlegt wurde, begann etwa neunzig Minuten verspätet.",
+            "Max Verstappen startete für Red Bull als Erster, doch auf nasser Strecke war er langsam. Die beiden Mercedes-Fahrer, Kimi Antonelli und George Russell, überholten ihn sofort.",
+            "Nach einem Safety-Car überholte Verstappen jedoch beide. Er gewann mit 2,3 Sekunden Vorsprung, sein erster Sieg 2026 und der erste seines Teams.",
+            "Russell war Dritter, als sein Auto wenige Runden vor Schluss plötzlich stehen blieb. Lewis Hamilton, der beim Start viele Positionen verloren hatte, wurde für Ferrari Dritter hinter Antonelli.",
+            "Antonelli hat in der Meisterschaft nun 84 Punkte Vorsprung, bei noch sieben Rennen. Am nächsten Sonntag folgt Singapur. Schon das letzte Rennen in Sepang, 2017, hatte Verstappen gewonnen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive of the past perfect is Partizip II + worden + war: the move happened before the race, and who moved it is not said. In the passive the participle of werden is \"worden\", without ge-.",
+              "example" : "Am Sonntag, dem 4. Oktober 2026, ließ Starkregen die Formel 1 in Sepang warten, wohin der Grand Prix von Bahrain dieses Jahr verlegt worden war.",
+              "title" : "Plusquamperfekt passive: verlegt worden war"
+            },
+            {
+              "body" : "A participle with its own complements can stand before a noun like a compressed relative clause: \"dem auf Rang drei liegenden Russell\" = Russell, who was lying third. The participle takes adjective endings, here the dative -en.",
+              "example" : "Dem auf Rang drei liegenden Russell blieb wenige Runden vor Schluss hinter einem Safety-Car das Auto stehen.",
+              "title" : "Extended participle before a noun"
+            },
+            {
+              "body" : "\"Nachdem\" (after) takes the tense one step further back than the main clause: Plusquamperfekt (\"zusammengeführt hatte\") with a main clause in the Präteritum. The main clause then starts with its verb: \"überholte Verstappen\".",
+              "example" : "Nachdem ein Safety-Car das Feld zusammengeführt hatte, überholte Verstappen beide und wurde nicht mehr eingeholt.",
+              "title" : "Nachdem + Plusquamperfekt"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am Sonntag, dem 4. Oktober 2026, ließ Starkregen die Formel 1 in Sepang warten, wohin der Grand Prix von Bahrain dieses Jahr verlegt worden war. Das Rennen begann etwa neunzig Minuten verspätet auf nasser Strecke.",
+            "Max Verstappen, für Red Bull auf Startplatz eins, kam langsam vom Fleck. Bald lagen die Mercedes-Fahrer Kimi Antonelli und George Russell vor ihm.",
+            "Dabei blieb es nicht. Nachdem ein Safety-Car das Feld zusammengeführt hatte, überholte Verstappen beide und wurde nicht mehr eingeholt. Mit 2,3 Sekunden Vorsprung holte er seinen und Red Bulls ersten Sieg 2026.",
+            "Dem auf Rang drei liegenden Russell blieb wenige Runden vor Schluss hinter einem Safety-Car das Auto stehen. Antonelli wurde Zweiter, während Lewis Hamilton nach vielen beim Start verlorenen Positionen für Ferrari auf Rang drei vorfuhr.",
+            "Antonellis Vorsprung in der Meisterschaft auf Russell ist auf 84 Punkte gewachsen, bei noch sieben Rennen, das nächste am Sonntag in Singapur. Was Verstappen betrifft: Auch das letzte Formel-1-Rennen in Sepang, 2017, ging an ihn."
+          ]
+        }
+      ],
+      "summary" : "Am Sonntag, dem 4. Oktober 2026, ließ der Regen die Formel 1 anderthalb Stunden warten, und dann gewann Max Verstappen in Sepang, auf der Strecke, auf der er zuletzt neun Jahre zuvor gewonnen hatte.",
+      "title" : "Zurück in Sepang: Verstappen gewinnt wieder",
+      "translationGroup" : "weekend-sport-2026-10-04"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "weekend-sport-2026-10-04-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present: \"empieza\", \"pasan\", \"gana\". Even 2017 stays in the present here; the year shows when it happens.",
+              "example" : "También gana aquí en 2017.",
+              "title" : "Present tense, even for 2017"
+            },
+            {
+              "body" : "The object pronouns \"lo\" (him) and \"los\" (them) stand before the conjugated verb: \"lo pasan\" = they pass him, \"los pasa\" = he passes them.",
+              "example" : "Dos coches de Mercedes lo pasan.",
+              "title" : "Lo and los before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es domingo, 4 de octubre de 2026. La Fórmula 1 está en Sepang, en Malasia. Llueve mucho. La carrera empieza tarde.",
+            "Max Verstappen es el primero en la salida. Dos coches de Mercedes lo pasan. Después él los pasa. Gana con Red Bull. Es su primera victoria este año.",
+            "Kimi Antonelli es segundo. George Russell es tercero, pero su coche se detiene. Entonces Lewis Hamilton es tercero con Ferrari.",
+            "Verstappen conoce este circuito. También gana aquí en 2017. El próximo domingo la carrera es en Singapur."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Finished past actions take the pretérito indefinido. Regular -ar verbs end in -ó (él) and -aron (ellos): empezó, adelantó, ganó, adelantaron; -er/-ir verbs end in -ió: salió, llovió.",
+              "example" : "Después de un coche de seguridad, Verstappen adelantó a los dos y ganó.",
+              "title" : "Pretérito indefinido for finished events"
+            },
+            {
+              "body" : "\"Era\" (imperfect of ser) gives the situation, and \"cuando\" brings in the event that happened in it: he was third at the moment the car stopped (se detuvo).",
+              "example" : "Russell era tercero cuando su coche se detuvo a pocas vueltas del final.",
+              "title" : "Era + cuando + pretérito indefinido"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El domingo 4 de octubre de 2026 llovió mucho en Sepang, en Malasia. La carrera de Fórmula 1 empezó unos noventa minutos tarde.",
+            "Max Verstappen salió primero con Red Bull, pero su salida fue lenta. Los dos pilotos de Mercedes, Kimi Antonelli y George Russell, lo adelantaron.",
+            "Después de un coche de seguridad, Verstappen adelantó a los dos y ganó. Fue su primera victoria de 2026.",
+            "Antonelli terminó segundo, a 2,3 segundos de Verstappen. Russell era tercero cuando su coche se detuvo a pocas vueltas del final. Lewis Hamilton terminó tercero con Ferrari.",
+            "Verstappen también ganó la última carrera en Sepang, en 2017. Antonelli sigue primero en el campeonato, con 84 puntos más que Russell. La próxima carrera es el domingo en Singapur."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Tan fuerte que…\" links a cause to its result: the rain was very heavy, and because of it Formula 1 had to wait.",
+              "example" : "El domingo 4 de octubre de 2026 la lluvia sobre Sepang era tan fuerte que la Fórmula 1 tuvo que esperar.",
+              "title" : "Tan + adjective + que"
+            },
+            {
+              "body" : "\"Había perdido\" (haber in the imperfect + participle) happened before \"terminó\": the pluscuamperfecto marks the earlier of two past events.",
+              "example" : "Lewis Hamilton, que había perdido muchos puestos en la salida, terminó tercero con Ferrari, detrás de Antonelli.",
+              "title" : "Pluscuamperfecto for the earlier event"
+            },
+            {
+              "body" : "\"Sin embargo\" (however) marks a contrast with the sentence before. Inside a sentence it stands between commas.",
+              "example" : "Después de un coche de seguridad, sin embargo, Verstappen los adelantó a los dos.",
+              "title" : "Sin embargo between commas"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El domingo 4 de octubre de 2026 la lluvia sobre Sepang era tan fuerte que la Fórmula 1 tuvo que esperar. El Gran Premio de Baréin, trasladado este año a Malasia, empezó con unos noventa minutos de retraso.",
+            "Max Verstappen salió primero con Red Bull, pero fue lento en el circuito mojado. Los dos pilotos de Mercedes, Kimi Antonelli y George Russell, lo adelantaron enseguida.",
+            "Después de un coche de seguridad, sin embargo, Verstappen los adelantó a los dos. Ganó por 2,3 segundos: su primera victoria de 2026, y también la de su equipo.",
+            "Russell era tercero cuando su coche se detuvo de repente, a pocas vueltas del final. Lewis Hamilton, que había perdido muchos puestos en la salida, terminó tercero con Ferrari, detrás de Antonelli.",
+            "Antonelli tiene ahora 84 puntos de ventaja en el campeonato, y todavía quedan siete carreras. El próximo domingo se corre en Singapur. Verstappen ya había ganado la última carrera en Sepang, en 2017."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Había sido trasladado\" joins the pluscuamperfecto (había sido) and the passive (ser + participle): the move came before the race, and who moved it is not said. The subject (el Gran Premio de Baréin) comes after the verb, as it often does in a relative clause.",
+              "example" : "El domingo 4 de octubre de 2026, una lluvia torrencial hizo esperar a la Fórmula 1 en Sepang, adonde había sido trasladado este año el Gran Premio de Baréin.",
+              "title" : "Passive in the pluscuamperfecto"
+            },
+            {
+              "body" : "\"Habiendo perdido muchos puestos\" replaces \"después de que había perdido…\": the gerund of haber + participle is a compact, formal way to give the earlier action.",
+              "example" : "Antonelli terminó segundo, mientras que Lewis Hamilton, habiendo perdido muchos puestos en la salida, remontó hasta terminar tercero con Ferrari.",
+              "title" : "Compound gerund: habiendo + participle"
+            },
+            {
+              "body" : "\"Una vez reagrupados los pilotos\" means \"once the drivers had been bunched up\": the participle agrees with its noun and no conjugated verb is needed.",
+              "example" : "Una vez reagrupados los pilotos por un coche de seguridad, Verstappen adelantó a ambos y ya nadie pudo alcanzarlo.",
+              "title" : "Una vez + participle"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El domingo 4 de octubre de 2026, una lluvia torrencial hizo esperar a la Fórmula 1 en Sepang, adonde había sido trasladado este año el Gran Premio de Baréin. La carrera comenzó con unos noventa minutos de retraso, sobre un circuito mojado.",
+            "Max Verstappen, primero en la parrilla con Red Bull, salió despacio, y los pilotos de Mercedes Kimi Antonelli y George Russell no tardaron en adelantarlo.",
+            "Duró poco. Una vez reagrupados los pilotos por un coche de seguridad, Verstappen adelantó a ambos y ya nadie pudo alcanzarlo. Terminó con 2,3 segundos de ventaja: su primera victoria de 2026, y también la de Red Bull.",
+            "Russell, que iba tercero, vio detenerse su monoplaza detrás de un coche de seguridad a pocas vueltas del final. Antonelli terminó segundo, mientras que Lewis Hamilton, habiendo perdido muchos puestos en la salida, remontó hasta terminar tercero con Ferrari.",
+            "Antonelli ha aumentado a 84 puntos su ventaja sobre Russell en el campeonato cuando quedan siete carreras, la próxima el domingo en Singapur. En cuanto a Verstappen, la última carrera de Fórmula 1 en Sepang, en 2017, también fue suya."
+          ]
+        }
+      ],
+      "summary" : "El domingo 4 de octubre de 2026 la lluvia hizo esperar a la Fórmula 1 una hora y media, y después Max Verstappen ganó en Sepang, el circuito donde había ganado por última vez nueve años antes.",
+      "title" : "De vuelta en Sepang, Verstappen gana otra vez",
+      "translationGroup" : "weekend-sport-2026-10-04"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-05",
+      "id" : "weekend-sport-2026-10-04-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present: \"comincia\", \"superano\", \"vince\". Even 2017 is in the present here; the year shows when it happens.",
+              "example" : "Vince qui anche nel 2017.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "Italian usually leaves out \"he\", \"she\" or \"it\": the verb ending already shows who acts. \"Vince\" alone means \"he wins\"; \"lui\" is added only for contrast, as in \"Poi lui supera…\".",
+              "example" : "Vince per la Red Bull.",
+              "title" : "No subject pronoun needed"
+            },
+            {
+              "body" : "The object pronoun \"lo\" (him, it) stands before the verb, not after it as in English: \"lo superano\" = they pass him.",
+              "example" : "Due auto Mercedes lo superano.",
+              "title" : "\"Lo\" goes before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È domenica 4 ottobre 2026. La Formula 1 è a Sepang, in Malesia. Piove forte. La gara comincia tardi.",
+            "Max Verstappen è primo alla partenza. Due auto Mercedes lo superano. Poi lui supera le due Mercedes. Vince per la Red Bull. È la sua prima vittoria di quest'anno.",
+            "Kimi Antonelli arriva secondo. George Russell è terzo, ma la sua auto si ferma. Così Lewis Hamilton arriva terzo per la Ferrari.",
+            "Verstappen conosce questa pista. Vince qui anche nel 2017. Domenica prossima la gara è a Singapore."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is a present form of avere or essere plus a past participle: \"ha vinto\", \"è partito\". With essere the participle agrees with the subject: \"la gara è cominciata\", \"l'auto si è fermata\".",
+              "example" : "La gara di Formula 1 è cominciata con circa novanta minuti di ritardo.",
+              "title" : "Passato prossimo with avere and essere"
+            },
+            {
+              "body" : "\"Era\" (imperfect) describes the situation, while the passato prossimo tells what happened in it: he was third, and then the car stopped.",
+              "example" : "Russell era terzo, ma l'auto si è fermata a pochi giri dalla fine.",
+              "title" : "Era for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Domenica 4 ottobre 2026 ha piovuto forte a Sepang, in Malesia. La gara di Formula 1 è cominciata con circa novanta minuti di ritardo.",
+            "Max Verstappen è partito primo per la Red Bull. Ma la sua partenza è stata lenta. I due piloti Mercedes, Kimi Antonelli e George Russell, lo hanno superato.",
+            "Dopo una safety car Verstappen ha superato tutti e due ed è tornato primo. Ha vinto la gara, la sua prima vittoria del 2026.",
+            "Antonelli è arrivato secondo, a 2,3 secondi da Verstappen. Russell era terzo, ma l'auto si è fermata a pochi giri dalla fine. Lewis Hamilton ha preso il terzo posto per la Ferrari.",
+            "Verstappen ha vinto anche l'ultima gara a Sepang, nel 2017. Antonelli è ancora primo nel campionato, con 84 punti più di Russell. La prossima gara è domenica a Singapore."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Così forte che…\" links a cause to its result: the rain was very heavy, and because of it Formula 1 had to wait.",
+              "example" : "Domenica 4 ottobre 2026 la pioggia su Sepang era così forte che la Formula 1 ha dovuto aspettare.",
+              "title" : "Così + adjective + che"
+            },
+            {
+              "body" : "\"Aveva perso\" (imperfect of avere + past participle) happened before \"è arrivato\": the trapassato prossimo marks the earlier of two past events.",
+              "example" : "Lewis Hamilton, che alla partenza aveva perso molte posizioni, è arrivato terzo per la Ferrari dietro ad Antonelli.",
+              "title" : "Trapassato prossimo for the earlier event"
+            },
+            {
+              "body" : "With avere the participle normally does not change, but after the object pronouns lo, la, li, le it agrees with them: \"li ha superati\" (them, masculine plural), not \"li ha superato\".",
+              "example" : "Dopo una safety car, però, Verstappen li ha superati entrambi.",
+              "title" : "Participle agreement after lo, la, li, le"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Domenica 4 ottobre 2026 la pioggia su Sepang era così forte che la Formula 1 ha dovuto aspettare. Il Gran Premio del Bahrein, spostato quest'anno in Malesia, è partito con circa novanta minuti di ritardo.",
+            "Max Verstappen è partito dalla pole position per la Red Bull, ma sulla pista bagnata è stato lento. I due piloti Mercedes, Kimi Antonelli e George Russell, lo hanno superato subito.",
+            "Dopo una safety car, però, Verstappen li ha superati entrambi. Ha vinto con 2,3 secondi di vantaggio: la prima vittoria del 2026 per lui e per la sua squadra.",
+            "Russell era terzo quando la sua auto si è fermata all'improvviso, a pochi giri dalla fine. Lewis Hamilton, che alla partenza aveva perso molte posizioni, è arrivato terzo per la Ferrari dietro ad Antonelli.",
+            "Ora Antonelli guida il campionato con 84 punti di vantaggio, a sette gare dalla fine. Domenica prossima si corre a Singapore. Verstappen aveva già vinto l'ultima gara a Sepang, nel 2017."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Era stato spostato\" combines the trapassato (era stato) with the passive (spostato): the move happened before the race, and who moved it is not important. The subject follows the verb here, which is common in Italian.",
+              "example" : "Domenica 4 ottobre 2026 una pioggia torrenziale ha fatto attendere la Formula 1 a Sepang, dove quest'anno era stato spostato il Gran Premio del Bahrein.",
+              "title" : "Trapassato prossimo in the passive"
+            },
+            {
+              "body" : "\"Avendo perso molte posizioni\" replaces \"dopo che aveva perso molte posizioni\": a compact, formal way to give the earlier action. The subject is the same as in the main clause.",
+              "example" : "Antonelli è arrivato secondo, mentre Lewis Hamilton, avendo perso molte posizioni alla partenza, è risalito al terzo posto per la Ferrari.",
+              "title" : "Gerundio composto: avendo + past participle"
+            },
+            {
+              "body" : "\"Senza che\" (without anyone …ing) always takes the subjunctive; after a past main verb it is the imperfect subjunctive: \"riprendesse\", from riprendere.",
+              "example" : "Dopo che una safety car aveva ricompattato il gruppo, Verstappen li ha superati entrambi, senza che nessuno lo riprendesse più.",
+              "title" : "Senza che + subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Domenica 4 ottobre 2026 una pioggia torrenziale ha fatto attendere la Formula 1 a Sepang, dove quest'anno era stato spostato il Gran Premio del Bahrein. La gara è cominciata con circa novanta minuti di ritardo, su pista bagnata.",
+            "Max Verstappen, in pole position per la Red Bull, è partito lentamente. I due piloti Mercedes, Kimi Antonelli e George Russell, lo hanno presto superato.",
+            "È durato poco. Dopo che una safety car aveva ricompattato il gruppo, Verstappen li ha superati entrambi, senza che nessuno lo riprendesse più. Ha vinto con 2,3 secondi di vantaggio: la sua prima vittoria del 2026, e la prima della Red Bull.",
+            "Russell, allora terzo, ha visto la sua auto fermarsi dietro una safety car a pochi giri dalla fine. Antonelli è arrivato secondo, mentre Lewis Hamilton, avendo perso molte posizioni alla partenza, è risalito al terzo posto per la Ferrari.",
+            "Il vantaggio di Antonelli su Russell in campionato è salito a 84 punti, a sette gare dalla fine. La prossima è domenica a Singapore. Quanto a Verstappen, anche l'ultima gara di Formula 1 a Sepang, nel 2017, era stata sua."
+          ]
+        }
+      ],
+      "summary" : "Domenica 4 ottobre 2026 la pioggia ha fatto aspettare la Formula 1 per un'ora e mezza, e poi Max Verstappen ha vinto a Sepang, la pista dove aveva vinto l'ultima volta nove anni prima.",
+      "title" : "Di nuovo a Sepang, Verstappen vince ancora",
+      "translationGroup" : "weekend-sport-2026-10-04"
     }
   ]
 }
