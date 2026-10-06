@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 6,
-  "generatedAt" : "2026-10-05",
+  "contentVersion" : 7,
+  "generatedAt" : "2026-10-06",
   "glossary" : {
     "english" : [
       {
@@ -890,6 +890,7 @@
       {
         "forms" : [
           "build",
+          "builds",
           "built"
         ],
         "note" : "\"Built\" is the past tense.",
@@ -10798,6 +10799,7 @@
       {
         "forms" : [
           "pull",
+          "pulled",
           "pulling",
           "pulls"
         ],
@@ -13346,7 +13348,8 @@
       },
       {
         "forms" : [
-          "hoped"
+          "hoped",
+          "hoping"
         ],
         "note" : "Past tense of \"hope.\"",
         "pos" : "verb",
@@ -13965,7 +13968,8 @@
       {
         "forms" : [
           "parent",
-          "parent's"
+          "parent's",
+          "parents"
         ],
         "note" : "Possessive form included.",
         "pos" : "noun",
@@ -21839,6 +21843,262 @@
         "note" : "A noun here: \"his first win\". The verb is the same word: to win.",
         "pos" : "noun",
         "translation" : "a first place in a race or game"
+      },
+      {
+        "forms" : [
+          "11"
+        ],
+        "note" : "In a date, \"11 March\" is said \"the eleventh of March\".",
+        "pos" : "number",
+        "translation" : "eleven; the eleventh"
+      },
+      {
+        "forms" : [
+          "1924"
+        ],
+        "note" : "The year of the first fire in Ole's workshop; said \"nineteen twenty-four\".",
+        "pos" : "number",
+        "translation" : "1924"
+      },
+      {
+        "forms" : [
+          "1932"
+        ],
+        "note" : "The year Ole began to make wooden toys; said \"nineteen thirty-two\".",
+        "pos" : "number",
+        "translation" : "1932"
+      },
+      {
+        "forms" : [
+          "1934"
+        ],
+        "note" : "The year the company got the name LEGO.",
+        "pos" : "number",
+        "translation" : "1934"
+      },
+      {
+        "forms" : [
+          "1935"
+        ],
+        "note" : "The year the wooden duck was first made.",
+        "pos" : "number",
+        "translation" : "1935"
+      },
+      {
+        "forms" : [
+          "1942"
+        ],
+        "note" : "The year of the second fire in the workshop.",
+        "pos" : "number",
+        "translation" : "1942"
+      },
+      {
+        "forms" : [
+          "1958"
+        ],
+        "note" : "The year the plastic brick was patented and the year Ole died.",
+        "pos" : "number",
+        "translation" : "1958"
+      },
+      {
+        "forms" : [
+          "batch"
+        ],
+        "note" : "\"A batch of ducks\" = all the ducks made and sent at one time.",
+        "pos" : "noun",
+        "translation" : "a group of things made or sent together"
+      },
+      {
+        "forms" : [
+          "billund"
+        ],
+        "note" : "A village in Denmark, the home of Ole's workshop.",
+        "pos" : "noun",
+        "translation" : "Billund"
+      },
+      {
+        "forms" : [
+          "brick"
+        ],
+        "note" : "A brick is usually a block of baked clay for walls; here it is the small plastic toy block.",
+        "pos" : "noun",
+        "translation" : "a small block for building"
+      },
+      {
+        "forms" : [
+          "carpenter"
+        ],
+        "note" : "A carpenter builds houses, roofs and furniture from wood.",
+        "pos" : "noun",
+        "translation" : "a person who makes things from wood"
+      },
+      {
+        "forms" : [
+          "christiansen"
+        ],
+        "note" : "A Danish family name: Ole Kirk Christiansen, the carpenter of this story.",
+        "pos" : "noun",
+        "translation" : "Christiansen"
+      },
+      {
+        "forms" : [
+          "coats"
+        ],
+        "note" : "Plural of coat. Here a coat is not clothing: \"two coats of varnish\" = two layers.",
+        "pos" : "noun",
+        "translation" : "layers of paint or varnish"
+      },
+      {
+        "forms" : [
+          "company",
+          "company's"
+        ],
+        "note" : "A company makes or sells things. \"The company's rule\" = the rule of the company.",
+        "pos" : "noun",
+        "translation" : "a business"
+      },
+      {
+        "forms" : [
+          "danish"
+        ],
+        "note" : "\"The Danish village\" = the village in Denmark. \"The Danish for play well\" = the words in the Danish language.",
+        "pos" : "adjective",
+        "translation" : "from Denmark; the language of Denmark"
+      },
+      {
+        "forms" : [
+          "denmark"
+        ],
+        "note" : "A country in the north of Europe.",
+        "pos" : "noun",
+        "translation" : "Denmark"
+      },
+      {
+        "forms" : [
+          "duck",
+          "ducks"
+        ],
+        "note" : "The plural is ducks. Here the ducks are wooden toys on wheels.",
+        "pos" : "noun",
+        "translation" : "a water bird with a flat beak; a toy in its shape"
+      },
+      {
+        "forms" : [
+          "fetch"
+        ],
+        "note" : "Fetch means two movements: you go to the thing, then you come back with it.",
+        "pos" : "verb",
+        "translation" : "to go and bring something back"
+      },
+      {
+        "forms" : [
+          "godtfred"
+        ],
+        "note" : "A Danish first name: the son of Ole in this story.",
+        "pos" : "noun",
+        "translation" : "Godtfred"
+      },
+      {
+        "forms" : [
+          "kirk"
+        ],
+        "note" : "The middle name of Ole Kirk Christiansen.",
+        "pos" : "noun",
+        "translation" : "Kirk"
+      },
+      {
+        "forms" : [
+          "lego"
+        ],
+        "note" : "The name of Ole's toy company, from the Danish words \"leg godt\", play well.",
+        "pos" : "noun",
+        "translation" : "LEGO"
+      },
+      {
+        "forms" : [
+          "motto"
+        ],
+        "note" : "A motto is easy to remember: \"Only the best is good enough.\"",
+        "pos" : "noun",
+        "translation" : "a short sentence that says what a person or company believes"
+      },
+      {
+        "forms" : [
+          "ole",
+          "ole's"
+        ],
+        "note" : "A Danish first name, said \"OO-leh\". \"Ole's workshop\" = the workshop of Ole.",
+        "pos" : "noun",
+        "translation" : "Ole"
+      },
+      {
+        "forms" : [
+          "ordered",
+          "ordering"
+        ],
+        "note" : "From the verb order: \"nobody ordered a house\" = nobody asked him to build one.",
+        "pos" : "verb",
+        "translation" : "asked someone to make or bring something, for money"
+      },
+      {
+        "forms" : [
+          "patented"
+        ],
+        "note" : "With a patent, only the inventor may make and sell the new thing for some years.",
+        "pos" : "verb",
+        "translation" : "protected by law as a new idea"
+      },
+      {
+        "forms" : [
+          "rebuilt"
+        ],
+        "note" : "Past of rebuild: re- (again) + build. Irregular like build → built.",
+        "pos" : "verb",
+        "translation" : "built again"
+      },
+      {
+        "forms" : [
+          "toy",
+          "toys"
+        ],
+        "note" : "The plural is toys.",
+        "pos" : "noun",
+        "translation" : "a thing that children play with"
+      },
+      {
+        "forms" : [
+          "varnish",
+          "varnished",
+          "varnishes"
+        ],
+        "note" : "Noun and verb: \"a coat of varnish\"; \"he varnishes the duck\", \"he varnished it\".",
+        "pos" : "noun",
+        "translation" : "a clear liquid that makes wood shiny and hard; to put it on"
+      },
+      {
+        "forms" : [
+          "wheels"
+        ],
+        "note" : "Plural of wheel. A toy on wheels rolls when a child pulls it.",
+        "pos" : "noun",
+        "translation" : "round parts that turn so a thing can roll"
+      },
+      {
+        "forms" : [
+          "workshop"
+        ],
+        "note" : "Work + shop: the place where a carpenter works.",
+        "pos" : "noun",
+        "translation" : "a room or building where things are made or repaired"
+      },
+      {
+        "forms" : [
+          "yo-yo",
+          "yo-yos"
+        ],
+        "note" : "The plural is yo-yos.",
+        "pos" : "noun",
+        "translation" : "a toy that goes up and down on a string"
       }
     ],
     "french" : [
@@ -26044,6 +26304,7 @@
       },
       {
         "forms" : [
+          "pouvaient",
           "pouvait"
         ],
         "note" : "Pouvoir (can), imperfect tense.",
@@ -26416,6 +26677,7 @@
           "recevoir",
           "recevons",
           "reçois",
+          "reçoit",
           "reçoivent",
           "reçu",
           "reçut"
@@ -26707,6 +26969,7 @@
       {
         "forms" : [
           "signifiait",
+          "signifiant",
           "signifie"
         ],
         "note" : "Signifier (to mean), \"il/elle\" form.",
@@ -28387,7 +28650,8 @@
       },
       {
         "forms" : [
-          "couche"
+          "couche",
+          "couches"
         ],
         "gender" : "feminine",
         "note" : "A layer of something.",
@@ -33038,7 +33302,8 @@
       },
       {
         "forms" : [
-          "tirait"
+          "tirait",
+          "tiré"
         ],
         "note" : "\"Tirait une fierté de...\" = took pride in. Imperfect of tirer.",
         "pos" : "verb",
@@ -38939,9 +39204,11 @@
       },
       {
         "forms" : [
+          "brûla",
           "brûlaient",
           "brûle",
-          "brûler"
+          "brûler",
+          "brûlé"
         ],
         "note" : "Imperfect and infinitive of \"brûler.\"",
         "pos" : "verb",
@@ -41233,7 +41500,8 @@
       },
       {
         "forms" : [
-          "parent"
+          "parent",
+          "parents"
         ],
         "gender" : "masculine",
         "note" : "A mother or father.",
@@ -43581,7 +43849,8 @@
         "forms" : [
           "appela",
           "appelle",
-          "appelé"
+          "appelé",
+          "appelée"
         ],
         "note" : "Forms of appeler.",
         "pos" : "verb",
@@ -44984,7 +45253,8 @@
       },
       {
         "forms" : [
-          "pauvre"
+          "pauvre",
+          "pauvres"
         ],
         "note" : "Adjective, before or after the noun.",
         "pos" : "adjective",
@@ -47505,6 +47775,7 @@
       },
       {
         "forms" : [
+          "atelier",
           "l'atelier"
         ],
         "gender" : "masculine",
@@ -48311,7 +48582,8 @@
       },
       {
         "forms" : [
-          "tire"
+          "tire",
+          "tirer"
         ],
         "note" : "« Le bœuf qui tire la charrette ».",
         "pos" : "verb",
@@ -50139,7 +50411,9 @@
       },
       {
         "forms" : [
-          "entreprises"
+          "entreprise",
+          "entreprises",
+          "l'entreprise"
         ],
         "gender" : "feminine",
         "note" : "Plural of « entreprise » (company, business): « pas à des entreprises » = not to companies.",
@@ -51429,6 +51703,321 @@
         "note" : "Always « quant à »: « quant à Verstappen » = as for Verstappen; not to be confused with « quand » (when).",
         "pos" : "other",
         "translation" : "as for (with « à »)"
+      },
+      {
+        "forms" : [
+          "1932"
+        ],
+        "note" : "The year the story begins, when nobody in Billund was ordering a house; « nous sommes en 1932 » = it is 1932.",
+        "pos" : "number",
+        "translation" : "1932"
+      },
+      {
+        "forms" : [
+          "1924"
+        ],
+        "note" : "The year Ole's workshop burned down for the first time.",
+        "pos" : "number",
+        "translation" : "1924"
+      },
+      {
+        "forms" : [
+          "1942"
+        ],
+        "note" : "The year Ole's workshop burned down for the second time.",
+        "pos" : "number",
+        "translation" : "1942"
+      },
+      {
+        "forms" : [
+          "1935"
+        ],
+        "note" : "The year the wooden duck joined Ole's toys; « dès 1935 » = from 1935 on.",
+        "pos" : "number",
+        "translation" : "1935"
+      },
+      {
+        "forms" : [
+          "1934"
+        ],
+        "note" : "The year Ole named his company LEGO; « en 1934 » = in 1934.",
+        "pos" : "number",
+        "translation" : "1934"
+      },
+      {
+        "forms" : [
+          "1958"
+        ],
+        "note" : "The year the plastic brick was patented, on 28 January, and the year Ole died, on 11 March.",
+        "pos" : "number",
+        "translation" : "1958"
+      },
+      {
+        "forms" : [
+          "11"
+        ],
+        "note" : "The day in « le 11 mars », read « le onze mars »; French puts the day before the month.",
+        "pos" : "number",
+        "translation" : "11, eleven"
+      },
+      {
+        "forms" : [
+          "billund"
+        ],
+        "note" : "The village in Denmark where Ole Kirk Christiansen had his workshop.",
+        "pos" : "noun",
+        "translation" : "Billund"
+      },
+      {
+        "forms" : [
+          "danemark"
+        ],
+        "gender" : "masculine",
+        "note" : "The country of the story; it is masculine, so « au Danemark » = in Denmark and « du Danemark » = of Denmark.",
+        "pos" : "noun",
+        "translation" : "Denmark"
+      },
+      {
+        "forms" : [
+          "d'ole",
+          "ole"
+        ],
+        "note" : "The first name of Ole Kirk Christiansen, the carpenter of this story; « d'Ole » = de + Ole, shortened before the vowel.",
+        "pos" : "noun",
+        "translation" : "Ole"
+      },
+      {
+        "forms" : [
+          "kirk"
+        ],
+        "note" : "The middle part of the full name Ole Kirk Christiansen.",
+        "pos" : "noun",
+        "translation" : "Kirk"
+      },
+      {
+        "forms" : [
+          "christiansen"
+        ],
+        "note" : "The family name of Ole Kirk Christiansen, the Danish carpenter who made wooden toys.",
+        "pos" : "noun",
+        "translation" : "Christiansen"
+      },
+      {
+        "forms" : [
+          "godtfred"
+        ],
+        "note" : "Ole's son, who had to varnish every duck again that night.",
+        "pos" : "noun",
+        "translation" : "Godtfred"
+      },
+      {
+        "forms" : [
+          "lego"
+        ],
+        "note" : "The name Ole gave his company in 1934, from the Danish words for « joue bien » (play well); written in capitals.",
+        "pos" : "noun",
+        "translation" : "LEGO"
+      },
+      {
+        "forms" : [
+          "charpentier"
+        ],
+        "gender" : "masculine",
+        "note" : "A person who builds the wooden parts of houses; after « être », a profession takes no article: « Ole est charpentier ».",
+        "pos" : "noun",
+        "translation" : "carpenter"
+      },
+      {
+        "forms" : [
+          "n'achète"
+        ],
+        "note" : "Ne + achète (present of acheter), shortened before the vowel: « personne n'achète de maison » = nobody buys a house.",
+        "pos" : "verb",
+        "translation" : "does not buy"
+      },
+      {
+        "forms" : [
+          "jouet",
+          "jouets"
+        ],
+        "gender" : "masculine",
+        "note" : "From « jouer » (to play); « des jouets en bois » = wooden toys.",
+        "pos" : "noun",
+        "translation" : "toy, toys"
+      },
+      {
+        "forms" : [
+          "yo-yo",
+          "yo-yos"
+        ],
+        "gender" : "masculine",
+        "note" : "A hyphenated word; the plural adds -s at the end only: « des yo-yos ».",
+        "pos" : "noun",
+        "translation" : "yo-yo, yo-yos"
+      },
+      {
+        "forms" : [
+          "canard",
+          "canards"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un canard en bois » = a wooden duck; the final -d is silent.",
+        "pos" : "noun",
+        "translation" : "duck, ducks"
+      },
+      {
+        "forms" : [
+          "vernit"
+        ],
+        "note" : "Present of vernir, third person singular: « son fils vernit les canards » = his son varnishes the ducks.",
+        "pos" : "verb",
+        "translation" : "varnishes"
+      },
+      {
+        "forms" : [
+          "reconstruisit",
+          "reconstruit"
+        ],
+        "note" : "Forms of reconstruire (re- + construire): « reconstruit » is the present and the past participle (« il l'a reconstruit »), « reconstruisit » the passé simple.",
+        "pos" : "verb",
+        "translation" : "rebuilds; rebuilt"
+      },
+      {
+        "forms" : [
+          "commandait",
+          "commandé"
+        ],
+        "note" : "Forms of commander (to order something from a maker): « a commandé » is the passé composé, « commandait » the imparfait.",
+        "pos" : "verb",
+        "translation" : "ordered; was ordering"
+      },
+      {
+        "forms" : [
+          "roulettes"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « roulette », a little wheel: « un canard à roulettes » = a duck on wheels.",
+        "pos" : "noun",
+        "translation" : "small wheels, casters"
+      },
+      {
+        "forms" : [
+          "vernis"
+        ],
+        "gender" : "masculine",
+        "note" : "The clear liquid that protects and shines wood; the final -s is there in the singular too: « le vernis ».",
+        "pos" : "noun",
+        "translation" : "varnish"
+      },
+      {
+        "forms" : [
+          "renvoyé"
+        ],
+        "note" : "Past participle of renvoyer (re- + envoyer): « Ole l'a renvoyé » = Ole sent him back.",
+        "pos" : "verb",
+        "translation" : "sent back"
+      },
+      {
+        "forms" : [
+          "reverni",
+          "revernir"
+        ],
+        "note" : "Re- + vernir: to varnish a second time; « a reverni » is the passé composé, « revernir » the infinitive.",
+        "pos" : "verb",
+        "translation" : "varnished again; to varnish again"
+      },
+      {
+        "forms" : [
+          "danois"
+        ],
+        "note" : "Of Denmark: « le village danois », « des mots danois »; nationalities take no capital letter as adjectives.",
+        "pos" : "adjective",
+        "translation" : "Danish"
+      },
+      {
+        "forms" : [
+          "économisé"
+        ],
+        "note" : "Past participle of économiser: « il avait économisé de l'argent » = he had saved money.",
+        "pos" : "verb",
+        "translation" : "saved (money)"
+      },
+      {
+        "forms" : [
+          "s'offrir"
+        ],
+        "note" : "Reflexive « s'offrir quelque chose » = to buy oneself something; « ne rien pouvoir s'offrir d'autre » = to be able to afford nothing else.",
+        "pos" : "verb",
+        "translation" : "to afford, to treat oneself to"
+      },
+      {
+        "forms" : [
+          "espérant"
+        ],
+        "note" : "Present participle of espérer: « espérant faire des économies » = hoping to save money.",
+        "pos" : "verb",
+        "translation" : "hoping"
+      },
+      {
+        "forms" : [
+          "économies"
+        ],
+        "gender" : "feminine",
+        "note" : "Usually plural: « faire des économies » = to save money.",
+        "pos" : "noun",
+        "translation" : "savings"
+      },
+      {
+        "forms" : [
+          "expédia"
+        ],
+        "note" : "Passé simple of expédier, to send goods off: « il expédia un lot de canards ».",
+        "pos" : "verb",
+        "translation" : "sent off, dispatched"
+      },
+      {
+        "forms" : [
+          "lot"
+        ],
+        "gender" : "masculine",
+        "note" : "A number of goods made or sent together: « un lot de canards » = a batch of ducks.",
+        "pos" : "noun",
+        "translation" : "batch"
+      },
+      {
+        "forms" : [
+          "devise"
+        ],
+        "gender" : "feminine",
+        "note" : "A short sentence that says what a person or a company stands for: « la devise de l'entreprise ».",
+        "pos" : "noun",
+        "translation" : "motto"
+      },
+      {
+        "forms" : [
+          "brique"
+        ],
+        "gender" : "feminine",
+        "note" : "A small block for building; here a toy brick: « sa brique en plastique ».",
+        "pos" : "noun",
+        "translation" : "brick"
+      },
+      {
+        "forms" : [
+          "brevetée"
+        ],
+        "note" : "Past participle of breveter, to protect an invention by a patent (un brevet): « la brique fut brevetée » is a passive, agreeing with « brique ».",
+        "pos" : "verb",
+        "translation" : "patented (feminine)"
+      },
+      {
+        "forms" : [
+          "mars"
+        ],
+        "gender" : "masculine",
+        "note" : "The third month; months take no capital letter, and the final -s is pronounced: « le 11 mars ».",
+        "pos" : "noun",
+        "translation" : "March"
       }
     ],
     "german" : [
@@ -51777,8 +52366,15 @@
           "baute",
           "bauten"
         ],
-        "note" : "Forms of bauen across tenses.",
+        "note" : "Forms of bauen across tenses. Separable: … auf = aufbauen, to build up; „Er baut sie wieder auf“ = he builds it up again, he rebuilds it.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to build up, rebuild",
+            "verb" : "aufbauen"
+          }
+        ],
         "translation" : "to build"
       },
       {
@@ -54893,7 +55489,8 @@
       },
       {
         "forms" : [
-          "rad"
+          "rad",
+          "rädern"
         ],
         "gender" : "neuter",
         "note" : "Can mean \"wheel\" or short for \"bicycle.\"",
@@ -66287,8 +66884,20 @@
         "forms" : [
           "schickte"
         ],
-        "note" : "Past tense of schicken.",
+        "note" : "Past tense of schicken. Separable: … ab = abschicken, to send off; … zurück = zurückschicken, to send back; „Ole schickte ihn zurück“ = Ole sent him back.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ab",
+            "translation" : "to send off",
+            "verb" : "abschicken"
+          },
+          {
+            "particle" : "zurück",
+            "translation" : "to send back",
+            "verb" : "zurückschicken"
+          }
+        ],
         "translation" : "sent"
       },
       {
@@ -79841,6 +80450,7 @@
       {
         "forms" : [
           "gespielt",
+          "spiel",
           "spielen",
           "spielt",
           "spielte"
@@ -81271,6 +81881,395 @@
           }
         ],
         "translation" : "moved up, drove forward"
+      },
+      {
+        "forms" : [
+          "1932"
+        ],
+        "note" : "The year Ole began to make wooden toys (neunzehnhundertzweiunddreißig); German uses the bare year, without „in“: „1932 war Ole …“.",
+        "pos" : "number",
+        "translation" : "1932"
+      },
+      {
+        "forms" : [
+          "1924"
+        ],
+        "note" : "The year Ole's workshop burned down for the first time (neunzehnhundertvierundzwanzig).",
+        "pos" : "number",
+        "translation" : "1924"
+      },
+      {
+        "forms" : [
+          "1942"
+        ],
+        "note" : "The year Ole's workshop burned down for the second time (neunzehnhundertzweiundvierzig).",
+        "pos" : "number",
+        "translation" : "1942"
+      },
+      {
+        "forms" : [
+          "1935"
+        ],
+        "note" : "The year of the wooden duck: „ab 1935“ = from 1935 on.",
+        "pos" : "number",
+        "translation" : "1935"
+      },
+      {
+        "forms" : [
+          "1934"
+        ],
+        "note" : "The year Ole named his company LEGO (neunzehnhundertvierunddreißig).",
+        "pos" : "number",
+        "translation" : "1934"
+      },
+      {
+        "forms" : [
+          "1958"
+        ],
+        "note" : "The year the plastic brick was patented and Ole died (neunzehnhundertachtundfünfzig).",
+        "pos" : "number",
+        "translation" : "1958"
+      },
+      {
+        "forms" : [
+          "11"
+        ],
+        "note" : "Elf; with a full stop it is an ordinal in a date: „am 11. März“ is read „am elften März“ = on 11 March.",
+        "pos" : "number",
+        "translation" : "11"
+      },
+      {
+        "forms" : [
+          "ole",
+          "oles"
+        ],
+        "gender" : "masculine",
+        "note" : "Ole Kirk Christiansen, the Danish carpenter of this story; „Oles Werkstatt“ is the genitive, with -s and no apostrophe.",
+        "pos" : "noun",
+        "translation" : "Ole"
+      },
+      {
+        "forms" : [
+          "kirk"
+        ],
+        "gender" : "masculine",
+        "note" : "The middle name of Ole Kirk Christiansen.",
+        "pos" : "noun",
+        "translation" : "Kirk"
+      },
+      {
+        "forms" : [
+          "christiansen"
+        ],
+        "gender" : "masculine",
+        "note" : "The family name of Ole Kirk Christiansen, the carpenter who began to make wooden toys in 1932.",
+        "pos" : "noun",
+        "translation" : "Christiansen"
+      },
+      {
+        "forms" : [
+          "godtfred"
+        ],
+        "gender" : "masculine",
+        "note" : "Ole's son, who sent off the ducks with two coats of varnish instead of three.",
+        "pos" : "noun",
+        "translation" : "Godtfred"
+      },
+      {
+        "forms" : [
+          "billund"
+        ],
+        "gender" : "neuter",
+        "note" : "The village in Denmark where Ole Kirk Christiansen had his workshop; place names take no article: „in Billund“.",
+        "pos" : "noun",
+        "translation" : "Billund"
+      },
+      {
+        "forms" : [
+          "dänemark"
+        ],
+        "gender" : "neuter",
+        "note" : "The country; most country names are neuter and take no article: „in Dänemark“.",
+        "pos" : "noun",
+        "translation" : "Denmark"
+      },
+      {
+        "forms" : [
+          "lego"
+        ],
+        "gender" : "neuter",
+        "note" : "The name Ole gave his company in 1934, from the Danish for „spiel gut“ (play well); it is written in capitals and takes no article.",
+        "pos" : "noun",
+        "translation" : "LEGO"
+      },
+      {
+        "forms" : [
+          "zimmermann"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Zimmermann builds the wooden parts of houses; the plural is Zimmerleute. After sein a profession takes no article: „Ole ist Zimmermann“.",
+        "pos" : "noun",
+        "translation" : "carpenter"
+      },
+      {
+        "forms" : [
+          "spielzeug"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Spielzeug: one toy or toys in general, usually without a plural: „Spielzeug aus Holz“ = toys made of wood.",
+        "pos" : "noun",
+        "translation" : "toy, toys"
+      },
+      {
+        "forms" : [
+          "holzspielzeug"
+        ],
+        "gender" : "neuter",
+        "note" : "Holz (wood) + Spielzeug (toys); the last part gives the gender: das Holzspielzeug.",
+        "pos" : "noun",
+        "translation" : "wooden toys"
+      },
+      {
+        "forms" : [
+          "jo-jos"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Jo-Jo, plural Jo-Jos: the toy that runs up and down a string; German writes it with J and a hyphen.",
+        "pos" : "noun",
+        "translation" : "yo-yos"
+      },
+      {
+        "forms" : [
+          "ente",
+          "enten"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Ente, plural Enten: „jede Ente“ = every duck.",
+        "pos" : "noun",
+        "translation" : "duck"
+      },
+      {
+        "forms" : [
+          "firma"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Firma, plural Firmen: „seine Firma“ = his company.",
+        "pos" : "noun",
+        "translation" : "company, firm"
+      },
+      {
+        "forms" : [
+          "eltern"
+        ],
+        "note" : "Plural noun with no singular in everyday use: „arme Eltern“ = poor parents.",
+        "pos" : "noun",
+        "translation" : "parents"
+      },
+      {
+        "forms" : [
+          "bahnhof"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Bahnhof, plural Bahnhöfe: „zum Bahnhof“ = to the station, „am Bahnhof“ = at the station, „vom Bahnhof“ = from the station.",
+        "pos" : "noun",
+        "translation" : "(railway) station"
+      },
+      {
+        "forms" : [
+          "lackschichten"
+        ],
+        "gender" : "feminine",
+        "note" : "Der Lack (varnish) + die Schicht (layer): die Lackschicht, plural Lackschichten; „zwei Lackschichten“ = two coats of varnish.",
+        "pos" : "noun",
+        "translation" : "coats of varnish"
+      },
+      {
+        "forms" : [
+          "kisten"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kiste, plural Kisten: a sturdy box for packing goods.",
+        "pos" : "noun",
+        "translation" : "boxes, crates"
+      },
+      {
+        "forms" : [
+          "ausdruck"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Ausdruck, plural Ausdrücke: „der dänische Ausdruck für …“ = the Danish expression for …",
+        "pos" : "noun",
+        "translation" : "expression, phrase"
+      },
+      {
+        "forms" : [
+          "lieferung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Lieferung, from liefern (to deliver): „eine Lieferung Enten“ = a shipment of ducks, with no „von“.",
+        "pos" : "noun",
+        "translation" : "delivery, shipment"
+      },
+      {
+        "forms" : [
+          "motto"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Motto, plural Mottos: „wurde zum Motto“ = became the motto.",
+        "pos" : "noun",
+        "translation" : "motto"
+      },
+      {
+        "forms" : [
+          "baustein"
+        ],
+        "gender" : "masculine",
+        "note" : "Bauen (to build) + Stein (stone): der Baustein, the small brick a child builds with.",
+        "pos" : "noun",
+        "translation" : "building brick"
+      },
+      {
+        "forms" : [
+          "kunststoff"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kunststoff, the usual German word for plastic: „aus Kunststoff“ = made of plastic.",
+        "pos" : "noun",
+        "translation" : "plastic"
+      },
+      {
+        "forms" : [
+          "märz"
+        ],
+        "gender" : "masculine",
+        "note" : "Der März; months are masculine: „am 11. März“ = on 11 March.",
+        "pos" : "noun",
+        "translation" : "March"
+      },
+      {
+        "forms" : [
+          "kleinigkeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kleinigkeit, from klein (small); nouns in -keit are feminine: „keine Kleinigkeit“ = no small thing.",
+        "pos" : "noun",
+        "translation" : "small thing, trifle"
+      },
+      {
+        "forms" : [
+          "dänischen"
+        ],
+        "note" : "From Dänemark; dänisch takes the ending -en after im, dem or einem: „im dänischen Dorf“ = in the Danish village.",
+        "pos" : "adjective",
+        "translation" : "Danish"
+      },
+      {
+        "forms" : [
+          "gezogene"
+        ],
+        "note" : "Partizip II of ziehen (to pull) used before a noun with an adjective ending: „eine an einer Schnur gezogene Ente“ = a duck pulled on a string.",
+        "pos" : "adjective",
+        "translation" : "pulled"
+      },
+      {
+        "forms" : [
+          "bestellt",
+          "bestellte"
+        ],
+        "note" : "Bestellen (to order): „bestellt“ is the present (niemand bestellt) and also the Partizip II (hat bestellt), without ge- because of the prefix be-; „bestellte“ is the Präteritum.",
+        "pos" : "verb",
+        "translation" : "orders; ordered"
+      },
+      {
+        "forms" : [
+          "lackieren",
+          "lackiert",
+          "lackierte"
+        ],
+        "note" : "Lackieren, from der Lack (varnish): „lackiert“ is the present and also the Partizip II (verbs in -ieren take no ge-), „lackierte“ the Präteritum.",
+        "pos" : "verb",
+        "translation" : "to varnish"
+      },
+      {
+        "forms" : [
+          "brannte",
+          "brennt"
+        ],
+        "note" : "Brennen (to burn): „brennt“ is the present, „brannte“ the Präteritum. Separable: … ab = abbrennen, to burn down; „Die Werkstatt brennt ab“ = the workshop burns down.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ab",
+            "translation" : "to burn down",
+            "verb" : "abbrennen"
+          }
+        ],
+        "translation" : "burns; burned"
+      },
+      {
+        "forms" : [
+          "abgebrannt"
+        ],
+        "note" : "Partizip II of abbrennen (to burn down); it takes sein: „ist abgebrannt“ = has burned down, „war abgebrannt“ = had burned down.",
+        "pos" : "verb",
+        "translation" : "burned down"
+      },
+      {
+        "forms" : [
+          "aufgebaut"
+        ],
+        "note" : "Partizip II of aufbauen (to build up); with wieder it means to rebuild: „hat sie wieder aufgebaut“ = rebuilt it.",
+        "pos" : "verb",
+        "translation" : "built up, rebuilt"
+      },
+      {
+        "forms" : [
+          "abgeschickt"
+        ],
+        "note" : "Partizip II of abschicken (to send off); ge- stands between the particle and the stem: ab-ge-schickt.",
+        "pos" : "verb",
+        "translation" : "sent off"
+      },
+      {
+        "forms" : [
+          "zurückgeschickt"
+        ],
+        "note" : "Partizip II of zurückschicken (to send back): „hat ihn zurückgeschickt“ = sent him back.",
+        "pos" : "verb",
+        "translation" : "sent back"
+      },
+      {
+        "forms" : [
+          "genannt"
+        ],
+        "note" : "Partizip II of nennen (to name, call); the vowel changes e → a: „hat seine Firma LEGO genannt“ = named his company LEGO.",
+        "pos" : "verb",
+        "translation" : "named, called"
+      },
+      {
+        "forms" : [
+          "gespart",
+          "sparen"
+        ],
+        "note" : "Sparen: „Geld sparen“ = to save money; „gespart“ is the Partizip II: „hatte Geld gespart“ = had saved money.",
+        "pos" : "verb",
+        "translation" : "to save (money); saved"
+      },
+      {
+        "forms" : [
+          "verlegte"
+        ],
+        "note" : "Präteritum of sich verlegen auf + accusative, to turn to a new activity: „er verlegte sich auf Holzspielzeug“ = he turned to wooden toys.",
+        "pos" : "verb",
+        "translation" : "turned to, took up"
+      },
+      {
+        "forms" : [
+          "patentiert"
+        ],
+        "note" : "Partizip II of patentieren; verbs in -ieren form it without ge-: „wurde patentiert“ = was patented.",
+        "pos" : "verb",
+        "translation" : "patented"
       }
     ],
     "italian" : [
@@ -82378,7 +83377,8 @@
       {
         "forms" : [
           "auto",
-          "l'auto"
+          "l'auto",
+          "un'auto"
         ],
         "gender" : "feminine",
         "note" : "Short for automobile; invariable.",
@@ -84100,6 +85100,7 @@
       {
         "forms" : [
           "costruire",
+          "costruisce",
           "costruito"
         ],
         "note" : "From costruire.",
@@ -92306,6 +93307,7 @@
       {
         "forms" : [
           "tira",
+          "tirare",
           "tiri"
         ],
         "note" : "From tirare, as in pulling the tray out.",
@@ -92538,6 +93540,7 @@
           "trovarlo",
           "trovate",
           "trovato",
+          "trovavano",
           "troverà",
           "trovi"
         ],
@@ -93717,7 +94720,9 @@
         "forms" : [
           "brucia",
           "bruciare",
-          "bruciavano"
+          "bruciata",
+          "bruciavano",
+          "bruciò"
         ],
         "note" : "Infinitive and imperfect.",
         "pos" : "verb",
@@ -94822,7 +95827,8 @@
       },
       {
         "forms" : [
-          "genitore"
+          "genitore",
+          "genitori"
         ],
         "gender" : "masculine",
         "note" : "A mother or father.",
@@ -99460,6 +100466,8 @@
       },
       {
         "forms" : [
+          "povere",
+          "poveri",
           "povero"
         ],
         "note" : "As in 'non era povero,' he wasn't poor.",
@@ -102239,6 +103247,7 @@
       {
         "forms" : [
           "morire",
+          "morisse",
           "moriva",
           "morte",
           "morto",
@@ -102586,7 +103595,8 @@
       },
       {
         "forms" : [
-          "ruota"
+          "ruota",
+          "ruote"
         ],
         "gender" : "feminine",
         "note" : "«La ruota segue il bue».",
@@ -105954,6 +106964,374 @@
         "note" : "The noun of vincere; la sua prima vittoria = his first win.",
         "pos" : "noun",
         "translation" : "win, victory"
+      },
+      {
+        "forms" : [
+          "1924"
+        ],
+        "note" : "Millenovecentoventiquattro: the year of the first fire in Ole's workshop; nel 1924 = in 1924.",
+        "pos" : "number",
+        "translation" : "1924"
+      },
+      {
+        "forms" : [
+          "1932"
+        ],
+        "note" : "Millenovecentotrentadue: the year the story begins; a year takes the article, il 1932, nel 1932.",
+        "pos" : "number",
+        "translation" : "1932"
+      },
+      {
+        "forms" : [
+          "1934"
+        ],
+        "note" : "Millenovecentotrentaquattro: the year Ole names his company; nel 1934 = in 1934.",
+        "pos" : "number",
+        "translation" : "1934"
+      },
+      {
+        "forms" : [
+          "1935"
+        ],
+        "note" : "Millenovecentotrentacinque: the year of the wooden duck; dal 1935 = from 1935 on.",
+        "pos" : "number",
+        "translation" : "1935"
+      },
+      {
+        "forms" : [
+          "1942"
+        ],
+        "note" : "Millenovecentoquarantadue: the year the workshop burns for the second time.",
+        "pos" : "number",
+        "translation" : "1942"
+      },
+      {
+        "forms" : [
+          "1958"
+        ],
+        "note" : "Millenovecentocinquantotto: the year of the patent for the brick, and the year Ole dies.",
+        "pos" : "number",
+        "translation" : "1958"
+      },
+      {
+        "forms" : [
+          "anatra",
+          "anatre",
+          "un'anatra"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: l'anatra, le anatre; una drops its -a before a vowel, so un'anatra = a duck.",
+        "pos" : "noun",
+        "translation" : "duck"
+      },
+      {
+        "forms" : [
+          "azienda",
+          "dell'azienda"
+        ],
+        "gender" : "feminine",
+        "note" : "A business that makes or sells things; di + la becomes dell' before a vowel: la regola dell'azienda = the company's rule.",
+        "pos" : "noun",
+        "translation" : "company, firm"
+      },
+      {
+        "forms" : [
+          "billund"
+        ],
+        "gender" : "feminine",
+        "note" : "The village in Denmark where Ole Kirk Christiansen has his workshop; a Billund = in Billund.",
+        "pos" : "noun",
+        "translation" : "Billund"
+      },
+      {
+        "forms" : [
+          "bottega"
+        ],
+        "gender" : "feminine",
+        "note" : "The room where a craftsman works, here the carpenter's; it can also mean a small shop.",
+        "pos" : "noun",
+        "translation" : "workshop"
+      },
+      {
+        "forms" : [
+          "brevettato"
+        ],
+        "note" : "Past participle of brevettare, to patent; fu brevettato = was patented (passive with the passato remoto of essere).",
+        "pos" : "verb",
+        "translation" : "patented"
+      },
+      {
+        "forms" : [
+          "christiansen"
+        ],
+        "gender" : "masculine",
+        "note" : "The family name of Ole Kirk Christiansen, the Danish carpenter of this story.",
+        "pos" : "noun",
+        "translation" : "Christiansen"
+      },
+      {
+        "forms" : [
+          "danese",
+          "danesi"
+        ],
+        "note" : "From Danimarca; ends in -e, so it is the same for masculine and feminine, with the plural danesi. Not capitalised in Italian.",
+        "pos" : "adjective",
+        "translation" : "Danish"
+      },
+      {
+        "forms" : [
+          "danimarca"
+        ],
+        "gender" : "feminine",
+        "note" : "Countries take the article (la Danimarca), but not after in: in Danimarca = in Denmark.",
+        "pos" : "noun",
+        "translation" : "Denmark"
+      },
+      {
+        "forms" : [
+          "dedicò"
+        ],
+        "note" : "Passato remoto of dedicarsi (lui/lei): si dedicò ai giocattoli = he turned to toys and gave them his time.",
+        "pos" : "verb",
+        "translation" : "devoted himself (to)"
+      },
+      {
+        "forms" : [
+          "falegname"
+        ],
+        "gender" : "masculine",
+        "note" : "A person who makes things from wood (legno); it comes from fare + legname, timber.",
+        "pos" : "noun",
+        "translation" : "carpenter"
+      },
+      {
+        "forms" : [
+          "gioca",
+          "giocare"
+        ],
+        "note" : "Giocare is to play a game or with toys; gioca is the present (lui/lei) and also the tu imperative: gioca bene = play well.",
+        "pos" : "verb",
+        "translation" : "to play"
+      },
+      {
+        "forms" : [
+          "giocattoli",
+          "giocattolo"
+        ],
+        "gender" : "masculine",
+        "note" : "From giocare, to play: un giocattolo, plural i giocattoli; giocattoli di legno = wooden toys.",
+        "pos" : "noun",
+        "translation" : "toy"
+      },
+      {
+        "forms" : [
+          "godtfred"
+        ],
+        "gender" : "masculine",
+        "note" : "Godtfred, the son of Ole Kirk Christiansen, who worked with his father.",
+        "pos" : "noun",
+        "translation" : "Godtfred"
+      },
+      {
+        "forms" : [
+          "kirk"
+        ],
+        "gender" : "masculine",
+        "note" : "The middle name of Ole Kirk Christiansen.",
+        "pos" : "noun",
+        "translation" : "Kirk"
+      },
+      {
+        "forms" : [
+          "l'11"
+        ],
+        "note" : "L'undici: dates take the article, and before undici it is l': l'11 marzo = (on) 11 March.",
+        "pos" : "number",
+        "translation" : "the 11th"
+      },
+      {
+        "forms" : [
+          "lego"
+        ],
+        "gender" : "feminine",
+        "note" : "The name Ole gives his toy company, made from the Danish words for \"play well\".",
+        "pos" : "noun",
+        "translation" : "LEGO"
+      },
+      {
+        "forms" : [
+          "lotto"
+        ],
+        "gender" : "masculine",
+        "note" : "A number of goods made or sent together: un lotto di anatre = a batch of ducks.",
+        "pos" : "noun",
+        "translation" : "batch, lot"
+      },
+      {
+        "forms" : [
+          "marzo"
+        ],
+        "gender" : "masculine",
+        "note" : "Months are written in lower case: l'11 marzo = (on) 11 March.",
+        "pos" : "noun",
+        "translation" : "March"
+      },
+      {
+        "forms" : [
+          "mattoncino"
+        ],
+        "gender" : "masculine",
+        "note" : "Diminutive of mattone, brick: the ending -cino makes it small; here the little brick children build with.",
+        "pos" : "noun",
+        "translation" : "small brick, toy brick"
+      },
+      {
+        "forms" : [
+          "motto"
+        ],
+        "gender" : "masculine",
+        "note" : "A short sentence that says what a person or a company believes in.",
+        "pos" : "noun",
+        "translation" : "motto"
+      },
+      {
+        "forms" : [
+          "ole"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Ole Kirk Christiansen, the Danish carpenter who begins to make wooden toys in 1932.",
+        "pos" : "noun",
+        "translation" : "Ole"
+      },
+      {
+        "forms" : [
+          "ordinato",
+          "ordinava"
+        ],
+        "note" : "From ordinare, to ask someone to make or bring something for you: ha ordinato (passato prossimo), ordinava (imperfect, was ordering).",
+        "pos" : "verb",
+        "translation" : "ordered"
+      },
+      {
+        "forms" : [
+          "permettersi"
+        ],
+        "note" : "Reflexive permettersi = to allow oneself, so to have enough money for something: non potevano permettersi nient'altro.",
+        "pos" : "verb",
+        "translation" : "to afford"
+      },
+      {
+        "forms" : [
+          "quell'anno"
+        ],
+        "note" : "Quello shortens to quell' before a vowel: quell'anno = that year.",
+        "pos" : "other",
+        "translation" : "that year"
+      },
+      {
+        "forms" : [
+          "riceve"
+        ],
+        "note" : "Present of ricevere (lui/lei): il bambino che lo riceve = the child who gets it.",
+        "pos" : "verb",
+        "translation" : "receives, gets"
+      },
+      {
+        "forms" : [
+          "ricostruita",
+          "ricostruì"
+        ],
+        "note" : "From ricostruire (ri- = again + costruire): l'ha ricostruita, with the participle agreeing with la bottega; ricostruì is the passato remoto.",
+        "pos" : "verb",
+        "translation" : "rebuilt"
+      },
+      {
+        "forms" : [
+          "riprendere"
+        ],
+        "note" : "Ri- + prendere: to take something again, here to go and bring the boxes back.",
+        "pos" : "verb",
+        "translation" : "to fetch back, take back"
+      },
+      {
+        "forms" : [
+          "risparmiare",
+          "risparmiato"
+        ],
+        "note" : "To spend less; aveva risparmiato dei soldi = he had saved some money. On its own, risparmiare already means to save money.",
+        "pos" : "verb",
+        "translation" : "to save (money)"
+      },
+      {
+        "forms" : [
+          "scatole"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of scatola, a box for packing or sending things.",
+        "pos" : "noun",
+        "translation" : "boxes"
+      },
+      {
+        "forms" : [
+          "spago"
+        ],
+        "gender" : "masculine",
+        "note" : "A thin, strong cord: tirare con uno spago = to pull on a string.",
+        "pos" : "noun",
+        "translation" : "string, twine"
+      },
+      {
+        "forms" : [
+          "spedì"
+        ],
+        "note" : "Passato remoto of spedire (lui/lei), to send goods or post; in speech: ha spedito.",
+        "pos" : "verb",
+        "translation" : "sent, shipped"
+      },
+      {
+        "forms" : [
+          "sperando"
+        ],
+        "note" : "Gerund of sperare: sperando di risparmiare = hoping to save; sperare takes di before an infinitive.",
+        "pos" : "verb",
+        "translation" : "hoping"
+      },
+      {
+        "forms" : [
+          "strati"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of strato: due strati di vernice = two coats of varnish.",
+        "pos" : "noun",
+        "translation" : "coats, layers"
+      },
+      {
+        "forms" : [
+          "vernice"
+        ],
+        "gender" : "feminine",
+        "note" : "The clear or coloured liquid that protects wood and makes it shine.",
+        "pos" : "noun",
+        "translation" : "varnish, paint"
+      },
+      {
+        "forms" : [
+          "vernicia",
+          "verniciare",
+          "verniciato"
+        ],
+        "note" : "To cover with vernice: vernicia (present, lui/lei), ha verniciato (passato prossimo), verniciare (infinitive).",
+        "pos" : "verb",
+        "translation" : "to varnish"
+      },
+      {
+        "forms" : [
+          "yo-yo"
+        ],
+        "gender" : "masculine",
+        "note" : "A round toy that goes up and down on a string; the word does not change in the plural: uno yo-yo, gli yo-yo.",
+        "pos" : "noun",
+        "translation" : "yo-yo"
       }
     ],
     "spanish" : [
@@ -109356,7 +110734,8 @@
       {
         "forms" : [
           "podría",
-          "podía"
+          "podía",
+          "podían"
         ],
         "note" : "From poder (can, to be able to).",
         "pos" : "verb",
@@ -109772,7 +111151,8 @@
       },
       {
         "forms" : [
-          "rueda"
+          "rueda",
+          "ruedas"
         ],
         "gender" : "feminine",
         "note" : "As on a cart.",
@@ -109993,6 +111373,7 @@
       {
         "forms" : [
           "significa",
+          "significan",
           "significar"
         ],
         "note" : "Significar (to mean), \"él/ella\" form.",
@@ -111020,6 +112401,7 @@
       {
         "forms" : [
           "aquel",
+          "aquella",
           "aquellas"
         ],
         "note" : "Demonstrative pronoun/adjective.",
@@ -113632,6 +115014,7 @@
       },
       {
         "forms" : [
+          "recurrió",
           "recurría"
         ],
         "note" : "Imperfect tense of recurrir.",
@@ -120409,7 +121792,10 @@
       },
       {
         "forms" : [
+          "arde",
           "arder",
+          "ardido",
+          "ardió",
           "ardían"
         ],
         "note" : "Infinitive and imperfect.",
@@ -125832,6 +127218,7 @@
       },
       {
         "forms" : [
+          "encontraban",
           "encontrar",
           "encontraran",
           "encontraron"
@@ -126905,7 +128292,8 @@
       },
       {
         "forms" : [
-          "pobre"
+          "pobre",
+          "pobres"
         ],
         "note" : "Poor, not wealthy.",
         "pos" : "adjective",
@@ -128182,6 +129570,7 @@
         "forms" : [
           "compra",
           "comprar",
+          "compraron",
           "compró"
         ],
         "note" : "Presente y pretérito.",
@@ -128896,6 +130285,7 @@
           "muere",
           "mueren",
           "muerto",
+          "muriera",
           "murió"
         ],
         "note" : "Verbo irregular: o→ue («mueren»).",
@@ -132345,6 +133735,346 @@
         "note" : "Plural of vuelta; in racing a vuelta is one lap of the circuit: \"a pocas vueltas del final\" = a few laps from the end.",
         "pos" : "noun",
         "translation" : "laps"
+      },
+      {
+        "forms" : [
+          "11"
+        ],
+        "note" : "Eleven; dates use the plain number: \"el 11 de marzo\" = 11 March (el once de marzo).",
+        "pos" : "number",
+        "translation" : "11"
+      },
+      {
+        "forms" : [
+          "1924"
+        ],
+        "note" : "The year Ole's workshop burned for the first time.",
+        "pos" : "number",
+        "translation" : "1924"
+      },
+      {
+        "forms" : [
+          "1932"
+        ],
+        "note" : "The year the carpenter Ole Kirk Christiansen began to make wooden toys in Billund.",
+        "pos" : "number",
+        "translation" : "1932"
+      },
+      {
+        "forms" : [
+          "1934"
+        ],
+        "note" : "The year Ole named his company LEGO.",
+        "pos" : "number",
+        "translation" : "1934"
+      },
+      {
+        "forms" : [
+          "1935"
+        ],
+        "note" : "The year the wooden duck joined Ole's toys.",
+        "pos" : "number",
+        "translation" : "1935"
+      },
+      {
+        "forms" : [
+          "1942"
+        ],
+        "note" : "The year Ole's workshop burned for the second time.",
+        "pos" : "number",
+        "translation" : "1942"
+      },
+      {
+        "forms" : [
+          "1958"
+        ],
+        "note" : "The year the plastic brick was patented and Ole died.",
+        "pos" : "number",
+        "translation" : "1958"
+      },
+      {
+        "forms" : [
+          "ahorrado",
+          "ahorrar"
+        ],
+        "note" : "Ahorrar is to save money or time; \"había ahorrado\" = had saved (pluscuamperfecto).",
+        "pos" : "verb",
+        "translation" : "saved; to save (money)"
+      },
+      {
+        "forms" : [
+          "arrastrar"
+        ],
+        "note" : "Infinitive: to pull something along the ground behind you, as a child does with a toy on a string.",
+        "pos" : "verb",
+        "translation" : "to pull along, to drag"
+      },
+      {
+        "forms" : [
+          "barniz"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: el barniz; \"una capa de barniz\" = a coat of varnish.",
+        "pos" : "noun",
+        "translation" : "varnish"
+      },
+      {
+        "forms" : [
+          "barniza",
+          "barnizar",
+          "barnizó"
+        ],
+        "note" : "Barnizar, to cover wood with varnish: \"barniza\" is present, \"barnizó\" pretérito indefinido (z stays before a, o).",
+        "pos" : "verb",
+        "translation" : "varnishes; to varnish; varnished"
+      },
+      {
+        "forms" : [
+          "billund"
+        ],
+        "gender" : "masculine",
+        "note" : "The village in Denmark where Ole Kirk Christiansen had his workshop.",
+        "pos" : "noun",
+        "translation" : "Billund"
+      },
+      {
+        "forms" : [
+          "capas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of capa; \"dos capas de barniz\" = two coats of varnish.",
+        "pos" : "noun",
+        "translation" : "coats, layers"
+      },
+      {
+        "forms" : [
+          "carpintero"
+        ],
+        "gender" : "masculine",
+        "note" : "Spanish uses no article with a profession: \"es carpintero\" = he is a carpenter.",
+        "pos" : "noun",
+        "translation" : "carpenter"
+      },
+      {
+        "forms" : [
+          "christiansen"
+        ],
+        "gender" : "masculine",
+        "note" : "The family name of Ole Kirk Christiansen, the Danish carpenter of this story.",
+        "pos" : "noun",
+        "translation" : "Christiansen"
+      },
+      {
+        "forms" : [
+          "cuerda"
+        ],
+        "gender" : "feminine",
+        "note" : "A thin rope; \"con una cuerda\" = on (with) a string.",
+        "pos" : "noun",
+        "translation" : "string, cord"
+      },
+      {
+        "forms" : [
+          "danesas",
+          "danés"
+        ],
+        "note" : "Danés (masculine), danesa (feminine); \"en danés\" = in Danish, the language. Nationalities take no capital letter in Spanish.",
+        "pos" : "adjective",
+        "translation" : "Danish"
+      },
+      {
+        "forms" : [
+          "despachó"
+        ],
+        "note" : "Pretérito indefinido of despachar: to send goods on their way.",
+        "pos" : "verb",
+        "translation" : "sent off, dispatched"
+      },
+      {
+        "forms" : [
+          "dinamarca"
+        ],
+        "gender" : "feminine",
+        "note" : "The country in northern Europe; its adjective is danés.",
+        "pos" : "noun",
+        "translation" : "Denmark"
+      },
+      {
+        "forms" : [
+          "empresa"
+        ],
+        "gender" : "feminine",
+        "note" : "A business; \"su empresa\" = his company. Plural: empresas.",
+        "pos" : "noun",
+        "translation" : "company, firm"
+      },
+      {
+        "forms" : [
+          "encargaba",
+          "encargó"
+        ],
+        "note" : "Encargar is to order something to be made: \"encargó\" is pretérito indefinido, \"encargaba\" the imperfect for the background.",
+        "pos" : "verb",
+        "translation" : "ordered, commissioned"
+      },
+      {
+        "forms" : [
+          "estación"
+        ],
+        "gender" : "feminine",
+        "note" : "Here the railway station; estación also means season of the year.",
+        "pos" : "noun",
+        "translation" : "station"
+      },
+      {
+        "forms" : [
+          "godtfred"
+        ],
+        "gender" : "masculine",
+        "note" : "Ole's son, who varnished every duck again that night.",
+        "pos" : "noun",
+        "translation" : "Godtfred"
+      },
+      {
+        "forms" : [
+          "incendiado"
+        ],
+        "note" : "Past participle of incendiarse: \"se había incendiado\" = had caught fire, had burned down.",
+        "pos" : "verb",
+        "translation" : "caught fire, burned down"
+      },
+      {
+        "forms" : [
+          "jugar"
+        ],
+        "note" : "Infinitive; jugar is for games and toys, while tocar is to play an instrument.",
+        "pos" : "verb",
+        "translation" : "to play"
+      },
+      {
+        "forms" : [
+          "juguete",
+          "juguetes"
+        ],
+        "gender" : "masculine",
+        "note" : "From jugar (to play); \"juguetes de madera\" = wooden toys.",
+        "pos" : "noun",
+        "translation" : "toy, toys"
+      },
+      {
+        "forms" : [
+          "kirk"
+        ],
+        "gender" : "masculine",
+        "note" : "The middle name of Ole Kirk Christiansen.",
+        "pos" : "noun",
+        "translation" : "Kirk"
+      },
+      {
+        "forms" : [
+          "ladrillo"
+        ],
+        "gender" : "masculine",
+        "note" : "A block for building; here the plastic brick of the toy company.",
+        "pos" : "noun",
+        "translation" : "brick"
+      },
+      {
+        "forms" : [
+          "lego"
+        ],
+        "gender" : "masculine",
+        "note" : "The name Ole gave his company in 1934, from the Danish for \"play well\".",
+        "pos" : "noun",
+        "translation" : "LEGO"
+      },
+      {
+        "forms" : [
+          "lema"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine although it ends in -a: el lema.",
+        "pos" : "noun",
+        "translation" : "motto"
+      },
+      {
+        "forms" : [
+          "mandó"
+        ],
+        "note" : "Pretérito indefinido of mandar, which means to send and also to tell someone to do something.",
+        "pos" : "verb",
+        "translation" : "sent"
+      },
+      {
+        "forms" : [
+          "marzo"
+        ],
+        "gender" : "masculine",
+        "note" : "Months are not capitalised in Spanish: \"el 11 de marzo\".",
+        "pos" : "noun",
+        "translation" : "March"
+      },
+      {
+        "forms" : [
+          "ole"
+        ],
+        "gender" : "masculine",
+        "note" : "Ole Kirk Christiansen, the Danish carpenter who made wooden toys; not the Spanish cheer \"olé\".",
+        "pos" : "noun",
+        "translation" : "Ole"
+      },
+      {
+        "forms" : [
+          "padres"
+        ],
+        "gender" : "masculine",
+        "note" : "The masculine plural of padre (father) means mother and father together.",
+        "pos" : "noun",
+        "translation" : "parents"
+      },
+      {
+        "forms" : [
+          "partida"
+        ],
+        "gender" : "feminine",
+        "note" : "A quantity of goods sent together; partida can also be a game (of chess, of cards).",
+        "pos" : "noun",
+        "translation" : "batch, consignment"
+      },
+      {
+        "forms" : [
+          "patentado"
+        ],
+        "note" : "Past participle of patentar; \"fue patentado\" = was patented, the passive with ser.",
+        "pos" : "verb",
+        "translation" : "patented"
+      },
+      {
+        "forms" : [
+          "pato",
+          "patos"
+        ],
+        "gender" : "masculine",
+        "note" : "Un pato de madera = a wooden duck; plural patos.",
+        "pos" : "noun",
+        "translation" : "duck, ducks"
+      },
+      {
+        "forms" : [
+          "reconstruyó"
+        ],
+        "note" : "Pretérito indefinido of reconstruir (re- + construir); the i becomes y between vowels, as in construyó.",
+        "pos" : "verb",
+        "translation" : "rebuilt"
+      },
+      {
+        "forms" : [
+          "yoyós"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of yoyó: one word in Spanish, with the accent on the last o.",
+        "pos" : "noun",
+        "translation" : "yo-yos"
       }
     ]
   },
@@ -149989,6 +151719,581 @@
       "summary" : "Domenica 4 ottobre 2026 la pioggia ha fatto aspettare la Formula 1 per un'ora e mezza, e poi Max Verstappen ha vinto a Sepang, la pista dove aveva vinto l'ultima volta nove anni prima.",
       "title" : "Di nuovo a Sepang, Verstappen vince ancora",
       "translationGroup" : "weekend-sport-2026-10-04"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-06",
+      "id" : "wooden-duck",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1932: \"is\", \"makes\", \"says\". The year shows when it happens.",
+              "example" : "It is 1932 in Billund, Denmark.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "\"Nobody\" is singular, so the verb takes -s, and the sentence needs no \"not\": nobody has, nobody buys.",
+              "example" : "Nobody buys a house.",
+              "title" : "Nobody + verb with -s"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is 1932 in Billund, Denmark. Ole Kirk Christiansen is a carpenter. Nobody has money. Nobody buys a house.",
+            "So Ole makes wooden toys: a car, a yo-yo, later a duck. Children must play.",
+            "One day his son varnishes the ducks two times, not three. Ole says no. For a child, only the best is good enough. The son varnishes every duck again.",
+            "Ole's workshop burns two times. He builds it again. He names his company LEGO: \"play well\"."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed: ordered, burned, varnished, named. Irregular verbs change: make → made, send → sent, build → built, buy → bought.",
+              "example" : "Ole sent him back for the boxes.",
+              "title" : "Past simple: -ed and irregular forms"
+            },
+            {
+              "body" : "The past of \"to be\" is was (I, he, she, it) and were (you, we, they): \"Ole was a carpenter\", \"times were hard\".",
+              "example" : "Times were hard, and nobody ordered a house.",
+              "title" : "Was and were"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1932 Ole Kirk Christiansen was a carpenter in Billund, a small village in Denmark. Times were hard, and nobody ordered a house.",
+            "So Ole made wooden toys: cars, yo-yos and, from 1935, a duck on wheels. Even poor parents bought something small for a child.",
+            "It was not easy. His workshop burned down in 1924 and again in 1942. Both times he built it again.",
+            "One day his son Godtfred sent ducks to the station with two coats of varnish, not three. Ole sent him back for the boxes. Godtfred varnished every duck again that night.",
+            "Ole's rule was simple: only the best is good enough. In 1934 he named his company LEGO, from the Danish for \"play well\"."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Was ordering\" describes the situation at that time, not one finished action: was/were + verb-ing.",
+              "example" : "In 1932, in the Danish village of Billund, nobody was ordering a house.",
+              "title" : "Past continuous for the background"
+            },
+            {
+              "body" : "His words were \"I have saved money\". Reported after \"told him that\", the verb moves one step back, to the past perfect.",
+              "example" : "One day his son Godtfred told him that he had saved money.",
+              "title" : "Reported speech: told him that he had saved"
+            },
+            {
+              "body" : "\"A duck that a child could pull\": that introduces the clause saying which duck, and it is the object of pull.",
+              "example" : "So he began to make wooden toys: cars, yo-yos and, from 1935, a duck that a child could pull on a string.",
+              "title" : "Relative clause with that"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1932, in the Danish village of Billund, nobody was ordering a house. Ole Kirk Christiansen, a carpenter, had a workshop and almost no work.",
+            "So he began to make wooden toys: cars, yo-yos and, from 1935, a duck that a child could pull on a string. Even poor families, he had noticed, found money for a child.",
+            "Nothing came easily. The workshop had burned down in 1924, and burned again in 1942. Each time he rebuilt it.",
+            "One day his son Godtfred told him that he had saved money. The ducks at the station had two coats of varnish, not three. Ole sent him to fetch the boxes, and Godtfred varnished every duck again that night.",
+            "\"Only the best is good enough\" became the company's rule. Ole had named it LEGO in 1934, from the Danish for \"play well\"."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After \"make\" + person, the verb is the bare infinitive, without to: \"made him fetch… and varnish\". It means he had no choice.",
+              "example" : "Ole made him fetch the boxes from the station and varnish every duck again that night.",
+              "title" : "Make someone do something"
+            },
+            {
+              "body" : "Between commas, \"which had burned down in 1924\" adds information about the workshop without saying which one. \"That\" is not possible here.",
+              "example" : "The workshop, which had burned down in 1924, burned again in 1942; twice he rebuilt it.",
+              "title" : "Non-defining relative clause with which"
+            },
+            {
+              "body" : "\"Hoping to save money\" gives his reason in a compact, more formal way than \"because he hoped to save money\".",
+              "example" : "His son Godtfred, hoping to save money, once sent off a batch of ducks with two coats of varnish, not three.",
+              "title" : "Participle clause: hoping to save money"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1932, in the Danish village of Billund, nobody was ordering a house, and the carpenter Ole Kirk Christiansen had a workshop and little work.",
+            "So he turned to wooden toys: cars, yo-yos and, from 1935, a duck pulled on a string. Families who could afford nothing else still found something for a child.",
+            "The workshop, which had burned down in 1924, burned again in 1942; twice he rebuilt it.",
+            "His son Godtfred, hoping to save money, once sent off a batch of ducks with two coats of varnish, not three. Ole made him fetch the boxes from the station and varnish every duck again that night.",
+            "\"Only the best is good enough\" became the motto of the company he had named LEGO in 1934, from the Danish for \"play well\". Its plastic brick was patented on 28 January 1958, six weeks before Ole died on 11 March. A toy is no small thing to the child who gets it."
+          ]
+        }
+      ],
+      "summary" : "In 1932 a Danish village carpenter with no houses to build began to make wooden toys, and one evening he sent his son back to the station to varnish every duck again.",
+      "title" : "The Wooden Duck",
+      "translationGroup" : "wooden-duck"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-06",
+      "id" : "wooden-duck-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1932: \"est\", \"fabrique\", \"répond\". \"Nous sommes en 1932\" is the French way to say \"it is 1932\".",
+              "example" : "Nous sommes en 1932 à Billund, au Danemark.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "French says what someone is without an article: \"Ole est charpentier\", not \"un charpentier\".",
+              "example" : "Ole Kirk Christiansen est charpentier.",
+              "title" : "No article before a profession"
+            },
+            {
+              "body" : "After a negative, \"un\", \"une\" and \"des\" become \"de\": il achète une maison, but personne n'achète de maison.",
+              "example" : "Personne n'achète de maison.",
+              "title" : "De after a negative"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes en 1932 à Billund, au Danemark. Ole Kirk Christiansen est charpentier. Personne n'a d'argent. Personne n'achète de maison.",
+            "Alors Ole fabrique des jouets en bois. Il fabrique une voiture, un yo-yo, plus tard un canard. Les enfants doivent jouer.",
+            "Un jour, son fils vernit les canards deux fois, pas trois. Ole répond non. Pour un enfant, seul le meilleur est assez bon. Le fils vernit encore une fois tous les canards.",
+            "L'atelier d'Ole brûle deux fois. Ole reconstruit l'atelier. Il appelle son entreprise LEGO : « joue bien »."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir in the present plus a past participle: a fabriqué, a brûlé, a envoyé. Verbs in -er give -é; a verb in -ir like revernir gives -i: a reverni.",
+              "example" : "Un jour, son fils Godtfred a envoyé des canards à la gare.",
+              "title" : "Passé composé with avoir"
+            },
+            {
+              "body" : "The imparfait of être and avoir describes how things were, not one event: \"Ole était charpentier\", \"ils avaient deux couches\".",
+              "example" : "Ils avaient deux couches de vernis, pas trois.",
+              "title" : "Était and avaient for the background"
+            },
+            {
+              "body" : "\"L'\" stands for \"l'atelier\" and goes before avoir, not after the verb: il l'a reconstruit = he rebuilt it.",
+              "example" : "Les deux fois, il l'a reconstruit.",
+              "title" : "Object pronoun before the auxiliary"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1932, Ole Kirk Christiansen était charpentier à Billund, un petit village du Danemark. Les temps étaient durs. Cette année-là, personne n'a commandé de maison.",
+            "Alors Ole a fabriqué des jouets en bois : des voitures, des yo-yos et, dès 1935, un canard à roulettes. Même les parents pauvres ont acheté une petite chose pour un enfant.",
+            "Ce n'était pas facile. Son atelier a brûlé en 1924, puis encore en 1942. Les deux fois, il l'a reconstruit.",
+            "Un jour, son fils Godtfred a envoyé des canards à la gare. Ils avaient deux couches de vernis, pas trois. Ole l'a renvoyé récupérer les boîtes. Cette nuit-là, Godtfred a reverni chaque canard.",
+            "La règle d'Ole était simple : seul le meilleur est assez bon. En 1934, il a appelé son entreprise LEGO, des mots danois pour « joue bien »."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Commandait\" describes the situation at that time, not one finished action; the passé composé (a commencé, a ajouté) then tells what happened.",
+              "example" : "En 1932, dans le village danois de Billund, personne ne commandait de maison.",
+              "title" : "Imparfait for the background"
+            },
+            {
+              "body" : "His words were \"j'ai économisé de l'argent\". Reported after \"lui a dit que\", the verb moves one step back: il avait économisé.",
+              "example" : "Un jour, son fils Godtfred lui a dit qu'il avait économisé de l'argent.",
+              "title" : "Reported speech with the plus-que-parfait"
+            },
+            {
+              "body" : "\"Que\" is the object of the clause it opens: the child pulls the duck. Before a vowel it shortens to \"qu'\".",
+              "example" : "Dès 1935, il a ajouté un canard qu'un enfant pouvait tirer avec une ficelle.",
+              "title" : "Relative pronoun que (qu')"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1932, dans le village danois de Billund, personne ne commandait de maison. Ole Kirk Christiansen, charpentier, avait un atelier et presque pas de travail.",
+            "Il a donc commencé à fabriquer des jouets en bois : des voitures et des yo-yos. Dès 1935, il a ajouté un canard qu'un enfant pouvait tirer avec une ficelle. Il avait remarqué que même les familles pauvres trouvaient de l'argent pour un enfant.",
+            "Rien n'a été facile. L'atelier avait brûlé en 1924, et il a encore brûlé en 1942. Chaque fois, Ole l'a reconstruit.",
+            "Un jour, son fils Godtfred lui a dit qu'il avait économisé de l'argent. Les canards qui étaient à la gare avaient deux couches de vernis, pas trois. Ole l'a envoyé récupérer les boîtes, et Godtfred a reverni chaque canard cette nuit-là.",
+            "« Seul le meilleur est assez bon » est devenu la règle de l'entreprise. En 1934, Ole l'avait appelée LEGO, des mots danois pour « joue bien »."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Faire\" followed by an infinitive means to make someone do it. When that infinitive has its own object (les boîtes), the person becomes \"lui\": Ole lui fit rapporter les boîtes.",
+              "example" : "Ole lui fit rapporter les boîtes de la gare et revernir chaque canard la nuit même.",
+              "title" : "Faire + infinitive: making someone do something"
+            },
+            {
+              "body" : "Written narration uses the passé simple (brûla, reconstruisit) for the events, and the plus-que-parfait (avait brûlé) for what had happened before them.",
+              "example" : "L'atelier, qui avait brûlé en 1924, brûla encore en 1942 ; par deux fois, il le reconstruisit.",
+              "title" : "Passé simple after the plus-que-parfait"
+            },
+            {
+              "body" : "\"Espérant faire des économies\" gives his reason in a compact, written way; in speech one would say \"parce qu'il espérait\". The form in -ant never changes.",
+              "example" : "Son fils Godtfred, espérant faire des économies, expédia un jour un lot de canards avec deux couches de vernis, et non trois.",
+              "title" : "Present participle for a reason"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1932, dans le village danois de Billund, personne ne commandait de maison, et le charpentier Ole Kirk Christiansen avait un atelier et peu de travail.",
+            "Il se tourna donc vers les jouets en bois : des voitures, des yo-yos et, dès 1935, un canard à tirer au bout d'une ficelle. Les familles qui ne pouvaient rien s'offrir d'autre trouvaient encore quelque chose pour un enfant.",
+            "L'atelier, qui avait brûlé en 1924, brûla encore en 1942 ; par deux fois, il le reconstruisit.",
+            "Son fils Godtfred, espérant faire des économies, expédia un jour un lot de canards avec deux couches de vernis, et non trois. Ole lui fit rapporter les boîtes de la gare et revernir chaque canard la nuit même.",
+            "« Seul le meilleur est assez bon » devint la devise de l'entreprise qu'il avait nommée LEGO en 1934, nom tiré des mots danois signifiant « joue bien ». Sa brique en plastique fut brevetée le 28 janvier 1958, six semaines avant la mort d'Ole, le 11 mars. Un jouet n'est pas peu de chose pour l'enfant qui le reçoit."
+          ]
+        }
+      ],
+      "summary" : "En 1932, un charpentier de village danois qui n'a plus de maisons à construire se met à fabriquer des jouets en bois, et un soir il renvoie son fils à la gare pour revernir chaque canard.",
+      "title" : "Le canard en bois",
+      "translationGroup" : "wooden-duck"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-06",
+      "id" : "wooden-duck-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German says what someone is without an article: \"ist Zimmermann\", not \"ist ein Zimmermann\". The story is told in the present, even for 1932; the year shows when it happens.",
+              "example" : "Ole Kirk Christiansen ist Zimmermann.",
+              "title" : "No article before a profession"
+            },
+            {
+              "body" : "Aufbauen (to build up again) splits in a main clause: the verb \"baut\" stays in second place and \"auf\" goes to the very end. The same happens with abbrennen: \"brennt … ab\".",
+              "example" : "Er baut sie wieder auf.",
+              "title" : "Separable verbs: the particle goes to the end"
+            },
+            {
+              "body" : "Niemand (nobody) is singular and already negative, so the verb takes the er/sie/es form and the sentence needs no \"nicht\": niemand hat, niemand bestellt.",
+              "example" : "Niemand bestellt ein Haus.",
+              "title" : "Niemand + verb in the er/sie/es form"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist 1932 in Billund in Dänemark. Ole Kirk Christiansen ist Zimmermann. Niemand hat Geld. Niemand bestellt ein Haus.",
+            "Also macht Ole Spielzeug aus Holz: Autos, Jo-Jos, später eine Ente. Kinder müssen spielen.",
+            "Eines Tages lackiert sein Sohn die Enten zweimal, nicht dreimal. Ole sagt Nein. Für ein Kind ist nur das Beste gut genug. Der Sohn lackiert jede Ente noch einmal.",
+            "Oles Werkstatt brennt zweimal ab. Er baut sie wieder auf. Er nennt seine Firma LEGO: „spiel gut“."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A separable verb puts ge- between the particle and the stem and is written as one word: aufbauen → aufgebaut, abschicken → abgeschickt, zurückschicken → zurückgeschickt. The participle stands at the end of the sentence.",
+              "example" : "Beide Male hat er sie wieder aufgebaut.",
+              "title" : "Perfekt of separable verbs: ge- in the middle"
+            },
+            {
+              "body" : "Most verbs form the Perfekt with haben, but a verb that describes a change of state takes sein: the workshop \"ist abgebrannt\" (burned down), because afterwards it is no longer there.",
+              "example" : "Seine Werkstatt ist 1924 und 1942 abgebrannt.",
+              "title" : "Perfekt with sein for a change of state"
+            },
+            {
+              "body" : "Um opens the clause and zu + infinitive closes it: \"um die Kisten zu holen\" = (in order) to fetch the boxes. A comma separates it from the main clause.",
+              "example" : "Ole hat ihn zurückgeschickt, um die Kisten zu holen.",
+              "title" : "Um … zu + infinitive for a purpose"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1932 war Ole Kirk Christiansen Zimmermann in Billund, einem kleinen dänischen Dorf. Die Zeiten waren schwer: Niemand hat ein Haus bestellt.",
+            "Also hat Ole Holzspielzeug gemacht: Autos, Jo-Jos und ab 1935 eine Ente auf Rädern. Auch arme Eltern haben ihrem Kind etwas Kleines gekauft.",
+            "Es war nicht leicht. Seine Werkstatt ist 1924 und 1942 abgebrannt. Beide Male hat er sie wieder aufgebaut.",
+            "Eines Tages hat sein Sohn Godtfred Enten zum Bahnhof abgeschickt, mit zwei Lackschichten, nicht drei. Ole hat ihn zurückgeschickt, um die Kisten zu holen. Godtfred hat in dieser Nacht jede Ente noch einmal lackiert.",
+            "Oles Regel war einfach: Nur das Beste ist gut genug. 1934 hat er seine Firma LEGO genannt, nach dem dänischen Ausdruck für „spiel gut“."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the Präteritum (brannte … ab); what happened before that moment takes war/hatte + Partizip II: \"war abgebrannt\" = had burned down. Abbrennen takes sein, so the Plusquamperfekt uses war.",
+              "example" : "Die Werkstatt war 1924 abgebrannt, und 1942 brannte sie erneut ab.",
+              "title" : "Plusquamperfekt for the earlier event"
+            },
+            {
+              "body" : "The relative pronoun \"die\" refers to the feminine noun Ente and sends the conjugated verb to the end; with a modal verb, the infinitive comes first and the modal last: \"ziehen konnte\".",
+              "example" : "Also begann er, Holzspielzeug herzustellen: Autos, Jo-Jos und ab 1935 eine Ente, die ein Kind an einer Schnur ziehen konnte.",
+              "title" : "Relative clause: the modal verb comes last"
+            },
+            {
+              "body" : "His words were \"Ich habe Geld gespart\". After \"sagte ihm, dass\" the verb goes to the end of the clause, and the Plusquamperfekt (gespart hatte) shows that the saving came before the telling.",
+              "example" : "Eines Tages sagte ihm sein Sohn Godtfred, dass er Geld gespart hatte.",
+              "title" : "Reporting what someone said with dass"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1932 bestellte im dänischen Dorf Billund niemand ein Haus. Ole Kirk Christiansen, ein Zimmermann, hatte eine Werkstatt und fast keine Arbeit.",
+            "Also begann er, Holzspielzeug herzustellen: Autos, Jo-Jos und ab 1935 eine Ente, die ein Kind an einer Schnur ziehen konnte. Selbst arme Familien, das hatte er bemerkt, fanden Geld für ein Kind.",
+            "Nichts war leicht. Die Werkstatt war 1924 abgebrannt, und 1942 brannte sie erneut ab. Jedes Mal baute er sie wieder auf.",
+            "Eines Tages sagte ihm sein Sohn Godtfred, dass er Geld gespart hatte. Die Enten am Bahnhof hatten zwei Lackschichten, nicht drei. Ole schickte ihn zurück, um die Kisten zu holen, und Godtfred lackierte in dieser Nacht jede Ente noch einmal.",
+            "„Nur das Beste ist gut genug“ wurde die Regel der Firma. Ole hatte sie 1934 LEGO genannt, nach dem dänischen Ausdruck für „spiel gut“."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle with its own complements can stand before the noun like a compressed relative clause: \"eine an einer Schnur gezogene Ente\" = a duck that is pulled on a string. The participle takes the adjective ending.",
+              "example" : "So verlegte er sich auf Holzspielzeug: Autos, Jo-Jos und ab 1935 eine an einer Schnur gezogene Ente.",
+              "title" : "Extended participle before a noun"
+            },
+            {
+              "body" : "The clause \"die 1924 abgebrannt war\" adds information about the workshop; the auxiliary war goes to the very end, after the participle. After the second comma the main clause continues with its own verb, brannte.",
+              "example" : "Die Werkstatt, die 1924 abgebrannt war, brannte 1942 erneut ab; zweimal baute er sie wieder auf.",
+              "title" : "Relative clause between commas, verb last"
+            },
+            {
+              "body" : "Where English uses a participle (\"hoping to save money\"), German prefers a noun phrase with an infinitive clause: \"in der Hoffnung, Geld zu sparen\". It opens the sentence, so the verb schickte follows directly; its particle ab waits at the very end.",
+              "example" : "In der Hoffnung, Geld zu sparen, schickte sein Sohn Godtfred einmal eine Lieferung Enten mit zwei Lackschichten statt drei ab.",
+              "title" : "In der Hoffnung, … zu + infinitive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1932 bestellte im dänischen Dorf Billund niemand ein Haus, und der Zimmermann Ole Kirk Christiansen hatte eine Werkstatt und wenig Arbeit.",
+            "So verlegte er sich auf Holzspielzeug: Autos, Jo-Jos und ab 1935 eine an einer Schnur gezogene Ente. Familien, die sich sonst nichts leisten konnten, fanden dennoch etwas für ein Kind.",
+            "Die Werkstatt, die 1924 abgebrannt war, brannte 1942 erneut ab; zweimal baute er sie wieder auf.",
+            "In der Hoffnung, Geld zu sparen, schickte sein Sohn Godtfred einmal eine Lieferung Enten mit zwei Lackschichten statt drei ab. Ole schickte ihn zurück: Godtfred musste die Kisten vom Bahnhof holen und jede Ente in derselben Nacht noch einmal lackieren.",
+            "„Nur das Beste ist gut genug“ wurde zum Motto der Firma, die er 1934 LEGO genannt hatte, nach dem dänischen Ausdruck für „spiel gut“. Ihr Baustein aus Kunststoff wurde am 28. Januar 1958 patentiert, sechs Wochen bevor Ole am 11. März starb. Ein Spielzeug ist keine Kleinigkeit für das Kind, das es bekommt."
+          ]
+        }
+      ],
+      "summary" : "1932 begann ein dänischer Dorfzimmermann, der keine Häuser zu bauen hatte, Holzspielzeug zu machen, und eines Abends schickte er seinen Sohn zurück zum Bahnhof, um jede Ente noch einmal zu lackieren.",
+      "title" : "Die Holzente",
+      "translationGroup" : "wooden-duck"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-06",
+      "id" : "wooden-duck-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1932: \"es\", \"hace\", \"dice\". The year shows when it happens.",
+              "example" : "Es 1932 en Billund, Dinamarca.",
+              "title" : "Present tense to tell a story"
+            },
+            {
+              "body" : "When \"nadie\" comes before the verb, the sentence needs no \"no\", and the verb is singular: nadie tiene, nadie compra.",
+              "example" : "Nadie compra una casa.",
+              "title" : "Nadie + verb, with no \"no\""
+            },
+            {
+              "body" : "\"Mejor\" alone means \"better\"; with \"lo\" in front it names an idea: lo mejor = the best, the best thing.",
+              "example" : "Para un niño, solo lo mejor es suficiente.",
+              "title" : "Lo mejor = the best"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es 1932 en Billund, Dinamarca. Ole Kirk Christiansen es carpintero. Nadie tiene dinero. Nadie compra una casa.",
+            "Entonces Ole hace juguetes de madera. Hace coches, yoyós y, más tarde, un pato. Los niños deben jugar.",
+            "Un día su hijo barniza los patos dos veces, no tres. Ole dice que no. Para un niño, solo lo mejor es suficiente. El hijo barniza otra vez todos los patos.",
+            "El taller de Ole arde dos veces. Ole lo construye otra vez. Llama a su empresa LEGO: «jugar bien»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular -ar verbs end in -ó for él/ella: mandó, barnizó, llamó, encargó. Irregular verbs change the stem: hacer → hizo, ser → fue, construir → construyó.",
+              "example" : "Ole lo mandó de vuelta a buscar las cajas.",
+              "title" : "Pretérito indefinido: regular and irregular"
+            },
+            {
+              "body" : "\"Era\" and \"eran\" (imperfect of ser) describe how things were, not one finished event: Ole era carpintero, eran tiempos difíciles.",
+              "example" : "Eran tiempos difíciles y nadie encargó una casa.",
+              "title" : "Era and eran for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1932 Ole Kirk Christiansen era carpintero en Billund, un pueblo pequeño de Dinamarca. Eran tiempos difíciles y nadie encargó una casa.",
+            "Entonces Ole hizo juguetes de madera: coches, yoyós y, desde 1935, un pato con ruedas. Incluso los padres pobres compraron algo pequeño para un niño.",
+            "No fue fácil. Su taller ardió en 1924 y otra vez en 1942. Las dos veces lo construyó de nuevo.",
+            "Un día su hijo Godtfred mandó patos a la estación con dos capas de barniz, no tres. Ole lo mandó de vuelta a buscar las cajas. Godtfred barnizó otra vez todos los patos esa noche.",
+            "La regla de Ole era sencilla: solo lo mejor es suficiente. En 1934 llamó a su empresa LEGO. El nombre viene de «jugar bien» en danés."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Encargaba\" describes the situation at that time, not one finished action; the pretérito indefinido (fue, reconstruyó) tells the events.",
+              "example" : "En 1932, en el pueblo danés de Billund, nadie encargaba una casa.",
+              "title" : "Imperfect for the background"
+            },
+            {
+              "body" : "His words were \"He ahorrado dinero\". After \"le dijo que\" the verb moves one step back, to the pluscuamperfecto: había + participle.",
+              "example" : "Un día su hijo Godtfred le dijo que había ahorrado dinero.",
+              "title" : "Reported speech: le dijo que había ahorrado"
+            },
+            {
+              "body" : "\"Un pato que un niño podía arrastrar\": \"que\" introduces the clause saying which duck, and it is the object of \"arrastrar\".",
+              "example" : "Así que empezó a hacer juguetes de madera: coches, yoyós y, desde 1935, un pato que un niño podía arrastrar con una cuerda.",
+              "title" : "Relative clause with \"que\""
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1932, en el pueblo danés de Billund, nadie encargaba una casa. Ole Kirk Christiansen, carpintero, tenía un taller y casi nada de trabajo.",
+            "Así que empezó a hacer juguetes de madera: coches, yoyós y, desde 1935, un pato que un niño podía arrastrar con una cuerda. Había notado que incluso las familias pobres encontraban dinero para un niño.",
+            "Nada fue fácil. El taller había ardido en 1924 y ardió otra vez en 1942. Cada vez lo reconstruyó.",
+            "Un día su hijo Godtfred le dijo que había ahorrado dinero. Los patos de la estación llevaban dos capas de barniz, no tres. Ole lo mandó a buscar las cajas, y Godtfred barnizó de nuevo todos los patos esa misma noche.",
+            "«Solo lo mejor es suficiente» se convirtió en la regla de la empresa. Ole la había llamado LEGO en 1934, por las palabras danesas que significan «jugar bien»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Le hizo traer… y barnizar\": after hacer the verb stays in the infinitive, and the person is an object pronoun (le). It means he had no choice.",
+              "example" : "Ole le hizo traer las cajas de la estación y barnizar de nuevo todos los patos aquella misma noche.",
+              "title" : "Hacer + infinitive: to make someone do something"
+            },
+            {
+              "body" : "Between commas, \"que se había incendiado en 1924\" adds information about the workshop without saying which one; the sentence still works without it.",
+              "example" : "El taller, que se había incendiado en 1924, ardió de nuevo en 1942; dos veces lo reconstruyó.",
+              "title" : "Non-defining relative clause between commas"
+            },
+            {
+              "body" : "\"Antes de que\" always takes the subjunctive; in a past story it is the imperfect subjunctive: antes de que Ole muriera = before Ole died.",
+              "example" : "Su ladrillo de plástico fue patentado el 28 de enero de 1958, seis semanas antes de que Ole muriera el 11 de marzo.",
+              "title" : "Antes de que + imperfect subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1932, en el pueblo danés de Billund, nadie encargaba una casa, y el carpintero Ole Kirk Christiansen tenía un taller y poco trabajo.",
+            "Recurrió entonces a los juguetes de madera: coches, yoyós y, desde 1935, un pato para arrastrar con una cuerda. Las familias que no podían permitirse nada más encontraban, aun así, algo para un niño.",
+            "El taller, que se había incendiado en 1924, ardió de nuevo en 1942; dos veces lo reconstruyó.",
+            "Su hijo Godtfred, con la esperanza de ahorrar dinero, despachó una vez una partida de patos con dos capas de barniz, no tres. Ole le hizo traer las cajas de la estación y barnizar de nuevo todos los patos aquella misma noche.",
+            "«Solo lo mejor es suficiente» se convirtió en el lema de la empresa a la que había llamado LEGO en 1934, por las palabras danesas que significan «jugar bien». Su ladrillo de plástico fue patentado el 28 de enero de 1958, seis semanas antes de que Ole muriera el 11 de marzo. Un juguete no es poca cosa para el niño que lo recibe."
+          ]
+        }
+      ],
+      "summary" : "En 1932 un carpintero de un pueblo danés, sin casas que construir, empezó a hacer juguetes de madera, y una tarde mandó a su hijo de vuelta a la estación para barnizar otra vez todos los patos.",
+      "title" : "El pato de madera",
+      "translationGroup" : "wooden-duck"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-06",
+      "id" : "wooden-duck-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1932: \"è\", \"fa\", \"dice\". A year takes the article in Italian: \"il 1932\".",
+              "example" : "È il 1932 a Billund, in Danimarca.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "When \"nessuno\" (nobody) comes before the verb, Italian does not add \"non\": \"nessuno compra\". After the verb you would need it: \"non compra nessuno\".",
+              "example" : "Nessuno compra una casa.",
+              "title" : "Nessuno takes no \"non\" before the verb"
+            },
+            {
+              "body" : "\"Meglio\" alone means \"better\". With the article it becomes a noun: \"il meglio\" is the best, the best thing there is.",
+              "example" : "Per un bambino, solo il meglio è abbastanza buono.",
+              "title" : "Il meglio = the best"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il 1932 a Billund, in Danimarca. Ole Kirk Christiansen è un falegname. Nessuno ha soldi. Nessuno compra una casa.",
+            "Così Ole fa giocattoli di legno: un'auto, uno yo-yo, più tardi un'anatra. I bambini devono giocare.",
+            "Un giorno suo figlio vernicia le anatre due volte, non tre. Ole dice di no. Per un bambino, solo il meglio è abbastanza buono. Il figlio vernicia di nuovo ogni anatra.",
+            "La bottega di Ole brucia due volte. Ole costruisce di nuovo la bottega. Chiama la sua azienda LEGO: «gioca bene»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is a present form of avere plus a past participle: \"ha mandato\", \"ha verniciato\", \"hanno comprato\". Some participles are irregular: fare gives \"ha fatto\".",
+              "example" : "Quella notte Godtfred ha verniciato di nuovo ogni anatra.",
+              "title" : "Passato prossimo with avere"
+            },
+            {
+              "body" : "When something burns down by itself, bruciare takes essere, and the participle agrees with the subject: \"la bottega è bruciata\" (feminine singular).",
+              "example" : "La sua bottega è bruciata nel 1924 e di nuovo nel 1942.",
+              "title" : "Passato prossimo with essere: the participle agrees"
+            },
+            {
+              "body" : "\"Era\" and \"erano\" (imperfect of essere) describe how things were, while the passato prossimo tells what happened: times were hard, nobody ordered a house.",
+              "example" : "I tempi erano duri e quell'anno nessuno ha ordinato una casa.",
+              "title" : "Era and erano for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1932 Ole Kirk Christiansen era falegname a Billund, un piccolo villaggio in Danimarca. I tempi erano duri e quell'anno nessuno ha ordinato una casa.",
+            "Così Ole ha fatto giocattoli di legno: auto, yo-yo e, dal 1935, un'anatra con le ruote. Anche i genitori poveri hanno comprato qualcosa di piccolo per un bambino.",
+            "Non è stato facile. La sua bottega è bruciata nel 1924 e di nuovo nel 1942. Ogni volta Ole l'ha costruita di nuovo.",
+            "Un giorno suo figlio Godtfred ha mandato delle anatre alla stazione. Avevano due strati di vernice, non tre. Ole lo ha mandato indietro a prendere le scatole. Quella notte Godtfred ha verniciato di nuovo ogni anatra.",
+            "La regola di Ole era semplice: solo il meglio è abbastanza buono. Nel 1934 ha chiamato la sua azienda LEGO, dalle parole danesi per «gioca bene»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Ordinava\" describes the situation at that time, not one finished action; the passato prossimo (\"ha cominciato\") then tells what happened.",
+              "example" : "Nel 1932, nel villaggio danese di Billund, nessuno ordinava una casa.",
+              "title" : "Imperfetto for the background"
+            },
+            {
+              "body" : "His words were \"Ho risparmiato dei soldi\". Reported after \"gli ha detto che\", the verb moves one step back, to the trapassato prossimo: aveva + participle.",
+              "example" : "Un giorno suo figlio Godtfred gli ha detto che aveva risparmiato dei soldi.",
+              "title" : "Reported speech: ha detto che aveva risparmiato"
+            },
+            {
+              "body" : "\"Un'anatra che un bambino poteva tirare\": che introduces the clause saying which duck, and it is the object of tirare. Italian never drops it.",
+              "example" : "Così ha cominciato a fare giocattoli di legno: auto, yo-yo e, dal 1935, un'anatra che un bambino poteva tirare con uno spago.",
+              "title" : "Relative \"che\" as the object"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1932, nel villaggio danese di Billund, nessuno ordinava una casa. Ole Kirk Christiansen, un falegname, aveva una bottega e quasi nessun lavoro.",
+            "Così ha cominciato a fare giocattoli di legno: auto, yo-yo e, dal 1935, un'anatra che un bambino poteva tirare con uno spago. Anche le famiglie povere, aveva notato, trovavano i soldi per un bambino.",
+            "Niente è stato facile. La bottega era bruciata nel 1924, ed è bruciata di nuovo nel 1942. Ogni volta Ole l'ha ricostruita.",
+            "Un giorno suo figlio Godtfred gli ha detto che aveva risparmiato dei soldi. Le anatre alla stazione avevano due strati di vernice, non tre. Ole lo ha mandato a riprendere le scatole, e quella notte Godtfred ha verniciato di nuovo ogni anatra.",
+            "«Solo il meglio è abbastanza buono»: questa è diventata la regola dell'azienda. Ole l'aveva chiamata LEGO nel 1934, dalle parole danesi per «gioca bene»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Fece riprendere\" means he made him fetch: fare is followed directly by the infinitive. The person made to act is \"gli\", not \"lo\", because the infinitive already has a direct object (le scatole).",
+              "example" : "Ole gli fece riprendere le scatole alla stazione e verniciare di nuovo ogni anatra quella notte stessa.",
+              "title" : "Fare + infinitive: to make someone do something"
+            },
+            {
+              "body" : "The gerund (-ando, -endo) gives his reason in a compact, more formal way than \"perché sperava di risparmiare\". Its subject is the subject of the main verb.",
+              "example" : "Suo figlio Godtfred, sperando di risparmiare, spedì una volta un lotto di anatre con due strati di vernice, non tre.",
+              "title" : "Gerund for a reason: sperando di risparmiare"
+            },
+            {
+              "body" : "\"Prima che\" always takes the subjunctive; after a past main verb it is the imperfect subjunctive: \"prima che Ole morisse\" = before Ole died.",
+              "example" : "Il suo mattoncino di plastica fu brevettato il 28 gennaio 1958, sei settimane prima che Ole morisse, l'11 marzo.",
+              "title" : "Prima che + subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1932, nel villaggio danese di Billund, nessuno ordinava una casa, e il falegname Ole Kirk Christiansen aveva una bottega e poco lavoro.",
+            "Si dedicò allora ai giocattoli di legno: auto, yo-yo e, dal 1935, un'anatra da tirare con uno spago. Le famiglie che non potevano permettersi nient'altro trovavano comunque qualcosa per un bambino.",
+            "La bottega, che era bruciata nel 1924, bruciò di nuovo nel 1942; per due volte la ricostruì.",
+            "Suo figlio Godtfred, sperando di risparmiare, spedì una volta un lotto di anatre con due strati di vernice, non tre. Ole gli fece riprendere le scatole alla stazione e verniciare di nuovo ogni anatra quella notte stessa.",
+            "«Solo il meglio è abbastanza buono» divenne il motto dell'azienda che aveva chiamato LEGO nel 1934, dalle parole danesi per «gioca bene». Il suo mattoncino di plastica fu brevettato il 28 gennaio 1958, sei settimane prima che Ole morisse, l'11 marzo. Un giocattolo non è cosa da poco per il bambino che lo riceve."
+          ]
+        }
+      ],
+      "summary" : "Nel 1932 un falegname di un villaggio danese, senza case da costruire, ha cominciato a fare giocattoli di legno, e una sera ha rimandato suo figlio alla stazione a verniciare di nuovo ogni anatra.",
+      "title" : "L'anatra di legno",
+      "translationGroup" : "wooden-duck"
     }
   ]
 }
