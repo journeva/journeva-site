@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 8,
-  "generatedAt" : "2026-10-07",
+  "contentVersion" : 9,
+  "generatedAt" : "2026-10-08",
   "glossary" : {
     "english" : [
       {
@@ -5345,7 +5345,8 @@
       },
       {
         "forms" : [
-          "road"
+          "road",
+          "roads"
         ],
         "note" : "As in \"down the road.\"",
         "pos" : "noun",
@@ -10001,6 +10002,7 @@
       },
       {
         "forms" : [
+          "kill",
           "killed",
           "kills"
         ],
@@ -10123,6 +10125,7 @@
       },
       {
         "forms" : [
+          "live",
           "lives",
           "living"
         ],
@@ -11101,7 +11104,8 @@
       },
       {
         "forms" : [
-          "rule"
+          "rule",
+          "rules"
         ],
         "note" : "\"Made a new rule.\"",
         "pos" : "noun",
@@ -13886,7 +13890,8 @@
       },
       {
         "forms" : [
-          "observe"
+          "observe",
+          "observes"
         ],
         "note" : "As in \"observe her eating.\"",
         "pos" : "verb",
@@ -14376,7 +14381,8 @@
       },
       {
         "forms" : [
-          "rock"
+          "rock",
+          "rocks"
         ],
         "note" : "Stone.",
         "pos" : "noun",
@@ -17728,7 +17734,8 @@
       },
       {
         "forms" : [
-          "record"
+          "record",
+          "records"
         ],
         "note" : "As in \"no history book will record his name.\"",
         "pos" : "verb",
@@ -19792,7 +19799,8 @@
       },
       {
         "forms" : [
-          "digs"
+          "digs",
+          "dug"
         ],
         "note" : "\"Digs up his own root\" = pulls out his own root.",
         "pos" : "verb",
@@ -20108,7 +20116,8 @@
       },
       {
         "forms" : [
-          "fed"
+          "fed",
+          "feed"
         ],
         "note" : "Past participle of \"feed\": \"has fed\".",
         "pos" : "verb",
@@ -22444,6 +22453,288 @@
         "note" : "An English family name: Lucy Wills. \"The Wills factor\" was named after her.",
         "pos" : "noun",
         "translation" : "Wills"
+      },
+      {
+        "forms" : [
+          "261"
+        ],
+        "note" : "261 BC is the year of Ashoka's war, more than 2,200 years ago.",
+        "pos" : "number",
+        "translation" : "two hundred and sixty-one"
+      },
+      {
+        "forms" : [
+          "5"
+        ],
+        "note" : "\"Verse 5\" is said \"verse five\".",
+        "pos" : "number",
+        "translation" : "five"
+      },
+      {
+        "forms" : [
+          "according"
+        ],
+        "note" : "Always with \"to\": \"according to his inscription\" = his inscription says so.",
+        "pos" : "other",
+        "translation" : "as stated by"
+      },
+      {
+        "forms" : [
+          "account"
+        ],
+        "note" : "\"By his own account\" = as he himself tells it.",
+        "pos" : "noun",
+        "translation" : "a report of what happened"
+      },
+      {
+        "forms" : [
+          "anger"
+        ],
+        "note" : "The noun of angry.",
+        "pos" : "noun",
+        "translation" : "the strong feeling of being angry"
+      },
+      {
+        "forms" : [
+          "ashoka"
+        ],
+        "note" : "A king of ancient India, more than 2,200 years ago.",
+        "pos" : "noun",
+        "translation" : "Ashoka"
+      },
+      {
+        "forms" : [
+          "buddha",
+          "buddha's"
+        ],
+        "note" : "The teacher whose ideas became Buddhism. \"The Buddha's teaching\" = what he taught.",
+        "pos" : "noun",
+        "translation" : "the Buddha"
+      },
+      {
+        "forms" : [
+          "carved"
+        ],
+        "note" : "Past participle of carve: letters carved in stone last a very long time.",
+        "pos" : "verb",
+        "translation" : "cut into stone or wood"
+      },
+      {
+        "forms" : [
+          "ceases"
+        ],
+        "note" : "A formal, old-fashioned word for stop: \"hatred ceases\" = hatred ends.",
+        "pos" : "verb",
+        "translation" : "stops, ends"
+      },
+      {
+        "forms" : [
+          "concord"
+        ],
+        "note" : "A formal word: concord between faiths means that they live together in peace.",
+        "pos" : "noun",
+        "translation" : "peace and agreement between people or groups"
+      },
+      {
+        "forms" : [
+          "conquered"
+        ],
+        "note" : "Past tense of conquer.",
+        "pos" : "verb",
+        "translation" : "took a country by war"
+      },
+      {
+        "forms" : [
+          "conquest"
+        ],
+        "note" : "The noun of conquer.",
+        "pos" : "noun",
+        "translation" : "taking land by war"
+      },
+      {
+        "forms" : [
+          "deeply"
+        ],
+        "note" : "The adverb of deep: \"deeply sorry\" = very sorry.",
+        "pos" : "adverb",
+        "translation" : "very much; strongly"
+      },
+      {
+        "forms" : [
+          "deported"
+        ],
+        "note" : "Past participle of deport.",
+        "pos" : "verb",
+        "translation" : "forced to leave their home and country"
+      },
+      {
+        "forms" : [
+          "edicts"
+        ],
+        "note" : "Plural of edict. Ashoka's edicts were written on rocks and pillars.",
+        "pos" : "noun",
+        "translation" : "official orders from a ruler"
+      },
+      {
+        "forms" : [
+          "emperor"
+        ],
+        "note" : "An emperor rules many lands; a king usually rules one.",
+        "pos" : "noun",
+        "translation" : "the ruler of an empire"
+      },
+      {
+        "forms" : [
+          "empire"
+        ],
+        "note" : "The lands of an emperor.",
+        "pos" : "noun",
+        "translation" : "many lands under one ruler"
+      },
+      {
+        "forms" : [
+          "faiths"
+        ],
+        "note" : "Plural of faith. Faith can also mean strong trust.",
+        "pos" : "noun",
+        "translation" : "religions"
+      },
+      {
+        "forms" : [
+          "forbid",
+          "forbids"
+        ],
+        "note" : "\"The verse forbids no anger\" = it does not say anger is wrong. The past is forbade.",
+        "pos" : "verb",
+        "translation" : "to say that something is not allowed"
+      },
+      {
+        "forms" : [
+          "hate"
+        ],
+        "note" : "Noun and verb. Hatred is the more formal noun.",
+        "pos" : "noun",
+        "translation" : "a very strong feeling against someone or something"
+      },
+      {
+        "forms" : [
+          "hatred"
+        ],
+        "note" : "The noun of hate, more formal than \"hate\".",
+        "pos" : "noun",
+        "translation" : "very strong dislike"
+      },
+      {
+        "forms" : [
+          "inscription"
+        ],
+        "note" : "From the Latin for \"write in\".",
+        "pos" : "noun",
+        "translation" : "words cut into stone or metal"
+      },
+      {
+        "forms" : [
+          "kalinga"
+        ],
+        "note" : "An old kingdom on the east coast of India.",
+        "pos" : "noun",
+        "translation" : "Kalinga"
+      },
+      {
+        "forms" : [
+          "king"
+        ],
+        "note" : "The female word is queen.",
+        "pos" : "noun",
+        "translation" : "a man who rules a country"
+      },
+      {
+        "forms" : [
+          "medical"
+        ],
+        "note" : "\"Medical care\" = help from doctors and nurses.",
+        "pos" : "adjective",
+        "translation" : "of medicine and doctors"
+      },
+      {
+        "forms" : [
+          "medicine"
+        ],
+        "note" : "Medicine is also the science of doctors.",
+        "pos" : "noun",
+        "translation" : "something you take to get better when you are ill"
+      },
+      {
+        "forms" : [
+          "pillars"
+        ],
+        "note" : "Plural of pillar. Ashoka's pillars stood in the open with his rules on them.",
+        "pos" : "noun",
+        "translation" : "tall stone posts"
+      },
+      {
+        "forms" : [
+          "precept"
+        ],
+        "note" : "A formal word, used for the rules of a religion.",
+        "pos" : "noun",
+        "translation" : "a rule for how to live"
+      },
+      {
+        "forms" : [
+          "religions"
+        ],
+        "note" : "Plural of religion.",
+        "pos" : "noun",
+        "translation" : "systems of belief, such as Buddhism or Christianity"
+      },
+      {
+        "forms" : [
+          "remorse"
+        ],
+        "note" : "Stronger and more formal than \"being sorry\".",
+        "pos" : "noun",
+        "translation" : "a deep feeling of being sorry for something you did"
+      },
+      {
+        "forms" : [
+          "renounced"
+        ],
+        "note" : "Past tense of renounce: a formal word for giving something up.",
+        "pos" : "verb",
+        "translation" : "gave up for ever, in public"
+      },
+      {
+        "forms" : [
+          "shade"
+        ],
+        "note" : "Shade trees are trees planted to give shade.",
+        "pos" : "noun",
+        "translation" : "a place out of the sun"
+      },
+      {
+        "forms" : [
+          "teaching"
+        ],
+        "note" : "\"The Buddha's teaching\" = what the Buddha taught.",
+        "pos" : "noun",
+        "translation" : "the ideas that a teacher gives to others"
+      },
+      {
+        "forms" : [
+          "translation"
+        ],
+        "note" : "The noun of translate.",
+        "pos" : "noun",
+        "translation" : "a text put into another language"
+      },
+      {
+        "forms" : [
+          "winner"
+        ],
+        "note" : "From win: winner, the one who wins.",
+        "pos" : "noun",
+        "translation" : "the person who wins"
       }
     ],
     "french" : [
@@ -23430,7 +23721,8 @@
       },
       {
         "forms" : [
-          "attribuée"
+          "attribuée",
+          "attribués"
         ],
         "gender" : "feminine",
         "note" : "Past participle of attribuer, used as an adjective.",
@@ -26345,7 +26637,8 @@
       {
         "forms" : [
           "parlait",
-          "parle"
+          "parle",
+          "parlent"
         ],
         "note" : "Parler (to speak), \"il/elle\" form.",
         "pos" : "verb",
@@ -27090,7 +27383,8 @@
       },
       {
         "forms" : [
-          "route"
+          "route",
+          "routes"
         ],
         "gender" : "feminine",
         "note" : "A path traveled.",
@@ -33390,7 +33684,8 @@
       },
       {
         "forms" : [
-          "planté"
+          "planté",
+          "plantés"
         ],
         "note" : "Past participle of planter.",
         "pos" : "verb",
@@ -36108,6 +36403,7 @@
       },
       {
         "forms" : [
+          "indien",
           "indiens"
         ],
         "note" : "Masculine plural of indien.",
@@ -38337,7 +38633,8 @@
       },
       {
         "forms" : [
-          "soin"
+          "soin",
+          "soins"
         ],
         "gender" : "masculine",
         "note" : "\"Avec soin\" = carefully.",
@@ -47637,6 +47934,7 @@
       },
       {
         "forms" : [
+          "correspond",
           "correspondre"
         ],
         "note" : "« Le sang doit correspondre ».",
@@ -47645,6 +47943,7 @@
       },
       {
         "forms" : [
+          "crée",
           "créer"
         ],
         "note" : "Infinitif.",
@@ -48312,6 +48611,7 @@
           "meurent",
           "meurt",
           "mort",
+          "mortes",
           "mourait",
           "mourir",
           "mourut"
@@ -49941,7 +50241,8 @@
       },
       {
         "forms" : [
-          "nourri"
+          "nourri",
+          "nourrie"
         ],
         "note" : "Past participle of nourrir: « elle a nourri plus d'amitiés ».",
         "pos" : "verb",
@@ -52857,6 +53158,418 @@
         "note" : "Feminine of « élevé »; « plus élevée » = higher.",
         "pos" : "adjective",
         "translation" : "high (feminine)"
+      },
+      {
+        "forms" : [
+          "261"
+        ],
+        "note" : "The year of Ashoka's war, counted before Christ: « environ 261 ans av. J.-C. » = about 261 BC.",
+        "pos" : "number",
+        "translation" : "261"
+      },
+      {
+        "forms" : [
+          "av"
+        ],
+        "note" : "Short for « avant »: « av. J.-C. » = avant Jésus-Christ, the French for BC.",
+        "pos" : "other",
+        "translation" : "before (in dates)"
+      },
+      {
+        "forms" : [
+          "ashoka"
+        ],
+        "note" : "The Indian king of this story, called emperor at B2; « le roi Ashoka » = King Ashoka.",
+        "pos" : "noun",
+        "translation" : "Ashoka"
+      },
+      {
+        "forms" : [
+          "roi"
+        ],
+        "gender" : "masculine",
+        "note" : "The man who rules a kingdom; with a name French keeps the article: « le roi Ashoka ».",
+        "pos" : "noun",
+        "translation" : "king"
+      },
+      {
+        "forms" : [
+          "regrette"
+        ],
+        "note" : "Present of regretter, third person singular: « il regrette beaucoup » = he is very sorry about what happened.",
+        "pos" : "verb",
+        "translation" : "regrets, is sorry"
+      },
+      {
+        "forms" : [
+          "plante"
+        ],
+        "note" : "Present of planter, third person singular: « il plante des arbres » = he plants trees. The noun « une plante » (a plant) looks the same.",
+        "pos" : "verb",
+        "translation" : "plants"
+      },
+      {
+        "forms" : [
+          "haine"
+        ],
+        "gender" : "feminine",
+        "note" : "The opposite of « l'amour ». The h is aspirated, so there is no elision: « la haine », never « l'haine ».",
+        "pos" : "noun",
+        "translation" : "hatred, hate"
+      },
+      {
+        "forms" : [
+          "n'arrête"
+        ],
+        "note" : "Ne + arrête (present of arrêter), shortened before the vowel and completed by « pas »: « la haine n'arrête pas la haine ».",
+        "pos" : "verb",
+        "translation" : "does not stop"
+      },
+      {
+        "forms" : [
+          "l'amour"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + amour, shortened before the vowel: « la haine cesse par l'amour » = hatred ceases by love.",
+        "pos" : "noun",
+        "translation" : "love"
+      },
+      {
+        "forms" : [
+          "l'arrête"
+        ],
+        "note" : "The pronoun « la » (here: la haine) + arrête, shortened before the vowel; the pronoun stands before the verb: « l'amour l'arrête » = love stops it.",
+        "pos" : "verb",
+        "translation" : "stops it"
+      },
+      {
+        "forms" : [
+          "orientale"
+        ],
+        "note" : "Feminine of « oriental »: « la côte orientale » = the east coast, the coast on the eastern side of the country.",
+        "pos" : "adjective",
+        "translation" : "eastern, east (feminine)"
+      },
+      {
+        "forms" : [
+          "vainqueur"
+        ],
+        "gender" : "masculine",
+        "note" : "The one who wins a war or a contest: « il ne s'est pas senti vainqueur » = he did not feel like a winner.",
+        "pos" : "noun",
+        "translation" : "winner, victor"
+      },
+      {
+        "forms" : [
+          "peuple"
+        ],
+        "gender" : "masculine",
+        "note" : "All the people who live under one ruler or in one country: « son peuple » = his people. « Les gens » means people in general.",
+        "pos" : "noun",
+        "translation" : "people (of a country)"
+      },
+      {
+        "forms" : [
+          "creusé",
+          "creusés"
+        ],
+        "note" : "Past participle of creuser (to dig): « il a creusé des puits » = he dug wells; « des puits creusés » = wells that were dug.",
+        "pos" : "verb",
+        "translation" : "dug"
+      },
+      {
+        "forms" : [
+          "graver",
+          "gravé",
+          "gravés"
+        ],
+        "note" : "Graver = to cut words into stone or metal: « faire graver » = to have something carved; « gravé dans la pierre » = carved in stone. Not the adjective « grave » (serious).",
+        "pos" : "verb",
+        "translation" : "to carve, to engrave; carved"
+      },
+      {
+        "forms" : [
+          "lois"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une loi »: the rules a ruler gives to a whole country.",
+        "pos" : "noun",
+        "translation" : "laws"
+      },
+      {
+        "forms" : [
+          "rochers"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un rocher », a large rock standing in the landscape; « la roche » is rock as a material.",
+        "pos" : "noun",
+        "translation" : "rocks"
+      },
+      {
+        "forms" : [
+          "l'arrêter"
+        ],
+        "note" : "The pronoun « la » (here: la haine) + arrêter; it stands before the infinitive: « peut l'arrêter » = can stop it.",
+        "pos" : "verb",
+        "translation" : "to stop it"
+      },
+      {
+        "forms" : [
+          "conquis",
+          "conquit"
+        ],
+        "note" : "Forms of conquérir (to conquer): « a conquis » is the passé composé, « conquit » the passé simple of written narration.",
+        "pos" : "verb",
+        "translation" : "conquered"
+      },
+      {
+        "forms" : [
+          "kalinga"
+        ],
+        "note" : "The land on the east coast that Ashoka conquered; French uses the article: « le Kalinga ».",
+        "pos" : "noun",
+        "translation" : "Kalinga"
+      },
+      {
+        "forms" : [
+          "inscription"
+        ],
+        "gender" : "feminine",
+        "note" : "Words cut into stone so that they last; the same word as in English.",
+        "pos" : "noun",
+        "translation" : "inscription"
+      },
+      {
+        "forms" : [
+          "emmenées"
+        ],
+        "note" : "Past participle of emmener (to take someone away with you), agreeing with « personnes ».",
+        "pos" : "verb",
+        "translation" : "taken away (feminine plural)"
+      },
+      {
+        "forms" : [
+          "remords"
+        ],
+        "gender" : "masculine",
+        "note" : "The pain of knowing you have done wrong; it ends in -s even in the singular: « un profond remords ».",
+        "pos" : "noun",
+        "translation" : "remorse"
+      },
+      {
+        "forms" : [
+          "renoncé",
+          "renonça"
+        ],
+        "note" : "Forms of renoncer à (to give up): « a renoncé » is the passé composé, « renonça » the passé simple of written narration.",
+        "pos" : "verb",
+        "translation" : "gave up, renounced"
+      },
+      {
+        "forms" : [
+          "l'enseignement"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + enseignement, shortened before the vowel; from enseigner (to teach): « l'enseignement du Bouddha » = the Buddha's teaching.",
+        "pos" : "noun",
+        "translation" : "the teaching"
+      },
+      {
+        "forms" : [
+          "bouddha"
+        ],
+        "gender" : "masculine",
+        "note" : "Written with a capital letter and the article: « le Bouddha », « du Bouddha » = of the Buddha; « bouddhiste » is the adjective.",
+        "pos" : "noun",
+        "translation" : "the Buddha"
+      },
+      {
+        "forms" : [
+          "piliers"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un pilier », a tall column of stone.",
+        "pos" : "noun",
+        "translation" : "pillars"
+      },
+      {
+        "forms" : [
+          "l'empire"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + empire, shortened before the vowel: « dans tout l'empire » = across the whole empire.",
+        "pos" : "noun",
+        "translation" : "the empire"
+      },
+      {
+        "forms" : [
+          "d'ombrage"
+        ],
+        "gender" : "masculine",
+        "note" : "De + ombrage, the shade that trees give: « des arbres d'ombrage » = shade trees, planted so that people can rest out of the sun.",
+        "pos" : "noun",
+        "translation" : "of shade, for shade"
+      },
+      {
+        "forms" : [
+          "religions"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une religion »; the same word as in English: « la paix entre les religions ».",
+        "pos" : "noun",
+        "translation" : "religions"
+      },
+      {
+        "forms" : [
+          "5"
+        ],
+        "note" : "Read « cinq »; French puts the number after the noun: « le verset 5 » = verse 5.",
+        "pos" : "number",
+        "translation" : "5, five"
+      },
+      {
+        "forms" : [
+          "n'interdit"
+        ],
+        "note" : "Ne + interdit (present of interdire, to forbid), shortened before the vowel: « il n'interdit pas la colère »; with « aucune » there is no « pas ».",
+        "pos" : "verb",
+        "translation" : "does not forbid, forbids no"
+      },
+      {
+        "forms" : [
+          "l'empereur"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + empereur, shortened before the vowel; the ruler of an empire.",
+        "pos" : "noun",
+        "translation" : "the emperor"
+      },
+      {
+        "forms" : [
+          "récit"
+        ],
+        "gender" : "masculine",
+        "note" : "The telling of what happened: « d'après son propre récit » = by his own account.",
+        "pos" : "noun",
+        "translation" : "account, story"
+      },
+      {
+        "forms" : [
+          "déportées"
+        ],
+        "note" : "Past participle of déporter (to take people away from their home by force), agreeing with « personnes »; « furent » is understood before it.",
+        "pos" : "verb",
+        "translation" : "deported (feminine plural)"
+      },
+      {
+        "forms" : [
+          "rapporte"
+        ],
+        "note" : "Present of rapporter in the sense « to tell what happened »: « l'inscription rapporte son remords ». The same verb can also mean to bring back.",
+        "pos" : "verb",
+        "translation" : "reports, records"
+      },
+      {
+        "forms" : [
+          "vaincu"
+        ],
+        "note" : "Past participle of vaincre (to win, to defeat): « ayant vaincu » = having won.",
+        "pos" : "verb",
+        "translation" : "won, defeated"
+      },
+      {
+        "forms" : [
+          "conquête"
+        ],
+        "gender" : "feminine",
+        "note" : "Taking a land by war, from conquérir: « renoncer à la conquête » = to give up conquest.",
+        "pos" : "noun",
+        "translation" : "conquest"
+      },
+      {
+        "forms" : [
+          "précepte"
+        ],
+        "gender" : "masculine",
+        "note" : "A rule of conduct in a teaching: « le premier précepte » = the first precept.",
+        "pos" : "noun",
+        "translation" : "precept"
+      },
+      {
+        "forms" : [
+          "tuer"
+        ],
+        "note" : "Infinitive; after « de ne pas » it gives a rule: « ne pas tuer » = not to kill.",
+        "pos" : "verb",
+        "translation" : "to kill"
+      },
+      {
+        "forms" : [
+          "édits"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un édit », an order that a king or an emperor makes public.",
+        "pos" : "noun",
+        "translation" : "edicts"
+      },
+      {
+        "forms" : [
+          "médicaux"
+        ],
+        "note" : "Plural of « médical »: adjectives in -al take -aux in the masculine plural, as in « des soins médicaux ».",
+        "pos" : "adjective",
+        "translation" : "medical (masculine plural)"
+      },
+      {
+        "forms" : [
+          "concorde"
+        ],
+        "gender" : "feminine",
+        "note" : "A formal word for peace and good understanding between groups: « la concorde entre les croyances ».",
+        "pos" : "noun",
+        "translation" : "concord, harmony"
+      },
+      {
+        "forms" : [
+          "croyances"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une croyance », from croire (to believe): what people believe, here their different religions.",
+        "pos" : "noun",
+        "translation" : "beliefs, faiths"
+      },
+      {
+        "forms" : [
+          "traduction"
+        ],
+        "gender" : "feminine",
+        "note" : "From traduire (to translate): the same text put into another language.",
+        "pos" : "noun",
+        "translation" : "translation"
+      },
+      {
+        "forms" : [
+          "constate"
+        ],
+        "note" : "Present of constater: to state what one sees, without judging it.",
+        "pos" : "verb",
+        "translation" : "notes, observes"
+      },
+      {
+        "forms" : [
+          "croît"
+        ],
+        "note" : "Present of croître (to grow), a written word; the circumflex tells it apart from « croit » (believes).",
+        "pos" : "verb",
+        "translation" : "grows"
+      },
+      {
+        "forms" : [
+          "nourrir"
+        ],
+        "note" : "Infinitive; « se nourrir de » = to feed on, to live on something.",
+        "pos" : "verb",
+        "translation" : "to feed"
       }
     ],
     "german" : [
@@ -54398,9 +55111,14 @@
         "forms" : [
           "gab"
         ],
-        "note" : "Geben (to give), past tense — \"es gab\" means \"there was.\" Separable: … dazu = dazugeben, to add; … hinzu = hinzugeben, to add.",
+        "note" : "Geben (to give), past tense — \"es gab\" means \"there was.\" Separable: … dazu = dazugeben, to add; … hinzu = hinzugeben, to add; … auf = aufgeben, to give up; „Er gab den Krieg auf“ = he gave up war.",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to give up",
+            "verb" : "aufgeben"
+          },
           {
             "particle" : "dazu",
             "translation" : "to add",
@@ -58144,7 +58862,8 @@
       },
       {
         "forms" : [
-          "zugeschrieben"
+          "zugeschrieben",
+          "zugeschriebene"
         ],
         "note" : "Past participle of zuschreiben, used as an adjective.",
         "pos" : "adjective",
@@ -58743,7 +59462,8 @@
       },
       {
         "forms" : [
-          "beobachten"
+          "beobachten",
+          "beobachtet"
         ],
         "note" : "Infinitive of beobachten.",
         "pos" : "verb",
@@ -61434,7 +62154,8 @@
       },
       {
         "forms" : [
-          "stoppen"
+          "stoppen",
+          "stoppt"
         ],
         "note" : "Infinitive of stoppen.",
         "pos" : "verb",
@@ -61603,9 +62324,14 @@
         "forms" : [
           "tut"
         ],
-        "note" : "Present tense of tun. Separable: … weh = wehtun, to hurt; „es tut nicht weh“ = it does not hurt.",
+        "note" : "Present tense of tun. Separable: … weh = wehtun, to hurt; „es tut nicht weh“ = it does not hurt; … leid = leidtun, to be sorry; „Es tut ihm leid“ = he is sorry (literally: it does him sorrow).",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "leid",
+            "translation" : "to be sorry",
+            "verb" : "leidtun"
+          },
           {
             "particle" : "weh",
             "translation" : "to hurt",
@@ -63232,7 +63958,8 @@
       },
       {
         "forms" : [
-          "gepflanzt"
+          "gepflanzt",
+          "gepflanzten"
         ],
         "note" : "Past participle of pflanzen.",
         "pos" : "verb",
@@ -67567,7 +68294,8 @@
       },
       {
         "forms" : [
-          "regel"
+          "regel",
+          "regeln"
         ],
         "gender" : "feminine",
         "note" : "An official instruction.",
@@ -70394,7 +71122,8 @@
       },
       {
         "forms" : [
-          "fels"
+          "fels",
+          "felsen"
         ],
         "gender" : "masculine",
         "note" : "Hard mineral material.",
@@ -72580,6 +73309,7 @@
       {
         "forms" : [
           "tief",
+          "tiefe",
           "tiefes"
         ],
         "note" : "Declined form included.",
@@ -73026,8 +73756,15 @@
         "forms" : [
           "wandte"
         ],
-        "note" : "Past tense of \"wenden.\"",
+        "note" : "Past tense of \"wenden.\" Separable: … zu = sich zuwenden, to turn to (with the dative); „wandte sich der Lehre zu“ = turned to the teaching.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "zu",
+            "translation" : "to turn to",
+            "verb" : "sich zuwenden"
+          }
+        ],
         "translation" : "turned"
       },
       {
@@ -73768,7 +74505,8 @@
       },
       {
         "forms" : [
-          "aufgeben"
+          "aufgeben",
+          "aufgegeben"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -83533,6 +84271,430 @@
         "note" : "Die Dosis, plural die Dosen: the amount of a medicine or vitamin taken at one time; „eine höhere Dosis“ = a higher dose.",
         "pos" : "noun",
         "translation" : "dose"
+      },
+      {
+        "forms" : [
+          "261"
+        ],
+        "note" : "The year of Ashoka's war: „etwa 261 vor Christus“ = in about 261 BC (zweihunderteinundsechzig).",
+        "pos" : "number",
+        "translation" : "261"
+      },
+      {
+        "forms" : [
+          "ashoka"
+        ],
+        "gender" : "masculine",
+        "note" : "The king in India (B2: emperor) of this story, about 261 BC; a person's name takes no article.",
+        "pos" : "noun",
+        "translation" : "Ashoka"
+      },
+      {
+        "forms" : [
+          "könig"
+        ],
+        "gender" : "masculine",
+        "note" : "Der König, plural die Könige; „Ashoka ist ein König“ = Ashoka is a king.",
+        "pos" : "noun",
+        "translation" : "king"
+      },
+      {
+        "forms" : [
+          "brunnen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Brunnen: a hole dug in the ground for water; the plural has the same form, die Brunnen.",
+        "pos" : "noun",
+        "translation" : "well, wells"
+      },
+      {
+        "forms" : [
+          "medizin"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Medizin: what helps sick people and animals; here without an article: „Es gibt Medizin“ = there is medicine.",
+        "pos" : "noun",
+        "translation" : "medicine"
+      },
+      {
+        "forms" : [
+          "hass"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Hass, the opposite of die Liebe; it has no plural and often stands without an article: „Hass endet durch Liebe“.",
+        "pos" : "noun",
+        "translation" : "hatred, hate"
+      },
+      {
+        "forms" : [
+          "liebe"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Liebe, from lieben (to love): „durch Liebe“ = by love, through love.",
+        "pos" : "noun",
+        "translation" : "love"
+      },
+      {
+        "forms" : [
+          "ostküste"
+        ],
+        "gender" : "feminine",
+        "note" : "Ost- (east) + die Küste (coast): „an der Ostküste“ = on the east coast.",
+        "pos" : "noun",
+        "translation" : "east coast"
+      },
+      {
+        "forms" : [
+          "hunderttausend"
+        ],
+        "note" : "100 000, written as one word and without „ein“: „hunderttausend Menschen“ = a hundred thousand people.",
+        "pos" : "number",
+        "translation" : "a hundred thousand"
+      },
+      {
+        "forms" : [
+          "sieger"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Sieger, from siegen (to win): „wie ein Sieger“ = like a winner.",
+        "pos" : "noun",
+        "translation" : "winner, victor"
+      },
+      {
+        "forms" : [
+          "gefühlt"
+        ],
+        "note" : "Partizip II of sich fühlen (to feel): „Er hat sich nicht wie ein Sieger gefühlt“ = he did not feel like a winner.",
+        "pos" : "verb",
+        "translation" : "felt"
+      },
+      {
+        "forms" : [
+          "leidtut"
+        ],
+        "note" : "Leidtun is separable: at the end of a dass-clause it is one word, „dass es ihm leidtut“ = that he is sorry; in a main clause it splits: „Es tut ihm leid“.",
+        "pos" : "verb",
+        "translation" : "is sorry (it grieves him)"
+      },
+      {
+        "forms" : [
+          "volk"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Volk: all the people of a land or of a king; „für sein Volk“ = for his people.",
+        "pos" : "noun",
+        "translation" : "people (of a country)"
+      },
+      {
+        "forms" : [
+          "gegraben",
+          "gegrabenen"
+        ],
+        "note" : "Partizip II of graben (to dig): „hat Brunnen gegraben“ = dug wells. Before a noun it takes an adjective ending: „von gegrabenen Brunnen“ = of wells that were dug.",
+        "pos" : "verb",
+        "translation" : "dug"
+      },
+      {
+        "forms" : [
+          "gemeißelt",
+          "gemeißelten",
+          "meißeln"
+        ],
+        "note" : "Meißeln: to cut into stone with a chisel (der Meißel). „Gemeißelt“ is the Partizip II; before a noun it takes an ending: „in Stein gemeißelten Bericht“ = account carved in stone.",
+        "pos" : "verb",
+        "translation" : "to carve (in stone), to chisel; carved"
+      },
+      {
+        "forms" : [
+          "darf"
+        ],
+        "note" : "Dürfen (modal verb), ich/er/sie/es form: „dass man nie wütend sein darf“ = that one may never be angry.",
+        "pos" : "verb",
+        "translation" : "may, is allowed to"
+      },
+      {
+        "forms" : [
+          "eroberte"
+        ],
+        "note" : "Präteritum of erobern (to conquer, to take a land by war): „Ashoka eroberte Kalinga“.",
+        "pos" : "verb",
+        "translation" : "conquered"
+      },
+      {
+        "forms" : [
+          "kalinga"
+        ],
+        "gender" : "neuter",
+        "note" : "The place on the east coast that Ashoka conquered in about 261 BC; such names mostly take no article.",
+        "pos" : "noun",
+        "translation" : "Kalinga"
+      },
+      {
+        "forms" : [
+          "inschrift"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Inschrift: words cut into stone; in- + die Schrift (writing).",
+        "pos" : "noun",
+        "translation" : "inscription"
+      },
+      {
+        "forms" : [
+          "weggebracht"
+        ],
+        "note" : "Partizip II of wegbringen (weg = away + bringen); the verb is separable, so -ge- stands in the middle: „wurden weggebracht“ = were taken away.",
+        "pos" : "verb",
+        "translation" : "taken away"
+      },
+      {
+        "forms" : [
+          "berichtet"
+        ],
+        "note" : "Berichten, er/sie/es form: „Dieselbe Inschrift berichtet, dass …“ = the same inscription reports that …",
+        "pos" : "verb",
+        "translation" : "reports, tells"
+      },
+      {
+        "forms" : [
+          "reue"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Reue: the feeling of being deeply sorry for what one has done; „Reue empfinden“ = to feel remorse.",
+        "pos" : "noun",
+        "translation" : "remorse"
+      },
+      {
+        "forms" : [
+          "lehre"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Lehre, from lehren (to teach): what a teacher teaches; „die Lehre des Buddha“ = the Buddha's teaching.",
+        "pos" : "noun",
+        "translation" : "teaching"
+      },
+      {
+        "forms" : [
+          "buddha"
+        ],
+        "gender" : "masculine",
+        "note" : "The teacher whose teaching Ashoka turned to; German says „der Buddha“, and the genitive here has no ending: „die Lehre des Buddha“.",
+        "pos" : "noun",
+        "translation" : "the Buddha"
+      },
+      {
+        "forms" : [
+          "imperium"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Imperium: a very large land under one ruler; „überall in seinem Imperium“ = across his empire.",
+        "pos" : "noun",
+        "translation" : "empire"
+      },
+      {
+        "forms" : [
+          "säulen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Säule: a tall, round post of stone; „in Felsen und Säulen“ = into rocks and pillars.",
+        "pos" : "noun",
+        "translation" : "pillars, columns"
+      },
+      {
+        "forms" : [
+          "schattenbäumen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Schatten (shade) + die Bäume (trees): trees planted to give shade; -n is the dative plural after „von“.",
+        "pos" : "noun",
+        "translation" : "shade trees"
+      },
+      {
+        "forms" : [
+          "religionen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Religion: „Frieden zwischen den Religionen“ = peace between religions.",
+        "pos" : "noun",
+        "translation" : "religions"
+      },
+      {
+        "forms" : [
+          "zeile"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Zeile: one line of a text or a poem; „eine Zeile, die zu ihm passt“ = a line that fits him.",
+        "pos" : "noun",
+        "translation" : "line"
+      },
+      {
+        "forms" : [
+          "5"
+        ],
+        "note" : "Fünf: „Vers 5“ is read „Vers fünf“, the fifth verse of the Dhammapada.",
+        "pos" : "number",
+        "translation" : "5"
+      },
+      {
+        "forms" : [
+          "verbietet"
+        ],
+        "note" : "Verbieten (to forbid), er/sie/es form; ver- is not separable: „Der Vers verbietet die Wut nicht“ = the verse does not forbid anger.",
+        "pos" : "verb",
+        "translation" : "forbids"
+      },
+      {
+        "forms" : [
+          "wut"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Wut: what a person feels who is wütend (angry); it has no plural.",
+        "pos" : "noun",
+        "translation" : "anger, rage"
+      },
+      {
+        "forms" : [
+          "kaiser"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kaiser: a ruler above kings; „der indische Kaiser Ashoka“ = the Indian emperor Ashoka.",
+        "pos" : "noun",
+        "translation" : "emperor"
+      },
+      {
+        "forms" : [
+          "zufolge"
+        ],
+        "note" : "Stands after its noun and takes the dative: „seinem eigenen Bericht zufolge“ = according to his own account.",
+        "pos" : "preposition",
+        "translation" : "according to"
+      },
+      {
+        "forms" : [
+          "hundertfünfzigtausend"
+        ],
+        "note" : "150 000: hundert + fünfzig + tausend, written as one word.",
+        "pos" : "number",
+        "translation" : "a hundred and fifty thousand"
+      },
+      {
+        "forms" : [
+          "deportiert"
+        ],
+        "note" : "Partizip II of deportieren (to take people away from their land by force); verbs in -ieren form it without ge-: „wurden deportiert“ = were deported.",
+        "pos" : "verb",
+        "translation" : "deported"
+      },
+      {
+        "forms" : [
+          "überliefert"
+        ],
+        "note" : "Überliefern, er/sie/es form: to pass something on to later times; über- is not separable here: „Die Inschrift überliefert seine Reue“.",
+        "pos" : "verb",
+        "translation" : "records, hands down"
+      },
+      {
+        "forms" : [
+          "gesiegt"
+        ],
+        "note" : "Partizip II of siegen (to win, to be the victor): „Nachdem er gesiegt hatte“ = after he had won.",
+        "pos" : "verb",
+        "translation" : "won, been victorious"
+      },
+      {
+        "forms" : [
+          "entsagte"
+        ],
+        "note" : "Präteritum of entsagen (to renounce, to give up for good); it takes the dative: „entsagte der Eroberung“ = renounced conquest.",
+        "pos" : "verb",
+        "translation" : "renounced"
+      },
+      {
+        "forms" : [
+          "eroberung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Eroberung, from erobern (to conquer) + -ung: taking a land by war.",
+        "pos" : "noun",
+        "translation" : "conquest"
+      },
+      {
+        "forms" : [
+          "gebot"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Gebot, plural die Gebote: a rule of a religion; „deren erstes Gebot“ = whose first precept.",
+        "pos" : "noun",
+        "translation" : "precept, commandment"
+      },
+      {
+        "forms" : [
+          "töten"
+        ],
+        "note" : "Infinitive; with „zu“ it names the content of the precept: „nicht zu töten“ = not to kill.",
+        "pos" : "verb",
+        "translation" : "to kill"
+      },
+      {
+        "forms" : [
+          "edikte"
+        ],
+        "gender" : "neuter",
+        "note" : "Plural of das Edikt: an order that a ruler makes public; „seine Edikte“ = his edicts.",
+        "pos" : "noun",
+        "translation" : "edicts"
+      },
+      {
+        "forms" : [
+          "medizinischer"
+        ],
+        "note" : "Form of medizinisch, the adjective of die Medizin: „von medizinischer Versorgung“ = of medical care (dative feminine ending -er).",
+        "pos" : "adjective",
+        "translation" : "medical"
+      },
+      {
+        "forms" : [
+          "versorgung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Versorgung, from versorgen (to provide for, to care for) + -ung: „medizinische Versorgung“ = medical care.",
+        "pos" : "noun",
+        "translation" : "care, provision"
+      },
+      {
+        "forms" : [
+          "eintracht"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Eintracht: when people or groups live together in agreement, without quarrel.",
+        "pos" : "noun",
+        "translation" : "concord, harmony"
+      },
+      {
+        "forms" : [
+          "glaubensrichtungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Glaubensrichtung: der Glaube (faith) + -s- + die Richtung (direction): a religion or a branch of one.",
+        "pos" : "noun",
+        "translation" : "faiths, denominations"
+      },
+      {
+        "forms" : [
+          "zorn"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Zorn: strong anger, a more literary word than die Wut; „verbietet keinen Zorn“ = forbids no anger.",
+        "pos" : "noun",
+        "translation" : "anger, wrath"
+      },
+      {
+        "forms" : [
+          "genährter",
+          "nähren"
+        ],
+        "note" : "Nähren: to give food to; „sich von etwas nähren“ = to feed on something. „Genährter“ is the Partizip II before a noun: „mit Hass genährter Hass“ = hatred fed with hatred.",
+        "pos" : "verb",
+        "translation" : "to feed, to nourish; fed"
       }
     ],
     "italian" : [
@@ -84606,6 +85768,7 @@
       },
       {
         "forms" : [
+          "attribuiti",
           "attribuito"
         ],
         "note" : "Past participle of attribuire.",
@@ -85496,9 +86659,9 @@
           "cessa",
           "cesseranno"
         ],
-        "note" : "Future of cessare.",
+        "note" : "From cessare, to cease: cessa is the present (it ceases), cesseranno the future (they will cease).",
         "pos" : "verb",
-        "translation" : "will cease"
+        "translation" : "ceases; will cease"
       },
       {
         "forms" : [
@@ -87837,6 +89000,7 @@
           "ferma",
           "fermare",
           "fermarla",
+          "fermarlo",
           "fermarsi",
           "fermata",
           "fermato",
@@ -91423,6 +92587,7 @@
           "portano",
           "portare",
           "portata",
+          "portate",
           "portato",
           "portava",
           "portino",
@@ -98130,6 +99295,7 @@
       },
       {
         "forms" : [
+          "parlano",
           "parlare"
         ],
         "note" : "Infinitive.",
@@ -98853,7 +100019,9 @@
       },
       {
         "forms" : [
-          "rivolgersi"
+          "rivolgersi",
+          "rivolse",
+          "rivolto"
         ],
         "note" : "Reflexive infinitive.",
         "pos" : "verb",
@@ -98861,6 +100029,7 @@
       },
       {
         "forms" : [
+          "rocce",
           "roccia"
         ],
         "gender" : "feminine",
@@ -109029,6 +110198,471 @@
         "note" : "The family name of Lucy Wills; il fattore Wills = the Wills factor, the name the substance had until 1941.",
         "pos" : "noun",
         "translation" : "Wills"
+      },
+      {
+        "forms" : [
+          "261"
+        ],
+        "note" : "Duecentosessantuno: about 261 a.C. is the year of Ashoka's war; a year takes the article, il 261, intorno al 261.",
+        "pos" : "number",
+        "translation" : "261"
+      },
+      {
+        "forms" : [
+          "5"
+        ],
+        "note" : "Cinque: il verso 5 = verse 5 of the Dhammapada, the one quoted in this story.",
+        "pos" : "number",
+        "translation" : "5"
+      },
+      {
+        "forms" : [
+          "a.c"
+        ],
+        "note" : "Short for avanti Cristo, written after the year: il 261 a.C.; the opposite is d.C., dopo Cristo.",
+        "pos" : "other",
+        "translation" : "BC (before Christ)"
+      },
+      {
+        "forms" : [
+          "adatta"
+        ],
+        "note" : "Present of adattarsi (lui/lei): si adatta bene a lui = it fits him well; the verb is reflexive and takes a.",
+        "pos" : "verb",
+        "translation" : "fits, suits"
+      },
+      {
+        "forms" : [
+          "all'insegnamento"
+        ],
+        "gender" : "masculine",
+        "note" : "All' = a + l' before a vowel; l'insegnamento, from insegnare (to teach), is what a teacher teaches.",
+        "pos" : "noun",
+        "translation" : "to the teaching"
+      },
+      {
+        "forms" : [
+          "amore",
+          "l'amore"
+        ],
+        "gender" : "masculine",
+        "note" : "L' = il before a vowel; con l'amore = by love, with love.",
+        "pos" : "noun",
+        "translation" : "love"
+      },
+      {
+        "forms" : [
+          "arrabbiarti"
+        ],
+        "note" : "Infinitive of arrabbiarsi with ti joined to the end: non devi arrabbiarti = you must not get angry.",
+        "pos" : "verb",
+        "translation" : "to get angry (you)"
+      },
+      {
+        "forms" : [
+          "ashoka"
+        ],
+        "gender" : "masculine",
+        "note" : "The king, later called emperor, of this story, who ruled in India about 261 a.C.",
+        "pos" : "noun",
+        "translation" : "Ashoka"
+      },
+      {
+        "forms" : [
+          "buddha"
+        ],
+        "gender" : "masculine",
+        "note" : "The teacher whose teaching Ashoka turns to; in Italian the name takes the article: il Buddha, del Buddha.",
+        "pos" : "noun",
+        "translation" : "the Buddha"
+      },
+      {
+        "forms" : [
+          "centocinquantamila"
+        ],
+        "note" : "150 000, written as one word: cento + cinquanta + mila; mila is the plural of mille.",
+        "pos" : "number",
+        "translation" : "a hundred and fifty thousand"
+      },
+      {
+        "forms" : [
+          "centomila"
+        ],
+        "note" : "100 000, written as one word: cento + mila; mila is the plural of mille.",
+        "pos" : "number",
+        "translation" : "a hundred thousand"
+      },
+      {
+        "forms" : [
+          "concordia"
+        ],
+        "gender" : "feminine",
+        "note" : "A formal word for living in agreement: la concordia tra le fedi = concord between faiths.",
+        "pos" : "noun",
+        "translation" : "concord, harmony"
+      },
+      {
+        "forms" : [
+          "conquista"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun of conquistare: rinunciare alla conquista = to give up conquering other lands.",
+        "pos" : "noun",
+        "translation" : "conquest"
+      },
+      {
+        "forms" : [
+          "conquistato",
+          "conquistò"
+        ],
+        "note" : "From conquistare: ha conquistato is the passato prossimo, conquistò the passato remoto (lui/lei) of written narration.",
+        "pos" : "verb",
+        "translation" : "conquered"
+      },
+      {
+        "forms" : [
+          "coste"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la costa, the land along the sea: sulle coste orientali = on the east coast.",
+        "pos" : "noun",
+        "translation" : "coasts"
+      },
+      {
+        "forms" : [
+          "crea"
+        ],
+        "note" : "Present of creare (lui/lei): l'odio crea altro odio = hate makes more hate.",
+        "pos" : "verb",
+        "translation" : "creates, makes"
+      },
+      {
+        "forms" : [
+          "deportate"
+        ],
+        "note" : "Past participle of deportare (to take people away from their land by force), feminine plural to agree with persone.",
+        "pos" : "verb",
+        "translation" : "deported"
+      },
+      {
+        "forms" : [
+          "direbbe"
+        ],
+        "note" : "Conditional of dire (lui/lei); si direbbe = one would say, it seems.",
+        "pos" : "verb",
+        "translation" : "would say"
+      },
+      {
+        "forms" : [
+          "dispiaciuto"
+        ],
+        "note" : "From dispiacere: era dispiaciuto = he was sorry; a woman says sono dispiaciuta.",
+        "pos" : "adjective",
+        "translation" : "sorry"
+      },
+      {
+        "forms" : [
+          "editti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'editto, an order that a king or emperor makes public.",
+        "pos" : "noun",
+        "translation" : "edicts"
+      },
+      {
+        "forms" : [
+          "fedi"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la fede; here it means religions: la concordia tra le fedi.",
+        "pos" : "noun",
+        "translation" : "faiths"
+      },
+      {
+        "forms" : [
+          "impero",
+          "l'impero"
+        ],
+        "gender" : "masculine",
+        "note" : "The lands ruled by an emperor (un imperatore); l' = lo before a vowel.",
+        "pos" : "noun",
+        "translation" : "empire"
+      },
+      {
+        "forms" : [
+          "incidere",
+          "incisi"
+        ],
+        "note" : "To cut words or pictures into a hard surface; incisi is the irregular past participle (inciso), masculine plural. Fare incidere = to have something carved.",
+        "pos" : "verb",
+        "translation" : "to cut, to carve (into)"
+      },
+      {
+        "forms" : [
+          "indiano"
+        ],
+        "note" : "From India; adjectives of nationality take no capital letter in Italian: il re indiano.",
+        "pos" : "adjective",
+        "translation" : "Indian"
+      },
+      {
+        "forms" : [
+          "infatti"
+        ],
+        "note" : "It introduces the reason for, or the proof of, what has just been said.",
+        "pos" : "conjunction",
+        "translation" : "for, indeed, in fact"
+      },
+      {
+        "forms" : [
+          "iscrizione"
+        ],
+        "gender" : "feminine",
+        "note" : "Words cut into stone or metal; plural le iscrizioni.",
+        "pos" : "noun",
+        "translation" : "inscription"
+      },
+      {
+        "forms" : [
+          "kalinga"
+        ],
+        "note" : "A place name: the land on the east coast that Ashoka conquered about 261 a.C.",
+        "pos" : "noun",
+        "translation" : "Kalinga"
+      },
+      {
+        "forms" : [
+          "l'imperatore"
+        ],
+        "gender" : "masculine",
+        "note" : "L' = lo before a vowel; an imperatore rules an impero, an empire.",
+        "pos" : "noun",
+        "translation" : "the emperor"
+      },
+      {
+        "forms" : [
+          "l'odio",
+          "odio"
+        ],
+        "gender" : "masculine",
+        "note" : "L' = lo before a vowel; the verb is odiare, to hate. Italian has one word for both hate and hatred.",
+        "pos" : "noun",
+        "translation" : "hatred, hate"
+      },
+      {
+        "forms" : [
+          "mediche"
+        ],
+        "note" : "Feminine plural of medico used as an adjective: le cure mediche = medical care.",
+        "pos" : "adjective",
+        "translation" : "medical"
+      },
+      {
+        "forms" : [
+          "medicine"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la medicina, what you take when you are ill; medicina is also the science of medicine.",
+        "pos" : "noun",
+        "translation" : "medicines"
+      },
+      {
+        "forms" : [
+          "nutrirsi"
+        ],
+        "note" : "Reflexive infinitive of nutrire; it takes di: nutrirsi del proprio contrario = to feed on its own opposite.",
+        "pos" : "verb",
+        "translation" : "to feed (on)"
+      },
+      {
+        "forms" : [
+          "orientali"
+        ],
+        "note" : "Plural of orientale, from oriente (the east); the opposite is occidentale.",
+        "pos" : "adjective",
+        "translation" : "eastern, east"
+      },
+      {
+        "forms" : [
+          "piantati"
+        ],
+        "note" : "Past participle of piantare, masculine plural to agree with alberi: alberi piantati = trees that were planted.",
+        "pos" : "verb",
+        "translation" : "planted"
+      },
+      {
+        "forms" : [
+          "pilastri"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il pilastro, a tall upright block of stone.",
+        "pos" : "noun",
+        "translation" : "pillars"
+      },
+      {
+        "forms" : [
+          "popolo"
+        ],
+        "gender" : "masculine",
+        "note" : "All the people of a country, seen as one group, so the verb is singular: il suo popolo = his people. Persone are single persons.",
+        "pos" : "noun",
+        "translation" : "people (of a country)"
+      },
+      {
+        "forms" : [
+          "pozzi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il pozzo, a deep hole in the ground that gives water.",
+        "pos" : "noun",
+        "translation" : "wells"
+      },
+      {
+        "forms" : [
+          "precetto"
+        ],
+        "gender" : "masculine",
+        "note" : "A rule of behaviour in a religion or a teaching; il primo precetto = the first precept.",
+        "pos" : "noun",
+        "translation" : "precept"
+      },
+      {
+        "forms" : [
+          "re"
+        ],
+        "gender" : "masculine",
+        "note" : "The same form in the singular and the plural: il re, i re. The feminine is la regina.",
+        "pos" : "noun",
+        "translation" : "king"
+      },
+      {
+        "forms" : [
+          "registra"
+        ],
+        "note" : "Present of registrare (lui/lei): to write something down so that it is kept.",
+        "pos" : "verb",
+        "translation" : "records"
+      },
+      {
+        "forms" : [
+          "regole"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la regola: what people must or must not do.",
+        "pos" : "noun",
+        "translation" : "rules"
+      },
+      {
+        "forms" : [
+          "religioni"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la religione; nouns ending in -ione are feminine.",
+        "pos" : "noun",
+        "translation" : "religions"
+      },
+      {
+        "forms" : [
+          "resoconto"
+        ],
+        "gender" : "masculine",
+        "note" : "A telling of what happened, with its facts and numbers; from rendere conto, to give an account.",
+        "pos" : "noun",
+        "translation" : "account, report"
+      },
+      {
+        "forms" : [
+          "ricambiato"
+        ],
+        "note" : "Past participle of ricambiare, to give back the same thing you received: l'odio ricambiato con l'odio = hatred answered with hatred.",
+        "pos" : "verb",
+        "translation" : "returned, answered in kind"
+      },
+      {
+        "forms" : [
+          "rimorso"
+        ],
+        "gender" : "masculine",
+        "note" : "The pain of having done something wrong: provare or sentire rimorso = to feel remorse.",
+        "pos" : "noun",
+        "translation" : "remorse"
+      },
+      {
+        "forms" : [
+          "rinunciato",
+          "rinunciò"
+        ],
+        "note" : "From rinunciare, which takes a: ha rinunciato alla guerra (passato prossimo), rinunciò alla conquista (passato remoto).",
+        "pos" : "verb",
+        "translation" : "gave up, renounced"
+      },
+      {
+        "forms" : [
+          "scava",
+          "scavati",
+          "scavato"
+        ],
+        "note" : "From scavare, to make a hole in the ground: scava is the present (lui/lei), scavato the past participle, scavati its masculine plural.",
+        "pos" : "verb",
+        "translation" : "digs; dug"
+      },
+      {
+        "forms" : [
+          "scolpito"
+        ],
+        "note" : "Past participle of scolpire, to cut a shape or words into stone or wood: scolpito nella pietra = carved in stone.",
+        "pos" : "verb",
+        "translation" : "carved"
+      },
+      {
+        "forms" : [
+          "traduzione"
+        ],
+        "gender" : "feminine",
+        "note" : "From tradurre, to translate: nella traduzione di Max Müller = in Max Müller's translation.",
+        "pos" : "noun",
+        "translation" : "translation"
+      },
+      {
+        "forms" : [
+          "uccidere"
+        ],
+        "note" : "Infinitive; non uccidere = not to kill, do not kill. The past participle is irregular: ucciso.",
+        "pos" : "verb",
+        "translation" : "to kill"
+      },
+      {
+        "forms" : [
+          "vennero"
+        ],
+        "note" : "Passato remoto of venire (loro). With a past participle venire makes a passive: vennero uccise = furono uccise, were killed.",
+        "pos" : "verb",
+        "translation" : "were (in a passive); came"
+      },
+      {
+        "forms" : [
+          "vieta"
+        ],
+        "note" : "Present of vietare (lui/lei); vietato = forbidden, as on signs.",
+        "pos" : "verb",
+        "translation" : "forbids"
+      },
+      {
+        "forms" : [
+          "vincitore"
+        ],
+        "gender" : "masculine",
+        "note" : "The person who wins (vincere); the feminine is la vincitrice.",
+        "pos" : "noun",
+        "translation" : "winner"
+      },
+      {
+        "forms" : [
+          "vivere"
+        ],
+        "note" : "Infinitive; per vivere = to live on, in order to live.",
+        "pos" : "verb",
+        "translation" : "to live"
       }
     ],
     "spanish" : [
@@ -109667,7 +111301,8 @@
       },
       {
         "forms" : [
-          "camino"
+          "camino",
+          "caminos"
         ],
         "gender" : "masculine",
         "note" : "A route traveled.",
@@ -114250,7 +115885,8 @@
       },
       {
         "forms" : [
-          "breve"
+          "breve",
+          "breves"
         ],
         "note" : "Not long.",
         "pos" : "adjective",
@@ -122182,7 +123818,8 @@
       },
       {
         "forms" : [
-          "regla"
+          "regla",
+          "reglas"
         ],
         "gender" : "feminine",
         "note" : "An official instruction; in everyday Spanish la regla is also the period (menstruation).",
@@ -122940,6 +124577,7 @@
       },
       {
         "forms" : [
+          "trae",
           "traen",
           "traer"
         ],
@@ -124885,7 +126523,8 @@
       },
       {
         "forms" : [
-          "guerra"
+          "guerra",
+          "guerras"
         ],
         "gender" : "feminine",
         "note" : "Armed conflict.",
@@ -126531,7 +128170,8 @@
       },
       {
         "forms" : [
-          "roca"
+          "roca",
+          "rocas"
         ],
         "gender" : "feminine",
         "note" : "Hard mineral material.",
@@ -127746,9 +129386,10 @@
         "forms" : [
           "rey"
         ],
-        "note" : "Surname of Dr. Edgar Rey, kangaroo-care pioneer.",
-        "pos" : "other",
-        "translation" : "Rey"
+        "gender" : "masculine",
+        "note" : "El rey = the king; the queen is la reina. In one story Rey is also a surname: Dr. Edgar Rey, kangaroo-care pioneer.",
+        "pos" : "noun",
+        "translation" : "king; also the surname Rey"
       },
       {
         "forms" : [
@@ -136194,6 +137835,453 @@
         "note" : "The family name of Lucy Wills; the \"factor de Wills\" (Wills factor) carried her name until 1941.",
         "pos" : "noun",
         "translation" : "Wills"
+      },
+      {
+        "forms" : [
+          "261"
+        ],
+        "note" : "The year of the war in this story: \"el año 261 antes de Cristo\" = the year 261 BC (doscientos sesenta y uno).",
+        "pos" : "number",
+        "translation" : "261"
+      },
+      {
+        "forms" : [
+          "5"
+        ],
+        "note" : "Cinco: \"el verso 5\" = verse 5; the number comes after the noun.",
+        "pos" : "number",
+        "translation" : "5"
+      },
+      {
+        "forms" : [
+          "alimentarse"
+        ],
+        "note" : "Alimentar with the pronoun se attached: \"alimentarse de algo\" = to feed on something.",
+        "pos" : "verb",
+        "translation" : "to feed on, to feed itself"
+      },
+      {
+        "forms" : [
+          "amor"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: el amor; the verb is amar, and \"con amor\" = with love, by love.",
+        "pos" : "noun",
+        "translation" : "love"
+      },
+      {
+        "forms" : [
+          "ashoka"
+        ],
+        "gender" : "masculine",
+        "note" : "The Indian king, also called emperor, of this story, who won a war around 261 BC and then gave up war.",
+        "pos" : "noun",
+        "translation" : "Ashoka"
+      },
+      {
+        "forms" : [
+          "atribuidos"
+        ],
+        "note" : "Past participle of atribuir, plural to agree with \"versos\": atribuidos a Buda = attributed to the Buddha.",
+        "pos" : "verb",
+        "translation" : "attributed"
+      },
+      {
+        "forms" : [
+          "buda"
+        ],
+        "gender" : "masculine",
+        "note" : "The teacher whose teaching is Buddhism; Spanish writes Buda, without an h.",
+        "pos" : "noun",
+        "translation" : "Buddha"
+      },
+      {
+        "forms" : [
+          "cava",
+          "cavados",
+          "cavó"
+        ],
+        "note" : "Cavar, to dig: \"cava\" is the present, \"cavó\" the pretérito indefinido, \"cavados\" the participle (pozos cavados = wells dug).",
+        "pos" : "verb",
+        "translation" : "digs; dug"
+      },
+      {
+        "forms" : [
+          "cesa"
+        ],
+        "note" : "Present of cesar, a formal word for coming to an end: \"el odio cesa\" = hatred ceases; everyday Spanish says termina.",
+        "pos" : "verb",
+        "translation" : "ceases, stops"
+      },
+      {
+        "forms" : [
+          "concordia"
+        ],
+        "gender" : "feminine",
+        "note" : "Peaceful agreement between people or groups; a formal word.",
+        "pos" : "noun",
+        "translation" : "concord, harmony"
+      },
+      {
+        "forms" : [
+          "conquista"
+        ],
+        "gender" : "feminine",
+        "note" : "The taking of a land by war; the verb is conquistar.",
+        "pos" : "noun",
+        "translation" : "conquest"
+      },
+      {
+        "forms" : [
+          "conquistó"
+        ],
+        "note" : "Pretérito indefinido of conquistar, to take a land by war.",
+        "pos" : "verb",
+        "translation" : "conquered"
+      },
+      {
+        "forms" : [
+          "constancia"
+        ],
+        "gender" : "feminine",
+        "note" : "\"Dejar constancia de algo\" = to put something on record.",
+        "pos" : "noun",
+        "translation" : "record, written proof"
+      },
+      {
+        "forms" : [
+          "constata"
+        ],
+        "note" : "Present of constatar: to state what one finds to be so, without judging it.",
+        "pos" : "verb",
+        "translation" : "notes, states as a fact"
+      },
+      {
+        "forms" : [
+          "contento"
+        ],
+        "note" : "Goes with estar: \"no está contento\" = he is not happy; the feminine is contenta.",
+        "pos" : "adjective",
+        "translation" : "happy, pleased"
+      },
+      {
+        "forms" : [
+          "credos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of credo, a set of religious beliefs; more formal than religión.",
+        "pos" : "noun",
+        "translation" : "faiths, creeds"
+      },
+      {
+        "forms" : [
+          "deportadas"
+        ],
+        "note" : "Past participle of deportar, to send people away from their land by force; feminine plural to agree with \"personas\".",
+        "pos" : "verb",
+        "translation" : "deported"
+      },
+      {
+        "forms" : [
+          "detenerlo"
+        ],
+        "note" : "Detener + lo: the pronoun is attached to the infinitive, \"puede detenerlo\" = can stop it.",
+        "pos" : "verb",
+        "translation" : "to stop it"
+      },
+      {
+        "forms" : [
+          "edictos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of edicto, an order that a ruler makes public.",
+        "pos" : "noun",
+        "translation" : "edicts"
+      },
+      {
+        "forms" : [
+          "emperador"
+        ],
+        "gender" : "masculine",
+        "note" : "The ruler of an empire (imperio); the feminine is emperatriz.",
+        "pos" : "noun",
+        "translation" : "emperor"
+      },
+      {
+        "forms" : [
+          "encaja"
+        ],
+        "note" : "Present of encajar: \"encaja con él\" = it fits him, it matches him.",
+        "pos" : "verb",
+        "translation" : "fits"
+      },
+      {
+        "forms" : [
+          "enfadado"
+        ],
+        "note" : "Goes with estar: \"estar enfadado\" = to be angry; in Latin America enojado is more common.",
+        "pos" : "adjective",
+        "translation" : "angry"
+      },
+      {
+        "forms" : [
+          "enfado"
+        ],
+        "gender" : "masculine",
+        "note" : "The noun that goes with enfadarse (to get angry); in Latin America people say enojo.",
+        "pos" : "noun",
+        "translation" : "anger"
+      },
+      {
+        "forms" : [
+          "enseñanza"
+        ],
+        "gender" : "feminine",
+        "note" : "What a teacher teaches; from enseñar, to teach.",
+        "pos" : "noun",
+        "translation" : "teaching"
+      },
+      {
+        "forms" : [
+          "ganador"
+        ],
+        "gender" : "masculine",
+        "note" : "From ganar, to win; the feminine is ganadora.",
+        "pos" : "noun",
+        "translation" : "winner"
+      },
+      {
+        "forms" : [
+          "grabado",
+          "grabar"
+        ],
+        "note" : "\"Grabar en piedra\" = to carve in stone; grabado is the participle. Grabar also means to record sound or video.",
+        "pos" : "verb",
+        "translation" : "to carve, engrave; carved"
+      },
+      {
+        "forms" : [
+          "haberse"
+        ],
+        "note" : "Haber with the pronoun se attached: \"podría haberse escrito\" = could have been written.",
+        "pos" : "verb",
+        "translation" : "to have been (haber + se)"
+      },
+      {
+        "forms" : [
+          "hablan"
+        ],
+        "note" : "Hablar, ellos/ellas form; \"hablar de\" = to speak of, to be about.",
+        "pos" : "verb",
+        "translation" : "(they) speak, talk"
+      },
+      {
+        "forms" : [
+          "imperio"
+        ],
+        "gender" : "masculine",
+        "note" : "The lands under one emperor (emperador).",
+        "pos" : "noun",
+        "translation" : "empire"
+      },
+      {
+        "forms" : [
+          "indio"
+        ],
+        "note" : "From India; the feminine is india. Nationalities take no capital letter in Spanish.",
+        "pos" : "adjective",
+        "translation" : "Indian"
+      },
+      {
+        "forms" : [
+          "inscripción"
+        ],
+        "gender" : "feminine",
+        "note" : "Words cut into stone or metal; the plural, inscripciones, loses the accent.",
+        "pos" : "noun",
+        "translation" : "inscription"
+      },
+      {
+        "forms" : [
+          "ira"
+        ],
+        "gender" : "feminine",
+        "note" : "A strong, formal word for anger; everyday Spanish says enfado or enojo.",
+        "pos" : "noun",
+        "translation" : "anger, wrath"
+      },
+      {
+        "forms" : [
+          "kalinga"
+        ],
+        "gender" : "feminine",
+        "note" : "The land on the east coast of India that Ashoka conquered around 261 BC.",
+        "pos" : "noun",
+        "translation" : "Kalinga"
+      },
+      {
+        "forms" : [
+          "llevaron"
+        ],
+        "note" : "Pretérito indefinido of llevar, ellos form; \"llevarse a alguien\" = to take someone away.",
+        "pos" : "verb",
+        "translation" : "took (away)"
+      },
+      {
+        "forms" : [
+          "matar",
+          "mataron"
+        ],
+        "note" : "\"Mataron\" is the pretérito indefinido, ellos form; with no subject it says that people were killed, without naming who did it.",
+        "pos" : "verb",
+        "translation" : "to kill; (they) killed"
+      },
+      {
+        "forms" : [
+          "medicinas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of medicina, something you take against an illness; la medicina is also the science of medicine.",
+        "pos" : "noun",
+        "translation" : "medicines"
+      },
+      {
+        "forms" : [
+          "muertas"
+        ],
+        "note" : "Feminine plural of muerto. In the passive it serves as the participle of matar: \"fueron muertas\" = were killed.",
+        "pos" : "adjective",
+        "translation" : "killed; dead"
+      },
+      {
+        "forms" : [
+          "muertos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of muerto used as a noun: \"contó los muertos\" = he counted the dead.",
+        "pos" : "noun",
+        "translation" : "the dead, dead people"
+      },
+      {
+        "forms" : [
+          "odio"
+        ],
+        "gender" : "masculine",
+        "note" : "The opposite of amor; the verb is odiar, to hate.",
+        "pos" : "noun",
+        "translation" : "hatred, hate"
+      },
+      {
+        "forms" : [
+          "pilares"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of pilar, a tall column of stone.",
+        "pos" : "noun",
+        "translation" : "pillars"
+      },
+      {
+        "forms" : [
+          "plantados",
+          "plantó"
+        ],
+        "note" : "Plantar, to plant: \"plantó\" is the pretérito indefinido, \"plantados\" the participle (árboles plantados = trees planted).",
+        "pos" : "verb",
+        "translation" : "planted"
+      },
+      {
+        "forms" : [
+          "pozos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of pozo, a deep hole dug in the ground to reach water.",
+        "pos" : "noun",
+        "translation" : "wells"
+      },
+      {
+        "forms" : [
+          "precepto"
+        ],
+        "gender" : "masculine",
+        "note" : "A rule that tells the followers of a teaching how to live.",
+        "pos" : "noun",
+        "translation" : "precept, rule of conduct"
+      },
+      {
+        "forms" : [
+          "prohíbe"
+        ],
+        "note" : "Present of prohibir; the accent on the í keeps o and i in separate syllables.",
+        "pos" : "verb",
+        "translation" : "forbids"
+      },
+      {
+        "forms" : [
+          "relato"
+        ],
+        "gender" : "masculine",
+        "note" : "A telling of what happened; from relatar, to tell.",
+        "pos" : "noun",
+        "translation" : "account, story"
+      },
+      {
+        "forms" : [
+          "religiones"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of religión; the accent disappears in the plural.",
+        "pos" : "noun",
+        "translation" : "religions"
+      },
+      {
+        "forms" : [
+          "remordimiento"
+        ],
+        "gender" : "masculine",
+        "note" : "The pain of knowing that you have done wrong; \"sentir remordimiento\" = to feel remorse.",
+        "pos" : "noun",
+        "translation" : "remorse"
+      },
+      {
+        "forms" : [
+          "renunció"
+        ],
+        "note" : "Pretérito indefinido of renunciar, always with a: \"renunció a la guerra\" = he gave up war.",
+        "pos" : "verb",
+        "translation" : "gave up, renounced"
+      },
+      {
+        "forms" : [
+          "sanitaria"
+        ],
+        "note" : "Feminine of sanitario, about care for the sick: \"atención sanitaria\" = health care, medical care.",
+        "pos" : "adjective",
+        "translation" : "health, medical"
+      },
+      {
+        "forms" : [
+          "tallados"
+        ],
+        "note" : "Past participle of tallar, to cut a shape or words into stone or wood; masculine plural to agree with \"edictos\".",
+        "pos" : "verb",
+        "translation" : "carved, cut"
+      },
+      {
+        "forms" : [
+          "traducción"
+        ],
+        "gender" : "feminine",
+        "note" : "From traducir, to translate; the plural, traducciones, loses the accent.",
+        "pos" : "noun",
+        "translation" : "translation"
+      },
+      {
+        "forms" : [
+          "vencido"
+        ],
+        "note" : "Past participle of vencer, to win or to defeat: \"habiendo vencido\" = having won.",
+        "pos" : "verb",
+        "translation" : "won, defeated"
       }
     ]
   },
@@ -154993,6 +157081,586 @@
       "summary" : "Nel 1928 una dottoressa inglese a Bombay ha guarito donne incinte esauste con un barattolo di crema di lievito economica, e ciò che ha scoperto è oggi un consiglio per ogni gravidanza.",
       "title" : "Il barattolo in corsia",
       "translationGroup" : "jar-on-the-ward"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-08",
+      "id" : "an-old-rule",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 261 BC: \"is\", \"wins\", \"digs\". The date shows when it happens.",
+              "example" : "It is about 261 BC in India.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "\"No more war\" means not any war from now on. \"No\" makes the sentence negative, so the verb stays positive: he wants no more war.",
+              "example" : "He wants no more war.",
+              "title" : "No more + noun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is about 261 BC in India. Ashoka is a king. He wins a big war. Many people die.",
+            "Ashoka is not happy. He is very sorry. He wants no more war.",
+            "Now he digs wells and plants trees along the roads. There is medicine for people and for animals.",
+            "Hate does not stop hate. Love stops it. An old Buddhist book, the Dhammapada, says: \"hatred ceases by love\". The book says this is \"an old rule\"."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Many common verbs are irregular in the past: win → won, write → wrote, give → gave, dig → dug. Regular verbs add -ed: worked, planted, died.",
+              "example" : "He dug wells, planted trees along the roads and brought medicine for people and animals.",
+              "title" : "Past simple: won, wrote, gave, dug"
+            },
+            {
+              "body" : "\"He had his rules cut into rocks\": he did not cut them himself, he asked others to do it. Have + thing + past participle.",
+              "example" : "He had his new rules cut into rocks.",
+              "title" : "Have something done"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In about 261 BC Ashoka, a king in India, won a war on the east coast. By his own count, a hundred thousand people died.",
+            "He did not feel like a winner. He wrote that he was deeply sorry, and he gave up war.",
+            "Then he worked for his people. He dug wells, planted trees along the roads and brought medicine for people and animals. He had his new rules cut into rocks.",
+            "The Dhammapada, an old Buddhist book, says that \"hatred ceases by love, this is an old rule.\"",
+            "It does not mean that you must never be angry. It means that hate only makes more hate, and something kind can stop it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive (be + past participle) is used when what happened to people matters more than who did it.",
+              "example" : "According to his own inscription, a hundred thousand people were killed and even more were taken away.",
+              "title" : "Passive: were killed, were taken away"
+            },
+            {
+              "body" : "Here \"while\" does not mean \"during\": it sets two facts against each other, like \"whereas\".",
+              "example" : "It means that hatred answered with hatred only grows, while kindness gives it nothing to live on.",
+              "title" : "While for a contrast"
+            },
+            {
+              "body" : "\"He had new rules carved\": others carved them on his order. Have + thing + past participle.",
+              "example" : "He had new rules carved on rocks and pillars across his empire.",
+              "title" : "Have something done"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In about 261 BC the Indian king Ashoka conquered Kalinga, on the east coast. According to his own inscription, a hundred thousand people were killed and even more were taken away.",
+            "The same inscription says that he felt deep remorse. He gave up war and turned to the Buddha's teaching.",
+            "He had new rules carved on rocks and pillars across his empire. They speak of wells and shade trees along the roads, medicine for people and animals, and peace between religions.",
+            "The Dhammapada, a book of 423 Buddhist verses, has a line that fits him. Verse 5 reads: \"For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.\"",
+            "It does not forbid anger. It means that hatred answered with hatred only grows, while kindness gives it nothing to live on."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Having won\" means \"after he had won\": having + past participle puts the earlier action first, in a compact, formal way.",
+              "example" : "Having won, Ashoka renounced conquest and turned to the Buddha's teaching, whose first precept is not to kill.",
+              "title" : "Perfect participle: having won"
+            },
+            {
+              "body" : "\"Might have been written for him\" is a guess about the past that we know is not literally true: it fits him so well that it seems so.",
+              "example" : "The Dhammapada, 423 short verses attributed to the Buddha, has a line that might have been written for him.",
+              "title" : "Might have + past participle"
+            },
+            {
+              "body" : "\"Wells dug and trees planted\" means wells that were dug and trees that were planted: the past participle follows the noun and replaces a passive clause.",
+              "example" : "His edicts, cut into rocks and pillars across the empire, speak of wells dug and trees planted along the roads.",
+              "title" : "Participles after a noun: wells dug, trees planted"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In about 261 BC the Indian emperor Ashoka conquered Kalinga, on the east coast. By his own account, carved in stone, a hundred thousand people were killed and a hundred and fifty thousand deported.",
+            "The same inscription records his remorse. Having won, Ashoka renounced conquest and turned to the Buddha's teaching, whose first precept is not to kill.",
+            "His edicts, cut into rocks and pillars across the empire, speak of wells dug and trees planted along the roads. They speak, too, of medical care for people and animals and of concord between faiths.",
+            "The Dhammapada, 423 short verses attributed to the Buddha, has a line that might have been written for him. In Max Müller's 1881 translation, verse 5 reads: \"For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.\"",
+            "The verse forbids no anger; it observes that hatred fed with hatred grows, and that it cannot feed on its opposite."
+          ]
+        }
+      ],
+      "summary" : "In about 261 BC an Indian king won a war, counted the dead and stopped, and a line in a very old Buddhist book says what he had understood.",
+      "title" : "An Old Rule",
+      "translationGroup" : "an-old-rule"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-08",
+      "id" : "an-old-rule-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 261 BC: \"gagne\", \"creuse\", \"plante\". \"Nous sommes…\" is the French way to say when and where the story takes place.",
+              "example" : "Nous sommes environ 261 ans av. J.-C., en Inde.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "\"Ne … plus\" around the verb means \"no more\" or \"no longer\". After a negation the article before the noun becomes \"de\": il ne veut plus de guerre.",
+              "example" : "Il ne veut plus de guerre.",
+              "title" : "Ne … plus de: no more"
+            },
+            {
+              "body" : "\"Le\" and \"la\" shorten to \"l'\" before a vowel. In this sentence the first l' is the article (le + amour) and the second is the pronoun \"la\" (= la haine), placed before the verb.",
+              "example" : "L'amour l'arrête.",
+              "title" : "L' before a vowel: article and pronoun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes environ 261 ans av. J.-C., en Inde. Le roi Ashoka gagne une grande guerre. Beaucoup de gens meurent.",
+            "Ashoka n'est pas heureux. Il regrette beaucoup. Il ne veut plus de guerre.",
+            "Maintenant, il creuse des puits. Il plante des arbres au bord des routes. Il y a des médicaments pour les gens et les animaux.",
+            "La haine n'arrête pas la haine. L'amour l'arrête. Le Dhammapada est un vieux livre bouddhiste. On y lit : « la haine cesse par l'amour ». Le livre appelle cela « une règle ancienne »."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs form the spoken past with avoir: \"il a gagné\", \"il a écrit\". Mourir takes être, and then the participle agrees with the subject: \"cent mille personnes sont mortes\".",
+              "example" : "D'après ses propres chiffres, cent mille personnes sont mortes.",
+              "title" : "Passé composé with avoir and with être"
+            },
+            {
+              "body" : "\"Il a fait graver ses lois\": he did not carve them himself, others did it on his order. Faire + infinitive, with the infinitive straight after \"fait\".",
+              "example" : "Il a fait graver ses nouvelles lois sur des rochers.",
+              "title" : "Faire + infinitive: to have something done"
+            },
+            {
+              "body" : "\"Cela veut dire que…\" is the everyday way to say \"that means that…\"; the negative is \"cela ne veut pas dire que…\". \"Il ne faut jamais\" + infinitive = one must never.",
+              "example" : "Cela ne veut pas dire qu'il ne faut jamais être en colère.",
+              "title" : "Vouloir dire = to mean"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Environ 261 ans av. J.-C., Ashoka, un roi en Inde, a gagné une guerre sur la côte orientale. D'après ses propres chiffres, cent mille personnes sont mortes.",
+            "Il ne s'est pas senti vainqueur. Il a écrit qu'il était profondément désolé, et a arrêté de faire la guerre.",
+            "Ensuite, il a travaillé pour son peuple. Il a creusé des puits et planté des arbres au bord des routes. Il a apporté des médicaments pour les gens et les animaux. Il a fait graver ses nouvelles lois sur des rochers.",
+            "Dans le Dhammapada, un vieux livre bouddhiste, on lit : « la haine cesse par l'amour, c'est une règle ancienne ».",
+            "Cela ne veut pas dire qu'il ne faut jamais être en colère. Cela veut dire que la haine crée seulement plus de haine. Un geste de bonté peut l'arrêter."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is être + past participle, here in the passé composé: \"ont été tuées\". The participles agree with \"personnes\", and \"ont été\" is not repeated before \"emmenées\".",
+              "example" : "D'après sa propre inscription, cent mille personnes ont été tuées et plus encore emmenées.",
+              "title" : "Passive: ont été tuées et … emmenées"
+            },
+            {
+              "body" : "\"Tandis que\" sets two facts against each other, like \"whereas\": one thing makes hatred grow, the other gives it nothing.",
+              "example" : "Il signifie que répondre à la haine par la haine la fait seulement grandir, tandis que la bonté ne lui donne rien pour vivre.",
+              "title" : "Tandis que for a contrast"
+            },
+            {
+              "body" : "\"Qui\" is the subject of the verb that follows it (correspond). \"Lui\" (to him) stands before the verb: \"une phrase qui lui correspond\" = a sentence that fits him.",
+              "example" : "Le Dhammapada, un livre de 423 versets bouddhistes, contient une phrase qui lui correspond.",
+              "title" : "Relative clause with qui, and lui before the verb"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Environ 261 ans av. J.-C., le roi indien Ashoka a conquis le Kalinga, sur la côte orientale. D'après sa propre inscription, cent mille personnes ont été tuées et plus encore emmenées.",
+            "La même inscription parle de son profond remords. Il a renoncé à la guerre pour se tourner vers l'enseignement du Bouddha.",
+            "Il a fait graver de nouvelles lois sur des rochers et des piliers dans tout l'empire. Elles parlent de puits, d'arbres d'ombrage au bord des routes, de médicaments pour les gens et les animaux, et de paix entre les religions.",
+            "Le Dhammapada, un livre de 423 versets bouddhistes, contient une phrase qui lui correspond. C'est le verset 5 : « Car la haine ne cesse jamais par la haine : la haine cesse par l'amour, c'est une règle ancienne ».",
+            "Il n'interdit pas la colère. Il signifie que répondre à la haine par la haine la fait seulement grandir, tandis que la bonté ne lui donne rien pour vivre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Ayant vaincu\" means \"after he had won\": ayant + past participle puts the earlier action first, in a compact, written style. The main verbs follow in the passé simple (renonça, se tourna).",
+              "example" : "Ayant vaincu, Ashoka renonça à la conquête et se tourna vers l'enseignement du Bouddha, dont le premier précepte est de ne pas tuer.",
+              "title" : "Compound participle: ayant vaincu"
+            },
+            {
+              "body" : "\"Aurait pu\" + infinitive says what could have been but was not: the sentence fits him so well that it seems written for him. \"Écrite\" agrees with \"une phrase\".",
+              "example" : "Le Dhammapada, 423 courts versets attribués au Bouddha, contient une phrase qui aurait pu être écrite pour lui.",
+              "title" : "Past conditional: aurait pu être écrite"
+            },
+            {
+              "body" : "\"Aucune\" replaces \"pas\": \"n'interdit aucune colère\" = forbids no anger. In formal French pouvoir can also be negated with \"ne\" alone: \"elle ne peut se nourrir\" = it cannot feed.",
+              "example" : "Le verset n'interdit aucune colère ; il constate que la haine nourrie de haine croît, et qu'elle ne peut se nourrir de son contraire.",
+              "title" : "Negation without pas: aucune, ne peut"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Environ 261 ans av. J.-C., l'empereur indien Ashoka conquit le Kalinga, sur la côte orientale. D'après son propre récit, gravé dans la pierre, cent mille personnes furent tuées et cent cinquante mille déportées.",
+            "La même inscription rapporte son remords. Ayant vaincu, Ashoka renonça à la conquête et se tourna vers l'enseignement du Bouddha, dont le premier précepte est de ne pas tuer.",
+            "Ses édits, gravés sur des rochers et des piliers à travers l'empire, parlent de puits creusés et d'arbres plantés au bord des routes. Ils parlent aussi de soins médicaux pour les gens et les animaux, et de concorde entre les croyances.",
+            "Le Dhammapada, 423 courts versets attribués au Bouddha, contient une phrase qui aurait pu être écrite pour lui. Dans la traduction anglaise de Max Müller (1881), on lit au verset 5 : « Car la haine ne cesse jamais par la haine : la haine cesse par l'amour, c'est une règle ancienne ».",
+            "Le verset n'interdit aucune colère ; il constate que la haine nourrie de haine croît, et qu'elle ne peut se nourrir de son contraire."
+          ]
+        }
+      ],
+      "summary" : "Vers 261 av. J.-C., un roi indien a gagné une guerre, a compté les morts et s'est arrêté, et une phrase d'un très vieux livre bouddhiste dit ce qu'il avait compris.",
+      "title" : "Une règle ancienne",
+      "translationGroup" : "an-old-rule"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-08",
+      "id" : "an-old-rule-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 261 vor Christus (BC; often shortened to \"v. Chr.\"): \"ist\", \"gewinnt\", \"gräbt\". The date shows when it happens.",
+              "example" : "Es ist etwa 261 vor Christus in Indien.",
+              "title" : "Present tense for a story from long ago"
+            },
+            {
+              "body" : "\"Kein\" negates a noun and takes the ending of \"ein\": \"keinen Krieg\" (masculine accusative). With \"mehr\" after the noun it means \"no more\", not any from now on.",
+              "example" : "Er will keinen Krieg mehr.",
+              "title" : "Kein … mehr: no more"
+            },
+            {
+              "body" : "German says \"it does sorrow to him\": the subject is \"es\" and the person who is sorry stands in the dative (mir, dir, ihm, ihr).",
+              "example" : "Es tut ihm sehr leid.",
+              "title" : "Es tut mir leid: sorry with the dative"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist etwa 261 vor Christus in Indien. Ashoka ist ein König. Er gewinnt einen großen Krieg. Viele Menschen sterben.",
+            "Ashoka ist nicht glücklich. Es tut ihm sehr leid. Er will keinen Krieg mehr.",
+            "Jetzt gräbt er Brunnen und pflanzt Bäume an den Straßen. Es gibt Medizin für Menschen und für Tiere.",
+            "Hass stoppt Hass nicht. Liebe stoppt ihn. Ein altes buddhistisches Buch, das Dhammapada, sagt: „Hass endet durch Liebe“. Das Buch sagt: Das ist „eine alte Regel“."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is \"haben\" or \"sein\" in second place plus the Partizip II at the end: \"hat … gezählt\". Verbs of a change of state such as sterben take \"sein\": \"sind … gestorben\".",
+              "example" : "Er selbst hat gezählt: Hunderttausend Menschen sind gestorben.",
+              "title" : "Perfekt with haben or sein"
+            },
+            {
+              "body" : "\"Meißeln lassen\" means he did not carve the rules himself; others did it for him. In the Perfekt, \"lassen\" after another infinitive stays an infinitive: \"hat … meißeln lassen\", not \"gelassen\".",
+              "example" : "Seine neuen Regeln hat er in Felsen meißeln lassen.",
+              "title" : "Lassen + infinitive: to have something done"
+            },
+            {
+              "body" : "After \"dass\" (that) the conjugated verb goes to the very end of the clause, behind the infinitive: \"dass man nie wütend sein darf\".",
+              "example" : "Das bedeutet nicht, dass man nie wütend sein darf.",
+              "title" : "Dass sends the verb to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Etwa 261 vor Christus hat Ashoka, ein König in Indien, einen Krieg an der Ostküste gewonnen. Er selbst hat gezählt: Hunderttausend Menschen sind gestorben.",
+            "Er hat sich nicht wie ein Sieger gefühlt. Er hat geschrieben, dass es ihm sehr leidtut. Den Krieg hat er aufgegeben.",
+            "Dann hat er für sein Volk gearbeitet. Er hat Brunnen gegraben und Bäume an den Straßen gepflanzt. Er hat Medizin für Menschen und Tiere gebracht. Seine neuen Regeln hat er in Felsen meißeln lassen.",
+            "Das Dhammapada, ein altes buddhistisches Buch, sagt: „Hass endet durch Liebe, dies ist eine alte Regel.“",
+            "Das bedeutet nicht, dass man nie wütend sein darf. Es bedeutet: Hass macht nur mehr Hass, und etwas Freundliches kann ihn stoppen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive (werden + Partizip II) is used when what happened to people matters more than who did it. One \"wurden\" serves both participles: \"getötet und … weggebracht\".",
+              "example" : "Wie seine eigene Inschrift sagt, wurden hunderttausend Menschen getötet und noch mehr weggebracht.",
+              "title" : "Passive in the Präteritum: wurden + Partizip II"
+            },
+            {
+              "body" : "In a main clause a separable verb splits and its particle goes to the end of its part: \"gab … auf\" is aufgeben (to give up), \"wandte sich … zu\" is sich zuwenden (to turn to), which takes the dative: \"der Lehre\".",
+              "example" : "Er gab den Krieg auf und wandte sich der Lehre des Buddha zu.",
+              "title" : "Two separable verbs: aufgeben, sich zuwenden"
+            },
+            {
+              "body" : "The verb decides the preposition (antworten auf + accusative), and the preposition stands before the relative pronoun: \"Hass, auf den man … antwortet\" = hatred that one answers. \"Während\" then sets a contrast, like \"whereas\".",
+              "example" : "Er bedeutet: Hass, auf den man mit Hass antwortet, wächst nur, während Freundlichkeit ihm nichts zum Leben gibt.",
+              "title" : "Relative clause with a preposition: auf den"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Um 261 vor Christus eroberte der indische König Ashoka Kalinga an der Ostküste. Wie seine eigene Inschrift sagt, wurden hunderttausend Menschen getötet und noch mehr weggebracht.",
+            "Dieselbe Inschrift berichtet, dass er tiefe Reue empfand. Er gab den Krieg auf und wandte sich der Lehre des Buddha zu.",
+            "Überall in seinem Imperium ließ er neue Regeln in Felsen und Säulen meißeln. Sie sprechen von Brunnen und Schattenbäumen an den Straßen, von Medizin für Menschen und Tiere und von Frieden zwischen den Religionen.",
+            "Das Dhammapada, ein Buch mit 423 buddhistischen Versen, enthält eine Zeile, die zu ihm passt. Vers 5 lautet: „Denn Hass endet niemals durch Hass: Hass endet durch Liebe, dies ist eine alte Regel.“",
+            "Der Vers verbietet die Wut nicht. Er bedeutet: Hass, auf den man mit Hass antwortet, wächst nur, während Freundlichkeit ihm nichts zum Leben gibt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Nachdem er gesiegt hatte\" (after he had won) puts the earlier action one step further back: hatte + Partizip II, with the verb at the end. The main clause that follows starts with its verb: \"entsagte Ashoka\".",
+              "example" : "Nachdem er gesiegt hatte, entsagte Ashoka der Eroberung und wandte sich der Lehre des Buddha zu, deren erstes Gebot lautet, nicht zu töten.",
+              "title" : "Nachdem + Plusquamperfekt"
+            },
+            {
+              "body" : "A Partizip II can stand before its noun with an adjective ending and carry its own details: \"an den Straßen gepflanzten Bäumen\" = trees that were planted along the roads. It replaces a passive relative clause.",
+              "example" : "Seine Edikte, im ganzen Imperium in Felsen und Säulen gemeißelt, sprechen von gegrabenen Brunnen und an den Straßen gepflanzten Bäumen.",
+              "title" : "Participles before a noun: gegrabene Brunnen"
+            },
+            {
+              "body" : "\"Könnte\" (could) marks a thought that is not literally true: the line fits him so well that it could have been written for him. The indicative \"kann\" would state it as a real possibility.",
+              "example" : "Das Dhammapada, 423 kurze, dem Buddha zugeschriebene Verse, enthält eine Zeile, die für ihn geschrieben sein könnte.",
+              "title" : "Konjunktiv II: geschrieben sein könnte"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Um 261 vor Christus eroberte der indische Kaiser Ashoka Kalinga an der Ostküste. Seinem eigenen, in Stein gemeißelten Bericht zufolge wurden hunderttausend Menschen getötet und hundertfünfzigtausend deportiert.",
+            "Dieselbe Inschrift überliefert seine Reue. Nachdem er gesiegt hatte, entsagte Ashoka der Eroberung und wandte sich der Lehre des Buddha zu, deren erstes Gebot lautet, nicht zu töten.",
+            "Seine Edikte, im ganzen Imperium in Felsen und Säulen gemeißelt, sprechen von gegrabenen Brunnen und an den Straßen gepflanzten Bäumen. Sie sprechen auch von medizinischer Versorgung für Menschen und Tiere und von Eintracht zwischen den Glaubensrichtungen.",
+            "Das Dhammapada, 423 kurze, dem Buddha zugeschriebene Verse, enthält eine Zeile, die für ihn geschrieben sein könnte. Nach Max Müllers englischer Übersetzung von 1881 lautet Vers 5: „Denn Hass endet niemals durch Hass: Hass endet durch Liebe, dies ist eine alte Regel.“",
+            "Der Vers verbietet keinen Zorn; er beobachtet, dass mit Hass genährter Hass wächst und dass er sich von seinem Gegenteil nicht nähren kann."
+          ]
+        }
+      ],
+      "summary" : "Um 261 vor Christus gewann ein indischer König einen Krieg, zählte die Toten und hörte auf, und eine Zeile in einem sehr alten buddhistischen Buch sagt, was er verstanden hatte.",
+      "title" : "Eine alte Regel",
+      "translationGroup" : "an-old-rule"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-08",
+      "id" : "an-old-rule-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 261 BC: \"estamos\", \"gana\", \"cava\". \"Estamos en…\" (we are in…) is a common way to set the scene.",
+              "example" : "Estamos en la India, alrededor del año 261 antes de Cristo.",
+              "title" : "Present tense to tell a story"
+            },
+            {
+              "body" : "\"Lo siento\" means \"I am sorry\", word for word \"I feel it\". For he or she the verb becomes \"lo siente\": he is sorry.",
+              "example" : "Lo siente mucho.",
+              "title" : "Lo siente: to be sorry"
+            },
+            {
+              "body" : "\"No\" goes before the verb and \"más\" before the noun: no quiere más guerras = he wants no more wars. Spanish keeps the \"no\" where English drops \"not\".",
+              "example" : "No quiere más guerras.",
+              "title" : "No… más + noun: no more"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en la India, alrededor del año 261 antes de Cristo. Ashoka es un rey. Gana una guerra grande. Mueren muchas personas.",
+            "Ashoka no está contento. Lo siente mucho. No quiere más guerras.",
+            "Ahora cava pozos y planta árboles junto a los caminos. Hay medicinas para las personas y para los animales.",
+            "El odio no detiene el odio. El amor lo detiene. El Dhammapada es un libro budista antiguo. El libro dice: «el odio cesa con el amor». Dice que esta es «una regla antigua»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular -ar verbs end in -ó for él/ella: ganó, cavó, plantó, trabajó. Some verbs change: traer → trajo, sentir → sintió (e becomes i).",
+              "example" : "Cavó pozos, plantó árboles junto a los caminos y trajo medicinas para personas y animales.",
+              "title" : "Pretérito indefinido: regular and irregular"
+            },
+            {
+              "body" : "\"Mandó grabar sus reglas\": he did not carve them himself, he ordered others to do it. Mandar + infinitive = to have something done.",
+              "example" : "Mandó grabar sus nuevas reglas en rocas.",
+              "title" : "Mandar + infinitive: to have something done"
+            },
+            {
+              "body" : "\"Se sintió\" (sentirse) says how he felt: no se sintió un ganador. \"Lo sintió\" (sentir + lo) means he was sorry, the past of \"lo siento\".",
+              "example" : "Lo sintió profundamente y lo escribió.",
+              "title" : "Sentirse and sentirlo"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Ashoka era un rey de la India. Alrededor del año 261 antes de Cristo ganó una guerra en la costa oriental. Él mismo contó los muertos: cien mil personas.",
+            "No se sintió un ganador. Lo sintió profundamente y lo escribió. Después dejó la guerra.",
+            "Luego trabajó para su gente. Cavó pozos, plantó árboles junto a los caminos y trajo medicinas para personas y animales. Mandó grabar sus nuevas reglas en rocas.",
+            "El Dhammapada es un libro budista antiguo. Dice: «el odio cesa con el amor, esta es una regla antigua».",
+            "La regla no prohíbe el enfado: puedes estar enfadado. Significa que el odio solo trae más odio, y algo amable puede detenerlo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English says \"were killed\" and \"were taken away\", Spanish often uses the third person plural with no subject: mataron, se llevaron. Who did it is left open.",
+              "example" : "Según su propia inscripción, mataron a cien mil personas y se llevaron a más todavía.",
+              "title" : "\"They\" with no subject instead of the passive"
+            },
+            {
+              "body" : "\"Mandó grabar nuevas reglas\": others carved them on his order. Mandar + infinitive is the usual way to say that someone has a thing done.",
+              "example" : "Mandó grabar nuevas reglas en rocas y pilares por todo su imperio.",
+              "title" : "Mandar + infinitive: to have something done"
+            },
+            {
+              "body" : "\"Responder\" takes \"a\", so the preposition moves in front of the relative: el odio al que se responde = the hatred that is answered. A + el que becomes \"al que\".",
+              "example" : "Significa que el odio al que se responde con odio solo crece; la bondad, en cambio, no le da de qué vivir.",
+              "title" : "Al que: a relative clause after a preposition"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Alrededor del año 261 antes de Cristo, el rey indio Ashoka conquistó Kalinga, en la costa oriental. Según su propia inscripción, mataron a cien mil personas y se llevaron a más todavía.",
+            "La misma inscripción dice que sintió un profundo remordimiento. Renunció a la guerra y se acercó a la enseñanza de Buda.",
+            "Mandó grabar nuevas reglas en rocas y pilares por todo su imperio. Hablan de pozos y árboles de sombra junto a los caminos, de medicinas para personas y animales y de paz entre las religiones.",
+            "El Dhammapada, un libro de 423 versos budistas, tiene una línea que encaja con él. El verso 5 dice: «Pues el odio nunca cesa con el odio: el odio cesa con el amor, esta es una regla antigua».",
+            "No prohíbe el enfado. Significa que el odio al que se responde con odio solo crece; la bondad, en cambio, no le da de qué vivir."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Habiendo vencido\" means \"after he had won\": habiendo + past participle puts the earlier action first, in a compact, formal way.",
+              "example" : "Habiendo vencido, Ashoka renunció a la conquista y se acercó a la enseñanza de Buda, cuyo primer precepto es no matar.",
+              "title" : "Gerundio compuesto: habiendo vencido"
+            },
+            {
+              "body" : "Conditional of poder + haber + participle says what might have happened but did not: the line fits him so well that it seems written for him.",
+              "example" : "El Dhammapada, 423 versos breves atribuidos a Buda, tiene una línea que podría haberse escrito para él.",
+              "title" : "Podría haberse escrito: a guess about the past"
+            },
+            {
+              "body" : "In the passive, matar borrows the participle of morir: fueron muertas = were killed. After the comma the verb \"fueron\" is left out: ciento cincuenta mil, deportadas.",
+              "example" : "Según su propio relato, grabado en piedra, cien mil personas fueron muertas y ciento cincuenta mil, deportadas.",
+              "title" : "Passive with ser: fueron muertas"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Alrededor del año 261 antes de Cristo, el emperador indio Ashoka conquistó Kalinga, en la costa oriental. Según su propio relato, grabado en piedra, cien mil personas fueron muertas y ciento cincuenta mil, deportadas.",
+            "La misma inscripción deja constancia de su remordimiento. Habiendo vencido, Ashoka renunció a la conquista y se acercó a la enseñanza de Buda, cuyo primer precepto es no matar.",
+            "Sus edictos, tallados en rocas y pilares por todo el imperio, hablan de pozos cavados y árboles plantados junto a los caminos. Hablan también de atención sanitaria para personas y animales y de concordia entre los credos.",
+            "El Dhammapada, 423 versos breves atribuidos a Buda, tiene una línea que podría haberse escrito para él. En la traducción de Max Müller, de 1881, el verso 5 dice: «Pues el odio nunca cesa con el odio: el odio cesa con el amor, esta es una regla antigua».",
+            "El verso no prohíbe la ira; constata que el odio alimentado con odio crece, y que no puede alimentarse de su contrario."
+          ]
+        }
+      ],
+      "summary" : "Alrededor del año 261 antes de Cristo, un rey indio ganó una guerra, contó los muertos y se detuvo, y una línea de un libro budista muy antiguo dice lo que había comprendido.",
+      "title" : "Una regla antigua",
+      "translationGroup" : "an-old-rule"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-08",
+      "id" : "an-old-rule-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 261 a.C.: \"è\", \"vince\", \"scava\". A year takes the article in Italian: \"il 261\".",
+              "example" : "È circa il 261 a.C. in India.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "Italian puts \"non\" before the verb and \"più\" after it: \"non vuole più la guerra\" = he wants no more war. Both words are needed.",
+              "example" : "Non vuole più la guerra.",
+              "title" : "Non … più: no more, no longer"
+            },
+            {
+              "body" : "Dispiacere works like piacere: the person who feels it is an indirect object (gli = to him) and the verb stays in the third person. \"Mi dispiace\" = I am sorry.",
+              "example" : "Gli dispiace molto.",
+              "title" : "Gli dispiace: he is sorry"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È circa il 261 a.C. in India. Ashoka è un re. Vince una grande guerra. Muoiono molte persone.",
+            "Ashoka non è felice. Gli dispiace molto. Non vuole più la guerra.",
+            "Ora scava pozzi e pianta alberi lungo le strade. Ci sono medicine per le persone e per gli animali.",
+            "L'odio non ferma l'odio. L'amore ferma l'odio. Un antico libro buddista, il Dhammapada, dice: «l'odio cessa con l'amore». Il libro dice che questa è «una regola antica»."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs take avere and a fixed participle: \"ha vinto\", \"ha scavato\". Verbs like morire take essere, and the participle agrees with the subject: \"sono morte centomila persone\" (feminine plural).",
+              "example" : "Secondo i suoi conti, sono morte centomila persone.",
+              "title" : "Passato prossimo: avere or essere"
+            },
+            {
+              "body" : "\"Ha fatto incidere le regole\": he did not cut them himself, others did it for him. Italian uses fare + infinitive, and the thing comes after the infinitive.",
+              "example" : "Ha fatto incidere le sue nuove regole sulle rocce.",
+              "title" : "Fare + infinitive: have something done"
+            },
+            {
+              "body" : "After a verb like potere the object pronoun can join the end of the infinitive, which drops its final -e: \"può fermarlo\" = \"lo può fermare\", can stop it.",
+              "example" : "Significa che l'odio crea solo altro odio, e qualcosa di gentile può fermarlo.",
+              "title" : "A pronoun joined to the infinitive: fermarlo"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Intorno al 261 a.C. Ashoka, un re in India, ha vinto una guerra sulle coste orientali. Secondo i suoi conti, sono morte centomila persone.",
+            "Non si è sentito un vincitore. Ha scritto che era profondamente dispiaciuto e ha smesso di fare la guerra.",
+            "Poi ha lavorato per il suo popolo. Ha scavato pozzi e ha piantato alberi lungo le strade. Ha portato medicine per le persone e per gli animali. Ha fatto incidere le sue nuove regole sulle rocce.",
+            "Il Dhammapada è un antico libro buddista. Dice che «l'odio cessa con l'amore, questa è una regola antica».",
+            "Non significa che non devi mai arrabbiarti. Significa che l'odio crea solo altro odio, e qualcosa di gentile può fermarlo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is essere + past participle; in the passato prossimo that gives \"sono state\" + participle, and both participles agree with the subject (le persone: state uccise, state portate via).",
+              "example" : "Secondo la sua stessa iscrizione, centomila persone sono state uccise e ancora di più sono state portate via.",
+              "title" : "Passive in the passato prossimo: sono state uccise"
+            },
+            {
+              "body" : "Before a noun \"stesso\" means \"same\": \"la stessa iscrizione\". After a possessive it means \"own\": \"la sua stessa iscrizione\" = his own inscription.",
+              "example" : "La stessa iscrizione dice che ha sentito un profondo rimorso.",
+              "title" : "Stesso: the same, or his own"
+            },
+            {
+              "body" : "Here \"mentre\" does not mean \"during\": it sets two facts against each other, like \"whereas\".",
+              "example" : "Significa che l'odio ricambiato con l'odio cresce soltanto, mentre la gentilezza non gli dà niente per vivere.",
+              "title" : "Mentre for a contrast"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Intorno al 261 a.C. il re indiano Ashoka ha conquistato Kalinga, sulle coste orientali. Secondo la sua stessa iscrizione, centomila persone sono state uccise e ancora di più sono state portate via.",
+            "La stessa iscrizione dice che ha sentito un profondo rimorso. Ha rinunciato alla guerra e si è rivolto all'insegnamento del Buddha.",
+            "Ha fatto incidere nuove regole su rocce e pilastri in tutto il suo impero. Parlano di pozzi e di alberi da ombra lungo le strade. Parlano anche di medicine per persone e animali e di pace tra le religioni.",
+            "Il Dhammapada, un libro di 423 versi buddisti, contiene una frase che si adatta bene a lui. Il verso 5 dice: «Infatti l'odio non cessa mai con l'odio: l'odio cessa con l'amore, questa è una regola antica.»",
+            "Non vieta la rabbia. Significa che l'odio ricambiato con l'odio cresce soltanto, mentre la gentilezza non gli dà niente per vivere."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Avendo vinto\" means \"after he had won\": the gerund of avere + past participle puts the earlier action first, in a compact, formal way. Its subject is the subject of the main clause.",
+              "example" : "Avendo vinto, Ashoka rinunciò alla conquista e si rivolse all'insegnamento del Buddha, il cui primo precetto è non uccidere.",
+              "title" : "Gerundio passato: avendo vinto"
+            },
+            {
+              "body" : "\"Una frase che si direbbe scritta per lui\" = a line one would say was written for him. The impersonal si with the conditional marks an impression, not a fact.",
+              "example" : "Il Dhammapada, 423 brevi versi attribuiti al Buddha, contiene una frase che si direbbe scritta per lui.",
+              "title" : "Si direbbe: an impression in the conditional"
+            },
+            {
+              "body" : "In narration the passive is often built with venire instead of essere: \"vennero uccise\" = \"furono uccise\", were killed. The second participle, \"deportate\", shares the auxiliary, so it is not repeated.",
+              "example" : "Secondo il suo stesso resoconto, scolpito nella pietra, centomila persone vennero uccise e centocinquantamila deportate.",
+              "title" : "Venire as the passive auxiliary: vennero uccise"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Intorno al 261 a.C. l'imperatore indiano Ashoka conquistò Kalinga, sulle coste orientali. Secondo il suo stesso resoconto, scolpito nella pietra, centomila persone vennero uccise e centocinquantamila deportate.",
+            "La stessa iscrizione registra il suo rimorso. Avendo vinto, Ashoka rinunciò alla conquista e si rivolse all'insegnamento del Buddha, il cui primo precetto è non uccidere.",
+            "I suoi editti, incisi su rocce e pilastri in tutto l'impero, parlano di pozzi scavati e di alberi piantati lungo le strade. Parlano anche di cure mediche per persone e animali e di concordia tra le fedi.",
+            "Il Dhammapada, 423 brevi versi attribuiti al Buddha, contiene una frase che si direbbe scritta per lui. Nella traduzione di Max Müller del 1881, il verso 5 dice: «Infatti l'odio non cessa mai con l'odio: l'odio cessa con l'amore, questa è una regola antica.»",
+            "Il verso non vieta la rabbia; osserva che l'odio nutrito di odio cresce, e che non può nutrirsi del proprio contrario."
+          ]
+        }
+      ],
+      "summary" : "Intorno al 261 a.C. un re indiano ha vinto una guerra, ha contato i morti e si è fermato, e una frase di un libro buddista molto antico dice che cosa aveva capito.",
+      "title" : "Una regola antica",
+      "translationGroup" : "an-old-rule"
     }
   ]
 }
