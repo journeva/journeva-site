@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 7,
-  "generatedAt" : "2026-10-06",
+  "contentVersion" : 8,
+  "generatedAt" : "2026-10-07",
   "glossary" : {
     "english" : [
       {
@@ -8044,6 +8044,7 @@
       },
       {
         "forms" : [
+          "suspected",
           "suspecting"
         ],
         "note" : "The -ing form of \"suspect.\"",
@@ -22099,6 +22100,350 @@
         "note" : "The plural is yo-yos.",
         "pos" : "noun",
         "translation" : "a toy that goes up and down on a string"
+      },
+      {
+        "forms" : [
+          "1928"
+        ],
+        "note" : "The year Lucy Wills arrived in Bombay; said \"nineteen twenty-eight\".",
+        "pos" : "number",
+        "translation" : "1928"
+      },
+      {
+        "forms" : [
+          "1931"
+        ],
+        "note" : "The year she published what she had found.",
+        "pos" : "number",
+        "translation" : "1931"
+      },
+      {
+        "forms" : [
+          "1941"
+        ],
+        "note" : "The year the vitamin was found in spinach and named folic acid.",
+        "pos" : "number",
+        "translation" : "1941"
+      },
+      {
+        "forms" : [
+          "400"
+        ],
+        "note" : "400 micrograms is the usual daily amount of folic acid.",
+        "pos" : "number",
+        "translation" : "four hundred"
+      },
+      {
+        "forms" : [
+          "acid"
+        ],
+        "note" : "Folic acid is the name of a vitamin; many acids taste sour, like the one in lemons.",
+        "pos" : "noun",
+        "translation" : "a kind of chemical substance"
+      },
+      {
+        "forms" : [
+          "anaemia"
+        ],
+        "note" : "People with anaemia are pale and tired. American spelling: anemia.",
+        "pos" : "noun",
+        "translation" : "an illness in which the blood is too weak to carry enough oxygen"
+      },
+      {
+        "forms" : [
+          "anaemic"
+        ],
+        "note" : "The adjective of anaemia: an anaemic person is pale and tired.",
+        "pos" : "adjective",
+        "translation" : "ill with anaemia"
+      },
+      {
+        "forms" : [
+          "bifida"
+        ],
+        "note" : "Spina bifida is a problem of the spine that begins before a baby is born. The words are Latin.",
+        "pos" : "noun",
+        "translation" : "bifida (in \"spina bifida\")"
+      },
+      {
+        "forms" : [
+          "bombay"
+        ],
+        "note" : "A big city in India; its name today is Mumbai.",
+        "pos" : "noun",
+        "translation" : "Bombay"
+      },
+      {
+        "forms" : [
+          "conception"
+        ],
+        "note" : "A formal word: \"before conception\" = before a woman becomes pregnant.",
+        "pos" : "noun",
+        "translation" : "the moment a pregnancy begins"
+      },
+      {
+        "forms" : [
+          "cured"
+        ],
+        "note" : "Past tense of cure: a medicine cures an illness or a person.",
+        "pos" : "verb",
+        "translation" : "made healthy again"
+      },
+      {
+        "forms" : [
+          "decides"
+        ],
+        "note" : "He/she/it form of decide.",
+        "pos" : "verb",
+        "translation" : "makes a choice"
+      },
+      {
+        "forms" : [
+          "defects"
+        ],
+        "note" : "Plural of defect. A formal word, used by doctors for a problem a baby is born with.",
+        "pos" : "noun",
+        "translation" : "things that have not formed correctly"
+      },
+      {
+        "forms" : [
+          "deficient"
+        ],
+        "note" : "A deficient diet does not give the body what it needs.",
+        "pos" : "adjective",
+        "translation" : "not having enough of something needed"
+      },
+      {
+        "forms" : [
+          "diet"
+        ],
+        "note" : "\"A poor diet\" = food that does not keep you healthy. Diet can also mean eating less to lose weight.",
+        "pos" : "noun",
+        "translation" : "the food a person usually eats"
+      },
+      {
+        "forms" : [
+          "dose"
+        ],
+        "note" : "\"A higher dose\" = a larger amount.",
+        "pos" : "noun",
+        "translation" : "the amount of a medicine or vitamin to take"
+      },
+      {
+        "forms" : [
+          "factories"
+        ],
+        "note" : "Plural of factory.",
+        "pos" : "noun",
+        "translation" : "buildings where things are made by machines"
+      },
+      {
+        "forms" : [
+          "folic"
+        ],
+        "note" : "Folic acid is vitamin B9. The name comes from the Latin word for leaf.",
+        "pos" : "adjective",
+        "translation" : "folic (in \"folic acid\")"
+      },
+      {
+        "forms" : [
+          "higher"
+        ],
+        "note" : "The comparative of high: high, higher, highest.",
+        "pos" : "adjective",
+        "translation" : "more than before; further up"
+      },
+      {
+        "forms" : [
+          "investigate"
+        ],
+        "note" : "More formal than \"study\" or \"look into\".",
+        "pos" : "verb",
+        "translation" : "to study something carefully to find the facts"
+      },
+      {
+        "forms" : [
+          "isolated"
+        ],
+        "note" : "In science, to isolate a substance is to get it pure, apart from the things it is found in.",
+        "pos" : "verb",
+        "translation" : "separated from everything else"
+      },
+      {
+        "forms" : [
+          "latin"
+        ],
+        "note" : "Many names in science and medicine come from Latin.",
+        "pos" : "noun",
+        "translation" : "the language of ancient Rome"
+      },
+      {
+        "forms" : [
+          "leaf"
+        ],
+        "note" : "The plural is irregular: one leaf, two leaves.",
+        "pos" : "noun",
+        "translation" : "a flat green part of a plant"
+      },
+      {
+        "forms" : [
+          "lucy"
+        ],
+        "note" : "An English first name: Lucy Wills, the doctor of this story.",
+        "pos" : "noun",
+        "translation" : "Lucy"
+      },
+      {
+        "forms" : [
+          "micrograms"
+        ],
+        "note" : "A microgram is a millionth of a gram. Vitamins are measured in micrograms.",
+        "pos" : "noun",
+        "translation" : "very small units of weight"
+      },
+      {
+        "forms" : [
+          "neural"
+        ],
+        "note" : "The neural tube is the part of an unborn baby that becomes the brain and the spine.",
+        "pos" : "adjective",
+        "translation" : "of the nerves"
+      },
+      {
+        "forms" : [
+          "pale"
+        ],
+        "note" : "People are often pale when they are ill or very tired.",
+        "pos" : "adjective",
+        "translation" : "with little colour in the face"
+      },
+      {
+        "forms" : [
+          "patients"
+        ],
+        "note" : "Plural of the noun patient. The adjective patient (able to wait calmly) is a different word.",
+        "pos" : "noun",
+        "translation" : "people who are cared for by a doctor or nurse"
+      },
+      {
+        "forms" : [
+          "pregnancy"
+        ],
+        "note" : "The noun of pregnant. A pregnancy lasts about forty weeks.",
+        "pos" : "noun",
+        "translation" : "the months when a baby grows inside its mother"
+      },
+      {
+        "forms" : [
+          "pregnant"
+        ],
+        "note" : "\"She is pregnant\" = a baby is growing inside her.",
+        "pos" : "adjective",
+        "translation" : "expecting a baby"
+      },
+      {
+        "forms" : [
+          "rats"
+        ],
+        "note" : "Plural of rat. Scientists often study rats.",
+        "pos" : "noun",
+        "translation" : "animals like large mice"
+      },
+      {
+        "forms" : [
+          "severe"
+        ],
+        "note" : "Used for illness, pain and weather: a severe anaemia, a severe storm.",
+        "pos" : "adjective",
+        "translation" : "very bad, very serious"
+      },
+      {
+        "forms" : [
+          "spina"
+        ],
+        "note" : "Latin for spine. Spina bifida is a problem of the spine that begins before birth.",
+        "pos" : "noun",
+        "translation" : "spina (in \"spina bifida\")"
+      },
+      {
+        "forms" : [
+          "spinach"
+        ],
+        "note" : "Spinach contains folate, the natural form of folic acid.",
+        "pos" : "noun",
+        "translation" : "a vegetable with dark green leaves"
+      },
+      {
+        "forms" : [
+          "spine"
+        ],
+        "note" : "The spine holds the body up and protects the nerves inside it.",
+        "pos" : "noun",
+        "translation" : "the line of bones down the middle of the back"
+      },
+      {
+        "forms" : [
+          "substance"
+        ],
+        "note" : "A general word for something a thing is made of or contains.",
+        "pos" : "noun",
+        "translation" : "a material; a kind of matter"
+      },
+      {
+        "forms" : [
+          "textile"
+        ],
+        "note" : "A textile factory makes cloth. Textile workers work there.",
+        "pos" : "adjective",
+        "translation" : "cloth; of the making of cloth"
+      },
+      {
+        "forms" : [
+          "tube"
+        ],
+        "note" : "The neural tube is a tiny tube in an unborn baby that becomes the brain and spine.",
+        "pos" : "noun",
+        "translation" : "a long hollow shape, like a pipe"
+      },
+      {
+        "forms" : [
+          "twelfth"
+        ],
+        "note" : "The ordinal of twelve: \"the twelfth week\" = week 12.",
+        "pos" : "number",
+        "translation" : "number 12 in order"
+      },
+      {
+        "forms" : [
+          "unknown"
+        ],
+        "note" : "un- (not) + known.",
+        "pos" : "adjective",
+        "translation" : "not known"
+      },
+      {
+        "forms" : [
+          "vitamin"
+        ],
+        "note" : "The plural is vitamins. Folic acid is a vitamin.",
+        "pos" : "noun",
+        "translation" : "a substance in food that the body needs in small amounts"
+      },
+      {
+        "forms" : [
+          "ward"
+        ],
+        "note" : "\"On the ward\" = in that part of the hospital.",
+        "pos" : "noun",
+        "translation" : "a room in a hospital with beds for patients"
+      },
+      {
+        "forms" : [
+          "wills"
+        ],
+        "note" : "An English family name: Lucy Wills. \"The Wills factor\" was named after her.",
+        "pos" : "noun",
+        "translation" : "Wills"
       }
     ],
     "french" : [
@@ -24541,7 +24886,8 @@
       {
         "forms" : [
           "fatigué",
-          "fatiguée"
+          "fatiguée",
+          "fatiguées"
         ],
         "note" : "\"Fatigué\" (masc.) / \"fatiguée\" (fem.).",
         "pos" : "adjective",
@@ -26417,6 +26763,7 @@
       },
       {
         "forms" : [
+          "publia",
           "publié"
         ],
         "note" : "Past participle of publier.",
@@ -28002,6 +28349,7 @@
       },
       {
         "forms" : [
+          "arriva",
           "arrive",
           "arrivent",
           "arriver",
@@ -32294,7 +32642,8 @@
       },
       {
         "forms" : [
-          "épuisée"
+          "épuisée",
+          "épuisées"
         ],
         "gender" : "feminine",
         "note" : "Feminine past participle of épuiser.",
@@ -34477,6 +34826,7 @@
       {
         "forms" : [
           "continuer",
+          "continuez",
           "continué"
         ],
         "note" : "Continué is the past participle.",
@@ -35052,6 +35402,7 @@
       },
       {
         "forms" : [
+          "décide",
           "décident",
           "décider"
         ],
@@ -35435,7 +35786,8 @@
       },
       {
         "forms" : [
-          "feuille"
+          "feuille",
+          "feuilles"
         ],
         "gender" : "feminine",
         "note" : "\"Une feuille d'algue\" = a sheet of seaweed.",
@@ -38911,7 +39263,8 @@
       {
         "forms" : [
           "allé",
-          "allée"
+          "allée",
+          "allées"
         ],
         "note" : "Past participle of \"aller,\" agrees with gender.",
         "pos" : "verb",
@@ -42753,7 +43106,8 @@
       {
         "forms" : [
           "tomber",
-          "tombée"
+          "tombée",
+          "tombés"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -52018,6 +52372,491 @@
         "note" : "The third month; months take no capital letter, and the final -s is pronounced: « le 11 mars ».",
         "pos" : "noun",
         "translation" : "March"
+      },
+      {
+        "forms" : [
+          "1928"
+        ],
+        "note" : "The year the story begins, when Lucy Wills is in Bombay; « nous sommes en 1928 » = it is 1928.",
+        "pos" : "number",
+        "translation" : "1928"
+      },
+      {
+        "forms" : [
+          "bombay"
+        ],
+        "note" : "The city in India where Lucy Wills worked in 1928; « à Bombay » = in Bombay, with « à » before a city.",
+        "pos" : "noun",
+        "translation" : "Bombay"
+      },
+      {
+        "forms" : [
+          "lucy"
+        ],
+        "note" : "The first name of Lucy Wills, the English doctor of this story.",
+        "pos" : "noun",
+        "translation" : "Lucy"
+      },
+      {
+        "forms" : [
+          "wills"
+        ],
+        "note" : "The family name of Lucy Wills; « le facteur de Wills » = the Wills factor, the first name given to folic acid.",
+        "pos" : "noun",
+        "translation" : "Wills"
+      },
+      {
+        "forms" : [
+          "enceinte",
+          "enceintes"
+        ],
+        "note" : "Said of a woman who is expecting a baby: « une femme enceinte », plural « des femmes enceintes ».",
+        "pos" : "adjective",
+        "translation" : "pregnant"
+      },
+      {
+        "forms" : [
+          "pâles"
+        ],
+        "note" : "Plural of « pâle », with little colour in the face; the same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "pale (plural)"
+      },
+      {
+        "forms" : [
+          "usine"
+        ],
+        "gender" : "feminine",
+        "note" : "A place where workers make things with machines; « travailler en usine » = to work in a factory.",
+        "pos" : "noun",
+        "translation" : "factory"
+      },
+      {
+        "forms" : [
+          "mangent-elles"
+        ],
+        "note" : "Question form of « elles mangent » (manger, to eat): verb, hyphen, pronoun; « que mangent-elles ? » = what do they eat?",
+        "pos" : "verb",
+        "translation" : "do they eat"
+      },
+      {
+        "forms" : [
+          "tartiner"
+        ],
+        "note" : "« À tartiner » after a food means made for spreading: « de la levure à tartiner » = yeast spread, like « du fromage à tartiner ».",
+        "pos" : "verb",
+        "translation" : "to spread (on bread)"
+      },
+      {
+        "forms" : [
+          "vitamine"
+        ],
+        "gender" : "feminine",
+        "note" : "A substance in food that the body needs in small amounts; feminine in French: « la vitamine ».",
+        "pos" : "noun",
+        "translation" : "vitamin"
+      },
+      {
+        "forms" : [
+          "acide",
+          "d'acide",
+          "l'acide"
+        ],
+        "gender" : "masculine",
+        "note" : "« L'acide folique » = folic acid; « l'acide » is le + acide and « d'acide » is de + acide, both shortened before the vowel.",
+        "pos" : "noun",
+        "translation" : "acid"
+      },
+      {
+        "forms" : [
+          "folique"
+        ],
+        "note" : "Used in « l'acide folique » = folic acid, the vitamin of this story; the same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "folic"
+      },
+      {
+        "forms" : [
+          "demandez"
+        ],
+        "note" : "Imperative of demander for « vous »; the person you ask takes « à »: « demandez à votre médecin » = ask your doctor.",
+        "pos" : "verb",
+        "translation" : "ask (polite command)"
+      },
+      {
+        "forms" : [
+          "1931"
+        ],
+        "note" : "The year Lucy Wills wrote down and published what she had found.",
+        "pos" : "number",
+        "translation" : "1931"
+      },
+      {
+        "forms" : [
+          "400"
+        ],
+        "note" : "Read « quatre cents »; « 400 microgrammes d'acide folique » is the daily amount in the advice.",
+        "pos" : "number",
+        "translation" : "400, four hundred"
+      },
+      {
+        "forms" : [
+          "ouvrières"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une ouvrière », a woman who works with her hands in a factory; the masculine is « un ouvrier ».",
+        "pos" : "noun",
+        "translation" : "workers (women)"
+      },
+      {
+        "forms" : [
+          "textile"
+        ],
+        "gender" : "masculine",
+        "note" : "As a noun « le textile » is the whole cloth industry: « les ouvrières du textile » = the women who work in the textile factories.",
+        "pos" : "noun",
+        "translation" : "textile, the textile industry"
+      },
+      {
+        "forms" : [
+          "rats"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un rat »; the final -t and -s are silent.",
+        "pos" : "noun",
+        "translation" : "rats"
+      },
+      {
+        "forms" : [
+          "animaux"
+        ],
+        "gender" : "masculine",
+        "note" : "Irregular plural of « un animal »: nouns in -al usually take -aux.",
+        "pos" : "noun",
+        "translation" : "animals"
+      },
+      {
+        "forms" : [
+          "microgrammes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un microgramme », one millionth of a gram: « 400 microgrammes d'acide folique » = 400 micrograms of folic acid.",
+        "pos" : "noun",
+        "translation" : "micrograms"
+      },
+      {
+        "forms" : [
+          "réduit"
+        ],
+        "note" : "Present of réduire, third person singular: « cela réduit le risque » = it lowers the risk; it makes the risk smaller, it does not remove it.",
+        "pos" : "verb",
+        "translation" : "reduces, lowers"
+      },
+      {
+        "forms" : [
+          "risque"
+        ],
+        "gender" : "masculine",
+        "note" : "The chance that something bad happens; « le risque de problèmes » = the risk of problems.",
+        "pos" : "noun",
+        "translation" : "risk"
+      },
+      {
+        "forms" : [
+          "colonne"
+        ],
+        "gender" : "feminine",
+        "note" : "« La colonne vertébrale » = the spine, the column of bones in the back.",
+        "pos" : "noun",
+        "translation" : "column"
+      },
+      {
+        "forms" : [
+          "vertébrale"
+        ],
+        "note" : "Feminine of « vertébral »; used in « la colonne vertébrale » = the spine, the backbone.",
+        "pos" : "adjective",
+        "translation" : "of the spine, vertebral"
+      },
+      {
+        "forms" : [
+          "1941"
+        ],
+        "note" : "The year the substance was found in spinach and named folic acid; « jusqu'en 1941 » = until 1941.",
+        "pos" : "number",
+        "translation" : "1941"
+      },
+      {
+        "forms" : [
+          "anémie"
+        ],
+        "gender" : "feminine",
+        "note" : "The illness of this story, which left the women pale and exhausted; feminine: « une anémie dangereuse ».",
+        "pos" : "noun",
+        "translation" : "anaemia"
+      },
+      {
+        "forms" : [
+          "soupçonnait",
+          "soupçonnant"
+        ],
+        "note" : "Forms of soupçonner, to think that something is the cause: « soupçonnait » is the imparfait (she suspected), « soupçonnant » the present participle (suspecting).",
+        "pos" : "verb",
+        "translation" : "suspected; suspecting"
+      },
+      {
+        "forms" : [
+          "anémiques"
+        ],
+        "note" : "Plural of « anémique », ill with anaemia: « ils sont devenus anémiques » = they became anaemic.",
+        "pos" : "adjective",
+        "translation" : "anaemic (plural)"
+      },
+      {
+        "forms" : [
+          "guéri"
+        ],
+        "note" : "Past participle of guérir: « a guéri les femmes » = cured the women; without an object, guérir means to get well.",
+        "pos" : "verb",
+        "translation" : "cured, healed"
+      },
+      {
+        "forms" : [
+          "service"
+        ],
+        "gender" : "masculine",
+        "note" : "In a hospital « un service » is a ward or department: « les femmes de son service » = the women on her ward.",
+        "pos" : "noun",
+        "translation" : "ward, department (of a hospital)"
+      },
+      {
+        "forms" : [
+          "substance"
+        ],
+        "gender" : "feminine",
+        "note" : "A kind of matter; here the unknown thing in the yeast that made the women well.",
+        "pos" : "noun",
+        "translation" : "substance"
+      },
+      {
+        "forms" : [
+          "d'épinard",
+          "l'épinard"
+        ],
+        "gender" : "masculine",
+        "note" : "A green leaf vegetable; « l'épinard » is le + épinard and « d'épinard » is de + épinard, shortened before the vowel: « les feuilles d'épinard » = spinach leaves.",
+        "pos" : "noun",
+        "translation" : "spinach"
+      },
+      {
+        "forms" : [
+          "conseille"
+        ],
+        "note" : "Present of conseiller: « on conseille 400 microgrammes » = the advice is 400 micrograms; « on » avoids saying who gives it.",
+        "pos" : "verb",
+        "translation" : "advises, recommends"
+      },
+      {
+        "forms" : [
+          "grossesse"
+        ],
+        "gender" : "feminine",
+        "note" : "The months when a woman is pregnant (enceinte); « avant la grossesse » = before pregnancy.",
+        "pos" : "noun",
+        "translation" : "pregnancy"
+      },
+      {
+        "forms" : [
+          "douzième"
+        ],
+        "note" : "Ordinal number: douze loses its -e and takes -ième; « la douzième semaine » = the twelfth week.",
+        "pos" : "adjective",
+        "translation" : "twelfth"
+      },
+      {
+        "forms" : [
+          "malformations"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une malformation », a part of the body that did not form in the usual way before birth.",
+        "pos" : "noun",
+        "translation" : "malformations, defects"
+      },
+      {
+        "forms" : [
+          "forment"
+        ],
+        "note" : "Present of former, « ils/elles » form; with « se » it means to take shape: « celles-ci se forment » = these form.",
+        "pos" : "verb",
+        "translation" : "form"
+      },
+      {
+        "forms" : [
+          "sache"
+        ],
+        "note" : "Subjunctive of savoir, required after « avant que »: « avant qu'une femme sache » = before a woman knows; « se sache enceinte » = knows that she is pregnant.",
+        "pos" : "verb",
+        "translation" : "knows (subjunctive)"
+      },
+      {
+        "forms" : [
+          "enquêter"
+        ],
+        "note" : "« Enquêter sur » + noun = to investigate something, to look for its cause; from « une enquête », an investigation.",
+        "pos" : "verb",
+        "translation" : "to investigate"
+      },
+      {
+        "forms" : [
+          "sévère"
+        ],
+        "note" : "Of an illness: strong and serious; the same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "severe"
+      },
+      {
+        "forms" : [
+          "patientes"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une patiente », a woman cared for by a doctor; the masculine is « un patient ».",
+        "pos" : "noun",
+        "translation" : "patients (women)"
+      },
+      {
+        "forms" : [
+          "constata-t-elle"
+        ],
+        "note" : "Passé simple of constater with the subject after the verb, as in a remark inserted into a sentence; -t- is added between the two vowels.",
+        "pos" : "verb",
+        "translation" : "she found, she noted"
+      },
+      {
+        "forms" : [
+          "carencée"
+        ],
+        "note" : "From « une carence », a lack of something the body needs: « une alimentation carencée » = a diet that lacks something.",
+        "pos" : "adjective",
+        "translation" : "deficient (feminine)"
+      },
+      {
+        "forms" : [
+          "régime"
+        ],
+        "gender" : "masculine",
+        "note" : "What a person or an animal regularly eats; « le même régime » = the same diet.",
+        "pos" : "noun",
+        "translation" : "diet"
+      },
+      {
+        "forms" : [
+          "protégea"
+        ],
+        "note" : "Passé simple of protéger, third person singular; the -e- after g keeps the soft sound before -a.",
+        "pos" : "verb",
+        "translation" : "protected"
+      },
+      {
+        "forms" : [
+          "coûteuse"
+        ],
+        "note" : "Feminine of « coûteux »; « peu coûteuse » = not costly, cheap.",
+        "pos" : "adjective",
+        "translation" : "costly, expensive (feminine)"
+      },
+      {
+        "forms" : [
+          "qu'était"
+        ],
+        "note" : "Que + était, shortened before the vowel; after « ce que » the verb may come before its subject: « ce qu'était cette substance » = what this substance was.",
+        "pos" : "other",
+        "translation" : "what … was"
+      },
+      {
+        "forms" : [
+          "isolée"
+        ],
+        "note" : "Past participle of isoler, to separate a substance from everything around it; « elle fut isolée » is a passive, agreeing with « substance ».",
+        "pos" : "verb",
+        "translation" : "isolated (feminine)"
+      },
+      {
+        "forms" : [
+          "latin"
+        ],
+        "note" : "Of Latin, the old language many scientific names come from; no capital letter in French: « le nom latin de la feuille » = the Latin name for leaf.",
+        "pos" : "adjective",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "découverte"
+        ],
+        "gender" : "feminine",
+        "note" : "From découvrir (to discover): « sa découverte » = her finding, what she found.",
+        "pos" : "noun",
+        "translation" : "discovery, finding"
+      },
+      {
+        "forms" : [
+          "conception"
+        ],
+        "gender" : "feminine",
+        "note" : "The very beginning of a pregnancy; « dès avant la conception » = from before conception.",
+        "pos" : "noun",
+        "translation" : "conception"
+      },
+      {
+        "forms" : [
+          "tube"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le tube neural » = the neural tube; the story says it closes within four weeks.",
+        "pos" : "noun",
+        "translation" : "tube"
+      },
+      {
+        "forms" : [
+          "neural"
+        ],
+        "note" : "Of the nerves; used here in « le tube neural » = the neural tube.",
+        "pos" : "adjective",
+        "translation" : "neural"
+      },
+      {
+        "forms" : [
+          "telles"
+        ],
+        "note" : "« Telles que » = such as; « tel » agrees with the noun before it, here « malformations ».",
+        "pos" : "adjective",
+        "translation" : "such (feminine plural)"
+      },
+      {
+        "forms" : [
+          "bifida",
+          "spina"
+        ],
+        "gender" : "masculine",
+        "note" : "A two-word medical name taken from Latin, the same as in English; the story gives it as an example of a neural tube defect: « le spina bifida ».",
+        "pos" : "noun",
+        "translation" : "spina bifida"
+      },
+      {
+        "forms" : [
+          "dose"
+        ],
+        "gender" : "feminine",
+        "note" : "The amount of a medicine or a vitamin to take; « une dose plus élevée » = a higher dose.",
+        "pos" : "noun",
+        "translation" : "dose"
+      },
+      {
+        "forms" : [
+          "élevée"
+        ],
+        "note" : "Feminine of « élevé »; « plus élevée » = higher.",
+        "pos" : "adjective",
+        "translation" : "high (feminine)"
       }
     ],
     "german" : [
@@ -56732,7 +57571,8 @@
       },
       {
         "forms" : [
-          "untersuchen"
+          "untersuchen",
+          "untersucht"
         ],
         "note" : "Infinitive of untersuchen.",
         "pos" : "verb",
@@ -58445,6 +59285,7 @@
       },
       {
         "forms" : [
+          "entstehen",
           "entsteht"
         ],
         "note" : "Present tense of entstehen.",
@@ -64247,6 +65088,7 @@
       {
         "forms" : [
           "entscheiden",
+          "entscheidet",
           "entscheidung"
         ],
         "note" : "Entscheidung is the noun form.",
@@ -70158,7 +71000,8 @@
       {
         "forms" : [
           "heilen",
-          "heilt"
+          "heilt",
+          "heilte"
         ],
         "note" : "Forms of \"heilen.\"",
         "pos" : "verb",
@@ -70268,7 +71111,8 @@
       },
       {
         "forms" : [
-          "höher"
+          "höher",
+          "höhere"
         ],
         "note" : "Comparative of \"hoch.\"",
         "pos" : "adjective",
@@ -71451,7 +72295,8 @@
       },
       {
         "forms" : [
-          "schützt"
+          "schützt",
+          "schützte"
         ],
         "note" : "From \"schützen.\"",
         "pos" : "verb",
@@ -74829,7 +75674,8 @@
       },
       {
         "forms" : [
-          "patientin"
+          "patientin",
+          "patientinnen"
         ],
         "gender" : "feminine",
         "note" : "Ruth, at the doctor's office.",
@@ -82270,6 +83116,423 @@
         "note" : "Partizip II of patentieren; verbs in -ieren form it without ge-: „wurde patentiert“ = was patented.",
         "pos" : "verb",
         "translation" : "patented"
+      },
+      {
+        "forms" : [
+          "1928"
+        ],
+        "note" : "The year Lucy Wills came to Bombay (neunzehnhundertachtundzwanzig); A1 tells the story in the present: „Es ist 1928“.",
+        "pos" : "number",
+        "translation" : "1928"
+      },
+      {
+        "forms" : [
+          "bombay"
+        ],
+        "gender" : "neuter",
+        "note" : "The city in India where the story takes place, under the name it had in 1928; city names take no article: „in Bombay“.",
+        "pos" : "noun",
+        "translation" : "Bombay"
+      },
+      {
+        "forms" : [
+          "lucy"
+        ],
+        "gender" : "feminine",
+        "note" : "The first name of Lucy Wills, the doctor from England in this story.",
+        "pos" : "noun",
+        "translation" : "Lucy"
+      },
+      {
+        "forms" : [
+          "wills"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of Lucy Wills; B1 and B2 call her by it alone.",
+        "pos" : "noun",
+        "translation" : "Wills"
+      },
+      {
+        "forms" : [
+          "schwanger",
+          "schwangere",
+          "schwangeren"
+        ],
+        "note" : "Schwanger sein = to be pregnant; „schwangere Frauen“ = pregnant women. With a capital letter it is a noun: „bei Schwangeren“ = in pregnant women.",
+        "pos" : "adjective",
+        "translation" : "pregnant"
+      },
+      {
+        "forms" : [
+          "blass"
+        ],
+        "note" : "With little colour in the face: „blass und sehr müde“ = pale and very tired.",
+        "pos" : "adjective",
+        "translation" : "pale"
+      },
+      {
+        "forms" : [
+          "fabriken"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Fabrik (factory): „in Fabriken arbeiten“ = to work in factories.",
+        "pos" : "noun",
+        "translation" : "factories"
+      },
+      {
+        "forms" : [
+          "hefeaufstrich"
+        ],
+        "gender" : "masculine",
+        "note" : "Die Hefe (yeast) + der Aufstrich (something you spread on bread): der Hefeaufstrich.",
+        "pos" : "noun",
+        "translation" : "yeast spread"
+      },
+      {
+        "forms" : [
+          "vitamin"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Vitamin, plural die Vitamine; the stress is on the last syllable.",
+        "pos" : "noun",
+        "translation" : "vitamin"
+      },
+      {
+        "forms" : [
+          "folsäure"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Folsäure: the vitamin of this story; die Säure = acid. It takes no article after „nehmen“: „Nehmen Sie Folsäure“.",
+        "pos" : "noun",
+        "translation" : "folic acid"
+      },
+      {
+        "forms" : [
+          "textilfabriken"
+        ],
+        "gender" : "feminine",
+        "note" : "Textil- + die Fabriken: factories where cloth is made; singular die Textilfabrik.",
+        "pos" : "noun",
+        "translation" : "textile factories"
+      },
+      {
+        "forms" : [
+          "ratten"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Ratte (rat).",
+        "pos" : "noun",
+        "translation" : "rats"
+      },
+      {
+        "forms" : [
+          "billigen",
+          "billiger"
+        ],
+        "note" : "Forms of billig (cheap): „aus einem billigen Glas“ (dative), „billiger Hefeaufstrich“ (masculine, no article).",
+        "pos" : "adjective",
+        "translation" : "cheap"
+      },
+      {
+        "forms" : [
+          "1931"
+        ],
+        "note" : "The year Lucy Wills wrote about what she had found (neunzehnhunderteinunddreißig); a bare year can open the sentence: „1931 hat sie …“.",
+        "pos" : "number",
+        "translation" : "1931"
+      },
+      {
+        "forms" : [
+          "400"
+        ],
+        "note" : "Vierhundert: „400 Mikrogramm“ is read „vierhundert Mikrogramm“.",
+        "pos" : "number",
+        "translation" : "400"
+      },
+      {
+        "forms" : [
+          "mikrogramm"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Mikrogramm, one millionth of a gram; after a number the unit stays in the singular: „400 Mikrogramm“.",
+        "pos" : "noun",
+        "translation" : "microgram(s)"
+      },
+      {
+        "forms" : [
+          "schwangerschaft"
+        ],
+        "gender" : "feminine",
+        "note" : "Schwanger (pregnant) + -schaft: die Schwangerschaft; „vor der Schwangerschaft“ = before pregnancy.",
+        "pos" : "noun",
+        "translation" : "pregnancy"
+      },
+      {
+        "forms" : [
+          "risiko"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Risiko, plural die Risiken; „das Risiko für …“ = the risk of …, „das Risiko senken“ = to lower the risk.",
+        "pos" : "noun",
+        "translation" : "risk"
+      },
+      {
+        "forms" : [
+          "wirbelsäule"
+        ],
+        "gender" : "feminine",
+        "note" : "Der Wirbel (vertebra) + die Säule (column): die Wirbelsäule, the backbone.",
+        "pos" : "noun",
+        "translation" : "spine"
+      },
+      {
+        "forms" : [
+          "anämie"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Anämie: the medical word; everyday German also says „Blutarmut“.",
+        "pos" : "noun",
+        "translation" : "anaemia"
+      },
+      {
+        "forms" : [
+          "textilarbeiterinnen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Textilarbeiterin: Textil- + Arbeiterin; the ending -innen marks women.",
+        "pos" : "noun",
+        "translation" : "(female) textile workers"
+      },
+      {
+        "forms" : [
+          "verdacht"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Verdacht; „etwas im Verdacht haben“ = to suspect something: „Wills hatte das Essen im Verdacht“.",
+        "pos" : "noun",
+        "translation" : "suspicion"
+      },
+      {
+        "forms" : [
+          "fütterte"
+        ],
+        "note" : "Präteritum of füttern (to feed an animal); „mit … füttern“ = to feed on …",
+        "pos" : "verb",
+        "translation" : "fed"
+      },
+      {
+        "forms" : [
+          "anämisch"
+        ],
+        "note" : "Adjective of Anämie: „wurden anämisch“ = became anaemic.",
+        "pos" : "adjective",
+        "translation" : "anaemic"
+      },
+      {
+        "forms" : [
+          "krankenstation"
+        ],
+        "gender" : "feminine",
+        "note" : "Krank (ill) + die Station: the part of a hospital where patients stay; „auf ihrer Krankenstation“ = on her ward.",
+        "pos" : "noun",
+        "translation" : "(hospital) ward"
+      },
+      {
+        "forms" : [
+          "stoff"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Stoff: a substance or material („der unbekannte Stoff“); the same word also means cloth.",
+        "pos" : "noun",
+        "translation" : "substance"
+      },
+      {
+        "forms" : [
+          "wills-faktor"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Wills-Faktor: the name of the unknown substance until 1941; a personal name and a noun are joined with a hyphen.",
+        "pos" : "noun",
+        "translation" : "the Wills factor"
+      },
+      {
+        "forms" : [
+          "1941"
+        ],
+        "note" : "The year the substance was found in spinach and named folic acid (neunzehnhunderteinundvierzig).",
+        "pos" : "number",
+        "translation" : "1941"
+      },
+      {
+        "forms" : [
+          "spinatblättern"
+        ],
+        "gender" : "neuter",
+        "note" : "Der Spinat + die Blätter (leaves); the dative plural adds -n: „in Spinatblättern“.",
+        "pos" : "noun",
+        "translation" : "spinach leaves"
+      },
+      {
+        "forms" : [
+          "zwölften"
+        ],
+        "note" : "Ordinal of zwölf: „bis zur zwölften Woche“ = until the twelfth week.",
+        "pos" : "number",
+        "translation" : "twelfth"
+      },
+      {
+        "forms" : [
+          "fehlbildungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Fehlbildung: fehl- (wrong) + Bildung (formation), a part of the body that has not formed as it should.",
+        "pos" : "noun",
+        "translation" : "malformations, defects"
+      },
+      {
+        "forms" : [
+          "schweren"
+        ],
+        "note" : "Form of schwer; with an illness it means severe: „eine schwere Anämie“. Here it is dative, because nachgehen takes the dative.",
+        "pos" : "adjective",
+        "translation" : "severe, serious"
+      },
+      {
+        "forms" : [
+          "nachzugehen"
+        ],
+        "note" : "Nachgehen + dative (to look into something); in the infinitive with zu, the zu stands between particle and stem: nach-zu-gehen.",
+        "pos" : "verb",
+        "translation" : "to look into, to investigate"
+      },
+      {
+        "forms" : [
+          "ernährung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Ernährung, from sich ernähren (to feed oneself): everything a person eats.",
+        "pos" : "noun",
+        "translation" : "diet, nutrition"
+      },
+      {
+        "forms" : [
+          "feststellte"
+        ],
+        "note" : "Präteritum of feststellen (to find, to establish); in a subordinate clause the verb stays in one piece: „wie sie feststellte“ = as she found.",
+        "pos" : "verb",
+        "translation" : "found, established"
+      },
+      {
+        "forms" : [
+          "mangelhaft"
+        ],
+        "note" : "From der Mangel (lack): „mangelhaft“ means that something needed is missing.",
+        "pos" : "adjective",
+        "translation" : "deficient, inadequate"
+      },
+      {
+        "forms" : [
+          "kost"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kost: what a person or an animal is given to eat; more formal than Essen.",
+        "pos" : "noun",
+        "translation" : "diet, food"
+      },
+      {
+        "forms" : [
+          "spinat"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Spinat, a green leaf vegetable; „aus Spinat“ = from spinach.",
+        "pos" : "noun",
+        "translation" : "spinach"
+      },
+      {
+        "forms" : [
+          "isoliert"
+        ],
+        "note" : "Partizip II of isolieren; verbs in -ieren form it without ge-: „wurde isoliert“ = was isolated.",
+        "pos" : "verb",
+        "translation" : "isolated"
+      },
+      {
+        "forms" : [
+          "lateinischen"
+        ],
+        "note" : "Form of lateinisch, the adjective of Latein: „nach dem lateinischen Wort für Blatt“ = after the Latin word for leaf.",
+        "pos" : "adjective",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "entdeckung"
+        ],
+        "gender" : "feminine",
+        "note" : "From entdecken (to discover) + -ung: die Entdeckung.",
+        "pos" : "noun",
+        "translation" : "discovery, finding"
+      },
+      {
+        "forms" : [
+          "gängiger"
+        ],
+        "note" : "Form of gängig: what is commonly said or done; „ein gängiger Rat“ = a routine piece of advice.",
+        "pos" : "adjective",
+        "translation" : "common, routine"
+      },
+      {
+        "forms" : [
+          "empfängnis"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Empfängnis: the moment a pregnancy begins; „vor der Empfängnis“ = before conception.",
+        "pos" : "noun",
+        "translation" : "conception"
+      },
+      {
+        "forms" : [
+          "neuralrohrdefekte"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Neuralrohrdefekt: das Neuralrohr (neural tube) + der Defekt (defect).",
+        "pos" : "noun",
+        "translation" : "neural tube defects"
+      },
+      {
+        "forms" : [
+          "spina"
+        ],
+        "gender" : "feminine",
+        "note" : "First word of the Latin medical name „Spina bifida“, a neural tube defect; German uses the Latin name unchanged: die Spina bifida.",
+        "pos" : "noun",
+        "translation" : "spina (bifida)"
+      },
+      {
+        "forms" : [
+          "bifida"
+        ],
+        "note" : "Second word of the Latin medical name „Spina bifida“; it is written with a small letter and never stands alone.",
+        "pos" : "other",
+        "translation" : "(spina) bifida"
+      },
+      {
+        "forms" : [
+          "neuralrohr"
+        ],
+        "gender" : "neuter",
+        "note" : "Neural- + das Rohr (tube): das Neuralrohr; „schließt sich“ = closes.",
+        "pos" : "noun",
+        "translation" : "neural tube"
+      },
+      {
+        "forms" : [
+          "dosis"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Dosis, plural die Dosen: the amount of a medicine or vitamin taken at one time; „eine höhere Dosis“ = a higher dose.",
+        "pos" : "noun",
+        "translation" : "dose"
       }
     ],
     "italian" : [
@@ -83040,6 +84303,7 @@
         "forms" : [
           "ammalare",
           "ammalarsi",
+          "ammalati",
           "ammalava"
         ],
         "note" : "From ammalarsi, a reflexive verb.",
@@ -83215,7 +84479,8 @@
           "arrivata",
           "arrivato",
           "arrivava",
-          "arriveranno"
+          "arriveranno",
+          "arrivò"
         ],
         "note" : "From arrivare, a regular -are verb.",
         "pos" : "verb",
@@ -85458,6 +86723,7 @@
       },
       {
         "forms" : [
+          "decide",
           "deciderlo",
           "decidono",
           "decisa",
@@ -85677,6 +86943,7 @@
       },
       {
         "forms" : [
+          "difetti",
           "difetto"
         ],
         "gender" : "masculine",
@@ -86270,7 +87537,8 @@
       },
       {
         "forms" : [
-          "esausta"
+          "esausta",
+          "esauste"
         ],
         "note" : "Feminine of esausto.",
         "pos" : "adjective",
@@ -90606,7 +91874,8 @@
       },
       {
         "forms" : [
-          "pubblicato"
+          "pubblicato",
+          "pubblicò"
         ],
         "note" : "Past participle of pubblicare.",
         "pos" : "verb",
@@ -91646,7 +92915,8 @@
           "sapere",
           "saperlo",
           "sapeva",
-          "sapevo"
+          "sapevo",
+          "sappia"
         ],
         "note" : "From sapere.",
         "pos" : "verb",
@@ -92452,8 +93722,10 @@
       },
       {
         "forms" : [
+          "sospettando",
           "sospettarlo",
-          "sospettato"
+          "sospettato",
+          "sospettava"
         ],
         "note" : "From sospettare.",
         "pos" : "verb",
@@ -92696,6 +93968,7 @@
       {
         "forms" : [
           "stanca",
+          "stanche",
           "stanco"
         ],
         "note" : "Stanco/stanca.",
@@ -93878,7 +95151,8 @@
       {
         "forms" : [
           "vedere",
-          "vedeva"
+          "vedeva",
+          "vide"
         ],
         "note" : "From vedere.",
         "pos" : "verb",
@@ -97249,6 +98523,7 @@
       {
         "forms" : [
           "protegge",
+          "protesse",
           "protettivo",
           "protetto",
           "protezione"
@@ -100466,6 +101741,7 @@
       },
       {
         "forms" : [
+          "povera",
           "povere",
           "poveri",
           "povero"
@@ -101889,6 +103165,7 @@
       },
       {
         "forms" : [
+          "studiare",
           "studiarlo",
           "studiato"
         ],
@@ -107332,6 +108609,426 @@
         "note" : "A round toy that goes up and down on a string; the word does not change in the plural: uno yo-yo, gli yo-yo.",
         "pos" : "noun",
         "translation" : "yo-yo"
+      },
+      {
+        "forms" : [
+          "1928"
+        ],
+        "note" : "Millenovecentoventotto: the year Lucy Wills comes to Bombay; a year takes the article, il 1928, nel 1928.",
+        "pos" : "number",
+        "translation" : "1928"
+      },
+      {
+        "forms" : [
+          "1931"
+        ],
+        "note" : "Millenovecentotrentuno: the year Lucy Wills published her result.",
+        "pos" : "number",
+        "translation" : "1931"
+      },
+      {
+        "forms" : [
+          "1941"
+        ],
+        "note" : "Millenovecentoquarantuno: the year the substance was found in spinach and named folic acid.",
+        "pos" : "number",
+        "translation" : "1941"
+      },
+      {
+        "forms" : [
+          "400"
+        ],
+        "note" : "Quattrocento: the number of micrograms of folic acid a day in this story.",
+        "pos" : "number",
+        "translation" : "400"
+      },
+      {
+        "forms" : [
+          "acido",
+          "l'acido"
+        ],
+        "gender" : "masculine",
+        "note" : "Acido folico = folic acid; before a vowel the article il becomes l': l'acido.",
+        "pos" : "noun",
+        "translation" : "acid"
+      },
+      {
+        "forms" : [
+          "alimentazione"
+        ],
+        "gender" : "feminine",
+        "note" : "Everything a person usually eats; a more formal word than cibo.",
+        "pos" : "noun",
+        "translation" : "diet, nutrition"
+      },
+      {
+        "forms" : [
+          "anemia",
+          "un'anemia"
+        ],
+        "gender" : "feminine",
+        "note" : "The illness of this story, which leaves a person pale and exhausted; una becomes un' before a vowel: un'anemia.",
+        "pos" : "noun",
+        "translation" : "anaemia"
+      },
+      {
+        "forms" : [
+          "anemici"
+        ],
+        "note" : "Masculine plural of anemico: ill with anemia.",
+        "pos" : "adjective",
+        "translation" : "anaemic"
+      },
+      {
+        "forms" : [
+          "bifida"
+        ],
+        "note" : "Only in spina bifida, a medical name taken from Latin; English uses the same two words.",
+        "pos" : "adjective",
+        "translation" : "bifid, split in two"
+      },
+      {
+        "forms" : [
+          "bombay"
+        ],
+        "gender" : "feminine",
+        "note" : "A city in India, under the name it had in 1928; a Bombay = in Bombay, to Bombay.",
+        "pos" : "noun",
+        "translation" : "Bombay"
+      },
+      {
+        "forms" : [
+          "carente"
+        ],
+        "note" : "Said of something that does not have enough of what is needed: un'alimentazione carente = a deficient diet.",
+        "pos" : "adjective",
+        "translation" : "deficient, lacking"
+      },
+      {
+        "forms" : [
+          "chiedi"
+        ],
+        "note" : "Tu imperative of chiedere: chiedi al tuo medico = ask your doctor; the person asked takes a.",
+        "pos" : "verb",
+        "translation" : "ask (imperative)"
+      },
+      {
+        "forms" : [
+          "colonna"
+        ],
+        "gender" : "feminine",
+        "note" : "La colonna vertebrale = the spine, literally the column of vertebrae.",
+        "pos" : "noun",
+        "translation" : "column"
+      },
+      {
+        "forms" : [
+          "concepimento"
+        ],
+        "gender" : "masculine",
+        "note" : "The very beginning of a pregnancy; from concepire, to conceive.",
+        "pos" : "noun",
+        "translation" : "conception"
+      },
+      {
+        "forms" : [
+          "constatò"
+        ],
+        "note" : "Passato remoto of constatare (lui/lei): to see that something is a fact.",
+        "pos" : "verb",
+        "translation" : "found, noted"
+      },
+      {
+        "forms" : [
+          "corsia"
+        ],
+        "gender" : "feminine",
+        "note" : "A hospital room with rows of beds: in corsia = on the ward. On a road, a corsia is a lane.",
+        "pos" : "noun",
+        "translation" : "ward (in a hospital)"
+      },
+      {
+        "forms" : [
+          "crema"
+        ],
+        "gender" : "feminine",
+        "note" : "A soft food that you can spread: crema di lievito = yeast spread.",
+        "pos" : "noun",
+        "translation" : "cream, spread"
+      },
+      {
+        "forms" : [
+          "denominata"
+        ],
+        "note" : "Feminine past participle of denominare, a formal word for giving something its name.",
+        "pos" : "verb",
+        "translation" : "named"
+      },
+      {
+        "forms" : [
+          "dieta"
+        ],
+        "gender" : "feminine",
+        "note" : "What a person or an animal eats every day; also a plan of eating to lose weight.",
+        "pos" : "noun",
+        "translation" : "diet"
+      },
+      {
+        "forms" : [
+          "dodicesima"
+        ],
+        "note" : "Feminine of dodicesimo, the ordinal of dodici: la dodicesima settimana = the twelfth week.",
+        "pos" : "adjective",
+        "translation" : "twelfth"
+      },
+      {
+        "forms" : [
+          "dose"
+        ],
+        "gender" : "feminine",
+        "note" : "The amount of a medicine or a vitamin to take; plural: dosi.",
+        "pos" : "noun",
+        "translation" : "dose"
+      },
+      {
+        "forms" : [
+          "fabbriche"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of fabbrica; -ca becomes -che to keep the hard c sound.",
+        "pos" : "noun",
+        "translation" : "factories"
+      },
+      {
+        "forms" : [
+          "foglia",
+          "foglie"
+        ],
+        "gender" : "feminine",
+        "note" : "Singular foglia, plural foglie; do not confuse it with foglio, a sheet of paper.",
+        "pos" : "noun",
+        "translation" : "leaf, leaves"
+      },
+      {
+        "forms" : [
+          "folico"
+        ],
+        "note" : "Only in acido folico = folic acid, the vitamin of this story.",
+        "pos" : "adjective",
+        "translation" : "folic"
+      },
+      {
+        "forms" : [
+          "formano"
+        ],
+        "note" : "Present of formare (loro); si formano = they form, they take shape.",
+        "pos" : "verb",
+        "translation" : "form (they)"
+      },
+      {
+        "forms" : [
+          "grave"
+        ],
+        "note" : "Said of an illness: una grave anemia = a severe anaemia; one form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "severe, serious"
+      },
+      {
+        "forms" : [
+          "gravidanza"
+        ],
+        "gender" : "feminine",
+        "note" : "The months when a woman is incinta, expecting a baby.",
+        "pos" : "noun",
+        "translation" : "pregnancy"
+      },
+      {
+        "forms" : [
+          "guarito",
+          "guarì"
+        ],
+        "note" : "From guarire, to cure: ha guarito (passato prossimo), guarì (passato remoto, lui/lei).",
+        "pos" : "verb",
+        "translation" : "cured, healed"
+      },
+      {
+        "forms" : [
+          "ignota"
+        ],
+        "note" : "Feminine of ignoto: la sostanza ignota = the substance nobody could name yet.",
+        "pos" : "adjective",
+        "translation" : "unknown"
+      },
+      {
+        "forms" : [
+          "incinta",
+          "incinte"
+        ],
+        "note" : "Used in the feminine only: una donna incinta, le donne incinte.",
+        "pos" : "adjective",
+        "translation" : "pregnant"
+      },
+      {
+        "forms" : [
+          "indagare"
+        ],
+        "note" : "Indagare su + thing: to look carefully for the cause of something.",
+        "pos" : "verb",
+        "translation" : "to investigate"
+      },
+      {
+        "forms" : [
+          "isolata"
+        ],
+        "note" : "Feminine past participle of isolare: fu isolata dagli spinaci = it was separated out of spinach.",
+        "pos" : "verb",
+        "translation" : "isolated"
+      },
+      {
+        "forms" : [
+          "latina"
+        ],
+        "note" : "Feminine of latino: la parola latina = the Latin word; languages take no capital letter in Italian.",
+        "pos" : "adjective",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "lucy"
+        ],
+        "gender" : "feminine",
+        "note" : "The first name of Lucy Wills, the English doctor of this story.",
+        "pos" : "noun",
+        "translation" : "Lucy"
+      },
+      {
+        "forms" : [
+          "microgrammi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of microgrammo, a millionth of a gram: 400 microgrammi di acido folico.",
+        "pos" : "noun",
+        "translation" : "micrograms"
+      },
+      {
+        "forms" : [
+          "neurale"
+        ],
+        "note" : "Of the nerves: il tubo neurale = the neural tube.",
+        "pos" : "adjective",
+        "translation" : "neural"
+      },
+      {
+        "forms" : [
+          "operaie"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural of operaio, a factory worker: operaie tessili = women textile workers.",
+        "pos" : "noun",
+        "translation" : "workers (women)"
+      },
+      {
+        "forms" : [
+          "pallide"
+        ],
+        "note" : "Feminine plural of pallido: with little colour in the face.",
+        "pos" : "adjective",
+        "translation" : "pale"
+      },
+      {
+        "forms" : [
+          "pazienti"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of paziente, a person in a doctor's care; the word is the same for men and women, the article shows which: le pazienti.",
+        "pos" : "noun",
+        "translation" : "patients"
+      },
+      {
+        "forms" : [
+          "perciò"
+        ],
+        "note" : "Introduces a result (per + ciò, \"for this\"); a synonym of quindi.",
+        "pos" : "conjunction",
+        "translation" : "so, therefore"
+      },
+      {
+        "forms" : [
+          "ratti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of ratto; a ratto is bigger than a topo (mouse).",
+        "pos" : "noun",
+        "translation" : "rats"
+      },
+      {
+        "forms" : [
+          "riduce"
+        ],
+        "note" : "Present of ridurre (lui/lei): riduce il rischio = it lowers the risk; it makes the risk smaller, it does not take it away.",
+        "pos" : "verb",
+        "translation" : "lowers, reduces"
+      },
+      {
+        "forms" : [
+          "spina"
+        ],
+        "gender" : "feminine",
+        "note" : "Spina bifida is the medical name, taken from Latin, of one neural tube defect; in everyday Italian a spina is a thorn.",
+        "pos" : "noun",
+        "translation" : "spine; thorn"
+      },
+      {
+        "forms" : [
+          "spinaci"
+        ],
+        "gender" : "masculine",
+        "note" : "Almost always plural in Italian: gli spinaci.",
+        "pos" : "noun",
+        "translation" : "spinach"
+      },
+      {
+        "forms" : [
+          "tessili"
+        ],
+        "note" : "Plural of tessile: le fabbriche tessili make cloth, and le operaie tessili work in them.",
+        "pos" : "adjective",
+        "translation" : "textile"
+      },
+      {
+        "forms" : [
+          "tubo"
+        ],
+        "gender" : "masculine",
+        "note" : "A long hollow form; il tubo neurale = the neural tube.",
+        "pos" : "noun",
+        "translation" : "tube"
+      },
+      {
+        "forms" : [
+          "vertebrale"
+        ],
+        "note" : "From vertebra: la colonna vertebrale = the spine, the backbone.",
+        "pos" : "adjective",
+        "translation" : "vertebral, of the spine"
+      },
+      {
+        "forms" : [
+          "vitamina"
+        ],
+        "gender" : "feminine",
+        "note" : "A substance in food that the body needs in very small amounts.",
+        "pos" : "noun",
+        "translation" : "vitamin"
+      },
+      {
+        "forms" : [
+          "wills"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of Lucy Wills; il fattore Wills = the Wills factor, the name the substance had until 1941.",
+        "pos" : "noun",
+        "translation" : "Wills"
       }
     ],
     "spanish" : [
@@ -107980,6 +109677,7 @@
       {
         "forms" : [
           "cansada",
+          "cansadas",
           "cansado"
         ],
         "note" : "\"Cansada\" (fem.) / \"cansado\" (masc.).",
@@ -108917,6 +110615,7 @@
       },
       {
         "forms" : [
+          "encontrada",
           "encontrado",
           "encontrarla"
         ],
@@ -112206,7 +113905,8 @@
       },
       {
         "forms" : [
-          "agotada"
+          "agotada",
+          "agotadas"
         ],
         "note" : "Feminine of agotado.",
         "pos" : "adjective",
@@ -115974,7 +117674,8 @@
       },
       {
         "forms" : [
-          "defecto"
+          "defecto",
+          "defectos"
         ],
         "gender" : "masculine",
         "note" : "A fault in a thing — or, gently, in a person.",
@@ -117862,6 +119563,7 @@
       },
       {
         "forms" : [
+          "decide",
           "deciden"
         ],
         "note" : "Decidir, ellos/ellas form.",
@@ -119588,6 +121290,7 @@
       },
       {
         "forms" : [
+          "médica",
           "médico"
         ],
         "gender" : "masculine",
@@ -126407,6 +128110,7 @@
       {
         "forms" : [
           "barata",
+          "barato",
           "baratos"
         ],
         "note" : "Feminine of barato.",
@@ -126892,6 +128596,7 @@
       },
       {
         "forms" : [
+          "cuya",
           "cuyo"
         ],
         "note" : "Relative possessive.",
@@ -127327,7 +129032,8 @@
       },
       {
         "forms" : [
-          "estudiaron"
+          "estudiaron",
+          "estudió"
         ],
         "note" : "Preterite of estudiar.",
         "pos" : "verb",
@@ -131511,7 +133217,8 @@
       },
       {
         "forms" : [
-          "alimentado"
+          "alimentado",
+          "alimentó"
         ],
         "note" : "Participle of alimentar: \"ha alimentado\" = has fed.",
         "pos" : "verb",
@@ -131875,7 +133582,8 @@
       {
         "forms" : [
           "curan",
-          "curaron"
+          "curaron",
+          "curó"
         ],
         "note" : "Present and indefinido of curar, plural: \"los antibióticos curan la infección\", \"curaron la infección\".",
         "pos" : "verb",
@@ -134075,6 +135783,417 @@
         "note" : "Plural of yoyó: one word in Spanish, with the accent on the last o.",
         "pos" : "noun",
         "translation" : "yo-yos"
+      },
+      {
+        "forms" : [
+          "1928"
+        ],
+        "note" : "The year the English doctor Lucy Wills came to Bombay.",
+        "pos" : "number",
+        "translation" : "1928"
+      },
+      {
+        "forms" : [
+          "1931"
+        ],
+        "note" : "The year Lucy Wills published what she had found.",
+        "pos" : "number",
+        "translation" : "1931"
+      },
+      {
+        "forms" : [
+          "1941"
+        ],
+        "note" : "The year the substance was found in spinach and named folic acid.",
+        "pos" : "number",
+        "translation" : "1941"
+      },
+      {
+        "forms" : [
+          "400"
+        ],
+        "note" : "Cuatrocientos: \"400 microgramos\" = 400 micrograms, the amount for each day in this story.",
+        "pos" : "number",
+        "translation" : "400"
+      },
+      {
+        "forms" : [
+          "aislada"
+        ],
+        "note" : "Past participle of aislar, feminine to agree with \"sustancia\": fue aislada = it was isolated, separated from the plant.",
+        "pos" : "verb",
+        "translation" : "isolated"
+      },
+      {
+        "forms" : [
+          "anemia"
+        ],
+        "gender" : "feminine",
+        "note" : "An illness of the blood that leaves a person pale and very tired; the adjective is anémico.",
+        "pos" : "noun",
+        "translation" : "anaemia"
+      },
+      {
+        "forms" : [
+          "anémicas"
+        ],
+        "note" : "Feminine plural of anémico: ill with anaemia. The accent marks the stress: a-NÉ-mi-cas.",
+        "pos" : "adjective",
+        "translation" : "anaemic"
+      },
+      {
+        "forms" : [
+          "bífida"
+        ],
+        "note" : "Used almost only in the medical name \"espina bífida\" = spina bifida.",
+        "pos" : "adjective",
+        "translation" : "bifid, split in two"
+      },
+      {
+        "forms" : [
+          "bombay"
+        ],
+        "gender" : "masculine",
+        "note" : "The city in India where Lucy Wills arrived in 1928; this was the city's name at the time.",
+        "pos" : "noun",
+        "translation" : "Bombay"
+      },
+      {
+        "forms" : [
+          "columna"
+        ],
+        "gender" : "feminine",
+        "note" : "Short for \"columna vertebral\", the line of bones down the back; the word also means a column.",
+        "pos" : "noun",
+        "translation" : "spine, backbone; column"
+      },
+      {
+        "forms" : [
+          "comprobó"
+        ],
+        "note" : "Pretérito indefinido of comprobar, to check something and find it true: \"según comprobó\" = as she found.",
+        "pos" : "verb",
+        "translation" : "found, checked"
+      },
+      {
+        "forms" : [
+          "concepción"
+        ],
+        "gender" : "feminine",
+        "note" : "The moment a pregnancy begins: \"antes de la concepción\" = before becoming pregnant.",
+        "pos" : "noun",
+        "translation" : "conception"
+      },
+      {
+        "forms" : [
+          "crema"
+        ],
+        "gender" : "feminine",
+        "note" : "A soft food to spread on bread, as in \"crema de cacahuete\" (peanut butter): \"crema de levadura\" = yeast spread. It also means cream.",
+        "pos" : "noun",
+        "translation" : "spread; cream"
+      },
+      {
+        "forms" : [
+          "deficiente"
+        ],
+        "note" : "Same form for masculine and feminine; \"una dieta deficiente\" lacks something the body needs.",
+        "pos" : "adjective",
+        "translation" : "deficient, lacking"
+      },
+      {
+        "forms" : [
+          "dieta"
+        ],
+        "gender" : "feminine",
+        "note" : "Everything a person or an animal usually eats, not only a plan to lose weight.",
+        "pos" : "noun",
+        "translation" : "diet"
+      },
+      {
+        "forms" : [
+          "dosis"
+        ],
+        "gender" : "feminine",
+        "note" : "The amount of a medicine or vitamin taken at one time; the plural is the same: una dosis, dos dosis.",
+        "pos" : "noun",
+        "translation" : "dose"
+      },
+      {
+        "forms" : [
+          "embarazada",
+          "embarazadas"
+        ],
+        "note" : "A false friend: it never means \"embarrassed\". Used with estar: está embarazada = she is pregnant.",
+        "pos" : "adjective",
+        "translation" : "pregnant"
+      },
+      {
+        "forms" : [
+          "embarazo"
+        ],
+        "gender" : "masculine",
+        "note" : "The months in which a woman carries a baby; from the same family as embarazada.",
+        "pos" : "noun",
+        "translation" : "pregnancy"
+      },
+      {
+        "forms" : [
+          "enfermaron"
+        ],
+        "note" : "Pretérito indefinido of enfermar (ellos/ellas); \"enfermar de anemia\" = to fall ill with anaemia.",
+        "pos" : "verb",
+        "translation" : "fell ill, became ill"
+      },
+      {
+        "forms" : [
+          "espina"
+        ],
+        "gender" : "feminine",
+        "note" : "Here in the medical name \"espina bífida\" = spina bifida; in everyday Spanish an espina is a thorn or a fish bone.",
+        "pos" : "noun",
+        "translation" : "spine; thorn"
+      },
+      {
+        "forms" : [
+          "espinaca",
+          "espinacas"
+        ],
+        "gender" : "feminine",
+        "note" : "A dark green leaf vegetable; Spanish often uses the plural: comer espinacas.",
+        "pos" : "noun",
+        "translation" : "spinach"
+      },
+      {
+        "forms" : [
+          "estos"
+        ],
+        "note" : "Masculine plural of este: estos defectos = these defects.",
+        "pos" : "other",
+        "translation" : "these"
+      },
+      {
+        "forms" : [
+          "forman"
+        ],
+        "note" : "Present of formar (ellos/ellas); with se it describes something that happens by itself: se forman = they form.",
+        "pos" : "verb",
+        "translation" : "form, take shape"
+      },
+      {
+        "forms" : [
+          "fábricas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of fábrica, a building where many people make things with machines; not \"fabric\", which is tela.",
+        "pos" : "noun",
+        "translation" : "factories"
+      },
+      {
+        "forms" : [
+          "fólico"
+        ],
+        "note" : "Only used in \"ácido fólico\" = folic acid, the vitamin of this story; the name comes from the Latin word for leaf.",
+        "pos" : "adjective",
+        "translation" : "folic"
+      },
+      {
+        "forms" : [
+          "hallazgo"
+        ],
+        "gender" : "masculine",
+        "note" : "Something found after looking or studying; from hallar = to find.",
+        "pos" : "noun",
+        "translation" : "finding, discovery"
+      },
+      {
+        "forms" : [
+          "hoja",
+          "hojas"
+        ],
+        "gender" : "feminine",
+        "note" : "The green part of a plant; \"hoja\" is also a sheet of paper.",
+        "pos" : "noun",
+        "translation" : "leaf, leaves"
+      },
+      {
+        "forms" : [
+          "investigar"
+        ],
+        "note" : "Infinitive after \"para\": para investigar = in order to investigate.",
+        "pos" : "verb",
+        "translation" : "to investigate, to research"
+      },
+      {
+        "forms" : [
+          "latina"
+        ],
+        "note" : "Feminine of latino: \"la palabra latina\" = the word in Latin.",
+        "pos" : "adjective",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "lucy"
+        ],
+        "gender" : "feminine",
+        "note" : "Lucy Wills, the English doctor of this story, who came to Bombay in 1928.",
+        "pos" : "noun",
+        "translation" : "Lucy"
+      },
+      {
+        "forms" : [
+          "mejoraron"
+        ],
+        "note" : "Pretérito indefinido of mejorar (ellos/ellas): las mujeres mejoraron = the women got better.",
+        "pos" : "verb",
+        "translation" : "got better, improved"
+      },
+      {
+        "forms" : [
+          "microgramos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of microgramo, a very small unit of weight: one millionth of a gram.",
+        "pos" : "noun",
+        "translation" : "micrograms"
+      },
+      {
+        "forms" : [
+          "neural"
+        ],
+        "note" : "\"El tubo neural\" = the neural tube, the early form of the baby's brain and spine.",
+        "pos" : "adjective",
+        "translation" : "neural"
+      },
+      {
+        "forms" : [
+          "obreras"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural of obrero, a person who works with their hands, often in a factory.",
+        "pos" : "noun",
+        "translation" : "workers (women)"
+      },
+      {
+        "forms" : [
+          "pacientes"
+        ],
+        "gender" : "feminine",
+        "note" : "People in a doctor's care; el paciente / la paciente has one form for both genders. As an adjective, paciente means calm and willing to wait.",
+        "pos" : "noun",
+        "translation" : "patients"
+      },
+      {
+        "forms" : [
+          "protegió"
+        ],
+        "note" : "Pretérito indefinido of proteger; a living being takes \"a\": protegió a los animales.",
+        "pos" : "verb",
+        "translation" : "protected"
+      },
+      {
+        "forms" : [
+          "pálidas"
+        ],
+        "note" : "Feminine plural of pálido: with little colour in the face.",
+        "pos" : "adjective",
+        "translation" : "pale"
+      },
+      {
+        "forms" : [
+          "ratas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of rata; the word is always feminine, whatever the animal's sex.",
+        "pos" : "noun",
+        "translation" : "rats"
+      },
+      {
+        "forms" : [
+          "reduce"
+        ],
+        "note" : "Present of reducir (él/ella): \"reduce el riesgo\" = it lowers the risk, it makes the risk smaller.",
+        "pos" : "verb",
+        "translation" : "lowers, reduces"
+      },
+      {
+        "forms" : [
+          "sepa"
+        ],
+        "note" : "Present subjunctive of saber, needed after \"antes de que\": antes de que sepa = before she knows.",
+        "pos" : "verb",
+        "translation" : "knows (subjunctive)"
+      },
+      {
+        "forms" : [
+          "sospechaba",
+          "sospechando"
+        ],
+        "note" : "Forms of sospechar; with \"de\" it names what you think is the cause: sospechar de la comida = to suspect the food.",
+        "pos" : "verb",
+        "translation" : "suspected; suspecting"
+      },
+      {
+        "forms" : [
+          "sustancia"
+        ],
+        "gender" : "feminine",
+        "note" : "A kind of matter; here the thing in the yeast that had no name yet.",
+        "pos" : "noun",
+        "translation" : "substance"
+      },
+      {
+        "forms" : [
+          "tarro"
+        ],
+        "gender" : "masculine",
+        "note" : "A pot with a wide mouth, usually of glass, for jam, honey or a spread.",
+        "pos" : "noun",
+        "translation" : "jar"
+      },
+      {
+        "forms" : [
+          "textiles"
+        ],
+        "note" : "Plural of textil, about making cloth: fábricas textiles = textile factories.",
+        "pos" : "adjective",
+        "translation" : "textile"
+      },
+      {
+        "forms" : [
+          "tubo"
+        ],
+        "gender" : "masculine",
+        "note" : "A long hollow shape: \"el tubo neural\" = the neural tube.",
+        "pos" : "noun",
+        "translation" : "tube"
+      },
+      {
+        "forms" : [
+          "vertebral"
+        ],
+        "note" : "\"Columna vertebral\" = spine, backbone.",
+        "pos" : "adjective",
+        "translation" : "vertebral, of the spine"
+      },
+      {
+        "forms" : [
+          "vitamina"
+        ],
+        "gender" : "feminine",
+        "note" : "A substance in food that the body needs in small amounts; close to the English word, and feminine.",
+        "pos" : "noun",
+        "translation" : "vitamin"
+      },
+      {
+        "forms" : [
+          "wills"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of Lucy Wills; the \"factor de Wills\" (Wills factor) carried her name until 1941.",
+        "pos" : "noun",
+        "translation" : "Wills"
       }
     ]
   },
@@ -152294,6 +154413,586 @@
       "summary" : "Nel 1932 un falegname di un villaggio danese, senza case da costruire, ha cominciato a fare giocattoli di legno, e una sera ha rimandato suo figlio alla stazione a verniciare di nuovo ogni anatra.",
       "title" : "L'anatra di legno",
       "translationGroup" : "wooden-duck"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-07",
+      "id" : "jar-on-the-ward",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1928: \"is\", \"asks\", \"gives\". The year shows when it happens.",
+              "example" : "It is 1928 in Bombay, India.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "For advice English uses the base verb with no subject: \"Take…\", \"Start…\", \"Ask…\".",
+              "example" : "Ask your doctor or midwife.",
+              "title" : "The imperative: take, start, ask"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is 1928 in Bombay, India. Lucy Wills is a doctor from England. Many pregnant women are pale and very tired.",
+            "The women are poor and work in factories. Lucy asks: what do they eat? Their food is poor too.",
+            "She gives them yeast spread from a jar. The women get better. Later the vitamin in it gets a name: folic acid.",
+            "Today doctors say: take folic acid every day. Start before you are pregnant. Ask your doctor or midwife."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Many common verbs are irregular in the past: go → went, give → gave, become → became, write → wrote. Regular verbs add -ed: worked, studied, called.",
+              "example" : "She gave the same food to rats, and they became ill.",
+              "title" : "Past simple: went, gave, became, wrote"
+            },
+            {
+              "body" : "\"Kept the animals healthy\" means the animals stayed healthy because of it: keep + thing + adjective.",
+              "example" : "Yeast spread from a cheap jar kept the animals healthy, and the women got better.",
+              "title" : "Keep + object + adjective"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1928 Lucy Wills, a doctor from England, went to Bombay in India. Many pregnant women there were pale and very tired.",
+            "Most were poor and worked in textile factories. Lucy studied their food, and it was poor.",
+            "She gave the same food to rats, and they became ill. Yeast spread from a cheap jar kept the animals healthy, and the women got better.",
+            "She wrote about it in 1931. Later, scientists called the vitamin in the yeast folic acid.",
+            "Today doctors say: take 400 micrograms of folic acid every day. Start before you are pregnant and continue for the first twelve weeks. It lowers the risk of problems with the baby's brain and spine. Ask your doctor or midwife."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive (be + past participle) is used when the thing matters more than who did it: the substance was called…, it was found…",
+              "example" : "The unknown substance was called the Wills factor until 1941, when it was found in spinach and named folic acid.",
+              "title" : "Passive: was called, was found, was named"
+            },
+            {
+              "body" : "\"When she fed rats…, they became anaemic\": the when-clause gives the action, the main clause what followed. A comma separates them when \"when\" comes first.",
+              "example" : "When she fed rats the same poor diet, they became anaemic.",
+              "title" : "When + past simple for cause and result"
+            },
+            {
+              "body" : "\"Arrived in Bombay to study…\" answers the question why: to + verb gives the purpose.",
+              "example" : "In 1928 Lucy Wills, an English doctor, arrived in Bombay to study a dangerous anaemia in pregnant women.",
+              "title" : "Infinitive of purpose: to study"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1928 Lucy Wills, an English doctor, arrived in Bombay to study a dangerous anaemia in pregnant women. Most patients were poor textile workers, pale and exhausted.",
+            "Wills suspected their food. When she fed rats the same poor diet, they became anaemic. A jar of cheap yeast spread kept the animals healthy and cured the women on her ward.",
+            "She published this in 1931. The unknown substance was called the Wills factor until 1941, when it was found in spinach and named folic acid.",
+            "Today the advice is 400 micrograms of folic acid every day, from before pregnancy until the twelfth week. It lowers the risk of defects of the baby's brain and spine.",
+            "These happen in the first four weeks, often before a woman knows she is pregnant. Some women need more, so ask a doctor or midwife."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"What protected the animals… came out of a jar\": the whole what-clause is the subject. It holds back the answer until the end of the sentence.",
+              "example" : "What protected the animals, then cured the patients on her ward, came out of a jar: cheap yeast spread.",
+              "title" : "What-clause as the subject"
+            },
+            {
+              "body" : "\"Without knowing\" means \"and she did not know\": after a preposition the verb takes -ing.",
+              "example" : "She published the result in 1931 without knowing what the substance was.",
+              "title" : "Without + -ing"
+            },
+            {
+              "body" : "\"Textile workers whose diet… was deficient\": whose links the workers to their diet, replacing \"their\".",
+              "example" : "Most patients were poor textile workers whose diet, she found, was deficient.",
+              "title" : "Whose for possession in a relative clause"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1928 Lucy Wills, an English doctor, arrived in Bombay to investigate a severe anaemia in pregnant women. Most patients were poor textile workers whose diet, she found, was deficient.",
+            "Suspecting the food, she fed rats the same diet and watched them become anaemic. What protected the animals, then cured the patients on her ward, came out of a jar: cheap yeast spread.",
+            "She published the result in 1931 without knowing what the substance was. It was called the Wills factor until 1941, when it was isolated from spinach and named folic acid, after the Latin for leaf.",
+            "Her finding is routine advice: 400 micrograms of folic acid a day, from before conception until the twelfth week. It lowers the risk of neural tube defects such as spina bifida.",
+            "The neural tube closes within four weeks, often before a woman knows she is pregnant, so the advice is: start early. Some need a higher dose; a doctor or midwife decides."
+          ]
+        }
+      ],
+      "summary" : "In 1928 an English doctor in Bombay cured exhausted pregnant women with a jar of cheap yeast spread, and what she found is now advice for every pregnancy.",
+      "title" : "The Jar on the Ward",
+      "translationGroup" : "jar-on-the-ward"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-07",
+      "id" : "jar-on-the-ward-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1928: \"est\", \"demande\", \"donne\". \"Nous sommes en 1928\" is the French way to say \"it is 1928\".",
+              "example" : "Nous sommes en 1928 à Bombay, en Inde.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "In a written question the verb comes before the subject pronoun, joined by a hyphen: elles mangent becomes \"mangent-elles ?\". \"Que\" at the start asks \"what\".",
+              "example" : "Lucy demande : que mangent-elles ?",
+              "title" : "A question with inversion: mangent-elles"
+            },
+            {
+              "body" : "For advice French uses the vous form of the verb with no subject: \"Prenez…\", \"Commencez…\", \"Demandez…\". After demander, the person you ask takes \"à\".",
+              "example" : "Demandez à votre médecin ou à votre sage-femme.",
+              "title" : "The vous imperative: prenez, commencez, demandez"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes en 1928 à Bombay, en Inde. Lucy Wills est médecin et vient d'Angleterre. Beaucoup de femmes enceintes sont pâles et très fatiguées.",
+            "Elles sont pauvres et travaillent en usine. Lucy demande : que mangent-elles ? Leur nourriture est pauvre aussi.",
+            "Lucy donne aux femmes de la levure à tartiner, en bocal. Elles vont mieux. Plus tard, la vitamine de la levure a un nom : l'acide folique.",
+            "Aujourd'hui, les médecins disent : prenez de l'acide folique chaque jour. Commencez avant d'être enceinte. Demandez à votre médecin ou à votre sage-femme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir or être in the present plus a past participle: \"elle a donné\", \"ils sont tombés\". With être the participle agrees with the subject: \"elle est allée\", \"elles sont allées\".",
+              "example" : "Elle a donné la même nourriture à des rats, et ils sont tombés malades.",
+              "title" : "Passé composé with avoir and with être"
+            },
+            {
+              "body" : "The imparfait of être describes how things were, not one event: the women were pale and tired during that whole time.",
+              "example" : "Beaucoup de femmes enceintes étaient pâles et très fatiguées.",
+              "title" : "Étaient for the background"
+            },
+            {
+              "body" : "\"Before doing something\" is avant de + infinitive when the subject stays the same: \"avant d'être enceinte\" = before you are pregnant. \"De\" becomes \"d'\" before a vowel.",
+              "example" : "Commencez avant d'être enceinte et continuez pendant les douze premières semaines.",
+              "title" : "Avant de + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1928, Lucy Wills, médecin anglaise, est allée à Bombay, en Inde. Beaucoup de femmes enceintes étaient pâles et très fatiguées.",
+            "La plupart étaient des ouvrières pauvres du textile. Lucy a étudié leur nourriture : elle était pauvre.",
+            "Elle a donné la même nourriture à des rats, et ils sont tombés malades. Un bocal pas cher de levure à tartiner a gardé les animaux en bonne santé. Les femmes sont allées mieux.",
+            "Elle l'a écrit en 1931. Plus tard, des scientifiques ont appelé la vitamine de la levure « acide folique ».",
+            "Aujourd'hui, les médecins disent : prenez 400 microgrammes d'acide folique chaque jour. Commencez avant d'être enceinte et continuez pendant les douze premières semaines. Cela réduit le risque de problèmes au cerveau et à la colonne vertébrale du bébé. Demandez à votre médecin ou à votre sage-femme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is être + past participle, and the participle agrees with the subject: \"elle a été trouvée… et nommée\" (feminine, for \"la substance\"). It is used when the thing matters more than who did it.",
+              "example" : "La substance inconnue s'est appelée facteur de Wills jusqu'en 1941, quand elle a été trouvée dans les feuilles d'épinard et nommée acide folique.",
+              "title" : "Passive: a été trouvée et nommée"
+            },
+            {
+              "body" : "\"Avant que\" is always followed by the subjunctive. \"Sache\" is the subjunctive of savoir; the ordinary present would be \"elle sait\".",
+              "example" : "Celles-ci se forment pendant les quatre premières semaines, souvent avant qu'une femme sache qu'elle est enceinte.",
+              "title" : "Avant que + subjunctive: sache"
+            },
+            {
+              "body" : "\"Est arrivée à Bombay pour étudier…\" answers the question why: pour + infinitive gives the purpose when the subject is the same person.",
+              "example" : "En 1928, Lucy Wills, médecin anglaise, est arrivée à Bombay pour étudier une anémie dangereuse des femmes enceintes.",
+              "title" : "Pour + infinitive for a purpose"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1928, Lucy Wills, médecin anglaise, est arrivée à Bombay pour étudier une anémie dangereuse des femmes enceintes. La plupart étaient des ouvrières pauvres du textile, pâles et épuisées.",
+            "Wills soupçonnait leur nourriture. Quand elle a donné la même nourriture pauvre à des rats, ils sont devenus anémiques. Un bocal de levure à tartiner pas chère a gardé les animaux en bonne santé et guéri les femmes de son service.",
+            "Elle a publié cela en 1931. La substance inconnue s'est appelée facteur de Wills jusqu'en 1941, quand elle a été trouvée dans les feuilles d'épinard et nommée acide folique.",
+            "Aujourd'hui, on conseille 400 microgrammes d'acide folique chaque jour, avant la grossesse et jusqu'à la douzième semaine. Cela réduit le risque de malformations du cerveau et de la colonne vertébrale du bébé.",
+            "Celles-ci se forment pendant les quatre premières semaines, souvent avant qu'une femme sache qu'elle est enceinte. Certaines ont besoin de plus, alors demandez à un médecin ou à une sage-femme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "French has no single word for the relative \"what\": it uses \"ce qui\" when it is the subject of its clause. Here the whole ce qui-clause is the subject of \"sortait\" and holds the answer back until the end.",
+              "example" : "Ce qui protégea les animaux, puis guérit les patientes de son service, sortait d'un bocal : une levure à tartiner peu coûteuse.",
+              "title" : "Ce qui… as the subject"
+            },
+            {
+              "body" : "\"Dont\" links the workers to their diet, like \"whose\". The inserted remark \"constata-t-elle\" puts the verb before its subject, with -t- between the two vowels.",
+              "example" : "La plupart des patientes étaient des ouvrières pauvres du textile dont l'alimentation, constata-t-elle, était carencée.",
+              "title" : "Dont for possession, and an inverted aside"
+            },
+            {
+              "body" : "After a preposition French uses the infinitive, never a form in -ant: \"sans savoir\" = without knowing. The subject of the infinitive is the subject of the main verb.",
+              "example" : "Elle publia le résultat en 1931 sans savoir ce qu'était cette substance.",
+              "title" : "Sans + infinitive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1928, Lucy Wills, médecin anglaise, arriva à Bombay pour enquêter sur une anémie sévère des femmes enceintes. La plupart des patientes étaient des ouvrières pauvres du textile dont l'alimentation, constata-t-elle, était carencée.",
+            "Soupçonnant la nourriture, elle donna le même régime à des rats et les vit devenir anémiques. Ce qui protégea les animaux, puis guérit les patientes de son service, sortait d'un bocal : une levure à tartiner peu coûteuse.",
+            "Elle publia le résultat en 1931 sans savoir ce qu'était cette substance. On l'appela le facteur de Wills jusqu'en 1941, année où elle fut isolée de l'épinard et nommée acide folique, du nom latin de la feuille.",
+            "Sa découverte est aujourd'hui un conseil de routine : 400 microgrammes d'acide folique chaque jour, dès avant la conception et jusqu'à la douzième semaine. Cela réduit le risque de malformations du tube neural telles que le spina bifida.",
+            "Le tube neural se ferme en quatre semaines, souvent avant qu'une femme se sache enceinte ; le conseil est donc de commencer tôt. Certaines ont besoin d'une dose plus élevée ; un médecin ou une sage-femme en décide."
+          ]
+        }
+      ],
+      "summary" : "En 1928, à Bombay, une médecin anglaise guérit des femmes enceintes épuisées avec un bocal de levure à tartiner bon marché, et sa découverte est aujourd'hui un conseil pour chaque grossesse.",
+      "title" : "Le bocal de l'hôpital",
+      "translationGroup" : "jar-on-the-ward"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-07",
+      "id" : "jar-on-the-ward-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "When a sentence opens with a time word such as \"später\" or \"heute\", the verb still stands in second place and the subject follows it: \"Später bekommt das Vitamin …\". The story is told in the present, even for 1928.",
+              "example" : "Später bekommt das Vitamin darin einen Namen: Folsäure.",
+              "title" : "The verb comes second"
+            },
+            {
+              "body" : "German says how a person is with \"es geht\" and the dative: \"den Frauen geht es besser\" = the women are doing better. Nobody is walking here; it is the same phrase as \"Wie geht es dir?\".",
+              "example" : "Den Frauen geht es besser.",
+              "title" : "Es geht + dative: how someone is"
+            },
+            {
+              "body" : "For advice to an adult, German puts the verb first and adds \"Sie\": \"Nehmen Sie …\", \"Beginnen Sie …\", \"Fragen Sie …\".",
+              "example" : "Fragen Sie Ihre Ärztin oder Hebamme.",
+              "title" : "The polite imperative: verb + Sie"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist 1928 in Bombay in Indien. Lucy Wills ist eine Ärztin aus England. Viele schwangere Frauen sind blass und sehr müde.",
+            "Die Frauen sind arm und arbeiten in Fabriken. Lucy fragt: Was essen sie? Auch ihr Essen ist schlecht.",
+            "Sie gibt ihnen Hefeaufstrich aus einem Glas. Den Frauen geht es besser. Später bekommt das Vitamin darin einen Namen: Folsäure.",
+            "Heute sagen Ärzte: Nehmen Sie jeden Tag Folsäure. Beginnen Sie, bevor Sie schwanger sind. Fragen Sie Ihre Ärztin oder Hebamme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is \"haben\" or \"sein\" in second place plus the Partizip II at the end: \"hat … gegeben\". Verbs of movement or of a change of state take \"sein\": \"sind … geworden\", \"ist … angekommen\".",
+              "example" : "Sie hat Ratten dasselbe Essen gegeben, und sie sind krank geworden.",
+              "title" : "Perfekt with haben or sein"
+            },
+            {
+              "body" : "Verbs that begin with an unstressed prefix such as unter-, be- or ver- form the Partizip II without ge-: untersuchen → \"untersucht\", not \"geuntersucht\".",
+              "example" : "Lucy hat ihr Essen untersucht: Es war schlecht.",
+              "title" : "No ge- after an inseparable prefix"
+            },
+            {
+              "body" : "\"Es geht mir besser\" means \"I am doing better\"; the person stands in the dative (\"den Frauen\"). In the Perfekt the phrase takes \"sein\": \"es ist … besser gegangen\". Nobody walked anywhere.",
+              "example" : "Auch den Frauen ist es besser gegangen.",
+              "title" : "Es geht + dative in the Perfekt"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1928 ist die englische Ärztin Lucy Wills in Bombay in Indien angekommen. Viele schwangere Frauen dort waren blass und sehr müde.",
+            "Die meisten waren arm und haben in Textilfabriken gearbeitet. Lucy hat ihr Essen untersucht: Es war schlecht.",
+            "Sie hat Ratten dasselbe Essen gegeben, und sie sind krank geworden. Hefeaufstrich aus einem billigen Glas hat die Tiere gesund gehalten. Auch den Frauen ist es besser gegangen.",
+            "1931 hat sie darüber geschrieben. Später haben Forscher das Vitamin in der Hefe Folsäure genannt.",
+            "Heute sagen Ärzte: Nehmen Sie täglich 400 Mikrogramm Folsäure. Nehmen Sie sie vor der Schwangerschaft und in den ersten zwölf Wochen. Das senkt das Risiko für Probleme an Gehirn und Wirbelsäule des Babys. Fragen Sie Ihre Ärztin oder Hebamme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is werden + Partizip II. After \"bis\" the conjugated verb goes to the very end, and one \"wurde\" serves both participles: \"gefunden und … genannt wurde\" = was found and was named.",
+              "example" : "Der unbekannte Stoff hieß Wills-Faktor, bis er 1941 in Spinatblättern gefunden und Folsäure genannt wurde.",
+              "title" : "Passive in a subordinate clause"
+            },
+            {
+              "body" : "\"Als\" (when) is used for a single past event and sends its verb to the end: \"fütterte\". The main clause that follows starts with its verb: \"wurden sie\".",
+              "example" : "Als sie Ratten mit demselben schlechten Essen fütterte, wurden sie anämisch.",
+              "title" : "Als + Präteritum for one event in the past"
+            },
+            {
+              "body" : "\"Um\" opens the clause and \"zu\" + infinitive closes it: \"um … zu untersuchen\" = (in order) to study. In the main clause before it, the separable verb ankommen splits: \"kam … an\".",
+              "example" : "1928 kam die englische Ärztin Lucy Wills in Bombay an, um eine gefährliche Anämie bei Schwangeren zu untersuchen.",
+              "title" : "Um … zu + infinitive for a purpose"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1928 kam die englische Ärztin Lucy Wills in Bombay an, um eine gefährliche Anämie bei Schwangeren zu untersuchen. Die meisten Patientinnen waren Textilarbeiterinnen: arm, blass und erschöpft.",
+            "Wills hatte das Essen im Verdacht. Als sie Ratten mit demselben schlechten Essen fütterte, wurden sie anämisch. Ein Glas billiger Hefeaufstrich hielt die Tiere gesund und heilte die Frauen auf ihrer Krankenstation.",
+            "Das veröffentlichte sie 1931. Der unbekannte Stoff hieß Wills-Faktor, bis er 1941 in Spinatblättern gefunden und Folsäure genannt wurde.",
+            "Heute lautet der Rat: täglich 400 Mikrogramm Folsäure, schon vor der Schwangerschaft und bis zur zwölften Woche. Das senkt das Risiko für Fehlbildungen an Gehirn und Wirbelsäule des Babys.",
+            "Diese entstehen in den ersten vier Wochen, oft bevor eine Frau weiß, dass sie schwanger ist. Manche Frauen brauchen mehr. Fragen Sie deshalb eine Ärztin oder Hebamme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Was die Tiere schützte und … heilte\" is the subject of the whole sentence: a relative clause with \"was\" (what) and its verbs at the end. The main verb \"kam\" follows directly after the comma, and the answer waits until the end.",
+              "example" : "Was die Tiere schützte und dann die Patientinnen auf ihrer Krankenstation heilte, kam aus einem Glas: billiger Hefeaufstrich.",
+              "title" : "A was-clause as the subject"
+            },
+            {
+              "body" : "\"Ohne zu wissen\" = without knowing: where English uses -ing after \"without\", German uses \"ohne … zu\" + infinitive, set off by commas.",
+              "example" : "1931 veröffentlichte sie das Ergebnis, ohne zu wissen, was dieser Stoff war.",
+              "title" : "Ohne zu + infinitive"
+            },
+            {
+              "body" : "\"Deren\" is the genitive relative pronoun for a plural or feminine noun: \"Textilarbeiterinnen, … deren Ernährung\" = textile workers whose diet. It never changes with the noun that follows, and the verb \"war\" goes to the end.",
+              "example" : "Die meisten Patientinnen waren Textilarbeiterinnen, die arm waren und deren Ernährung, wie sie feststellte, mangelhaft war.",
+              "title" : "Deren: \"whose\" in a relative clause"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1928 kam die englische Ärztin Lucy Wills in Bombay an, um einer schweren Anämie bei Schwangeren nachzugehen. Die meisten Patientinnen waren Textilarbeiterinnen, die arm waren und deren Ernährung, wie sie feststellte, mangelhaft war.",
+            "Da sie die Ernährung im Verdacht hatte, fütterte sie Ratten mit derselben Kost und beobachtete, wie diese anämisch wurden. Was die Tiere schützte und dann die Patientinnen auf ihrer Krankenstation heilte, kam aus einem Glas: billiger Hefeaufstrich.",
+            "1931 veröffentlichte sie das Ergebnis, ohne zu wissen, was dieser Stoff war. Er hieß Wills-Faktor, bis er 1941 aus Spinat isoliert und Folsäure genannt wurde, nach dem lateinischen Wort für Blatt.",
+            "Ihre Entdeckung ist ein gängiger Rat: täglich 400 Mikrogramm Folsäure, schon vor der Empfängnis und bis zur zwölften Woche. Das senkt das Risiko für Neuralrohrdefekte wie Spina bifida.",
+            "Das Neuralrohr schließt sich binnen vier Wochen, oft bevor eine Frau von ihrer Schwangerschaft weiß; daher der Rat: früh beginnen. Manche brauchen eine höhere Dosis; darüber entscheidet eine Ärztin oder Hebamme."
+          ]
+        }
+      ],
+      "summary" : "1928 heilte eine englische Ärztin in Bombay erschöpfte Schwangere mit einem Glas billigem Hefeaufstrich, und was sie fand, ist heute ein Rat für jede Schwangerschaft.",
+      "title" : "Das Glas auf der Station",
+      "translationGroup" : "jar-on-the-ward"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-07",
+      "id" : "jar-on-the-ward-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1928: \"es\", \"pregunta\", \"da\". The year shows when it happens.",
+              "example" : "Es 1928 en Bombay, India.",
+              "title" : "Present tense to tell a story"
+            },
+            {
+              "body" : "Spanish has two verbs for \"to be\". Ser says what someone is (son pobres); estar says how someone is at the moment (están pálidas, están cansadas).",
+              "example" : "Muchas mujeres embarazadas están pálidas y muy cansadas.",
+              "title" : "Ser and estar: son pobres, están cansadas"
+            },
+            {
+              "body" : "Advice to one person uses the tú imperative, which for regular verbs looks like the él/ella present form: toma, empieza, pregunta.",
+              "example" : "Pregunta a tu médico o a tu matrona.",
+              "title" : "The tú imperative for advice"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es 1928 en Bombay, India. Lucy Wills es una doctora de Inglaterra. Muchas mujeres embarazadas están pálidas y muy cansadas.",
+            "Las mujeres son pobres y trabajan en fábricas. Lucy pregunta: ¿qué comen? Su comida también es pobre.",
+            "Lucy les da crema de levadura de un tarro. Las mujeres mejoran. Más tarde la vitamina de la crema tiene un nombre: ácido fólico.",
+            "Hoy los médicos dicen: toma ácido fólico todos los días. Empieza antes de estar embarazada. Pregunta a tu médico o a tu matrona."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular -ar verbs end in -ó for él/ella and -aron for ellos/ellas: viajó, estudió, enfermaron, mejoraron. Irregular verbs change: dar → dio, ver → vio.",
+              "example" : "Dio la misma comida a unas ratas, y las ratas enfermaron.",
+              "title" : "Pretérito indefinido: regular and irregular"
+            },
+            {
+              "body" : "\"Los animales siguieron sanos\" means the animals stayed healthy: seguir + adjective says that a state continues.",
+              "example" : "Con crema de levadura de un tarro barato, los animales siguieron sanos y las mujeres mejoraron.",
+              "title" : "Seguir + adjective = to stay"
+            },
+            {
+              "body" : "After a preposition Spanish uses the infinitive: antes de estar embarazada = before being pregnant, before you are pregnant.",
+              "example" : "Empieza antes de estar embarazada y sigue durante las primeras doce semanas.",
+              "title" : "Antes de + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1928 Lucy Wills, una doctora de Inglaterra, viajó a Bombay, en la India. Allí vio a muchas mujeres embarazadas pálidas y muy cansadas.",
+            "La mayoría eran pobres y tenían trabajo en fábricas textiles. Lucy estudió su comida, y era pobre.",
+            "Dio la misma comida a unas ratas, y las ratas enfermaron. Con crema de levadura de un tarro barato, los animales siguieron sanos y las mujeres mejoraron.",
+            "Escribió sobre esto en 1931. Más tarde, los científicos llamaron ácido fólico a la vitamina de la levadura.",
+            "Hoy los médicos dicen: toma 400 microgramos de ácido fólico todos los días. Empieza antes de estar embarazada y sigue durante las primeras doce semanas. El ácido fólico reduce el riesgo de problemas en el cerebro y la columna del bebé. Pregunta a tu médico o a tu matrona."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is ser + past participle, and the participle agrees with the subject: la sustancia fue encontrada. It is used when the thing matters more than who did it.",
+              "example" : "La sustancia desconocida se llamó «factor de Wills» hasta 1941, cuando fue encontrada en hojas de espinaca y recibió el nombre de ácido fólico.",
+              "title" : "Passive with ser: fue encontrada"
+            },
+            {
+              "body" : "\"Cuando dio…, enfermaron\": the cuando-clause gives the action, the main clause what followed; both are finished events, so both take the pretérito indefinido.",
+              "example" : "Cuando dio a unas ratas la misma dieta pobre, enfermaron de anemia.",
+              "title" : "Cuando + indefinido for action and result"
+            },
+            {
+              "body" : "\"Antes de que\" always takes the subjunctive, because the action has not happened yet: antes de que la mujer sepa (from saber) = before the woman knows.",
+              "example" : "Estos defectos se forman en las primeras cuatro semanas, a menudo antes de que la mujer sepa que está embarazada.",
+              "title" : "Antes de que + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1928 Lucy Wills, médica inglesa, llegó a Bombay para estudiar una anemia peligrosa en mujeres embarazadas. La mayoría de las pacientes eran obreras textiles pobres, pálidas y agotadas.",
+            "Wills sospechaba de su comida. Cuando dio a unas ratas la misma dieta pobre, enfermaron de anemia. Un tarro de crema de levadura barata mantuvo sanos a los animales y curó a las mujeres de su sala.",
+            "Lo publicó en 1931. La sustancia desconocida se llamó «factor de Wills» hasta 1941, cuando fue encontrada en hojas de espinaca y recibió el nombre de ácido fólico.",
+            "Hoy el consejo es: 400 microgramos de ácido fólico cada día, desde antes del embarazo hasta la semana doce. Esto reduce el riesgo de defectos en el cerebro y la columna vertebral del bebé.",
+            "Estos defectos se forman en las primeras cuatro semanas, a menudo antes de que la mujer sepa que está embarazada. Algunas mujeres necesitan más, así que pregunta a un médico o una matrona."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Lo que protegió a los animales… salió de un tarro\": the whole lo que-clause (what…) is the subject. It holds back the answer until the end of the sentence.",
+              "example" : "Lo que protegió a los animales, y luego curó a las pacientes de su sala, salió de un tarro: crema de levadura barata.",
+              "title" : "Lo que… as the subject"
+            },
+            {
+              "body" : "\"Sin saber\" means \"and she did not know\": after a preposition Spanish uses the infinitive, where English uses -ing (without knowing).",
+              "example" : "Publicó el resultado en 1931 sin saber qué era la sustancia.",
+              "title" : "Sin + infinitive"
+            },
+            {
+              "body" : "\"Obreras… cuya dieta\": cuyo links the workers to their diet and agrees with the thing possessed (la dieta → cuya), not with the owners.",
+              "example" : "La mayoría de las pacientes eran obreras textiles pobres cuya dieta, según comprobó, era deficiente.",
+              "title" : "Cuyo, cuya = whose"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1928 Lucy Wills, médica inglesa, llegó a Bombay para investigar una anemia grave en mujeres embarazadas. La mayoría de las pacientes eran obreras textiles pobres cuya dieta, según comprobó, era deficiente.",
+            "Sospechando de la comida, alimentó a unas ratas con la misma dieta y las vio volverse anémicas. Lo que protegió a los animales, y luego curó a las pacientes de su sala, salió de un tarro: crema de levadura barata.",
+            "Publicó el resultado en 1931 sin saber qué era la sustancia. Se la llamó «factor de Wills» hasta 1941, cuando fue aislada de espinacas y recibió el nombre de ácido fólico, por la palabra latina para «hoja».",
+            "Su hallazgo es un consejo de rutina: 400 microgramos de ácido fólico al día, desde antes de la concepción hasta la semana doce. Esto reduce el riesgo de defectos del tubo neural, como la espina bífida.",
+            "El tubo neural se cierra en las cuatro primeras semanas, a menudo antes de que la mujer sepa que está embarazada; de ahí el consejo: empezar pronto. Algunas necesitan una dosis mayor; lo decide un médico o una matrona."
+          ]
+        }
+      ],
+      "summary" : "En 1928, una médica inglesa curó en Bombay a embarazadas agotadas con un tarro de crema de levadura barata, y lo que encontró es hoy un consejo para cada embarazo.",
+      "title" : "El tarro del hospital",
+      "translationGroup" : "jar-on-the-ward"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-07",
+      "id" : "jar-on-the-ward-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "This A1 story is told in the present, even for 1928: \"è\", \"chiede\", \"dà\". A year takes the article in Italian: \"il 1928\".",
+              "example" : "È il 1928 a Bombay, in India.",
+              "title" : "Present tense for a story"
+            },
+            {
+              "body" : "Advice to one person uses the tu imperative. For -are verbs it ends in -a (comincia); for -ere and -ire verbs it is the same as the tu present (prendi, chiedi).",
+              "example" : "Chiedi al tuo medico o alla tua ostetrica.",
+              "title" : "The tu imperative: prendi, comincia, chiedi"
+            },
+            {
+              "body" : "Before a noun \"molto\" is an adjective and agrees with it: \"molte donne\". Before an adjective it means \"very\" and never changes: \"molto stanche\".",
+              "example" : "Molte donne incinte sono pallide e molto stanche.",
+              "title" : "Molte and molto: many and very"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il 1928 a Bombay, in India. Lucy Wills è una dottoressa inglese. Molte donne incinte sono pallide e molto stanche.",
+            "Le donne sono povere e lavorano nelle fabbriche. Lucy chiede: che cosa mangiano? Anche il loro cibo è povero.",
+            "Lucy dà alle donne crema di lievito da un barattolo. Le donne stanno meglio. Nella crema c'è una vitamina. Più tardi riceve un nome: acido folico.",
+            "Oggi i medici dicono: prendi acido folico ogni giorno. Comincia prima di essere incinta. Chiedi al tuo medico o alla tua ostetrica."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement such as andare take essere, and the participle agrees with the subject: \"Lucy è andata\" (feminine singular), \"le donne sono state\" (feminine plural).",
+              "example" : "Nel 1928 Lucy Wills, una dottoressa inglese, è andata a Bombay, in India.",
+              "title" : "Passato prossimo with essere: the participle agrees"
+            },
+            {
+              "body" : "Most verbs form the passato prossimo with avere and a fixed participle: \"ha dato\". A reflexive verb always takes essere, and its participle agrees: \"i ratti si sono ammalati\".",
+              "example" : "Ha dato lo stesso cibo ai ratti e i ratti si sono ammalati.",
+              "title" : "Avere for most verbs, essere for reflexives"
+            },
+            {
+              "body" : "\"Ne\" replaces \"di\" + a thing already mentioned: \"ne ha scritto\" = \"ha scritto di questo\", she wrote about it. It goes before the verb.",
+              "example" : "Ne ha scritto nel 1931.",
+              "title" : "Ne = about it"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1928 Lucy Wills, una dottoressa inglese, è andata a Bombay, in India. Lì molte donne incinte erano pallide e molto stanche.",
+            "La maggior parte era povera e aveva un lavoro nelle fabbriche tessili. Lucy ha studiato il loro cibo: era povero.",
+            "Ha dato lo stesso cibo ai ratti e i ratti si sono ammalati. La crema di lievito di un barattolo economico ha mantenuto sani gli animali. Anche le donne sono state meglio.",
+            "Ne ha scritto nel 1931. Più tardi gli scienziati hanno chiamato la vitamina del lievito acido folico.",
+            "Oggi i medici dicono: prendi 400 microgrammi di acido folico ogni giorno. Comincia prima di essere incinta e continua per le prime dodici settimane. L'acido folico riduce il rischio di problemi al cervello e alla colonna vertebrale del bambino. Chiedi al tuo medico o alla tua ostetrica."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is essere + past participle; in the passato prossimo that gives \"è stata\" + participle, and both participles agree with the subject (la sostanza: stata chiamata, stata trovata).",
+              "example" : "La sostanza ignota è stata chiamata fattore Wills fino al 1941, quando è stata trovata nelle foglie di spinaci e chiamata acido folico.",
+              "title" : "Passive in the passato prossimo: è stata chiamata"
+            },
+            {
+              "body" : "\"Prima che\" always takes the subjunctive: \"prima che una donna sappia\" (from sapere), never \"sa\". When the subject stays the same, Italian uses \"prima di\" + infinitive instead.",
+              "example" : "Questi difetti si formano nelle prime quattro settimane, spesso prima che una donna sappia di essere incinta.",
+              "title" : "Prima che + subjunctive"
+            },
+            {
+              "body" : "\"È arrivata a Bombay per studiare…\" answers the question why: per + infinitive gives the purpose when the subject is the same.",
+              "example" : "Nel 1928 Lucy Wills, una dottoressa inglese, è arrivata a Bombay per studiare un'anemia pericolosa nelle donne incinte.",
+              "title" : "Per + infinitive for a purpose"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1928 Lucy Wills, una dottoressa inglese, è arrivata a Bombay per studiare un'anemia pericolosa nelle donne incinte. Le pazienti erano per lo più povere operaie tessili, pallide ed esauste.",
+            "Wills sospettava del cibo. Quando ha dato ai ratti la stessa dieta povera, anche loro sono diventati anemici. Un barattolo di crema di lievito economica ha mantenuto sani gli animali e guarito le donne della sua corsia.",
+            "Lo ha pubblicato nel 1931. La sostanza ignota è stata chiamata fattore Wills fino al 1941, quando è stata trovata nelle foglie di spinaci e chiamata acido folico.",
+            "Oggi il consiglio è: 400 microgrammi di acido folico ogni giorno, da prima della gravidanza fino alla dodicesima settimana. L'acido folico riduce il rischio di difetti del cervello e della colonna vertebrale del bambino.",
+            "Questi difetti si formano nelle prime quattro settimane, spesso prima che una donna sappia di essere incinta. Alcune donne ne hanno bisogno di più, quindi chiedi a un medico o a un'ostetrica."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Italian has no single word for the relative \"what\"; it uses \"ciò che\" (or \"quello che\"). Here the whole clause is the subject of \"uscì\", which holds the answer back until the end.",
+              "example" : "Ciò che protesse gli animali, e poi guarì le pazienti della sua corsia, uscì da un barattolo: crema di lievito economica.",
+              "title" : "Ciò che: a what-clause as the subject"
+            },
+            {
+              "body" : "\"Senza sapere\" means \"and she did not know\": after a preposition Italian uses the infinitive. The indirect question that follows takes the imperfect subjunctive in formal style: \"che cosa fosse\".",
+              "example" : "Pubblicò il risultato nel 1931 senza sapere che cosa fosse la sostanza.",
+              "title" : "Senza + infinitive, then a subjunctive question"
+            },
+            {
+              "body" : "\"Cui\" between the article and the noun means whose: \"operaie la cui alimentazione\" = workers whose diet. The article agrees with the thing possessed (l'alimentazione), not with the owners.",
+              "example" : "Le pazienti erano per lo più povere operaie tessili, la cui alimentazione, constatò, era carente.",
+              "title" : "La cui: whose"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1928 Lucy Wills, una dottoressa inglese, arrivò a Bombay per indagare su una grave anemia delle donne incinte. Le pazienti erano per lo più povere operaie tessili, la cui alimentazione, constatò, era carente.",
+            "Sospettando del cibo, diede ai ratti la stessa dieta e li vide diventare anemici. Ciò che protesse gli animali, e poi guarì le pazienti della sua corsia, uscì da un barattolo: crema di lievito economica.",
+            "Pubblicò il risultato nel 1931 senza sapere che cosa fosse la sostanza. Fu chiamata fattore Wills fino al 1941, quando fu isolata dagli spinaci e denominata acido folico, dalla parola latina per foglia.",
+            "Il suo risultato è un consiglio di routine: 400 microgrammi di acido folico al giorno, da prima del concepimento fino alla dodicesima settimana. L'acido folico riduce il rischio di difetti del tubo neurale come la spina bifida.",
+            "Il tubo neurale si chiude entro quattro settimane, spesso prima che una donna sappia di essere incinta. Perciò il consiglio è: cominciare presto. Ad alcune serve una dose più alta; lo decide un medico o un'ostetrica."
+          ]
+        }
+      ],
+      "summary" : "Nel 1928 una dottoressa inglese a Bombay ha guarito donne incinte esauste con un barattolo di crema di lievito economica, e ciò che ha scoperto è oggi un consiglio per ogni gravidanza.",
+      "title" : "Il barattolo in corsia",
+      "translationGroup" : "jar-on-the-ward"
     }
   ]
 }
