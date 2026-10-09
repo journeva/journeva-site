@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 9,
-  "generatedAt" : "2026-10-08",
+  "contentVersion" : 10,
+  "generatedAt" : "2026-10-09",
   "glossary" : {
     "english" : [
       {
@@ -22735,6 +22735,199 @@
         "note" : "From win: winner, the one who wins.",
         "pos" : "noun",
         "translation" : "the person who wins"
+      },
+      {
+        "forms" : [
+          "100"
+        ],
+        "note" : "100 grams is said \"a hundred grams\".",
+        "pos" : "number",
+        "translation" : "one hundred"
+      },
+      {
+        "forms" : [
+          "1894"
+        ],
+        "note" : "The year the Tatin sisters began to run their hotel; said \"eighteen ninety-four\".",
+        "pos" : "number",
+        "translation" : "1894"
+      },
+      {
+        "forms" : [
+          "1906"
+        ],
+        "note" : "The year the sisters stopped running the hotel.",
+        "pos" : "number",
+        "translation" : "1906"
+      },
+      {
+        "forms" : [
+          "careful"
+        ],
+        "note" : "\"Careful!\" alone is a short warning: be careful.",
+        "pos" : "adjective",
+        "translation" : "taking care; a warning to watch out"
+      },
+      {
+        "forms" : [
+          "caroline"
+        ],
+        "note" : "A first name: Caroline Tatin, one of the two sisters.",
+        "pos" : "noun",
+        "translation" : "Caroline"
+      },
+      {
+        "forms" : [
+          "existed"
+        ],
+        "note" : "Past tense of exist.",
+        "pos" : "verb",
+        "translation" : "was real; was there"
+      },
+      {
+        "forms" : [
+          "grams"
+        ],
+        "note" : "Plural of gram. A thousand grams make a kilo.",
+        "pos" : "noun",
+        "translation" : "small units of weight"
+      },
+      {
+        "forms" : [
+          "halved"
+        ],
+        "note" : "Past participle of halve: an apple halved is two halves.",
+        "pos" : "verb",
+        "translation" : "cut into two equal parts"
+      },
+      {
+        "forms" : [
+          "halves"
+        ],
+        "note" : "The irregular plural of half: one half, two halves.",
+        "pos" : "noun",
+        "translation" : "the two equal parts of something"
+      },
+      {
+        "forms" : [
+          "hotel"
+        ],
+        "note" : "The plural is hotels.",
+        "pos" : "noun",
+        "translation" : "a building where travellers pay to sleep and eat"
+      },
+      {
+        "forms" : [
+          "kilo"
+        ],
+        "note" : "Short for kilogram. A kilo of apples is about six to eight apples.",
+        "pos" : "noun",
+        "translation" : "a thousand grams"
+      },
+      {
+        "forms" : [
+          "lamotte-beuvron"
+        ],
+        "note" : "A small town in the middle of France, where the Tatin sisters had their hotel.",
+        "pos" : "noun",
+        "translation" : "Lamotte-Beuvron"
+      },
+      {
+        "forms" : [
+          "legend"
+        ],
+        "note" : "\"Legend has it that…\" = people tell the story that…",
+        "pos" : "noun",
+        "translation" : "an old story that people tell but nobody can prove"
+      },
+      {
+        "forms" : [
+          "ovenproof"
+        ],
+        "note" : "Oven + proof: an ovenproof pan has no plastic handle that can melt.",
+        "pos" : "adjective",
+        "translation" : "safe to put in a hot oven"
+      },
+      {
+        "forms" : [
+          "pack"
+        ],
+        "note" : "\"Pack the apples tightly\" = put them in with no room between them.",
+        "pos" : "verb",
+        "translation" : "to put things closely together so that they fill a space"
+      },
+      {
+        "forms" : [
+          "pastry"
+        ],
+        "note" : "A \"round of pastry\" is a flat circle of it.",
+        "pos" : "noun",
+        "translation" : "a dough of flour, butter and water for tarts and pies"
+      },
+      {
+        "forms" : [
+          "peeled"
+        ],
+        "note" : "Past participle of peel: a peeled apple has no skin.",
+        "pos" : "verb",
+        "translation" : "with the skin taken off"
+      },
+      {
+        "forms" : [
+          "popular"
+        ],
+        "note" : "\"Popular with hunters\" = many hunters liked it.",
+        "pos" : "adjective",
+        "translation" : "liked by many people"
+      },
+      {
+        "forms" : [
+          "sologne"
+        ],
+        "note" : "A region of forests and lakes in the middle of France.",
+        "pos" : "noun",
+        "translation" : "the Sologne"
+      },
+      {
+        "forms" : [
+          "stéphanie"
+        ],
+        "note" : "A French first name: Stéphanie Tatin, the sister who cooked.",
+        "pos" : "noun",
+        "translation" : "Stéphanie"
+      },
+      {
+        "forms" : [
+          "tart",
+          "tarts"
+        ],
+        "note" : "A tart has pastry underneath and no pastry on top. This one is turned over.",
+        "pos" : "noun",
+        "translation" : "an open pie, often with fruit"
+      },
+      {
+        "forms" : [
+          "tatin"
+        ],
+        "note" : "The family name of the two sisters; the tart is named after them.",
+        "pos" : "noun",
+        "translation" : "Tatin"
+      },
+      {
+        "forms" : [
+          "upside"
+        ],
+        "note" : "\"Upside down\" = with the top at the bottom.",
+        "pos" : "noun",
+        "translation" : "upside (in \"upside down\")"
+      },
+      {
+        "forms" : [
+          "upside-down"
+        ],
+        "note" : "With a hyphen it is an adjective before a noun: an upside-down tart.",
+        "pos" : "adjective",
+        "translation" : "with the top at the bottom"
       }
     ],
     "french" : [
@@ -29393,7 +29586,8 @@
       },
       {
         "forms" : [
-          "cuit"
+          "cuit",
+          "cuite"
         ],
         "note" : "Past participle of cuire.",
         "pos" : "verb",
@@ -45148,7 +45342,8 @@
       },
       {
         "forms" : [
-          "né"
+          "né",
+          "née"
         ],
         "gender" : "masculine",
         "note" : "Past participle of naître, used as an adjective.",
@@ -53570,6 +53765,336 @@
         "note" : "Infinitive; « se nourrir de » = to feed on, to live on something.",
         "pos" : "verb",
         "translation" : "to feed"
+      },
+      {
+        "forms" : [
+          "1894"
+        ],
+        "note" : "The year the story begins: « nous sommes en 1894 » = it is 1894; read « mille huit cent quatre-vingt-quatorze ».",
+        "pos" : "number",
+        "translation" : "1894"
+      },
+      {
+        "forms" : [
+          "hôtel"
+        ],
+        "gender" : "masculine",
+        "note" : "The h is silent, so « le » becomes « l' »: « l'hôtel »; « tenir un hôtel » = to run a hotel.",
+        "pos" : "noun",
+        "translation" : "hotel"
+      },
+      {
+        "forms" : [
+          "stéphanie"
+        ],
+        "note" : "Stéphanie Tatin, the sister who did the cooking at the hotel.",
+        "pos" : "noun",
+        "translation" : "Stéphanie"
+      },
+      {
+        "forms" : [
+          "tatin"
+        ],
+        "note" : "The family name of the two sisters, Stéphanie and Caroline Tatin.",
+        "pos" : "noun",
+        "translation" : "Tatin"
+      },
+      {
+        "forms" : [
+          "tarte",
+          "tartes"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une tarte aux pommes » = an apple tart; « aux » (à + les) names what is in it.",
+        "pos" : "noun",
+        "translation" : "tart(s)"
+      },
+      {
+        "forms" : [
+          "l'envers"
+        ],
+        "gender" : "masculine",
+        "note" : "« À l'envers » = upside down, the wrong way round; l' is « le » shortened before a vowel.",
+        "pos" : "noun",
+        "translation" : "the wrong side, the reverse"
+      },
+      {
+        "forms" : [
+          "coupées"
+        ],
+        "note" : "Past participle of couper, agreeing with « pommes »: « des pommes coupées en deux » = apples cut in two, halved.",
+        "pos" : "verb",
+        "translation" : "cut (feminine plural)"
+      },
+      {
+        "forms" : [
+          "renversez"
+        ],
+        "note" : "Renverser, « vous » imperative: « renversez le tout » = turn the whole thing over, so that the top ends up underneath.",
+        "pos" : "verb",
+        "translation" : "turn upside down, turn over"
+      },
+      {
+        "forms" : [
+          "caroline"
+        ],
+        "note" : "Caroline Tatin, Stéphanie's sister; the two ran the hotel together.",
+        "pos" : "noun",
+        "translation" : "Caroline"
+      },
+      {
+        "forms" : [
+          "tenu"
+        ],
+        "note" : "Past participle of tenir (to hold); « tenir un hôtel » = to run a hotel: « elles ont tenu un hôtel ».",
+        "pos" : "verb",
+        "translation" : "run, kept (a hotel)"
+      },
+      {
+        "forms" : [
+          "lamotte-beuvron"
+        ],
+        "note" : "The French town where the sisters' hotel stood, facing the station.",
+        "pos" : "noun",
+        "translation" : "Lamotte-Beuvron"
+      },
+      {
+        "forms" : [
+          "cuisinière"
+        ],
+        "gender" : "feminine",
+        "note" : "The woman who cooks; the masculine is « cuisinier ». The same word also names the kitchen stove.",
+        "pos" : "noun",
+        "translation" : "cook (woman)"
+      },
+      {
+        "forms" : [
+          "100"
+        ],
+        "note" : "Read « cent »: « 100 grammes de beurre » = 100 grams of butter.",
+        "pos" : "number",
+        "translation" : "100"
+      },
+      {
+        "forms" : [
+          "grammes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un gramme »; a quantity takes « de »: « 100 grammes de sucre ».",
+        "pos" : "noun",
+        "translation" : "grams"
+      },
+      {
+        "forms" : [
+          "kilo"
+        ],
+        "gender" : "masculine",
+        "note" : "Short for « kilogramme »; « un kilo de pommes » = a kilo of apples.",
+        "pos" : "noun",
+        "translation" : "kilo, kilogram"
+      },
+      {
+        "forms" : [
+          "légende"
+        ],
+        "gender" : "feminine",
+        "note" : "A story people tell that is not proven: « c'est une légende » = it is a legend.",
+        "pos" : "noun",
+        "translation" : "legend"
+      },
+      {
+        "forms" : [
+          "1906"
+        ],
+        "note" : "The last year the sisters ran the hotel: « de 1894 à 1906 » = from 1894 to 1906.",
+        "pos" : "number",
+        "translation" : "1906"
+      },
+      {
+        "forms" : [
+          "sologne"
+        ],
+        "gender" : "feminine",
+        "note" : "A region of France; « en Sologne » = in the Sologne, with « en » before a feminine region.",
+        "pos" : "noun",
+        "translation" : "the Sologne"
+      },
+      {
+        "forms" : [
+          "apprécié"
+        ],
+        "note" : "Past participle of apprécier; « très apprécié des chasseurs » = very popular with hunters (de + les = des).",
+        "pos" : "adjective",
+        "translation" : "appreciated, popular"
+      },
+      {
+        "forms" : [
+          "raconte"
+        ],
+        "note" : "Raconter (to tell a story), present; « on raconte que… » = people say that…, the story goes that…",
+        "pos" : "verb",
+        "translation" : "tells, says"
+      },
+      {
+        "forms" : [
+          "existaient"
+        ],
+        "note" : "Imparfait of exister, ils/elles form: « de telles tartes existaient déjà » = such tarts already existed.",
+        "pos" : "verb",
+        "translation" : "existed"
+      },
+      {
+        "forms" : [
+          "allant"
+        ],
+        "note" : "Present participle of aller; « une poêle allant au four » = a pan that can go in the oven, an ovenproof pan.",
+        "pos" : "verb",
+        "translation" : "going"
+      },
+      {
+        "forms" : [
+          "rangez-y"
+        ],
+        "note" : "Ranger (to arrange, to put in place), « vous » imperative + « y » (there, in it): the apples go into the pan.",
+        "pos" : "verb",
+        "translation" : "arrange in it"
+      },
+      {
+        "forms" : [
+          "serrées"
+        ],
+        "note" : "Past participle of serrer (to squeeze), agreeing with « pommes »: « bien serrées » = packed close together.",
+        "pos" : "adjective",
+        "translation" : "packed tightly (feminine plural)"
+      },
+      {
+        "forms" : [
+          "fermes"
+        ],
+        "note" : "Plural of the adjective « ferme » (firm, not soft); it follows the noun: « des pommes fermes ».",
+        "pos" : "adjective",
+        "translation" : "firm (plural)"
+      },
+      {
+        "forms" : [
+          "pelées"
+        ],
+        "note" : "Past participle of peler (to peel), agreeing with « pommes »: « pelées et coupées en deux ».",
+        "pos" : "verb",
+        "translation" : "peeled (feminine plural)"
+      },
+      {
+        "forms" : [
+          "disque"
+        ],
+        "gender" : "masculine",
+        "note" : "A flat round shape; « un disque de pâte » = a round of pastry.",
+        "pos" : "noun",
+        "translation" : "disc, round"
+      },
+      {
+        "forms" : [
+          "rentrez"
+        ],
+        "note" : "Rentrer, « vous » imperative; « rentrez les bords » = push the edges inside, tuck them in.",
+        "pos" : "verb",
+        "translation" : "tuck in"
+      },
+      {
+        "forms" : [
+          "n'empêche"
+        ],
+        "note" : "Ne + empêche (empêcher, to prevent); « cela n'empêche pas la tarte de… » = that does not stop the tart from…",
+        "pos" : "verb",
+        "translation" : "does not prevent"
+      },
+      {
+        "forms" : [
+          "porter"
+        ],
+        "note" : "Infinitive; « porter un nom » = to bear a name: « porter leur nom » = to carry their name.",
+        "pos" : "verb",
+        "translation" : "to carry, to bear"
+      },
+      {
+        "forms" : [
+          "tinrent"
+        ],
+        "note" : "Passé simple of tenir, ils/elles form, the written past: « elles tinrent un hôtel » = they ran a hotel.",
+        "pos" : "verb",
+        "translation" : "ran, kept (passé simple)"
+      },
+      {
+        "forms" : [
+          "prisé"
+        ],
+        "note" : "A more formal word than « apprécié »; « prisé des chasseurs » = popular with hunters.",
+        "pos" : "adjective",
+        "translation" : "prized, popular"
+      },
+      {
+        "forms" : [
+          "cuisait"
+        ],
+        "note" : "Imparfait of cuire, for a habit in the past: « elle cuisait sa tarte à l'envers » = she baked her tart upside down.",
+        "pos" : "verb",
+        "translation" : "baked, used to cook"
+      },
+      {
+        "forms" : [
+          "ajoutée"
+        ],
+        "note" : "Past participle of ajouter; it agrees with the object placed before it, « l' » = la pâte: « l'ait ajoutée ».",
+        "pos" : "verb",
+        "translation" : "added (feminine)"
+      },
+      {
+        "forms" : [
+          "renversées"
+        ],
+        "note" : "Past participle of renverser used as an adjective: « une tarte renversée » = an upside-down tart.",
+        "pos" : "adjective",
+        "translation" : "upside-down, turned over (feminine plural)"
+      },
+      {
+        "forms" : [
+          "serrez-y"
+        ],
+        "note" : "Serrer (to squeeze, to pack tightly), « vous » imperative + « y » (there, in it): pack the apples into the pan.",
+        "pos" : "verb",
+        "translation" : "pack in (there)"
+      },
+      {
+        "forms" : [
+          "enfournez"
+        ],
+        "note" : "Enfourner, « vous » imperative: en + four (oven) = to put into the oven.",
+        "pos" : "verb",
+        "translation" : "put in the oven, bake"
+      },
+      {
+        "forms" : [
+          "fermement"
+        ],
+        "note" : "From ferme (firm) + -ment: « fermement tenue » = held firmly.",
+        "pos" : "adverb",
+        "translation" : "firmly"
+      },
+      {
+        "forms" : [
+          "mirent"
+        ],
+        "note" : "Passé simple of mettre, ils/elles form; « mettre par écrit » = to put in writing, to write down.",
+        "pos" : "verb",
+        "translation" : "put (passé simple)"
+      },
+      {
+        "forms" : [
+          "donnèrent"
+        ],
+        "note" : "Passé simple of donner, ils/elles form: « ni ne donnèrent leur nom à la tarte » = nor gave the tart their name.",
+        "pos" : "verb",
+        "translation" : "gave (passé simple)"
       }
     ],
     "german" : [
@@ -57433,7 +57958,8 @@
       {
         "forms" : [
           "schreiben",
-          "schrieb"
+          "schrieb",
+          "schrieben"
         ],
         "note" : "\"Schrieb\" is the past tense (ich/er/sie/es form). Separable: … ab = abschreiben, to copy out; … auf = aufschreiben, to write down.",
         "pos" : "verb",
@@ -60252,7 +60778,8 @@
       },
       {
         "forms" : [
-          "fest"
+          "fest",
+          "feste"
         ],
         "note" : "Also used adverbially. At the end of a clause, „fest“ is usually the detached half of a separable verb (feststellen …): the meaning is on the verb's card.",
         "pos" : "adjective",
@@ -67173,7 +67700,8 @@
       },
       {
         "forms" : [
-          "jäger"
+          "jäger",
+          "jägern"
         ],
         "gender" : "masculine",
         "note" : "Same form singular and plural.",
@@ -71362,7 +71890,8 @@
       },
       {
         "forms" : [
-          "gehalten"
+          "gehalten",
+          "gehaltenen"
         ],
         "note" : "Past participle of \"halten.\"",
         "pos" : "verb",
@@ -84695,6 +85224,269 @@
         "note" : "Nähren: to give food to; „sich von etwas nähren“ = to feed on something. „Genährter“ is the Partizip II before a noun: „mit Hass genährter Hass“ = hatred fed with hatred.",
         "pos" : "verb",
         "translation" : "to feed, to nourish; fed"
+      },
+      {
+        "forms" : [
+          "1894"
+        ],
+        "note" : "The year the sisters' story begins, said „achtzehnhundertvierundneunzig“: „ab 1894“ = from 1894 on.",
+        "pos" : "number",
+        "translation" : "1894"
+      },
+      {
+        "forms" : [
+          "1906"
+        ],
+        "note" : "A year, said „neunzehnhundertsechs“: „von 1894 bis 1906“ = from 1894 to 1906.",
+        "pos" : "number",
+        "translation" : "1906"
+      },
+      {
+        "forms" : [
+          "100"
+        ],
+        "note" : "Said „hundert“ or „einhundert“: „100 Gramm Butter“ = 100 grams of butter.",
+        "pos" : "number",
+        "translation" : "100"
+      },
+      {
+        "forms" : [
+          "stéphanie"
+        ],
+        "gender" : "feminine",
+        "note" : "Stéphanie Tatin, the sister who cooked in the hotel; a first name takes no article.",
+        "pos" : "noun",
+        "translation" : "Stéphanie"
+      },
+      {
+        "forms" : [
+          "caroline"
+        ],
+        "gender" : "feminine",
+        "note" : "Caroline Tatin, Stéphanie's sister; the two ran the hotel together.",
+        "pos" : "noun",
+        "translation" : "Caroline"
+      },
+      {
+        "forms" : [
+          "tatin"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of the sisters Stéphanie and Caroline; today the tart carries it.",
+        "pos" : "noun",
+        "translation" : "Tatin"
+      },
+      {
+        "forms" : [
+          "lamotte-beuvron"
+        ],
+        "gender" : "neuter",
+        "note" : "The town in France where the sisters had their hotel; town names take no article: „in Lamotte-Beuvron“.",
+        "pos" : "noun",
+        "translation" : "Lamotte-Beuvron"
+      },
+      {
+        "forms" : [
+          "sologne"
+        ],
+        "gender" : "feminine",
+        "note" : "A region of France; in German it keeps its article: „in der Sologne“.",
+        "pos" : "noun",
+        "translation" : "the Sologne"
+      },
+      {
+        "forms" : [
+          "hotel"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Hotel, plural Hotels: „ein kleines Hotel“ = a small hotel.",
+        "pos" : "noun",
+        "translation" : "hotel"
+      },
+      {
+        "forms" : [
+          "tarte",
+          "tartes"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Tarte, a word taken from French; the plural is Tartes: „solche Tartes“ = such tarts.",
+        "pos" : "noun",
+        "translation" : "tart(s)"
+      },
+      {
+        "forms" : [
+          "apfeltarte"
+        ],
+        "gender" : "feminine",
+        "note" : "Apfel + Tarte; the last word gives the gender: die Apfeltarte.",
+        "pos" : "noun",
+        "translation" : "apple tart"
+      },
+      {
+        "forms" : [
+          "vorsicht"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Vorsicht (caution); alone it is a warning: „Vorsicht, heiß!“ = careful, hot!",
+        "pos" : "noun",
+        "translation" : "careful!; caution"
+      },
+      {
+        "forms" : [
+          "legende"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Legende: a story people tell without proof. „Der Legende nach“ = according to legend; in this phrase „nach“ follows its noun.",
+        "pos" : "noun",
+        "translation" : "legend"
+      },
+      {
+        "forms" : [
+          "gramm"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Gramm stays singular after a number and needs no „of“: „100 Gramm Butter“ = 100 grams of butter.",
+        "pos" : "noun",
+        "translation" : "gram(s)"
+      },
+      {
+        "forms" : [
+          "kilo"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Kilo, short for Kilogramm; it stays singular after a number and needs no „of“: „ein Kilo Äpfel“ = a kilo of apples.",
+        "pos" : "noun",
+        "translation" : "kilo(s)"
+      },
+      {
+        "forms" : [
+          "teigplatte"
+        ],
+        "gender" : "feminine",
+        "note" : "Teig + Platte: dough rolled out flat; „eine runde Teigplatte“ = a round of pastry.",
+        "pos" : "noun",
+        "translation" : "sheet of pastry"
+      },
+      {
+        "forms" : [
+          "gegenüber"
+        ],
+        "note" : "Takes the dative: „gegenüber dem Bahnhof“; in speech often „gegenüber vom Bahnhof“ = opposite the station.",
+        "pos" : "preposition",
+        "translation" : "opposite"
+      },
+      {
+        "forms" : [
+          "oben"
+        ],
+        "note" : "The opposite of unten: „oben der Teig“ = the pastry on top.",
+        "pos" : "adverb",
+        "translation" : "on top, above"
+      },
+      {
+        "forms" : [
+          "ofenfesten"
+        ],
+        "note" : "Ofen + fest: it can go into the oven; -en is the dative ending after „in einer“: „in einer ofenfesten Pfanne“.",
+        "pos" : "adjective",
+        "translation" : "ovenproof"
+      },
+      {
+        "forms" : [
+          "halbiert",
+          "halbierte"
+        ],
+        "note" : "Partizip II of halbieren (to halve) used like an adjective: „halbierte Äpfel“ = halved apples; after the noun it takes no ending.",
+        "pos" : "adjective",
+        "translation" : "halved, cut in half"
+      },
+      {
+        "forms" : [
+          "gebacken"
+        ],
+        "note" : "Partizip II of backen (to bake): „hat … gebacken“ = baked, „wurde … gebacken“ = was baked.",
+        "pos" : "verb",
+        "translation" : "baked"
+      },
+      {
+        "forms" : [
+          "beliebt"
+        ],
+        "note" : "„Bei“ + dative says with whom: „bei Jägern beliebt“ = popular with hunters.",
+        "pos" : "adjective",
+        "translation" : "popular"
+      },
+      {
+        "forms" : [
+          "kopfüber"
+        ],
+        "note" : "Kopf + über: with the top at the bottom; „kopfüber gebacken“ = baked upside down.",
+        "pos" : "adverb",
+        "translation" : "upside down, head first"
+      },
+      {
+        "forms" : [
+          "führten"
+        ],
+        "note" : "Präteritum of führen (to lead): with a hotel or a shop it means to run it; „führten ein Hotel“ = ran a hotel.",
+        "pos" : "verb",
+        "translation" : "ran, managed"
+      },
+      {
+        "forms" : [
+          "geschält"
+        ],
+        "note" : "Partizip II of schälen (to peel); after the noun and between commas it takes no ending: „Äpfel, geschält und halbiert“.",
+        "pos" : "adjective",
+        "translation" : "peeled"
+      },
+      {
+        "forms" : [
+          "runde"
+        ],
+        "note" : "Rund (round) with the ending -e after „eine“ + feminine noun: „eine runde Teigplatte“ = a round sheet of pastry.",
+        "pos" : "adjective",
+        "translation" : "round"
+      },
+      {
+        "forms" : [
+          "bedecken"
+        ],
+        "note" : "Bedecken + accusative, with „mit“ for the cover: „die Pfanne mit einem Teller bedecken“ = to cover the pan with a plate. The prefix be- never separates.",
+        "pos" : "verb",
+        "translation" : "to cover"
+      },
+      {
+        "forms" : [
+          "obenauf"
+        ],
+        "note" : "Oben + auf in one word: on top of the rest; „Sie legte ihn obenauf“ = she laid it on top.",
+        "pos" : "adverb",
+        "translation" : "on top"
+      },
+      {
+        "forms" : [
+          "umgedrehte"
+        ],
+        "note" : "Partizip II of umdrehen (to turn over) used as an adjective: „umgedrehte Tartes“ = upside-down tarts.",
+        "pos" : "adjective",
+        "translation" : "upside-down, turned over"
+      },
+      {
+        "forms" : [
+          "breiten"
+        ],
+        "note" : "Breiten + über: to lay something flat over something else; „eine Teigplatte über die Früchte breiten“.",
+        "pos" : "verb",
+        "translation" : "to spread"
+      },
+      {
+        "forms" : [
+          "scheinen"
+        ],
+        "note" : "With „zu“ + infinitive: „Sie scheinen es nie aufgeschrieben zu haben“ = they seem never to have written it down. Scheinen can also mean to shine.",
+        "pos" : "verb",
+        "translation" : "to seem"
       }
     ],
     "italian" : [
@@ -86714,7 +87506,8 @@
       },
       {
         "forms" : [
-          "chili"
+          "chili",
+          "chilo"
         ],
         "gender" : "masculine",
         "note" : "Short for chilogrammi.",
@@ -87656,7 +88449,8 @@
       },
       {
         "forms" : [
-          "cuocere"
+          "cuocere",
+          "cuoceva"
         ],
         "note" : "Infinitive, often for cooking in an oven.",
         "pos" : "verb",
@@ -87827,7 +88621,8 @@
         "forms" : [
           "dare",
           "dargli",
-          "diede"
+          "diede",
+          "diedero"
         ],
         "note" : "From dare.",
         "pos" : "verb",
@@ -92586,6 +93381,7 @@
           "portando",
           "portano",
           "portare",
+          "portarlo",
           "portata",
           "portate",
           "portato",
@@ -95636,6 +96432,7 @@
       },
       {
         "forms" : [
+          "tenendo",
           "tenere",
           "tenerlo",
           "teneva",
@@ -102993,6 +103790,7 @@
       },
       {
         "forms" : [
+          "strette",
           "stretto"
         ],
         "note" : "As in held close to the body.",
@@ -103868,6 +104666,7 @@
           "nasce",
           "nascevano",
           "nascono",
+          "nata",
           "nato"
         ],
         "note" : "From nascere.",
@@ -104195,7 +104994,8 @@
       },
       {
         "forms" : [
-          "scrisse"
+          "scrisse",
+          "scrissero"
         ],
         "note" : "From scrivere, passato remoto.",
         "pos" : "verb",
@@ -110663,6 +111463,253 @@
         "note" : "Infinitive; per vivere = to live on, in order to live.",
         "pos" : "verb",
         "translation" : "to live"
+      },
+      {
+        "forms" : [
+          "100"
+        ],
+        "note" : "Cento: 100 grammi di burro = a hundred grams of butter; cento never changes its ending.",
+        "pos" : "number",
+        "translation" : "100"
+      },
+      {
+        "forms" : [
+          "1894"
+        ],
+        "note" : "Milleottocentonovantaquattro: the year the story of the sisters' hotel begins; dal 1894 = from 1894.",
+        "pos" : "number",
+        "translation" : "1894"
+      },
+      {
+        "forms" : [
+          "1906"
+        ],
+        "note" : "Millenovecentosei: the last year the sisters ran the hotel; dal 1894 al 1906 = from 1894 to 1906.",
+        "pos" : "number",
+        "translation" : "1906"
+      },
+      {
+        "forms" : [
+          "albergo"
+        ],
+        "gender" : "masculine",
+        "note" : "A house where travellers pay to sleep and eat; the plural is gli alberghi, with an h to keep the hard g.",
+        "pos" : "noun",
+        "translation" : "hotel"
+      },
+      {
+        "forms" : [
+          "apprezzato"
+        ],
+        "note" : "Past participle of apprezzare, to think well of something: apprezzato dai cacciatori = popular with hunters.",
+        "pos" : "verb",
+        "translation" : "appreciated, well liked"
+      },
+      {
+        "forms" : [
+          "capovolgi"
+        ],
+        "note" : "Tu imperative of capovolgere, to turn something so that the top is at the bottom: capovolgi il tutto = turn the whole thing over.",
+        "pos" : "verb",
+        "translation" : "turn upside down (imperative)"
+      },
+      {
+        "forms" : [
+          "capovolta"
+        ],
+        "note" : "Past participle of capovolgere (irregular: capovolto), used as an adjective and feminine here to agree with torta.",
+        "pos" : "adjective",
+        "translation" : "upside down, turned over"
+      },
+      {
+        "forms" : [
+          "caroline"
+        ],
+        "gender" : "feminine",
+        "note" : "The first name of Caroline Tatin, one of the two sisters who ran the hotel in Lamotte-Beuvron.",
+        "pos" : "noun",
+        "translation" : "Caroline"
+      },
+      {
+        "forms" : [
+          "cuoca"
+        ],
+        "gender" : "feminine",
+        "note" : "La cuoca is a woman who cooks, il cuoco a man; both come from cuocere, to cook.",
+        "pos" : "noun",
+        "translation" : "cook (a woman)"
+      },
+      {
+        "forms" : [
+          "disco"
+        ],
+        "gender" : "masculine",
+        "note" : "Something flat and round: un disco di impasto = a round of dough; the plural is dischi.",
+        "pos" : "noun",
+        "translation" : "disc, round"
+      },
+      {
+        "forms" : [
+          "disponi"
+        ],
+        "note" : "Tu imperative of disporre, to put things in place in an order: disponi le mele = arrange the apples.",
+        "pos" : "verb",
+        "translation" : "arrange (imperative)"
+      },
+      {
+        "forms" : [
+          "fronte"
+        ],
+        "note" : "Di fronte a = opposite, facing: di fronte alla stazione = opposite the station. Alone, la fronte is the forehead.",
+        "pos" : "other",
+        "translation" : "opposite (in: di fronte a)"
+      },
+      {
+        "forms" : [
+          "gestirono",
+          "gestito"
+        ],
+        "note" : "From gestire, to run a business: hanno gestito is the passato prossimo, gestirono the passato remoto (loro).",
+        "pos" : "verb",
+        "translation" : "ran, managed"
+      },
+      {
+        "forms" : [
+          "gesto"
+        ],
+        "gender" : "masculine",
+        "note" : "A movement of the hand or the arm: con un solo gesto = in a single movement.",
+        "pos" : "noun",
+        "translation" : "gesture, movement"
+      },
+      {
+        "forms" : [
+          "grammi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il grammo; the thing you weigh follows di: 100 grammi di zucchero = 100 grams of sugar.",
+        "pos" : "noun",
+        "translation" : "grams"
+      },
+      {
+        "forms" : [
+          "lamotte-beuvron"
+        ],
+        "gender" : "feminine",
+        "note" : "The town in the Sologne, in France, where the Tatin sisters had their hotel; a Lamotte-Beuvron = in Lamotte-Beuvron.",
+        "pos" : "noun",
+        "translation" : "Lamotte-Beuvron"
+      },
+      {
+        "forms" : [
+          "leggenda"
+        ],
+        "gender" : "feminine",
+        "note" : "An old story that people tell as true but that nobody can prove; the plural is leggende.",
+        "pos" : "noun",
+        "translation" : "legend"
+      },
+      {
+        "forms" : [
+          "occupava"
+        ],
+        "note" : "Imperfetto of occuparsi di (lui/lei), to take care of, to be in charge of: si occupava della cucina = she did the cooking.",
+        "pos" : "verb",
+        "translation" : "took care of (si occupava di)"
+      },
+      {
+        "forms" : [
+          "raccontano"
+        ],
+        "note" : "Present of raccontare (loro), to tell a story: molti raccontano che… = many people tell that…",
+        "pos" : "verb",
+        "translation" : "they tell, they say"
+      },
+      {
+        "forms" : [
+          "rimbocca",
+          "rimboccane"
+        ],
+        "note" : "Tu imperative of rimboccare, to fold an edge in or under: rimbocca i bordi = tuck in the edges; in rimboccane, ne means of it (of the dough).",
+        "pos" : "verb",
+        "translation" : "tuck in (imperative)"
+      },
+      {
+        "forms" : [
+          "rovescia",
+          "rovesciala"
+        ],
+        "note" : "Tu imperative of rovesciare, to turn something upside down; in rovesciala the pronoun la (la padella) joins the end of the verb.",
+        "pos" : "verb",
+        "translation" : "turn over (imperative); turn it over"
+      },
+      {
+        "forms" : [
+          "rovesciata",
+          "rovesciate"
+        ],
+        "note" : "Past participle of rovesciare used as an adjective: una torta rovesciata is baked with the fruit under the dough and turned over at the end; rovesciate is the plural.",
+        "pos" : "adjective",
+        "translation" : "upside-down, turned over"
+      },
+      {
+        "forms" : [
+          "sbucciate"
+        ],
+        "note" : "Past participle of sbucciare, to take the skin (la buccia) off a fruit; feminine plural to agree with mele.",
+        "pos" : "verb",
+        "translation" : "peeled"
+      },
+      {
+        "forms" : [
+          "sode"
+        ],
+        "note" : "Feminine plural of sodo: firm, not soft, said of fruit; un uovo sodo is a hard-boiled egg.",
+        "pos" : "adjective",
+        "translation" : "firm"
+      },
+      {
+        "forms" : [
+          "sologne"
+        ],
+        "gender" : "feminine",
+        "note" : "The region of France where Lamotte-Beuvron lies; it keeps its French name in Italian: nella Sologne = in the Sologne.",
+        "pos" : "noun",
+        "translation" : "Sologne"
+      },
+      {
+        "forms" : [
+          "stéphanie"
+        ],
+        "gender" : "feminine",
+        "note" : "The first name of Stéphanie Tatin, the sister who did the cooking at the hotel.",
+        "pos" : "noun",
+        "translation" : "Stéphanie"
+      },
+      {
+        "forms" : [
+          "tagliate"
+        ],
+        "note" : "Past participle of tagliare, feminine plural to agree with mele: tagliate a metà = cut in half.",
+        "pos" : "verb",
+        "translation" : "cut"
+      },
+      {
+        "forms" : [
+          "tatin"
+        ],
+        "note" : "The family name of the sisters Stéphanie and Caroline; the tart has carried it since their time.",
+        "pos" : "noun",
+        "translation" : "Tatin"
+      },
+      {
+        "forms" : [
+          "torta"
+        ],
+        "gender" : "feminine",
+        "note" : "A round baked sweet: torta di mele = apple tart or apple cake; the plural is torte.",
+        "pos" : "noun",
+        "translation" : "tart; cake"
       }
     ],
     "spanish" : [
@@ -112040,6 +113087,7 @@
       },
       {
         "forms" : [
+          "dieron",
           "dio"
         ],
         "note" : "Dar (to give), past tense.",
@@ -134484,7 +135532,8 @@
       },
       {
         "forms" : [
-          "firme"
+          "firme",
+          "firmes"
         ],
         "note" : "Same form for masculine and feminine: \"tan firme como la tiza\".",
         "pos" : "adjective",
@@ -138282,6 +139331,343 @@
         "note" : "Past participle of vencer, to win or to defeat: \"habiendo vencido\" = having won.",
         "pos" : "verb",
         "translation" : "won, defeated"
+      },
+      {
+        "forms" : [
+          "100"
+        ],
+        "note" : "Cien: \"100 gramos\" = a hundred grams; before a noun Spanish says cien, never ciento.",
+        "pos" : "number",
+        "translation" : "100"
+      },
+      {
+        "forms" : [
+          "1894"
+        ],
+        "note" : "Years are said as whole numbers: \"en 1894\" = in 1894 (mil ochocientos noventa y cuatro).",
+        "pos" : "number",
+        "translation" : "1894"
+      },
+      {
+        "forms" : [
+          "1906"
+        ],
+        "note" : "Mil novecientos seis: \"de 1894 a 1906\" = from 1894 to 1906.",
+        "pos" : "number",
+        "translation" : "1906"
+      },
+      {
+        "forms" : [
+          "apreciaban"
+        ],
+        "note" : "Imperfect of apreciar, ellos form: \"lo apreciaban mucho\" = they liked it very much, over a long time.",
+        "pos" : "verb",
+        "translation" : "valued, liked"
+      },
+      {
+        "forms" : [
+          "apretadas"
+        ],
+        "note" : "Past participle of apretar, to press, feminine plural to agree with \"manzanas\": bien apretadas = packed close together.",
+        "pos" : "verb",
+        "translation" : "packed tightly, pressed together"
+      },
+      {
+        "forms" : [
+          "apta"
+        ],
+        "note" : "Feminine of apto: \"una sartén apta para horno\" = a pan that can go in the oven, an ovenproof pan.",
+        "pos" : "adjective",
+        "translation" : "suitable, fit"
+      },
+      {
+        "forms" : [
+          "caroline"
+        ],
+        "gender" : "feminine",
+        "note" : "Caroline Tatin, Stéphanie's sister; the two ran the hotel together.",
+        "pos" : "noun",
+        "translation" : "Caroline"
+      },
+      {
+        "forms" : [
+          "cocinera"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine of cocinero: \"era la cocinera\" = she was the cook.",
+        "pos" : "noun",
+        "translation" : "cook (a woman)"
+      },
+      {
+        "forms" : [
+          "cortadas"
+        ],
+        "note" : "Past participle of cortar, feminine plural to agree with \"manzanas\": cortadas por la mitad = cut in half.",
+        "pos" : "verb",
+        "translation" : "cut"
+      },
+      {
+        "forms" : [
+          "cuento"
+        ],
+        "gender" : "masculine",
+        "note" : "A story people tell, often an invented one: \"es solo un cuento\" = it is only a tale.",
+        "pos" : "noun",
+        "translation" : "tale, story"
+      },
+      {
+        "forms" : [
+          "dirigieron"
+        ],
+        "note" : "Pretérito indefinido of dirigir, ellos form: dirigir un hotel = to run a hotel.",
+        "pos" : "verb",
+        "translation" : "ran, managed"
+      },
+      {
+        "forms" : [
+          "disco"
+        ],
+        "gender" : "masculine",
+        "note" : "A flat round shape: \"un disco de masa\" = a round of pastry.",
+        "pos" : "noun",
+        "translation" : "disc, round"
+      },
+      {
+        "forms" : [
+          "enfrente"
+        ],
+        "note" : "\"Tenía la estación enfrente\" = the station was right opposite; before a noun Spanish says \"enfrente de\" or \"frente a\".",
+        "pos" : "adverb",
+        "translation" : "opposite, across the way"
+      },
+      {
+        "forms" : [
+          "escribieron"
+        ],
+        "note" : "Pretérito indefinido of escribir, ellos form: \"nunca escribieron la receta\" = they never wrote the recipe down.",
+        "pos" : "verb",
+        "translation" : "wrote"
+      },
+      {
+        "forms" : [
+          "existían"
+        ],
+        "note" : "Imperfect of existir, ellos form: \"ya existían\" = they already existed.",
+        "pos" : "verb",
+        "translation" : "existed"
+      },
+      {
+        "forms" : [
+          "extiende"
+        ],
+        "note" : "Tú imperative of extender (e becomes ie): \"extiende un disco de masa\" = lay a round of pastry out flat.",
+        "pos" : "verb",
+        "translation" : "spread out, lay out"
+      },
+      {
+        "forms" : [
+          "favor"
+        ],
+        "gender" : "masculine",
+        "note" : "\"Gozar del favor de alguien\" = to be well liked by someone; \"por favor\" = please.",
+        "pos" : "noun",
+        "translation" : "favour"
+      },
+      {
+        "forms" : [
+          "fogones"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of fogón, a cooking ring; \"ocuparse de los fogones\" is a set way to say doing the cooking.",
+        "pos" : "noun",
+        "translation" : "stove, kitchen range"
+      },
+      {
+        "forms" : [
+          "gozaba"
+        ],
+        "note" : "Imperfect of gozar: \"gozar de algo\" = to enjoy something, to have something good.",
+        "pos" : "verb",
+        "translation" : "enjoyed"
+      },
+      {
+        "forms" : [
+          "gramos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of gramo; the thing weighed follows with de: 100 gramos de azúcar.",
+        "pos" : "noun",
+        "translation" : "grams"
+      },
+      {
+        "forms" : [
+          "gustó"
+        ],
+        "note" : "Pretérito indefinido of gustar: \"les gustó mucho\" = they liked it a lot; the thing liked is the subject.",
+        "pos" : "verb",
+        "translation" : "pleased, was liked"
+      },
+      {
+        "forms" : [
+          "horneaba"
+        ],
+        "note" : "Imperfect of hornear, to bake in the oven, for something done again and again; \"se horneaba\" = was baked.",
+        "pos" : "verb",
+        "translation" : "baked, used to bake"
+      },
+      {
+        "forms" : [
+          "hotel"
+        ],
+        "gender" : "masculine",
+        "note" : "The same word as in English, but the h is silent and the stress is on the last syllable.",
+        "pos" : "noun",
+        "translation" : "hotel"
+      },
+      {
+        "forms" : [
+          "invertidas"
+        ],
+        "note" : "Feminine plural, from invertir, to turn the other way round: tartas invertidas = upside-down tarts.",
+        "pos" : "adjective",
+        "translation" : "upside-down, inverted"
+      },
+      {
+        "forms" : [
+          "kilo"
+        ],
+        "gender" : "masculine",
+        "note" : "Short for kilogramo: \"un kilo de manzanas\" = a kilo of apples.",
+        "pos" : "noun",
+        "translation" : "kilo, kilogram"
+      },
+      {
+        "forms" : [
+          "lamotte-beuvron"
+        ],
+        "gender" : "masculine",
+        "note" : "The French town where the Tatin sisters had their hotel, opposite the station.",
+        "pos" : "noun",
+        "translation" : "Lamotte-Beuvron"
+      },
+      {
+        "forms" : [
+          "leyenda"
+        ],
+        "gender" : "feminine",
+        "note" : "A story people tell without proof: \"es una leyenda\"; \"dice la leyenda que…\" = legend has it that…",
+        "pos" : "noun",
+        "translation" : "legend"
+      },
+      {
+        "forms" : [
+          "ocupaba"
+        ],
+        "note" : "Imperfect of ocuparse: \"se ocupaba de la cocina\" = she looked after the cooking, it was her job.",
+        "pos" : "verb",
+        "translation" : "looked after, took care of"
+      },
+      {
+        "forms" : [
+          "partidas"
+        ],
+        "note" : "Past participle of partir, to cut or split, feminine plural: partidas por la mitad = cut in half.",
+        "pos" : "verb",
+        "translation" : "cut, split"
+      },
+      {
+        "forms" : [
+          "peladas"
+        ],
+        "note" : "Past participle of pelar, to peel, feminine plural to agree with \"manzanas\".",
+        "pos" : "verb",
+        "translation" : "peeled"
+      },
+      {
+        "forms" : [
+          "regentaron"
+        ],
+        "note" : "Pretérito indefinido of regentar, a formal word for running a hotel, a shop or a bar.",
+        "pos" : "verb",
+        "translation" : "ran, managed"
+      },
+      {
+        "forms" : [
+          "remete"
+        ],
+        "note" : "Tú imperative of remeter: to push the edges of something in, like a sheet under a mattress.",
+        "pos" : "verb",
+        "translation" : "tuck in"
+      },
+      {
+        "forms" : [
+          "revés"
+        ],
+        "gender" : "masculine",
+        "note" : "Used almost always in \"al revés\": upside down, back to front, the other way round.",
+        "pos" : "noun",
+        "translation" : "wrong way round (al revés = upside down)"
+      },
+      {
+        "forms" : [
+          "sologne"
+        ],
+        "gender" : "feminine",
+        "note" : "The region of France where Lamotte-Beuvron lies; Spanish keeps the French name.",
+        "pos" : "noun",
+        "translation" : "Sologne"
+      },
+      {
+        "forms" : [
+          "stéphanie"
+        ],
+        "gender" : "feminine",
+        "note" : "Stéphanie Tatin, the sister who did the cooking at the hotel; a French name, written with its French accent.",
+        "pos" : "noun",
+        "translation" : "Stéphanie"
+      },
+      {
+        "forms" : [
+          "sujeto"
+        ],
+        "note" : "From sujetar, to hold in place: \"un plato bien sujeto\" = a plate held firmly; as a noun, sujeto means subject.",
+        "pos" : "adjective",
+        "translation" : "held firmly, secured"
+      },
+      {
+        "forms" : [
+          "tarta",
+          "tartas"
+        ],
+        "gender" : "feminine",
+        "note" : "A round sweet bake, here pastry with fruit; in Spain tarta is also the usual word for a cake.",
+        "pos" : "noun",
+        "translation" : "tart, cake"
+      },
+      {
+        "forms" : [
+          "tatin"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of the sisters Stéphanie and Caroline; today the upside-down apple tart carries it.",
+        "pos" : "noun",
+        "translation" : "Tatin"
+      },
+      {
+        "forms" : [
+          "tomen"
+        ],
+        "note" : "Present subjunctive of tomar, ellos form, needed after \"hasta que\": hasta que tomen un color dorado = until they turn golden.",
+        "pos" : "verb",
+        "translation" : "take (subjunctive)"
+      },
+      {
+        "forms" : [
+          "vuélcalo"
+        ],
+        "note" : "Tú imperative of volcar (o becomes ue) + lo; the accent keeps the stress on vuél-.",
+        "pos" : "verb",
+        "translation" : "turn it over, tip it out"
       }
     ]
   },
@@ -157661,6 +159047,586 @@
       "summary" : "Intorno al 261 a.C. un re indiano ha vinto una guerra, ha contato i morti e si è fermato, e una frase di un libro buddista molto antico dice che cosa aveva capito.",
       "title" : "Una regola antica",
       "translationGroup" : "an-old-rule"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-09",
+      "id" : "upside-down-tart",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe tells you what to do with the base verb and no subject: put, cook, add, bake, turn.",
+              "example" : "Put butter and sugar in a pan.",
+              "title" : "Imperatives in a recipe"
+            },
+            {
+              "body" : "\"Until golden\" is short for \"until they are golden\": recipes often leave out the subject and the verb after until.",
+              "example" : "Cook them until golden.",
+              "title" : "Until + adjective"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is 1894 in France. Two sisters have a small hotel. Stéphanie Tatin cooks. Her apple tart is upside down.",
+            "Put butter and sugar in a pan. Cook them until golden. Add apple halves. Cook them slowly.",
+            "Put pastry on top. Bake for thirty minutes. Now put a plate on the pan. Turn it over. Careful, it is hot!",
+            "People say the tart is a mistake. That is only a story. Today the tart has the sisters' name."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The sisters' story is in the past simple (ran, stood, cooked). The recipe speaks to you now, so it uses the imperative (melt, add, lay, bake).",
+              "example" : "Lay the pastry on top and bake for thirty minutes in a hot oven.",
+              "title" : "Past simple for the story, imperative for the recipe"
+            },
+            {
+              "body" : "A pronoun goes between the verb and the particle: \"turn it over\", never \"turn over it\". A noun can go in either place.",
+              "example" : "Then put a plate on the pan and turn it over.",
+              "title" : "Phrasal verbs with an object: wrote it down, turn it over"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "From 1894 two sisters, Stéphanie and Caroline Tatin, ran a hotel in Lamotte-Beuvron, in France. It stood opposite the station, and hunters loved it.",
+            "Stéphanie cooked. Her apple tart went into the oven upside down: the apples first, the pastry on top.",
+            "Melt 100 grams of butter and 100 grams of sugar in an ovenproof pan until golden. Add a kilo of apples, cut in halves, and cook them slowly.",
+            "Lay the pastry on top and bake for thirty minutes in a hot oven. Then put a plate on the pan and turn it over.",
+            "People say the tart began as a mistake, but this is a legend. The sisters never wrote the recipe down. Today it has their name."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Apples, peeled and halved\" means apples that have been peeled and cut in half: the participles follow the noun between commas.",
+              "example" : "Pack a kilo of firm apples, peeled and halved, tightly into the pan and cook them gently for fifteen minutes.",
+              "title" : "Past participles describing a noun: peeled and halved"
+            },
+            {
+              "body" : "\"Her tart was baked upside down\": be + past participle puts the tart, not the cook, at the centre of the sentence.",
+              "example" : "Stéphanie did the cooking, and her apple tart was baked upside down.",
+              "title" : "Passive: was baked"
+            },
+            {
+              "body" : "\"Anyway\" means \"in spite of that\": they never wrote it down, and still it has their name.",
+              "example" : "It carries their name anyway.",
+              "title" : "Anyway at the end of a sentence"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "From 1894 to 1906 two sisters, Stéphanie and Caroline Tatin, ran a hotel opposite the station in Lamotte-Beuvron, in the Sologne, in France. It was popular with hunters.",
+            "Stéphanie did the cooking, and her apple tart was baked upside down. People say it began as a mistake, but this is a legend: such tarts existed before her.",
+            "Melt 100 grams of butter with 100 grams of sugar in an ovenproof pan until golden. Pack a kilo of firm apples, peeled and halved, tightly into the pan and cook them gently for fifteen minutes.",
+            "Cover the apples with a round of pastry, tuck in the edges and bake in a hot oven for thirty minutes. Then put a plate over the pan and turn everything over in one movement.",
+            "The sisters never wrote the recipe down. It carries their name anyway."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A fixed phrase for a story people tell without proof: \"legend has it that she forgot the pastry\". The verb after it is in the normal past.",
+              "example" : "Legend has it that she forgot the pastry and added it on top in a hurry; in fact, upside-down tarts had been made long before.",
+              "title" : "Legend has it that…"
+            },
+            {
+              "body" : "\"With a plate held firmly over the pan\" describes the situation while you act: with + thing + participle.",
+              "example" : "Then, with a plate held firmly over the pan, turn the whole thing over in a single movement.",
+              "title" : "With + noun + past participle"
+            },
+            {
+              "body" : "\"Never wrote…, nor gave…\": nor adds a second negative idea without repeating \"never\".",
+              "example" : "The sisters, it seems, never wrote the recipe down, nor gave the tart their name.",
+              "title" : "Nor after a negative"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "From 1894 to 1906 the sisters Stéphanie and Caroline Tatin ran a hotel opposite the station at Lamotte-Beuvron, in the Sologne, where it was popular with hunters.",
+            "Stéphanie, who did the cooking, baked her apple tart the wrong way up. Legend has it that she forgot the pastry and added it on top in a hurry; in fact, upside-down tarts had been made long before.",
+            "Melt 100 grams of butter with 100 grams of sugar in an ovenproof pan until golden. Pack in a kilo of firm apples, peeled and halved, and cook them gently for fifteen minutes.",
+            "Lay a round of pastry over the fruit, tuck in the edges and bake in a hot oven for thirty minutes. Then, with a plate held firmly over the pan, turn the whole thing over in a single movement.",
+            "The sisters, it seems, never wrote the recipe down, nor gave the tart their name. It has carried it ever since."
+          ]
+        }
+      ],
+      "summary" : "From 1894 two sisters ran a station hotel in France, and one of them baked her apple tart the wrong way up: here is the true story and the recipe.",
+      "title" : "The Upside-Down Tart",
+      "translationGroup" : "upside-down-tart"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-09",
+      "id" : "upside-down-tart-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to the reader with the « vous » imperative: the present-tense « vous » form without « vous »: mettez, ajoutez, posez, renversez.",
+              "example" : "Mettez du beurre et du sucre dans une poêle.",
+              "title" : "The vous imperative in a recipe"
+            },
+            {
+              "body" : "French says « faire cuire » and « faire dorer » (to make something cook, turn golden). In a positive command the pronoun follows the verb with a hyphen: « faites-les dorer » = cook them until golden.",
+              "example" : "Faites-les dorer.",
+              "title" : "Faire + infinitive, with the pronoun after the verb"
+            },
+            {
+              "body" : "French has no 's: it says « le nom des sœurs », the name of the sisters. « De » + « les » always merges into « des ».",
+              "example" : "Aujourd'hui, la tarte a le nom des sœurs.",
+              "title" : "Le nom des sœurs: de + les = des"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes en 1894, en France. Deux sœurs ont un petit hôtel. Stéphanie Tatin fait la cuisine. Sa tarte aux pommes est à l'envers.",
+            "Mettez du beurre et du sucre dans une poêle. Faites-les dorer. Ajoutez des pommes coupées en deux. Faites-les cuire doucement.",
+            "Posez la pâte dessus. Faites cuire au four pendant trente minutes. Maintenant, posez une assiette sur la poêle. Renversez le tout. Attention, c'est chaud !",
+            "Les gens disent que la tarte est une erreur. C'est seulement une histoire. Aujourd'hui, la tarte a le nom des sœurs."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The sisters' story is in the passé composé (« ont tenu », « a cuit », « ont aimé »), with « était » for the background. The recipe speaks to you now, so it uses the « vous » imperative (faites, ajoutez, posez).",
+              "example" : "Il était face à la gare, et les chasseurs l'ont beaucoup aimé.",
+              "title" : "Passé composé for the story, imperative for the recipe"
+            },
+            {
+              "body" : "In the passé composé the negation goes around « avoir »: « n'ont jamais écrit » = never wrote. « Jamais » takes the place of « pas ».",
+              "example" : "Les sœurs n'ont jamais écrit la recette.",
+              "title" : "Ne … jamais around the helper verb"
+            },
+            {
+              "body" : "French has no single word for \"ovenproof\"; it says « une poêle qui va au four », a pan that goes in the oven. « Qui » is the subject of « va ».",
+              "example" : "Faites fondre 100 grammes de beurre et 100 grammes de sucre dans une poêle qui va au four.",
+              "title" : "Une poêle qui va au four: qui + verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Dès 1894, deux sœurs, Stéphanie et Caroline Tatin, ont tenu un hôtel à Lamotte-Beuvron, en France. Il était face à la gare, et les chasseurs l'ont beaucoup aimé.",
+            "Stéphanie était la cuisinière. Elle a cuit sa tarte aux pommes à l'envers : les pommes d'abord, la pâte dessus.",
+            "Faites fondre 100 grammes de beurre et 100 grammes de sucre dans une poêle qui va au four. Laissez-les dorer. Ajoutez un kilo de pommes coupées en deux et faites-les cuire doucement.",
+            "Posez la pâte dessus et faites cuire trente minutes dans un four chaud. Ensuite, posez une assiette sur la poêle et renversez le tout.",
+            "Les gens disent que la tarte est née d'une erreur, mais c'est une légende. Les sœurs n'ont jamais écrit la recette. Aujourd'hui, la tarte a leur nom."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "« Des pommes pelées et coupées en deux » = apples that have been peeled and halved. The participles follow the noun and agree with it (feminine plural, -ées), as does « serrées » earlier in the sentence.",
+              "example" : "Rangez-y, bien serrées, un kilo de pommes fermes, pelées et coupées en deux, et faites-les cuire doucement pendant quinze minutes.",
+              "title" : "Past participles after the noun: pelées et coupées"
+            },
+            {
+              "body" : "« Jusqu'à ce que » (until) is always followed by the subjunctive: « soit », not « est ».",
+              "example" : "Faites fondre 100 grammes de beurre avec 100 grammes de sucre dans une poêle allant au four, jusqu'à ce que le mélange soit doré.",
+              "title" : "Jusqu'à ce que + subjunctive"
+            },
+            {
+              "body" : "« Sa tarte était cuite à l'envers »: être + past participle puts the tart, not the cook, at the centre. The participle agrees with the subject (la tarte → cuite).",
+              "example" : "Stéphanie s'occupait de la cuisine, et sa tarte aux pommes était cuite à l'envers.",
+              "title" : "Passive: était cuite"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "De 1894 à 1906, deux sœurs, Stéphanie et Caroline Tatin, ont tenu un hôtel face à la gare de Lamotte-Beuvron, en Sologne, en France. Il était très apprécié des chasseurs.",
+            "Stéphanie s'occupait de la cuisine, et sa tarte aux pommes était cuite à l'envers. On raconte que cette tarte est née d'une erreur, mais c'est une légende : de telles tartes existaient déjà avant Stéphanie.",
+            "Faites fondre 100 grammes de beurre avec 100 grammes de sucre dans une poêle allant au four, jusqu'à ce que le mélange soit doré. Rangez-y, bien serrées, un kilo de pommes fermes, pelées et coupées en deux, et faites-les cuire doucement pendant quinze minutes.",
+            "Couvrez les pommes d'un disque de pâte, rentrez les bords et faites cuire trente minutes à four chaud. Posez ensuite une assiette sur la poêle et renversez le tout d'un seul geste.",
+            "Les sœurs n'ont jamais écrit la recette. Cela n'empêche pas la tarte de porter leur nom."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A fixed phrase for a story people tell without proof, like \"legend has it that\". « Vouloir que » takes the subjunctive, here the past subjunctive: « qu'elle ait oublié », « l'ait ajoutée ».",
+              "example" : "La légende veut qu'elle ait oublié la pâte et l'ait ajoutée par-dessus à la hâte ; en réalité, on faisait des tartes renversées bien avant elle.",
+              "title" : "La légende veut que + subjunctive"
+            },
+            {
+              "body" : "« Une assiette fermement tenue sur la poêle » describes the situation while you act: \"with a plate held firmly over the pan\". French sets the noun and its participle between commas and needs no « avec ».",
+              "example" : "Puis, une assiette fermement tenue sur la poêle, renversez le tout d'un seul geste.",
+              "title" : "Noun + past participle, with no linking word"
+            },
+            {
+              "body" : "« Ne mirent jamais…, ni ne donnèrent… »: « ni ne » adds a second negative verb without repeating « jamais ». Both verbs are in the passé simple, the written past (mettre → mirent, donner → donnèrent).",
+              "example" : "Les sœurs, semble-t-il, ne mirent jamais la recette par écrit, ni ne donnèrent leur nom à la tarte.",
+              "title" : "Ni ne after a negative, in the passé simple"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "De 1894 à 1906, les sœurs Stéphanie et Caroline Tatin tinrent un hôtel face à la gare de Lamotte-Beuvron, en Sologne, où il était prisé des chasseurs.",
+            "Stéphanie, qui s'occupait de la cuisine, cuisait sa tarte aux pommes à l'envers. La légende veut qu'elle ait oublié la pâte et l'ait ajoutée par-dessus à la hâte ; en réalité, on faisait des tartes renversées bien avant elle.",
+            "Faites fondre 100 grammes de beurre avec 100 grammes de sucre dans une poêle allant au four, jusqu'à ce qu'ils prennent une teinte dorée. Serrez-y un kilo de pommes fermes, pelées et coupées en deux, puis laissez-les cuire doucement pendant quinze minutes.",
+            "Posez un disque de pâte sur les fruits, rentrez les bords et enfournez trente minutes à four chaud. Puis, une assiette fermement tenue sur la poêle, renversez le tout d'un seul geste.",
+            "Les sœurs, semble-t-il, ne mirent jamais la recette par écrit, ni ne donnèrent leur nom à la tarte. Elle n'a cessé de le porter depuis."
+          ]
+        }
+      ],
+      "summary" : "À partir de 1894, deux sœurs ont tenu un hôtel face à une gare, en France, et l'une d'elles cuisait sa tarte aux pommes à l'envers : voici l'histoire vraie et la recette.",
+      "title" : "La tarte à l'envers",
+      "translationGroup" : "upside-down-tart"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-09",
+      "id" : "upside-down-tart-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to you with the verb in first place and „Sie“ right after it: „Legen Sie …“, „Backen Sie …“. The verb looks like the infinitive.",
+              "example" : "Legen Sie einen Teller auf die Pfanne.",
+              "title" : "The polite imperative: verb first, then „Sie“"
+            },
+            {
+              "body" : "Umdrehen (to turn over) splits in an instruction: „drehen“ comes first and „um“ goes to the very end of the sentence.",
+              "example" : "Drehen Sie alles um.",
+              "title" : "Separable verb: umdrehen → Drehen Sie … um"
+            },
+            {
+              "body" : "Literally \"to stand on the head\". After „auf“ German uses the dative for a position („auf dem Kopf“) and the accusative for a movement („auf die Pfanne“).",
+              "example" : "Ihre Apfeltarte steht auf dem Kopf.",
+              "title" : "Auf dem Kopf stehen: to be upside down"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "1894 haben zwei Schwestern in Frankreich ein kleines Hotel. Stéphanie Tatin kocht. Ihre Apfeltarte steht auf dem Kopf.",
+            "Kochen Sie Butter und Zucker in einer Pfanne, bis alles golden ist. Geben Sie halbe Äpfel dazu. Kochen Sie alles langsam.",
+            "Legen Sie Teig darauf. Backen Sie dreißig Minuten. Legen Sie einen Teller auf die Pfanne. Drehen Sie alles um. Vorsicht, heiß!",
+            "Man sagt: Die Tarte ist ein Fehler. Das ist nur eine Geschichte. Heute hat die Tarte den Namen der Schwestern."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is „haben“ in second place plus the Partizip II at the end of its part. Here one „hat“ serves both „gekocht“ and „gebacken“.",
+              "example" : "Stéphanie hat gekocht und ihre Apfeltarte auf dem Kopf gebacken: zuerst die Äpfel, oben der Teig.",
+              "title" : "Perfekt: one „hat“ for two participles"
+            },
+            {
+              "body" : "For „sein“ and „haben“ even spoken German prefers the short past forms „war“ and „hatte“: „hatten … ein Hotel“ = had a hotel. „Ab 1894“ means from 1894 on.",
+              "example" : "Ab 1894 hatten zwei Schwestern, Stéphanie und Caroline Tatin, ein Hotel in Lamotte-Beuvron in Frankreich.",
+              "title" : "War and hatte beside the Perfekt"
+            },
+            {
+              "body" : "In the Partizip II of a separable verb, „ge“ stands between the particle and the stem: aufschreiben → auf-ge-schrieben (written down).",
+              "example" : "Die Schwestern haben das Rezept nie aufgeschrieben.",
+              "title" : "Partizip II of a separable verb: aufgeschrieben"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Ab 1894 hatten zwei Schwestern, Stéphanie und Caroline Tatin, ein Hotel in Lamotte-Beuvron in Frankreich. Jäger haben das Hotel gegenüber vom Bahnhof geliebt.",
+            "Stéphanie hat gekocht und ihre Apfeltarte auf dem Kopf gebacken: zuerst die Äpfel, oben der Teig.",
+            "Schmelzen Sie 100 Gramm Butter und 100 Gramm Zucker in einer ofenfesten Pfanne, bis alles golden ist. Geben Sie ein Kilo halbierte Äpfel dazu und kochen Sie alles langsam.",
+            "Legen Sie den Teig darauf und backen Sie dreißig Minuten im heißen Ofen. Legen Sie einen Teller auf die Pfanne und drehen Sie alles um.",
+            "Man sagt: Die Tarte war am Anfang ein Fehler. Aber das ist eine Legende. Die Schwestern haben das Rezept nie aufgeschrieben. Heute hat die Tarte ihren Namen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is „werden“ + Partizip II; in the written past „werden“ becomes „wurde“. It puts the tart, not the cook, at the centre of the sentence.",
+              "example" : "Stéphanie kochte, und ihre Apfeltarte wurde kopfüber gebacken.",
+              "title" : "Passive in the Präteritum: wurde … gebacken"
+            },
+            {
+              "body" : "Two Partizip II forms between commas describe the apples like a short relative clause: apples that have been peeled and halved. After the noun they take no ending.",
+              "example" : "Setzen Sie ein Kilo feste Äpfel, geschält und halbiert, eng in die Pfanne und garen Sie sie fünfzehn Minuten sanft.",
+              "title" : "Participles after the noun: geschält und halbiert"
+            },
+            {
+              "body" : "Aufschreiben (to write down) splits in a main clause: the verb „schrieben“ stands in second place and „auf“ goes to the end, even behind „nie“.",
+              "example" : "Die Schwestern schrieben das Rezept nie auf.",
+              "title" : "Separable verb in the Präteritum: schrieben … auf"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Von 1894 bis 1906 führten zwei Schwestern, Stéphanie und Caroline Tatin, ein Hotel gegenüber dem Bahnhof von Lamotte-Beuvron in der Sologne in Frankreich. Bei Jägern war es beliebt.",
+            "Stéphanie kochte, und ihre Apfeltarte wurde kopfüber gebacken. Man sagt, sie begann als Fehler, doch das ist eine Legende: Solche Tartes gab es schon vor ihr.",
+            "Schmelzen Sie 100 Gramm Butter mit 100 Gramm Zucker in einer ofenfesten Pfanne, bis alles golden ist. Setzen Sie ein Kilo feste Äpfel, geschält und halbiert, eng in die Pfanne und garen Sie sie fünfzehn Minuten sanft.",
+            "Legen Sie eine runde Teigplatte darauf, stecken Sie die Ränder nach innen und backen Sie dreißig Minuten im heißen Ofen. Bedecken Sie dann die Pfanne mit einem Teller und drehen Sie alles in einer Bewegung um.",
+            "Die Schwestern schrieben das Rezept nie auf. Die Tarte trägt trotzdem ihren Namen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For something done before another past moment the passive needs three parts: „waren“ + Partizip II + „worden“ = had been baked. In the passive the participle of „werden“ is „worden“, never „geworden“.",
+              "example" : "Der Legende nach vergaß sie den Teig und legte ihn in aller Eile obenauf; tatsächlich waren umgedrehte Tartes schon lange zuvor gebacken worden.",
+              "title" : "Passive in the Plusquamperfekt: waren … gebacken worden"
+            },
+            {
+              "body" : "Everything between „einem“ and „Teller“ describes the plate: „mit einem fest über die Pfanne gehaltenen Teller“ = with a plate that is held firmly over the pan. The participle takes an adjective ending.",
+              "example" : "Drehen Sie dann das Ganze mit einem fest über die Pfanne gehaltenen Teller in einer einzigen Bewegung um.",
+              "title" : "Extended participle before the noun"
+            },
+            {
+              "body" : "„Scheinen … zu haben“ = seem to have done: the writer reports it without vouching for it. One „zu haben“ at the end serves both participles, „aufgeschrieben“ and „gegeben“.",
+              "example" : "Die Schwestern scheinen das Rezept nie aufgeschrieben und der Tarte nie ihren Namen gegeben zu haben.",
+              "title" : "Scheinen + zu + infinitive perfect"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Von 1894 bis 1906 führten die Schwestern Stéphanie und Caroline Tatin gegenüber dem Bahnhof von Lamotte-Beuvron in der Sologne ein Hotel, das bei Jägern beliebt war.",
+            "Stéphanie, die am Herd stand, backte ihre Apfeltarte kopfüber. Der Legende nach vergaß sie den Teig und legte ihn in aller Eile obenauf; tatsächlich waren umgedrehte Tartes schon lange zuvor gebacken worden.",
+            "Schmelzen Sie 100 Gramm Butter mit 100 Gramm Zucker in einer ofenfesten Pfanne, bis alles golden ist. Legen Sie ein Kilo feste Äpfel, geschält und halbiert, eng hinein und lassen Sie sie fünfzehn Minuten sanft garen.",
+            "Breiten Sie eine runde Teigplatte über die Früchte, stecken Sie die Ränder nach innen und backen Sie alles dreißig Minuten im heißen Ofen. Drehen Sie dann das Ganze mit einem fest über die Pfanne gehaltenen Teller in einer einzigen Bewegung um.",
+            "Die Schwestern scheinen das Rezept nie aufgeschrieben und der Tarte nie ihren Namen gegeben zu haben. Seither trägt sie ihn."
+          ]
+        }
+      ],
+      "summary" : "Ab 1894 führten zwei Schwestern in Frankreich ein Bahnhofshotel, und eine von ihnen backte ihre Apfeltarte verkehrt herum: Hier sind die wahre Geschichte und das Rezept.",
+      "title" : "Die umgedrehte Tarte",
+      "translationGroup" : "upside-down-tart"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-09",
+      "id" : "upside-down-tart-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Instructions to one person use the tú imperative, which for regular verbs looks like the él/ella present: añade, hornea. Poner is irregular: pon.",
+              "example" : "Pon mantequilla y azúcar en una sartén.",
+              "title" : "The tú imperative in recipes"
+            },
+            {
+              "body" : "With a positive command the object pronoun is glued to the end of the verb, and an accent keeps the stress: cocina + las = cocínalas. Da + le = dale needs no accent.",
+              "example" : "Cocínalas despacio.",
+              "title" : "Pronoun joined to the imperative"
+            },
+            {
+              "body" : "After \"hasta\" Spanish can use the infinitive when the person stays the same: hasta tener un color dorado = until you have a golden colour.",
+              "example" : "Cocínalos hasta tener un color dorado.",
+              "title" : "Hasta + infinitive: until"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en Francia, en 1894. Dos hermanas tienen un hotel pequeño. Stéphanie Tatin cocina. Su tarta de manzanas está al revés.",
+            "Pon mantequilla y azúcar en una sartén. Cocínalos hasta tener un color dorado. Añade manzanas cortadas por la mitad. Cocínalas despacio.",
+            "Pon la masa encima. Hornea treinta minutos. Ahora pon un plato sobre la sartén. Dale la vuelta. ¡Cuidado, está caliente!",
+            "La gente dice que la tarta es un error. Es solo un cuento. Hoy la tarta tiene el nombre de las hermanas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The sisters' story is in the indefinido: tuvieron (tener, irregular), entró (regular -ar), escribieron (regular -ir). The recipe speaks to you now, so it uses the tú imperative: derrite, añade, pon.",
+              "example" : "Las hermanas nunca escribieron la receta.",
+              "title" : "Indefinido for the story, imperative for the recipe"
+            },
+            {
+              "body" : "The thing liked is the subject and the people are \"les\": a los cazadores les gustó = the hunters liked it. \"A los cazadores\" and \"les\" name the same people, and Spanish keeps both.",
+              "example" : "Tenía la estación enfrente, y a los cazadores les gustó mucho.",
+              "title" : "Gustar in the past: les gustó"
+            },
+            {
+              "body" : "Dar la vuelta a algo = to turn something over. In a command the pronoun \"le\" is glued to the verb: da + le = dale.",
+              "example" : "Después pon un plato sobre la sartén y dale la vuelta.",
+              "title" : "Dale la vuelta: to turn something over"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Desde 1894, dos hermanas, Stéphanie y Caroline Tatin, tuvieron un hotel en Lamotte-Beuvron, en Francia. Tenía la estación enfrente, y a los cazadores les gustó mucho.",
+            "Stéphanie era la cocinera. Su tarta de manzanas entró en el horno al revés: primero las manzanas, la masa encima.",
+            "Derrite 100 gramos de mantequilla y 100 gramos de azúcar en una sartén apta para horno. Cocínalos hasta tener un color dorado. Añade un kilo de manzanas cortadas por la mitad y cocínalas despacio.",
+            "Pon la masa encima y hornea treinta minutos en el horno caliente. Después pon un plato sobre la sartén y dale la vuelta.",
+            "La gente dice que la tarta empezó como un error, pero es una leyenda. Las hermanas nunca escribieron la receta. Hoy la tarta lleva su nombre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In an instruction the end point has not happened yet, so \"hasta que\" takes the subjunctive: hasta que tomen (not toman) un color dorado.",
+              "example" : "Derrite 100 gramos de mantequilla con 100 gramos de azúcar en una sartén apta para horno hasta que tomen un color dorado.",
+              "title" : "Hasta que + subjunctive for an end still to come"
+            },
+            {
+              "body" : "Se + a third-person verb puts the tart, not the cook, at the centre: su tarta se horneaba = her tart was baked. The imperfect shows it was done this way again and again.",
+              "example" : "Stéphanie se ocupaba de la cocina, y su tarta de manzanas se horneaba al revés.",
+              "title" : "Passive se: se horneaba"
+            },
+            {
+              "body" : "\"Aun así\" means \"in spite of that\". Here \"aun\" has no accent and means \"even\"; with an accent, \"aún\" means \"still\".",
+              "example" : "Aun así, la tarta lleva su nombre.",
+              "title" : "Aun así: even so"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "De 1894 a 1906, dos hermanas, Stéphanie y Caroline Tatin, dirigieron un hotel frente a la estación de Lamotte-Beuvron, en Sologne, en Francia. Los cazadores lo apreciaban mucho.",
+            "Stéphanie se ocupaba de la cocina, y su tarta de manzanas se horneaba al revés. Dicen que empezó como un error, pero es una leyenda: tartas así ya existían antes de ella.",
+            "Derrite 100 gramos de mantequilla con 100 gramos de azúcar en una sartén apta para horno hasta que tomen un color dorado. Coloca dentro, bien apretadas, un kilo de manzanas firmes, peladas y cortadas por la mitad, y cocínalas a fuego lento durante quince minutos.",
+            "Cubre las manzanas con un disco de masa, mete los bordes por dentro y hornea treinta minutos en el horno caliente. Después pon un plato sobre la sartén y dale la vuelta a todo de un solo movimiento.",
+            "Las hermanas nunca escribieron la receta. Aun así, la tarta lleva su nombre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A fixed phrase for a story told without proof, with the verb before its subject: dice la leyenda que olvidó la masa = legend has it that she forgot the pastry. The verb after \"que\" stays in the normal past.",
+              "example" : "Dice la leyenda que olvidó la masa y la añadió encima a toda prisa; en realidad, ya se hacían tartas invertidas mucho antes.",
+              "title" : "Dice la leyenda que…"
+            },
+            {
+              "body" : "\"Con un plato bien sujeto sobre la sartén\" describes the situation while you act: con + thing + participle, and the participle agrees with the noun (plato, sujeto).",
+              "example" : "Luego, con un plato bien sujeto sobre la sartén, vuélcalo todo en un solo movimiento.",
+              "title" : "Con + noun + participle"
+            },
+            {
+              "body" : "\"Ni\" adds a second negative idea without repeating \"nunca\": nunca pusieron… ni dieron… = never wrote… nor gave…",
+              "example" : "Las hermanas, al parecer, nunca pusieron la receta por escrito ni dieron su nombre a la tarta.",
+              "title" : "Nunca… ni: nor after a negative"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "De 1894 a 1906, las hermanas Stéphanie y Caroline Tatin regentaron un hotel frente a la estación de Lamotte-Beuvron, en Sologne, donde gozaba del favor de los cazadores.",
+            "Stéphanie, que se ocupaba de los fogones, horneaba su tarta de manzanas al revés. Dice la leyenda que olvidó la masa y la añadió encima a toda prisa; en realidad, ya se hacían tartas invertidas mucho antes.",
+            "Derrite 100 gramos de mantequilla con 100 gramos de azúcar en una sartén apta para horno hasta que tomen un tono dorado. Apiña en ella un kilo de manzanas firmes, peladas y partidas por la mitad, y cocínalas a fuego lento durante quince minutos.",
+            "Extiende un disco de masa sobre la fruta, remete los bordes y hornea treinta minutos en el horno caliente. Luego, con un plato bien sujeto sobre la sartén, vuélcalo todo en un solo movimiento.",
+            "Las hermanas, al parecer, nunca pusieron la receta por escrito ni dieron su nombre a la tarta. Desde entonces lo lleva."
+          ]
+        }
+      ],
+      "summary" : "Desde 1894, dos hermanas regentaban un hotel frente a una estación de Francia, y una de ellas horneaba su tarta de manzanas al revés: aquí tienes la historia verdadera y la receta.",
+      "title" : "La tarta al revés",
+      "translationGroup" : "upside-down-tart"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-09",
+      "id" : "upside-down-tart-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to one person with the tu imperative: metti, aggiungi, cuoci. For -ere and -ire verbs it ends in -i; for -are verbs it ends in -a, as in rovescia (here with a pronoun: rovesciala).",
+              "example" : "Metti burro e zucchero in una padella.",
+              "title" : "The tu imperative in recipes"
+            },
+            {
+              "body" : "With the tu imperative the object pronoun is attached to the end of the verb and agrees with its noun: cuocili (burro e zucchero), cuocile (le mele), rovesciala (la padella).",
+              "example" : "Cuocile a fuoco lento.",
+              "title" : "Cuocili, cuocile, rovesciala: the pronoun joins the verb"
+            },
+            {
+              "body" : "Italian has no 's: the owner comes after di, and di + le becomes delle. Il nome delle sorelle = the sisters' name.",
+              "example" : "Oggi la torta ha il nome delle sorelle.",
+              "title" : "Il nome delle sorelle: di for whose"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il 1894 in Francia. Due sorelle hanno un piccolo albergo. Stéphanie Tatin è la cuoca. La sua torta di mele è rovesciata.",
+            "Metti burro e zucchero in una padella. Cuocili finché non diventano dorati. Aggiungi le mele tagliate a metà. Cuocile a fuoco lento.",
+            "Metti l'impasto sopra. Cuoci in forno per trenta minuti. Ora metti un piatto sulla padella. Rovesciala. Attenzione, è calda!",
+            "La gente dice che la torta nasce da un errore. È solo una storia. Oggi la torta ha il nome delle sorelle."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The sisters' story is told in the passato prossimo (hanno gestito, ha messo); the recipe speaks to you now, so it uses the tu imperative (sciogli, aggiungi, metti). Non and mai go around the auxiliary: non hanno mai scritto.",
+              "example" : "Le sorelle non hanno mai scritto la ricetta.",
+              "title" : "Passato prossimo for the story, imperative for the recipe"
+            },
+            {
+              "body" : "Nascere takes essere in the passato prossimo, so the participle agrees with the subject: la torta è nata, il libro è nato.",
+              "example" : "La gente dice che la torta è nata da un errore.",
+              "title" : "È nata: essere and agreement"
+            },
+            {
+              "body" : "Finché non means until; the non does not make the clause negative: finché non diventano dorati = until they turn golden.",
+              "example" : "Cuocili finché non diventano dorati.",
+              "title" : "Finché non for until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Dal 1894 due sorelle, Stéphanie e Caroline Tatin, hanno gestito un albergo a Lamotte-Beuvron, in Francia. Era di fronte alla stazione, e i cacciatori lo hanno amato molto.",
+            "Stéphanie era la cuoca. Ha messo in forno la sua torta di mele rovesciata: prima le mele, sopra l'impasto.",
+            "Sciogli 100 grammi di burro e 100 grammi di zucchero in una padella da forno. Cuocili finché non diventano dorati. Aggiungi un chilo di mele tagliate a metà e cuocile a fuoco lento.",
+            "Metti l'impasto sopra e cuoci per trenta minuti in forno caldo. Poi metti un piatto sulla padella e rovesciala.",
+            "La gente dice che la torta è nata da un errore. Ma è una leggenda. Le sorelle non hanno mai scritto la ricetta. Oggi la torta ha il loro nome."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle can follow a noun like an adjective and agrees with it: mele sbucciate e tagliate a metà = apples that have been peeled and cut in half (feminine plural, like mele).",
+              "example" : "Metti nella padella, ben strette, un chilo di mele sode, sbucciate e tagliate a metà, e cuocile a fuoco lento per quindici minuti.",
+              "title" : "Participles that describe a noun: sbucciate e tagliate"
+            },
+            {
+              "body" : "Si occupava and cuoceva describe Stéphanie's habit over the years, so they are in the imperfetto; the passato prossimo (hanno gestito) tells the finished fact.",
+              "example" : "Stéphanie si occupava della cucina e cuoceva la sua torta di mele rovesciata.",
+              "title" : "Imperfetto for what someone used to do"
+            },
+            {
+              "body" : "Comunque after the verb means \"in spite of that\": they never wrote the recipe down, and the tart has their name all the same.",
+              "example" : "La torta ha comunque il loro nome.",
+              "title" : "Comunque: anyway"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Dal 1894 al 1906 due sorelle, Stéphanie e Caroline Tatin, hanno gestito un albergo di fronte alla stazione di Lamotte-Beuvron, nella Sologne, in Francia. Era molto amato dai cacciatori.",
+            "Stéphanie si occupava della cucina e cuoceva la sua torta di mele rovesciata. Molti raccontano che è nata da un errore, ma è una leggenda: torte così esistevano già prima di lei.",
+            "Sciogli 100 grammi di burro con 100 grammi di zucchero in una padella che può andare in forno, finché non diventano dorati. Metti nella padella, ben strette, un chilo di mele sode, sbucciate e tagliate a metà, e cuocile a fuoco lento per quindici minuti.",
+            "Copri le mele con un disco di impasto, rimbocca i bordi e cuoci in forno caldo per trenta minuti. Poi metti un piatto sulla padella e rovescia tutto con un solo movimento.",
+            "Le sorelle non hanno mai scritto la ricetta. La torta ha comunque il loro nome."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A fixed phrase for a story told without proof. Because it reports something that is not a fact, the verbs after che are in the subjunctive: abbia dimenticato, abbia aggiunto.",
+              "example" : "La leggenda vuole che abbia dimenticato l'impasto e lo abbia aggiunto sopra in tutta fretta; in realtà, torte rovesciate si facevano già molto tempo prima.",
+              "title" : "La leggenda vuole che + congiuntivo"
+            },
+            {
+              "body" : "The gerund describes what you do at the same time as the main action: tenendo un piatto ben fermo = while holding a plate firmly. Its subject is the subject of the main verb.",
+              "example" : "Poi, tenendo un piatto ben fermo sulla padella, capovolgi il tutto con un solo gesto.",
+              "title" : "Gerundio for how you do it: tenendo"
+            },
+            {
+              "body" : "Né adds a second negative idea without repeating non: non scrissero…, né diedero… = never wrote…, nor gave. Both verbs are passato remoto, the tense of written history.",
+              "example" : "Le sorelle, a quanto pare, non scrissero mai la ricetta, né diedero alla torta il loro nome.",
+              "title" : "Né after a negative, with the passato remoto"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Dal 1894 al 1906 le sorelle Stéphanie e Caroline Tatin gestirono un albergo di fronte alla stazione di Lamotte-Beuvron, nella Sologne, dove era molto apprezzato dai cacciatori.",
+            "Stéphanie, che si occupava della cucina, cuoceva la sua torta di mele capovolta. La leggenda vuole che abbia dimenticato l'impasto e lo abbia aggiunto sopra in tutta fretta; in realtà, torte rovesciate si facevano già molto tempo prima.",
+            "Sciogli 100 grammi di burro con 100 grammi di zucchero in una padella che possa andare in forno, finché non prendono un colore dorato. Disponi, ben strette, un chilo di mele sode, sbucciate e tagliate a metà, e lasciale cuocere a fuoco lento per quindici minuti.",
+            "Adagia sulla frutta un disco di impasto, rimboccane i bordi e cuoci in forno caldo per trenta minuti. Poi, tenendo un piatto ben fermo sulla padella, capovolgi il tutto con un solo gesto.",
+            "Le sorelle, a quanto pare, non scrissero mai la ricetta, né diedero alla torta il loro nome. Da allora la torta non ha mai smesso di portarlo."
+          ]
+        }
+      ],
+      "summary" : "Dal 1894 due sorelle hanno gestito in Francia un albergo di fronte alla stazione, e una delle due cuoceva la sua torta di mele al contrario: ecco la storia vera e la ricetta.",
+      "title" : "La torta rovesciata",
+      "translationGroup" : "upside-down-tart"
     }
   ]
 }
