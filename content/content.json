@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 11,
-  "generatedAt" : "2026-10-12",
+  "contentVersion" : 12,
+  "generatedAt" : "2026-10-13",
   "glossary" : {
     "english" : [
       {
@@ -1564,7 +1564,7 @@
         "forms" : [
           "cup"
         ],
-        "note" : "As in \"a cup of vegetable stock.\"",
+        "note" : "As in \"a cup of vegetable stock.\" A cup is also the prize of a competition: the World Cup is football's biggest tournament.",
         "pos" : "noun",
         "translation" : "a small container for drinking, or a unit of measurement"
       },
@@ -1823,7 +1823,7 @@
           "doesn't",
           "don't"
         ],
-        "note" : "Also used as an auxiliary verb for questions and negatives.",
+        "note" : "Also used as an auxiliary verb for questions and negatives. In a Portuguese name such as \"Arantes do Nascimento\", \"do\" is Portuguese for \"of the\".",
         "pos" : "verb",
         "translation" : "to perform an action"
       },
@@ -23586,6 +23586,304 @@
         "note" : "\"To win the title\" = to become champion. A title is also the name of a book.",
         "pos" : "noun",
         "translation" : "the championship; the name of a winner"
+      },
+      {
+        "forms" : [
+          "1940s"
+        ],
+        "note" : "Read \"the nineteen-forties\". A decade is written with -s: the 1940s.",
+        "pos" : "number",
+        "translation" : "the years 1940 to 1949"
+      },
+      {
+        "forms" : [
+          "1962"
+        ],
+        "note" : "A year (nineteen sixty-two): Brazil won the World Cup again, in Chile.",
+        "pos" : "number",
+        "translation" : "1962"
+      },
+      {
+        "forms" : [
+          "23"
+        ],
+        "note" : "Twenty-three. In a date: 23 October = \"the twenty-third of October\".",
+        "pos" : "number",
+        "translation" : "23"
+      },
+      {
+        "forms" : [
+          "29"
+        ],
+        "note" : "Twenty-nine. In a date: 29 June = \"the twenty-ninth of June\".",
+        "pos" : "number",
+        "translation" : "29"
+      },
+      {
+        "forms" : [
+          "5–2"
+        ],
+        "note" : "A football score, read \"five two\" or \"five to two\": Brazil scored five times, Sweden twice.",
+        "pos" : "number",
+        "translation" : "five goals to two"
+      },
+      {
+        "forms" : [
+          "aged"
+        ],
+        "note" : "\"Aged seventeen\" = when he was seventeen years old. Formal; common in news and biographies.",
+        "pos" : "adjective",
+        "translation" : "at the age of"
+      },
+      {
+        "forms" : [
+          "arantes"
+        ],
+        "note" : "Part of Pelé's full name, Edson Arantes do Nascimento; Arantes was his mother's family name.",
+        "pos" : "noun",
+        "translation" : "Arantes"
+      },
+      {
+        "forms" : [
+          "ball"
+        ],
+        "note" : "\"He has no ball\" = he has nothing to kick. Plural: balls.",
+        "pos" : "noun",
+        "translation" : "a round object that you kick, throw or hit in a game"
+      },
+      {
+        "forms" : [
+          "bauru"
+        ],
+        "note" : "A town in the state of São Paulo, Brazil, where Pelé grew up.",
+        "pos" : "noun",
+        "translation" : "Bauru"
+      },
+      {
+        "forms" : [
+          "club"
+        ],
+        "note" : "Santos is a football club. \"To join a club\" = to become one of its players.",
+        "pos" : "noun",
+        "translation" : "a sports team with its own name, players and ground"
+      },
+      {
+        "forms" : [
+          "dondinho"
+        ],
+        "note" : "The name by which Pelé's father, a footballer, was known.",
+        "pos" : "noun",
+        "translation" : "Dondinho"
+      },
+      {
+        "forms" : [
+          "edson"
+        ],
+        "note" : "Pelé's first name: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Edson"
+      },
+      {
+        "forms" : [
+          "eighty-two"
+        ],
+        "note" : "Written with a hyphen: eighty-two. \"Aged eighty-two\" = 82 years old.",
+        "pos" : "number",
+        "translation" : "82"
+      },
+      {
+        "forms" : [
+          "final"
+        ],
+        "note" : "\"The World Cup final\". As an adjective, \"final\" means last.",
+        "pos" : "noun",
+        "translation" : "the last game of a competition, which decides the winner"
+      },
+      {
+        "forms" : [
+          "footballer"
+        ],
+        "note" : "British English; American English says \"soccer player\".",
+        "pos" : "noun",
+        "translation" : "a person who plays football"
+      },
+      {
+        "forms" : [
+          "game"
+        ],
+        "note" : "\"He taught him the game\" = he taught him football. A game is also one match.",
+        "pos" : "noun",
+        "translation" : "a sport or an activity with rules; here: football"
+      },
+      {
+        "forms" : [
+          "joined"
+        ],
+        "note" : "Past simple of \"join\": he joined the club = he became one of its players.",
+        "pos" : "verb",
+        "translation" : "became a member of"
+      },
+      {
+        "forms" : [
+          "june"
+        ],
+        "note" : "Months take a capital letter in English: June.",
+        "pos" : "noun",
+        "translation" : "the sixth month of the year"
+      },
+      {
+        "forms" : [
+          "kicked",
+          "kicks"
+        ],
+        "note" : "\"Kick\": he kicks the ball (present), he kicked it (past).",
+        "pos" : "verb",
+        "translation" : "hits with the foot"
+      },
+      {
+        "forms" : [
+          "leather"
+        ],
+        "note" : "Footballs used to be made of leather. Also used before a noun: a leather ball.",
+        "pos" : "noun",
+        "translation" : "the strong material made from an animal's skin"
+      },
+      {
+        "forms" : [
+          "nascimento"
+        ],
+        "note" : "Pelé's family name: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Nascimento"
+      },
+      {
+        "forms" : [
+          "newspaper"
+        ],
+        "note" : "Here it is the material: \"a sock filled with newspaper\" = with old sheets of it.",
+        "pos" : "noun",
+        "translation" : "large sheets of paper with the news printed on them"
+      },
+      {
+        "forms" : [
+          "pelé"
+        ],
+        "note" : "The name the world gave Edson Arantes do Nascimento (1940–2022), the Brazilian footballer.",
+        "pos" : "noun",
+        "translation" : "Pelé"
+      },
+      {
+        "forms" : [
+          "player"
+        ],
+        "note" : "\"No other player\" = nobody else who plays football.",
+        "pos" : "noun",
+        "translation" : "a person who takes part in a game or sport"
+      },
+      {
+        "forms" : [
+          "playing"
+        ],
+        "note" : "-ing form of \"play\" in its sport meaning: playing for Brazil = being in Brazil's team.",
+        "pos" : "verb",
+        "translation" : "taking part in a sport or game"
+      },
+      {
+        "forms" : [
+          "practised"
+        ],
+        "note" : "Past simple of \"practise\" (British spelling of the verb; the noun is \"practice\").",
+        "pos" : "verb",
+        "translation" : "did something again and again to get better at it"
+      },
+      {
+        "forms" : [
+          "santos"
+        ],
+        "note" : "A football club in the port city of Santos, Brazil, which Pelé joined at fifteen.",
+        "pos" : "noun",
+        "translation" : "Santos"
+      },
+      {
+        "forms" : [
+          "scored",
+          "scores"
+        ],
+        "note" : "\"Score\": he scores twice = he gets two goals. Past: scored.",
+        "pos" : "verb",
+        "translation" : "gets a goal in a game"
+      },
+      {
+        "forms" : [
+          "signed"
+        ],
+        "note" : "Past simple of \"sign\". He signed for Santos = he became their player; Santos signed him = the club took him.",
+        "pos" : "verb",
+        "translation" : "agreed to join by writing one's name on a contract"
+      },
+      {
+        "forms" : [
+          "sixteen"
+        ],
+        "note" : "Sixteen. \"At sixteen\" = when he was sixteen years old.",
+        "pos" : "number",
+        "translation" : "16"
+      },
+      {
+        "forms" : [
+          "sock"
+        ],
+        "note" : "Plural: socks. Here a sock becomes a ball.",
+        "pos" : "noun",
+        "translation" : "a soft piece of clothing that you wear on your foot"
+      },
+      {
+        "forms" : [
+          "stuffed"
+        ],
+        "note" : "Past of \"stuff\": he stuffed the sock with newspaper = he pushed newspaper into it until it was full.",
+        "pos" : "verb",
+        "translation" : "filled something tightly with a material"
+      },
+      {
+        "forms" : [
+          "sweden"
+        ],
+        "note" : "The World Cup of 1958 took place in Sweden; Sweden was also the other team in the final.",
+        "pos" : "noun",
+        "translation" : "a country in the north of Europe"
+      },
+      {
+        "forms" : [
+          "tournament"
+        ],
+        "note" : "Here: the World Cup.",
+        "pos" : "noun",
+        "translation" : "a competition with many games and one winner"
+      },
+      {
+        "forms" : [
+          "unmatched"
+        ],
+        "note" : "un- + matched: nobody else has done the same.",
+        "pos" : "adjective",
+        "translation" : "not equalled by anyone"
+      },
+      {
+        "forms" : [
+          "whom"
+        ],
+        "note" : "Formal: \"whom the world knows as Pelé\" = the world knows him as Pelé. In speech people usually say \"who\".",
+        "pos" : "pronoun",
+        "translation" : "who (as the object)"
+      },
+      {
+        "forms" : [
+          "younger"
+        ],
+        "note" : "Comparative of \"young\": young, younger, youngest.",
+        "pos" : "adjective",
+        "translation" : "less old"
       }
     ],
     "french" : [
@@ -26313,6 +26611,7 @@
       },
       {
         "forms" : [
+          "d'heures",
           "heure",
           "heures"
         ],
@@ -29593,6 +29892,7 @@
       {
         "forms" : [
           "aucune",
+          "qu'aucun",
           "qu'aucune"
         ],
         "gender" : "feminine",
@@ -31189,6 +31489,7 @@
       },
       {
         "forms" : [
+          "d'importance",
           "importance"
         ],
         "gender" : "feminine",
@@ -34341,6 +34642,7 @@
       },
       {
         "forms" : [
+          "grandi",
           "grandir"
         ],
         "note" : "\"Faire grandir quelque chose\" = to make something grow.",
@@ -36743,7 +37045,8 @@
       {
         "forms" : [
           "entrent",
-          "entrer"
+          "entrer",
+          "entré"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -42150,7 +42453,7 @@
           "journaux"
         ],
         "gender" : "masculine",
-        "note" : "Irregular plural.",
+        "note" : "Irregular plural. Also a newspaper: lire le journal = to read the paper; \"papier journal\" = newspaper as a material, old sheets of it.",
         "pos" : "noun",
         "translation" : "diary, journal"
       },
@@ -50280,6 +50583,7 @@
       },
       {
         "forms" : [
+          "l'âge",
           "âge",
           "âgés"
         ],
@@ -51586,6 +51890,7 @@
       {
         "forms" : [
           "joua",
+          "jouait",
           "joue",
           "jouer",
           "joué"
@@ -51614,6 +51919,7 @@
       },
       {
         "forms" : [
+          "enseigna",
           "enseigné"
         ],
         "note" : "Past participle of enseigner: « le lavage du visage, enseigné à chaque enfant » = face washing, taught to every child.",
@@ -55585,6 +55891,361 @@
         "note" : "The winner of a championship: « être champion » = to be champion, with no article after être.",
         "pos" : "noun",
         "translation" : "champion"
+      },
+      {
+        "forms" : [
+          "edson"
+        ],
+        "note" : "The first name of Edson Arantes do Nascimento, the Brazilian boy of this story, whom the world knows as Pelé.",
+        "pos" : "noun",
+        "translation" : "Edson"
+      },
+      {
+        "forms" : [
+          "bauru"
+        ],
+        "note" : "The town in Brazil where Edson grew up; « à Bauru » = in Bauru, with « à » before a town.",
+        "pos" : "noun",
+        "translation" : "Bauru"
+      },
+      {
+        "forms" : [
+          "ballon"
+        ],
+        "gender" : "masculine",
+        "note" : "A large ball that you kick or throw, as in football; a small one, as in tennis, is « une balle ».",
+        "pos" : "noun",
+        "translation" : "ball"
+      },
+      {
+        "forms" : [
+          "chaussette"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une chaussette » is worn on the foot, inside the shoe; the plural adds -s: « des chaussettes ».",
+        "pos" : "noun",
+        "translation" : "sock"
+      },
+      {
+        "forms" : [
+          "salon",
+          "salons"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un salon de thé » = a tea shop, a place where tea is served; the plural is « des salons de thé », and « thé » does not change.",
+        "pos" : "noun",
+        "translation" : "room, lounge; tea shop (with « de thé »)"
+      },
+      {
+        "forms" : [
+          "club"
+        ],
+        "gender" : "masculine",
+        "note" : "A sports club, here a football club; the word comes from English and is said « kleub »: « un grand club » = a big club.",
+        "pos" : "noun",
+        "translation" : "club"
+      },
+      {
+        "forms" : [
+          "seize"
+        ],
+        "note" : "« À seize ans » = at sixteen; with an age, French always says « ans » after the number.",
+        "pos" : "number",
+        "translation" : "sixteen"
+      },
+      {
+        "forms" : [
+          "marqua",
+          "marque",
+          "marqué"
+        ],
+        "note" : "Marquer, here to score in football: « il marque » present, « il a marqué » passé composé, « il marqua » passé simple; « marquer un but » = to score a goal.",
+        "pos" : "verb",
+        "translation" : "scores; scored"
+      },
+      {
+        "forms" : [
+          "but",
+          "buts"
+        ],
+        "gender" : "masculine",
+        "note" : "A goal in football: « marquer deux buts » = to score two goals, to score twice; « un but » is also an aim, a purpose.",
+        "pos" : "noun",
+        "translation" : "goal"
+      },
+      {
+        "forms" : [
+          "coupe"
+        ],
+        "gender" : "feminine",
+        "note" : "The cup a team wins: « la Coupe du monde » = the World Cup, with a capital C; as a verb, « il coupe » means « he cuts ».",
+        "pos" : "noun",
+        "translation" : "cup"
+      },
+      {
+        "forms" : [
+          "finale"
+        ],
+        "gender" : "feminine",
+        "note" : "The last game of a competition; « en finale » = in the final, with no article.",
+        "pos" : "noun",
+        "translation" : "final"
+      },
+      {
+        "forms" : [
+          "pelé"
+        ],
+        "note" : "The name by which the world knows Edson Arantes do Nascimento, the Brazilian footballer of this story.",
+        "pos" : "noun",
+        "translation" : "Pelé"
+      },
+      {
+        "forms" : [
+          "arantes"
+        ],
+        "note" : "The first of Pelé's two family names: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Arantes"
+      },
+      {
+        "forms" : [
+          "do"
+        ],
+        "note" : "Portuguese for « of the »; here it is only a part of the family name « do Nascimento ».",
+        "pos" : "other",
+        "translation" : "do (part of a Portuguese name)"
+      },
+      {
+        "forms" : [
+          "nascimento"
+        ],
+        "note" : "The last part of Pelé's full name: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Nascimento"
+      },
+      {
+        "forms" : [
+          "23"
+        ],
+        "note" : "The day in « le 23 octobre 1940 », read « le vingt-trois octobre »; French puts the day before the month, with « le ».",
+        "pos" : "number",
+        "translation" : "23"
+      },
+      {
+        "forms" : [
+          "footballeur"
+        ],
+        "gender" : "masculine",
+        "note" : "A man who plays football; French uses no article after être for what someone is: « son père était footballeur ».",
+        "pos" : "noun",
+        "translation" : "footballer"
+      },
+      {
+        "forms" : [
+          "jeu"
+        ],
+        "gender" : "masculine",
+        "note" : "From jouer (to play); « le jeu » here is football itself. The plural takes -x: « des jeux ».",
+        "pos" : "noun",
+        "translation" : "game"
+      },
+      {
+        "forms" : [
+          "santos"
+        ],
+        "note" : "The Brazilian football club that Edson joined at fifteen; « le club de Santos ».",
+        "pos" : "noun",
+        "translation" : "Santos"
+      },
+      {
+        "forms" : [
+          "suède"
+        ],
+        "gender" : "feminine",
+        "note" : "The country of the World Cup of 1958; it is feminine, so « en Suède » = in Sweden and « contre la Suède » = against Sweden.",
+        "pos" : "noun",
+        "translation" : "Sweden"
+      },
+      {
+        "forms" : [
+          "5-2"
+        ],
+        "note" : "The score of the final, read « cinq à deux »: five goals for Brazil, two for Sweden.",
+        "pos" : "number",
+        "translation" : "5–2 (five goals to two)"
+      },
+      {
+        "forms" : [
+          "dondinho"
+        ],
+        "note" : "The name by which Edson's father, a footballer, was known.",
+        "pos" : "noun",
+        "translation" : "Dondinho"
+      },
+      {
+        "forms" : [
+          "moyens"
+        ],
+        "gender" : "masculine",
+        "note" : "« Avoir les moyens de » + infinitive = to be able to afford: « elle n'avait pas les moyens d'acheter un ballon ».",
+        "pos" : "noun",
+        "translation" : "means, money"
+      },
+      {
+        "forms" : [
+          "d'acheter"
+        ],
+        "note" : "De + acheter, shortened before the vowel: « les moyens d'acheter un ballon » = the money to buy a ball.",
+        "pos" : "verb",
+        "translation" : "to buy"
+      },
+      {
+        "forms" : [
+          "s'entraînait"
+        ],
+        "note" : "S'entraîner (a reflexive verb), imparfait, il/elle form: a habit in the past, he used to practise.",
+        "pos" : "verb",
+        "translation" : "trained, practised"
+      },
+      {
+        "forms" : [
+          "signé"
+        ],
+        "note" : "Past participle of signer; « signer à » + a club = to sign for a club: « il a signé à Santos ».",
+        "pos" : "verb",
+        "translation" : "signed"
+      },
+      {
+        "forms" : [
+          "29"
+        ],
+        "note" : "The day in « le 29 juin 1958 » and « le 29 décembre 2022 », read « le vingt-neuf ».",
+        "pos" : "number",
+        "translation" : "29"
+      },
+      {
+        "forms" : [
+          "juin"
+        ],
+        "gender" : "masculine",
+        "note" : "The sixth month; months take no capital letter: « le 29 juin 1958 ».",
+        "pos" : "noun",
+        "translation" : "June"
+      },
+      {
+        "forms" : [
+          "joueur"
+        ],
+        "gender" : "masculine",
+        "note" : "From jouer (to play); a woman is « une joueuse ».",
+        "pos" : "noun",
+        "translation" : "player"
+      },
+      {
+        "forms" : [
+          "bourrait"
+        ],
+        "note" : "Bourrer, imparfait, il/elle form: to fill something very full; « bourrer de » + noun = to stuff with.",
+        "pos" : "verb",
+        "translation" : "stuffed, was stuffing"
+      },
+      {
+        "forms" : [
+          "consacrait"
+        ],
+        "note" : "Consacrer, imparfait, il/elle form; « consacrer du temps à » = to devote time to.",
+        "pos" : "verb",
+        "translation" : "devoted, gave"
+      },
+      {
+        "forms" : [
+          "l'engagea"
+        ],
+        "note" : "Le + engagea (engager, passé simple), shortened before the vowel; the e after the g keeps the soft g sound before a.",
+        "pos" : "verb",
+        "translation" : "signed him, took him on"
+      },
+      {
+        "forms" : [
+          "sélectionna"
+        ],
+        "note" : "Sélectionner, passé simple, il/elle form; in sport, to pick a player for a team.",
+        "pos" : "verb",
+        "translation" : "selected, picked"
+      },
+      {
+        "forms" : [
+          "âgé"
+        ],
+        "note" : "« Âgé de » + a number + « ans » gives an age in written French: « âgé de dix-sept ans » = aged seventeen.",
+        "pos" : "adjective",
+        "translation" : "aged"
+      },
+      {
+        "forms" : [
+          "remporta"
+        ],
+        "note" : "Remporter, passé simple, il/elle form: to win a game, a prize or a title; more formal than gagner.",
+        "pos" : "verb",
+        "translation" : "won"
+      },
+      {
+        "forms" : [
+          "d'aussi"
+        ],
+        "note" : "De + aussi, shortened before the vowel; before an adjective « aussi » means « as, so »: « personne d'aussi jeune » = nobody so young.",
+        "pos" : "adverb",
+        "translation" : "as, so (+ adjective)"
+      },
+      {
+        "forms" : [
+          "tournoi"
+        ],
+        "gender" : "masculine",
+        "note" : "A competition played in several rounds; here « le tournoi » is the World Cup.",
+        "pos" : "noun",
+        "translation" : "tournament"
+      },
+      {
+        "forms" : [
+          "1962"
+        ],
+        "note" : "Read « mille neuf cent soixante-deux »; the year of Pelé's second World Cup title.",
+        "pos" : "number",
+        "translation" : "1962"
+      },
+      {
+        "forms" : [
+          "inégalé"
+        ],
+        "note" : "In- (not) + égalé (equalled): nobody else has done as much; « un titre resté inégalé » = a title that remains unmatched.",
+        "pos" : "adjective",
+        "translation" : "unmatched, unequalled"
+      },
+      {
+        "forms" : [
+          "quatre-vingt-deux"
+        ],
+        "note" : "Literally « four-twenty-two »; « quatre-vingts » loses its -s when another number follows.",
+        "pos" : "number",
+        "translation" : "eighty-two"
+      },
+      {
+        "forms" : [
+          "aurait-elle"
+        ],
+        "note" : "Aurait + elle, inverted; « aurait-elle été » is formal French for « si elle avait été » = had it been.",
+        "pos" : "verb",
+        "translation" : "had it (been), would it have"
+      },
+      {
+        "forms" : [
+          "cuir"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un ballon de cuir » = a leather ball; de + the material, with no article.",
+        "pos" : "noun",
+        "translation" : "leather"
       }
     ],
     "german" : [
@@ -55856,6 +56517,7 @@
       },
       {
         "forms" : [
+          "aufgewachsen",
           "aufwachsen"
         ],
         "note" : "Infinitive of aufwachsen.",
@@ -56210,9 +56872,14 @@
         "forms" : [
           "brachte"
         ],
-        "note" : "Bringen (to bring), past tense. Separable: … mit = mitbringen, to bring along.",
+        "note" : "Bringen (to bring), past tense. Separable: … mit = mitbringen, to bring along; … bei = beibringen, to teach; „brachte ihm das Fußballspielen bei“ = taught him to play football.",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "bei",
+            "translation" : "to teach",
+            "verb" : "beibringen"
+          },
           {
             "particle" : "mit",
             "translation" : "to bring along",
@@ -66534,10 +67201,18 @@
       },
       {
         "forms" : [
+          "wuchs",
           "wuchsen"
         ],
-        "note" : "Past tense of wachsen, plural.",
+        "note" : "Past tense of wachsen, plural. Separable: … auf = aufwachsen, to grow up; „wuchs in Bauru auf“ = grew up in Bauru.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to grow up",
+            "verb" : "aufwachsen"
+          }
+        ],
         "translation" : "grew"
       },
       {
@@ -72206,6 +72881,7 @@
       {
         "forms" : [
           "alt",
+          "altem",
           "altes"
         ],
         "note" : "Neuter form included.",
@@ -77623,6 +78299,7 @@
       {
         "forms" : [
           "gezählt",
+          "zählte",
           "zählten"
         ],
         "note" : "Zählen: past participle and preterite plural. Separable: … zusammen = zusammenzählen, to add up.",
@@ -80831,7 +81508,8 @@
       },
       {
         "forms" : [
-          "jünger"
+          "jünger",
+          "jüngerer"
         ],
         "note" : "Komparativ von „jung\".",
         "pos" : "adjective",
@@ -83338,6 +84016,7 @@
       },
       {
         "forms" : [
+          "beibrachte",
           "beigebracht"
         ],
         "note" : "Partizip II of beibringen (to teach someone something): „das Gesichtswaschen, jedem Kind beigebracht“ = face washing, taught to every child; the particle bei- stands before ge-.",
@@ -87830,6 +88509,413 @@
         "note" : "Der Champion, an English loan: the winner of a championship; after sein it takes no article: „könnte Champion sein“ = could be champion.",
         "pos" : "noun",
         "translation" : "champion"
+      },
+      {
+        "forms" : [
+          "1940er"
+        ],
+        "note" : "A numeral + -er makes a decade: „die 1940er Jahre“ = the 1940s (read: neunzehnhundertvierziger); the form never changes, so the dative is „in den 1940er Jahren“.",
+        "pos" : "number",
+        "translation" : "1940s"
+      },
+      {
+        "forms" : [
+          "edson"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Edson Arantes do Nascimento, the Brazilian boy of this story, whom the world later called Pelé.",
+        "pos" : "noun",
+        "translation" : "Edson"
+      },
+      {
+        "forms" : [
+          "bauru"
+        ],
+        "gender" : "neuter",
+        "note" : "The place in Brazil where Edson grew up; place names take no article: „in Bauru“.",
+        "pos" : "noun",
+        "translation" : "Bauru"
+      },
+      {
+        "forms" : [
+          "ball"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Ball, plural die Bälle; as the object of „hat“ it stands in the accusative: „keinen Ball“, „einen Ball“.",
+        "pos" : "noun",
+        "translation" : "ball"
+      },
+      {
+        "forms" : [
+          "socke"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Socke, plural die Socken: „eine Socke mit Papier füllen“ = to fill a sock with paper.",
+        "pos" : "noun",
+        "translation" : "sock"
+      },
+      {
+        "forms" : [
+          "teestuben"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Teestube: Tee + Stube (a small room), a simple place where tea is served; „in Teestuben arbeiten“ = to work in tea shops.",
+        "pos" : "noun",
+        "translation" : "tea rooms, tea shops"
+      },
+      {
+        "forms" : [
+          "verein"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Verein: a sports club, here a football club; „in einem großen Verein“ = in a big club.",
+        "pos" : "noun",
+        "translation" : "club"
+      },
+      {
+        "forms" : [
+          "sechzehn"
+        ],
+        "note" : "Sechs + zehn = 16, but the s of sechs drops out: sechzehn; „mit sechzehn“ = at sixteen.",
+        "pos" : "number",
+        "translation" : "sixteen"
+      },
+      {
+        "forms" : [
+          "brasiliens"
+        ],
+        "gender" : "neuter",
+        "note" : "Genitive of Brasilien with -s and no apostrophe: „Brasiliens Mannschaft“ = Brazil's team.",
+        "pos" : "noun",
+        "translation" : "of Brazil, Brazil's"
+      },
+      {
+        "forms" : [
+          "mannschaft"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Mannschaft: the team in a sport; nouns in -schaft are always feminine.",
+        "pos" : "noun",
+        "translation" : "team"
+      },
+      {
+        "forms" : [
+          "finale"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Finale: the last game of a tournament, the one that decides the winner; „im Finale“ = in the final.",
+        "pos" : "noun",
+        "translation" : "final"
+      },
+      {
+        "forms" : [
+          "wm"
+        ],
+        "gender" : "feminine",
+        "note" : "Short for die Weltmeisterschaft and said as two letters (We-Em): „im Finale der WM“ = in the World Cup final.",
+        "pos" : "noun",
+        "translation" : "World Cup"
+      },
+      {
+        "forms" : [
+          "geschossen",
+          "schießt",
+          "schoss"
+        ],
+        "note" : "Schießen (to shoot): er schießt, schoss, hat geschossen; German „shoots“ a goal: „zwei Tore schießen“ = to score two goals.",
+        "pos" : "verb",
+        "translation" : "shoots, scores (a goal)"
+      },
+      {
+        "forms" : [
+          "tor",
+          "tore"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Tor, plural die Tore: the goal in football (the word also means a gate); „ein Tor schießen“ = to score a goal.",
+        "pos" : "noun",
+        "translation" : "goal"
+      },
+      {
+        "forms" : [
+          "pelé"
+        ],
+        "gender" : "masculine",
+        "note" : "The name by which the world knows Edson Arantes do Nascimento, the Brazilian footballer of this story.",
+        "pos" : "noun",
+        "translation" : "Pelé"
+      },
+      {
+        "forms" : [
+          "arantes"
+        ],
+        "gender" : "masculine",
+        "note" : "The second part of the full name Edson Arantes do Nascimento, the boy later called Pelé.",
+        "pos" : "noun",
+        "translation" : "Arantes"
+      },
+      {
+        "forms" : [
+          "do"
+        ],
+        "note" : "Not a German word: a Portuguese „of the“ inside the family name „do Nascimento“.",
+        "pos" : "other",
+        "translation" : "do (part of a name)"
+      },
+      {
+        "forms" : [
+          "nascimento"
+        ],
+        "gender" : "masculine",
+        "note" : "The last part of the full name Edson Arantes do Nascimento, the boy later called Pelé.",
+        "pos" : "noun",
+        "translation" : "Nascimento"
+      },
+      {
+        "forms" : [
+          "23"
+        ],
+        "note" : "The day in „am 23. Oktober 1940“; the dot after the numeral makes it an ordinal, read „am dreiundzwanzigsten Oktober“.",
+        "pos" : "number",
+        "translation" : "23"
+      },
+      {
+        "forms" : [
+          "fußballer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Fußballer: a man who plays football; a profession stands without an article: „Sein Vater war Fußballer“.",
+        "pos" : "noun",
+        "translation" : "footballer"
+      },
+      {
+        "forms" : [
+          "fußball"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Fußball: the game (and its ball); as a game it takes no article: „Fußball spielen“, „jemandem Fußball beibringen“ = to teach somebody football.",
+        "pos" : "noun",
+        "translation" : "football"
+      },
+      {
+        "forms" : [
+          "zeitungspapier"
+        ],
+        "gender" : "neuter",
+        "note" : "Zeitung (newspaper) + s + Papier: the paper of old newspapers as a material, here used to fill the sock.",
+        "pos" : "noun",
+        "translation" : "newspaper (the paper)"
+      },
+      {
+        "forms" : [
+          "santos"
+        ],
+        "gender" : "masculine",
+        "note" : "The Brazilian football club that Pelé joined at fifteen: „zum Verein Santos“, „bei Santos“.",
+        "pos" : "noun",
+        "translation" : "Santos"
+      },
+      {
+        "forms" : [
+          "schweden"
+        ],
+        "gender" : "neuter",
+        "note" : "The country where the World Cup of 1958 was played; most country names are neuter and take no article: „in Schweden“, „gegen Schweden“.",
+        "pos" : "noun",
+        "translation" : "Sweden"
+      },
+      {
+        "forms" : [
+          "5:2"
+        ],
+        "note" : "A score is written with a colon in German and read „fünf zu zwei“: „Brasilien hat 5:2 gewonnen“ = Brazil won 5–2.",
+        "pos" : "number",
+        "translation" : "5–2 (a score)"
+      },
+      {
+        "forms" : [
+          "dondinho"
+        ],
+        "gender" : "masculine",
+        "note" : "The name of Pelé's father, a footballer, who taught his son the game.",
+        "pos" : "noun",
+        "translation" : "Dondinho"
+      },
+      {
+        "forms" : [
+          "fußballspielen"
+        ],
+        "gender" : "neuter",
+        "note" : "Fußball + spielen written as one noun: a verb used as a noun is neuter and takes a capital letter, „das Fußballspielen“.",
+        "pos" : "noun",
+        "translation" : "playing football"
+      },
+      {
+        "forms" : [
+          "übte"
+        ],
+        "note" : "Präteritum of üben (to practise), a regular verb: übt, übte, hat geübt; „übte mit einer Socke“ = practised with a sock.",
+        "pos" : "verb",
+        "translation" : "practised"
+      },
+      {
+        "forms" : [
+          "ausgestopft"
+        ],
+        "note" : "Partizip II of ausstopfen (to stuff, to fill tightly); ge- stands between particle and stem: „mit Zeitungspapier ausgestopft“ = stuffed with newspaper.",
+        "pos" : "verb",
+        "translation" : "stuffed"
+      },
+      {
+        "forms" : [
+          "unterschrieb"
+        ],
+        "note" : "Präteritum of unterschreiben (to sign); here unter- does not separate: „unterschrieb bei Santos“ = signed for Santos.",
+        "pos" : "verb",
+        "translation" : "signed"
+      },
+      {
+        "forms" : [
+          "29"
+        ],
+        "note" : "The day in „am 29. Juni 1958“ and „am 29. Dezember 2022“; the dot after the numeral makes it an ordinal, read „am neunundzwanzigsten“.",
+        "pos" : "number",
+        "translation" : "29"
+      },
+      {
+        "forms" : [
+          "juni"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Juni; months are masculine: „am 29. Juni“ = on 29 June.",
+        "pos" : "noun",
+        "translation" : "June"
+      },
+      {
+        "forms" : [
+          "weltmeisterschaft"
+        ],
+        "gender" : "feminine",
+        "note" : "Welt (world) + Meisterschaft (championship): die Weltmeisterschaft, often shortened to die WM.",
+        "pos" : "noun",
+        "translation" : "World Cup, world championship"
+      },
+      {
+        "forms" : [
+          "spieler"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Spieler, from spielen (to play); the plural has the same form: die Spieler.",
+        "pos" : "noun",
+        "translation" : "player"
+      },
+      {
+        "forms" : [
+          "stopfte"
+        ],
+        "note" : "Präteritum of stopfen (to stuff). Separable: … aus = ausstopfen, to stuff, to fill out; „stopfte sie mit Zeitungspapier aus“ = stuffed it with newspaper.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "aus",
+            "translation" : "to stuff, to fill out",
+            "verb" : "ausstopfen"
+          }
+        ],
+        "translation" : "stuffed"
+      },
+      {
+        "forms" : [
+          "nämlich"
+        ],
+        "note" : "Gives the reason for the sentence before it and never stands first: „Einen echten Ball konnte sich seine Familie nämlich nicht leisten“ = for his family could not afford a real ball.",
+        "pos" : "adverb",
+        "translation" : "you see, for (giving the reason)"
+      },
+      {
+        "forms" : [
+          "vertrag"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Vertrag; „jemanden unter Vertrag nehmen“ = to sign somebody, literally to take him under contract.",
+        "pos" : "noun",
+        "translation" : "contract"
+      },
+      {
+        "forms" : [
+          "berief"
+        ],
+        "note" : "Präteritum of berufen (to call up, to appoint): a national team „beruft“ its players; „Brasilien berief ihn“ = Brazil picked him.",
+        "pos" : "verb",
+        "translation" : "called up, appointed"
+      },
+      {
+        "forms" : [
+          "erzielt",
+          "erzielte"
+        ],
+        "note" : "Erzielen (to achieve, to score), the formal word of sports reports: „ein Tor erzielen“ = to score a goal; erzielte is the Präteritum, erzielt the Partizip II.",
+        "pos" : "verb",
+        "translation" : "scored, achieved"
+      },
+      {
+        "forms" : [
+          "siebzehnjähriger"
+        ],
+        "gender" : "masculine",
+        "note" : "Siebzehn + Jahr + -ig, used as a noun: „als Siebzehnjähriger“ = as a seventeen-year-old, at seventeen.",
+        "pos" : "noun",
+        "translation" : "seventeen-year-old"
+      },
+      {
+        "forms" : [
+          "turnier"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Turnier: a competition of many games with one winner; the stress falls on the second syllable.",
+        "pos" : "noun",
+        "translation" : "tournament"
+      },
+      {
+        "forms" : [
+          "1962"
+        ],
+        "note" : "A year (neunzehnhundertzweiundsechzig); a year stands without a preposition: „auch 1962 und 1970“ = in 1962 and 1970 as well.",
+        "pos" : "number",
+        "translation" : "1962"
+      },
+      {
+        "forms" : [
+          "unerreicht"
+        ],
+        "note" : "Un- + erreicht (reached): what nobody else has reached; „unerreicht geblieben“ = has remained unmatched.",
+        "pos" : "adjective",
+        "translation" : "unmatched, unequalled"
+      },
+      {
+        "forms" : [
+          "zweiundachtzig"
+        ],
+        "note" : "Zwei + und + achtzig = 82, the units before the tens; „mit zweiundachtzig Jahren“ = at the age of eighty-two.",
+        "pos" : "number",
+        "translation" : "eighty-two"
+      },
+      {
+        "forms" : [
+          "lederball"
+        ],
+        "gender" : "masculine",
+        "note" : "Leder (leather) + Ball: a compound takes the gender of its last word, so der Lederball.",
+        "pos" : "noun",
+        "translation" : "leather ball"
+      },
+      {
+        "forms" : [
+          "geformt"
+        ],
+        "note" : "Partizip II of formen (to shape, to form): „Nicht der Ball hat ihn geformt“ = it was not the ball that shaped him.",
+        "pos" : "verb",
+        "translation" : "shaped, formed"
       }
     ],
     "italian" : [
@@ -90723,6 +91809,7 @@
           "crescente",
           "crescere",
           "crescevano",
+          "cresciuto",
           "crescono"
         ],
         "note" : "From crescere, an irregular verb.",
@@ -91512,7 +92599,7 @@
         "forms" : [
           "do"
         ],
-        "note" : "First person of dare.",
+        "note" : "First person of dare. In the Portuguese name \"Arantes do Nascimento\", \"do\" is Portuguese for \"of the\".",
         "pos" : "verb",
         "translation" : "I give"
       },
@@ -91779,7 +92866,8 @@
       {
         "forms" : [
           "entrarci",
-          "entrare"
+          "entrare",
+          "entrato"
         ],
         "note" : "From entrare.",
         "pos" : "verb",
@@ -93164,6 +94252,7 @@
       {
         "forms" : [
           "insegna",
+          "insegnare",
           "insegnato",
           "insegnò"
         ],
@@ -112712,7 +113801,9 @@
       {
         "forms" : [
           "gioca",
-          "giocare"
+          "giocare",
+          "giocato",
+          "giocava"
         ],
         "note" : "Giocare is to play a game or with toys; gioca is the present (lui/lei) and also the tu imperative: gioca bene = play well.",
         "pos" : "verb",
@@ -112819,6 +113910,7 @@
       },
       {
         "forms" : [
+          "permettersene",
           "permettersi"
         ],
         "note" : "Reflexive permettersi = to allow oneself, so to have enough money for something: non potevano permettersi nient'altro.",
@@ -114876,6 +115968,332 @@
         "note" : "The winner of a championship (il campionato); the feminine is la campionessa.",
         "pos" : "noun",
         "translation" : "champion"
+      },
+      {
+        "forms" : [
+          "1962"
+        ],
+        "note" : "Millenovecentosessantadue, the year of Pelé's second World Cup; a year takes the article: nel 1962 = in 1962.",
+        "pos" : "number",
+        "translation" : "1962"
+      },
+      {
+        "forms" : [
+          "23"
+        ],
+        "note" : "Ventitré; a date takes il and the plain number, without \"of\": il 23 ottobre 1940 = 23 October 1940, the day Pelé was born.",
+        "pos" : "number",
+        "translation" : "23"
+      },
+      {
+        "forms" : [
+          "29"
+        ],
+        "note" : "Ventinove; a date takes il and the plain number: il 29 giugno 1958 = 29 June 1958, il 29 dicembre 2022 = 29 December 2022.",
+        "pos" : "number",
+        "translation" : "29"
+      },
+      {
+        "forms" : [
+          "5–2"
+        ],
+        "note" : "A football score, said cinque a due: il Brasile ha vinto 5–2 = Brazil won by five goals to two.",
+        "pos" : "number",
+        "translation" : "5–2 (five goals to two)"
+      },
+      {
+        "forms" : [
+          "allenava"
+        ],
+        "note" : "Imperfect of allenarsi (lui/lei), a reflexive verb, to train: si allenava con un calzino = he practised with a sock.",
+        "pos" : "verb",
+        "translation" : "trained, practised"
+      },
+      {
+        "forms" : [
+          "arantes"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of the full name of Pelé: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Arantes"
+      },
+      {
+        "forms" : [
+          "bauru"
+        ],
+        "gender" : "feminine",
+        "note" : "The town in Brazil where Edson grows up; a city takes a or di without an article: a Bauru = in Bauru, di Bauru = from Bauru.",
+        "pos" : "noun",
+        "translation" : "Bauru"
+      },
+      {
+        "forms" : [
+          "calciatore"
+        ],
+        "gender" : "masculine",
+        "note" : "A person who plays football (il calcio); the plural is calciatori. After essere the article can be left out: era calciatore.",
+        "pos" : "noun",
+        "translation" : "footballer"
+      },
+      {
+        "forms" : [
+          "calzino"
+        ],
+        "gender" : "masculine",
+        "note" : "A short sock; the plural is calzini. Un calzino pieno di carta is the boy's ball in this story.",
+        "pos" : "noun",
+        "translation" : "sock"
+      },
+      {
+        "forms" : [
+          "club"
+        ],
+        "gender" : "masculine",
+        "note" : "An English word that Italian uses for a football club; it never changes: il club, i club.",
+        "pos" : "noun",
+        "translation" : "club"
+      },
+      {
+        "forms" : [
+          "convocò"
+        ],
+        "note" : "Passato remoto of convocare (lui/lei); in sport it means to call a player into the national team: il Brasile lo convocò.",
+        "pos" : "verb",
+        "translation" : "picked, called up"
+      },
+      {
+        "forms" : [
+          "coppa"
+        ],
+        "gender" : "feminine",
+        "note" : "A cup, also the prize of a competition: la Coppa del Mondo = the World Cup, the football tournament that Italians also call i Mondiali.",
+        "pos" : "noun",
+        "translation" : "cup"
+      },
+      {
+        "forms" : [
+          "cuoio"
+        ],
+        "gender" : "masculine",
+        "note" : "The material of shoes, bags and old footballs: un pallone di cuoio = a leather ball.",
+        "pos" : "noun",
+        "translation" : "leather"
+      },
+      {
+        "forms" : [
+          "dondinho"
+        ],
+        "gender" : "masculine",
+        "note" : "The name by which the father of Pelé, a footballer, is known.",
+        "pos" : "noun",
+        "translation" : "Dondinho"
+      },
+      {
+        "forms" : [
+          "edson"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Edson Arantes do Nascimento, the boy whom the world later knows as Pelé.",
+        "pos" : "noun",
+        "translation" : "Edson"
+      },
+      {
+        "forms" : [
+          "firmato"
+        ],
+        "note" : "Past participle of firmare, to sign your name: ha firmato per il Santos = he signed (a contract) for Santos.",
+        "pos" : "verb",
+        "translation" : "signed"
+      },
+      {
+        "forms" : [
+          "formarlo"
+        ],
+        "note" : "Formare (to form, to shape) with the pronoun lo (him) joined to the infinitive: a formarlo non fu il pallone = what made him was not the ball.",
+        "pos" : "verb",
+        "translation" : "to shape him, to make him"
+      },
+      {
+        "forms" : [
+          "giocatore"
+        ],
+        "gender" : "masculine",
+        "note" : "A person who plays (giocare) a game or a sport; the plural is giocatori: nessun altro giocatore = no other player.",
+        "pos" : "noun",
+        "translation" : "player"
+      },
+      {
+        "forms" : [
+          "gioco"
+        ],
+        "gender" : "masculine",
+        "note" : "From giocare, to play: il gioco here is football; the plural is giochi.",
+        "pos" : "noun",
+        "translation" : "game"
+      },
+      {
+        "forms" : [
+          "giugno"
+        ],
+        "gender" : "masculine",
+        "note" : "The sixth month; months are masculine and written in lower case: il 29 giugno 1958.",
+        "pos" : "noun",
+        "translation" : "June"
+      },
+      {
+        "forms" : [
+          "gol"
+        ],
+        "gender" : "masculine",
+        "note" : "From the English goal; it never changes: un gol, due gol. Fare gol or fare un gol = to score.",
+        "pos" : "noun",
+        "translation" : "goal"
+      },
+      {
+        "forms" : [
+          "guadagnare"
+        ],
+        "note" : "To get money for your work: lavorava per guadagnare soldi = he worked to earn money; a regular -are verb.",
+        "pos" : "verb",
+        "translation" : "to earn"
+      },
+      {
+        "forms" : [
+          "imbottiva"
+        ],
+        "note" : "Imperfect of imbottire (lui/lei), to fill something tight with soft material: lo imbottiva di giornali = he stuffed it with newspaper.",
+        "pos" : "verb",
+        "translation" : "stuffed"
+      },
+      {
+        "forms" : [
+          "ineguagliato"
+        ],
+        "note" : "In- (not) + eguagliato, equalled: un titolo che resta ineguagliato = a title that nobody else has reached.",
+        "pos" : "adjective",
+        "translation" : "unmatched, unequalled"
+      },
+      {
+        "forms" : [
+          "ingaggiò"
+        ],
+        "note" : "Passato remoto of ingaggiare (lui/lei), said of a club that takes on a player: il Santos lo ingaggiò = Santos signed him.",
+        "pos" : "verb",
+        "translation" : "signed, took on"
+      },
+      {
+        "forms" : [
+          "mondiali"
+        ],
+        "gender" : "masculine",
+        "note" : "I Mondiali, always plural and with a capital letter, is the everyday name of the football World Cup (la Coppa del Mondo): ai Mondiali = to the World Cup.",
+        "pos" : "noun",
+        "translation" : "the World Cup"
+      },
+      {
+        "forms" : [
+          "nascimento"
+        ],
+        "gender" : "masculine",
+        "note" : "The last part of the full name of Pelé: Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Nascimento"
+      },
+      {
+        "forms" : [
+          "ottantadue"
+        ],
+        "note" : "Ottanta + due, written as one word: a ottantadue anni = at the age of eighty-two.",
+        "pos" : "number",
+        "translation" : "eighty-two"
+      },
+      {
+        "forms" : [
+          "pallone"
+        ],
+        "gender" : "masculine",
+        "note" : "The large ball of football and other sports (una palla is any ball); the plural is palloni.",
+        "pos" : "noun",
+        "translation" : "ball, football"
+      },
+      {
+        "forms" : [
+          "partita"
+        ],
+        "gender" : "feminine",
+        "note" : "One game of football or another sport: l'ultima partita dei Mondiali = the last match of the World Cup, the one that decides it; the plural is partite.",
+        "pos" : "noun",
+        "translation" : "match, game"
+      },
+      {
+        "forms" : [
+          "pelé"
+        ],
+        "gender" : "masculine",
+        "note" : "The name by which the world knows the Brazilian footballer Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Pelé"
+      },
+      {
+        "forms" : [
+          "potendo"
+        ],
+        "note" : "Gerund of potere; with non it gives a reason: non potendo la famiglia permettersene uno = as the family could not afford one.",
+        "pos" : "verb",
+        "translation" : "being able to"
+      },
+      {
+        "forms" : [
+          "rete"
+        ],
+        "gender" : "feminine",
+        "note" : "The net, and in football the goal that ends in it: andare in rete = to score; the plural is reti.",
+        "pos" : "noun",
+        "translation" : "goal; net"
+      },
+      {
+        "forms" : [
+          "santos"
+        ],
+        "gender" : "masculine",
+        "note" : "The Brazilian football club that Pelé joins at fifteen; clubs take the article: il Santos.",
+        "pos" : "noun",
+        "translation" : "Santos"
+      },
+      {
+        "forms" : [
+          "sedici"
+        ],
+        "note" : "The number 16; an age takes a: a sedici anni = at sixteen, or just a sedici when anni has already been said.",
+        "pos" : "number",
+        "translation" : "sixteen"
+      },
+      {
+        "forms" : [
+          "svezia"
+        ],
+        "gender" : "feminine",
+        "note" : "Countries take the article (la Svezia), but not after in: in Svezia = in Sweden; contro la Svezia = against Sweden, the national team.",
+        "pos" : "noun",
+        "translation" : "Sweden"
+      },
+      {
+        "forms" : [
+          "torneo"
+        ],
+        "gender" : "masculine",
+        "note" : "A competition of many matches with one winner at the end; here the World Cup: vincere il torneo = to win the tournament.",
+        "pos" : "noun",
+        "translation" : "tournament"
+      },
+      {
+        "forms" : [
+          "vinse"
+        ],
+        "note" : "Passato remoto of vincere (lui/lei), the past tense of written stories: il Brasile la vinse 5–2 = Brazil won it 5–2; in speech: ha vinto.",
+        "pos" : "verb",
+        "translation" : "won"
       }
     ],
     "spanish" : [
@@ -123488,6 +124906,7 @@
       {
         "forms" : [
           "crecer",
+          "creció",
           "crecían"
         ],
         "note" : "Forms of crecer.",
@@ -125446,6 +126865,7 @@
       },
       {
         "forms" : [
+          "dedicaba",
           "dedicar",
           "dedicarte"
         ],
@@ -136412,6 +137832,7 @@
       },
       {
         "forms" : [
+          "tercer",
           "tercera",
           "tercero"
         ],
@@ -141520,7 +142941,10 @@
       },
       {
         "forms" : [
-          "jugar"
+          "juega",
+          "jugaba",
+          "jugar",
+          "jugó"
         ],
         "note" : "Infinitive; jugar is for games and toys, while tocar is to play an instrument.",
         "pos" : "verb",
@@ -143611,6 +145035,293 @@
         "note" : "Past participle of unir (to join), masculine plural: \"Estados Unidos\" = the United States.",
         "pos" : "adjective",
         "translation" : "United (in \"Estados Unidos\")"
+      },
+      {
+        "forms" : [
+          "edson"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Edson Arantes do Nascimento (1940–2022), the Brazilian footballer the world knows as Pelé.",
+        "pos" : "noun",
+        "translation" : "Edson"
+      },
+      {
+        "forms" : [
+          "bauru"
+        ],
+        "gender" : "masculine",
+        "note" : "The town in Brazil where Edson grew up.",
+        "pos" : "noun",
+        "translation" : "Bauru"
+      },
+      {
+        "forms" : [
+          "pelota"
+        ],
+        "gender" : "feminine",
+        "note" : "The ball of a game: \"no tiene pelota\" = he has no ball; a large football is also called un balón.",
+        "pos" : "noun",
+        "translation" : "ball"
+      },
+      {
+        "forms" : [
+          "calcetín"
+        ],
+        "gender" : "masculine",
+        "note" : "A masculine noun in -ín; the plural drops the accent: los calcetines.",
+        "pos" : "noun",
+        "translation" : "sock"
+      },
+      {
+        "forms" : [
+          "club"
+        ],
+        "gender" : "masculine",
+        "note" : "A sports club: \"un gran club\" = a big club; the plural is clubes.",
+        "pos" : "noun",
+        "translation" : "club"
+      },
+      {
+        "forms" : [
+          "dieciséis"
+        ],
+        "note" : "Written as one word, with an accent on the last syllable; \"a los dieciséis\" = at sixteen.",
+        "pos" : "number",
+        "translation" : "sixteen"
+      },
+      {
+        "forms" : [
+          "partido"
+        ],
+        "gender" : "masculine",
+        "note" : "One game between two teams; \"el último partido\" of a cup is the one that decides the title.",
+        "pos" : "noun",
+        "translation" : "match, game"
+      },
+      {
+        "forms" : [
+          "copa"
+        ],
+        "gender" : "feminine",
+        "note" : "\"La Copa del Mundo\" = the World Cup; a copa is also a glass with a stem.",
+        "pos" : "noun",
+        "translation" : "cup"
+      },
+      {
+        "forms" : [
+          "gol",
+          "goles"
+        ],
+        "gender" : "masculine",
+        "note" : "\"Meter\" or \"marcar un gol\" = to score a goal; the plural adds -es: dos goles.",
+        "pos" : "noun",
+        "translation" : "goal, goals"
+      },
+      {
+        "forms" : [
+          "pelé"
+        ],
+        "gender" : "masculine",
+        "note" : "The name by which the world knows the Brazilian footballer Edson Arantes do Nascimento.",
+        "pos" : "noun",
+        "translation" : "Pelé"
+      },
+      {
+        "forms" : [
+          "arantes"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of the family name of Edson Arantes do Nascimento, known as Pelé.",
+        "pos" : "noun",
+        "translation" : "Arantes"
+      },
+      {
+        "forms" : [
+          "do"
+        ],
+        "note" : "Portuguese word (de + o), part of the Brazilian family name Arantes do Nascimento; the Spanish word is \"del\".",
+        "pos" : "other",
+        "translation" : "of the (Portuguese)"
+      },
+      {
+        "forms" : [
+          "nascimento"
+        ],
+        "gender" : "masculine",
+        "note" : "The last part of the family name of Edson Arantes do Nascimento, known as Pelé.",
+        "pos" : "noun",
+        "translation" : "Nascimento"
+      },
+      {
+        "forms" : [
+          "23"
+        ],
+        "note" : "Veintitrés; dates use the plain number: \"el 23 de octubre de 1940\" = 23 October 1940, the day Edson was born.",
+        "pos" : "number",
+        "translation" : "23; the 23rd"
+      },
+      {
+        "forms" : [
+          "futbolista"
+        ],
+        "gender" : "masculine",
+        "note" : "Nouns in -ista have one form for men and women: el futbolista, la futbolista.",
+        "pos" : "noun",
+        "translation" : "footballer"
+      },
+      {
+        "forms" : [
+          "periódico"
+        ],
+        "gender" : "masculine",
+        "note" : "Singular; \"papel de periódico\" = newspaper as a material, old sheets of it. Plural: periódicos.",
+        "pos" : "noun",
+        "translation" : "newspaper"
+      },
+      {
+        "forms" : [
+          "santos"
+        ],
+        "gender" : "masculine",
+        "note" : "The Brazilian football club that Edson joined at fifteen; Spanish puts the article before a club's name: el Santos.",
+        "pos" : "noun",
+        "translation" : "Santos"
+      },
+      {
+        "forms" : [
+          "suecia"
+        ],
+        "gender" : "feminine",
+        "note" : "The country where the 1958 World Cup was played, and the team that Brazil beat 5-2 in the last match.",
+        "pos" : "noun",
+        "translation" : "Sweden"
+      },
+      {
+        "forms" : [
+          "marcado",
+          "marcó"
+        ],
+        "note" : "\"Marcar un gol\" = to score a goal: marcó is the pretérito indefinido, \"ha marcado\" the pretérito perfecto; elsewhere marcar means to mark.",
+        "pos" : "verb",
+        "translation" : "scored"
+      },
+      {
+        "forms" : [
+          "5-2"
+        ],
+        "note" : "Read \"cinco a dos\"; Spanish writes a score with a hyphen: \"Brasil ganó 5-2\" = Brazil won 5–2.",
+        "pos" : "number",
+        "translation" : "5–2 (five goals to two)"
+      },
+      {
+        "forms" : [
+          "dondinho"
+        ],
+        "gender" : "masculine",
+        "note" : "The name by which Edson's father, a footballer, was known.",
+        "pos" : "noun",
+        "translation" : "Dondinho"
+      },
+      {
+        "forms" : [
+          "practicar"
+        ],
+        "note" : "Infinitive after solía: \"solía practicar\" = he usually practised, he used to practise.",
+        "pos" : "verb",
+        "translation" : "to practise"
+      },
+      {
+        "forms" : [
+          "rellenaba",
+          "rellenado"
+        ],
+        "note" : "Forms of rellenar (to stuff, to fill something completely): rellenaba is the imperfect, \"había rellenado\" the pluperfect.",
+        "pos" : "verb",
+        "translation" : "stuffed, filled"
+      },
+      {
+        "forms" : [
+          "fichó"
+        ],
+        "note" : "Pretérito indefinido of fichar: a player ficha por a club (fichó por el Santos = he signed for Santos) and a club ficha a player (el Santos lo fichó = Santos signed him).",
+        "pos" : "verb",
+        "translation" : "signed"
+      },
+      {
+        "forms" : [
+          "29"
+        ],
+        "note" : "Veintinueve; \"el 29 de junio de 1958\" is the day of the last match, and \"el 29 de diciembre de 2022\" the day Pelé died.",
+        "pos" : "number",
+        "translation" : "29; the 29th"
+      },
+      {
+        "forms" : [
+          "junio"
+        ],
+        "gender" : "masculine",
+        "note" : "The sixth month; months are written without a capital letter in Spanish: \"el 29 de junio\".",
+        "pos" : "noun",
+        "translation" : "June"
+      },
+      {
+        "forms" : [
+          "jugador"
+        ],
+        "gender" : "masculine",
+        "note" : "From jugar (to play); the feminine is jugadora.",
+        "pos" : "noun",
+        "translation" : "player"
+      },
+      {
+        "forms" : [
+          "cuantas"
+        ],
+        "note" : "Relative cuanto agrees with its noun: \"cuantas horas le quedaban\" = all the hours he had left; it is written Spanish, and has no accent, unlike the question word cuántas.",
+        "pos" : "adjective",
+        "translation" : "as many … as, all the … that"
+      },
+      {
+        "forms" : [
+          "convocó"
+        ],
+        "note" : "Pretérito indefinido of convocar: in sport, to pick a player for a team, here the team of Brazil.",
+        "pos" : "verb",
+        "translation" : "called up, picked"
+      },
+      {
+        "forms" : [
+          "torneo"
+        ],
+        "gender" : "masculine",
+        "note" : "A competition of many matches; here \"el torneo\" is the World Cup.",
+        "pos" : "noun",
+        "translation" : "tournament"
+      },
+      {
+        "forms" : [
+          "1962"
+        ],
+        "note" : "Read \"mil novecientos sesenta y dos\"; the year of the second World Cup that Pelé won.",
+        "pos" : "number",
+        "translation" : "1962"
+      },
+      {
+        "forms" : [
+          "igualado"
+        ],
+        "note" : "Past participle of igualar, from igual (equal): \"nadie ha igualado\" = nobody has equalled.",
+        "pos" : "verb",
+        "translation" : "equalled, matched"
+      },
+      {
+        "forms" : [
+          "cuero"
+        ],
+        "gender" : "masculine",
+        "note" : "The material: \"una pelota de cuero\" = a leather ball; Spanish names the material with \"de\".",
+        "pos" : "noun",
+        "translation" : "leather"
       }
     ]
   },
@@ -164730,6 +166441,596 @@
       "summary" : "Domenica 11 ottobre 2026 Max Verstappen ha vinto per la prima volta sotto le luci di Singapore, al decimo tentativo, restando primo per tutti i giri.",
       "title" : "Singapore, finalmente",
       "translationGroup" : "weekend-sport-2026-10-11"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-13",
+      "id" : "sock-full-of-rags",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "With he, she or it, the present tense verb takes -s: he fills, he kicks, he works, he scores.",
+              "example" : "He kicks it in the street every day.",
+              "title" : "He + verb with -s"
+            },
+            {
+              "body" : "This A1 story is told in the present, although it happens in the 1940s and in 1958. The years show when.",
+              "example" : "Edson is seventeen.",
+              "title" : "Present tense for a true story"
+            },
+            {
+              "body" : "\"At fifteen\" means \"when he is fifteen years old\". English uses \"at\" before an age.",
+              "example" : "At fifteen he is in a big club.",
+              "title" : "At + age"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is the 1940s. Edson is a boy in Bauru, in Brazil. His family is poor. He has no ball.",
+            "He fills a sock with old paper. This is his ball. He kicks it in the street every day.",
+            "He also works in tea shops. At fifteen he is in a big club. At sixteen he is in Brazil's team.",
+            "It is 1958. Edson is seventeen. In the World Cup final he scores twice. The world knows his name: Pelé."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (filled, kicked, worked, scored). Some common verbs change: grow → grew, teach → taught, go → went, win → won.",
+              "example" : "So Edson filled a sock with newspaper and kicked that.",
+              "title" : "Past simple: regular and irregular"
+            },
+            {
+              "body" : "English says \"was born\" (be + born) for a birth, with \"on\" before the date and \"in\" before the place.",
+              "example" : "Edson Arantes do Nascimento was born in Brazil on 23 October 1940.",
+              "title" : "Was born"
+            },
+            {
+              "body" : "The last sentence stops at \"were\": it means \"the hours in the street were important\". English often leaves out the repeated word.",
+              "example" : "The hours in the street were.",
+              "title" : "A short answer with \"were\""
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento was born in Brazil on 23 October 1940. He grew up in Bauru. His family was poor.",
+            "His father was a footballer and taught him the game. They had no money for a ball. So Edson filled a sock with newspaper and kicked that.",
+            "He was in the street with it every day. He also worked in tea shops to help his family.",
+            "At fifteen he joined the club Santos. At sixteen he was in Brazil's team. In 1958 he went to the World Cup in Sweden. He was seventeen.",
+            "In the final he scored twice, and Brazil won 5–2. People called him Pelé. The ball was never important. The hours in the street were."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Whom the world knows as Pelé\" adds information about a person; \"a sock that he had stuffed\" about a thing; \"which no other player has done\" comments on the whole idea before it.",
+              "example" : "He won the World Cup three times, which no other player has done.",
+              "title" : "Relative clauses: whom, that, which"
+            },
+            {
+              "body" : "\"Had stuffed\" shows the action that came first: he stuffed the sock, and then he practised with it.",
+              "example" : "Because the family could not afford a ball, the boy usually practised with a sock that he had stuffed with newspaper.",
+              "title" : "Past perfect: had + past participle"
+            },
+            {
+              "body" : "\"Has ever scored\" looks at all the time up to now: from 1958 until today, nobody younger.",
+              "example" : "He scored twice, Brazil won 5–2, and nobody younger has ever scored in a final.",
+              "title" : "Present perfect with ever"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento, whom the world knows as Pelé, was born on 23 October 1940 and grew up in Bauru, Brazil.",
+            "His father, a footballer called Dondinho, taught him the game. Because the family could not afford a ball, the boy usually practised with a sock that he had stuffed with newspaper.",
+            "He was in the street with it for hours, and he worked in tea shops to earn money. At fifteen he signed for Santos, and a year later he was playing for Brazil.",
+            "On 29 June 1958, at the World Cup final in Sweden, he was seventeen. He scored twice, Brazil won 5–2, and nobody younger has ever scored in a final.",
+            "He won the World Cup three times, which no other player has done. The sock did not matter. The thousands of hours with it did."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In formal English \"Had the sock been\" replaces \"If the sock had been\": the verb comes first and \"if\" disappears. It is an unreal past condition.",
+              "example" : "Had the sock been a leather ball, the story would be no different: what made him was not the ball but the hours.",
+              "title" : "Inversion instead of if: Had the sock been …"
+            },
+            {
+              "body" : "A cleft sentence puts the stress on one element: not somebody else, but he, taught the boy.",
+              "example" : "His father, Dondinho, was himself a footballer, and it was he who taught the boy the game.",
+              "title" : "It was he who …"
+            },
+            {
+              "body" : "\"Whatever hours remained\" means \"all the hours that remained, however many or few\".",
+              "example" : "Edson worked in tea shops and spent whatever hours remained with the sock.",
+              "title" : "Whatever + noun"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "The ball was a sock. In the 1940s, in the streets of Bauru, Brazil, a boy called Edson Arantes do Nascimento stuffed it with newspaper, since his family could not afford a real one.",
+            "His father, Dondinho, was himself a footballer, and it was he who taught the boy the game. Edson worked in tea shops and spent whatever hours remained with the sock.",
+            "Santos signed him at fifteen; Brazil picked him at sixteen. On 29 June 1958, aged seventeen, he scored twice in the World Cup final against Sweden, which Brazil won 5–2.",
+            "No one so young has scored in a final since. Pelé, as he was known by then, went on to win the tournament in 1962 and 1970 as well, a third title that remains unmatched.",
+            "He died on 29 December 2022, aged eighty-two. Had the sock been a leather ball, the story would be no different: what made him was not the ball but the hours."
+          ]
+        }
+      ],
+      "summary" : "In the 1940s a poor boy in Brazil kicked a sock full of newspaper around the street; at seventeen he scored twice in a World Cup final.",
+      "title" : "A Ball Made from a Sock",
+      "translationGroup" : "sock-full-of-rags"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-13",
+      "id" : "sock-full-of-rags-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The negation goes around the verb: ne … pas, with n' before a vowel. After it, un, une and des become de: il a un ballon, but il n'a pas de ballon.",
+              "example" : "Il n'a pas de ballon.",
+              "title" : "Ne … pas de: no ball"
+            },
+            {
+              "body" : "French uses avoir (to have), not être, to give an age: \"Edson a dix-sept ans\" is word for word \"Edson has seventeen years\". The word \"ans\" is never left out.",
+              "example" : "En 1958, Edson a dix-sept ans.",
+              "title" : "Avoir for age"
+            },
+            {
+              "body" : "This A1 story is told in the present, although it happens long ago. \"Nous sommes dans les années 1940\" (we are in the 1940s) is the French way to say when it takes place.",
+              "example" : "Nous sommes dans les années 1940.",
+              "title" : "Present tense for a true story"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes dans les années 1940. Edson est un garçon de Bauru, au Brésil. Sa famille est pauvre. Il n'a pas de ballon.",
+            "Il met du vieux papier dans une chaussette. C'est son ballon. Il joue dans la rue tous les jours.",
+            "Il travaille aussi dans des salons de thé. À quinze ans, il est dans un grand club. À seize ans, il est dans l'équipe du Brésil.",
+            "En 1958, Edson a dix-sept ans. En finale de la Coupe du monde, il marque deux buts. Le monde connaît son nom : Pelé."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is the present of avoir + a past participle: a rempli, a travaillé, a marqué, a gagné. Regular -er verbs make the participle in -é, -ir verbs in -i.",
+              "example" : "En finale, il a marqué deux buts, et le Brésil a gagné 5-2.",
+              "title" : "Passé composé with avoir"
+            },
+            {
+              "body" : "A few verbs of movement and change (naître, aller, entrer) take être, not avoir: il est né, il est allé, il est entré. For a woman the participle adds -e: elle est née.",
+              "example" : "En 1958, il est allé à la Coupe du monde en Suède.",
+              "title" : "Passé composé with être: est né, est allé"
+            },
+            {
+              "body" : "The passé composé tells what happened; était and avait (the imparfait of être and avoir) describe how things were at the time: poor, seventeen years old.",
+              "example" : "Sa famille était pauvre.",
+              "title" : "Était, avait: the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento est né au Brésil le 23 octobre 1940. Il a grandi à Bauru. Sa famille était pauvre.",
+            "Son père était footballeur et lui a enseigné le jeu. Ils n'avaient pas d'argent pour un ballon. Alors Edson a rempli une chaussette de papier journal pour jouer.",
+            "Il était tous les jours dans la rue avec sa chaussette. Il a aussi travaillé dans des salons de thé pour aider sa famille.",
+            "À quinze ans, il est entré au club de Santos. À seize ans, il était dans l'équipe du Brésil. En 1958, il est allé à la Coupe du monde en Suède. Il avait dix-sept ans.",
+            "En finale, il a marqué deux buts, et le Brésil a gagné 5-2. On l'a appelé Pelé. Le ballon n'a jamais été important. Les heures dans la rue étaient importantes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Avait remplie\" (imparfait of avoir + participle) is the action that came first: he filled the sock, then trained with it. The participle takes -e because its object, \"qu'\" (la chaussette), comes before the verb.",
+              "example" : "Comme la famille n'avait pas les moyens d'acheter un ballon, le garçon s'entraînait d'habitude avec une chaussette qu'il avait remplie de papier journal.",
+              "title" : "Plus-que-parfait and agreement: avait remplie"
+            },
+            {
+              "body" : "When \"which\" comments on the whole clause before it and not on one noun, French needs \"ce que\" (ce qu' before a vowel): ce qu'aucun autre joueur n'a fait = which no other player has done.",
+              "example" : "Il a gagné la Coupe du monde trois fois, ce qu'aucun autre joueur n'a fait.",
+              "title" : "Ce que: which, for a whole idea"
+            },
+            {
+              "body" : "\"En\" replaces de + a noun that was just named, so the noun is not repeated: elles avaient de l'importance becomes elles en avaient.",
+              "example" : "Les milliers d'heures passées avec elle en avaient.",
+              "title" : "The pronoun en: en avaient"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento, que le monde connaît sous le nom de Pelé, est né le 23 octobre 1940 et a grandi à Bauru, au Brésil.",
+            "Son père, un footballeur appelé Dondinho, lui a enseigné le jeu. Comme la famille n'avait pas les moyens d'acheter un ballon, le garçon s'entraînait d'habitude avec une chaussette qu'il avait remplie de papier journal.",
+            "Il restait des heures dans la rue avec elle et travaillait dans des salons de thé pour gagner de l'argent. À quinze ans, il a signé à Santos et, l'année suivante, il jouait pour le Brésil.",
+            "Le 29 juin 1958, en finale de la Coupe du monde, en Suède, il avait dix-sept ans. Il a marqué deux buts, le Brésil a gagné 5-2, et personne de plus jeune n'a jamais marqué en finale.",
+            "Il a gagné la Coupe du monde trois fois, ce qu'aucun autre joueur n'a fait. La chaussette n'avait pas d'importance. Les milliers d'heures passées avec elle en avaient."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In formal French a conditional with the subject pronoun after the verb can replace a si-clause: \"la chaussette aurait-elle été\" = \"si la chaussette avait été\". It is an unreal condition about the past.",
+              "example" : "La chaussette aurait-elle été un ballon de cuir, l'histoire serait la même : ce qui a fait Pelé, ce n'est pas le ballon, ce sont les heures.",
+              "title" : "Inversion instead of si: aurait-elle été"
+            },
+            {
+              "body" : "\"C'est … qui\" puts the stress on one element: not somebody else, but he, taught the boy. After c'est the stressed pronoun is used: lui, not il.",
+              "example" : "Son père, Dondinho, était lui-même footballeur, et c'est lui qui enseigna le jeu au garçon.",
+              "title" : "C'est lui qui: the cleft sentence"
+            },
+            {
+              "body" : "A noun + present participle can give the reason in written French: \"sa famille n'ayant pas les moyens\" = \"parce que sa famille n'avait pas les moyens\". The clause has its own subject and no conjunction.",
+              "example" : "Un garçon nommé Edson Arantes do Nascimento la bourrait de papier journal, sa famille n'ayant pas les moyens de lui en offrir un vrai.",
+              "title" : "Participle clause for a reason: n'ayant pas"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le ballon était une chaussette. C'était dans les années 1940, dans les rues de Bauru, au Brésil. Un garçon nommé Edson Arantes do Nascimento la bourrait de papier journal, sa famille n'ayant pas les moyens de lui en offrir un vrai.",
+            "Son père, Dondinho, était lui-même footballeur, et c'est lui qui enseigna le jeu au garçon. Edson travaillait dans des salons de thé et consacrait à la chaussette toutes les heures qui lui restaient.",
+            "Santos l'engagea à quinze ans ; le Brésil le sélectionna à seize. Le 29 juin 1958, âgé de dix-sept ans, il marqua deux fois en finale de la Coupe du monde, que le Brésil remporta 5-2 contre la Suède.",
+            "Personne d'aussi jeune n'a marqué en finale depuis. Pelé, comme on l'appelait désormais, remporta encore le tournoi en 1962 et en 1970, un troisième titre resté inégalé.",
+            "Il mourut le 29 décembre 2022, à l'âge de quatre-vingt-deux ans. La chaussette aurait-elle été un ballon de cuir, l'histoire serait la même : ce qui a fait Pelé, ce n'est pas le ballon, ce sont les heures."
+          ]
+        }
+      ],
+      "summary" : "Dans les années 1940, un garçon pauvre du Brésil jouait dans la rue avec une chaussette pleine de papier journal ; à dix-sept ans, il a marqué deux fois en finale de la Coupe du monde.",
+      "title" : "Un ballon fait d'une chaussette",
+      "translationGroup" : "sock-full-of-rags"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-13",
+      "id" : "sock-full-of-rags-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German does not say \"nicht ein\": a noun is negated with \"kein\", which takes the endings of \"ein\". Ball is masculine and the object of \"hat\", so it is \"keinen Ball\".",
+              "example" : "Er hat keinen Ball.",
+              "title" : "Kein: the negative article"
+            },
+            {
+              "body" : "\"Mit fünfzehn\" means \"at fifteen\": German uses \"mit\" before an age. When a sentence opens with such a phrase, the verb still comes second and the subject follows it: \"Mit fünfzehn ist er …\".",
+              "example" : "Mit fünfzehn ist er in einem großen Verein.",
+              "title" : "Mit + age, and the verb stays second"
+            },
+            {
+              "body" : "German football \"shoots\" a goal: ein Tor schießen. The present of schießen is regular: er schießt. The story is told in the present, and the year 1958 shows when.",
+              "example" : "Im Finale der WM schießt er zwei Tore.",
+              "title" : "Tore schießen: to score goals"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es sind die 1940er Jahre. Edson ist ein Junge in Bauru, in Brasilien. Seine Familie ist arm. Er hat keinen Ball.",
+            "Er füllt eine Socke mit altem Papier. Das ist sein Ball. Er spielt jeden Tag damit auf der Straße.",
+            "Er arbeitet auch in Teestuben. Mit fünfzehn ist er in einem großen Verein. Mit sechzehn ist er in Brasiliens Mannschaft.",
+            "Es ist 1958. Edson ist siebzehn. Im Finale der WM schießt er zwei Tore. Die Welt kennt seinen Namen: Pelé."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is \"haben\" in second place plus the Partizip II at the end of the clause: hat … gefüllt, hat … gespielt. \"Also\" means \"so\", never \"also\", and after it the verb comes before the subject: \"Also hat Edson …\".",
+              "example" : "Also hat Edson eine Socke mit Zeitungspapier gefüllt und damit gespielt.",
+              "title" : "Perfekt with haben: hat … gefüllt"
+            },
+            {
+              "body" : "Verbs of movement or of a change of state form the Perfekt with \"sein\": ist gekommen, ist aufgewachsen. In a separable verb ge- stands between particle and stem: auf-ge-wachsen.",
+              "example" : "Mit fünfzehn ist er zum Verein Santos gekommen.",
+              "title" : "Perfekt with sein: ist … gekommen"
+            },
+            {
+              "body" : "A purpose is \"um\" at the start of the clause and \"zu\" + infinitive at its end, after a comma. \"Helfen\" takes the dative, so it is \"seiner Familie\".",
+              "example" : "Er hat auch in Teestuben gearbeitet, um seiner Familie zu helfen.",
+              "title" : "Um … zu: in order to"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento ist am 23. Oktober 1940 in Brasilien geboren. Er ist in Bauru aufgewachsen. Seine Familie war arm.",
+            "Sein Vater war Fußballer und hat ihm Fußball beigebracht. Sie hatten kein Geld für einen Ball. Also hat Edson eine Socke mit Zeitungspapier gefüllt und damit gespielt.",
+            "Jeden Tag war er damit auf der Straße. Er hat auch in Teestuben gearbeitet, um seiner Familie zu helfen.",
+            "Mit fünfzehn ist er zum Verein Santos gekommen. Mit sechzehn war er in Brasiliens Mannschaft. Mit siebzehn war er 1958 bei der WM in Schweden.",
+            "Im Finale hat er zwei Tore geschossen. Brasilien hat 5:2 gewonnen. Man hat ihn Pelé genannt. Der Ball war nie wichtig. Die Stunden auf der Straße waren es."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The relative pronoun takes the gender of its noun and the case of its role: \"den die Welt … kennt\" (accusative, masculine), \"eine Socke, die er … ausgestopft hatte\". \"Was\" refers to a whole statement, and the verb always goes to the end.",
+              "example" : "Er gewann die Weltmeisterschaft dreimal, was kein anderer Spieler geschafft hat.",
+              "title" : "Relative clauses: den, die, was"
+            },
+            {
+              "body" : "\"Hatte\" + Partizip II marks the action that came first: he had stuffed the sock, then he practised with it. The sentence opens with a weil-clause, so the main verb \"übte\" follows directly after the comma.",
+              "example" : "Weil sich die Familie keinen Ball leisten konnte, übte der Junge meist mit einer Socke, die er mit Zeitungspapier ausgestopft hatte.",
+              "title" : "Plusquamperfekt: ausgestopft hatte"
+            },
+            {
+              "body" : "Beibringen (to teach) splits in a main clause: \"brachte\" stands in second place and \"bei\" at the very end. The person taught is in the dative (ihm), the thing taught in the accusative.",
+              "example" : "Sein Vater, ein Fußballer namens Dondinho, brachte ihm das Fußballspielen bei.",
+              "title" : "Separable verbs in the Präteritum"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento, den die Welt als Pelé kennt, wurde am 23. Oktober 1940 geboren und wuchs in Bauru in Brasilien auf.",
+            "Sein Vater, ein Fußballer namens Dondinho, brachte ihm das Fußballspielen bei. Weil sich die Familie keinen Ball leisten konnte, übte der Junge meist mit einer Socke, die er mit Zeitungspapier ausgestopft hatte.",
+            "Stundenlang war er damit auf der Straße, und für Geld arbeitete er in Teestuben. Mit fünfzehn unterschrieb er bei Santos, und ein Jahr später spielte er für Brasilien.",
+            "Am 29. Juni 1958, im Finale der Weltmeisterschaft in Schweden, war er siebzehn. Er schoss zwei Tore, Brasilien gewann 5:2, und kein jüngerer Spieler hat je in einem Finale ein Tor geschossen.",
+            "Er gewann die Weltmeisterschaft dreimal, was kein anderer Spieler geschafft hat. Die Socke zählte nicht. Was zählte, waren die Tausende von Stunden mit ihr."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "An unreal condition can drop \"wenn\" and put the verb first: \"Wäre die Socke ein Lederball gewesen\" = \"Wenn die Socke ein Lederball gewesen wäre\". Both halves stand in the Konjunktiv II (wäre).",
+              "example" : "Wäre die Socke ein Lederball gewesen, wäre die Geschichte keine andere: Nicht der Ball hat ihn geformt, sondern die Stunden.",
+              "title" : "Konjunktiv II without wenn: Wäre die Socke …"
+            },
+            {
+              "body" : "A cleft sentence puts the stress on one element: not somebody else, but he taught the boy. The relative clause after \"der\" sends its verb to the end, so the separable verb is written as one word: beibrachte.",
+              "example" : "Sein Vater Dondinho war selbst Fußballer, und er war es, der dem Jungen das Fußballspielen beibrachte.",
+              "title" : "Er war es, der …"
+            },
+            {
+              "body" : "German may open a sentence with the object or an adverb for emphasis; the verb stays second and the subject follows it: \"Einen echten Ball konnte sich seine Familie …\", \"So jung hat seither niemand …\".",
+              "example" : "Einen echten Ball konnte sich seine Familie nämlich nicht leisten.",
+              "title" : "Something other than the subject in first place"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Der Ball war eine Socke. In den 1940er Jahren, in den Straßen von Bauru in Brasilien, stopfte sie ein Junge namens Edson Arantes do Nascimento mit Zeitungspapier aus. Einen echten Ball konnte sich seine Familie nämlich nicht leisten.",
+            "Sein Vater Dondinho war selbst Fußballer, und er war es, der dem Jungen das Fußballspielen beibrachte. Edson arbeitete in Teestuben und verbrachte jede Stunde, die ihm blieb, mit der Socke.",
+            "Santos nahm ihn mit fünfzehn unter Vertrag; Brasilien berief ihn mit sechzehn. Am 29. Juni 1958 erzielte er als Siebzehnjähriger zwei Tore im Finale der Weltmeisterschaft, das Brasilien 5:2 gegen Schweden gewann.",
+            "So jung hat seither niemand in einem Finale ein Tor erzielt. Pelé, wie man ihn inzwischen nannte, gewann das Turnier auch 1962 und 1970, ein dritter Sieg, der unerreicht geblieben ist.",
+            "Er starb am 29. Dezember 2022 mit zweiundachtzig Jahren. Wäre die Socke ein Lederball gewesen, wäre die Geschichte keine andere: Nicht der Ball hat ihn geformt, sondern die Stunden."
+          ]
+        }
+      ],
+      "summary" : "In den 1940er Jahren spielte ein armer Junge in Brasilien auf der Straße mit einer Socke voller Zeitungspapier; mit siebzehn schoss er zwei Tore im Finale einer Weltmeisterschaft.",
+      "title" : "Ein Ball aus einer Socke",
+      "translationGroup" : "sock-full-of-rags"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-13",
+      "id" : "sock-full-of-rags-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish \"has\" years where English \"is\" years old: tiene diecisiete años = he is seventeen. The verb is tener, never ser or estar.",
+              "example" : "Edson tiene diecisiete años.",
+              "title" : "Tener + años: saying an age"
+            },
+            {
+              "body" : "\"A los quince años\" means \"at fifteen\", when he is fifteen years old. The word \"años\" can be left out the second time: a los dieciséis.",
+              "example" : "A los quince años está en un gran club.",
+              "title" : "A los + age"
+            },
+            {
+              "body" : "After \"no tiene\" Spanish usually drops the article: no tiene pelota = he has no ball, he does not have a ball.",
+              "example" : "No tiene pelota.",
+              "title" : "No article after \"no tiene\""
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en los años cuarenta. Edson es un niño de Bauru, en Brasil. Su familia es pobre. No tiene pelota.",
+            "Pone papel viejo en un calcetín. Esta es su pelota. Juega con el calcetín en la calle todos los días.",
+            "También trabaja en tiendas de té. A los quince años está en un gran club. A los dieciséis está en el equipo de Brasil.",
+            "Estamos en 1958. Edson tiene diecisiete años. Es el último partido de la Copa del Mundo. Edson mete dos goles. El mundo conoce su nombre: Pelé."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For a finished action, he/she forms end in -ó for -ar verbs (llenó, jugó, trabajó, marcó) and in -ió for -er and -ir verbs (nació, creció). The accent is always written.",
+              "example" : "Por eso Edson llenó un calcetín con papel de periódico y jugó con eso.",
+              "title" : "Pretérito indefinido: -ó and -ió"
+            },
+            {
+              "body" : "For how things were (not what happened) Spanish uses the imperfect: era pobre, tenía diecisiete años, estaba en la calle. The events around it stay in the indefinido.",
+              "example" : "Su familia era pobre.",
+              "title" : "Era, tenía, estaba: the background"
+            },
+            {
+              "body" : "After a negative sentence, \"sí\" alone affirms the opposite: las horas sí = the hours were (important). Spanish does not repeat the verb.",
+              "example" : "Las horas en la calle sí.",
+              "title" : "Sí in place of a whole phrase"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento nació en Brasil el 23 de octubre de 1940. Creció en Bauru. Su familia era pobre.",
+            "Su padre era futbolista y le enseñó a jugar. No tenían dinero para una pelota. Por eso Edson llenó un calcetín con papel de periódico y jugó con eso.",
+            "Estaba en la calle con el calcetín todos los días. También trabajó en tiendas de té para ayudar a su familia.",
+            "A los quince años entró en el club Santos. A los dieciséis estaba en el equipo de Brasil. En 1958 viajó a Suecia para la Copa del Mundo. Tenía diecisiete años.",
+            "En el último partido marcó dos goles, y Brasil ganó 5-2. La gente lo llamó Pelé. La pelota nunca fue importante. Las horas en la calle sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the relative pronoun is a person and the object of the verb, Spanish uses \"a quien\" (with the personal a): a quien el mundo conoce = whom the world knows.",
+              "example" : "Edson Arantes do Nascimento, a quien el mundo conoce como Pelé, nació el 23 de octubre de 1940 y creció en Bauru, Brasil.",
+              "title" : "A quien: whom, for a person"
+            },
+            {
+              "body" : "\"Había rellenado\" shows the action that came first: he stuffed the sock, and then he practised with it. \"Solía\" + infinitive says what he usually did.",
+              "example" : "Como la familia no podía permitirse una pelota, el niño solía practicar con un calcetín que había rellenado con papel de periódico.",
+              "title" : "Pluscuamperfecto: había + participle"
+            },
+            {
+              "body" : "\"Ha marcado nunca\" looks at all the time up to now. When \"nadie\" stands before the verb there is no \"no\", and a second negative word (nunca) may follow: Spanish negatives add up.",
+              "example" : "Marcó dos goles, Brasil ganó 5-2, y nadie más joven ha marcado nunca en un partido por el título mundial.",
+              "title" : "Nadie… nunca with the pretérito perfecto"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento, a quien el mundo conoce como Pelé, nació el 23 de octubre de 1940 y creció en Bauru, Brasil.",
+            "Su padre, un futbolista llamado Dondinho, le enseñó a jugar. Como la familia no podía permitirse una pelota, el niño solía practicar con un calcetín que había rellenado con papel de periódico.",
+            "Estaba en la calle con él durante horas, y trabajaba en tiendas de té para ganar dinero. A los quince años fichó por el Santos, y un año después ya jugaba con Brasil.",
+            "El 29 de junio de 1958, en el último partido de la Copa del Mundo de Suecia, tenía diecisiete años. Marcó dos goles, Brasil ganó 5-2, y nadie más joven ha marcado nunca en un partido por el título mundial.",
+            "Ganó la Copa del Mundo tres veces, algo que ningún otro jugador ha conseguido. El calcetín no importaba. Los miles de horas con él, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In formal Spanish \"de haber sido\" replaces \"si hubiera sido\": de + compound infinitive states an unreal past condition, and the subject follows the infinitive (de haber sido el calcetín…).",
+              "example" : "De haber sido el calcetín una pelota de cuero, la historia no sería distinta: lo que hizo a Pelé no fue la pelota, sino las horas.",
+              "title" : "De + haber + participle instead of si"
+            },
+            {
+              "body" : "Ser + stressed element + quien puts the weight on one person: not somebody else, but he taught the boy. The verb ser takes the tense of the main action (fue… enseñó).",
+              "example" : "Su padre, Dondinho, era también futbolista, y fue él quien enseñó a jugar al niño.",
+              "title" : "Fue él quien…: the cleft sentence"
+            },
+            {
+              "body" : "\"Cuantas horas le quedaban\" means \"all the hours he had left, however many or few\". Cuanto agrees with its noun and belongs to written Spanish; speech says \"todas las horas que le quedaban\".",
+              "example" : "Edson trabajaba en tiendas de té y dedicaba al calcetín cuantas horas le quedaban.",
+              "title" : "Cuantas + noun: all the… that"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "La pelota era un calcetín. En los años cuarenta, en las calles de Bauru, Brasil, un niño llamado Edson Arantes do Nascimento lo rellenaba con papel de periódico. Su familia no podía permitirse una de verdad.",
+            "Su padre, Dondinho, era también futbolista, y fue él quien enseñó a jugar al niño. Edson trabajaba en tiendas de té y dedicaba al calcetín cuantas horas le quedaban.",
+            "El Santos lo fichó a los quince años; Brasil lo convocó a los dieciséis. El 29 de junio de 1958, con diecisiete años, marcó dos goles en el último partido de la Copa del Mundo, que Brasil ganó 5-2 a Suecia.",
+            "Desde entonces, nadie tan joven ha marcado en un partido por el título mundial. Pelé, como ya se le conocía, ganó también el torneo en 1962 y 1970, un tercer título que nadie ha igualado.",
+            "Murió el 29 de diciembre de 2022, a los ochenta y dos años. De haber sido el calcetín una pelota de cuero, la historia no sería distinta: lo que hizo a Pelé no fue la pelota, sino las horas."
+          ]
+        }
+      ],
+      "summary" : "En los años cuarenta, un niño pobre de Brasil daba patadas por la calle a un calcetín lleno de papel de periódico; a los diecisiete años marcó dos goles en una final de la Copa del Mundo.",
+      "title" : "Una pelota hecha con un calcetín",
+      "translationGroup" : "sock-full-of-rags"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-13",
+      "id" : "sock-full-of-rags-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian \"has\" an age: ha diciassette anni = he is seventeen. \"At fifteen\" is a + the number + anni: a quindici anni.",
+              "example" : "Edson ha diciassette anni.",
+              "title" : "Age with avere: ha diciassette anni"
+            },
+            {
+              "body" : "Italian keeps the article in front of suo/sua, and both agree with the thing owned: la sua famiglia, il suo pallone, il suo nome.",
+              "example" : "La sua famiglia è povera.",
+              "title" : "The article before the possessive"
+            },
+            {
+              "body" : "Italian usually leaves out the subject pronoun, because the verb ending already shows the person: riempie, gioca, lavora = he fills, he plays, he works.",
+              "example" : "Riempie un calzino di carta vecchia.",
+              "title" : "No word for \"he\""
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Sono gli anni Quaranta. Edson è un bambino di Bauru, in Brasile. La sua famiglia è povera. Edson non ha un pallone.",
+            "Riempie un calzino di carta vecchia. Questo è il suo pallone. Ogni giorno gioca in strada con questo pallone.",
+            "Lavora anche nei negozi di tè. A quindici anni è in un grande club. A sedici anni è nella squadra del Brasile.",
+            "È il 1958. Edson ha diciassette anni. È l'ultima partita dei Mondiali. Edson fa due gol. Il mondo conosce il suo nome: Pelé."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs build the past with avere and a participle: ha riempito, ha giocato, ha vinto. Verbs of movement or change take essere, and the participle agrees with the subject: è nato, è cresciuto, è andato.",
+              "example" : "Così Edson ha riempito un calzino di giornali e ha giocato con quello.",
+              "title" : "Passato prossimo: avere or essere"
+            },
+            {
+              "body" : "The imperfect of essere and avere describes how things were, not what happened: la famiglia era povera, non avevano soldi. Age in the past is aveva + number + anni.",
+              "example" : "Aveva diciassette anni.",
+              "title" : "Era, aveva: the background"
+            },
+            {
+              "body" : "After a negative sentence, Italian can end the contrast with a bare \"sì\": le ore in strada sì = the hours in the street were (important). Nothing is repeated.",
+              "example" : "Le ore in strada sì.",
+              "title" : "Sì instead of repeating the verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento è nato in Brasile il 23 ottobre 1940. È cresciuto a Bauru. La sua famiglia era povera.",
+            "Suo padre era un calciatore e gli ha insegnato il gioco. Non avevano soldi per un pallone. Così Edson ha riempito un calzino di giornali e ha giocato con quello.",
+            "Era in strada con il calzino ogni giorno. Ha lavorato anche nei negozi di tè per aiutare la sua famiglia.",
+            "A quindici anni è entrato nel club Santos. A sedici anni era nella squadra del Brasile. Nel 1958 è andato ai Mondiali in Svezia. Aveva diciassette anni.",
+            "Edson ha fatto due gol e il Brasile ha vinto l'ultima partita 5–2. La gente lo ha chiamato Pelé. Il pallone non è mai stato importante. Le ore in strada sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Che\" serves for who, whom, which and that: che il mondo conosce, un calzino che aveva riempito. \"Cosa che\" comments on the whole idea before it, like the English \", which …\".",
+              "example" : "Ha vinto la Coppa del Mondo tre volte, cosa che nessun altro giocatore ha fatto.",
+              "title" : "Che and cosa che: relative clauses"
+            },
+            {
+              "body" : "Aveva (or era) + past participle shows the action that came first: he had filled the sock, and then he trained with it. \"Poiché\" opens the reason and is a little more formal than perché.",
+              "example" : "Poiché la famiglia non poteva permettersi un pallone, il bambino si allenava di solito con un calzino che aveva riempito di giornali.",
+              "title" : "Trapassato prossimo: aveva riempito"
+            },
+            {
+              "body" : "The imperfect (restava, lavorava, giocava) tells what somebody did again and again or over a stretch of time; a single finished event takes the passato prossimo (ha firmato).",
+              "example" : "Restava in strada per ore con quel calzino e lavorava nei negozi di tè per guadagnare soldi.",
+              "title" : "Imperfetto for what went on and on"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Edson Arantes do Nascimento, che il mondo conosce come Pelé, è nato il 23 ottobre 1940 ed è cresciuto a Bauru, in Brasile.",
+            "Suo padre, un calciatore chiamato Dondinho, gli ha insegnato il gioco. Poiché la famiglia non poteva permettersi un pallone, il bambino si allenava di solito con un calzino che aveva riempito di giornali.",
+            "Restava in strada per ore con quel calzino e lavorava nei negozi di tè per guadagnare soldi. A quindici anni ha firmato per il Santos e un anno dopo giocava per il Brasile.",
+            "Il 29 giugno 1958, quando ha giocato l'ultima partita dei Mondiali in Svezia, aveva diciassette anni. Ha fatto due gol e il Brasile ha vinto 5–2. Nessuno più giovane ha mai fatto gol durante l'ultima partita di una Coppa del Mondo.",
+            "Ha vinto la Coppa del Mondo tre volte, cosa che nessun altro giocatore ha fatto. Il calzino non contava. Le migliaia di ore con quel calzino sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In literary Italian the \"se\" of an unreal condition can be dropped and the subjunctive comes first: fosse stato il calzino = se il calzino fosse stato. The main clause keeps the conditional (sarebbe).",
+              "example" : "Fosse stato il calzino un pallone di cuoio, la storia non sarebbe diversa: a formarlo non fu il pallone, ma le ore.",
+              "title" : "A condition without se: Fosse stato …"
+            },
+            {
+              "body" : "Essere + a person + a + infinitive puts the stress on who did it: fu lui a insegnare = it was he who taught, he and nobody else.",
+              "example" : "Suo padre, Dondinho, era a sua volta calciatore, e fu lui a insegnare il gioco al figlio.",
+              "title" : "Fu lui a + infinitive"
+            },
+            {
+              "body" : "For something that was still to come at a moment in the past, Italian uses the past conditional: in 1958 the titles of 1962 and 1970 lay ahead, so \"avrebbe vinto\" = he would go on to win.",
+              "example" : "Pelé, come ormai lo chiamavano, avrebbe vinto il torneo anche nel 1962 e nel 1970: un terzo titolo che resta ineguagliato.",
+              "title" : "Avrebbe vinto: the future seen from the past"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il pallone era un calzino. Negli anni Quaranta, per le strade di Bauru, in Brasile, un bambino di nome Edson Arantes do Nascimento lo imbottiva di giornali, non potendo la famiglia permettersene uno vero.",
+            "Suo padre, Dondinho, era a sua volta calciatore, e fu lui a insegnare il gioco al figlio. Edson lavorava nei negozi di tè e passava con il calzino tutte le ore che gli restavano.",
+            "Il Santos lo ingaggiò a quindici anni; il Brasile lo convocò a sedici. Il 29 giugno 1958, a diciassette anni, andò in rete due volte contro la Svezia: era l'ultima partita dei Mondiali, e il Brasile la vinse 5–2.",
+            "Da allora nessuno così giovane è più andato in rete durante l'ultima partita di una Coppa del Mondo. Pelé, come ormai lo chiamavano, avrebbe vinto il torneo anche nel 1962 e nel 1970: un terzo titolo che resta ineguagliato.",
+            "Morì il 29 dicembre 2022, a ottantadue anni. Fosse stato il calzino un pallone di cuoio, la storia non sarebbe diversa: a formarlo non fu il pallone, ma le ore."
+          ]
+        }
+      ],
+      "summary" : "Negli anni Quaranta un bambino povero in Brasile calciava per strada un calzino pieno di giornali; a diciassette anni ha segnato due gol in una finale dei Mondiali.",
+      "title" : "Un pallone fatto con un calzino",
+      "translationGroup" : "sock-full-of-rags"
     }
   ]
 }
