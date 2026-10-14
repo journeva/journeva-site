@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 12,
-  "generatedAt" : "2026-10-13",
+  "contentVersion" : 13,
+  "generatedAt" : "2026-10-14",
   "glossary" : {
     "english" : [
       {
@@ -9507,7 +9507,9 @@
       },
       {
         "forms" : [
-          "father"
+          "father",
+          "father's",
+          "fathers"
         ],
         "note" : "A family word.",
         "pos" : "noun",
@@ -13566,7 +13568,7 @@
           "leave",
           "leaves"
         ],
-        "note" : "As in \"leave overnight.\"",
+        "note" : "As in \"leave overnight.\" As a noun, leave is time away from work: parental leave = paid time at home with a new baby.",
         "pos" : "verb",
         "translation" : "to go away; to let remain"
       },
@@ -15368,7 +15370,7 @@
         "forms" : [
           "2022"
         ],
-        "note" : "The year skin-to-skin care was widely recommended.",
+        "note" : "A year, read \"twenty twenty-two\".",
         "pos" : "number",
         "translation" : "2022"
       },
@@ -18023,7 +18025,7 @@
         "forms" : [
           "1940"
         ],
-        "note" : "The year the Rh factor was identified.",
+        "note" : "A year, read \"nineteen forty\".",
         "pos" : "number",
         "translation" : "1940"
       },
@@ -20780,7 +20782,7 @@
         "forms" : [
           "1970"
         ],
-        "note" : "The year Brian May began his doctorate in London.",
+        "note" : "A year, read \"nineteen seventy\".",
         "pos" : "number",
         "translation" : "1970"
       },
@@ -20796,7 +20798,7 @@
         "forms" : [
           "2002"
         ],
-        "note" : "On 20 May 2002 Timor-Leste became independent.",
+        "note" : "A year, read \"two thousand and two\".",
         "pos" : "number",
         "translation" : "2002"
       },
@@ -20812,7 +20814,7 @@
         "forms" : [
           "2016"
         ],
-        "note" : "The year India awarded Muruganantham the Padma Shri.",
+        "note" : "A year, read \"twenty sixteen\".",
         "pos" : "number",
         "translation" : "2016"
       },
@@ -21907,7 +21909,7 @@
         "forms" : [
           "1958"
         ],
-        "note" : "The year the plastic brick was patented and the year Ole died.",
+        "note" : "A year, read \"nineteen fifty-eight\".",
         "pos" : "number",
         "translation" : "1958"
       },
@@ -23849,7 +23851,7 @@
         "forms" : [
           "sweden"
         ],
-        "note" : "The World Cup of 1958 took place in Sweden; Sweden was also the other team in the final.",
+        "note" : "Its capital is Stockholm.",
         "pos" : "noun",
         "translation" : "a country in the north of Europe"
       },
@@ -23884,6 +23886,182 @@
         "note" : "Comparative of \"young\": young, younger, youngest.",
         "pos" : "adjective",
         "translation" : "less old"
+      },
+      {
+        "forms" : [
+          "0.5"
+        ],
+        "note" : "Read \"nought point five\" or \"zero point five\". English writes decimals with a point, not a comma: 0.5 per cent = one in two hundred.",
+        "pos" : "number",
+        "translation" : "0.5 (half of one)"
+      },
+      {
+        "forms" : [
+          "99.5"
+        ],
+        "note" : "Read \"ninety-nine point five\". 99.5 per cent = almost all.",
+        "pos" : "number",
+        "translation" : "99.5"
+      },
+      {
+        "forms" : [
+          "180"
+        ],
+        "note" : "One hundred and eighty: 180 days is about six months.",
+        "pos" : "number",
+        "translation" : "180"
+      },
+      {
+        "forms" : [
+          "1974"
+        ],
+        "note" : "A year (nineteen seventy-four).",
+        "pos" : "number",
+        "translation" : "1974"
+      },
+      {
+        "forms" : [
+          "1995"
+        ],
+        "note" : "A year (nineteen ninety-five).",
+        "pos" : "number",
+        "translation" : "1995"
+      },
+      {
+        "forms" : [
+          "appointments"
+        ],
+        "note" : "Plural of \"appointment\". During a pregnancy there are regular appointments to check mother and baby.",
+        "pos" : "noun",
+        "translation" : "arranged times to see a doctor or midwife"
+      },
+      {
+        "forms" : [
+          "feeds"
+        ],
+        "note" : "Plural of the noun \"feed\": a night feed. \"Do some of the feeds\" = give the baby its milk some of the time.",
+        "pos" : "noun",
+        "translation" : "the times when a baby is given milk"
+      },
+      {
+        "forms" : [
+          "fewer"
+        ],
+        "note" : "Comparative of \"few\", used with things you can count: fewer than one in five.",
+        "pos" : "adjective",
+        "translation" : "a smaller number of"
+      },
+      {
+        "forms" : [
+          "harmful"
+        ],
+        "note" : "harm + -ful. \"Harmful for the baby\" = it can hurt the baby.",
+        "pos" : "adjective",
+        "translation" : "causing damage or hurt"
+      },
+      {
+        "forms" : [
+          "husband"
+        ],
+        "note" : "\"Husband or partner\": the person who shares her life, married or not.",
+        "pos" : "noun",
+        "translation" : "the man a person is married to"
+      },
+      {
+        "forms" : [
+          "law"
+        ],
+        "note" : "\"A new law says\" = the country has made a new rule.",
+        "pos" : "noun",
+        "translation" : "a rule made by a country that everyone must follow"
+      },
+      {
+        "forms" : [
+          "maternity"
+        ],
+        "note" : "\"Maternity leave\" = time away from work for the mother before and after a birth.",
+        "pos" : "adjective",
+        "translation" : "connected with being a mother, especially at a birth"
+      },
+      {
+        "forms" : [
+          "outlasts"
+        ],
+        "note" : "out- + last: low mood that outlasts two weeks = that is still there after two weeks.",
+        "pos" : "verb",
+        "translation" : "continues for longer than"
+      },
+      {
+        "forms" : [
+          "parental"
+        ],
+        "note" : "\"Parental leave\" = paid time away from work to look after a new baby, for either parent.",
+        "pos" : "adjective",
+        "translation" : "of a parent or the parents"
+      },
+      {
+        "forms" : [
+          "quitting"
+        ],
+        "note" : "-ing form of \"quit\": quitting smoking = stopping smoking completely.",
+        "pos" : "verb",
+        "translation" : "stopping for good"
+      },
+      {
+        "forms" : [
+          "reform"
+        ],
+        "note" : "\"Before the reform\" = before the law was changed.",
+        "pos" : "noun",
+        "translation" : "a change to a law or system, made to improve it"
+      },
+      {
+        "forms" : [
+          "replace"
+        ],
+        "note" : "To replace A with B = B comes, A goes.",
+        "pos" : "verb",
+        "translation" : "to put one thing in the place of another"
+      },
+      {
+        "forms" : [
+          "sadness"
+        ],
+        "note" : "sad + -ness. Many mothers feel a sadness in the first days after a birth.",
+        "pos" : "noun",
+        "translation" : "the feeling of being sad"
+      },
+      {
+        "forms" : [
+          "second-hand"
+        ],
+        "note" : "\"Second-hand smoke\" = the smoke that people near a smoker breathe in. Elsewhere second-hand means used before: a second-hand car.",
+        "pos" : "adjective",
+        "translation" : "breathed in from another person's cigarette; not new"
+      },
+      {
+        "forms" : [
+          "sharing"
+        ],
+        "note" : "-ing form of \"share\": sharing the nights = each takes some of them.",
+        "pos" : "verb",
+        "translation" : "doing or having something together with someone"
+      },
+      {
+        "forms" : [
+          "smoke"
+        ],
+        "note" : "Verb: he does not smoke. Noun: smoke can be harmful.",
+        "pos" : "verb",
+        "translation" : "the grey cloud from something burning; to use cigarettes"
+      },
+      {
+        "forms" : [
+          "smoking"
+        ],
+        "note" : "The habit: to stop smoking, to quit smoking.",
+        "pos" : "noun",
+        "translation" : "using cigarettes"
       }
     ],
     "french" : [
@@ -24320,7 +24498,8 @@
       },
       {
         "forms" : [
-          "premier"
+          "premier",
+          "premiers"
         ],
         "gender" : "masculine",
         "note" : "\"En premier\" = \"first (of all).\"",
@@ -32787,7 +32966,8 @@
       },
       {
         "forms" : [
-          "père"
+          "père",
+          "pères"
         ],
         "gender" : "masculine",
         "note" : "A male parent.",
@@ -43543,6 +43723,7 @@
       },
       {
         "forms" : [
+          "prirent",
           "prit"
         ],
         "note" : "Past tense of \"prendre.\"",
@@ -45106,7 +45287,7 @@
         "forms" : [
           "2022"
         ],
-        "note" : "The year the WHO recommended skin-to-skin contact worldwide.",
+        "note" : "A year, read \"deux mille vingt-deux\".",
         "pos" : "number",
         "translation" : "2022"
       },
@@ -46415,6 +46596,7 @@
       },
       {
         "forms" : [
+          "prenaient",
           "prenait"
         ],
         "note" : "Prendre, imperfect tense.",
@@ -48627,7 +48809,7 @@
         "forms" : [
           "1940"
         ],
-        "note" : "Année de la découverte du facteur Rhésus.",
+        "note" : "A year, read \"mille neuf cent quarante\".",
         "pos" : "number",
         "translation" : "1940"
       },
@@ -52123,7 +52305,7 @@
         "forms" : [
           "2002"
         ],
-        "note" : "The year Timor-Leste became independent, on 20 May 2002; « le Timor-Leste naît en 2002 » = Timor-Leste is born in 2002.",
+        "note" : "A year, read \"deux mille deux\".",
         "pos" : "number",
         "translation" : "2002"
       },
@@ -52226,7 +52408,7 @@
         "forms" : [
           "2016"
         ],
-        "note" : "The year India gave Muruganantham one of its highest civilian honours.",
+        "note" : "A year, read \"deux mille seize\".",
         "pos" : "number",
         "translation" : "2016"
       },
@@ -52254,7 +52436,7 @@
         "forms" : [
           "1970"
         ],
-        "note" : "The year Brian May began his doctorate at Imperial College, London.",
+        "note" : "A year, read \"mille neuf cent soixante-dix\".",
         "pos" : "number",
         "translation" : "1970"
       },
@@ -53569,7 +53751,7 @@
         "forms" : [
           "1958"
         ],
-        "note" : "The year the plastic brick was patented, on 28 January, and the year Ole died, on 11 March.",
+        "note" : "A year, read \"mille neuf cent cinquante-huit\".",
         "pos" : "number",
         "translation" : "1958"
       },
@@ -56062,7 +56244,7 @@
           "suède"
         ],
         "gender" : "feminine",
-        "note" : "The country of the World Cup of 1958; it is feminine, so « en Suède » = in Sweden and « contre la Suède » = against Sweden.",
+        "note" : "A country in the north of Europe; it is feminine, so « en Suède » = in Sweden and « contre la Suède » = against Sweden.",
         "pos" : "noun",
         "translation" : "Sweden"
       },
@@ -56246,6 +56428,249 @@
         "note" : "« Un ballon de cuir » = a leather ball; de + the material, with no article.",
         "pos" : "noun",
         "translation" : "leather"
+      },
+      {
+        "forms" : [
+          "1974"
+        ],
+        "note" : "Read « mille neuf cent soixante-quatorze »; the year Sweden's parental leave began, on 1 January.",
+        "pos" : "number",
+        "translation" : "1974"
+      },
+      {
+        "forms" : [
+          "1995"
+        ],
+        "note" : "Read « mille neuf cent quatre-vingt-quinze »; the year Sweden reserved one month of the leave for each parent.",
+        "pos" : "number",
+        "translation" : "1995"
+      },
+      {
+        "forms" : [
+          "loi"
+        ],
+        "gender" : "feminine",
+        "note" : "A rule a country makes for everyone: « une nouvelle loi » = a new law; the plural is « les lois ».",
+        "pos" : "noun",
+        "translation" : "law"
+      },
+      {
+        "forms" : [
+          "l'appellent"
+        ],
+        "note" : "Le + appellent (appeler, ils/elles form, present), shortened before the vowel; the object pronoun stands before the verb: « les gens l'appellent… » = people call it…",
+        "pos" : "verb",
+        "translation" : "call it"
+      },
+      {
+        "forms" : [
+          "mari"
+        ],
+        "gender" : "masculine",
+        "note" : "The man a woman is married to; « mari ou partenaire » = husband or partner.",
+        "pos" : "noun",
+        "translation" : "husband"
+      },
+      {
+        "forms" : [
+          "fume",
+          "fumer"
+        ],
+        "note" : "Fumer, a regular -er verb: « il ne fume pas » = he does not smoke; « arrêter de fumer » = to stop smoking.",
+        "pos" : "verb",
+        "translation" : "to smoke, smokes"
+      },
+      {
+        "forms" : [
+          "lève"
+        ],
+        "note" : "Se lever = to get up; the reflexive « se » goes before the verb: « il se lève la nuit » = he gets up at night.",
+        "pos" : "verb",
+        "translation" : "gets up (with se)"
+      },
+      {
+        "forms" : [
+          "1er"
+        ],
+        "note" : "Read « premier »; only the first day of a month takes an ordinal: « le 1er janvier », but « le 2 janvier ».",
+        "pos" : "number",
+        "translation" : "1st, first"
+      },
+      {
+        "forms" : [
+          "0,5"
+        ],
+        "note" : "Read « zéro virgule cinq »; French writes decimals with a comma where English has a point.",
+        "pos" : "number",
+        "translation" : "0.5"
+      },
+      {
+        "forms" : [
+          "réservé"
+        ],
+        "note" : "Past participle of réserver: « a réservé un mois à chaque parent » = reserved one month for each parent; with être it is passive: « un mois a été réservé ».",
+        "pos" : "verb",
+        "translation" : "reserved, set aside"
+      },
+      {
+        "forms" : [
+          "congé"
+        ],
+        "gender" : "masculine",
+        "note" : "Time away from work: « un congé parental » = parental leave, « le congé de maternité » = maternity leave.",
+        "pos" : "noun",
+        "translation" : "leave, time off work"
+      },
+      {
+        "forms" : [
+          "parental"
+        ],
+        "note" : "Of the parents, mother or father; it follows the noun: « un congé parental » = parental leave.",
+        "pos" : "adjective",
+        "translation" : "parental"
+      },
+      {
+        "forms" : [
+          "180"
+        ],
+        "note" : "Read « cent quatre-vingts »; the number of paid days the two parents could share.",
+        "pos" : "number",
+        "translation" : "180"
+      },
+      {
+        "forms" : [
+          "payés"
+        ],
+        "note" : "Past participle of payer used as an adjective, masculine plural to agree with « jours »: « 180 jours payés » = 180 paid days.",
+        "pos" : "adjective",
+        "translation" : "paid"
+      },
+      {
+        "forms" : [
+          "99,5"
+        ],
+        "note" : "Read « quatre-vingt-dix-neuf virgule cinq »; the decimal comma again: « 99,5 pour cent » = 99.5 per cent.",
+        "pos" : "number",
+        "translation" : "99.5"
+      },
+      {
+        "forms" : [
+          "fumée"
+        ],
+        "gender" : "feminine",
+        "note" : "What rises from a cigarette or a fire; the noun that goes with the verb fumer (to smoke).",
+        "pos" : "noun",
+        "translation" : "smoke"
+      },
+      {
+        "forms" : [
+          "nocif",
+          "nocive"
+        ],
+        "note" : "Nocif (masculine), nocive (feminine): « peut être nocive pour le bébé » = can be harmful for the baby; « peut être » keeps it a possibility.",
+        "pos" : "adjective",
+        "translation" : "harmful"
+      },
+      {
+        "forms" : [
+          "tristesse"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun from « triste » (sad): « la tristesse des premiers jours » = the sadness of the first days.",
+        "pos" : "noun",
+        "translation" : "sadness"
+      },
+      {
+        "forms" : [
+          "remplacer"
+        ],
+        "note" : "Remplacer A par B = to replace A with B: « remplacer le congé de maternité par un congé parental ».",
+        "pos" : "verb",
+        "translation" : "to replace"
+      },
+      {
+        "forms" : [
+          "maternité"
+        ],
+        "gender" : "feminine",
+        "note" : "« Le congé de maternité » = maternity leave, the leave for the mother alone.",
+        "pos" : "noun",
+        "translation" : "maternity, motherhood"
+      },
+      {
+        "forms" : [
+          "n'utilisait"
+        ],
+        "note" : "Ne + utilisait (utiliser, imparfait), shortened before the vowel; « pas » follows the verb: « un mois que le père n'utilisait pas » = a month the father did not use.",
+        "pos" : "verb",
+        "translation" : "did not use"
+      },
+      {
+        "forms" : [
+          "réforme"
+        ],
+        "gender" : "feminine",
+        "note" : "A change made to a law or a system: « avant la réforme » = before the reform, here the reserved month of 1995.",
+        "pos" : "noun",
+        "translation" : "reform"
+      },
+      {
+        "forms" : [
+          "permis"
+        ],
+        "note" : "Past participle of permettre (to allow): « ce que ces mois ont permis » = what those months allowed, what they made room for.",
+        "pos" : "verb",
+        "translation" : "allowed, made possible"
+      },
+      {
+        "forms" : [
+          "tabagisme"
+        ],
+        "gender" : "masculine",
+        "note" : "From « tabac » (tobacco); « le tabagisme passif » = second-hand smoke, breathing the smoke of someone else's cigarette.",
+        "pos" : "noun",
+        "translation" : "smoking (the habit)"
+      },
+      {
+        "forms" : [
+          "passif"
+        ],
+        "note" : "« Le tabagisme passif » = passive smoking: a person who does not smoke breathes the smoke of others.",
+        "pos" : "adjective",
+        "translation" : "passive; (of smoke) second-hand"
+      },
+      {
+        "forms" : [
+          "moral"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le moral » is how cheerful or low a person feels: « un moral bas » = low mood, low spirits; a noun here, not the English adjective « moral ».",
+        "pos" : "noun",
+        "translation" : "spirits, mood"
+      },
+      {
+        "forms" : [
+          "au-delà"
+        ],
+        "note" : "« Au-delà de » + noun = beyond, past: « au-delà de deux semaines » = for longer than two weeks.",
+        "pos" : "preposition",
+        "translation" : "beyond"
+      },
+      {
+        "forms" : [
+          "s'agisse"
+        ],
+        "note" : "Subjunctive of « il s'agit de » (it is about, it concerns): « qu'il s'agisse d'elle ou de lui » = whether it is her or him.",
+        "pos" : "verb",
+        "translation" : "(whether) it is, it concerns"
+      },
+      {
+        "forms" : [
+          "d'interroger"
+        ],
+        "note" : "De + interroger, shortened before the vowel: « une raison d'interroger le médecin » = a reason to ask the doctor.",
+        "pos" : "verb",
+        "translation" : "to ask, to question"
       }
     ],
     "german" : [
@@ -63574,6 +63999,7 @@
       {
         "forms" : [
           "jene",
+          "jenem",
           "jener"
         ],
         "note" : "Case-inflected demonstrative pronouns.",
@@ -64786,8 +65212,15 @@
         "forms" : [
           "steht"
         ],
-        "note" : "Present tense of stehen.",
+        "note" : "Present tense of stehen. Separable: … auf = aufstehen, to get up; „Er steht nachts auf“ = he gets up at night.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to get up",
+            "verb" : "aufstehen"
+          }
+        ],
         "translation" : "stands"
       },
       {
@@ -72724,6 +73157,7 @@
       },
       {
         "forms" : [
+          "übernehmen",
           "übernimmt",
           "übernommen"
         ],
@@ -73950,8 +74384,15 @@
           "führt",
           "führte"
         ],
-        "note" : "Forms of \"führen.\"",
+        "note" : "Forms of \"führen.\" Separable: … ein = einführen, to introduce; „führte … eine Elternzeit für beide Eltern ein“ = introduced parental leave for both parents.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ein",
+            "translation" : "to introduce",
+            "verb" : "einführen"
+          }
+        ],
         "translation" : "leads; led"
       },
       {
@@ -75255,7 +75696,8 @@
       },
       {
         "forms" : [
-          "nannte"
+          "nannte",
+          "nannten"
         ],
         "note" : "Past tense of \"nennen.\"",
         "pos" : "verb",
@@ -76936,7 +77378,7 @@
         "forms" : [
           "2022"
         ],
-        "note" : "The year the recommendation became official.",
+        "note" : "A year, read \"zweitausendzweiundzwanzig\".",
         "pos" : "number",
         "translation" : "2022"
       },
@@ -80530,7 +80972,7 @@
         "forms" : [
           "1940"
         ],
-        "note" : "Jahr der Entdeckung des Rhesusfaktors.",
+        "note" : "A year, read \"neunzehnhundertvierzig\".",
         "pos" : "number",
         "translation" : "1940"
       },
@@ -83975,7 +84417,7 @@
         "forms" : [
           "2002"
         ],
-        "note" : "The year Timor-Leste became independent: 20 May 2002.",
+        "note" : "A year, read \"zweitausendzwei\".",
         "pos" : "number",
         "translation" : "2002"
       },
@@ -84518,7 +84960,7 @@
         "forms" : [
           "2016"
         ],
-        "note" : "The year India honoured Muruganantham with one of its highest civilian awards, the Padma Shri.",
+        "note" : "A year, read \"zweitausendsechzehn\".",
         "pos" : "number",
         "translation" : "2016"
       },
@@ -84866,7 +85308,7 @@
         "forms" : [
           "1970"
         ],
-        "note" : "The year Brian May began his doctorate at Imperial College, London.",
+        "note" : "A year, read \"neunzehnhundertsiebzig\".",
         "pos" : "number",
         "translation" : "1970"
       },
@@ -85691,7 +86133,8 @@
       },
       {
         "forms" : [
-          "vergehen"
+          "vergehen",
+          "vergeht"
         ],
         "note" : "Inseparable verb; for time it takes sein: „Fünfzig Jahre vergehen“ = fifty years go by.",
         "pos" : "verb",
@@ -86224,7 +86667,7 @@
         "forms" : [
           "1958"
         ],
-        "note" : "The year the plastic brick was patented and Ole died (neunzehnhundertachtundfünfzig).",
+        "note" : "A year, read \"neunzehnhundertachtundfünfzig\".",
         "pos" : "number",
         "translation" : "1958"
       },
@@ -87870,7 +88313,8 @@
       },
       {
         "forms" : [
-          "bezahlt"
+          "bezahlt",
+          "bezahlte"
         ],
         "note" : "Partizip II of bezahlen (to pay); verbs with be- take no ge-: „haben … bezahlt“ = have paid.",
         "pos" : "verb",
@@ -88720,7 +89164,7 @@
           "schweden"
         ],
         "gender" : "neuter",
-        "note" : "The country where the World Cup of 1958 was played; most country names are neuter and take no article: „in Schweden“, „gegen Schweden“.",
+        "note" : "A country in the north of Europe; most country names are neuter and take no article: „in Schweden“, „gegen Schweden“.",
         "pos" : "noun",
         "translation" : "Sweden"
       },
@@ -88916,6 +89360,263 @@
         "note" : "Partizip II of formen (to shape, to form): „Nicht der Ball hat ihn geformt“ = it was not the ball that shaped him.",
         "pos" : "verb",
         "translation" : "shaped, formed"
+      },
+      {
+        "forms" : [
+          "1974"
+        ],
+        "note" : "A year (neunzehnhundertvierundsiebzig); a year stands without a preposition: „Es ist 1974“, „Aber 1974 haben Väter …“.",
+        "pos" : "number",
+        "translation" : "1974"
+      },
+      {
+        "forms" : [
+          "gesetz"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Gesetz, plural die Gesetze: a rule made by the state; „ein neues Gesetz“ = a new law.",
+        "pos" : "noun",
+        "translation" : "law"
+      },
+      {
+        "forms" : [
+          "väter",
+          "vätern"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Vater: an umlaut and no ending, die Väter; the dative plural adds -n: „den Vätern“ = to the fathers.",
+        "pos" : "noun",
+        "translation" : "fathers"
+      },
+      {
+        "forms" : [
+          "1995"
+        ],
+        "note" : "A year (neunzehnhundertfünfundneunzig); it can open the sentence, and the verb follows at once: „1995 ist ein Monat …“, „Ab 1995“ = from 1995.",
+        "pos" : "number",
+        "translation" : "1995"
+      },
+      {
+        "forms" : [
+          "papamonat"
+        ],
+        "gender" : "masculine",
+        "note" : "Papa (daddy) + Monat: the everyday name for the month of parental leave that is reserved for the father; a compound takes the gender of its last word, so der Papamonat.",
+        "pos" : "noun",
+        "translation" : "father's month (daddy month)"
+      },
+      {
+        "forms" : [
+          "ehemann"
+        ],
+        "gender" : "masculine",
+        "note" : "Ehe (marriage) + Mann: the man a woman is married to; „ein Ehemann oder Partner“ = a husband or partner.",
+        "pos" : "noun",
+        "translation" : "husband"
+      },
+      {
+        "forms" : [
+          "raucht"
+        ],
+        "note" : "Rauchen (to smoke), er/sie/es form; nicht comes after the verb: „Er raucht nicht“ = he does not smoke.",
+        "pos" : "verb",
+        "translation" : "smokes"
+      },
+      {
+        "forms" : [
+          "0,5"
+        ],
+        "note" : "Null Komma fünf: German writes decimals with a comma, not a point; „0,5 Prozent“ = 0.5 per cent.",
+        "pos" : "number",
+        "translation" : "0.5"
+      },
+      {
+        "forms" : [
+          "reserviert"
+        ],
+        "note" : "Partizip II of reservieren (to reserve); verbs in -ieren take no ge-: „hat … reserviert“ = has reserved, „wurde … reserviert“ = was reserved.",
+        "pos" : "verb",
+        "translation" : "reserved"
+      },
+      {
+        "forms" : [
+          "termine",
+          "terminen"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Termin (appointment); the dative plural adds -n: „zu den Terminen mitgehen“ = to go along to the appointments.",
+        "pos" : "noun",
+        "translation" : "appointments"
+      },
+      {
+        "forms" : [
+          "mitgehen"
+        ],
+        "note" : "Mit + gehen, a separable verb, written as one word in the infinitive: „Er kann zu den Terminen mitgehen“; in the present it splits: er geht … mit.",
+        "pos" : "verb",
+        "translation" : "to go along, to go with someone"
+      },
+      {
+        "forms" : [
+          "rauchen"
+        ],
+        "gender" : "neuter",
+        "note" : "An infinitive used as a noun is neuter and takes a capital: das Rauchen = smoking; „mit dem Rauchen aufhören“ = to stop smoking. With a small letter, rauchen is the verb.",
+        "pos" : "noun",
+        "translation" : "smoking; to smoke"
+      },
+      {
+        "forms" : [
+          "elternzeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Eltern (parents) + Zeit (time): time off work for a mother or a father after a birth; „Elternzeit nehmen“ = to take parental leave.",
+        "pos" : "noun",
+        "translation" : "parental leave"
+      },
+      {
+        "forms" : [
+          "180"
+        ],
+        "note" : "Hundertachtzig: „180 bezahlte Tage“ = 180 paid days.",
+        "pos" : "number",
+        "translation" : "180"
+      },
+      {
+        "forms" : [
+          "mütter"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Mutter: only the umlaut marks it, there is no ending: die Mütter.",
+        "pos" : "noun",
+        "translation" : "mothers"
+      },
+      {
+        "forms" : [
+          "99,5"
+        ],
+        "note" : "Neunundneunzig Komma fünf: German writes decimals with a comma, not a point; „99,5 Prozent“ = 99.5 per cent.",
+        "pos" : "number",
+        "translation" : "99.5"
+      },
+      {
+        "forms" : [
+          "rauch"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Rauch: what rises from a fire or a cigarette; it stands without an article when smoke in general is meant: „weil Rauch … schädlich sein kann“.",
+        "pos" : "noun",
+        "translation" : "smoke"
+      },
+      {
+        "forms" : [
+          "schädlich"
+        ],
+        "note" : "From der Schaden (harm) + -lich; it takes für: „für das Baby schädlich sein“ = to be harmful for the baby.",
+        "pos" : "adjective",
+        "translation" : "harmful"
+      },
+      {
+        "forms" : [
+          "mahlzeiten"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Mahlzeit (meal); each time a baby is fed is a Mahlzeit: „einen Teil der Mahlzeiten übernehmen“ = to do some of the feeds.",
+        "pos" : "noun",
+        "translation" : "meals; (a baby's) feeds"
+      },
+      {
+        "forms" : [
+          "traurigkeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Traurig (sad) + -keit makes a feminine noun: die Traurigkeit; „die Traurigkeit der ersten Tage“ = the sadness of the first days.",
+        "pos" : "noun",
+        "translation" : "sadness"
+      },
+      {
+        "forms" : [
+          "ersetzte"
+        ],
+        "note" : "Präteritum of ersetzen (to replace); the new thing follows durch + accusative: „ersetzte den Mutterschaftsurlaub durch eine Elternzeit“.",
+        "pos" : "verb",
+        "translation" : "replaced"
+      },
+      {
+        "forms" : [
+          "mutterschaftsurlaub"
+        ],
+        "gender" : "masculine",
+        "note" : "Mutterschaft (motherhood) + -s- + Urlaub (leave): leave for the mother only; the compound is masculine like der Urlaub.",
+        "pos" : "noun",
+        "translation" : "maternity leave"
+      },
+      {
+        "forms" : [
+          "elternteile"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Elternteil (one parent); „jeder der beiden Elternteile“ = either of the two parents, with the genitive plural after jeder.",
+        "pos" : "noun",
+        "translation" : "parents (each of the two)"
+      },
+      {
+        "forms" : [
+          "verfiel"
+        ],
+        "note" : "Präteritum of verfallen (verfällt, verfiel, ist verfallen): a right that is not used in time is lost; „ein Monat, den der Vater nicht nutzte, verfiel“ = a month the father did not use was lost.",
+        "pos" : "verb",
+        "translation" : "lapsed, expired"
+      },
+      {
+        "forms" : [
+          "reform"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Reform: a planned change to a law or a system, with the stress on the second syllable; „vor der Reform“ = before the reform.",
+        "pos" : "noun",
+        "translation" : "reform"
+      },
+      {
+        "forms" : [
+          "fünfte"
+        ],
+        "note" : "Ordinal of fünf; „jeder fünfte“ = every fifth one, that is one in five: „weniger als jeder fünfte“ = fewer than one in five.",
+        "pos" : "adjective",
+        "translation" : "fifth"
+      },
+      {
+        "forms" : [
+          "schufen"
+        ],
+        "note" : "Präteritum plural of the strong verb schaffen (schuf, geschaffen), to create: „Raum schaffen“ = to make room. The weak verb schaffen (schaffte) means to manage.",
+        "pos" : "verb",
+        "translation" : "created, made"
+      },
+      {
+        "forms" : [
+          "passivrauch"
+        ],
+        "gender" : "masculine",
+        "note" : "Passiv + Rauch: the smoke that other people breathe in when someone smokes near them; der Passivrauch.",
+        "pos" : "noun",
+        "translation" : "second-hand smoke"
+      },
+      {
+        "forms" : [
+          "gedrückte"
+        ],
+        "note" : "Gedrückt, the Partizip II of drücken (to press), used for feelings: „eine gedrückte Stimmung“ = a low mood, as if something were pressing on it.",
+        "pos" : "adjective",
+        "translation" : "low, subdued (of mood)"
+      },
+      {
+        "forms" : [
+          "anhält"
+        ],
+        "note" : "Anhalten (to last), er/sie/es form with umlaut, written as one word at the end of a relative clause: „die länger als zwei Wochen anhält“; in a main clause it splits: sie hält … an.",
+        "pos" : "verb",
+        "translation" : "lasts, persists"
       }
     ],
     "italian" : [
@@ -90905,6 +91606,7 @@
       {
         "forms" : [
           "chiama",
+          "chiamano",
           "chiamare",
           "chiamavi",
           "chiami"
@@ -90970,6 +91672,7 @@
       },
       {
         "forms" : [
+          "ciascun",
           "ciascuna"
         ],
         "note" : "Feminine of ciascuno.",
@@ -96068,7 +96771,8 @@
       },
       {
         "forms" : [
-          "padre"
+          "padre",
+          "padri"
         ],
         "gender" : "masculine",
         "note" : "As in Marta's father.",
@@ -97096,6 +97800,7 @@
       },
       {
         "forms" : [
+          "primi",
           "primo"
         ],
         "note" : "The ordinal number.",
@@ -100476,6 +101181,7 @@
           "usarlo",
           "usata",
           "usato",
+          "usava",
           "usavano",
           "usò"
         ],
@@ -105188,7 +105894,7 @@
         "forms" : [
           "2022"
         ],
-        "note" : "The year the WHO recommended kangaroo care worldwide.",
+        "note" : "A year, read \"duemilaventidue\".",
         "pos" : "number",
         "translation" : "2022"
       },
@@ -107601,6 +108307,7 @@
       },
       {
         "forms" : [
+          "chiedere",
           "chiedono",
           "chiese",
           "chiesero"
@@ -108221,7 +108928,8 @@
         "forms" : [
           "prende",
           "prendeva",
-          "prese"
+          "prese",
+          "presero"
         ],
         "note" : "From prendere.",
         "pos" : "verb",
@@ -108824,7 +109532,7 @@
         "forms" : [
           "1940"
         ],
-        "note" : "Anno della scoperta del fattore Rh.",
+        "note" : "A year, read \"millenovecentoquaranta\".",
         "pos" : "number",
         "translation" : "1940"
       },
@@ -110853,6 +111561,7 @@
       },
       {
         "forms" : [
+          "appuntamenti",
           "appuntamento",
           "l'appuntamento"
         ],
@@ -112368,7 +113077,7 @@
         "forms" : [
           "2002"
         ],
-        "note" : "The year Timor-Leste became independent, on 20 May 2002; said duemiladue.",
+        "note" : "A year, read \"duemiladue\".",
         "pos" : "number",
         "translation" : "2002"
       },
@@ -112435,7 +113144,7 @@
         "forms" : [
           "2016"
         ],
-        "note" : "The year India honoured Muruganantham with the Padma Shri; said duemilasedici.",
+        "note" : "A year, read \"duemilasedici\".",
         "pos" : "number",
         "translation" : "2016"
       },
@@ -112567,7 +113276,7 @@
         "forms" : [
           "1970"
         ],
-        "note" : "The year Brian May began his doctorate on interplanetary dust; said millenovecentosettanta.",
+        "note" : "A year, read \"millenovecentosettanta\".",
         "pos" : "number",
         "translation" : "1970"
       },
@@ -113703,7 +114412,7 @@
         "forms" : [
           "1958"
         ],
-        "note" : "Millenovecentocinquantotto: the year of the patent for the brick, and the year Ole dies.",
+        "note" : "A year, read \"millenovecentocinquantotto\".",
         "pos" : "number",
         "translation" : "1958"
       },
@@ -115454,6 +116163,7 @@
       },
       {
         "forms" : [
+          "pagati",
           "pagato"
         ],
         "note" : "Past participle of pagare, to pay: hanno pagato più ranger = they paid more rangers.",
@@ -116294,6 +117004,218 @@
         "note" : "Passato remoto of vincere (lui/lei), the past tense of written stories: il Brasile la vinse 5–2 = Brazil won it 5–2; in speech: ha vinto.",
         "pos" : "verb",
         "translation" : "won"
+      },
+      {
+        "forms" : [
+          "1974"
+        ],
+        "note" : "The year Sweden's parental leave began; said millenovecentosettantaquattro, and a year takes the article: il 1974, nel 1974 = in 1974.",
+        "pos" : "number",
+        "translation" : "1974"
+      },
+      {
+        "forms" : [
+          "norma"
+        ],
+        "gender" : "feminine",
+        "note" : "A rule that a state makes for everyone, here a law: una nuova norma = a new law; di norma means as a rule, usually.",
+        "pos" : "noun",
+        "translation" : "rule, law"
+      },
+      {
+        "forms" : [
+          "1995"
+        ],
+        "note" : "The year Sweden reserved one month for each parent; said millenovecentonovantacinque: nel 1995 = in 1995.",
+        "pos" : "number",
+        "translation" : "1995"
+      },
+      {
+        "forms" : [
+          "papà"
+        ],
+        "gender" : "masculine",
+        "note" : "The family word for padre; the accent is on the last a and the plural does not change: il mese del papà = the father's month, literally the dad's month.",
+        "pos" : "noun",
+        "translation" : "dad, daddy"
+      },
+      {
+        "forms" : [
+          "marito"
+        ],
+        "gender" : "masculine",
+        "note" : "The man a person is married to (the wife is la moglie): un marito o partner = a husband or partner.",
+        "pos" : "noun",
+        "translation" : "husband"
+      },
+      {
+        "forms" : [
+          "fuma",
+          "fumare"
+        ],
+        "note" : "Fumare is a regular -are verb: non fuma = he does not smoke; smettere di fumare = to stop smoking, with di before the infinitive.",
+        "pos" : "verb",
+        "translation" : "smokes; to smoke"
+      },
+      {
+        "forms" : [
+          "alza"
+        ],
+        "note" : "Present of the reflexive alzarsi (lui/lei), to get up: di notte si alza = he gets up at night; without si, alzare means to raise.",
+        "pos" : "verb",
+        "translation" : "gets up (si alza)"
+      },
+      {
+        "forms" : [
+          "all'ostetrica"
+        ],
+        "gender" : "feminine",
+        "note" : "All' = a + l' before a vowel; chiedere takes a before the person you ask: chiedono all'ostetrica = they ask the midwife.",
+        "pos" : "noun",
+        "translation" : "to the midwife"
+      },
+      {
+        "forms" : [
+          "introdotto"
+        ],
+        "note" : "Past participle of introdurre (irregular, like ridurre → ridotto): la Svezia ha introdotto una nuova norma = Sweden brought in a new law.",
+        "pos" : "verb",
+        "translation" : "introduced, brought in"
+      },
+      {
+        "forms" : [
+          "0,5"
+        ],
+        "note" : "Italian writes decimals with a comma where English uses a point: 0,5 = zero virgola cinque; lo 0,5 per cento = 0.5 per cent.",
+        "pos" : "number",
+        "translation" : "0.5"
+      },
+      {
+        "forms" : [
+          "dividere",
+          "dividersi"
+        ],
+        "note" : "Dividere is to split something between people: dividere le notti = to share the nights; reflexive dividersi = to share out between them.",
+        "pos" : "verb",
+        "translation" : "to share, to split"
+      },
+      {
+        "forms" : [
+          "congedo"
+        ],
+        "gender" : "masculine",
+        "note" : "Time away from work that the law allows: il congedo parentale = parental leave; il congedo di maternità = maternity leave.",
+        "pos" : "noun",
+        "translation" : "leave (time off work)"
+      },
+      {
+        "forms" : [
+          "parentale"
+        ],
+        "note" : "Of the parents (i genitori); careful, i parenti are relatives, not parents: il congedo parentale = parental leave.",
+        "pos" : "adjective",
+        "translation" : "parental"
+      },
+      {
+        "forms" : [
+          "180"
+        ],
+        "note" : "The number of paid days the parents could share; said centottanta.",
+        "pos" : "number",
+        "translation" : "180"
+      },
+      {
+        "forms" : [
+          "99,5"
+        ],
+        "note" : "Italian writes decimals with a comma: 99,5 = novantanove virgola cinque; il 99,5 per cento = 99.5 per cent.",
+        "pos" : "number",
+        "translation" : "99.5"
+      },
+      {
+        "forms" : [
+          "fumo"
+        ],
+        "gender" : "masculine",
+        "note" : "What comes from a cigarette, and also the habit of smoking; il fumo passivo is the smoke other people breathe in (fumo is also \"I smoke\", from fumare).",
+        "pos" : "noun",
+        "translation" : "smoke; smoking"
+      },
+      {
+        "forms" : [
+          "dannoso"
+        ],
+        "note" : "From il danno, damage; it takes per: può essere dannoso per il bambino = it can be harmful for the baby.",
+        "pos" : "adjective",
+        "translation" : "harmful"
+      },
+      {
+        "forms" : [
+          "occuparsi"
+        ],
+        "note" : "Reflexive, and followed by di: occuparsi di alcune poppate = to see to some of the feeds.",
+        "pos" : "verb",
+        "translation" : "to take care of, to see to"
+      },
+      {
+        "forms" : [
+          "poppate"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la poppata, one meal of milk for a baby, at the breast or from a bottle.",
+        "pos" : "noun",
+        "translation" : "feeds (of a baby)"
+      },
+      {
+        "forms" : [
+          "tristezza"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun of triste, sad; the ending -ezza makes a noun from an adjective, as in bello → bellezza.",
+        "pos" : "noun",
+        "translation" : "sadness"
+      },
+      {
+        "forms" : [
+          "sostituire"
+        ],
+        "note" : "The new thing comes after con: sostituire il congedo di maternità con il congedo parentale = to replace maternity leave with parental leave.",
+        "pos" : "verb",
+        "translation" : "to replace"
+      },
+      {
+        "forms" : [
+          "maternità"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns in -tà are feminine and do not change in the plural; il congedo di maternità = maternity leave, the leave for the mother.",
+        "pos" : "noun",
+        "translation" : "maternity, motherhood"
+      },
+      {
+        "forms" : [
+          "l'uno"
+        ],
+        "note" : "L' + uno, used in a pair with l'altro: l'uno o l'altro genitore = one parent or the other, either parent.",
+        "pos" : "pronoun",
+        "translation" : "the one"
+      },
+      {
+        "forms" : [
+          "riforma"
+        ],
+        "gender" : "feminine",
+        "note" : "A change to a law or a system; here the change of 1995: prima della riforma = before the reform.",
+        "pos" : "noun",
+        "translation" : "reform"
+      },
+      {
+        "forms" : [
+          "passivo"
+        ],
+        "note" : "Il fumo passivo is the smoke of someone else's cigarette that the people nearby breathe in: second-hand smoke.",
+        "pos" : "adjective",
+        "translation" : "passive; second-hand (smoke)"
       }
     ],
     "spanish" : [
@@ -119765,7 +120687,8 @@
           "primer",
           "primera",
           "primeras",
-          "primero"
+          "primero",
+          "primeros"
         ],
         "note" : "\"Primer\" is used before a masculine singular noun.",
         "pos" : "adjective",
@@ -120835,8 +121758,10 @@
       {
         "forms" : [
           "usa",
+          "usaba",
           "usaban",
           "usar",
+          "usara",
           "usaría",
           "usó"
         ],
@@ -133486,7 +134411,8 @@
       },
       {
         "forms" : [
-          "progenitor"
+          "progenitor",
+          "progenitores"
         ],
         "gender" : "masculine",
         "note" : "A mother or father.",
@@ -134650,7 +135576,7 @@
         "forms" : [
           "2022"
         ],
-        "note" : "The year WHO recommended kangaroo care for all preterm babies.",
+        "note" : "A year, read \"dos mil veintidós\".",
         "pos" : "number",
         "translation" : "2022"
       },
@@ -135740,7 +136666,8 @@
       },
       {
         "forms" : [
-          "consulta"
+          "consulta",
+          "consultas"
         ],
         "gender" : "feminine",
         "note" : "A doctor's office or appointment.",
@@ -138140,7 +139067,7 @@
         "forms" : [
           "1940"
         ],
-        "note" : "Año del descubrimiento del factor Rh.",
+        "note" : "A year, read \"mil novecientos cuarenta\".",
         "pos" : "number",
         "translation" : "1940"
       },
@@ -138352,7 +139279,8 @@
       },
       {
         "forms" : [
-          "brazo"
+          "brazo",
+          "brazos"
         ],
         "gender" : "masculine",
         "note" : "«El brazo».",
@@ -139817,6 +140745,7 @@
       },
       {
         "forms" : [
+          "tomaron",
           "tomó"
         ],
         "note" : "Pretérito de «tomar».",
@@ -140753,7 +141682,7 @@
         "forms" : [
           "2002"
         ],
-        "note" : "The year Timor Oriental became independent, on 20 May.",
+        "note" : "A year, read \"dos mil dos\".",
         "pos" : "number",
         "translation" : "2002"
       },
@@ -141468,7 +142397,7 @@
         "forms" : [
           "2016"
         ],
-        "note" : "The year India gave Muruganantham the Padma Shri, one of its highest civilian honours.",
+        "note" : "A year, read \"dos mil dieciséis\".",
         "pos" : "number",
         "translation" : "2016"
       },
@@ -141570,7 +142499,7 @@
         "forms" : [
           "1970"
         ],
-        "note" : "The year Brian May began his doctorate at Imperial College, London.",
+        "note" : "A year, read \"mil novecientos setenta\".",
         "pos" : "number",
         "translation" : "1970"
       },
@@ -142784,7 +143713,7 @@
         "forms" : [
           "1958"
         ],
-        "note" : "The year the plastic brick was patented and Ole died.",
+        "note" : "A year, read \"mil novecientos cincuenta y ocho\".",
         "pos" : "number",
         "translation" : "1958"
       },
@@ -145192,7 +146121,7 @@
           "suecia"
         ],
         "gender" : "feminine",
-        "note" : "The country where the 1958 World Cup was played, and the team that Brazil beat 5-2 in the last match.",
+        "note" : "A country in the north of Europe; no article: en Suecia = in Sweden.",
         "pos" : "noun",
         "translation" : "Sweden"
       },
@@ -145322,6 +146251,189 @@
         "note" : "The material: \"una pelota de cuero\" = a leather ball; Spanish names the material with \"de\".",
         "pos" : "noun",
         "translation" : "leather"
+      },
+      {
+        "forms" : [
+          "1974"
+        ],
+        "note" : "Read \"mil novecientos setenta y cuatro\"; the year Sweden's parental leave began, on 1 January.",
+        "pos" : "number",
+        "translation" : "1974"
+      },
+      {
+        "forms" : [
+          "ley"
+        ],
+        "gender" : "feminine",
+        "note" : "A rule made by a country: \"una ley nueva\" = a new law; the plural is leyes.",
+        "pos" : "noun",
+        "translation" : "law"
+      },
+      {
+        "forms" : [
+          "1995"
+        ],
+        "note" : "Read \"mil novecientos noventa y cinco\"; the year Sweden reserved one month of leave for each parent.",
+        "pos" : "number",
+        "translation" : "1995"
+      },
+      {
+        "forms" : [
+          "marido"
+        ],
+        "gender" : "masculine",
+        "note" : "The everyday word for a married man in relation to his wife: \"marido o pareja\" = husband or partner.",
+        "pos" : "noun",
+        "translation" : "husband"
+      },
+      {
+        "forms" : [
+          "fuma",
+          "fumar"
+        ],
+        "note" : "Regular -ar verb: no fuma = he does not smoke; \"dejar de fumar\" = to stop smoking (dejar de + infinitive).",
+        "pos" : "verb",
+        "translation" : "smokes; to smoke"
+      },
+      {
+        "forms" : [
+          "levanta"
+        ],
+        "note" : "Present of levantarse, a reflexive verb: se levanta = he gets up; without se, levantar means to lift.",
+        "pos" : "verb",
+        "translation" : "gets up"
+      },
+      {
+        "forms" : [
+          "preguntan",
+          "preguntar"
+        ],
+        "note" : "Preguntar takes \"a\" before the person who is asked: preguntan a la matrona = they ask the midwife.",
+        "pos" : "verb",
+        "translation" : "ask (they); to ask"
+      },
+      {
+        "forms" : [
+          "0,5"
+        ],
+        "note" : "Read \"cero coma cinco\"; Spanish writes decimals with a comma where English uses a point.",
+        "pos" : "number",
+        "translation" : "0.5 (zero point five)"
+      },
+      {
+        "forms" : [
+          "cobrando"
+        ],
+        "note" : "Gerund of cobrar (to receive one's pay); seguir + gerund means to keep doing: seguir cobrando = to go on being paid.",
+        "pos" : "verb",
+        "translation" : "getting paid"
+      },
+      {
+        "forms" : [
+          "reservó"
+        ],
+        "note" : "Pretérito indefinido of reservar, él/ella form: Suecia reservó un mes; \"se reservó un mes\" = a month was reserved.",
+        "pos" : "verb",
+        "translation" : "reserved, set aside"
+      },
+      {
+        "forms" : [
+          "parental"
+        ],
+        "note" : "Of a mother or a father; \"permiso parental\" = parental leave, paid time away from work to care for a child.",
+        "pos" : "adjective",
+        "translation" : "parental"
+      },
+      {
+        "forms" : [
+          "180"
+        ],
+        "note" : "Read \"ciento ochenta\"; the number of paid days the two parents could share in 1974.",
+        "pos" : "number",
+        "translation" : "180 (one hundred and eighty)"
+      },
+      {
+        "forms" : [
+          "pagados"
+        ],
+        "note" : "Past participle of pagar used as an adjective, masculine plural to agree with días: días pagados = paid days.",
+        "pos" : "adjective",
+        "translation" : "paid"
+      },
+      {
+        "forms" : [
+          "99,5"
+        ],
+        "note" : "Read \"noventa y nueve coma cinco\"; the decimal comma is the Spanish way of writing 99.5.",
+        "pos" : "number",
+        "translation" : "99.5 (ninety-nine point five)"
+      },
+      {
+        "forms" : [
+          "humo"
+        ],
+        "gender" : "masculine",
+        "note" : "What rises from a cigarette or a fire; \"humo de segunda mano\" = second-hand smoke, the smoke of another person's cigarette.",
+        "pos" : "noun",
+        "translation" : "smoke"
+      },
+      {
+        "forms" : [
+          "perjudicial"
+        ],
+        "note" : "Same form for masculine and feminine; it takes para: perjudicial para el bebé = harmful for the baby.",
+        "pos" : "adjective",
+        "translation" : "harmful"
+      },
+      {
+        "forms" : [
+          "darle"
+        ],
+        "note" : "Dar + le, written as one word because the pronoun is attached to an infinitive; \"darle de comer\" = to feed him or her.",
+        "pos" : "verb",
+        "translation" : "to give him/her"
+      },
+      {
+        "forms" : [
+          "desaparecer"
+        ],
+        "note" : "Des- + aparecer (to appear); after suele it stays in the infinitive: suele desaparecer = it usually goes away.",
+        "pos" : "verb",
+        "translation" : "to disappear, to go away"
+      },
+      {
+        "forms" : [
+          "sustituir"
+        ],
+        "note" : "Sustituir A por B = to replace A with B: the new thing takes por.",
+        "pos" : "verb",
+        "translation" : "to replace"
+      },
+      {
+        "forms" : [
+          "maternidad"
+        ],
+        "gender" : "feminine",
+        "note" : "From madre; \"permiso de maternidad\" = maternity leave, the leave for mothers only.",
+        "pos" : "noun",
+        "translation" : "maternity, motherhood"
+      },
+      {
+        "forms" : [
+          "reforma"
+        ],
+        "gender" : "feminine",
+        "note" : "A change made to a law or a system: antes de la reforma = before the reform.",
+        "pos" : "noun",
+        "translation" : "reform"
+      },
+      {
+        "forms" : [
+          "dure"
+        ],
+        "note" : "Present subjunctive of durar, used because the clause describes any low mood of that kind: un ánimo que dure más de dos semanas.",
+        "pos" : "verb",
+        "translation" : "lasts (subjunctive)"
       }
     ]
   },
@@ -167031,6 +168143,596 @@
       "summary" : "Negli anni Quaranta un bambino povero in Brasile calciava per strada un calzino pieno di giornali; a diciassette anni ha segnato due gol in una finale dei Mondiali.",
       "title" : "Un pallone fatto con un calzino",
       "translationGroup" : "sock-full-of-rags"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-14",
+      "id" : "fathers-month",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Can\" says what is possible. The verb after it has no -s and no \"to\": can stay, can do.",
+              "example" : "What can a husband or partner do?",
+              "title" : "Can + verb"
+            },
+            {
+              "body" : "The negative with he, she or it is \"does not\" + the plain verb: he smokes → he does not smoke.",
+              "example" : "He does not smoke.",
+              "title" : "He does not + verb"
+            },
+            {
+              "body" : "For a yes-or-no question with \"is\", the verb comes first: She is sad → Is she sad?",
+              "example" : "Is she sad for more than two weeks?",
+              "title" : "A question that starts with the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is 1974 in Sweden. A new law says: fathers can stay home with a new baby. Almost no fathers do.",
+            "In 1995 one month is only for the father. People call it the father's month.",
+            "What can a husband or partner do? He goes to the doctor with her. He does not smoke. He holds the baby. He gets up at night.",
+            "Is she sad for more than two weeks? Then they ask the midwife or the doctor."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (reserved, called); some change (make → made, take → took, lose → lost). The negative is \"did not\" + the plain verb.",
+              "example" : "If the father did not use his month, the family lost it.",
+              "title" : "Past simple, and \"did not\""
+            },
+            {
+              "body" : "\"Could\" says what was possible in the past. The verb after it stays plain: could stay.",
+              "example" : "After a birth, the mother or the father could stay home and still get paid.",
+              "title" : "Could: the past of can"
+            },
+            {
+              "body" : "\"Before the birth\" and \"after the birth\" say when. Both words stand in front of a noun.",
+              "example" : "Before the birth he can go to the appointments and stop smoking.",
+              "title" : "Before and after + noun"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 1 January 1974 Sweden made a new law. After a birth, the mother or the father could stay home and still get paid.",
+            "But that year fathers took only 0.5 per cent of the days.",
+            "So in 1995 Sweden reserved one month for each parent. If the father did not use his month, the family lost it. People called it the father's month. Today fathers take about thirty per cent of the days.",
+            "What can a husband or partner do? Before the birth he can go to the appointments and stop smoking. After the birth he can hold the baby and share the nights.",
+            "Is she sad for more than two weeks? Then ask the midwife or the doctor."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive (be + past participle) is used when the action matters more than who did it: the law reserved a month → a month was reserved.",
+              "example" : "In 1995 one month was reserved for each parent.",
+              "title" : "Passive: was reserved, was lost"
+            },
+            {
+              "body" : "\"Who\" adds information about people: both parents, who could share the days.",
+              "example" : "On 1 January 1974 Sweden became the first country to give parental leave to both parents, who could share 180 paid days.",
+              "title" : "Relative clause with who"
+            },
+            {
+              "body" : "\"Should\" gives advice or says what is the right thing to do. The verb after it stays plain.",
+              "example" : "If it stays, they should speak to the midwife or the doctor.",
+              "title" : "Should + verb for advice"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 1 January 1974 Sweden became the first country to give parental leave to both parents, who could share 180 paid days.",
+            "That year mothers took 99.5 per cent of the days. In 1995 one month was reserved for each parent. If the father did not take his, it was lost, and people called it the father's month.",
+            "Today fathers take about thirty per cent of the days.",
+            "The month gave fathers time to learn what a husband or partner can do. Before the birth he can go to the appointments and stop smoking, because smoke can be harmful for the baby. Afterwards he can hold the baby, do some of the feeds and share the nights.",
+            "The sadness of the first days usually goes within two weeks. If it stays, they should speak to the midwife or the doctor."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"What those months made room for\" is a whole clause used as the subject of \"is\". It puts the weight on the end of the sentence.",
+              "example" : "What those months made room for is what any husband or partner can do.",
+              "title" : "A wh-clause as the subject"
+            },
+            {
+              "body" : "\"A month the father did not use\" = a month that the father did not use. \"That\" can be left out when it is the object of the clause.",
+              "example" : "From 1995 one month was reserved for each parent, and a month the father did not use was lost.",
+              "title" : "Reduced relative clause"
+            },
+            {
+              "body" : "After \"Before the birth:\" and \"Afterwards:\" the actions are named with -ing forms, which work like nouns: going, quitting, holding, doing, sharing.",
+              "example" : "Afterwards: holding the baby, doing some of the feeds, sharing the nights.",
+              "title" : "-ing forms in a list"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 1 January 1974 Sweden became the first country to replace maternity leave with parental leave: 180 paid days that either parent could take. That year mothers took 99.5 per cent of them.",
+            "From 1995 one month was reserved for each parent, and a month the father did not use was lost. Before the reform, more than half of fathers took no leave; afterwards, fewer than one in five.",
+            "The father's month, as people called it, became two in 2002 and three in 2016. Fathers now take about thirty per cent of the days.",
+            "What those months made room for is what any husband or partner can do. Before the birth: going to appointments and quitting smoking, since second-hand smoke can be harmful for the baby. Afterwards: holding the baby, doing some of the feeds, sharing the nights.",
+            "Low mood that outlasts two weeks, in her or in himself, is a reason to ask the midwife or the doctor."
+          ]
+        }
+      ],
+      "summary" : "In 1974 Sweden let fathers stay home with a new baby, and almost none did; in 1995 it set one month aside for them, and that changed what a father does.",
+      "title" : "The Father's Month",
+      "translationGroup" : "fathers-month"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-14",
+      "id" : "fathers-month-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Peut\" and \"peuvent\" (from pouvoir, can) are followed by a verb in the infinitive: peuvent rester, peut faire. In a question with \"que\", the verb comes before the subject.",
+              "example" : "Que peut faire un mari ou partenaire ?",
+              "title" : "Pouvoir + infinitive: can"
+            },
+            {
+              "body" : "French puts the verb between two words: ne before it and pas after it. Il fume → il ne fume pas.",
+              "example" : "Il ne fume pas.",
+              "title" : "Ne … pas: the negative"
+            },
+            {
+              "body" : "\"Est-ce que\" in front of a sentence turns it into a question; before a vowel it becomes \"est-ce qu'\". With \"depuis\" French keeps the present: elle est triste depuis… = she has been sad for…",
+              "example" : "Est-ce qu'elle est triste depuis plus de deux semaines ?",
+              "title" : "Est-ce que: a yes-or-no question"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 1974, en Suède, il y a une nouvelle loi. Les pères peuvent rester à la maison avec un nouveau bébé. Presque aucun père ne le fait.",
+            "En 1995, un mois est seulement pour le père. Les gens l'appellent le mois du père.",
+            "Que peut faire un mari ou partenaire ? Il va chez le médecin avec elle. Il ne fume pas. Il tient le bébé. Il se lève la nuit.",
+            "Est-ce qu'elle est triste depuis plus de deux semaines ? Alors ils demandent à la sage-femme ou au médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + past participle: a réservé, ont pris. In the negative, ne … pas goes around avoir, not around the participle: n'a pas utilisé; an object pronoun stands before avoir: l'a perdu.",
+              "example" : "Si le père n'a pas utilisé son mois, la famille l'a perdu.",
+              "title" : "Passé composé, and its negative"
+            },
+            {
+              "body" : "Pouvoir has an irregular participle, pu: il peut → il a pu. The verb after it stays in the infinitive: a pu rester.",
+              "example" : "Après une naissance, la mère ou le père a pu rester à la maison et être encore payé.",
+              "title" : "A pu: the past of peut"
+            },
+            {
+              "body" : "\"Avant la naissance\" and \"après la naissance\" say when; both stand in front of a noun. To stop doing something is arrêter de + infinitive: arrêter de fumer.",
+              "example" : "Avant la naissance, il peut aller aux rendez-vous et arrêter de fumer.",
+              "title" : "Avant / après + noun, arrêter de + verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 1er janvier 1974, la Suède a fait une nouvelle loi. Après une naissance, la mère ou le père a pu rester à la maison et être encore payé.",
+            "Mais cette année-là, les pères ont pris seulement 0,5 pour cent des jours.",
+            "Alors, en 1995, la Suède a réservé un mois à chaque parent. Si le père n'a pas utilisé son mois, la famille l'a perdu. Les gens l'ont appelé le mois du père. Aujourd'hui, les pères prennent environ trente pour cent des jours.",
+            "Que peut faire un mari ou partenaire ? Avant la naissance, il peut aller aux rendez-vous et arrêter de fumer. Après la naissance, il peut tenir le bébé et partager les nuits.",
+            "Est-ce qu'elle est triste depuis plus de deux semaines ? Alors demandez à la sage-femme ou au médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is être + past participle, used when the action matters more than who did it; in the passé composé, être itself becomes \"a été\": la loi a réservé un mois → un mois a été réservé.",
+              "example" : "En 1995, un mois a été réservé à chaque parent.",
+              "title" : "Passive: a été réservé"
+            },
+            {
+              "body" : "\"Qui\" is the subject of the clause it opens and adds information about the noun before it: les deux parents, qui pouvaient partager… The imperfect (pouvaient) describes what was possible over a period.",
+              "example" : "Le 1er janvier 1974, la Suède est devenue le premier pays à donner un congé parental aux deux parents, qui pouvaient partager 180 jours payés.",
+              "title" : "Relative clause with qui"
+            },
+            {
+              "body" : "The conditional of devoir (ils devraient = they should) says what is the right thing to do. \"En\" stands for \"about it\": en parler à quelqu'un = to speak to someone about it.",
+              "example" : "Si elle continue, ils devraient en parler à la sage-femme ou au médecin.",
+              "title" : "Devraient: the conditional for advice"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 1er janvier 1974, la Suède est devenue le premier pays à donner un congé parental aux deux parents, qui pouvaient partager 180 jours payés.",
+            "Cette année-là, les mères ont pris 99,5 pour cent des jours. En 1995, un mois a été réservé à chaque parent. Si le père ne prenait pas le sien, ce mois était perdu, et on l'a appelé le mois du père.",
+            "Aujourd'hui, les pères prennent environ trente pour cent des jours.",
+            "Ce mois a donné aux pères le temps d'apprendre ce que peut faire un mari ou partenaire. Avant la naissance, il peut aller aux rendez-vous et arrêter de fumer, car la fumée peut être nocive pour le bébé. Ensuite, il peut tenir le bébé, donner une partie des repas et partager les nuits.",
+            "La tristesse des premiers jours passe généralement dans les deux semaines. Si elle continue, ils devraient en parler à la sage-femme ou au médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "French puts the weight on the end of a sentence by naming the topic first (ce que ces mois ont permis) and taking it up again with \"c'est\". After \"ce que\" the subject may follow its verb: ce que peut faire n'importe quel mari.",
+              "example" : "Ce que ces mois ont permis, c'est ce que peut faire n'importe quel mari ou partenaire.",
+              "title" : "Ce que …, c'est ce que …"
+            },
+            {
+              "body" : "Written narration uses the passé simple (devint, prirent, fut, passa) where speech has the passé composé. \"En\" replaces \"de ces jours\": elles en prirent 99,5 pour cent = they took 99.5 per cent of them.",
+              "example" : "Cette année-là, les mères en prirent 99,5 pour cent.",
+              "title" : "Passé simple, and en for \"of them\""
+            },
+            {
+              "body" : "\"Que\" + subjunctive … \"ou\" … means \"whether … or …\". S'agir is only used with the impersonal \"il\": il s'agit de = it is about, it concerns; s'agisse is its subjunctive.",
+              "example" : "Un moral bas qui persiste au-delà de deux semaines, qu'il s'agisse d'elle ou de lui, est une raison d'interroger la sage-femme ou le médecin.",
+              "title" : "Qu'il s'agisse de … ou de …: the subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 1er janvier 1974, la Suède devint le premier pays à remplacer le congé de maternité par un congé parental : 180 jours payés que l'un ou l'autre parent pouvait prendre. Cette année-là, les mères en prirent 99,5 pour cent.",
+            "Dès 1995, un mois fut réservé à chaque parent, et un mois que le père n'utilisait pas était perdu. Avant la réforme, plus de la moitié des pères ne prenaient aucun congé ; après, moins d'un sur cinq.",
+            "Le mois du père, comme on l'appelait, passa à deux mois en 2002, puis à trois en 2016. Les pères prennent désormais environ trente pour cent des jours.",
+            "Ce que ces mois ont permis, c'est ce que peut faire n'importe quel mari ou partenaire. Avant la naissance : aller aux rendez-vous et arrêter de fumer, puisque le tabagisme passif peut être nocif pour le bébé. Ensuite : tenir le bébé, donner une partie des repas, partager les nuits.",
+            "Un moral bas qui persiste au-delà de deux semaines, qu'il s'agisse d'elle ou de lui, est une raison d'interroger la sage-femme ou le médecin."
+          ]
+        }
+      ],
+      "summary" : "En 1974, la Suède a permis aux pères de rester à la maison avec un nouveau bébé, et presque aucun ne l'a fait ; en 1995, elle leur a réservé un mois, et cela a changé ce que fait un père.",
+      "title" : "Le mois du père",
+      "translationGroup" : "fathers-month"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-14",
+      "id" : "fathers-month-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A modal verb like können stands in second place and sends the other verb, as an infinitive, to the very end of the sentence: können … bleiben. Everything else sits between the two.",
+              "example" : "Väter können mit einem neuen Baby zu Hause bleiben.",
+              "title" : "Können + infinitive at the end"
+            },
+            {
+              "body" : "Aufstehen (to get up) splits in the present: the verb part stands in second place and \"auf\" goes to the end. Read the two halves together: er steht auf.",
+              "example" : "Er steht nachts auf.",
+              "title" : "Separable verbs: steht … auf"
+            },
+            {
+              "body" : "For a question without a question word, German puts the verb first and the subject after it: Sie ist traurig → Ist sie traurig?",
+              "example" : "Ist sie länger als zwei Wochen traurig?",
+              "title" : "A yes-or-no question starts with the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist 1974 in Schweden. Es gibt ein neues Gesetz. Väter können mit einem neuen Baby zu Hause bleiben. Fast kein Vater macht das.",
+            "1995 ist ein Monat nur für den Vater. Die Leute nennen ihn Papamonat.",
+            "Was kann ein Ehemann oder Partner tun? Er geht mit ihr zur Ärztin. Er raucht nicht. Er hält das Baby. Er steht nachts auf.",
+            "Ist sie länger als zwei Wochen traurig? Dann fragen sie die Hebamme oder die Ärztin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is a form of haben in second place and the Partizip II at the end of the clause: haben … genommen, hat … gemacht. Strong verbs change their vowel: nehmen → genommen.",
+              "example" : "Aber 1974 haben Väter nur 0,5 Prozent der Tage genommen.",
+              "title" : "Perfekt: haben + Partizip II at the end"
+            },
+            {
+              "body" : "In a wenn-clause the conjugated verb goes to the end (genommen hat). When that clause opens the sentence, the main clause starts with its verb right after the comma: \"…, hat die Familie …\".",
+              "example" : "Wenn der Vater seinen Monat nicht genommen hat, hat die Familie ihn verloren.",
+              "title" : "A wenn-clause first: verb, comma, verb"
+            },
+            {
+              "body" : "As words of time, vor (before) and nach (after) take the dative: die Geburt → vor der Geburt, nach der Geburt. The plural adds -n as well: zu den Terminen.",
+              "example" : "Vor der Geburt kann er zu den Terminen mitgehen und mit dem Rauchen aufhören.",
+              "title" : "Vor and nach with the dative"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am ersten Januar 1974 hat Schweden ein neues Gesetz gemacht. Nach einer Geburt kann die Mutter oder der Vater zu Hause bleiben. Geld gibt es trotzdem.",
+            "Aber 1974 haben Väter nur 0,5 Prozent der Tage genommen.",
+            "Deshalb hat Schweden 1995 jedem Elternteil einen Monat reserviert. Wenn der Vater seinen Monat nicht genommen hat, hat die Familie ihn verloren. Die Leute haben ihn Papamonat genannt. Heute nehmen Väter etwa dreißig Prozent der Tage.",
+            "Was kann ein Ehemann oder Partner tun? Vor der Geburt kann er zu den Terminen mitgehen und mit dem Rauchen aufhören. Nach der Geburt kann er das Baby halten und die Nächte teilen.",
+            "Ist sie länger als zwei Wochen traurig? Dann fragen Sie die Hebamme oder die Ärztin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is werden + Partizip II, used when the action matters more than who did it. In the written past werden becomes wurde, and the participle stands at the end.",
+              "example" : "1995 wurde für jeden Elternteil ein Monat reserviert.",
+              "title" : "Passive in the Präteritum: wurde … reserviert"
+            },
+            {
+              "body" : "Einführen (to introduce) splits in a main clause: \"führte\" is in second place, \"ein\" closes the clause. The relative clause after the comma begins with \"die\" (the parents) and sends its verb to the end: teilen konnten.",
+              "example" : "Am ersten Januar 1974 führte Schweden als erstes Land eine Elternzeit für beide Eltern ein, die sich 180 bezahlte Tage teilen konnten.",
+              "title" : "Separable verb and relative clause in one sentence"
+            },
+            {
+              "body" : "Sollten is the Konjunktiv II of sollen and means \"should\": softer than müssen, it says what is the right thing to do. The second verb goes to the end as an infinitive.",
+              "example" : "Wenn sie bleibt, sollten sie mit der Hebamme oder der Ärztin sprechen.",
+              "title" : "Sollten: a piece of advice"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am ersten Januar 1974 führte Schweden als erstes Land eine Elternzeit für beide Eltern ein, die sich 180 bezahlte Tage teilen konnten.",
+            "In jenem Jahr nahmen die Mütter 99,5 Prozent der Tage. 1995 wurde für jeden Elternteil ein Monat reserviert. Wenn der Vater seinen Monat nicht nahm, ging dieser verloren, und die Leute nannten ihn Papamonat.",
+            "Heute nehmen Väter etwa dreißig Prozent der Tage.",
+            "Der Monat gab den Vätern Zeit zu lernen, was ein Ehemann oder Partner tun kann. Vor der Geburt kann er zu den Terminen mitgehen und mit dem Rauchen aufhören, weil Rauch für das Baby schädlich sein kann. Danach kann er das Baby halten, einen Teil der Mahlzeiten übernehmen und die Nächte teilen.",
+            "Die Traurigkeit der ersten Tage vergeht meist innerhalb von zwei Wochen. Wenn sie bleibt, sollten sie mit der Hebamme oder der Ärztin sprechen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Wofür diese Monate Raum schufen\" is a whole clause in the subject position, with its verb at the end; the main verb \"ist\" follows directly after the comma. Wofür = für + was, because \"Raum schaffen\" takes für.",
+              "example" : "Wofür diese Monate Raum schufen, ist das, was jeder Ehemann oder Partner tun kann.",
+              "title" : "A w-clause as the subject: Wofür …"
+            },
+            {
+              "body" : "\"Aus A wird B\" means A turns into B: the thing that changes stands after aus in the dative, and the result is the subject, so the verb is plural here (wurden … zwei). The wie-clause is set off by commas.",
+              "example" : "Aus dem Papamonat, wie die Leute ihn nannten, wurden 2002 zwei und 2016 drei.",
+              "title" : "Aus … werden: to turn into"
+            },
+            {
+              "body" : "After \"Danach:\" the actions are named with bare infinitives, each at the end of its group and with no subject. German uses this form for lists, notes and instructions.",
+              "example" : "Danach: das Baby halten, einen Teil der Mahlzeiten übernehmen, die Nächte teilen.",
+              "title" : "Infinitives in a list"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am ersten Januar 1974 ersetzte Schweden als erstes Land den Mutterschaftsurlaub durch eine Elternzeit: 180 bezahlte Tage, die jeder der beiden Elternteile nehmen konnte. In jenem Jahr nahmen die Mütter 99,5 Prozent davon.",
+            "Ab 1995 war jedem Elternteil ein Monat vorbehalten, und ein Monat, den der Vater nicht nutzte, verfiel. Vor der Reform nahm mehr als die Hälfte der Väter keine Elternzeit; danach weniger als jeder fünfte.",
+            "Aus dem Papamonat, wie die Leute ihn nannten, wurden 2002 zwei und 2016 drei. Heute nehmen Väter etwa dreißig Prozent der Tage.",
+            "Wofür diese Monate Raum schufen, ist das, was jeder Ehemann oder Partner tun kann. Vor der Geburt: zu den Terminen mitgehen und das Rauchen aufgeben, da Passivrauch für das Baby schädlich sein kann. Danach: das Baby halten, einen Teil der Mahlzeiten übernehmen, die Nächte teilen.",
+            "Eine gedrückte Stimmung, die länger als zwei Wochen anhält, bei ihr oder bei ihm selbst, ist ein Grund, die Hebamme oder die Ärztin zu fragen."
+          ]
+        }
+      ],
+      "summary" : "1974 erlaubte Schweden den Vätern, bei einem neuen Baby zu Hause zu bleiben, und fast keiner tat es; 1995 reservierte es einen Monat für sie, und das veränderte, was ein Vater tut.",
+      "title" : "Der Papamonat",
+      "translationGroup" : "fathers-month"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-14",
+      "id" : "fathers-month-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish can name a whole group with el + singular noun: el padre = fathers in general. The plural \"los padres\" usually means the parents, mother and father together.",
+              "example" : "El padre puede quedarse en casa con su bebé recién nacido.",
+              "title" : "El padre: the singular for a whole group"
+            },
+            {
+              "body" : "The negative is just \"no\" before the verb, with no helping verb: fuma → no fuma. The ending -a already says \"he\" or \"she\", so él is left out.",
+              "example" : "No fuma.",
+              "title" : "No + verb, and no subject pronoun"
+            },
+            {
+              "body" : "When the direct object is a person, Spanish puts \"a\" before it, and a + el becomes al: tiene al bebé = he holds the baby.",
+              "example" : "Tiene al bebé en brazos.",
+              "title" : "A before a person: al bebé"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en 1974, en Suecia. Hay una ley nueva. El padre puede quedarse en casa con su bebé recién nacido. Casi ningún padre lo hace.",
+            "En 1995 hay un mes solo para el padre. La gente lo llama el mes del padre.",
+            "¿Qué puede hacer un marido o pareja? Va al médico con ella. No fuma. Tiene al bebé en brazos. Se levanta por la noche.",
+            "¿Ella está triste durante más de dos semanas? Entonces preguntan a la matrona o al médico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A finished action in the past takes the indefinido: -ar verbs end in -ó for he/she (reservó, tomó, llamó), and hacer is irregular (hizo).",
+              "example" : "Por eso, en 1995 Suecia reservó un mes para cada progenitor.",
+              "title" : "Pretérito indefinido: hizo, reservó, tomó"
+            },
+            {
+              "body" : "For what was true every time, not one single event, Spanish uses the imperfect: -ar verbs take -aba (usaba), -er and -ir verbs take -ía (perdía, podían).",
+              "example" : "Si el padre no usaba su mes, la familia lo perdía.",
+              "title" : "Usaba, perdía: how the rule worked"
+            },
+            {
+              "body" : "An instruction to one person uses the tú imperative, which for regular verbs looks like the él/ella present form: pregunta = ask.",
+              "example" : "Entonces pregunta a la matrona o al médico.",
+              "title" : "The tú imperative: pregunta"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 1 de enero de 1974 Suecia hizo una ley nueva. Después de un nacimiento, la madre o el padre podían quedarse en casa y seguir cobrando.",
+            "Pero ese año el padre tomó solo el 0,5 por ciento de los días.",
+            "Por eso, en 1995 Suecia reservó un mes para cada progenitor. Si el padre no usaba su mes, la familia lo perdía. La gente lo llamó el mes del padre. Hoy el padre toma alrededor del treinta por ciento de los días.",
+            "¿Qué puede hacer un marido o pareja? Antes del nacimiento puede ir a las consultas y dejar de fumar. Después del nacimiento puede tener al bebé en brazos y compartir las noches.",
+            "¿Ella está triste durante más de dos semanas? Entonces pregunta a la matrona o al médico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish avoids \"fue reservado\" and prefers se + a third-person verb when it does not matter who acted: se reservó un mes = a month was reserved; se perdía = it was lost.",
+              "example" : "En 1995 se reservó un mes para cada progenitor.",
+              "title" : "Se + verb instead of the passive"
+            },
+            {
+              "body" : "Soler says what normally happens, not what always happens: suele desaparecer = it usually goes away. It is followed by an infinitive.",
+              "example" : "La tristeza de los primeros días suele desaparecer en dos semanas.",
+              "title" : "Soler + infinitive: usually"
+            },
+            {
+              "body" : "The conditional of deber (debería, deberían) gives advice, like \"should\"; the present \"deben\" would be stronger, like \"must\".",
+              "example" : "Si continúa, deberían hablar con la matrona o el médico.",
+              "title" : "Deberían: the conditional for advice"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 1 de enero de 1974 Suecia fue el primer país en dar un permiso parental a los dos progenitores, que podían compartir 180 días pagados.",
+            "Ese año las madres tomaron el 99,5 por ciento de los días. En 1995 se reservó un mes para cada progenitor. Si el padre no tomaba el suyo, se perdía, y la gente lo llamó el mes del padre.",
+            "Hoy el padre toma alrededor del treinta por ciento de los días.",
+            "Ese mes dio al padre tiempo para aprender lo que puede hacer un marido o pareja. Antes del nacimiento puede ir a las consultas y dejar de fumar, porque el humo puede ser perjudicial para el bebé. Después puede tener al bebé en brazos, darle de comer algunas veces y compartir las noches.",
+            "La tristeza de los primeros días suele desaparecer en dos semanas. Si continúa, deberían hablar con la matrona o el médico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the relative clause describes something not identified (whichever month went unused), Spanish uses the subjunctive: el que el padre no usara. \"Que dure\" in the last sentence works the same way.",
+              "example" : "Desde 1995 se reservó un mes por progenitor, y el que el padre no usara se perdía.",
+              "title" : "Subjunctive in a relative clause: no usara"
+            },
+            {
+              "body" : "Where English lists actions with -ing forms, Spanish uses the infinitive: tener, darle, compartir = holding, feeding, sharing. Pronouns are attached to it (darle).",
+              "example" : "Después: tener al bebé en brazos, darle de comer algunas veces, compartir las noches.",
+              "title" : "The infinitive as a noun in a list"
+            },
+            {
+              "body" : "\"Lo que\" means \"what\" in the sense of \"the thing that\". After it the subject often follows the verb: lo que puede hacer cualquier marido = what any husband can do.",
+              "example" : "Esos meses hicieron sitio a lo que puede hacer cualquier marido o pareja.",
+              "title" : "Lo que: what, with the subject after the verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 1 de enero de 1974 Suecia fue el primer país en sustituir el permiso de maternidad por un permiso parental: 180 días pagados que podía tomar cualquier progenitor. Ese año las madres tomaron el 99,5 por ciento.",
+            "Desde 1995 se reservó un mes por progenitor, y el que el padre no usara se perdía. Antes de la reforma, en más de la mitad de los casos el padre no tomaba ningún día; después, en menos de uno de cada cinco.",
+            "El mes del padre, como lo llamaban, se convirtió en dos en 2002 y tres en 2016. Hoy el padre toma alrededor del treinta por ciento de los días.",
+            "Esos meses hicieron sitio a lo que puede hacer cualquier marido o pareja. Antes del nacimiento: ir a las consultas y dejar de fumar, pues el humo de segunda mano puede ser perjudicial para el bebé. Después: tener al bebé en brazos, darle de comer algunas veces, compartir las noches.",
+            "Un ánimo bajo que dure más de dos semanas, en ella o en él, es motivo para preguntar a la matrona o al médico."
+          ]
+        }
+      ],
+      "summary" : "En 1974 Suecia permitió al padre quedarse en casa con su bebé recién nacido, y casi ninguno lo hizo; en 1995 le reservó un mes, y eso cambió lo que hace un padre.",
+      "title" : "El mes del padre",
+      "translationGroup" : "fathers-month"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-14",
+      "id" : "fathers-month-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Può\" (he/she can) and \"possono\" (they can) are followed directly by an infinitive, with no preposition: può fare, possono restare.",
+              "example" : "Che cosa può fare un marito o partner?",
+              "title" : "Potere + infinitive"
+            },
+            {
+              "body" : "Italian makes a verb negative by putting \"non\" in front of it: fuma → non fuma. The subject pronoun (lui) is usually left out.",
+              "example" : "Non fuma.",
+              "title" : "Non before the verb"
+            },
+            {
+              "body" : "For something that began in the past and still goes on, Italian uses the present tense with \"da\": è triste da due settimane = she has been sad for two weeks.",
+              "example" : "Lei è triste da più di due settimane?",
+              "title" : "Da + time with the present"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il 1974 in Svezia. C'è una nuova norma. I padri possono restare a casa con il neonato. Quasi nessun padre lo fa.",
+            "Nel 1995 c'è un mese solo per il padre. Le persone lo chiamano il mese del papà.",
+            "Che cosa può fare un marito o partner? Va con lei agli appuntamenti con il medico. Non fuma. Tiene in braccio il bambino. Di notte si alza.",
+            "Lei è triste da più di due settimane? Allora chiedono all'ostetrica o al medico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is the present of avere (or essere) + the past participle: ha usato, ha riservato. Some participles are irregular (perdere → perso, prendere → preso), and \"non\" goes before the auxiliary.",
+              "example" : "Se il padre non ha usato il suo mese, la famiglia lo ha perso.",
+              "title" : "Passato prossimo: avere + past participle"
+            },
+            {
+              "body" : "The passato prossimo of potere says what someone was able to do in the past. The infinitive follows directly: ha potuto restare.",
+              "example" : "Dopo una nascita, la madre o il padre ha potuto restare a casa e ricevere ancora dei soldi.",
+              "title" : "Ha potuto + infinitive"
+            },
+            {
+              "body" : "\"Prima\" needs \"di\" before a noun, and di joins the article: prima della nascita (di + la). \"Dopo\" takes the noun directly: dopo la nascita.",
+              "example" : "Prima della nascita può andare agli appuntamenti e smettere di fumare.",
+              "title" : "Prima di and dopo + noun"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il primo gennaio 1974 la Svezia ha introdotto una nuova norma. Dopo una nascita, la madre o il padre ha potuto restare a casa e ricevere ancora dei soldi.",
+            "Ma quell'anno i padri hanno preso solo lo 0,5 per cento dei giorni.",
+            "Così nel 1995 la Svezia ha riservato un mese a ogni genitore. Se il padre non ha usato il suo mese, la famiglia lo ha perso. Le persone lo hanno chiamato il mese del papà. Oggi i padri prendono circa il trenta per cento dei giorni.",
+            "Che cosa può fare un marito o partner? Prima della nascita può andare agli appuntamenti e smettere di fumare. Dopo la nascita può tenere in braccio il bambino e dividere le notti.",
+            "Lei è triste da più di due settimane? Allora chiedi all'ostetrica o al medico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is essere + past participle, used when the action matters more than who did it; in the passato prossimo it has two participles: è stato riservato = was reserved. Both agree with the subject (un mese).",
+              "example" : "Nel 1995 un mese è stato riservato a ogni genitore.",
+              "title" : "Passive: è stato riservato"
+            },
+            {
+              "body" : "\"Che\" refers back to the noun just before it and never changes, for people or things: i genitori, che potevano dividersi i giorni = the parents, who could share the days.",
+              "example" : "Il primo gennaio 1974 la Svezia è diventata il primo paese a dare il congedo parentale a entrambi i genitori, che potevano dividersi 180 giorni pagati.",
+              "title" : "Relative clause with che"
+            },
+            {
+              "body" : "The conditional of dovere + infinitive says what is the right thing to do, like \"should\": dovrebbero parlare = they should speak. After \"se\" the present (se resta) states the condition.",
+              "example" : "Se resta, dovrebbero parlare con l'ostetrica o con il medico.",
+              "title" : "Dovrebbero: the conditional of dovere for advice"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il primo gennaio 1974 la Svezia è diventata il primo paese a dare il congedo parentale a entrambi i genitori, che potevano dividersi 180 giorni pagati.",
+            "Quell'anno le madri hanno preso il 99,5 per cento dei giorni. Nel 1995 un mese è stato riservato a ogni genitore. Se il padre non prendeva il suo, andava perso, e la gente lo chiamava il mese del papà.",
+            "Oggi i padri prendono circa il trenta per cento dei giorni.",
+            "Quel mese ha dato ai padri il tempo di imparare che cosa può fare un marito o partner. Prima della nascita può andare agli appuntamenti e smettere di fumare, perché il fumo può essere dannoso per il bambino. Dopo può tenere in braccio il bambino, occuparsi di alcune poppate e dividere le notti.",
+            "La tristezza dei primi giorni di solito passa entro due settimane. Se resta, dovrebbero parlare con l'ostetrica o con il medico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Italian has no single word for the relative \"what\": it uses ciò che (or quello che). When the verb needs a preposition, che becomes cui after it: fare spazio a → ciò a cui hanno fatto spazio.",
+              "example" : "Ciò a cui quei mesi hanno fatto spazio è ciò che qualunque marito o partner può fare.",
+              "title" : "Ciò che, ciò a cui: the relative \"what\""
+            },
+            {
+              "body" : "Written narration uses the passato remoto (divenne, presero) where speech has è diventata, hanno preso. \"Ne\" replaces di + a noun already named and stands before the verb: ne presero il 99,5 per cento = they took 99.5 per cent of them.",
+              "example" : "Quell'anno le madri ne presero il 99,5 per cento.",
+              "title" : "Passato remoto, and ne for \"of them\""
+            },
+            {
+              "body" : "Where English lists actions with -ing forms, Italian uses the infinitive, which works like a noun: tenere, occuparsi, dividere.",
+              "example" : "Dopo: tenere in braccio il bambino, occuparsi di alcune poppate, dividere le notti.",
+              "title" : "Infinitives that name actions in a list"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il primo gennaio 1974 la Svezia divenne il primo paese a sostituire il congedo di maternità con il congedo parentale: 180 giorni pagati che l'uno o l'altro genitore poteva prendere. Quell'anno le madri ne presero il 99,5 per cento.",
+            "Dal 1995 un mese era riservato a ciascun genitore, e il mese che il padre non usava andava perso. Prima della riforma, più della metà dei padri non prendeva alcun congedo; dopo, meno di un padre ogni cinque.",
+            "Il mese del papà, come lo chiamava la gente, divenne due mesi nel 2002 e tre nel 2016. Oggi i padri prendono circa il trenta per cento dei giorni.",
+            "Ciò a cui quei mesi hanno fatto spazio è ciò che qualunque marito o partner può fare. Prima della nascita: andare agli appuntamenti e smettere di fumare, poiché il fumo passivo può essere dannoso per il bambino. Dopo: tenere in braccio il bambino, occuparsi di alcune poppate, dividere le notti.",
+            "Un umore basso che dura più di due settimane, in lei o in lui stesso, è un motivo per chiedere all'ostetrica o al medico."
+          ]
+        }
+      ],
+      "summary" : "Nel 1974 la Svezia ha permesso ai padri di restare a casa con il neonato, e quasi nessuno lo ha fatto; nel 1995 ha messo da parte un mese per loro, e questo ha cambiato quello che fa un padre.",
+      "title" : "Il mese del papà",
+      "translationGroup" : "fathers-month"
     }
   ]
 }
