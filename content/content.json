@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 13,
-  "generatedAt" : "2026-10-14",
+  "contentVersion" : 14,
+  "generatedAt" : "2026-10-15",
   "glossary" : {
     "english" : [
       {
@@ -2666,7 +2666,7 @@
         "forms" : [
           "full"
         ],
-        "note" : "The opposite of \"empty.\"",
+        "note" : "The opposite of \"empty\"; also complete, as in \"a full degree\".",
         "pos" : "adjective",
         "translation" : "with no more room"
       },
@@ -5390,9 +5390,9 @@
         "forms" : [
           "room"
         ],
-        "note" : "As in \"no room left.\"",
+        "note" : "A part of a house with walls and a door, as in \"a room of her own\"; also free space, as in \"no room left\".",
         "pos" : "noun",
-        "translation" : "available space"
+        "translation" : "a room; space"
       },
       {
         "forms" : [
@@ -6343,7 +6343,7 @@
           "takes",
           "taking"
         ],
-        "note" : "Forms of \"take\" across tenses.",
+        "note" : "Forms of \"take\" across tenses; \"take an exam\" = do it.",
         "pos" : "verb",
         "translation" : "to get hold of, to require (time)"
       },
@@ -24062,6 +24062,255 @@
         "note" : "The habit: to stop smoking, to quit smoking.",
         "pos" : "noun",
         "translation" : "using cigarettes"
+      },
+      {
+        "forms" : [
+          "1929"
+        ],
+        "note" : "The year A Room of One's Own came out; said \"nineteen twenty-nine\".",
+        "pos" : "number",
+        "translation" : "1929"
+      },
+      {
+        "forms" : [
+          "1948"
+        ],
+        "note" : "A year; said \"nineteen forty-eight\".",
+        "pos" : "number",
+        "translation" : "1948"
+      },
+      {
+        "forms" : [
+          "central"
+        ],
+        "note" : "As in \"its central idea\": the idea in the middle of everything else.",
+        "pos" : "adjective",
+        "translation" : "main, most important"
+      },
+      {
+        "forms" : [
+          "colleges"
+        ],
+        "note" : "At Cambridge a college is a community inside the university where students live, eat and are taught; \"colleges\" is the plural.",
+        "pos" : "noun",
+        "translation" : "colleges, parts of a university"
+      },
+      {
+        "forms" : [
+          "compressed"
+        ],
+        "note" : "Past participle of \"compress\"; here, said in very few words.",
+        "pos" : "verb",
+        "translation" : "pressed into a small space"
+      },
+      {
+        "forms" : [
+          "degree"
+        ],
+        "note" : "What a university gives you when you finish your studies, as in \"a full degree\".",
+        "pos" : "noun",
+        "translation" : "a university qualification"
+      },
+      {
+        "forms" : [
+          "exams"
+        ],
+        "note" : "Short for \"examinations\"; \"take an exam\" = do one.",
+        "pos" : "noun",
+        "translation" : "tests"
+      },
+      {
+        "forms" : [
+          "expanded"
+        ],
+        "note" : "Past participle of \"expand\"; the opposite of \"compressed\".",
+        "pos" : "verb",
+        "translation" : "made longer or bigger"
+      },
+      {
+        "forms" : [
+          "fiction"
+        ],
+        "note" : "Novels and short stories; the opposite of \"non-fiction\" (true writing).",
+        "pos" : "noun",
+        "translation" : "stories that are invented"
+      },
+      {
+        "forms" : [
+          "freedom"
+        ],
+        "note" : "The noun of \"free\"; \"freedom to think\" = the chance to think as you like.",
+        "pos" : "noun",
+        "translation" : "being free"
+      },
+      {
+        "forms" : [
+          "girton"
+        ],
+        "note" : "Girton College, one of the two colleges for women in Cambridge in 1928.",
+        "pos" : "noun",
+        "translation" : "Girton"
+      },
+      {
+        "forms" : [
+          "grant"
+        ],
+        "note" : "Used for formal permission or a title: \"grant a degree\".",
+        "pos" : "verb",
+        "translation" : "to give officially"
+      },
+      {
+        "forms" : [
+          "interrupt",
+          "interrupts"
+        ],
+        "note" : "\"Interrupts\" is the he/she/it form; \"nobody interrupts\" = nobody comes in and stops you.",
+        "pos" : "verb",
+        "translation" : "to stop someone by breaking in"
+      },
+      {
+        "forms" : [
+          "lectures"
+        ],
+        "note" : "Plural of \"lecture\"; \"attend lectures\" = go to them.",
+        "pos" : "noun",
+        "translation" : "talks given to students"
+      },
+      {
+        "forms" : [
+          "listeners"
+        ],
+        "note" : "Plural of \"listener\"; here, the students in the room.",
+        "pos" : "noun",
+        "translation" : "people who listen"
+      },
+      {
+        "forms" : [
+          "lock"
+        ],
+        "note" : "The metal part of a door that you close with a key; \"a lock on the door\".",
+        "pos" : "noun",
+        "translation" : "a lock"
+      },
+      {
+        "forms" : [
+          "men"
+        ],
+        "note" : "Plural of \"man\"; an irregular plural, with no -s.",
+        "pos" : "noun",
+        "translation" : "men"
+      },
+      {
+        "forms" : [
+          "newnham"
+        ],
+        "note" : "Newnham College, one of the two colleges for women in Cambridge in 1928.",
+        "pos" : "noun",
+        "translation" : "Newnham"
+      },
+      {
+        "forms" : [
+          "novelists"
+        ],
+        "note" : "Plural of \"novelist\": a writer of long invented stories.",
+        "pos" : "noun",
+        "translation" : "people who write novels"
+      },
+      {
+        "forms" : [
+          "oneself"
+        ],
+        "note" : "The -self form of \"one\" (any person): \"think for oneself\" = think on your own.",
+        "pos" : "pronoun",
+        "translation" : "oneself"
+      },
+      {
+        "forms" : [
+          "pounds"
+        ],
+        "note" : "The British money; \"five hundred pounds a year\" = an income of £500 every year.",
+        "pos" : "noun",
+        "translation" : "pounds (money)"
+      },
+      {
+        "forms" : [
+          "precise"
+        ],
+        "note" : "\"She is precise\" = she says exactly how much.",
+        "pos" : "adjective",
+        "translation" : "exact"
+      },
+      {
+        "forms" : [
+          "price"
+        ],
+        "note" : "\"Gave a price\" = said how much is needed.",
+        "pos" : "noun",
+        "translation" : "what something costs"
+      },
+      {
+        "forms" : [
+          "privilege"
+        ],
+        "note" : "Something only some people have, often because they are rich.",
+        "pos" : "noun",
+        "translation" : "a special advantage for a few"
+      },
+      {
+        "forms" : [
+          "reflect"
+        ],
+        "note" : "\"Time to reflect\" = time to think quietly about something; it can also mean to send back light.",
+        "pos" : "verb",
+        "translation" : "to think carefully"
+      },
+      {
+        "forms" : [
+          "revised"
+        ],
+        "note" : "Past participle of \"revise\": the talks were rewritten before they became a book.",
+        "pos" : "verb",
+        "translation" : "changed and improved"
+      },
+      {
+        "forms" : [
+          "speaks"
+        ],
+        "note" : "He/she form of \"speak\"; past \"spoke\", past participle \"spoken\".",
+        "pos" : "verb",
+        "translation" : "talks"
+      },
+      {
+        "forms" : [
+          "talks"
+        ],
+        "note" : "Plural of the noun \"talk\": a speech given to a group; \"gave two talks\".",
+        "pos" : "noun",
+        "translation" : "talks, lectures"
+      },
+      {
+        "forms" : [
+          "university's"
+        ],
+        "note" : "The possessive of \"university\": \"the university's colleges\" = the colleges of the university.",
+        "pos" : "noun",
+        "translation" : "of the university"
+      },
+      {
+        "forms" : [
+          "virginia"
+        ],
+        "note" : "Virginia Woolf (1882–1941), an English writer.",
+        "pos" : "noun",
+        "translation" : "Virginia"
+      },
+      {
+        "forms" : [
+          "woolf"
+        ],
+        "note" : "Virginia Woolf (1882–1941), an English writer of novels and essays; A Room of One's Own is from 1929.",
+        "pos" : "noun",
+        "translation" : "Woolf"
       }
     ],
     "french" : [
@@ -28329,7 +28578,8 @@
       },
       {
         "forms" : [
-          "prononce"
+          "prononce",
+          "prononça"
         ],
         "note" : "Prononcer (to utter), \"il/elle\" form.",
         "pos" : "verb",
@@ -28924,7 +29174,8 @@
       {
         "forms" : [
           "seul",
-          "seule"
+          "seule",
+          "seuls"
         ],
         "note" : "\"Seul\" (masc.) / \"seule\" (fem.).",
         "pos" : "adjective",
@@ -29735,7 +29986,8 @@
       {
         "forms" : [
           "étudiant",
-          "étudiante"
+          "étudiante",
+          "étudiantes"
         ],
         "gender" : "feminine",
         "note" : "A female student.",
@@ -37295,7 +37547,8 @@
       },
       {
         "forms" : [
-          "examen"
+          "examen",
+          "examens"
         ],
         "gender" : "masculine",
         "note" : "A test.",
@@ -37683,7 +37936,8 @@
       },
       {
         "forms" : [
-          "homme"
+          "homme",
+          "hommes"
         ],
         "gender" : "masculine",
         "note" : "\"Homme d'affaires\" = businessman.",
@@ -39603,7 +39857,8 @@
       },
       {
         "forms" : [
-          "réfléchi"
+          "réfléchi",
+          "réfléchir"
         ],
         "note" : "Past participle of réfléchir.",
         "pos" : "verb",
@@ -42563,7 +42818,8 @@
       },
       {
         "forms" : [
-          "interrompez"
+          "interrompez",
+          "interrompre"
         ],
         "note" : "From \"interrompre.\"",
         "pos" : "verb",
@@ -42925,7 +43181,7 @@
           "livres"
         ],
         "gender" : "masculine",
-        "note" : "Plural of \"livre.\"",
+        "note" : "Plural of \"livre.\" Un livre = a book; une livre = a pound (money or weight), as in \"cinq cents livres sterling\".",
         "pos" : "noun",
         "translation" : "books"
       },
@@ -44103,7 +44359,8 @@
       },
       {
         "forms" : [
-          "riche"
+          "riche",
+          "riches"
         ],
         "note" : "Full-flavored, or wealthy.",
         "pos" : "adjective",
@@ -44647,7 +44904,8 @@
       },
       {
         "forms" : [
-          "suivent"
+          "suivent",
+          "suivre"
         ],
         "note" : "\"Suivre\" third person plural.",
         "pos" : "verb",
@@ -47780,7 +48038,8 @@
       },
       {
         "forms" : [
-          "histoire"
+          "histoire",
+          "histoires"
         ],
         "gender" : "feminine",
         "note" : "Noun.",
@@ -48370,6 +48629,7 @@
       },
       {
         "forms" : [
+          "écrivaine",
           "écrivaines"
         ],
         "gender" : "feminine",
@@ -48732,6 +48992,8 @@
       {
         "forms" : [
           "devenu",
+          "devenues",
+          "devinrent",
           "devint"
         ],
         "note" : "Forms of devenir.",
@@ -49892,6 +50154,7 @@
         "forms" : [
           "lire",
           "lu",
+          "lue",
           "lues",
           "lut"
         ],
@@ -51323,7 +51586,8 @@
       },
       {
         "forms" : [
-          "concernait"
+          "concernait",
+          "concerne"
         ],
         "note" : "Imparfait of concerner: « il concernait un rapport » = it was about a report.",
         "pos" : "verb",
@@ -55588,7 +55852,8 @@
       },
       {
         "forms" : [
-          "augmentent"
+          "augmentent",
+          "augmentées"
         ],
         "note" : "Augmenter, ils/elles form, present tense; the opposite of diminuer.",
         "pos" : "verb",
@@ -56671,6 +56936,209 @@
         "note" : "De + interroger, shortened before the vowel: « une raison d'interroger le médecin » = a reason to ask the doctor.",
         "pos" : "verb",
         "translation" : "to ask, to question"
+      },
+      {
+        "forms" : [
+          "virginia"
+        ],
+        "note" : "Virginia Woolf (1882–1941), the English writer who gave the two talks in Cambridge in 1928.",
+        "pos" : "noun",
+        "translation" : "Virginia"
+      },
+      {
+        "forms" : [
+          "woolf"
+        ],
+        "note" : "Virginia Woolf (1882–1941), English novelist and essayist, author of « Une chambre à soi » (A Room of One's Own, 1929).",
+        "pos" : "noun",
+        "translation" : "Woolf"
+      },
+      {
+        "forms" : [
+          "newnham"
+        ],
+        "note" : "Newnham College, one of the two colleges for women at the University of Cambridge in 1928.",
+        "pos" : "noun",
+        "translation" : "Newnham"
+      },
+      {
+        "forms" : [
+          "girton"
+        ],
+        "note" : "Girton College, the other college for women at Cambridge, where Woolf gave her second talk.",
+        "pos" : "noun",
+        "translation" : "Girton"
+      },
+      {
+        "forms" : [
+          "1929"
+        ],
+        "note" : "Mille neuf cent vingt-neuf: the year the talks became a book.",
+        "pos" : "number",
+        "translation" : "1929"
+      },
+      {
+        "forms" : [
+          "1948"
+        ],
+        "note" : "Mille neuf cent quarante-huit: the year Cambridge first gave women full degrees.",
+        "pos" : "number",
+        "translation" : "1948"
+      },
+      {
+        "forms" : [
+          "l'écrivaine"
+        ],
+        "gender" : "feminine",
+        "note" : "La + écrivaine, shortened before the vowel: « l'écrivaine Virginia Woolf » = the writer Virginia Woolf.",
+        "pos" : "noun",
+        "translation" : "the writer (woman)"
+      },
+      {
+        "forms" : [
+          "conférences"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une conférence » is a talk given to an audience, not a meeting (a conference in the English sense is « un congrès »).",
+        "pos" : "noun",
+        "translation" : "talks, lectures"
+      },
+      {
+        "forms" : [
+          "collèges"
+        ],
+        "gender" : "masculine",
+        "note" : "At Cambridge a « collège » is one of the colleges that make up the university; in France « le collège » is a school for ages 11 to 15.",
+        "pos" : "noun",
+        "translation" : "colleges"
+      },
+      {
+        "forms" : [
+          "diplôme"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un diplôme complet » = a full degree; « obtenir un diplôme » = to get a degree.",
+        "pos" : "noun",
+        "translation" : "degree, diploma"
+      },
+      {
+        "forms" : [
+          "serrure"
+        ],
+        "gender" : "feminine",
+        "note" : "The lock built into a door; « une serrure à la porte » = a lock on the door, opened with « une clé ».",
+        "pos" : "noun",
+        "translation" : "lock"
+      },
+      {
+        "forms" : [
+          "sterling"
+        ],
+        "note" : "« Une livre sterling » = a British pound; here « livres » means pounds, not books (« un livre » = a book, « une livre » = a pound).",
+        "pos" : "adjective",
+        "translation" : "sterling (British pound)"
+      },
+      {
+        "forms" : [
+          "fiction"
+        ],
+        "gender" : "feminine",
+        "note" : "« Écrire de la fiction » = to write stories that are invented; « de la » because fiction is an uncountable mass here.",
+        "pos" : "noun",
+        "translation" : "fiction"
+      },
+      {
+        "forms" : [
+          "dérange"
+        ],
+        "note" : "Present of déranger: « personne ne vous dérange » = nobody disturbs you; « personne ne » = nobody.",
+        "pos" : "verb",
+        "translation" : "disturbs, bothers"
+      },
+      {
+        "forms" : [
+          "centrale"
+        ],
+        "note" : "Feminine of « central », agreeing with « idée »: « son idée centrale » = her main idea.",
+        "pos" : "adjective",
+        "translation" : "central, main"
+      },
+      {
+        "forms" : [
+          "liberté"
+        ],
+        "gender" : "feminine",
+        "note" : "« La liberté de penser » = the freedom to think; « de » + infinitive after the noun.",
+        "pos" : "noun",
+        "translation" : "freedom"
+      },
+      {
+        "forms" : [
+          "romanciers"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « romancier », a writer of novels (« romans »); a woman is « une romancière ».",
+        "pos" : "noun",
+        "translation" : "novelists"
+      },
+      {
+        "forms" : [
+          "réflexion"
+        ],
+        "gender" : "feminine",
+        "note" : "« Un travail de réflexion » = work that needs thinking; from réfléchir, to think.",
+        "pos" : "noun",
+        "translation" : "thought, reflection"
+      },
+      {
+        "forms" : [
+          "auditrices"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural of « auditeur », a person who listens to a talk; the -teur / -trice pattern as in acteur / actrice.",
+        "pos" : "noun",
+        "translation" : "listeners (women)"
+      },
+      {
+        "forms" : [
+          "accorderait"
+        ],
+        "note" : "Conditional of accorder (to grant); here it is a future seen from the past: in 1928, 1948 still lay ahead.",
+        "pos" : "verb",
+        "translation" : "would grant"
+      },
+      {
+        "forms" : [
+          "remaniées"
+        ],
+        "note" : "Past participle of remanier, feminine plural to agree with « les conférences », which come after it.",
+        "pos" : "verb",
+        "translation" : "revised, reworked"
+      },
+      {
+        "forms" : [
+          "féminins"
+        ],
+        "note" : "Masculine plural of « féminin », agreeing with « collèges »: « les collèges féminins » = the colleges for women.",
+        "pos" : "adjective",
+        "translation" : "for women, female"
+      },
+      {
+        "forms" : [
+          "privilège"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un privilège de riches » = something only rich people have; de + noun without an article describes the kind.",
+        "pos" : "noun",
+        "translation" : "privilege"
+      },
+      {
+        "forms" : [
+          "fût-ce"
+        ],
+        "note" : "Literary inversion of the imperfect subjunctive « fût » with « ce »: « fût-ce à six heures du matin » = even if it is at six in the morning.",
+        "pos" : "other",
+        "translation" : "even, be it"
       }
     ],
     "german" : [
@@ -60258,7 +60726,8 @@
       },
       {
         "forms" : [
-          "roman"
+          "roman",
+          "romane"
         ],
         "gender" : "masculine",
         "note" : "A work of fiction.",
@@ -61032,7 +61501,8 @@
       },
       {
         "forms" : [
-          "studentin"
+          "studentin",
+          "studentinnen"
         ],
         "gender" : "feminine",
         "note" : "A female student.",
@@ -61568,6 +62038,7 @@
         "forms" : [
           "voll",
           "volle",
+          "vollen",
           "völlig"
         ],
         "note" : "\"Völlig\" is the adverb form, \"completely.\"",
@@ -64125,6 +64596,7 @@
       },
       {
         "forms" : [
+          "konkret",
           "konkrete"
         ],
         "note" : "Case-inflected form of konkret.",
@@ -66630,7 +67102,8 @@
       },
       {
         "forms" : [
-          "stören"
+          "stören",
+          "stört"
         ],
         "note" : "Infinitive of stören.",
         "pos" : "verb",
@@ -69563,7 +70036,8 @@
       },
       {
         "forms" : [
-          "geschichte"
+          "geschichte",
+          "geschichten"
         ],
         "gender" : "feminine",
         "note" : "An account of events, real or invented.",
@@ -71358,7 +71832,8 @@
       },
       {
         "forms" : [
-          "prüfung"
+          "prüfung",
+          "prüfungen"
         ],
         "gender" : "feminine",
         "note" : "A test.",
@@ -75954,6 +76429,7 @@
       {
         "forms" : [
           "reich",
+          "reiche",
           "reichen",
           "reiches"
         ],
@@ -78148,7 +78624,8 @@
       },
       {
         "forms" : [
-          "durfte"
+          "durfte",
+          "durften"
         ],
         "note" : "Preterite of dürfen (modal verb).",
         "pos" : "verb",
@@ -79314,7 +79791,8 @@
       {
         "forms" : [
           "mann",
-          "mannes"
+          "mannes",
+          "männer"
         ],
         "gender" : "masculine",
         "note" : "Mann and its genitive form.",
@@ -79982,6 +80460,7 @@
       },
       {
         "forms" : [
+          "schriftstellerin",
           "schriftstellerinnen"
         ],
         "gender" : "feminine",
@@ -83745,6 +84224,7 @@
       },
       {
         "forms" : [
+          "gesprochen",
           "sprechen"
         ],
         "note" : "Infinitive: „Unwahrheit sprechen“; the er/sie/es form is „spricht“.",
@@ -84760,6 +85240,7 @@
       },
       {
         "forms" : [
+          "studieren",
           "studiert"
         ],
         "note" : "Studieren, er/sie/es form: „Brian May studiert Physik“; a field of study takes no article.",
@@ -85429,7 +85910,8 @@
       },
       {
         "forms" : [
-          "college"
+          "college",
+          "colleges"
         ],
         "gender" : "neuter",
         "note" : "Das College, kept in English: Imperial College London, the university where Brian May studied physics.",
@@ -89617,6 +90099,251 @@
         "note" : "Anhalten (to last), er/sie/es form with umlaut, written as one word at the end of a relative clause: „die länger als zwei Wochen anhält“; in a main clause it splits: sie hält … an.",
         "pos" : "verb",
         "translation" : "lasts, persists"
+      },
+      {
+        "forms" : [
+          "virginia"
+        ],
+        "gender" : "feminine",
+        "note" : "First name of Virginia Woolf (1882–1941), the English writer who gave the Cambridge talks that became Ein Zimmer für sich allein.",
+        "pos" : "noun",
+        "translation" : "Virginia"
+      },
+      {
+        "forms" : [
+          "woolf"
+        ],
+        "gender" : "feminine",
+        "note" : "Surname of Virginia Woolf, English novelist and essayist; a name, so it takes no article: „Virginia Woolf ist Schriftstellerin“.",
+        "pos" : "noun",
+        "translation" : "Woolf"
+      },
+      {
+        "forms" : [
+          "abschluss"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Abschluss is what you finish a course of study with; „einen Abschluss bekommen“ = to get a degree.",
+        "pos" : "noun",
+        "translation" : "degree, final qualification"
+      },
+      {
+        "forms" : [
+          "1929"
+        ],
+        "note" : "Read neunzehnhundertneunundzwanzig; a year stands alone without „im“: „1929 macht sie … ein Buch“.",
+        "pos" : "number",
+        "translation" : "1929"
+      },
+      {
+        "forms" : [
+          "1948"
+        ],
+        "note" : "Read neunzehnhundertachtundvierzig; „erst 1948“ = not until 1948.",
+        "pos" : "number",
+        "translation" : "1948"
+      },
+      {
+        "forms" : [
+          "vorträge",
+          "vorträgen"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Vortrag (a talk given to an audience), with umlaut; -n in the dative plural: „aus ihren Vorträgen“. „Einen Vortrag halten“ = to give a talk.",
+        "pos" : "noun",
+        "translation" : "talks, lectures"
+      },
+      {
+        "forms" : [
+          "türschloss"
+        ],
+        "gender" : "neuter",
+        "note" : "Die Tür + das Schloss (lock): a compound takes the gender of its last part, so das Türschloss. Das Schloss also means castle.",
+        "pos" : "noun",
+        "translation" : "door lock"
+      },
+      {
+        "forms" : [
+          "newnham"
+        ],
+        "gender" : "neuter",
+        "note" : "Newnham College, founded in 1871, one of the two colleges for women at Cambridge in 1928.",
+        "pos" : "noun",
+        "translation" : "Newnham"
+      },
+      {
+        "forms" : [
+          "girton"
+        ],
+        "gender" : "neuter",
+        "note" : "Girton College, founded in 1869, the other college for women at Cambridge where Woolf spoke in October 1928.",
+        "pos" : "noun",
+        "translation" : "Girton"
+      },
+      {
+        "forms" : [
+          "preis"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Preis is both a price and a prize; „einen Preis nennen“ = to name a price.",
+        "pos" : "noun",
+        "translation" : "price"
+      },
+      {
+        "forms" : [
+          "fünfhundert"
+        ],
+        "note" : "Numbers below a million are written as one word: fünf + hundert = fünfhundert.",
+        "pos" : "number",
+        "translation" : "five hundred"
+      },
+      {
+        "forms" : [
+          "pfund"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Pfund is the British pound and an old weight; after a number it stays singular: „fünfhundert Pfund“.",
+        "pos" : "noun",
+        "translation" : "pound (money)"
+      },
+      {
+        "forms" : [
+          "störung"
+        ],
+        "gender" : "feminine",
+        "note" : "Stören (to disturb) + -ung makes a feminine noun; „ohne Störung“ = without anyone interrupting.",
+        "pos" : "noun",
+        "translation" : "disturbance, interruption"
+      },
+      {
+        "forms" : [
+          "vorlesungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Vorlesung, a university lecture; „Vorlesungen besuchen“ = to attend lectures.",
+        "pos" : "noun",
+        "translation" : "lectures"
+      },
+      {
+        "forms" : [
+          "ablegen"
+        ],
+        "note" : "Ablegen means to put down or take off, and with Prüfung to take an exam; it is separable: „sie legt die Prüfung ab“.",
+        "pos" : "verb",
+        "translation" : "to take (an exam)"
+      },
+      {
+        "forms" : [
+          "universität"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Universität, often shortened to die Uni; nouns in -tät are always feminine.",
+        "pos" : "noun",
+        "translation" : "university"
+      },
+      {
+        "forms" : [
+          "kernidee"
+        ],
+        "gender" : "feminine",
+        "note" : "Der Kern (core) + die Idee: the idea at the heart of something; feminine like die Idee.",
+        "pos" : "noun",
+        "translation" : "central idea"
+      },
+      {
+        "forms" : [
+          "erzählungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Erzählung (from erzählen, to tell): a piece of narrative prose, usually shorter than a novel.",
+        "pos" : "noun",
+        "translation" : "stories, tales"
+      },
+      {
+        "forms" : [
+          "nachdenken"
+        ],
+        "gender" : "neuter",
+        "note" : "The verb nachdenken (to think something over) used as a noun: das Nachdenken; „Zeit zum Nachdenken“ = time to think.",
+        "pos" : "noun",
+        "translation" : "thinking, reflection"
+      },
+      {
+        "forms" : [
+          "freiheit"
+        ],
+        "gender" : "feminine",
+        "note" : "Frei + -heit makes a feminine noun; „die Freiheit, selbst zu denken“ = the freedom to think for yourself.",
+        "pos" : "noun",
+        "translation" : "freedom"
+      },
+      {
+        "forms" : [
+          "romanautoren"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Romanautor (Roman + Autor), someone who writes novels; the masculine plural covers men and women.",
+        "pos" : "noun",
+        "translation" : "novelists"
+      },
+      {
+        "forms" : [
+          "zuhörerinnen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Zuhörerin, from zuhören (to listen): the women in the audience.",
+        "pos" : "noun",
+        "translation" : "listeners (female)"
+      },
+      {
+        "forms" : [
+          "frauencolleges"
+        ],
+        "gender" : "neuter",
+        "note" : "Frauen + Colleges in one compound: das Frauencollege, plural with -s; in 1928 Cambridge had two, Newnham and Girton.",
+        "pos" : "noun",
+        "translation" : "colleges for women"
+      },
+      {
+        "forms" : [
+          "überarbeitet"
+        ],
+        "note" : "Partizip II of überarbeiten (to revise), an inseparable verb, so no ge-; at the start of the sentence it stands for a whole clause.",
+        "pos" : "verb",
+        "translation" : "revised"
+      },
+      {
+        "forms" : [
+          "erweitert"
+        ],
+        "note" : "Partizip II of erweitern (to expand, make wider), with no ge- because of the prefix er-.",
+        "pos" : "verb",
+        "translation" : "expanded"
+      },
+      {
+        "forms" : [
+          "verdichtet"
+        ],
+        "note" : "Partizip II of verdichten (to condense); „ist … verdichtet“ is a state passive: it has been compressed and stays so.",
+        "pos" : "verb",
+        "translation" : "condensed, compressed"
+      },
+      {
+        "forms" : [
+          "verschafft"
+        ],
+        "note" : "Verschaffen, er/sie/es form: to get something for someone, usually something you need; „verschafft Zeit“ = buys time.",
+        "pos" : "verb",
+        "translation" : "gets, provides"
+      },
+      {
+        "forms" : [
+          "privileg"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Privileg, a right that only some people have; „ein Privileg der Reichen“ = a privilege of the rich, with the genitive.",
+        "pos" : "noun",
+        "translation" : "privilege"
       }
     ],
     "italian" : [
@@ -98630,6 +99357,7 @@
       },
       {
         "forms" : [
+          "riga",
           "righe"
         ],
         "gender" : "feminine",
@@ -98907,6 +99635,7 @@
       },
       {
         "forms" : [
+          "romanzi",
           "romanzo"
         ],
         "gender" : "masculine",
@@ -100240,6 +100969,7 @@
         "forms" : [
           "studente",
           "studentessa",
+          "studentesse",
           "studenti"
         ],
         "gender" : "feminine",
@@ -101156,6 +101886,7 @@
       },
       {
         "forms" : [
+          "uomini",
           "uomo"
         ],
         "gender" : "masculine",
@@ -103501,6 +104232,8 @@
       },
       {
         "forms" : [
+          "interrompe",
+          "interrompere",
           "interrompi"
         ],
         "note" : "From \"interrompere.\"",
@@ -104434,6 +105167,7 @@
       },
       {
         "forms" : [
+          "precisa",
           "preciso"
         ],
         "note" : "Exact.",
@@ -104806,6 +105540,7 @@
       },
       {
         "forms" : [
+          "ricchi",
           "ricco"
         ],
         "note" : "Full-flavored.",
@@ -105140,6 +105875,7 @@
       },
       {
         "forms" : [
+          "seguire",
           "seguono"
         ],
         "note" : "From \"seguire.\"",
@@ -105216,6 +105952,7 @@
       {
         "forms" : [
           "significa",
+          "significano",
           "significava"
         ],
         "note" : "From \"significare.\"",
@@ -106698,6 +107435,7 @@
       },
       {
         "forms" : [
+          "cifra",
           "cifre"
         ],
         "gender" : "feminine",
@@ -108502,7 +109240,8 @@
       },
       {
         "forms" : [
-          "divenne"
+          "divenne",
+          "divennero"
         ],
         "note" : "From divenire, passato remoto.",
         "pos" : "verb",
@@ -108779,6 +109518,7 @@
       },
       {
         "forms" : [
+          "letta",
           "lette",
           "letti"
         ],
@@ -109165,6 +109905,7 @@
       },
       {
         "forms" : [
+          "scrittrice",
           "scrittrici"
         ],
         "gender" : "feminine",
@@ -110009,7 +110750,8 @@
       },
       {
         "forms" : [
-          "concedi"
+          "concedi",
+          "concesso"
         ],
         "note" : "«Concedi loro due minuti».",
         "pos" : "verb",
@@ -114192,6 +114934,7 @@
       },
       {
         "forms" : [
+          "l'ottobre",
           "ottobre"
         ],
         "gender" : "masculine",
@@ -115913,6 +116656,7 @@
       },
       {
         "forms" : [
+          "ampliate",
           "ampliato"
         ],
         "note" : "Past participle of ampliare, to make larger (from ampio, wide): hanno ampliato le aree protette = they enlarged the protected areas.",
@@ -116088,7 +116832,8 @@
       },
       {
         "forms" : [
-          "lezione"
+          "lezione",
+          "lezioni"
         ],
         "gender" : "feminine",
         "note" : "What you learn from a class or from an experience: la sua lezione è semplice = its lesson is simple; the plural is lezioni.",
@@ -117216,6 +117961,215 @@
         "note" : "Il fumo passivo is the smoke of someone else's cigarette that the people nearby breathe in: second-hand smoke.",
         "pos" : "adjective",
         "translation" : "passive; second-hand (smoke)"
+      },
+      {
+        "forms" : [
+          "virginia"
+        ],
+        "gender" : "feminine",
+        "note" : "The given name of Virginia Woolf (1882–1941), the English writer who gave two talks in Cambridge in October 1928.",
+        "pos" : "noun",
+        "translation" : "Virginia"
+      },
+      {
+        "forms" : [
+          "woolf"
+        ],
+        "gender" : "feminine",
+        "note" : "Virginia Woolf, English novelist and essayist, author of A Room of One's Own (1929); Italian keeps the surname unchanged.",
+        "pos" : "noun",
+        "translation" : "Woolf"
+      },
+      {
+        "forms" : [
+          "newnham"
+        ],
+        "gender" : "masculine",
+        "note" : "Newnham College, founded in 1871, one of the two colleges for women in Cambridge in 1928; il college is masculine in Italian.",
+        "pos" : "noun",
+        "translation" : "Newnham"
+      },
+      {
+        "forms" : [
+          "girton"
+        ],
+        "gender" : "masculine",
+        "note" : "Girton College, founded in 1869, the other college for women in Cambridge where Woolf spoke in 1928.",
+        "pos" : "noun",
+        "translation" : "Girton"
+      },
+      {
+        "forms" : [
+          "1929"
+        ],
+        "note" : "The year A Room of One's Own came out; said millenovecentoventinove, and with the article: nel 1929 = in 1929.",
+        "pos" : "number",
+        "translation" : "1929"
+      },
+      {
+        "forms" : [
+          "1948"
+        ],
+        "note" : "The year Cambridge first gave women full degrees; prima del 1948 = before 1948, with di + il = del.",
+        "pos" : "number",
+        "translation" : "1948"
+      },
+      {
+        "forms" : [
+          "cinquecento"
+        ],
+        "note" : "Cinque + cento written as one word, like all Italian numbers: cinquecento sterline = five hundred pounds.",
+        "pos" : "number",
+        "translation" : "five hundred"
+      },
+      {
+        "forms" : [
+          "laurea"
+        ],
+        "gender" : "feminine",
+        "note" : "The degree you get at the end of university; prendere la laurea = to get one's degree.",
+        "pos" : "noun",
+        "translation" : "university degree"
+      },
+      {
+        "forms" : [
+          "discorsi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of discorso, a talk given to an audience; tenere un discorso = to give a talk.",
+        "pos" : "noun",
+        "translation" : "talks, speeches"
+      },
+      {
+        "forms" : [
+          "conferenze"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of conferenza, a talk given to an audience, not a meeting: tenere una conferenza = to give a talk.",
+        "pos" : "noun",
+        "translation" : "talks, lectures (public)"
+      },
+      {
+        "forms" : [
+          "serratura"
+        ],
+        "gender" : "feminine",
+        "note" : "The lock built into a door; you close it with a key: chiudere a chiave = to lock.",
+        "pos" : "noun",
+        "translation" : "lock"
+      },
+      {
+        "forms" : [
+          "sterline"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of sterlina, the British pound; the currency is feminine in Italian: cinquecento sterline.",
+        "pos" : "noun",
+        "translation" : "pounds (sterling)"
+      },
+      {
+        "forms" : [
+          "dell'università",
+          "l'università"
+        ],
+        "gender" : "feminine",
+        "note" : "Università is feminine and ends in a stressed -à, so it takes l' before the vowel and never changes in the plural; dell' = di + l'.",
+        "pos" : "noun",
+        "translation" : "the university / of the university"
+      },
+      {
+        "forms" : [
+          "centrale"
+        ],
+        "note" : "Adjectives in -e have one form for masculine and feminine: l'idea centrale, il punto centrale.",
+        "pos" : "adjective",
+        "translation" : "central"
+      },
+      {
+        "forms" : [
+          "narrativa"
+        ],
+        "gender" : "feminine",
+        "note" : "Novels and stories as a kind of writing, as opposed to essays or poetry: scrivere narrativa = to write fiction.",
+        "pos" : "noun",
+        "translation" : "fiction"
+      },
+      {
+        "forms" : [
+          "libertà"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine, with a stressed -à that never changes in the plural: la libertà di pensare = the freedom to think.",
+        "pos" : "noun",
+        "translation" : "freedom"
+      },
+      {
+        "forms" : [
+          "romanzieri"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of romanziere, a person who writes romanzi (novels); -iere becomes -ieri.",
+        "pos" : "noun",
+        "translation" : "novelists"
+      },
+      {
+        "forms" : [
+          "riflessione"
+        ],
+        "gender" : "feminine",
+        "note" : "Careful thinking about something; un lavoro che richiede riflessione = work that needs thought.",
+        "pos" : "noun",
+        "translation" : "reflection, thought"
+      },
+      {
+        "forms" : [
+          "ascoltatrici"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of ascoltatrice, the feminine of ascoltatore (from ascoltare, to listen); -trice becomes -trici.",
+        "pos" : "noun",
+        "translation" : "listeners (women)"
+      },
+      {
+        "forms" : [
+          "femminili"
+        ],
+        "note" : "Plural of femminile, one form for both genders: i college femminili = the women's colleges.",
+        "pos" : "adjective",
+        "translation" : "for women, female"
+      },
+      {
+        "forms" : [
+          "riviste"
+        ],
+        "note" : "Past participle of rivedere (to revise), feminine plural to agree with le conferenze; as a noun, riviste also means magazines.",
+        "pos" : "verb",
+        "translation" : "revised"
+      },
+      {
+        "forms" : [
+          "racchiusa"
+        ],
+        "note" : "Past participle of racchiudere (to enclose), feminine to agree with la tesi: è racchiusa = is contained, a passive.",
+        "pos" : "verb",
+        "translation" : "contained, summed up"
+      },
+      {
+        "forms" : [
+          "riflettere"
+        ],
+        "note" : "The infinitive after per for a purpose: il tempo per riflettere = the time to reflect.",
+        "pos" : "verb",
+        "translation" : "to reflect, to think carefully"
+      },
+      {
+        "forms" : [
+          "privilegio"
+        ],
+        "gender" : "masculine",
+        "note" : "An advantage only some people have; masculine, plural privilegi.",
+        "pos" : "noun",
+        "translation" : "privilege"
       }
     ],
     "spanish" : [
@@ -118042,7 +118996,8 @@
       },
       {
         "forms" : [
-          "clase"
+          "clase",
+          "clases"
         ],
         "gender" : "feminine",
         "note" : "A group of students, or the room.",
@@ -121263,6 +122218,7 @@
       {
         "forms" : [
           "significa",
+          "significaba",
           "significan",
           "significar"
         ],
@@ -127255,6 +128211,7 @@
       },
       {
         "forms" : [
+          "cifra",
           "cifras"
         ],
         "note" : "Plural of cifra.",
@@ -128447,6 +129404,7 @@
       {
         "forms" : [
           "estudia",
+          "estudiaban",
           "estudiar"
         ],
         "note" : "Infinitive.",
@@ -133409,7 +134367,9 @@
       },
       {
         "forms" : [
-          "interrumpe"
+          "interrumpa",
+          "interrumpe",
+          "interrumpir"
         ],
         "note" : "From \"interrumpir.\"",
         "pos" : "verb",
@@ -136685,6 +137645,7 @@
       {
         "forms" : [
           "convierten",
+          "convirtieron",
           "convirtió"
         ],
         "note" : "Present and preterite of convertir(se).",
@@ -137530,7 +138491,8 @@
       },
       {
         "forms" : [
-          "hombre"
+          "hombre",
+          "hombres"
         ],
         "gender" : "masculine",
         "note" : "Man.",
@@ -138479,7 +139441,8 @@
       },
       {
         "forms" : [
-          "rico"
+          "rico",
+          "ricos"
         ],
         "note" : "Wealthy.",
         "pos" : "adjective",
@@ -140122,6 +141085,7 @@
         "forms" : [
           "leen",
           "leer",
+          "leída",
           "leído"
         ],
         "note" : "«Ha leído» = has read.",
@@ -142354,6 +143318,7 @@
       },
       {
         "forms" : [
+          "concedería",
           "concedió"
         ],
         "note" : "Indefinido of conceder: \"le concedió un alto honor\" = awarded him a high honour.",
@@ -145953,7 +146918,7 @@
           "título"
         ],
         "gender" : "masculine",
-        "note" : "In sport, the title of champion: \"ganar el título\" = to win the championship; it is also the title of a book or a film.",
+        "note" : "In sport, the title of champion: \"ganar el título\" = to win the championship; it is also the title of a book or a film, and a university degree: \"un título completo\".",
         "pos" : "noun",
         "translation" : "title"
       },
@@ -146434,6 +147399,249 @@
         "note" : "Present subjunctive of durar, used because the clause describes any low mood of that kind: un ánimo que dure más de dos semanas.",
         "pos" : "verb",
         "translation" : "lasts (subjunctive)"
+      },
+      {
+        "forms" : [
+          "virginia"
+        ],
+        "note" : "First name of Virginia Woolf (1882–1941), the English writer of A Room of One's Own.",
+        "pos" : "noun",
+        "translation" : "Virginia"
+      },
+      {
+        "forms" : [
+          "woolf"
+        ],
+        "note" : "Surname of Virginia Woolf, the English novelist and essayist; pronounced like the English word \"wolf\".",
+        "pos" : "noun",
+        "translation" : "Woolf"
+      },
+      {
+        "forms" : [
+          "escritora"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine of escritor; after ser it takes no article: es escritora = she is a writer.",
+        "pos" : "noun",
+        "translation" : "writer (woman)"
+      },
+      {
+        "forms" : [
+          "charlas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of charla, an informal word for a talk or lecture; dar una charla = to give a talk.",
+        "pos" : "noun",
+        "translation" : "talks"
+      },
+      {
+        "forms" : [
+          "1929"
+        ],
+        "note" : "Read mil novecientos veintinueve; the year the talks became a book.",
+        "pos" : "number",
+        "translation" : "1929"
+      },
+      {
+        "forms" : [
+          "1948"
+        ],
+        "note" : "Read mil novecientos cuarenta y ocho; the year Cambridge first gave women full degrees.",
+        "pos" : "number",
+        "translation" : "1948"
+      },
+      {
+        "forms" : [
+          "cerradura"
+        ],
+        "gender" : "feminine",
+        "note" : "The lock built into a door, opened with a key; a padlock is a candado.",
+        "pos" : "noun",
+        "translation" : "lock"
+      },
+      {
+        "forms" : [
+          "newnham"
+        ],
+        "note" : "Newnham College, a college for women at the University of Cambridge, founded in 1871.",
+        "pos" : "noun",
+        "translation" : "Newnham"
+      },
+      {
+        "forms" : [
+          "girton"
+        ],
+        "note" : "Girton College, a college for women at the University of Cambridge, founded in 1869.",
+        "pos" : "noun",
+        "translation" : "Girton"
+      },
+      {
+        "forms" : [
+          "colegios"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of colegio; usually a school, but for Cambridge or Oxford it names the colleges that make up the university.",
+        "pos" : "noun",
+        "translation" : "colleges"
+      },
+      {
+        "forms" : [
+          "ficción"
+        ],
+        "gender" : "feminine",
+        "note" : "Stories that are invented, such as novels; escribir ficción = to write fiction.",
+        "pos" : "noun",
+        "translation" : "fiction"
+      },
+      {
+        "forms" : [
+          "quinientas"
+        ],
+        "note" : "Quinientos agrees with a feminine noun: quinientas libras, but quinientos años.",
+        "pos" : "number",
+        "translation" : "five hundred"
+      },
+      {
+        "forms" : [
+          "libras"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of libra, the British pound (money); also a unit of weight.",
+        "pos" : "noun",
+        "translation" : "pounds"
+      },
+      {
+        "forms" : [
+          "asistir"
+        ],
+        "note" : "Asistir a = to attend, to go to (a class, a meeting); it does not mean \"to assist\" here.",
+        "pos" : "verb",
+        "translation" : "to attend"
+      },
+      {
+        "forms" : [
+          "universidad"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns ending in -dad are feminine: la universidad.",
+        "pos" : "noun",
+        "translation" : "university"
+      },
+      {
+        "forms" : [
+          "darles"
+        ],
+        "note" : "Dar + les (to them): object pronouns are attached to the end of an infinitive.",
+        "pos" : "verb",
+        "translation" : "to give them"
+      },
+      {
+        "forms" : [
+          "central"
+        ],
+        "note" : "Same form for masculine and feminine: la idea central = the main idea.",
+        "pos" : "adjective",
+        "translation" : "central, main"
+      },
+      {
+        "forms" : [
+          "precisa"
+        ],
+        "note" : "Feminine of preciso, here describing Woolf: es precisa = she is precise.",
+        "pos" : "adjective",
+        "translation" : "precise, exact"
+      },
+      {
+        "forms" : [
+          "libertad"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns ending in -tad are feminine: la libertad de pensar = the freedom to think.",
+        "pos" : "noun",
+        "translation" : "freedom"
+      },
+      {
+        "forms" : [
+          "novelistas"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of novelista, a writer of novels; the same form for a man or a woman (el/la novelista).",
+        "pos" : "noun",
+        "translation" : "novelists"
+      },
+      {
+        "forms" : [
+          "oyentes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of oyente (from oír, to hear), the people listening to a talk; el/la oyente, one form for both.",
+        "pos" : "noun",
+        "translation" : "listeners, audience"
+      },
+      {
+        "forms" : [
+          "presentarse"
+        ],
+        "note" : "Reflexive; presentarse a un examen = to sit or take an exam.",
+        "pos" : "verb",
+        "translation" : "to sit (an exam), to present oneself"
+      },
+      {
+        "forms" : [
+          "revisadas"
+        ],
+        "note" : "Past participle of revisar used as an adjective, feminine plural to agree with las charlas.",
+        "pos" : "adjective",
+        "translation" : "revised"
+      },
+      {
+        "forms" : [
+          "ampliadas"
+        ],
+        "note" : "Past participle of ampliar used as an adjective, feminine plural to agree with las charlas.",
+        "pos" : "adjective",
+        "translation" : "expanded, enlarged"
+      },
+      {
+        "forms" : [
+          "condensa"
+        ],
+        "note" : "Condensar with se: se condensa en una frase = it is condensed into one sentence, a se form instead of the passive.",
+        "pos" : "verb",
+        "translation" : "is condensed"
+      },
+      {
+        "forms" : [
+          "reflexionar"
+        ],
+        "note" : "A more formal word than pensar; reflexionar sobre algo = to reflect on something.",
+        "pos" : "verb",
+        "translation" : "to reflect, to think deeply"
+      },
+      {
+        "forms" : [
+          "privilegio"
+        ],
+        "gender" : "masculine",
+        "note" : "Something only some people have; un privilegio de los ricos = a privilege of the rich.",
+        "pos" : "noun",
+        "translation" : "privilege"
+      },
+      {
+        "forms" : [
+          "intelectual"
+        ],
+        "note" : "Same form for masculine and feminine; trabajo intelectual = work done with the mind.",
+        "pos" : "adjective",
+        "translation" : "intellectual"
+      },
+      {
+        "forms" : [
+          "femeninos"
+        ],
+        "note" : "Plural of femenino; colegios femeninos = colleges for women.",
+        "pos" : "adjective",
+        "translation" : "for women, female"
       }
     ]
   },
@@ -168733,6 +169941,586 @@
       "summary" : "Nel 1974 la Svezia ha permesso ai padri di restare a casa con il neonato, e quasi nessuno lo ha fatto; nel 1995 ha messo da parte un mese per loro, e questo ha cambiato quello che fa un padre.",
       "title" : "Il mese del papà",
       "translationGroup" : "fathers-month"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-15",
+      "id" : "room-of-ones-own",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A1 tells a past story in the present simple. It makes the story near and easy: she goes, she speaks, the women study.",
+              "example" : "She speaks to women students there.",
+              "title" : "Present simple for a true story"
+            },
+            {
+              "body" : "\"Cannot\" says that something is not possible or not allowed. The verb after it has no -s and no \"to\".",
+              "example" : "The women study, but they cannot get a full degree.",
+              "title" : "Cannot + verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is October 1928. Virginia Woolf is a writer. She goes to Cambridge. She speaks to women students there.",
+            "The women study, but they cannot get a full degree. That changes only in 1948.",
+            "In 1929 her talks are a book. It says: a woman needs money and \"a room of her own\". Then she can write stories.",
+            "Money means time. A lock on the door means quiet. One free hour at the kitchen table counts too."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Could not\" (or \"couldn't\") says that something was not possible in the past. The verb after it stays plain.",
+              "example" : "These women studied at Cambridge, but they could not get a full degree.",
+              "title" : "Could not: the past of cannot"
+            },
+            {
+              "body" : "Many common verbs have their own past form: give → gave, speak → spoke, become → became, write → wrote.",
+              "example" : "A year later her talks became a book, A Room of One's Own.",
+              "title" : "Irregular past: gave, spoke, became"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 20 and 26 October 1928 the writer Virginia Woolf gave two talks in Cambridge. She spoke to the women students of Newnham and Girton colleges.",
+            "These women studied at Cambridge, but they could not get a full degree. That only changed in 1948.",
+            "A year later her talks became a book, A Room of One's Own. She wrote that a woman needs money and \"a room of her own\" to write fiction.",
+            "Later in the book she gave a price: five hundred pounds a year. She also wanted a lock on the door.",
+            "The money meant time to think. The lock meant quiet. One hour that nobody interrupts, even at the kitchen table, counts too."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Would not\" can say that someone refused to do something in the past: the university did not agree to give the degree.",
+              "example" : "They could attend lectures and take exams, but the university would not give them a full degree until 1948.",
+              "title" : "Would not for a past refusal"
+            },
+            {
+              "body" : "\"If she is to write\" means \"if she wants to be able to write\". It names the goal; the main clause says what is needed for it.",
+              "example" : "Its central idea fits in one line: \"a woman must have money and a room of her own if she is to write fiction.\"",
+              "title" : "If … is to: a condition for a goal"
+            },
+            {
+              "body" : "\"Even\" adds the least expected case: the hour counts, and it counts in a very ordinary place too.",
+              "example" : "Any work that needs thought needs some money and an hour nobody interrupts, even at the kitchen table.",
+              "title" : "Even for something surprising"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 20 and 26 October 1928 Virginia Woolf gave two talks to women students at Newnham and Girton, two colleges in Cambridge.",
+            "They could attend lectures and take exams, but the university would not give them a full degree until 1948.",
+            "A year later the talks became a short book, A Room of One's Own. Its central idea fits in one line: \"a woman must have money and a room of her own if she is to write fiction.\"",
+            "Later she is exact: five hundred pounds a year and a lock on the door. The money buys time to think, and the lock buys freedom to think for yourself.",
+            "It is not only for the rich or for novelists. Any work that needs thought needs some money and an hour nobody interrupts, even at the kitchen table."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle at the start of a sentence can stand for a whole clause: \"Revised and expanded\" = \"after they had been revised and expanded\". Its subject is the subject of the main clause.",
+              "example" : "Revised and expanded, the talks became A Room of One's Own in 1929.",
+              "title" : "Participle clause: revised and expanded"
+            },
+            {
+              "body" : "\"Yet\" joins two facts that do not seem to fit together; it is a little more formal and stronger than \"but\".",
+              "example" : "Her listeners could attend lectures and take the same exams as the men, yet Cambridge would not grant them a full degree until 1948.",
+              "title" : "Yet for a strong contrast"
+            },
+            {
+              "body" : "\"Neither A nor B\" says that both A and B are not true. The verb stays positive: \"is neither\", not \"is not neither\".",
+              "example" : "Read today, the line is neither a privilege for the rich nor advice for novelists alone.",
+              "title" : "Neither … nor"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 20 and 26 October 1928 Virginia Woolf gave two talks to the women students of Newnham and Girton, the university's colleges for women.",
+            "Her listeners could attend lectures and take the same exams as the men, yet Cambridge would not grant them a full degree until 1948.",
+            "Revised and expanded, the talks became A Room of One's Own in 1929. Its argument is compressed into one sentence: \"a woman must have money and a room of her own if she is to write fiction.\"",
+            "Later she is precise: five hundred pounds a year and a lock on the door. The money buys time to reflect; the lock, the freedom to think for oneself.",
+            "Read today, the line is neither a privilege for the rich nor advice for novelists alone. Work that needs thought needs enough money not to be afraid and an hour no one can interrupt, even at six in the morning at the kitchen table."
+          ]
+        }
+      ],
+      "summary" : "In October 1928 Virginia Woolf told the women students of Cambridge what a writer needs, and her answer still fits in one line.",
+      "title" : "A Room of One's Own",
+      "translationGroup" : "room-of-ones-own"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-15",
+      "id" : "room-of-ones-own-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A1 tells the story of 1928 in the present: elle va, elle parle, elles étudient. To give the date, French says \"nous sommes en octobre 1928\" (it is October 1928).",
+              "example" : "Elle va à Cambridge.",
+              "title" : "The present tense for a true story"
+            },
+            {
+              "body" : "Ne goes before the verb and pas after it: elles ne peuvent pas. After a negative, un or une becomes de: avoir un diplôme → ne pas avoir de diplôme.",
+              "example" : "Elles étudient, mais elles ne peuvent pas avoir de diplôme complet.",
+              "title" : "Ne … pas de after a negative"
+            },
+            {
+              "body" : "French often names the topic, adds a comma and takes it up with c'est: l'argent, c'est le temps = money is time. The same pattern gives une serrure à la porte, c'est le calme.",
+              "example" : "L'argent, c'est le temps.",
+              "title" : "Topic first, then c'est"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nous sommes en octobre 1928. Virginia Woolf est écrivaine. Elle va à Cambridge. Elle parle à des étudiantes.",
+            "Elles étudient, mais elles ne peuvent pas avoir de diplôme complet. Cela change seulement en 1948.",
+            "En 1929, ses conférences deviennent un livre. Le livre explique : une femme a besoin d'argent. Et elle doit avoir « une chambre à soi ». Alors, elle peut écrire des histoires.",
+            "L'argent, c'est le temps. Une serrure à la porte, c'est le calme. Une heure libre à la table de la cuisine compte aussi."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + past participle: elle a donné, elle a parlé. Verbs in -er make their participle in -é.",
+              "example" : "Les 20 et 26 octobre 1928, l'écrivaine Virginia Woolf a donné deux conférences à Cambridge.",
+              "title" : "Passé composé with avoir"
+            },
+            {
+              "body" : "A few verbs of change or movement form the passé composé with être: elles sont devenues. With être the participle agrees with the subject, here feminine plural (-ues).",
+              "example" : "Un an plus tard, ses conférences sont devenues un livre, Une chambre à soi.",
+              "title" : "Devenir takes être, and the participle agrees"
+            },
+            {
+              "body" : "C'était (it was) is the imparfait of c'est; it describes what something meant or was like, not a single event: la serrure, c'était le calme.",
+              "example" : "La serrure, c'était le calme.",
+              "title" : "C'était: the background of the past"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Les 20 et 26 octobre 1928, l'écrivaine Virginia Woolf a donné deux conférences à Cambridge. Elle a parlé aux étudiantes des collèges de Newnham et de Girton.",
+            "Ces femmes ont étudié à Cambridge, mais elles n'ont pas pu obtenir de diplôme complet. Cela a changé seulement en 1948.",
+            "Un an plus tard, ses conférences sont devenues un livre, Une chambre à soi. Selon elle, une femme a besoin d'argent pour écrire de la fiction. Il lui faut aussi « une chambre à soi ».",
+            "Plus loin dans le livre, elle a donné un prix : cinq cents livres sterling par an. Elle a aussi demandé une serrure à la porte.",
+            "L'argent, c'était du temps pour penser. La serrure, c'était le calme. Une heure où personne ne vous dérange compte aussi, même à la table de la cuisine."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Ne before the verb and que before the word it limits mean \"only\": ne … qu'en 1948 = only in 1948, not before. It says the same as seulement, but feels more natural in writing.",
+              "example" : "Elles pouvaient suivre des cours et passer des examens, mais l'université ne leur a donné un diplôme complet qu'en 1948.",
+              "title" : "Ne … que: only"
+            },
+            {
+              "body" : "Pour + infinitive names the goal that the rest of the sentence makes possible: pour pouvoir écrire = in order to be able to write. Both verbs share one subject, so no que is needed.",
+              "example" : "Son idée centrale tient en une ligne : « une femme doit avoir de l'argent et une chambre à soi pour pouvoir écrire de la fiction ».",
+              "title" : "Pour + infinitive: the goal"
+            },
+            {
+              "body" : "After a noun of time (une heure, le jour, le moment), French uses où as the relative word, not quand: une heure où personne ne vous dérange = an hour when nobody disturbs you.",
+              "example" : "Tout travail de réflexion demande un peu d'argent et une heure où personne ne vous dérange, même à la table de la cuisine.",
+              "title" : "Où after a time word"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Les 20 et 26 octobre 1928, Virginia Woolf a donné deux conférences à des étudiantes de Newnham et de Girton, deux collèges de Cambridge.",
+            "Elles pouvaient suivre des cours et passer des examens, mais l'université ne leur a donné un diplôme complet qu'en 1948.",
+            "Un an plus tard, les conférences sont devenues un court livre, Une chambre à soi. Son idée centrale tient en une ligne : « une femme doit avoir de l'argent et une chambre à soi pour pouvoir écrire de la fiction ».",
+            "Plus loin, elle est précise : cinq cents livres sterling par an et une serrure à la porte. L'argent achète du temps pour penser, et la serrure, la liberté de penser par soi-même.",
+            "Cette idée ne concerne pas seulement les riches ou les romanciers. Tout travail de réflexion demande un peu d'argent et une heure où personne ne vous dérange, même à la table de la cuisine."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle at the head of a sentence stands for a whole clause and agrees with the subject: remaniées et augmentées (feminine plural, like les conférences). Devinrent is the passé simple of devenir, the tense of written narration.",
+              "example" : "Remaniées et augmentées, les conférences devinrent Une chambre à soi en 1929.",
+              "title" : "Participle clause, and the passé simple"
+            },
+            {
+              "body" : "Seen from 1928, 1948 still lies ahead, so French uses the conditional (accorderait) for that later event: it would grant them a degree only in 1948.",
+              "example" : "Cambridge, pourtant, ne leur accorderait un diplôme complet qu'en 1948.",
+              "title" : "The conditional as a future in the past"
+            },
+            {
+              "body" : "Ne goes before the verb and ni before each of the two parts; pas disappears: la phrase n'est ni un privilège ni un conseil. Lue agrees with la phrase.",
+              "example" : "Lue aujourd'hui, la phrase n'est ni un privilège de riches ni un conseil réservé aux seuls romanciers.",
+              "title" : "Ne … ni … ni: neither … nor"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Les 20 et 26 octobre 1928, Virginia Woolf prononça deux conférences devant les étudiantes de Newnham et de Girton, les collèges féminins de l'université.",
+            "Ses auditrices pouvaient suivre les cours et passer les mêmes examens que les hommes. Cambridge, pourtant, ne leur accorderait un diplôme complet qu'en 1948.",
+            "Remaniées et augmentées, les conférences devinrent Une chambre à soi en 1929. L'argument tient en une phrase : « une femme doit avoir de l'argent et une chambre à soi pour pouvoir écrire de la fiction ».",
+            "Plus loin, elle se fait précise : cinq cents livres sterling par an et une serrure à la porte. L'argent achète le temps de réfléchir ; la serrure, la liberté de penser par soi-même.",
+            "Lue aujourd'hui, la phrase n'est ni un privilège de riches ni un conseil réservé aux seuls romanciers. Tout travail de réflexion exige assez d'argent pour ne pas avoir peur. Il exige aussi une heure que nul ne peut interrompre, fût-ce à six heures du matin, à la table de la cuisine."
+          ]
+        }
+      ],
+      "summary" : "En octobre 1928, Virginia Woolf a dit aux étudiantes de Cambridge ce dont une écrivaine a besoin, et sa réponse tient encore en une ligne.",
+      "title" : "Une chambre à soi",
+      "translationGroup" : "room-of-ones-own"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-15",
+      "id" : "room-of-ones-own-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German says what someone is without an article: \"Sie ist Schriftstellerin\", not \"eine Schriftstellerin\". The -in ending makes the job word feminine.",
+              "example" : "Virginia Woolf ist Schriftstellerin.",
+              "title" : "No article before a profession"
+            },
+            {
+              "body" : "In a main clause the verb is always the second element. When a word like \"dort\" (there) comes first, the subject moves behind the verb: Sie spricht dort → Dort spricht sie.",
+              "example" : "Dort spricht sie mit Studentinnen.",
+              "title" : "Verb second: Dort spricht sie"
+            },
+            {
+              "body" : "The modal verb können stands in second place and sends the other verb, as an infinitive, to the end of the sentence: können … bekommen. \"Keinen\" is the negative of \"einen\".",
+              "example" : "Die Frauen studieren, aber sie können keinen vollen Abschluss bekommen.",
+              "title" : "Können + infinitive at the end"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist Oktober 1928. Virginia Woolf ist Schriftstellerin. Sie fährt nach Cambridge. Dort spricht sie mit Studentinnen.",
+            "Die Frauen studieren, aber sie können keinen vollen Abschluss bekommen. Das ändert sich erst 1948.",
+            "1929 macht sie aus ihren Vorträgen ein Buch. Es sagt: Eine Frau braucht Geld und „ein Zimmer für sich allein“. Dann kann sie Geschichten schreiben.",
+            "Geld bedeutet Zeit. Ein Türschloss bedeutet Ruhe. Eine freie Stunde am Küchentisch zählt auch."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is a form of haben in second place and the Partizip II at the end. Two participles can share one \"haben\": haben … studiert, aber … bekommen.",
+              "example" : "Diese Frauen haben in Cambridge studiert, aber keinen vollen Abschluss bekommen.",
+              "title" : "Perfekt with haben: one helper, two participles"
+            },
+            {
+              "body" : "Verbs of change, like werden (to become), build the Perfekt with sein, not haben: die Vorträge sind ein Buch geworden.",
+              "example" : "Ein Jahr später sind die Vorträge ein Buch geworden: Ein Zimmer für sich allein.",
+              "title" : "Werden takes sein in the Perfekt"
+            },
+            {
+              "body" : "Sich ändern (to change) keeps its \"sich\" in the past: it stands right after the helper \"hat\", and the participle goes to the end.",
+              "example" : "Das hat sich erst 1948 geändert.",
+              "title" : "Reflexive verbs in the Perfekt: hat sich … geändert"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am 20. und 26. Oktober 1928 hat die Schriftstellerin Virginia Woolf in Cambridge zwei Vorträge gehalten. Sie hat vor den Studentinnen der Colleges Newnham und Girton gesprochen.",
+            "Diese Frauen haben in Cambridge studiert, aber keinen vollen Abschluss bekommen. Das hat sich erst 1948 geändert.",
+            "Ein Jahr später sind die Vorträge ein Buch geworden: Ein Zimmer für sich allein. Sie hat geschrieben: Eine Frau braucht Geld und „ein Zimmer für sich allein“. Dann kann sie Romane schreiben.",
+            "Später im Buch hat sie einen Preis genannt: fünfhundert Pfund im Jahr. Außerdem hat sie sich ein Türschloss gewünscht.",
+            "Das Geld hat Zeit zum Denken bedeutet, das Türschloss Ruhe. Eine Stunde ohne Störung zählt auch, sogar am Küchentisch."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Erst 1948\" means \"not until 1948\": the thing happened, but later than expected. Here the object comes first for emphasis, so the verb \"gab\" still stands in second place of its clause.",
+              "example" : "Sie durften Vorlesungen besuchen und Prüfungen ablegen, doch einen vollen Abschluss gab ihnen die Universität erst 1948.",
+              "title" : "Erst + a date: not until"
+            },
+            {
+              "body" : "\"Wenn sie … schreiben soll\" renders \"if she is to write\": sollen names what has to happen, and in the wenn-clause the conjugated verb goes to the very end.",
+              "example" : "Seine Kernidee passt in eine Zeile: „eine Frau muss Geld und ein Zimmer für sich allein haben, wenn sie Romane und Erzählungen schreiben soll.“",
+              "title" : "Wenn … soll: a condition for a goal"
+            },
+            {
+              "body" : "A relative pronoun takes the gender of its noun (die Arbeit → die, die Stunde → der after the dative preposition in) and sends the verb to the end: die Nachdenken braucht, in der niemand stört.",
+              "example" : "Jede Arbeit, die Nachdenken braucht, braucht etwas Geld und eine Stunde, in der niemand stört, sogar am Küchentisch.",
+              "title" : "Relative clauses: die … and in der …"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am 20. und 26. Oktober 1928 hielt Virginia Woolf zwei Vorträge vor Studentinnen von Newnham und Girton, zwei Colleges in Cambridge.",
+            "Sie durften Vorlesungen besuchen und Prüfungen ablegen, doch einen vollen Abschluss gab ihnen die Universität erst 1948.",
+            "Ein Jahr später wurden die Vorträge zu einem kurzen Buch, Ein Zimmer für sich allein. Seine Kernidee passt in eine Zeile: „eine Frau muss Geld und ein Zimmer für sich allein haben, wenn sie Romane und Erzählungen schreiben soll.“",
+            "Später wird sie konkret: fünfhundert Pfund im Jahr und ein Türschloss. Das Geld gibt Zeit zum Nachdenken, das Türschloss die Freiheit, selbst zu denken.",
+            "Das gilt nicht nur für Reiche oder für Romanautoren. Jede Arbeit, die Nachdenken braucht, braucht etwas Geld und eine Stunde, in der niemand stört, sogar am Küchentisch."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Two past participles at the head of the sentence stand for a whole clause (\"after they had been revised and expanded\"). They fill the first position, so the verb \"wurden\" follows at once.",
+              "example" : "Überarbeitet und erweitert, wurden die Vorträge 1929 zum Buch Ein Zimmer für sich allein.",
+              "title" : "Participle clause: Überarbeitet und erweitert"
+            },
+            {
+              "body" : "Sein + Partizip II describes a state that results from an action: \"ist verdichtet\" = is (already) compressed. The process passive would use werden: wird verdichtet.",
+              "example" : "Sein Argument ist in einem einzigen Satz verdichtet: „eine Frau muss Geld und ein Zimmer für sich allein haben, wenn sie Romane und Erzählungen schreiben soll.“",
+              "title" : "Zustandspassiv: ist … verdichtet"
+            },
+            {
+              "body" : "\"Weder A noch B\" denies both parts at once, so no \"nicht\" or \"kein\" is added: ist weder ein Privileg noch ein Rat.",
+              "example" : "Heute gelesen, ist der Satz weder ein Privileg der Reichen noch ein Rat allein für Romanautoren.",
+              "title" : "Weder … noch: neither … nor"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am 20. und 26. Oktober 1928 hielt Virginia Woolf zwei Vorträge vor den Studentinnen von Newnham und Girton, den Frauencolleges der Universität.",
+            "Ihre Zuhörerinnen durften Vorlesungen besuchen und dieselben Prüfungen ablegen wie die Männer, und doch verlieh Cambridge ihnen erst 1948 einen vollen Abschluss.",
+            "Überarbeitet und erweitert, wurden die Vorträge 1929 zum Buch Ein Zimmer für sich allein. Sein Argument ist in einem einzigen Satz verdichtet: „eine Frau muss Geld und ein Zimmer für sich allein haben, wenn sie Romane und Erzählungen schreiben soll.“",
+            "Später wird sie präzise: fünfhundert Pfund im Jahr und ein Türschloss. Das Geld verschafft Zeit zum Nachdenken, das Türschloss die Freiheit, selbst zu denken.",
+            "Heute gelesen, ist der Satz weder ein Privileg der Reichen noch ein Rat allein für Romanautoren. Arbeit, die Denken verlangt, braucht genug Geld, um keine Angst zu haben, und eine Stunde, die niemand unterbrechen kann, selbst um sechs Uhr morgens am Küchentisch."
+          ]
+        }
+      ],
+      "summary" : "Im Oktober 1928 sagte Virginia Woolf den Studentinnen in Cambridge, was man zum Schreiben braucht, und ihre Antwort passt bis heute in eine Zeile.",
+      "title" : "Ein Zimmer für sich allein",
+      "translationGroup" : "room-of-ones-own"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-15",
+      "id" : "room-of-ones-own-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To say what someone is, Spanish uses ser + the noun with no article: es escritora, not es una escritora. The article comes back only when an adjective is added (es una gran escritora).",
+              "example" : "Virginia Woolf es escritora.",
+              "title" : "No article before a profession"
+            },
+            {
+              "body" : "A1 tells the story in the present, as if it happens now: va, habla, estudian. The ending shows the person, so no subject pronoun is needed (habla = she speaks).",
+              "example" : "Allí habla a mujeres estudiantes.",
+              "title" : "The present tense for a true story"
+            },
+            {
+              "body" : "Poder + infinitive says what is possible or allowed; the negative is just \"no\" before the verb: no pueden tener = they cannot get.",
+              "example" : "Las mujeres estudian, pero no pueden tener un título completo.",
+              "title" : "No pueden + infinitive"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en octubre de 1928. Virginia Woolf es escritora. Va a Cambridge. Allí habla a mujeres estudiantes.",
+            "Las mujeres estudian, pero no pueden tener un título completo. Eso cambia solo en 1948.",
+            "En 1929 sus charlas son un libro. El libro dice: una mujer necesita dinero y «una habitación propia». Entonces puede escribir historias.",
+            "El dinero significa tiempo. Una cerradura en la puerta significa silencio. Una hora libre en la mesa de la cocina también vale."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A finished action in the past takes the indefinido: -ar verbs end in -ó for he/she (habló, cambió), -ir verbs in -ió (pidió), and dar is irregular (dio).",
+              "example" : "Habló a las estudiantes de los colegios Newnham y Girton.",
+              "title" : "Pretérito indefinido: dio, habló, cambió"
+            },
+            {
+              "body" : "For a situation that lasted, not a single event, Spanish uses the imperfect: -ar verbs take -aba (estudiaban), -er and -ir verbs take -ía (podían).",
+              "example" : "Estas mujeres estudiaban en Cambridge, pero no podían tener un título completo.",
+              "title" : "Estudiaban, podían: the imperfect as background"
+            },
+            {
+              "body" : "When one thing turns into another, Spanish uses the reflexive convertirse followed by en: se convirtieron en un libro = they became a book.",
+              "example" : "Un año después, sus charlas se convirtieron en un libro, Una habitación propia.",
+              "title" : "Convertirse en: to become"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 20 y el 26 de octubre de 1928, la escritora Virginia Woolf dio dos charlas en Cambridge. Habló a las estudiantes de los colegios Newnham y Girton.",
+            "Estas mujeres estudiaban en Cambridge, pero no podían tener un título completo. Eso solo cambió en 1948.",
+            "Un año después, sus charlas se convirtieron en un libro, Una habitación propia. Según el libro, una mujer necesita dinero y «una habitación propia» para escribir ficción.",
+            "Más adelante, en el mismo libro, dio una cifra: quinientas libras al año. También pidió una cerradura en la puerta.",
+            "El dinero significaba tiempo para pensar. La cerradura significaba silencio. Una hora que nadie interrumpe, incluso en la mesa de la cocina, también vale."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Querer in the indefinido with \"no\" means \"refused\": no quiso darles = it would not give them. The pronoun les is attached to the infinitive.",
+              "example" : "Podían asistir a las clases y hacer los exámenes, pero la universidad no quiso darles un título completo hasta 1948.",
+              "title" : "No quiso: a refusal in the past"
+            },
+            {
+              "body" : "A real condition takes si + the present indicative, never the present subjunctive: si quiere escribir = if she wants to write. Deber + infinitive in the main clause says what is necessary.",
+              "example" : "Su idea central cabe en una línea: «una mujer debe tener dinero y una habitación propia si quiere escribir ficción».",
+              "title" : "Si + present: the condition for a goal"
+            },
+            {
+              "body" : "A relative clause about something wished for or not yet found takes the subjunctive: una hora que nadie interrumpa = an hour (of the kind) nobody interrupts.",
+              "example" : "Todo trabajo que exige pensar necesita algo de dinero y una hora que nadie interrumpa, incluso en la mesa de la cocina.",
+              "title" : "Que nadie interrumpa: subjunctive after nadie"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 20 y el 26 de octubre de 1928, Virginia Woolf dio dos charlas a las estudiantes de Newnham y Girton, dos colegios de Cambridge.",
+            "Podían asistir a las clases y hacer los exámenes, pero la universidad no quiso darles un título completo hasta 1948.",
+            "Un año después, las charlas se convirtieron en un libro breve, Una habitación propia. Su idea central cabe en una línea: «una mujer debe tener dinero y una habitación propia si quiere escribir ficción».",
+            "Más adelante es precisa: quinientas libras al año y una cerradura en la puerta. El dinero compra tiempo para pensar, y la cerradura compra libertad para pensar por uno mismo.",
+            "No es solo para los ricos ni para los novelistas. Todo trabajo que exige pensar necesita algo de dinero y una hora que nadie interrumpa, incluso en la mesa de la cocina."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle can stand for a whole clause (= once they had been revised and expanded), and it agrees with the noun it describes: las charlas → revisadas, ampliadas.",
+              "example" : "En 1929, revisadas y ampliadas, las charlas se convirtieron en Una habitación propia.",
+              "title" : "Participles that agree: revisadas y ampliadas"
+            },
+            {
+              "body" : "Looking ahead from a past moment, Spanish uses the conditional: no les concedería un título hasta 1948 = it would not grant them a degree until 1948, which is what then happened.",
+              "example" : "Sus oyentes podían asistir a clase y presentarse a los mismos exámenes que los hombres; sin embargo, Cambridge no les concedería un título completo hasta 1948.",
+              "title" : "Concedería: the conditional as future in the past"
+            },
+            {
+              "body" : "Spanish keeps \"no\" before the verb and puts \"ni\" before each item: no es ni A ni B. The double negative is correct, not a mistake.",
+              "example" : "Leída hoy, la frase no es ni un privilegio de los ricos ni un consejo solo para novelistas.",
+              "title" : "No es ni … ni: neither … nor"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 20 y el 26 de octubre de 1928, Virginia Woolf dio dos charlas a las estudiantes de Newnham y Girton, los colegios femeninos de la universidad.",
+            "Sus oyentes podían asistir a clase y presentarse a los mismos exámenes que los hombres; sin embargo, Cambridge no les concedería un título completo hasta 1948.",
+            "En 1929, revisadas y ampliadas, las charlas se convirtieron en Una habitación propia. Su argumento se condensa en una sola frase: «una mujer debe tener dinero y una habitación propia si quiere escribir ficción».",
+            "Más adelante se muestra precisa: quinientas libras al año y una cerradura en la puerta. El dinero compra tiempo para reflexionar; la cerradura, la libertad de pensar por uno mismo.",
+            "Leída hoy, la frase no es ni un privilegio de los ricos ni un consejo solo para novelistas. Todo trabajo intelectual exige dinero suficiente para no temer y una hora que nadie pueda interrumpir, incluso a las seis de la mañana en la mesa de la cocina."
+          ]
+        }
+      ],
+      "summary" : "En octubre de 1928 Virginia Woolf explicó a las estudiantes de Cambridge lo que necesita quien escribe, y su respuesta todavía cabe en una línea.",
+      "title" : "Una habitación propia",
+      "translationGroup" : "room-of-ones-own"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-15",
+      "id" : "room-of-ones-own-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A1 tells a past story in the present tense, and the subject pronoun is usually left out: va = she goes, parla = she speaks.",
+              "example" : "Va a Cambridge.",
+              "title" : "Present tense for a story in the past"
+            },
+            {
+              "body" : "\"Non\" goes before the verb, and potere is followed directly by an infinitive with no preposition: non possono prendere = they cannot get.",
+              "example" : "Le donne studiano, ma non possono prendere una laurea completa.",
+              "title" : "Non possono + infinitive"
+            },
+            {
+              "body" : "Italian says \"to need\" with avere bisogno di (literally \"to have need of\"); the thing needed comes after di: ha bisogno di soldi.",
+              "example" : "Il libro dice: una donna ha bisogno di soldi.",
+              "title" : "Avere bisogno di for \"to need\""
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È l'ottobre del 1928. Virginia Woolf è una scrittrice. Va a Cambridge. Lì parla alle studentesse.",
+            "Le donne studiano, ma non possono prendere una laurea completa. Questo cambia solo nel 1948.",
+            "Nel 1929 i suoi discorsi diventano un libro. Il libro dice: una donna ha bisogno di soldi. Ha bisogno anche di «una stanza tutta per sé». Così può scrivere storie.",
+            "I soldi significano tempo. Una serratura alla porta significa calma. Conta anche un'ora libera al tavolo della cucina."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past of most verbs is the present of avere + the past participle: ha parlato = she spoke. Some participles are irregular: tenere → tenuto, scrivere → scritto.",
+              "example" : "Ha parlato alle studentesse dei college di Newnham e di Girton.",
+              "title" : "Passato prossimo with avere"
+            },
+            {
+              "body" : "Verbs of change such as diventare take essere, and then the participle agrees with the subject like an adjective: i discorsi sono diventati.",
+              "example" : "Un anno dopo i discorsi sono diventati un libro, Una stanza tutta per sé.",
+              "title" : "Passato prossimo with essere: agreement"
+            },
+            {
+              "body" : "The passato prossimo of potere says what was not possible on a given occasion; the infinitive follows directly: non hanno potuto prendere = they could not get.",
+              "example" : "Queste donne hanno studiato a Cambridge, ma non hanno potuto prendere una laurea completa.",
+              "title" : "Non hanno potuto + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il 20 e il 26 ottobre 1928 la scrittrice Virginia Woolf ha tenuto due discorsi a Cambridge. Ha parlato alle studentesse dei college di Newnham e di Girton.",
+            "Queste donne hanno studiato a Cambridge, ma non hanno potuto prendere una laurea completa. Questo è cambiato solo nel 1948.",
+            "Un anno dopo i discorsi sono diventati un libro, Una stanza tutta per sé. Ha scritto che una donna ha bisogno di soldi per scrivere romanzi. Ha bisogno anche di «una stanza tutta per sé».",
+            "Più avanti nel libro ha dato una cifra: cinquecento sterline all'anno. Ha parlato anche di una serratura alla porta.",
+            "I soldi vogliono dire tempo per pensare. La serratura vuol dire calma. Conta anche un'ora che nessuno interrompe, perfino al tavolo della cucina."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto (potevano) describes the lasting situation, what the women could normally do; the passato prossimo (non ha voluto) reports the university's refusal as a fact.",
+              "example" : "Potevano seguire le lezioni e sostenere gli esami, ma l'università non ha voluto dare loro una laurea completa prima del 1948.",
+              "title" : "Imperfetto and passato prossimo side by side"
+            },
+            {
+              "body" : "\"Se\" with the present indicative states a real condition: se intende scrivere = if she means to write. The main clause says what is needed for that goal.",
+              "example" : "L'idea centrale sta in una riga: «una donna deve avere del denaro e una stanza tutta per sé, se intende scrivere narrativa».",
+              "title" : "Se + present for a condition"
+            },
+            {
+              "body" : "\"Che\" links a noun to a clause that describes it, as subject or as object, and never changes: un lavoro che richiede = a job that needs, un'ora che nessuno interrompe = an hour nobody interrupts.",
+              "example" : "Ogni lavoro che richiede riflessione ha bisogno di un po' di denaro e di un'ora che nessuno interrompe, anche al tavolo della cucina.",
+              "title" : "Che as a relative pronoun"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il 20 e il 26 ottobre 1928 Virginia Woolf ha tenuto due conferenze per le studentesse di Newnham e Girton, due college di Cambridge.",
+            "Potevano seguire le lezioni e sostenere gli esami, ma l'università non ha voluto dare loro una laurea completa prima del 1948.",
+            "Un anno dopo le conferenze sono diventate un breve libro, Una stanza tutta per sé. L'idea centrale sta in una riga: «una donna deve avere del denaro e una stanza tutta per sé, se intende scrivere narrativa».",
+            "Più avanti è precisa: cinquecento sterline all'anno e una serratura alla porta. Il denaro compra tempo per pensare, e la serratura compra la libertà di pensare con la propria testa.",
+            "Non vale solo per i ricchi o per i romanzieri. Ogni lavoro che richiede riflessione ha bisogno di un po' di denaro e di un'ora che nessuno interrompe, anche al tavolo della cucina."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A past participle at the head of a sentence can replace a whole clause (Riviste e ampliate = after they had been revised and expanded); it agrees with the subject, here le conferenze, feminine plural.",
+              "example" : "Riviste e ampliate, le conferenze divennero Una stanza tutta per sé nel 1929.",
+              "title" : "Participle clause with agreement"
+            },
+            {
+              "body" : "Looking forward from a past moment, Italian uses the conditional perfect, not the simple conditional: non avrebbe concesso = would not grant (as it turned out, until 1948).",
+              "example" : "Le sue ascoltatrici potevano seguire le lezioni e sostenere gli stessi esami degli uomini, eppure Cambridge non avrebbe concesso loro una laurea completa prima del 1948.",
+              "title" : "Conditional perfect for the future in the past"
+            },
+            {
+              "body" : "A relative clause that describes something wished for rather than a known fact takes the subjunctive, especially after a negative like nessuno: un'ora che nessuno possa interrompere.",
+              "example" : "Il lavoro che chiede riflessione esige abbastanza denaro per non avere paura e un'ora che nessuno possa interrompere, anche alle sei del mattino al tavolo della cucina.",
+              "title" : "Subjunctive after nessuno in a relative clause"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il 20 e il 26 ottobre 1928 Virginia Woolf tenne due conferenze alle studentesse di Newnham e di Girton, i college femminili dell'università.",
+            "Le sue ascoltatrici potevano seguire le lezioni e sostenere gli stessi esami degli uomini, eppure Cambridge non avrebbe concesso loro una laurea completa prima del 1948.",
+            "Riviste e ampliate, le conferenze divennero Una stanza tutta per sé nel 1929. La sua tesi è racchiusa in una sola frase: «una donna deve avere del denaro e una stanza tutta per sé, se intende scrivere narrativa».",
+            "Più avanti si fa precisa: cinquecento sterline all'anno e una serratura alla porta. Il denaro compra il tempo per riflettere; la serratura, la libertà di pensare con la propria testa.",
+            "Letta oggi, la frase non è né un privilegio per i ricchi né un consiglio per i soli romanzieri. Il lavoro che chiede riflessione esige abbastanza denaro per non avere paura e un'ora che nessuno possa interrompere, anche alle sei del mattino al tavolo della cucina."
+          ]
+        }
+      ],
+      "summary" : "Nell'ottobre del 1928 Virginia Woolf disse alle studentesse di Cambridge di che cosa ha bisogno chi scrive, e la sua risposta sta ancora in una riga.",
+      "title" : "Una stanza tutta per sé",
+      "translationGroup" : "room-of-ones-own"
     }
   ]
 }
