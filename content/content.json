@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 14,
-  "generatedAt" : "2026-10-15",
+  "contentVersion" : 15,
+  "generatedAt" : "2026-10-16",
   "glossary" : {
     "english" : [
       {
@@ -2609,7 +2609,7 @@
           "free",
           "freely"
         ],
-        "note" : "\"Freely\" is the adverb form.",
+        "note" : "\"Freely\" is the adverb form; \"a free country\" = not ruled by another country.",
         "pos" : "adjective",
         "translation" : "without cost or restriction"
       },
@@ -4417,7 +4417,7 @@
         "forms" : [
           "once"
         ],
-        "note" : "As in \"once you believe in yourself.\"",
+        "note" : "As in \"once you believe in yourself\"; \"at once\" = immediately.",
         "pos" : "adverb",
         "translation" : "one time; as soon as"
       },
@@ -4555,7 +4555,8 @@
       },
       {
         "forms" : [
-          "owner"
+          "owner",
+          "owners"
         ],
         "note" : "As in \"the wallet's owner.\"",
         "pos" : "noun",
@@ -4869,7 +4870,8 @@
       },
       {
         "forms" : [
-          "prepare"
+          "prepare",
+          "prepared"
         ],
         "note" : "As in \"prepare the same soup.\"",
         "pos" : "verb",
@@ -10132,7 +10134,7 @@
           "lives",
           "living"
         ],
-        "note" : "\"Living\" is the -ing form.",
+        "note" : "\"Living\" is the -ing form; as an adjective, \"living heritage\" = traditions people still keep alive.",
         "pos" : "verb",
         "translation" : "is alive; being alive"
       },
@@ -11092,7 +11094,7 @@
         "forms" : [
           "round"
         ],
-        "note" : "\"By the fourth round\" = the fourth time through the pattern.",
+        "note" : "\"By the fourth round\" = the fourth time through the pattern; \"the other way round\" = the opposite way.",
         "pos" : "noun",
         "translation" : "a single repetition of a cycle"
       },
@@ -12403,6 +12405,7 @@
       {
         "forms" : [
           "believe",
+          "believed",
           "believes"
         ],
         "note" : "As in \"if you can believe it.\"",
@@ -15362,7 +15365,7 @@
         "forms" : [
           "2021"
         ],
-        "note" : "The year of the skin-to-skin study.",
+        "note" : "A year; said \"twenty twenty-one\".",
         "pos" : "number",
         "translation" : "2021"
       },
@@ -16219,7 +16222,7 @@
         "forms" : [
           "ending"
         ],
-        "note" : "As in \"not a sad ending.\"",
+        "note" : "As in \"not a sad ending\"; also the -ing form of \"end\": \"ending a revolution\" = bringing it to an end.",
         "pos" : "noun",
         "translation" : "the final part of a story"
       },
@@ -17281,9 +17284,9 @@
         "forms" : [
           "calls"
         ],
-        "note" : "He/she/it form of \"call.\"",
+        "note" : "He/she/it form of \"call\"; it can also mean \"names\": \"he calls it the dish\".",
         "pos" : "verb",
-        "translation" : "phones, contacts by phone"
+        "translation" : "phones; names"
       },
       {
         "forms" : [
@@ -17363,9 +17366,9 @@
         "forms" : [
           "cooks"
         ],
-        "note" : "He/she/it form of \"cook.\"",
+        "note" : "He/she/it form of \"cook\"; also the plural noun: \"the cooks\" = the people who cook.",
         "pos" : "verb",
-        "translation" : "prepares food using heat"
+        "translation" : "prepares food using heat; people who cook"
       },
       {
         "forms" : [
@@ -19233,7 +19236,8 @@
       },
       {
         "forms" : [
-          "soak"
+          "soak",
+          "soaked"
         ],
         "note" : "\"Do not let it soak until it tears.\"",
         "pos" : "verb",
@@ -24311,6 +24315,368 @@
         "note" : "Virginia Woolf (1882–1941), an English writer of novels and essays; A Room of One's Own is from 1929.",
         "pos" : "noun",
         "translation" : "Woolf"
+      },
+      {
+        "forms" : [
+          "1904"
+        ],
+        "note" : "A year; said \"nineteen oh four\".",
+        "pos" : "number",
+        "translation" : "1904"
+      },
+      {
+        "forms" : [
+          "alps"
+        ],
+        "note" : "The high mountains of Switzerland, Austria, France and Italy.",
+        "pos" : "noun",
+        "translation" : "the Alps"
+      },
+      {
+        "forms" : [
+          "bircher-benner"
+        ],
+        "note" : "Maximilian Bircher-Benner (1867–1939), a Swiss doctor in Zurich; the muesli is named after him.",
+        "pos" : "noun",
+        "translation" : "Bircher-Benner"
+      },
+      {
+        "forms" : [
+          "condensed"
+        ],
+        "note" : "\"Condensed milk\" = milk with most of its water taken out; \"sweetened condensed milk\" has sugar too.",
+        "pos" : "adjective",
+        "translation" : "made thick"
+      },
+      {
+        "forms" : [
+          "d'spys"
+        ],
+        "note" : "Swiss German for \"the dish\": Bircher-Benner's own name for his apple meal.",
+        "pos" : "noun",
+        "translation" : "the dish"
+      },
+      {
+        "forms" : [
+          "europe"
+        ],
+        "note" : "The continent; \"all over Europe\" = in every part of it.",
+        "pos" : "noun",
+        "translation" : "Europe"
+      },
+      {
+        "forms" : [
+          "grate",
+          "grated"
+        ],
+        "note" : "You grate an apple or cheese on a grater; \"grated\" is the past participle: grated apple.",
+        "pos" : "verb",
+        "translation" : "to rub into small pieces"
+      },
+      {
+        "forms" : [
+          "kraft"
+        ],
+        "note" : "German for \"strength\" or \"force\"; part of the name Lebendige Kraft.",
+        "pos" : "noun",
+        "translation" : "Kraft (strength)"
+      },
+      {
+        "forms" : [
+          "lebendige"
+        ],
+        "note" : "German for \"living\"; Lebendige Kraft, \"living strength\", was the name of the sanatorium.",
+        "pos" : "adjective",
+        "translation" : "Lebendige (living)"
+      },
+      {
+        "forms" : [
+          "maximilian"
+        ],
+        "note" : "Maximilian Bircher-Benner, the Swiss doctor in the story.",
+        "pos" : "noun",
+        "translation" : "Maximilian"
+      },
+      {
+        "forms" : [
+          "muesli"
+        ],
+        "note" : "Oats with fruit and nuts; the word comes from Swiss German \"Müesli\", a little purée.",
+        "pos" : "noun",
+        "translation" : "muesli"
+      },
+      {
+        "forms" : [
+          "oats"
+        ],
+        "note" : "A grain; \"rolled oats\" are flattened oat grains, used for porridge and muesli.",
+        "pos" : "noun",
+        "translation" : "oats"
+      },
+      {
+        "forms" : [
+          "original"
+        ],
+        "note" : "\"The original\" = the first version, before others changed it.",
+        "pos" : "noun",
+        "translation" : "the first one"
+      },
+      {
+        "forms" : [
+          "raw"
+        ],
+        "note" : "Raw food is eaten as it is, without cooking.",
+        "pos" : "adjective",
+        "translation" : "not cooked"
+      },
+      {
+        "forms" : [
+          "reverse"
+        ],
+        "note" : "\"The reverse\" = the other way round.",
+        "pos" : "noun",
+        "translation" : "the opposite"
+      },
+      {
+        "forms" : [
+          "sanatorium"
+        ],
+        "note" : "A place where people stay for some time to rest and get better, often in the mountains or on a hill.",
+        "pos" : "noun",
+        "translation" : "a clinic for long stays"
+      },
+      {
+        "forms" : [
+          "scatter"
+        ],
+        "note" : "In a recipe: put small pieces loosely over the top.",
+        "pos" : "verb",
+        "translation" : "to throw a little over"
+      },
+      {
+        "forms" : [
+          "strength"
+        ],
+        "note" : "The noun of \"strong\"; \"living strength\" translates the name Lebendige Kraft.",
+        "pos" : "noun",
+        "translation" : "strength"
+      },
+      {
+        "forms" : [
+          "sweetened"
+        ],
+        "note" : "With sugar added.",
+        "pos" : "adjective",
+        "translation" : "made sweet"
+      },
+      {
+        "forms" : [
+          "swiss"
+        ],
+        "note" : "From Switzerland; \"Swiss German\" is the German spoken there.",
+        "pos" : "adjective",
+        "translation" : "Swiss"
+      },
+      {
+        "forms" : [
+          "tablespoon",
+          "tablespoons"
+        ],
+        "note" : "In recipes a tablespoon is about 15 ml; \"tablespoons\" is the plural.",
+        "pos" : "noun",
+        "translation" : "a big spoon; a spoonful"
+      },
+      {
+        "forms" : [
+          "tuberculosis"
+        ],
+        "note" : "A serious illness of the lungs; in those days fresh milk could carry it.",
+        "pos" : "noun",
+        "translation" : "tuberculosis (TB)"
+      },
+      {
+        "forms" : [
+          "white"
+        ],
+        "note" : "The colour of milk or snow; \"so that it stays white\" = so it does not turn brown.",
+        "pos" : "adjective",
+        "translation" : "white"
+      },
+      {
+        "forms" : [
+          "yoghurt"
+        ],
+        "note" : "Also spelled \"yogurt\".",
+        "pos" : "noun",
+        "translation" : "yoghurt"
+      },
+      {
+        "forms" : [
+          "zurich"
+        ],
+        "note" : "The largest city in Switzerland.",
+        "pos" : "noun",
+        "translation" : "Zurich"
+      },
+      {
+        "forms" : [
+          "1804"
+        ],
+        "note" : "The year Haiti became independent; said \"eighteen oh four\".",
+        "pos" : "number",
+        "translation" : "1804"
+      },
+      {
+        "forms" : [
+          "culture"
+        ],
+        "note" : "Their food, music, language, customs; \"living culture\" = traditions still alive.",
+        "pos" : "noun",
+        "translation" : "the way of life of a people"
+      },
+      {
+        "forms" : [
+          "declared"
+        ],
+        "note" : "Past tense of \"declare\": \"declared Haiti independent\" = announced officially that Haiti was free.",
+        "pos" : "verb",
+        "translation" : "said officially"
+      },
+      {
+        "forms" : [
+          "dessalines"
+        ],
+        "note" : "Jean-Jacques Dessalines (1758–1806), the leader who declared Haiti's independence in 1804.",
+        "pos" : "noun",
+        "translation" : "Dessalines"
+      },
+      {
+        "forms" : [
+          "enslaved"
+        ],
+        "note" : "\"Enslaved people\" = people who were owned by others and forced to work.",
+        "pos" : "adjective",
+        "translation" : "forced to be a slave"
+      },
+      {
+        "forms" : [
+          "everybody"
+        ],
+        "note" : "The same as \"everyone\"; the verb is singular: everybody eats.",
+        "pos" : "pronoun",
+        "translation" : "every person"
+      },
+      {
+        "forms" : [
+          "gonaïves"
+        ],
+        "note" : "A town in the north-west of Haiti where independence was declared.",
+        "pos" : "noun",
+        "translation" : "Gonaïves"
+      },
+      {
+        "forms" : [
+          "haiti"
+        ],
+        "note" : "A country in the Caribbean, on the island of Hispaniola.",
+        "pos" : "noun",
+        "translation" : "Haiti"
+      },
+      {
+        "forms" : [
+          "haiti's"
+        ],
+        "note" : "The possessive of \"Haiti\".",
+        "pos" : "noun",
+        "translation" : "of Haiti"
+      },
+      {
+        "forms" : [
+          "haitian"
+        ],
+        "note" : "From Haiti: \"Haitian families\".",
+        "pos" : "adjective",
+        "translation" : "Haitian"
+      },
+      {
+        "forms" : [
+          "haitians"
+        ],
+        "note" : "The people of Haiti.",
+        "pos" : "noun",
+        "translation" : "Haitians"
+      },
+      {
+        "forms" : [
+          "heritage"
+        ],
+        "note" : "Traditions, buildings and customs passed down; \"living heritage\" = traditions still practised.",
+        "pos" : "noun",
+        "translation" : "what a people keeps from the past"
+      },
+      {
+        "forms" : [
+          "jean-jacques"
+        ],
+        "note" : "Jean-Jacques Dessalines, the leader of Haiti's independence.",
+        "pos" : "noun",
+        "translation" : "Jean-Jacques"
+      },
+      {
+        "forms" : [
+          "joumou"
+        ],
+        "note" : "Haitian Creole for the pumpkin used in the soup; \"soup joumou\" = pumpkin soup.",
+        "pos" : "noun",
+        "translation" : "joumou (pumpkin)"
+      },
+      {
+        "forms" : [
+          "lime"
+        ],
+        "note" : "A small green citrus fruit, like a lemon; \"lime juice\".",
+        "pos" : "noun",
+        "translation" : "lime"
+      },
+      {
+        "forms" : [
+          "litre"
+        ],
+        "note" : "1,000 millilitres; \"a litre and a half\" = 1.5 litres. American spelling: liter.",
+        "pos" : "noun",
+        "translation" : "litre"
+      },
+      {
+        "forms" : [
+          "potatoes"
+        ],
+        "note" : "Plural of \"potato\"; note the -es.",
+        "pos" : "noun",
+        "translation" : "potatoes"
+      },
+      {
+        "forms" : [
+          "pumpkin"
+        ],
+        "note" : "A large round orange vegetable; in Haiti the soup is made from the joumou squash.",
+        "pos" : "noun",
+        "translation" : "pumpkin"
+      },
+      {
+        "forms" : [
+          "recognised"
+        ],
+        "note" : "Past tense of \"recognise\" (British spelling; American: recognize).",
+        "pos" : "verb",
+        "translation" : "officially accepted"
+      },
+      {
+        "forms" : [
+          "revolution"
+        ],
+        "note" : "A fight to change a country's rulers or system completely.",
+        "pos" : "noun",
+        "translation" : "revolution"
       }
     ],
     "french" : [
@@ -25083,6 +25449,7 @@
       },
       {
         "forms" : [
+          "ajoutent",
           "ajoutez"
         ],
         "note" : "Ajouter (to add), \"vous\" command form.",
@@ -25875,9 +26242,9 @@
           "citron"
         ],
         "gender" : "masculine",
-        "note" : "The citrus fruit.",
+        "note" : "The citrus fruit; « citron vert » = lime.",
         "pos" : "noun",
-        "translation" : "lemon"
+        "translation" : "lemon; (vert) lime"
       },
       {
         "forms" : [
@@ -27649,7 +28016,8 @@
       },
       {
         "forms" : [
-          "mangé"
+          "mangé",
+          "mangée"
         ],
         "note" : "Past participle of manger.",
         "pos" : "verb",
@@ -33006,6 +33374,7 @@
       {
         "forms" : [
           "porta",
+          "portaient",
           "portait"
         ],
         "note" : "Imperfect tense of porter.",
@@ -33376,7 +33745,8 @@
       },
       {
         "forms" : [
-          "reconnaît"
+          "reconnaît",
+          "reconnue"
         ],
         "note" : "Present tense of reconnaître.",
         "pos" : "verb",
@@ -35530,7 +35900,7 @@
           "terre"
         ],
         "gender" : "feminine",
-        "note" : "\"En terre\" = made of clay; \"la terre sèche\" = the dry earth.",
+        "note" : "\"En terre\" = made of clay; \"la terre sèche\" = the dry earth; « pommes de terre » = potatoes.",
         "pos" : "noun",
         "translation" : "earth, clay"
       },
@@ -39434,6 +39804,7 @@
       },
       {
         "forms" : [
+          "préparaient",
           "préparent",
           "préparer",
           "préparé"
@@ -42615,6 +42986,7 @@
         "forms" : [
           "goûta",
           "goûtant",
+          "goûter",
           "goûté"
         ],
         "note" : "From \"goûter.\"",
@@ -42802,7 +43174,8 @@
       },
       {
         "forms" : [
-          "inscrit"
+          "inscrit",
+          "inscrite"
         ],
         "note" : "Past participle of \"inscrire.\"",
         "pos" : "verb",
@@ -43270,7 +43643,9 @@
       {
         "forms" : [
           "mange",
+          "mangea",
           "mangeait",
+          "mangent",
           "manger",
           "mangeras",
           "manges"
@@ -45181,6 +45556,7 @@
       {
         "forms" : [
           "vivante",
+          "vivantes",
           "vivants"
         ],
         "note" : "Feminine of \"vivant.\"",
@@ -45537,7 +45913,7 @@
         "forms" : [
           "2021"
         ],
-        "note" : "The year of the skin-to-skin contact study.",
+        "note" : "A year; said \"deux mille vingt et un\".",
         "pos" : "number",
         "translation" : "2021"
       },
@@ -46142,7 +46518,8 @@
       },
       {
         "forms" : [
-          "autorisé"
+          "autorisé",
+          "autorisés"
         ],
         "note" : "Past participle of autoriser.",
         "pos" : "verb",
@@ -46363,6 +46740,7 @@
       },
       {
         "forms" : [
+          "déclara",
           "déclarer",
           "déclaré"
         ],
@@ -46846,6 +47224,7 @@
       },
       {
         "forms" : [
+          "pouvant",
           "pouvoir"
         ],
         "note" : "Infinitive of pouvoir.",
@@ -47594,6 +47973,7 @@
       },
       {
         "forms" : [
+          "sucré",
           "sucrée"
         ],
         "gender" : "feminine",
@@ -48315,7 +48695,7 @@
           "pommes"
         ],
         "gender" : "feminine",
-        "note" : "Forms of pomme.",
+        "note" : "Forms of pomme; « pommes de terre » = potatoes.",
         "pos" : "noun",
         "translation" : "apple(s)"
       },
@@ -49327,9 +49707,9 @@
           "bœuf"
         ],
         "gender" : "masculine",
-        "note" : "L'animal qui tire la charrette ; aussi la viande.",
+        "note" : "The animal that pulls a cart; also its meat, beef: « du bœuf ».",
         "pos" : "noun",
-        "translation" : "ox"
+        "translation" : "ox; beef"
       },
       {
         "forms" : [
@@ -50912,7 +51292,8 @@
       },
       {
         "forms" : [
-          "tradition"
+          "tradition",
+          "traditions"
         ],
         "gender" : "feminine",
         "note" : "« La tradition bouddhiste ».",
@@ -50932,6 +51313,7 @@
         "forms" : [
           "transmet",
           "transmettent",
+          "transmettre",
           "transmise"
         ],
         "note" : "Présent de « transmettre ».",
@@ -53008,7 +53390,8 @@
       },
       {
         "forms" : [
-          "employa"
+          "employa",
+          "employait"
         ],
         "note" : "Passé simple of employer: « il employa quatre outils » = it used four tools; « employé » is also a noun, a clerk.",
         "pos" : "verb",
@@ -55346,7 +55729,9 @@
       },
       {
         "forms" : [
-          "raconte"
+          "racontaient",
+          "raconte",
+          "racontent"
         ],
         "note" : "Raconter (to tell a story), present; « on raconte que… » = people say that…, the story goes that…",
         "pos" : "verb",
@@ -57139,6 +57524,471 @@
         "note" : "Literary inversion of the imperfect subjunctive « fût » with « ce »: « fût-ce à six heures du matin » = even if it is at six in the morning.",
         "pos" : "other",
         "translation" : "even, be it"
+      },
+      {
+        "forms" : [
+          "1904"
+        ],
+        "note" : "The year Bircher-Benner opened his sanatorium: « nous sommes en 1904 » = it is 1904; read « mille neuf cent quatre ».",
+        "pos" : "number",
+        "translation" : "1904"
+      },
+      {
+        "forms" : [
+          "maximilian"
+        ],
+        "note" : "Maximilian Bircher-Benner (1867–1939), the Swiss doctor who created the dish now called muesli.",
+        "pos" : "noun",
+        "translation" : "Maximilian"
+      },
+      {
+        "forms" : [
+          "bircher-benner"
+        ],
+        "note" : "The doctor's double family name; the muesli made his way is still called « Bircher » in Switzerland.",
+        "pos" : "noun",
+        "translation" : "Bircher-Benner"
+      },
+      {
+        "forms" : [
+          "zurich"
+        ],
+        "gender" : "masculine",
+        "note" : "The largest city of Switzerland; French writes it without the German umlaut (Zürich).",
+        "pos" : "noun",
+        "translation" : "Zurich"
+      },
+      {
+        "forms" : [
+          "zurichois"
+        ],
+        "note" : "Adjective of Zurich, lowercase like all French adjectives of place: « un médecin zurichois » = a Zurich doctor.",
+        "pos" : "adjective",
+        "translation" : "from Zurich"
+      },
+      {
+        "forms" : [
+          "patients"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine plural of « patient », a person a doctor treats; as an adjective, « patient » means patient (calm).",
+        "pos" : "noun",
+        "translation" : "patients"
+      },
+      {
+        "forms" : [
+          "flocons"
+        ],
+        "gender" : "masculine",
+        "note" : "« Des flocons d'avoine » = oat flakes, rolled oats; « un flocon de neige » = a snowflake.",
+        "pos" : "noun",
+        "translation" : "flakes"
+      },
+      {
+        "forms" : [
+          "l'avoine"
+        ],
+        "gender" : "feminine",
+        "note" : "La + avoine, shortened before the vowel; French uses the singular where English says « oats ».",
+        "pos" : "noun",
+        "translation" : "oats"
+      },
+      {
+        "forms" : [
+          "râpez"
+        ],
+        "note" : "Râper (to grate), vous imperative, the form of a recipe: « râpez une pomme » = grate an apple.",
+        "pos" : "verb",
+        "translation" : "grate"
+      },
+      {
+        "forms" : [
+          "râpée"
+        ],
+        "note" : "Feminine past participle of râper used as an adjective; it follows the noun and agrees with « pomme ».",
+        "pos" : "adjective",
+        "translation" : "grated"
+      },
+      {
+        "forms" : [
+          "crue",
+          "crus"
+        ],
+        "note" : "Cru (raw, uncooked): « pomme crue » (feminine), « aliments crus » (masculine plural); not the same word as « cru », past participle of croire.",
+        "pos" : "adjective",
+        "translation" : "raw"
+      },
+      {
+        "forms" : [
+          "d'spys"
+        ],
+        "gender" : "masculine",
+        "note" : "Swiss German for « le plat »: the name Bircher-Benner gave his apple dish; kept as it is, with its capital S.",
+        "pos" : "noun",
+        "translation" : "the dish (Swiss German)"
+      },
+      {
+        "forms" : [
+          "suisse"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le suisse allemand » = Swiss German, the German spoken in Switzerland; names of languages are lowercase in French.",
+        "pos" : "noun",
+        "translation" : "Swiss (German)"
+      },
+      {
+        "forms" : [
+          "demi-citron"
+        ],
+        "gender" : "masculine",
+        "note" : "Demi before a noun takes a hyphen and never changes: « le jus d'un demi-citron » = the juice of half a lemon.",
+        "pos" : "noun",
+        "translation" : "half a lemon"
+      },
+      {
+        "forms" : [
+          "sanatorium"
+        ],
+        "gender" : "masculine",
+        "note" : "A house where patients stayed for a long rest and treatment, often in the mountains or above a town.",
+        "pos" : "noun",
+        "translation" : "sanatorium"
+      },
+      {
+        "forms" : [
+          "aliments"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « aliment », one food or foodstuff; « les aliments crus » = raw food.",
+        "pos" : "noun",
+        "translation" : "foods"
+      },
+      {
+        "forms" : [
+          "viendrait"
+        ],
+        "note" : "Conditional of venir used to report what people say without vouching for it: « l'idée viendrait de » = the idea is said to come from.",
+        "pos" : "verb",
+        "translation" : "is said to come"
+      },
+      {
+        "forms" : [
+          "promenade"
+        ],
+        "gender" : "feminine",
+        "note" : "« Faire une promenade » = to go for a walk; « une promenade dans les Alpes » = a walk in the Alps.",
+        "pos" : "noun",
+        "translation" : "walk"
+      },
+      {
+        "forms" : [
+          "alpes"
+        ],
+        "gender" : "feminine",
+        "note" : "The mountain range across Switzerland, France, Italy and Austria; always plural: « les Alpes ».",
+        "pos" : "noun",
+        "translation" : "Alps"
+      },
+      {
+        "forms" : [
+          "hachées"
+        ],
+        "note" : "Past participle of hacher used as an adjective, agreeing with « noix » (feminine plural): « des noix hachées ».",
+        "pos" : "adjective",
+        "translation" : "chopped (feminine plural)"
+      },
+      {
+        "forms" : [
+          "muesli"
+        ],
+        "gender" : "masculine",
+        "note" : "A Swiss word that French keeps as it is; Bircher-Benner's dish became today's breakfast muesli.",
+        "pos" : "noun",
+        "translation" : "muesli"
+      },
+      {
+        "forms" : [
+          "d'hôtel"
+        ],
+        "gender" : "masculine",
+        "note" : "De + hôtel, shortened before the silent h: « un petit-déjeuner d'hôtel » = a hotel breakfast.",
+        "pos" : "noun",
+        "translation" : "hotel (as in hotel breakfast)"
+      },
+      {
+        "forms" : [
+          "l'europe"
+        ],
+        "gender" : "feminine",
+        "note" : "La + Europe, shortened before the vowel; « dans toute l'Europe » = all over Europe.",
+        "pos" : "noun",
+        "translation" : "Europe"
+      },
+      {
+        "forms" : [
+          "l'inverse"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + inverse used as a noun: « c'était l'inverse » = it was the other way round.",
+        "pos" : "noun",
+        "translation" : "the opposite, the reverse"
+      },
+      {
+        "forms" : [
+          "lebendige"
+        ],
+        "note" : "German for « vivante »; part of the sanatorium's German name, Lebendige Kraft, « force vivante ».",
+        "pos" : "adjective",
+        "translation" : "living"
+      },
+      {
+        "forms" : [
+          "kraft"
+        ],
+        "gender" : "feminine",
+        "note" : "German for « force »; the sanatorium was called Lebendige Kraft, living strength.",
+        "pos" : "noun",
+        "translation" : "strength"
+      },
+      {
+        "forms" : [
+          "trempée"
+        ],
+        "note" : "Feminine past participle of tremper used as an adjective: « de l'avoine trempée » = soaked oats.",
+        "pos" : "adjective",
+        "translation" : "soaked"
+      },
+      {
+        "forms" : [
+          "yaourt"
+        ],
+        "gender" : "masculine",
+        "note" : "The t is pronounced; « un yaourt nature » = a plain yoghurt.",
+        "pos" : "noun",
+        "translation" : "yoghurt"
+      },
+      {
+        "forms" : [
+          "comprise"
+        ],
+        "note" : "Feminine of « compris » in the sense « included », agreeing with « peau »: « peau comprise » = skin and all.",
+        "pos" : "adjective",
+        "translation" : "included"
+      },
+      {
+        "forms" : [
+          "remuant"
+        ],
+        "note" : "Present participle of remuer; « en remuant » (gérondif) = while stirring, at the same time as the main verb.",
+        "pos" : "verb",
+        "translation" : "stirring"
+      },
+      {
+        "forms" : [
+          "parsemez"
+        ],
+        "note" : "Parsemer, vous imperative: « parsemez de noix hachées » = scatter chopped nuts over it.",
+        "pos" : "verb",
+        "translation" : "sprinkle, scatter"
+      },
+      {
+        "forms" : [
+          "concentré"
+        ],
+        "note" : "« Du lait concentré » = condensed milk, milk with most of its water taken out.",
+        "pos" : "adjective",
+        "translation" : "condensed"
+      },
+      {
+        "forms" : [
+          "tuberculose"
+        ],
+        "gender" : "feminine",
+        "note" : "A disease of the lungs; like most French disease names in -ose, it is feminine: « la tuberculose ».",
+        "pos" : "noun",
+        "translation" : "tuberculosis"
+      },
+      {
+        "forms" : [
+          "l'original"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + original, shortened before the vowel; here a noun: « l'original » = the first, original dish.",
+        "pos" : "noun",
+        "translation" : "the original"
+      },
+      {
+        "forms" : [
+          "1804"
+        ],
+        "note" : "The year Haiti became independent: « le 1er janvier 1804 », read « mille huit cent quatre ».",
+        "pos" : "number",
+        "translation" : "1804"
+      },
+      {
+        "forms" : [
+          "haïti"
+        ],
+        "gender" : "masculine",
+        "note" : "The country on the western part of the island of Hispaniola, in the Caribbean; it takes no article: « en Haïti » = in Haiti.",
+        "pos" : "noun",
+        "translation" : "Haiti"
+      },
+      {
+        "forms" : [
+          "haïtien",
+          "haïtiennes",
+          "haïtiens"
+        ],
+        "note" : "From Haïti; with a capital letter it is the people: « les Haïtiens » = Haitians, « les familles haïtiennes » = Haitian families.",
+        "pos" : "adjective",
+        "translation" : "Haitian"
+      },
+      {
+        "forms" : [
+          "gonaïves"
+        ],
+        "gender" : "feminine",
+        "note" : "A town on the west coast of Haiti where independence was declared on 1 January 1804.",
+        "pos" : "noun",
+        "translation" : "Gonaïves"
+      },
+      {
+        "forms" : [
+          "jean-jacques"
+        ],
+        "note" : "First name of Jean-Jacques Dessalines; French double first names are joined with a hyphen.",
+        "pos" : "noun",
+        "translation" : "Jean-Jacques"
+      },
+      {
+        "forms" : [
+          "dessalines"
+        ],
+        "note" : "Jean-Jacques Dessalines, the leader who declared Haiti's independence in the town of Gonaïves on 1 January 1804.",
+        "pos" : "noun",
+        "translation" : "Dessalines"
+      },
+      {
+        "forms" : [
+          "soup"
+        ],
+        "gender" : "feminine",
+        "note" : "Part of the Haitian name « soup joumou », kept as it is; the French word is « soupe ».",
+        "pos" : "noun",
+        "translation" : "soup (Haitian Creole name)"
+      },
+      {
+        "forms" : [
+          "joumou"
+        ],
+        "gender" : "masculine",
+        "note" : "Haitian Creole for pumpkin; « la soup joumou » is the pumpkin soup Haitians eat every 1 January.",
+        "pos" : "noun",
+        "translation" : "pumpkin (Haitian Creole)"
+      },
+      {
+        "forms" : [
+          "potiron"
+        ],
+        "gender" : "masculine",
+        "note" : "A large orange squash; « la soupe au potiron » = pumpkin soup, with « au » for the main ingredient.",
+        "pos" : "noun",
+        "translation" : "pumpkin"
+      },
+      {
+        "forms" : [
+          "esclavage"
+        ],
+        "gender" : "masculine",
+        "note" : "« Des personnes réduites en esclavage » = enslaved people, literally people reduced to slavery; it names what was done to them, not who they were.",
+        "pos" : "noun",
+        "translation" : "slavery"
+      },
+      {
+        "forms" : [
+          "esclaves"
+        ],
+        "note" : "Used here after a noun, « les cuisiniers esclaves » = the enslaved cooks; for people in general French prefers « personnes réduites en esclavage ».",
+        "pos" : "adjective",
+        "translation" : "enslaved"
+      },
+      {
+        "forms" : [
+          "réduites"
+        ],
+        "note" : "Past participle of réduire, feminine plural to agree with « personnes »: « réduites en esclavage » = reduced to slavery, enslaved.",
+        "pos" : "adjective",
+        "translation" : "reduced (to); réduites en esclavage = enslaved"
+      },
+      {
+        "forms" : [
+          "propriétaires"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un propriétaire » owns something (a house, land); the same form serves for women: « une propriétaire ».",
+        "pos" : "noun",
+        "translation" : "owners"
+      },
+      {
+        "forms" : [
+          "planteurs"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un planteur » owned and ran a plantation in the colonies, not someone who plants.",
+        "pos" : "noun",
+        "translation" : "plantation owners"
+      },
+      {
+        "forms" : [
+          "révolution"
+        ],
+        "gender" : "feminine",
+        "note" : "Like most nouns in -tion, it is feminine: « une révolution menée par… » = a revolution led by…",
+        "pos" : "noun",
+        "translation" : "revolution"
+      },
+      {
+        "forms" : [
+          "litre"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un litre et demi » = a litre and a half; demi after the noun agrees with it, here masculine.",
+        "pos" : "noun",
+        "translation" : "litre"
+      },
+      {
+        "forms" : [
+          "rendez-le"
+        ],
+        "note" : "Rendre, vous imperative, with « le » attached after a hyphen: « rendez-le lisse » = make it smooth.",
+        "pos" : "verb",
+        "translation" : "make it"
+      },
+      {
+        "forms" : [
+          "mixez-le"
+        ],
+        "note" : "Mixer (to blend), vous imperative with « le » attached; in a positive command the object pronoun follows the verb.",
+        "pos" : "verb",
+        "translation" : "blend it"
+      },
+      {
+        "forms" : [
+          "élément"
+        ],
+        "gender" : "masculine",
+        "note" : "UNESCO calls each tradition on its list « un élément »: « premier élément haïtien » = Haiti's first entry.",
+        "pos" : "noun",
+        "translation" : "element, entry"
+      },
+      {
+        "forms" : [
+          "s'achevait"
+        ],
+        "note" : "S'achever (to end), imperfect; after « ainsi » at the start of a sentence the subject comes after the verb: « ainsi s'achevait une révolution ».",
+        "pos" : "verb",
+        "translation" : "was coming to an end"
       }
     ],
     "german" : [
@@ -58772,7 +59622,8 @@
       },
       {
         "forms" : [
-          "gegessen"
+          "gegessen",
+          "gegessene"
         ],
         "note" : "Past participle of essen.",
         "pos" : "verb",
@@ -58996,7 +59847,8 @@
       },
       {
         "forms" : [
-          "glatt"
+          "glatt",
+          "glatte"
         ],
         "note" : "Describes texture.",
         "pos" : "adjective",
@@ -59661,8 +60513,10 @@
       },
       {
         "forms" : [
+          "koch",
           "kochen",
-          "kochte"
+          "kochte",
+          "kochten"
         ],
         "note" : "\"Kochen\" infinitive, \"kochte\" past tense.",
         "pos" : "verb",
@@ -59811,6 +60665,7 @@
       },
       {
         "forms" : [
+          "leg",
           "legen",
           "legte"
         ],
@@ -60005,6 +60860,7 @@
       },
       {
         "forms" : [
+          "mach",
           "machen",
           "macht",
           "machte"
@@ -61710,6 +62566,7 @@
       {
         "forms" : [
           "getragen",
+          "trage",
           "tragen"
         ],
         "note" : "Infinitive of tragen. Separable: … weiter = weitertragen, to pass on, to spread; „Fliegen und schmutzige Hände tragen es weiter“ = flies and dirty hands spread it.",
@@ -64718,6 +65575,7 @@
       },
       {
         "forms" : [
+          "lass",
           "lassen"
         ],
         "note" : "Infinitive of lassen. Separable: … nieder = sich niederlassen, to settle down.",
@@ -65203,6 +66061,7 @@
       },
       {
         "forms" : [
+          "püriere",
           "püriert"
         ],
         "note" : "Past participle of pürieren.",
@@ -65782,6 +66641,7 @@
         "forms" : [
           "ständig",
           "ständige",
+          "ständigem",
           "ständigen"
         ],
         "note" : "Case-inflected forms of ständig.",
@@ -66509,6 +67369,7 @@
       },
       {
         "forms" : [
+          "würze",
           "würzen",
           "würzte"
         ],
@@ -69570,7 +70431,8 @@
       {
         "forms" : [
           "erzählen",
-          "erzählt"
+          "erzählt",
+          "erzählten"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -69578,7 +70440,9 @@
       },
       {
         "forms" : [
-          "eröffnen"
+          "eröffnen",
+          "eröffnet",
+          "eröffnete"
         ],
         "note" : "Infinitive; \"einen zweiten Laden eröffnen\" = to open a second shop.",
         "pos" : "verb",
@@ -70347,6 +71211,7 @@
       {
         "forms" : [
           "halbe",
+          "halben",
           "halbes"
         ],
         "note" : "\"Eine halbe Stunde\" = half an hour.",
@@ -72019,9 +72884,10 @@
       },
       {
         "forms" : [
+          "rühr",
           "rühren"
         ],
-        "note" : "Infinitive. Separable: … ein = einrühren, to stir in; … um = umrühren, to stir; … zusammen = zusammenrühren, to stir together.",
+        "note" : "Infinitive. Separable: … ein = einrühren, to stir in; … um = umrühren, to stir; … zusammen = zusammenrühren, to stir together; „Rühr um“ = stir.",
         "pos" : "verb",
         "separable" : [
           {
@@ -72261,6 +73127,7 @@
       },
       {
         "forms" : [
+          "gesetzt",
           "setzen",
           "setzt",
           "setzte"
@@ -73946,7 +74813,8 @@
       },
       {
         "forms" : [
-          "aß"
+          "aß",
+          "aßen"
         ],
         "note" : "Past tense of \"essen.\"",
         "pos" : "verb",
@@ -74520,7 +75388,8 @@
       },
       {
         "forms" : [
-          "endet"
+          "endet",
+          "endete"
         ],
         "note" : "From \"enden.\"",
         "pos" : "verb",
@@ -74809,6 +75678,7 @@
       },
       {
         "forms" : [
+          "französischen",
           "französischer"
         ],
         "note" : "Declined masculine form.",
@@ -75691,13 +76561,14 @@
       },
       {
         "forms" : [
+          "kultur",
           "kulturen",
           "kulturerbes"
         ],
         "gender" : "feminine",
-        "note" : "Genitive compound.",
+        "note" : "Kultur = culture, Kulturen = cultures; Kulturerbe = cultural heritage (des Kulturerbes = of the heritage).",
         "pos" : "noun",
-        "translation" : "cultures; cultural heritage's"
+        "translation" : "culture(s); cultural heritage"
       },
       {
         "forms" : [
@@ -75791,6 +76662,9 @@
       {
         "forms" : [
           "lebendig",
+          "lebendige",
+          "lebendigen",
+          "lebendiges",
           "lebendigsten"
         ],
         "note" : "Full of life.",
@@ -76378,9 +77252,9 @@
           "probieren",
           "probleme"
         ],
-        "note" : "Noun form is plural, neuter.",
+        "note" : "Probieren = to try or to taste; « Probleme » = problems, a different word that shares this card.",
         "pos" : "verb",
-        "translation" : "to try; problems"
+        "translation" : "to try, to taste; problems"
       },
       {
         "forms" : [
@@ -76762,7 +77636,9 @@
       },
       {
         "forms" : [
-          "stammen"
+          "stamme",
+          "stammen",
+          "stammt"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -77031,6 +77907,7 @@
       },
       {
         "forms" : [
+          "umgekehrt",
           "umgekehrten"
         ],
         "note" : "Declined form of \"umgekehrt.\"",
@@ -77846,7 +78723,7 @@
         "forms" : [
           "2021"
         ],
-        "note" : "The year the skin-to-skin study was published.",
+        "note" : "A year; said \"zweitausendeinundzwanzig\".",
         "pos" : "number",
         "translation" : "2021"
       },
@@ -79236,8 +80113,15 @@
         "forms" : [
           "gib"
         ],
-        "note" : "Imperative of geben.",
+        "note" : "Imperative of geben. Separable: … dazu = dazugeben, to add; „Gib drei Löffel Wasser dazu“ = add three spoons of water.",
         "pos" : "other",
+        "separable" : [
+          {
+            "particle" : "dazu",
+            "translation" : "to add",
+            "verb" : "dazugeben"
+          }
+        ],
         "translation" : "give"
       },
       {
@@ -80023,6 +80907,7 @@
       },
       {
         "forms" : [
+          "nüsse",
           "nüssen"
         ],
         "gender" : "feminine",
@@ -80623,7 +81508,8 @@
       },
       {
         "forms" : [
-          "sonnenlicht"
+          "sonnenlicht",
+          "sonnenlichts"
         ],
         "gender" : "neuter",
         "note" : "Compound of Sonne + Licht.",
@@ -82092,6 +82978,7 @@
       },
       {
         "forms" : [
+          "frische",
           "frisches"
         ],
         "note" : "„Frisches Brot\".",
@@ -82233,7 +83120,8 @@
       },
       {
         "forms" : [
-          "glaubt"
+          "glaubt",
+          "glaubte"
         ],
         "note" : "„Was irgendjemand glaubt\".",
         "pos" : "verb",
@@ -83146,10 +84034,18 @@
       },
       {
         "forms" : [
+          "streu",
           "streut"
         ],
-        "note" : "„Streut etwas Zucker darüber\".",
+        "note" : "„Streut etwas Zucker darüber\". Separable: … darüber = darüberstreuen, to sprinkle over; „Streu einen Löffel Nüsse darüber“ = sprinkle a spoon of nuts on top.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "darüber",
+            "translation" : "to sprinkle over",
+            "verb" : "darüberstreuen"
+          }
+        ],
         "translation" : "sprinkles"
       },
       {
@@ -88045,7 +88941,8 @@
       },
       {
         "forms" : [
-          "darf"
+          "darf",
+          "dürfen"
         ],
         "note" : "Dürfen (modal verb), ich/er/sie/es form: „dass man nie wütend sein darf“ = that one may never be angry.",
         "pos" : "verb",
@@ -88406,7 +89303,8 @@
       },
       {
         "forms" : [
-          "hotel"
+          "hotel",
+          "hotels"
         ],
         "gender" : "neuter",
         "note" : "Das Hotel, plural Hotels: „ein kleines Hotel“ = a small hotel.",
@@ -90344,6 +91242,514 @@
         "note" : "Das Privileg, a right that only some people have; „ein Privileg der Reichen“ = a privilege of the rich, with the genitive.",
         "pos" : "noun",
         "translation" : "privilege"
+      },
+      {
+        "forms" : [
+          "1904"
+        ],
+        "note" : "The year the sanatorium opened, said „neunzehnhundertvier“; German gives a year on its own, never „in 1904“.",
+        "pos" : "number",
+        "translation" : "1904"
+      },
+      {
+        "forms" : [
+          "maximilian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Maximilian Bircher-Benner (1867–1939), the Zurich doctor who served the first muesli.",
+        "pos" : "noun",
+        "translation" : "Maximilian"
+      },
+      {
+        "forms" : [
+          "bircher-benner"
+        ],
+        "gender" : "masculine",
+        "note" : "Surname of the Swiss doctor Maximilian Bircher-Benner; a name, so it takes no article: „Bircher-Benner ist Arzt“.",
+        "pos" : "noun",
+        "translation" : "Bircher-Benner"
+      },
+      {
+        "forms" : [
+          "zürich"
+        ],
+        "gender" : "neuter",
+        "note" : "The largest city in Switzerland; city names take no article: „in Zürich“.",
+        "pos" : "noun",
+        "translation" : "Zurich"
+      },
+      {
+        "forms" : [
+          "zürcher"
+        ],
+        "note" : "Adjectives made from city names end in -er and never change: „der Zürcher Arzt“ = the Zurich doctor.",
+        "pos" : "adjective",
+        "translation" : "Zurich (as an adjective), from Zurich"
+      },
+      {
+        "forms" : [
+          "haferflocken"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Haferflocke is almost always used in the plural: „ein Löffel Haferflocken“ = a spoon of oats, with no „von“ after the measure.",
+        "pos" : "noun",
+        "translation" : "oat flakes, rolled oats"
+      },
+      {
+        "forms" : [
+          "speise"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Speise is a slightly formal word for a dish; you know it from „die Speisekarte“ (the menu).",
+        "pos" : "noun",
+        "translation" : "dish, food"
+      },
+      {
+        "forms" : [
+          "d'spys"
+        ],
+        "gender" : "feminine",
+        "note" : "Swiss German for „die Speise“: „d'“ is the shortened article „die“; Bircher-Benner's own name for his apple dish.",
+        "pos" : "noun",
+        "translation" : "the dish (Swiss German)"
+      },
+      {
+        "forms" : [
+          "schweizerdeutsch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Schweizerdeutsch, the German dialects spoken in Switzerland; languages are neuter and need no article after „für“.",
+        "pos" : "noun",
+        "translation" : "Swiss German"
+      },
+      {
+        "forms" : [
+          "zitronensaft"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Zitronensaft = die Zitrone + der Saft; a compound takes the gender of its last part.",
+        "pos" : "noun",
+        "translation" : "lemon juice"
+      },
+      {
+        "forms" : [
+          "raspel"
+        ],
+        "note" : "Du-imperative of raspeln (to grate), the usual word for grating fruit and vegetables. Separable: … hinein = hineinraspeln, to grate into; „Raspel einen großen Apfel hinein“ = grate a big apple into it.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "hinein",
+            "translation" : "to grate into",
+            "verb" : "hineinraspeln"
+          }
+        ],
+        "translation" : "grate (imperative)"
+      },
+      {
+        "forms" : [
+          "rohe",
+          "rohem",
+          "roher"
+        ],
+        "note" : "Forms of roh (uncooked): „aus rohem Apfel“ (dative after aus), „roher Apfel“ and „rohe Nahrung“ without an article.",
+        "pos" : "adjective",
+        "translation" : "raw"
+      },
+      {
+        "forms" : [
+          "schale"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Schale is the skin of a fruit; „mit Schale“ = with the skin on. It can also mean a shallow bowl, which is why the recipe says „Schüssel“.",
+        "pos" : "noun",
+        "translation" : "peel, skin (of fruit)"
+      },
+      {
+        "forms" : [
+          "sanatorium"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Sanatorium, a clinic where patients stay for rest and diet; plural die Sanatorien.",
+        "pos" : "noun",
+        "translation" : "sanatorium"
+      },
+      {
+        "forms" : [
+          "oberhalb"
+        ],
+        "note" : "Takes the genitive: „oberhalb der Stadt“ = above the town, higher up the hill.",
+        "pos" : "preposition",
+        "translation" : "above"
+      },
+      {
+        "forms" : [
+          "geraspelter"
+        ],
+        "note" : "Partizip II of raspeln used as an adjective, with the masculine ending -er and no article: „geraspelter roher Apfel“.",
+        "pos" : "adjective",
+        "translation" : "grated"
+      },
+      {
+        "forms" : [
+          "angeblich"
+        ],
+        "note" : "Marks a story people tell without vouching for it: „Die Idee stammt angeblich …“ = the idea is said to come …",
+        "pos" : "adverb",
+        "translation" : "supposedly, allegedly"
+      },
+      {
+        "forms" : [
+          "wanderung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Wanderung, a long walk in the countryside or the mountains; the verb is wandern.",
+        "pos" : "noun",
+        "translation" : "hike, walk"
+      },
+      {
+        "forms" : [
+          "alpen"
+        ],
+        "note" : "Die Alpen is plural only and always takes the article: „in den Alpen“ (dative), „aus den Alpen“.",
+        "pos" : "noun",
+        "translation" : "the Alps"
+      },
+      {
+        "forms" : [
+          "müsli"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Müsli, from Swiss German „Müesli“, a small mash; the dish Bircher-Benner served became its model.",
+        "pos" : "noun",
+        "translation" : "muesli"
+      },
+      {
+        "forms" : [
+          "europa"
+        ],
+        "gender" : "neuter",
+        "note" : "Continent names are neuter and take no article: „in ganz Europa“ = all over Europe.",
+        "pos" : "noun",
+        "translation" : "Europe"
+      },
+      {
+        "forms" : [
+          "obst"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Obst is a collective word with no plural: „etwas Obst“ = a little fruit; one piece is „eine Frucht“.",
+        "pos" : "noun",
+        "translation" : "fruit"
+      },
+      {
+        "forms" : [
+          "eingeweichten"
+        ],
+        "note" : "Partizip II of einweichen (to soak) used as an adjective; ge- stands between the particle ein and the stem: ein-ge-weicht.",
+        "pos" : "adjective",
+        "translation" : "soaked"
+      },
+      {
+        "forms" : [
+          "esslöffel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Esslöffel, the spoon you eat soup with; the plural is the same: „drei Esslöffel Wasser“.",
+        "pos" : "noun",
+        "translation" : "tablespoon(s)"
+      },
+      {
+        "forms" : [
+          "joghurt"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Joghurt (also das Joghurt in Austria and Switzerland).",
+        "pos" : "noun",
+        "translation" : "yoghurt"
+      },
+      {
+        "forms" : [
+          "samt"
+        ],
+        "note" : "A formal preposition with the dative: „samt Schale“ = skin and all.",
+        "pos" : "preposition",
+        "translation" : "together with, including"
+      },
+      {
+        "forms" : [
+          "gezuckerte"
+        ],
+        "note" : "Partizip II of zuckern (to sugar) used as an adjective: „gezuckerte Kondensmilch“ = sweetened condensed milk.",
+        "pos" : "adjective",
+        "translation" : "sweetened"
+      },
+      {
+        "forms" : [
+          "kondensmilch"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kondensmilch, milk thickened by cooking, sold in tins; it keeps without a fridge.",
+        "pos" : "noun",
+        "translation" : "condensed milk"
+      },
+      {
+        "forms" : [
+          "tuberkulose"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Tuberkulose, a lung disease that could then pass to people through raw milk.",
+        "pos" : "noun",
+        "translation" : "tuberculosis"
+      },
+      {
+        "forms" : [
+          "besteht"
+        ],
+        "note" : "Bestehen aus + dative = to consist of: „besteht meist aus Haferflocken“ = is mostly oats.",
+        "pos" : "verb",
+        "translation" : "consists"
+      },
+      {
+        "forms" : [
+          "original"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Original, the first version of something, as opposed to a copy.",
+        "pos" : "noun",
+        "translation" : "original"
+      },
+      {
+        "forms" : [
+          "1804"
+        ],
+        "note" : "Read achtzehnhundertvier; the year Haiti became independent, given on its own or after a date: „am ersten Januar 1804“.",
+        "pos" : "number",
+        "translation" : "1804"
+      },
+      {
+        "forms" : [
+          "haiti",
+          "haitis"
+        ],
+        "gender" : "neuter",
+        "note" : "The country on the western part of the island of Hispaniola, independent since 1804; country names take no article, and the genitive adds -s: „die Unabhängigkeit Haitis“.",
+        "pos" : "noun",
+        "translation" : "Haiti"
+      },
+      {
+        "forms" : [
+          "haitianer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Haitianer, plural die Haitianer (same form): a person from Haiti; like many nouns in -er, the plural adds nothing.",
+        "pos" : "noun",
+        "translation" : "Haitians"
+      },
+      {
+        "forms" : [
+          "haitianischen"
+        ],
+        "note" : "Haitianisch with the -en ending in the dative plural: „in haitianischen Familien“ = in Haitian families; adjectives of nationality are written in lower case.",
+        "pos" : "adjective",
+        "translation" : "Haitian"
+      },
+      {
+        "forms" : [
+          "soup"
+        ],
+        "gender" : "feminine",
+        "note" : "The first half of the Haitian name soup joumou, kept as it is, like a proper name; in German it is die Suppe.",
+        "pos" : "noun",
+        "translation" : "soup (Haitian Creole)"
+      },
+      {
+        "forms" : [
+          "joumou"
+        ],
+        "gender" : "masculine",
+        "note" : "Joumou is the Haitian Creole word for the pumpkin; soup joumou is the pumpkin soup Haitians eat on the first of January.",
+        "pos" : "noun",
+        "translation" : "pumpkin (Haitian Creole)"
+      },
+      {
+        "forms" : [
+          "kürbis"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kürbis, so a pumpkin is „er“: „püriere ihn, bis er glatt ist“; after a measure no „of“ is needed: „ein Kilo Kürbis“.",
+        "pos" : "noun",
+        "translation" : "pumpkin"
+      },
+      {
+        "forms" : [
+          "kürbissuppe"
+        ],
+        "gender" : "feminine",
+        "note" : "Der Kürbis + die Suppe: a compound takes the gender of its last part, so die Kürbissuppe.",
+        "pos" : "noun",
+        "translation" : "pumpkin soup"
+      },
+      {
+        "forms" : [
+          "kartoffeln"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Kartoffel; feminine nouns in -el add only -n in the plural.",
+        "pos" : "noun",
+        "translation" : "potatoes"
+      },
+      {
+        "forms" : [
+          "nudeln"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Nudel; German uses the plural for pasta in general: „etwas Nudeln“ = a little pasta.",
+        "pos" : "noun",
+        "translation" : "pasta, noodles"
+      },
+      {
+        "forms" : [
+          "limettensaft"
+        ],
+        "gender" : "masculine",
+        "note" : "Die Limette (lime) + der Saft: a compound takes the gender of its last part, so der Limettensaft.",
+        "pos" : "noun",
+        "translation" : "lime juice"
+      },
+      {
+        "forms" : [
+          "unesco-liste"
+        ],
+        "gender" : "feminine",
+        "note" : "UNESCO + die Liste, joined with a hyphen because the first part is an abbreviation; feminine like die Liste.",
+        "pos" : "noun",
+        "translation" : "UNESCO list"
+      },
+      {
+        "forms" : [
+          "versklavt",
+          "versklavten",
+          "versklavter"
+        ],
+        "note" : "Partizip II of versklaven (to enslave), used as an adjective; German says „versklavte Menschen“ (enslaved people) to name what was done to them, and „versklavt worden waren“ is the past perfect passive.",
+        "pos" : "adjective",
+        "translation" : "enslaved"
+      },
+      {
+        "forms" : [
+          "besitzer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Besitzer, plural die Besitzer (same form), from besitzen (to own); „für die französischen Besitzer“ = for the French owners.",
+        "pos" : "noun",
+        "translation" : "owners"
+      },
+      {
+        "forms" : [
+          "plantagenbesitzer"
+        ],
+        "gender" : "masculine",
+        "note" : "Die Plantage + der Besitzer: the compound is masculine like its last part, and the plural has the same form as the singular.",
+        "pos" : "noun",
+        "translation" : "plantation owners"
+      },
+      {
+        "forms" : [
+          "verboten"
+        ],
+        "note" : "Partizip II of verbieten (to forbid) used as an adjective; „etwas ist verboten“ = something is not allowed.",
+        "pos" : "adjective",
+        "translation" : "forbidden"
+      },
+      {
+        "forms" : [
+          "erbe",
+          "erbes"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Erbe is what is handed down, an inheritance or heritage; the genitive is des Erbes, and der Erbe (masculine) is the heir.",
+        "pos" : "noun",
+        "translation" : "heritage"
+      },
+      {
+        "forms" : [
+          "jean-jacques"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Jean-Jacques Dessalines (1758–1806), the leader who proclaimed Haiti's independence; the hyphenated name is one word.",
+        "pos" : "noun",
+        "translation" : "Jean-Jacques"
+      },
+      {
+        "forms" : [
+          "dessalines"
+        ],
+        "gender" : "masculine",
+        "note" : "Surname of Jean-Jacques Dessalines, who declared Haiti independent in Gonaïves on 1 January 1804; a name, so it takes no article.",
+        "pos" : "noun",
+        "translation" : "Dessalines"
+      },
+      {
+        "forms" : [
+          "gonaïves"
+        ],
+        "gender" : "neuter",
+        "note" : "A town on the west coast of Haiti where independence was declared; town names take no article: „in der Stadt Gonaïves“.",
+        "pos" : "noun",
+        "translation" : "Gonaïves"
+      },
+      {
+        "forms" : [
+          "unabhängigkeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Unabhängig (independent) + -keit makes a feminine noun; „die Unabhängigkeit von Frankreich“ = independence from France.",
+        "pos" : "noun",
+        "translation" : "independence"
+      },
+      {
+        "forms" : [
+          "revolution"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Revolution, like all nouns in -tion feminine and stressed on the last syllable.",
+        "pos" : "noun",
+        "translation" : "revolution"
+      },
+      {
+        "forms" : [
+          "litern"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Liter in the dative plural after in: „in anderthalb Litern Wasser“ = in one and a half litres of water.",
+        "pos" : "noun",
+        "translation" : "litres"
+      },
+      {
+        "forms" : [
+          "rindfleisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Rind (cattle) + das Fleisch (meat): German names meat by the animal, as in Schweinefleisch (pork).",
+        "pos" : "noun",
+        "translation" : "beef"
+      },
+      {
+        "forms" : [
+          "angeführt"
+        ],
+        "note" : "Partizip II of the separable verb anführen (to lead), so ge- goes between an and führt; „angeführt von“ = led by.",
+        "pos" : "verb",
+        "translation" : "led"
+      },
+      {
+        "forms" : [
+          "anerkannt"
+        ],
+        "note" : "Partizip II of the separable verb anerkennen (to recognise officially): an + erkannt, with no extra ge- because of the prefix er-; „wurde … anerkannt“ is the passive.",
+        "pos" : "verb",
+        "translation" : "recognised"
       }
     ],
     "italian" : [
@@ -90841,6 +92247,8 @@
           "aggiungendo",
           "aggiungeva",
           "aggiungi",
+          "aggiungono",
+          "aggiunta",
           "aggiunti",
           "aggiunto"
         ],
@@ -92789,6 +94197,7 @@
       },
       {
         "forms" : [
+          "compresa",
           "compreso"
         ],
         "note" : "Past participle of comprendere.",
@@ -93284,6 +94693,7 @@
       {
         "forms" : [
           "cucinandoli",
+          "cucinano",
           "cucinare",
           "cucinata",
           "cucinava"
@@ -95021,11 +96431,12 @@
       },
       {
         "forms" : [
+          "frullala",
           "frullava"
         ],
-        "note" : "Imperfect of frullare.",
+        "note" : "Imperfect of frullare (to blend); \"frullala\" = blend it (imperative).",
         "pos" : "verb",
-        "translation" : "used to blend"
+        "translation" : "to blend"
       },
       {
         "forms" : [
@@ -96525,6 +97936,7 @@
       },
       {
         "forms" : [
+          "mangiata",
           "mangiate",
           "mangiato"
         ],
@@ -98248,6 +99660,7 @@
           "portano",
           "portare",
           "portarlo",
+          "portasse",
           "portata",
           "portate",
           "portato",
@@ -98443,7 +99856,8 @@
       },
       {
         "forms" : [
-          "preparava"
+          "preparava",
+          "preparavano"
         ],
         "note" : "Imperfect of preparare.",
         "pos" : "verb",
@@ -98655,10 +100069,11 @@
       },
       {
         "forms" : [
+          "proprietari",
           "proprietaria"
         ],
         "gender" : "feminine",
-        "note" : "Feminine of proprietario.",
+        "note" : "Feminine of proprietario; \"proprietari\" = owners.",
         "pos" : "noun",
         "translation" : "owner"
       },
@@ -99255,11 +100670,12 @@
       {
         "forms" : [
           "riconoscendo",
+          "riconosciuta",
           "riconosciuto"
         ],
-        "note" : "Gerund of riconoscere.",
+        "note" : "Riconoscendo is the gerund (recognizing); riconosciuto the past participle (recognized); \"riconosciuta\" is its feminine.",
         "pos" : "verb",
-        "translation" : "recognizing"
+        "translation" : "recognizing; recognized"
       },
       {
         "forms" : [
@@ -99299,6 +100715,7 @@
       },
       {
         "forms" : [
+          "ridotta",
           "ridotte",
           "ridotti",
           "ridotto"
@@ -102033,6 +103450,7 @@
       },
       {
         "forms" : [
+          "venga",
           "vengono",
           "venire",
           "veniva"
@@ -103859,7 +105277,8 @@
       },
       {
         "forms" : [
-          "francese"
+          "francese",
+          "francesi"
         ],
         "note" : "Relating to France.",
         "pos" : "adjective",
@@ -104329,6 +105748,7 @@
       },
       {
         "forms" : [
+          "dell'unesco",
           "l'unesco"
         ],
         "note" : "The UN cultural agency.",
@@ -104503,6 +105923,8 @@
           "mangia",
           "mangiano",
           "mangiare",
+          "mangiarla",
+          "mangiarono",
           "mangiava"
         ],
         "note" : "Forms of \"mangiare.\"",
@@ -106623,7 +108045,7 @@
         "forms" : [
           "2021"
         ],
-        "note" : "The year of the kangaroo-care study.",
+        "note" : "A year; said \"duemilaventuno\".",
         "pos" : "number",
         "translation" : "2021"
       },
@@ -107807,7 +109229,8 @@
       },
       {
         "forms" : [
-          "noce"
+          "noce",
+          "noci"
         ],
         "gender" : "feminine",
         "note" : "The nut.",
@@ -109215,7 +110638,8 @@
       {
         "forms" : [
           "dichiarato",
-          "dichiarava"
+          "dichiarava",
+          "dichiarò"
         ],
         "note" : "From dichiarare.",
         "pos" : "verb",
@@ -109415,6 +110839,7 @@
       },
       {
         "forms" : [
+          "guidata",
           "guidato"
         ],
         "note" : "Past participle of guidare.",
@@ -109678,7 +111103,9 @@
       {
         "forms" : [
           "prepara",
-          "preparano"
+          "preparano",
+          "preparassero",
+          "preparato"
         ],
         "note" : "From preparare, third person singular present.",
         "pos" : "verb",
@@ -109737,7 +111164,8 @@
       },
       {
         "forms" : [
-          "rendi"
+          "rendi",
+          "rendila"
         ],
         "note" : "From rendere, second person singular present.",
         "pos" : "verb",
@@ -110136,7 +111564,8 @@
       {
         "forms" : [
           "vende",
-          "venderla"
+          "venderla",
+          "venduto"
         ],
         "note" : "From vendere, third person singular present.",
         "pos" : "verb",
@@ -112097,6 +113526,7 @@
         "forms" : [
           "trasmessa",
           "trasmette",
+          "trasmettere",
           "trasmettono"
         ],
         "note" : "Presente.",
@@ -113058,6 +114488,7 @@
       },
       {
         "forms" : [
+          "vivente",
           "viventi"
         ],
         "note" : "«Esseri viventi».",
@@ -116522,7 +117953,9 @@
       },
       {
         "forms" : [
-          "raccontano"
+          "racconta",
+          "raccontano",
+          "raccontavano"
         ],
         "note" : "Present of raccontare (loro), to tell a story: molti raccontano che… = many people tell that…",
         "pos" : "verb",
@@ -118170,6 +119603,470 @@
         "note" : "An advantage only some people have; masculine, plural privilegi.",
         "pos" : "noun",
         "translation" : "privilege"
+      },
+      {
+        "forms" : [
+          "1904"
+        ],
+        "note" : "The year Bircher-Benner opens his sanatorium; said millenovecentoquattro, and with the article: nel 1904 = in 1904.",
+        "pos" : "number",
+        "translation" : "1904"
+      },
+      {
+        "forms" : [
+          "maximilian"
+        ],
+        "note" : "First name of Maximilian Bircher-Benner (1867–1939), the Swiss doctor who created the dish now called muesli.",
+        "pos" : "noun",
+        "translation" : "Maximilian"
+      },
+      {
+        "forms" : [
+          "bircher-benner"
+        ],
+        "note" : "Surname of Maximilian Bircher-Benner, a doctor in Zurich; the double name is one hyphenated word.",
+        "pos" : "noun",
+        "translation" : "Bircher-Benner"
+      },
+      {
+        "forms" : [
+          "zurigo"
+        ],
+        "note" : "The Italian name of the Swiss city of Zürich; city names are feminine, but Zurigo is used without an article: a Zurigo = in Zurich.",
+        "pos" : "noun",
+        "translation" : "Zurich"
+      },
+      {
+        "forms" : [
+          "zurighese"
+        ],
+        "note" : "The adjective for Zurigo, one form for both genders: un medico zurighese = a Zurich doctor.",
+        "pos" : "adjective",
+        "translation" : "from Zurich, Zurich (adj.)"
+      },
+      {
+        "forms" : [
+          "svizzero"
+        ],
+        "note" : "Svizzero tedesco is the German spoken in Switzerland; like other language names it is masculine: in svizzero tedesco = in Swiss German.",
+        "pos" : "adjective",
+        "translation" : "Swiss"
+      },
+      {
+        "forms" : [
+          "d'spys"
+        ],
+        "note" : "Swiss German for \"the dish\", Bircher-Benner's own name for his apple meal; it is kept as it is in every language.",
+        "pos" : "noun",
+        "translation" : "the dish (Swiss German)"
+      },
+      {
+        "forms" : [
+          "lebendige"
+        ],
+        "note" : "German word in the name of the sanatorium, Lebendige Kraft; it is left in German and glossed as forza viva.",
+        "pos" : "adjective",
+        "translation" : "living"
+      },
+      {
+        "forms" : [
+          "kraft"
+        ],
+        "gender" : "feminine",
+        "note" : "German noun in the name Lebendige Kraft (living strength); German capitalises all nouns.",
+        "pos" : "noun",
+        "translation" : "strength, force"
+      },
+      {
+        "forms" : [
+          "viva"
+        ],
+        "note" : "Feminine of vivo, agreeing with forza: forza viva = living strength.",
+        "pos" : "adjective",
+        "translation" : "living, alive"
+      },
+      {
+        "forms" : [
+          "sanatorio"
+        ],
+        "gender" : "masculine",
+        "note" : "A clinic where patients stay for a long rest and a special diet, often in the mountains or above a town.",
+        "pos" : "noun",
+        "translation" : "sanatorium"
+      },
+      {
+        "forms" : [
+          "avena"
+        ],
+        "gender" : "feminine",
+        "note" : "Italian uses the singular for the grain: un cucchiaio di avena = a spoon of oats.",
+        "pos" : "noun",
+        "translation" : "oats"
+      },
+      {
+        "forms" : [
+          "ammollo"
+        ],
+        "gender" : "masculine",
+        "note" : "Used in the phrase in ammollo: lascia in ammollo = leave to soak (in water, so it softens).",
+        "pos" : "noun",
+        "translation" : "soaking"
+      },
+      {
+        "forms" : [
+          "ammollata"
+        ],
+        "note" : "Past participle of ammollare (to soak), feminine to agree with avena: avena ammollata = soaked oats.",
+        "pos" : "verb",
+        "translation" : "soaked"
+      },
+      {
+        "forms" : [
+          "cruda",
+          "crudo"
+        ],
+        "note" : "Not cooked; it agrees with its noun: mela cruda (feminine), cibo crudo (masculine).",
+        "pos" : "adjective",
+        "translation" : "raw"
+      },
+      {
+        "forms" : [
+          "grattugia",
+          "grattugiata"
+        ],
+        "note" : "From grattugiare: grattugia is the tu imperative of a recipe, grattugiata the participle that agrees with mela; as a noun, la grattugia is the grater.",
+        "pos" : "verb",
+        "translation" : "grate (imperative); grated"
+      },
+      {
+        "forms" : [
+          "tritate"
+        ],
+        "note" : "Past participle of tritare (to chop finely), feminine plural to agree with noci: noci tritate = chopped nuts.",
+        "pos" : "verb",
+        "translation" : "chopped"
+      },
+      {
+        "forms" : [
+          "cucchiaiata"
+        ],
+        "gender" : "feminine",
+        "note" : "As much as a spoon holds; the suffix -ata turns an object into its contents, like boccata (mouthful).",
+        "pos" : "noun",
+        "translation" : "spoonful"
+      },
+      {
+        "forms" : [
+          "incorpora"
+        ],
+        "note" : "Tu imperative of incorporare, to work an ingredient into a mixture until it disappears into it.",
+        "pos" : "verb",
+        "translation" : "stir in, mix in"
+      },
+      {
+        "forms" : [
+          "cospargi"
+        ],
+        "note" : "Tu imperative of cospargere; the thing scattered follows di: cospargi la superficie di noci = scatter nuts over the top.",
+        "pos" : "verb",
+        "translation" : "sprinkle, scatter"
+      },
+      {
+        "forms" : [
+          "yogurt"
+        ],
+        "gender" : "masculine",
+        "note" : "A loanword that does not change in the plural.",
+        "pos" : "noun",
+        "translation" : "yoghurt"
+      },
+      {
+        "forms" : [
+          "condensato"
+        ],
+        "note" : "Made thicker by removing water: latte condensato = condensed milk.",
+        "pos" : "adjective",
+        "translation" : "condensed"
+      },
+      {
+        "forms" : [
+          "zuccherato"
+        ],
+        "note" : "From zucchero (sugar), masculine to agree with latte: latte condensato zuccherato = sweetened condensed milk.",
+        "pos" : "adjective",
+        "translation" : "sweetened"
+      },
+      {
+        "forms" : [
+          "tubercolosi"
+        ],
+        "gender" : "feminine",
+        "note" : "A lung disease; in the past it could be passed on through fresh milk. Feminine, unchanged in the plural.",
+        "pos" : "noun",
+        "translation" : "tuberculosis"
+      },
+      {
+        "forms" : [
+          "servita",
+          "servito"
+        ],
+        "note" : "Past participle of servire (to serve food); with essere it forms the passive and agrees with the subject: era servita (mela), era servito (ciò).",
+        "pos" : "verb",
+        "translation" : "served"
+      },
+      {
+        "forms" : [
+          "affinché"
+        ],
+        "note" : "Gives the purpose of an action and is always followed by the subjunctive: affinché resti bianca = so that it stays white.",
+        "pos" : "conjunction",
+        "translation" : "so that"
+      },
+      {
+        "forms" : [
+          "alpi"
+        ],
+        "gender" : "feminine",
+        "note" : "The mountain range across Switzerland, Italy, France and Austria; always plural: le Alpi, sulle Alpi = in the Alps.",
+        "pos" : "noun",
+        "translation" : "the Alps"
+      },
+      {
+        "forms" : [
+          "europa"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine; it usually takes the article (l'Europa) but drops it after in: in tutta Europa = all over Europe.",
+        "pos" : "noun",
+        "translation" : "Europe"
+      },
+      {
+        "forms" : [
+          "muesli"
+        ],
+        "gender" : "masculine",
+        "note" : "A loanword from Swiss German for a dish of oats, fruit and nuts; masculine and unchanged in the plural.",
+        "pos" : "noun",
+        "translation" : "muesli"
+      },
+      {
+        "forms" : [
+          "pasto"
+        ],
+        "gender" : "masculine",
+        "note" : "Any of the day's meals (colazione, pranzo, cena); plural pasti.",
+        "pos" : "noun",
+        "translation" : "meal"
+      },
+      {
+        "forms" : [
+          "serale"
+        ],
+        "note" : "From sera, one form for both genders: un pasto serale = an evening meal.",
+        "pos" : "adjective",
+        "translation" : "evening (adj.)"
+      },
+      {
+        "forms" : [
+          "perlopiù"
+        ],
+        "note" : "Written as one word or as per lo più; it means for the most part.",
+        "pos" : "adverb",
+        "translation" : "mostly"
+      },
+      {
+        "forms" : [
+          "l'originale"
+        ],
+        "gender" : "masculine",
+        "note" : "L' + originale: as a noun it means the first version from which later ones came.",
+        "pos" : "noun",
+        "translation" : "the original"
+      },
+      {
+        "forms" : [
+          "1804"
+        ],
+        "note" : "The year Haiti became independent; said milleottocentoquattro, and a date takes il: il primo gennaio 1804 = 1 January 1804.",
+        "pos" : "number",
+        "translation" : "1804"
+      },
+      {
+        "forms" : [
+          "haiti"
+        ],
+        "gender" : "feminine",
+        "note" : "The Caribbean country that became independent from France in 1804; it is used without an article and treated as feminine: Haiti è libera.",
+        "pos" : "noun",
+        "translation" : "Haiti"
+      },
+      {
+        "forms" : [
+          "haitiane",
+          "haitiani"
+        ],
+        "note" : "Plural forms of haitiano, from Haiti; with the article it works as a noun: gli haitiani = Haitian people, le famiglie haitiane = Haitian families.",
+        "pos" : "adjective",
+        "translation" : "Haitian, Haitians"
+      },
+      {
+        "forms" : [
+          "joumou",
+          "soup"
+        ],
+        "gender" : "feminine",
+        "note" : "Soup joumou is the Haitian Creole name of the pumpkin soup eaten every 1 January; Italian keeps the name unchanged and makes it feminine, like zuppa: la soup joumou.",
+        "pos" : "noun",
+        "translation" : "soup joumou (Haitian pumpkin soup)"
+      },
+      {
+        "forms" : [
+          "zucca"
+        ],
+        "gender" : "feminine",
+        "note" : "La zucca is pumpkin or squash; una zuppa di zucca = a pumpkin soup (di + the ingredient).",
+        "pos" : "noun",
+        "translation" : "pumpkin"
+      },
+      {
+        "forms" : [
+          "lime"
+        ],
+        "gender" : "masculine",
+        "note" : "The green citrus fruit; the word is borrowed and does not change in the plural: succo di lime = lime juice.",
+        "pos" : "noun",
+        "translation" : "lime"
+      },
+      {
+        "forms" : [
+          "patate"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la patata: feminine nouns in -a take -e in the plural.",
+        "pos" : "noun",
+        "translation" : "potatoes"
+      },
+      {
+        "forms" : [
+          "schiavitù"
+        ],
+        "gender" : "feminine",
+        "note" : "Ridotto in schiavitù (reduced to slavery) is the respectful way to say enslaved: it names what was done to people, not who they were; the final accented ù never changes.",
+        "pos" : "noun",
+        "translation" : "slavery"
+      },
+      {
+        "forms" : [
+          "schiavizzati"
+        ],
+        "note" : "Past participle of schiavizzare used as an adjective: i cuochi schiavizzati = the enslaved cooks, the form used instead of a bare schiavi for people.",
+        "pos" : "adjective",
+        "translation" : "enslaved"
+      },
+      {
+        "forms" : [
+          "padroni"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il padrone, the person who owns land, a house or, in the history of slavery, other people.",
+        "pos" : "noun",
+        "translation" : "masters, owners"
+      },
+      {
+        "forms" : [
+          "cultura"
+        ],
+        "gender" : "feminine",
+        "note" : "La cultura: the customs, food and arts of a people; la cultura viva = living culture.",
+        "pos" : "noun",
+        "translation" : "culture"
+      },
+      {
+        "forms" : [
+          "dessalines",
+          "jean-jacques"
+        ],
+        "gender" : "masculine",
+        "note" : "Jean-Jacques Dessalines (1758–1806), the leader who declared Haiti's independence at Gonaïves on 1 January 1804; the hyphenated first name is one word.",
+        "pos" : "noun",
+        "translation" : "Jean-Jacques Dessalines"
+      },
+      {
+        "forms" : [
+          "gonaïves"
+        ],
+        "note" : "A town on Haiti's west coast where independence was declared in 1804; the dots on the ï show that a and i are said separately.",
+        "pos" : "noun",
+        "translation" : "Gonaïves"
+      },
+      {
+        "forms" : [
+          "rivoluzione"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns in -zione are feminine: la rivoluzione, plural le rivoluzioni.",
+        "pos" : "noun",
+        "translation" : "revolution"
+      },
+      {
+        "forms" : [
+          "litro"
+        ],
+        "gender" : "masculine",
+        "note" : "Un litro e mezzo = one and a half litres; e mezzo comes after the noun.",
+        "pos" : "noun",
+        "translation" : "litre"
+      },
+      {
+        "forms" : [
+          "manzo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il manzo is the animal and its meat: carne di manzo = beef.",
+        "pos" : "noun",
+        "translation" : "beef"
+      },
+      {
+        "forms" : [
+          "patria"
+        ],
+        "gender" : "feminine",
+        "note" : "One's own country; in patria e all'estero = at home and abroad.",
+        "pos" : "noun",
+        "translation" : "homeland"
+      },
+      {
+        "forms" : [
+          "patrimonio"
+        ],
+        "gender" : "masculine",
+        "note" : "What a people inherits and keeps alive; il patrimonio vivente = living heritage, UNESCO's term for traditions still practised.",
+        "pos" : "noun",
+        "translation" : "heritage"
+      },
+      {
+        "forms" : [
+          "ponendo"
+        ],
+        "note" : "Gerund of porre (irregular, to put); porre fine a = to put an end to: ponendo fine a una rivoluzione = ending a revolution.",
+        "pos" : "verb",
+        "translation" : "putting"
+      },
+      {
+        "forms" : [
+          "terrieri"
+        ],
+        "note" : "From terra (land); it is almost always used in proprietari terrieri = landowners.",
+        "pos" : "adjective",
+        "translation" : "land-owning"
+      },
+      {
+        "forms" : [
+          "assaggiarla"
+        ],
+        "note" : "Assaggiare (to taste, to try a little) + la (it), joined to the infinitive: permesso assaggiarla = allowed to taste it.",
+        "pos" : "verb",
+        "translation" : "to taste it"
       }
     ],
     "spanish" : [
@@ -118571,6 +120468,7 @@
       {
         "forms" : [
           "añade",
+          "añaden",
           "añadido",
           "añadió",
           "añadía"
@@ -119044,6 +120942,7 @@
       {
         "forms" : [
           "cocinaba",
+          "cocinan",
           "cocinar"
         ],
         "note" : "\"Cocinar\" infinitive, \"cocinaba\" imperfect.",
@@ -119080,9 +120979,9 @@
           "comida"
         ],
         "gender" : "feminine",
-        "note" : "General word for food.",
+        "note" : "General word for food; also a meal: \"la primera comida del año\" = the first meal of the year.",
         "pos" : "noun",
-        "translation" : "food"
+        "translation" : "food; meal"
       },
       {
         "forms" : [
@@ -119619,10 +121518,11 @@
       },
       {
         "forms" : [
-          "dueña"
+          "dueña",
+          "dueños"
         ],
         "gender" : "feminine",
-        "note" : "Female owner of the wallet.",
+        "note" : "Female owner; \"dueños\" = owners (men, or mixed).",
         "pos" : "noun",
         "translation" : "owner"
       },
@@ -120793,9 +122693,9 @@
           "manzana"
         ],
         "gender" : "feminine",
-        "note" : "Here: \"a city block,\" as in \"alrededor de la manzana\" (around the block).",
+        "note" : "Usually the fruit, an apple; it can also mean a city block, as in \"alrededor de la manzana\" (around the block).",
         "pos" : "noun",
-        "translation" : "block, apple"
+        "translation" : "apple; block"
       },
       {
         "forms" : [
@@ -121631,7 +123531,10 @@
       {
         "forms" : [
           "preparaba",
-          "preparar"
+          "preparaban",
+          "preparando",
+          "preparar",
+          "prepararon"
         ],
         "note" : "\"Preparar\" infinitive, \"preparaba\" imperfect.",
         "pos" : "verb",
@@ -122479,6 +124382,7 @@
       },
       {
         "forms" : [
+          "terminaba",
           "terminar"
         ],
         "note" : "Infinitive of terminar.",
@@ -123384,6 +125288,7 @@
       },
       {
         "forms" : [
+          "blanca",
           "blanco"
         ],
         "note" : "As in \"página en blanco\" (blank page).",
@@ -125000,7 +126905,7 @@
         "forms" : [
           "libre"
         ],
-        "note" : "Not busy or occupied.",
+        "note" : "Not busy or occupied; also free, not ruled by others: \"Haití es libre\".",
         "pos" : "adjective",
         "translation" : "free"
       },
@@ -125549,9 +127454,9 @@
           "probar",
           "probarla"
         ],
-        "note" : "Infinitive of probar.",
+        "note" : "Infinitive of probar; it also means \"to taste\": \"probarla\" = to taste it.",
         "pos" : "verb",
-        "translation" : "to try, test"
+        "translation" : "to try, test; to taste"
       },
       {
         "forms" : [
@@ -125821,7 +127726,8 @@
       {
         "forms" : [
           "reconoce",
-          "reconocido"
+          "reconocido",
+          "reconoció"
         ],
         "note" : "Forms of reconocer.",
         "pos" : "verb",
@@ -127046,6 +128952,7 @@
       {
         "forms" : [
           "llamabas",
+          "llaman",
           "llamando",
           "llamar",
           "llamas"
@@ -133003,6 +134910,7 @@
           "comerás",
           "comes",
           "comido",
+          "comieron",
           "comió",
           "comía"
         ],
@@ -133918,6 +135826,7 @@
       },
       {
         "forms" : [
+          "franceses",
           "francés"
         ],
         "note" : "Relating to France.",
@@ -134309,6 +136218,7 @@
       },
       {
         "forms" : [
+          "incorpora",
           "incorporado",
           "incorporó"
         ],
@@ -136384,6 +138294,7 @@
       {
         "forms" : [
           "viva",
+          "vivo",
           "vivos"
         ],
         "note" : "Feminine of \"vivo.\"",
@@ -136528,7 +138439,7 @@
         "forms" : [
           "2021"
         ],
-        "note" : "The year of the WHO kangaroo-care mortality study.",
+        "note" : "A year; said \"dos mil veintiuno\".",
         "pos" : "number",
         "translation" : "2021"
       },
@@ -137834,7 +139745,8 @@
       },
       {
         "forms" : [
-          "declarar"
+          "declarar",
+          "declaró"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -139074,6 +140986,7 @@
       {
         "forms" : [
           "permita",
+          "permitiera",
           "permitía"
         ],
         "note" : "Imperfect of permitir.",
@@ -141564,7 +143477,8 @@
       },
       {
         "forms" : [
-          "seco"
+          "seco",
+          "secos"
         ],
         "note" : "«El pan seco».",
         "pos" : "adjective",
@@ -141783,7 +143697,8 @@
         "forms" : [
           "transmite",
           "transmiten",
-          "transmitida"
+          "transmitida",
+          "transmitir"
         ],
         "note" : "Presente.",
         "pos" : "verb",
@@ -142458,6 +144373,8 @@
       },
       {
         "forms" : [
+          "cocer",
+          "cuece",
           "cuecen"
         ],
         "note" : "From cocer, o→ue: \"los espaguetis se cuecen\" = the spaghetti cooks.",
@@ -146013,7 +147930,8 @@
       },
       {
         "forms" : [
-          "hotel"
+          "hotel",
+          "hoteles"
         ],
         "gender" : "masculine",
         "note" : "The same word as in English, but the h is silent and the stress is on the last syllable.",
@@ -147642,6 +149560,422 @@
         "note" : "Plural of femenino; colegios femeninos = colleges for women.",
         "pos" : "adjective",
         "translation" : "for women, female"
+      },
+      {
+        "forms" : [
+          "1904"
+        ],
+        "note" : "Read \"mil novecientos cuatro\"; the year Bircher-Benner opened his sanatorium above Zurich.",
+        "pos" : "number",
+        "translation" : "1904"
+      },
+      {
+        "forms" : [
+          "maximilian"
+        ],
+        "note" : "First name of Maximilian Bircher-Benner (1867–1939), the Swiss doctor behind the original muesli.",
+        "pos" : "noun",
+        "translation" : "Maximilian"
+      },
+      {
+        "forms" : [
+          "bircher-benner"
+        ],
+        "note" : "Surname of Maximilian Bircher-Benner, a doctor in Zurich; the hyphen joins two family names into one.",
+        "pos" : "noun",
+        "translation" : "Bircher-Benner"
+      },
+      {
+        "forms" : [
+          "zúrich"
+        ],
+        "note" : "The largest city in Switzerland; Spanish writes it with an accent on the u: Zúrich.",
+        "pos" : "noun",
+        "translation" : "Zurich"
+      },
+      {
+        "forms" : [
+          "d'spys"
+        ],
+        "note" : "Bircher-Benner's own Swiss German name for his apple dish; it stays untranslated in the Spanish text.",
+        "pos" : "noun",
+        "translation" : "\"the dish\" (Swiss German)"
+      },
+      {
+        "forms" : [
+          "cruda"
+        ],
+        "note" : "Feminine of crudo, agreeing with comida or manzana: manzana cruda = raw apple.",
+        "pos" : "adjective",
+        "translation" : "raw"
+      },
+      {
+        "forms" : [
+          "suizo"
+        ],
+        "note" : "Masculine form (feminine suiza); alemán suizo = Swiss German, the German spoken in Switzerland.",
+        "pos" : "adjective",
+        "translation" : "Swiss"
+      },
+      {
+        "forms" : [
+          "ralla",
+          "rallada"
+        ],
+        "note" : "From rallar: ralla is the tú imperative, rallada the past participle used as an adjective (manzana rallada).",
+        "pos" : "verb",
+        "translation" : "grate (command); grated"
+      },
+      {
+        "forms" : [
+          "remoja",
+          "remojada"
+        ],
+        "note" : "From remojar: remoja is the tú imperative, remojada the past participle agreeing with avena.",
+        "pos" : "verb",
+        "translation" : "soak (command); soaked"
+      },
+      {
+        "forms" : [
+          "remojo"
+        ],
+        "gender" : "masculine",
+        "note" : "Used in \"en remojo\": dejar en remojo = to leave to soak.",
+        "pos" : "noun",
+        "translation" : "soaking"
+      },
+      {
+        "forms" : [
+          "frutos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of fruto; \"frutos secos\" is the everyday Spanish word for nuts such as almonds or hazelnuts.",
+        "pos" : "noun",
+        "translation" : "fruits; (frutos secos) nuts"
+      },
+      {
+        "forms" : [
+          "sanatorio"
+        ],
+        "gender" : "masculine",
+        "note" : "A clinic where patients stay to rest and recover, often in the mountains or the countryside.",
+        "pos" : "noun",
+        "translation" : "sanatorium"
+      },
+      {
+        "forms" : [
+          "alpes"
+        ],
+        "gender" : "masculine",
+        "note" : "The mountain range across Switzerland and its neighbours; always plural with the article: los Alpes.",
+        "pos" : "noun",
+        "translation" : "the Alps"
+      },
+      {
+        "forms" : [
+          "europa"
+        ],
+        "gender" : "feminine",
+        "note" : "The continent; \"toda Europa\" = all over Europe, with no article.",
+        "pos" : "noun",
+        "translation" : "Europe"
+      },
+      {
+        "forms" : [
+          "muesli"
+        ],
+        "gender" : "masculine",
+        "note" : "The oat and fruit dish that grew out of Bircher-Benner's evening apple dish; el muesli.",
+        "pos" : "noun",
+        "translation" : "muesli"
+      },
+      {
+        "forms" : [
+          "lebendige"
+        ],
+        "note" : "German adjective in the name of Bircher-Benner's sanatorium, Lebendige Kraft = living strength.",
+        "pos" : "other",
+        "translation" : "living (German)"
+      },
+      {
+        "forms" : [
+          "kraft"
+        ],
+        "gender" : "feminine",
+        "note" : "German noun in the name Lebendige Kraft, kept untranslated; the Spanish text glosses it as «fuerza viva».",
+        "pos" : "noun",
+        "translation" : "strength (German)"
+      },
+      {
+        "forms" : [
+          "ración"
+        ],
+        "gender" : "feminine",
+        "note" : "The amount of food for one person: para una ración = for one serving.",
+        "pos" : "noun",
+        "translation" : "portion, serving"
+      },
+      {
+        "forms" : [
+          "sopera",
+          "soperas"
+        ],
+        "note" : "In \"cucharada sopera\" (a tablespoon); it agrees with cucharada: tres cucharadas soperas.",
+        "pos" : "adjective",
+        "translation" : "soup (spoon) → tablespoon"
+      },
+      {
+        "forms" : [
+          "yogur"
+        ],
+        "gender" : "masculine",
+        "note" : "Spanish spelling of yoghurt; the plural is yogures.",
+        "pos" : "noun",
+        "translation" : "yoghurt"
+      },
+      {
+        "forms" : [
+          "condensada"
+        ],
+        "note" : "Feminine, agreeing with leche: leche condensada = condensed milk.",
+        "pos" : "adjective",
+        "translation" : "condensed"
+      },
+      {
+        "forms" : [
+          "azucarada"
+        ],
+        "note" : "From azúcar (sugar), feminine to agree with leche: leche condensada azucarada = sweetened condensed milk.",
+        "pos" : "adjective",
+        "translation" : "sweetened"
+      },
+      {
+        "forms" : [
+          "tuberculosis"
+        ],
+        "gender" : "feminine",
+        "note" : "A lung disease; the same form in singular and plural, with the article la.",
+        "pos" : "noun",
+        "translation" : "tuberculosis"
+      },
+      {
+        "forms" : [
+          "original"
+        ],
+        "note" : "Here used as a noun, el original = the first version; the same form serves both genders as an adjective.",
+        "pos" : "noun",
+        "translation" : "original"
+      },
+      {
+        "forms" : [
+          "1804"
+        ],
+        "note" : "The year Haiti became independent; read \"mil ochocientos cuatro\".",
+        "pos" : "number",
+        "translation" : "1804"
+      },
+      {
+        "forms" : [
+          "haití"
+        ],
+        "gender" : "masculine",
+        "note" : "A country in the Caribbean, on the island of La Española; written with an accent on the í.",
+        "pos" : "noun",
+        "translation" : "Haiti"
+      },
+      {
+        "forms" : [
+          "haitianas",
+          "haitianos"
+        ],
+        "note" : "Nationality words are not capitalised in Spanish: los haitianos = the Haitians, las familias haitianas = Haitian families.",
+        "pos" : "adjective",
+        "translation" : "Haitian, Haitians"
+      },
+      {
+        "forms" : [
+          "calabaza"
+        ],
+        "gender" : "feminine",
+        "note" : "Sopa de calabaza = pumpkin soup; in Spanish the material or ingredient follows de.",
+        "pos" : "noun",
+        "translation" : "pumpkin"
+      },
+      {
+        "forms" : [
+          "soup"
+        ],
+        "gender" : "feminine",
+        "note" : "Part of the Haitian name soup joumou, kept as it is; the Spanish word is sopa.",
+        "pos" : "noun",
+        "translation" : "soup (in the Haitian name)"
+      },
+      {
+        "forms" : [
+          "joumou"
+        ],
+        "gender" : "masculine",
+        "note" : "Haitian Creole for pumpkin, in the name soup joumou; the soup is often called sopa joumou in Spanish.",
+        "pos" : "noun",
+        "translation" : "pumpkin (Haitian Creole)"
+      },
+      {
+        "forms" : [
+          "comerla"
+        ],
+        "note" : "Comer + la: an object pronoun joins the end of an infinitive, here la = la sopa.",
+        "pos" : "verb",
+        "translation" : "to eat it"
+      },
+      {
+        "forms" : [
+          "puré"
+        ],
+        "gender" : "masculine",
+        "note" : "Hacer un puré = to blend or mash something until it is smooth.",
+        "pos" : "noun",
+        "translation" : "purée, mash"
+      },
+      {
+        "forms" : [
+          "patatas"
+        ],
+        "gender" : "feminine",
+        "note" : "Spanish of Spain; in Latin America the word is papas.",
+        "pos" : "noun",
+        "translation" : "potatoes"
+      },
+      {
+        "forms" : [
+          "lima"
+        ],
+        "gender" : "feminine",
+        "note" : "The small green citrus fruit; zumo de lima = lime juice (and Lima, with a capital, is the capital of Peru).",
+        "pos" : "noun",
+        "translation" : "lime"
+      },
+      {
+        "forms" : [
+          "independizó"
+        ],
+        "note" : "Pretérito indefinido of independizarse, a reflexive verb: Haití se independizó = Haiti became independent.",
+        "pos" : "verb",
+        "translation" : "became independent"
+      },
+      {
+        "forms" : [
+          "esclavizadas",
+          "esclavizados"
+        ],
+        "note" : "Personas esclavizadas = enslaved people: the word stresses that someone was forced into slavery, so it is preferred to esclavos.",
+        "pos" : "adjective",
+        "translation" : "enslaved"
+      },
+      {
+        "forms" : [
+          "cultura"
+        ],
+        "gender" : "feminine",
+        "note" : "La cultura viva = living culture, traditions people still practise.",
+        "pos" : "noun",
+        "translation" : "culture"
+      },
+      {
+        "forms" : [
+          "gonaïves"
+        ],
+        "gender" : "masculine",
+        "note" : "A town in the north-west of Haiti where independence was declared on 1 January 1804.",
+        "pos" : "noun",
+        "translation" : "Gonaïves"
+      },
+      {
+        "forms" : [
+          "jean-jacques"
+        ],
+        "gender" : "masculine",
+        "note" : "French first name of Jean-Jacques Dessalines, the leader of Haiti's independence.",
+        "pos" : "noun",
+        "translation" : "Jean-Jacques"
+      },
+      {
+        "forms" : [
+          "dessalines"
+        ],
+        "gender" : "masculine",
+        "note" : "Jean-Jacques Dessalines (1758–1806), who declared Haiti's independence in 1804.",
+        "pos" : "noun",
+        "translation" : "Dessalines"
+      },
+      {
+        "forms" : [
+          "independencia"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns ending in -encia are feminine: la independencia de Haití.",
+        "pos" : "noun",
+        "translation" : "independence"
+      },
+      {
+        "forms" : [
+          "revolución"
+        ],
+        "gender" : "feminine",
+        "note" : "Nouns ending in -ción are feminine; the plural revoluciones loses the accent.",
+        "pos" : "noun",
+        "translation" : "revolution"
+      },
+      {
+        "forms" : [
+          "tritúrala"
+        ],
+        "note" : "Tú imperative of triturar + la; the written accent keeps the stress on the same syllable as tritura.",
+        "pos" : "verb",
+        "translation" : "blend it"
+      },
+      {
+        "forms" : [
+          "litro"
+        ],
+        "gender" : "masculine",
+        "note" : "Litro y medio = a litre and a half, with no article before litro.",
+        "pos" : "noun",
+        "translation" : "litre"
+      },
+      {
+        "forms" : [
+          "vaca"
+        ],
+        "gender" : "feminine",
+        "note" : "Carne de vaca = beef; carne de res is the usual phrase in much of Latin America.",
+        "pos" : "noun",
+        "translation" : "cow"
+      },
+      {
+        "forms" : [
+          "patrimonio"
+        ],
+        "gender" : "masculine",
+        "note" : "Patrimonio vivo = living heritage: traditions that a people still keep.",
+        "pos" : "noun",
+        "translation" : "heritage"
+      },
+      {
+        "forms" : [
+          "encabezada"
+        ],
+        "note" : "Past participle of encabezar (from cabeza, head), agreeing with revolución: encabezada por = led by.",
+        "pos" : "adjective",
+        "translation" : "led, headed"
+      },
+      {
+        "forms" : [
+          "hacendados"
+        ],
+        "gender" : "masculine",
+        "note" : "Owners of a hacienda, a large farm or plantation; singular hacendado.",
+        "pos" : "noun",
+        "translation" : "plantation owners, landowners"
       }
     ]
   },
@@ -170521,6 +172855,586 @@
       "summary" : "Nell'ottobre del 1928 Virginia Woolf disse alle studentesse di Cambridge di che cosa ha bisogno chi scrive, e la sua risposta sta ancora in una riga.",
       "title" : "Una stanza tutta per sé",
       "translationGroup" : "room-of-ones-own"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-16",
+      "id" : "soup-joumou",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe tells you what to do: the verb comes first, with no \"you\": cook, make, add.",
+              "example" : "Add carrots, potatoes and a little pasta.",
+              "title" : "The imperative for a recipe"
+            },
+            {
+              "body" : "\"Cannot\" says that something is not possible or not allowed. The verb after it stays plain.",
+              "example" : "People say: before 1804, they cook pumpkin soup but cannot eat it.",
+              "title" : "Cannot + verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It is 1 January 1804. Haiti is free from France. It is a new country.",
+            "People say: before 1804, they cook pumpkin soup but cannot eat it. Now everybody eats it. They call it soup joumou.",
+            "Cook a big piece of pumpkin in water. Make it smooth. Add carrots, potatoes and a little pasta. Add lime juice and salt.",
+            "Today Haitians eat it every 1 January. In 2021 the soup is on a UNESCO list."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Could not\" says that something was not possible or not allowed in the past.",
+              "example" : "But they could not eat it.",
+              "title" : "Could not: the past of cannot"
+            },
+            {
+              "body" : "Many common verbs have their own past form: become → became, make → made, eat → ate.",
+              "example" : "On 1 January 1804 Haiti became free from France.",
+              "title" : "Past simple: became, made, ate"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 1 January 1804 Haiti became free from France. Before that, most people there were enslaved.",
+            "People say that the enslaved cooks made a pumpkin soup, soup joumou, for the French owners. But they could not eat it. On the first day of freedom, everybody ate it.",
+            "Here is a simple version for four people. Cook one kilo of pumpkin in water for twenty minutes, then make it smooth.",
+            "Add two carrots, two potatoes and a little pasta. Cook for twenty more minutes. Add lime juice and salt.",
+            "Haitians still eat it every 1 January. In 2021 UNESCO put it on its list of the world's living culture."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Be allowed to\" + verb says that someone has permission. \"Were not allowed to eat\" = it was forbidden for them.",
+              "example" : "But they were not allowed to eat it.",
+              "title" : "Were not allowed to"
+            },
+            {
+              "body" : "\"Did\" can stand for a verb already used, so you do not repeat it: everybody did = everybody ate it.",
+              "example" : "On the first day of freedom, everybody did.",
+              "title" : "Everybody did: did instead of a verb"
+            },
+            {
+              "body" : "\"Blend it until smooth\" = keep blending, and stop when it is smooth.",
+              "example" : "Then blend it until smooth.",
+              "title" : "Until for an end point"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 1 January 1804, in the town of Gonaïves, Jean-Jacques Dessalines declared Haiti independent from France after years of revolution by enslaved people.",
+            "Haitian families tell this story: the enslaved cooks made soup joumou, a pumpkin soup, for the French owners. But they were not allowed to eat it. On the first day of freedom, everybody did.",
+            "For four people, cook a kilo of pumpkin in a litre and a half of water for twenty minutes. Then blend it until smooth.",
+            "Add two carrots, two potatoes and a handful of pasta, and cook for twenty minutes more. Many families also add beef. Finish with lime juice and salt.",
+            "Haitians at home and abroad still eat it on 1 January, as the first meal of the year. In December 2021 UNESCO added it to its list of living heritage."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had been\" places one past event before another: they were enslaved before the revolution ended.",
+              "example" : "On 1 January 1804, in the town of Gonaïves, Jean-Jacques Dessalines declared Haiti independent from France, ending a revolution led by people who had been enslaved.",
+              "title" : "Past perfect: had been enslaved"
+            },
+            {
+              "body" : "\"Without being allowed to taste it\" = and they were not allowed to taste it. After a preposition, English uses the -ing form.",
+              "example" : "The story told in Haitian families is that the enslaved cooks prepared soup joumou, a pumpkin soup, for the French plantation owners without being allowed to taste it.",
+              "title" : "Without + -ing"
+            },
+            {
+              "body" : "A semicolon joins two complete sentences that belong together, without \"and\" or \"but\".",
+              "example" : "Add two carrots, two potatoes and a handful of pasta, and let it simmer for another twenty minutes; many families also cook beef in it.",
+              "title" : "A semicolon between two linked clauses"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 1 January 1804, in the town of Gonaïves, Jean-Jacques Dessalines declared Haiti independent from France, ending a revolution led by people who had been enslaved.",
+            "The story told in Haitian families is that the enslaved cooks prepared soup joumou, a pumpkin soup, for the French plantation owners without being allowed to taste it. On the first day of freedom, everybody ate it.",
+            "For a simple version for four, simmer a kilo of pumpkin in a litre and a half of water for twenty minutes, then blend it until smooth.",
+            "Add two carrots, two potatoes and a handful of pasta, and let it simmer for another twenty minutes; many families also cook beef in it. Finish with lime juice and salt.",
+            "Haitians at home and abroad still make it on 1 January as the first meal of the year. In December 2021 UNESCO recognised it as living heritage, Haiti's first entry on the list."
+          ]
+        }
+      ],
+      "summary" : "Every 1 January, Haitians eat a pumpkin soup that, people say, they were once not allowed to taste, and in 2021 UNESCO put it on its list of living heritage.",
+      "title" : "The Freedom Soup",
+      "translationGroup" : "soup-joumou"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-16",
+      "id" : "soup-joumou-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A French recipe speaks to the reader with the vous imperative: the present-tense vous form without vous (cuisez, rendez, ajoutez).",
+              "example" : "Ajoutez du jus de citron vert et du sel.",
+              "title" : "The vous imperative in a recipe"
+            },
+            {
+              "body" : "Ne goes before the conjugated verb and pas after it; an infinitive follows: ils ne peuvent pas la manger = they cannot eat it.",
+              "example" : "Mais ils ne peuvent pas la manger.",
+              "title" : "Ne … pas around the verb"
+            },
+            {
+              "body" : "An object pronoun goes before the verb in French: la stands for la soupe, so tout le monde la mange = everybody eats it.",
+              "example" : "Maintenant, tout le monde la mange.",
+              "title" : "La before the verb: it"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Le 1er janvier 1804, Haïti n'est plus à la France. C'est un nouveau pays libre.",
+            "On raconte : avant 1804, ils font la soupe au potiron. Mais ils ne peuvent pas la manger. Maintenant, tout le monde la mange. Ils l'appellent soup joumou.",
+            "Cuisez un gros morceau de potiron dans l'eau. Rendez-le lisse. Ajoutez des carottes, des pommes de terre et un peu de pâtes. Ajoutez du jus de citron vert et du sel.",
+            "Aujourd'hui, les Haïtiens la mangent chaque 1er janvier. En 2021, la soupe est sur une liste de l'UNESCO."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A few verbs of movement and change, like devenir, form the passé composé with être instead of avoir: Haïti est devenu libre = Haiti became free.",
+              "example" : "Le 1er janvier 1804, Haïti est devenu libre et indépendant de la France.",
+              "title" : "Passé composé with être: est devenu"
+            },
+            {
+              "body" : "In the passé composé, ne … pas surrounds the helper verb, and the infinitive comes after the participle: ils n'ont pas pu la manger = they could not eat it.",
+              "example" : "Mais ils n'ont pas pu la manger.",
+              "title" : "Ne … pas around the helper verb"
+            },
+            {
+              "body" : "With avoir the participle usually does not change, but it agrees with a direct object placed before it: la soupe → tout le monde l'a mangée.",
+              "example" : "Le premier jour de la liberté, tout le monde l'a mangée.",
+              "title" : "Agreement with an object placed before avoir"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 1er janvier 1804, Haïti est devenu libre et indépendant de la France. Avant cette date, la plupart des personnes en Haïti étaient réduites en esclavage.",
+            "On raconte que les cuisiniers esclaves ont fait une soupe au potiron pour les propriétaires français. C'était la soup joumou. Mais ils n'ont pas pu la manger. Le premier jour de la liberté, tout le monde l'a mangée.",
+            "Voici une version simple pour quatre personnes. Faites cuire un kilo de potiron dans de l'eau pendant vingt minutes, puis rendez-le lisse.",
+            "Ajoutez deux carottes, deux pommes de terre et un peu de pâtes. Faites cuire encore vingt minutes. Ajoutez du jus de citron vert et du sel.",
+            "Les Haïtiens la mangent encore chaque 1er janvier. En 2021, l'UNESCO l'a mise sur sa liste de la culture vivante du monde."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait (préparaient, n'étaient pas) describes a situation that lasted for years; the passé composé (a déclaré, a mangé) gives single events.",
+              "example" : "Mais ils n'étaient pas autorisés à la manger.",
+              "title" : "Imparfait for what went on, passé composé for events"
+            },
+            {
+              "body" : "En replaces de + a noun: tout le monde en a mangé = everybody ate some (of the soup). The participle does not agree with en.",
+              "example" : "Le premier jour de la liberté, tout le monde en a mangé.",
+              "title" : "En: some of it"
+            },
+            {
+              "body" : "Jusqu'à ce que (until) is always followed by the subjunctive: qu'il soit lisse, from être, = until it is smooth.",
+              "example" : "Mixez-le ensuite jusqu'à ce qu'il soit lisse.",
+              "title" : "Jusqu'à ce que + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 1er janvier 1804, dans la ville de Gonaïves, Jean-Jacques Dessalines a déclaré Haïti indépendant de la France. Avant cela, des personnes réduites en esclavage avaient mené des années de révolution.",
+            "Les familles haïtiennes racontent que les cuisiniers esclaves préparaient la soup joumou, une soupe au potiron, pour les propriétaires français. Mais ils n'étaient pas autorisés à la manger. Le premier jour de la liberté, tout le monde en a mangé.",
+            "Pour quatre personnes, faites cuire un kilo de potiron dans un litre et demi d'eau pendant vingt minutes. Mixez-le ensuite jusqu'à ce qu'il soit lisse.",
+            "Ajoutez deux carottes, deux pommes de terre et une poignée de pâtes, puis laissez cuire encore vingt minutes. Beaucoup de familles ajoutent aussi du bœuf. Terminez avec du jus de citron vert et du sel.",
+            "En Haïti comme à l'étranger, les Haïtiens la mangent encore le 1er janvier, comme premier repas de l'année. En décembre 2021, l'UNESCO l'a inscrite sur sa liste des traditions vivantes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "At the start of a sentence, ainsi (thus) often puts the verb before the subject in written French: ainsi s'achevait une révolution = thus a revolution came to an end.",
+              "example" : "Ainsi s'achevait une révolution menée par des personnes qui avaient été réduites en esclavage.",
+              "title" : "Inversion after ainsi"
+            },
+            {
+              "body" : "In a relative clause, a short verb may come before a long subject: l'histoire que racontent les familles haïtiennes = the story that Haitian families tell.",
+              "example" : "Selon l'histoire que racontent les familles haïtiennes, les cuisiniers esclaves préparaient la soup joumou, une soupe au potiron, pour les planteurs français, sans être autorisés à y goûter.",
+              "title" : "Verb before subject after que"
+            },
+            {
+              "body" : "Written narration uses the passé simple for single past events; -er verbs end in -a in the il/elle form (déclara, mangea), where speech would say a déclaré, a mangé.",
+              "example" : "Au premier jour de la liberté, tout le monde en mangea.",
+              "title" : "Passé simple: déclara, mangea"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 1er janvier 1804, dans la ville de Gonaïves, Jean-Jacques Dessalines déclara Haïti indépendant de la France. Ainsi s'achevait une révolution menée par des personnes qui avaient été réduites en esclavage.",
+            "Selon l'histoire que racontent les familles haïtiennes, les cuisiniers esclaves préparaient la soup joumou, une soupe au potiron, pour les planteurs français, sans être autorisés à y goûter. Au premier jour de la liberté, tout le monde en mangea.",
+            "Pour quatre personnes, en version simple, faites mijoter un kilo de potiron dans un litre et demi d'eau pendant vingt minutes, puis mixez-le jusqu'à obtenir une soupe lisse.",
+            "Ajoutez deux carottes, deux pommes de terre et une poignée de pâtes, et laissez mijoter vingt minutes de plus ; beaucoup de familles y font aussi cuire du bœuf. Terminez par du jus de citron vert et du sel.",
+            "En Haïti comme à l'étranger, les Haïtiens la préparent encore chaque 1er janvier, comme premier repas de l'année. En décembre 2021, l'UNESCO l'a reconnue comme tradition vivante, premier élément haïtien inscrit sur sa liste."
+          ]
+        }
+      ],
+      "summary" : "Chaque 1er janvier, les Haïtiens mangent une soupe au potiron que, dit-on, ils n'avaient autrefois pas le droit de goûter, et en 2021 l'UNESCO l'a inscrite sur sa liste du patrimoine vivant.",
+      "title" : "La soupe de la liberté",
+      "translationGroup" : "soup-joumou"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-16",
+      "id" : "soup-joumou-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to one reader with the verb in first place and no \"du\": kochen → koch, machen → mach, geben → gib. Geben changes its vowel (e → i), as in \"du gibst\".",
+              "example" : "Mach daraus eine glatte Suppe.",
+              "title" : "The du-imperative in a recipe: Koch, Mach, Gib"
+            },
+            {
+              "body" : "With a modal verb like dürfen (to be allowed to), the modal takes second place and the second verb goes to the end as an infinitive: sie dürfen … nicht essen.",
+              "example" : "Aber sie dürfen die Suppe nicht essen.",
+              "title" : "Dürfen + infinitive at the end"
+            },
+            {
+              "body" : "Dazugeben (to add) splits in the imperative: the verb comes first and the particle \"dazu\" goes to the end of the sentence.",
+              "example" : "Gib Limettensaft und Salz dazu.",
+              "title" : "Separable verb: dazugeben → Gib … dazu"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist der erste Januar 1804. Haiti ist frei von Frankreich. Es ist ein neues Land.",
+            "Man sagt: Vor 1804 kochen die Menschen Kürbissuppe. Aber sie dürfen die Suppe nicht essen. Jetzt essen alle die Suppe. Sie heißt soup joumou.",
+            "Koch ein großes Stück Kürbis in Wasser. Mach daraus eine glatte Suppe. Gib Karotten, Kartoffeln und etwas Nudeln dazu. Gib Limettensaft und Salz dazu.",
+            "Heute essen Haitianer die Suppe jeden ersten Januar. 2021 steht sie auf einer UNESCO-Liste."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Werden (to become) forms its Perfekt with sein, not haben: Haiti ist frei geworden. The Partizip II geworden goes to the end of the sentence.",
+              "example" : "Am ersten Januar 1804 ist Haiti frei von Frankreich geworden.",
+              "title" : "Perfekt with sein: ist … geworden"
+            },
+            {
+              "body" : "Most verbs form the Perfekt with haben in second place and the Partizip II at the end. Kochen is regular (gekocht); essen is irregular (gegessen).",
+              "example" : "Am ersten Tag der Freiheit haben alle soup joumou gegessen.",
+              "title" : "Perfekt with haben: haben … gekocht, gegessen"
+            },
+            {
+              "body" : "In an instruction the verb comes first and its particle goes to the end: dazugeben → Gib … dazu. Everything else sits in between.",
+              "example" : "Gib zum Schluss Limettensaft und Salz dazu.",
+              "title" : "Separable verbs at the end: gib … dazu"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am ersten Januar 1804 ist Haiti frei von Frankreich geworden. Davor waren die meisten Menschen dort versklavt.",
+            "Die versklavten Köche haben eine Kürbissuppe für die französischen Besitzer gekocht, so erzählt man. Aber für die Köche selbst war die Suppe verboten. Am ersten Tag der Freiheit haben alle soup joumou gegessen.",
+            "Hier ist ein einfaches Rezept für vier Personen. Koch ein Kilo Kürbis zwanzig Minuten in Wasser, dann mach daraus eine glatte Suppe.",
+            "Gib zwei Karotten, zwei Kartoffeln und etwas Nudeln dazu. Koch alles noch zwanzig Minuten. Gib zum Schluss Limettensaft und Salz dazu.",
+            "Die Haitianer essen die Suppe noch heute an jedem ersten Januar. 2021 hat die UNESCO sie auf ihre Liste der lebendigen Kultur der Welt gesetzt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Modal verbs tell a story in the Präteritum, even in speech: dürfen → durften (were allowed to). With \"nicht\" it means something was forbidden.",
+              "example" : "Doch sie durften sie nicht essen.",
+              "title" : "Durften: the Präteritum of dürfen"
+            },
+            {
+              "body" : "\"Bis\" (until) starts a clause that says when to stop, and sends its verb to the end: bis er ganz glatt ist. \"Er\" is the pumpkin, because der Kürbis is masculine.",
+              "example" : "Püriere ihn dann, bis er ganz glatt ist.",
+              "title" : "Bis for an end point"
+            },
+            {
+              "body" : "\"Davon\" (of it) points back to the soup and avoids repeating it: alle aßen davon = everybody ate some of it.",
+              "example" : "Am ersten Tag der Freiheit aßen alle davon.",
+              "title" : "Davon: eating some of something"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am ersten Januar 1804 verkündete Jean-Jacques Dessalines in der Stadt Gonaïves die Unabhängigkeit Haitis von Frankreich, nach Jahren der Revolution versklavter Menschen.",
+            "In haitianischen Familien erzählt man: Die versklavten Köche kochten soup joumou, eine Kürbissuppe, für die französischen Besitzer. Doch sie durften sie nicht essen. Am ersten Tag der Freiheit aßen alle davon.",
+            "Koch für vier Personen ein Kilo Kürbis zwanzig Minuten lang in anderthalb Litern Wasser. Püriere ihn dann, bis er ganz glatt ist.",
+            "Gib zwei Karotten, zwei Kartoffeln und eine Handvoll Nudeln dazu und koch alles noch zwanzig Minuten. Viele Familien geben auch Rindfleisch dazu. Würze zum Schluss mit Limettensaft und Salz.",
+            "Haitianer zu Hause und im Ausland essen die Suppe noch immer am ersten Januar, als erste Mahlzeit des Jahres. Im Dezember 2021 setzte die UNESCO sie auf ihre Liste des lebendigen Erbes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Reported tradition goes into the Konjunktiv: the writer passes the story on without vouching for it. Konjunktiv I \"haben\" looks like the indicative, so German switches to Konjunktiv II: hätten … zubereitet.",
+              "example" : "In haitianischen Familien erzählt man, die versklavten Köche hätten die Kürbissuppe soup joumou für die französischen Plantagenbesitzer zubereitet, ohne sie probieren zu dürfen.",
+              "title" : "Konjunktiv for a story without a guarantee: hätten"
+            },
+            {
+              "body" : "Plusquamperfekt passive is Partizip II + worden + war/waren: it places one past event before another, here before the revolution ended. The participle \"angeführt von\" replaces a second relative clause.",
+              "example" : "So endete eine Revolution, angeführt von Menschen, die versklavt worden waren.",
+              "title" : "Past perfect passive: versklavt worden waren"
+            },
+            {
+              "body" : "\"Lassen\" + infinitive means to let something happen: lass den Kürbis köcheln = let the pumpkin simmer. The infinitive goes to the end of its clause.",
+              "example" : "Lass für eine einfache Version für vier Personen ein Kilo Kürbis in anderthalb Litern Wasser zwanzig Minuten köcheln und püriere ihn glatt.",
+              "title" : "Lassen + infinitive: lass … köcheln"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am ersten Januar 1804 verkündete Jean-Jacques Dessalines in der Stadt Gonaïves die Unabhängigkeit Haitis von Frankreich. So endete eine Revolution, angeführt von Menschen, die versklavt worden waren.",
+            "In haitianischen Familien erzählt man, die versklavten Köche hätten die Kürbissuppe soup joumou für die französischen Plantagenbesitzer zubereitet, ohne sie probieren zu dürfen. Am ersten Tag der Freiheit aßen alle davon.",
+            "Lass für eine einfache Version für vier Personen ein Kilo Kürbis in anderthalb Litern Wasser zwanzig Minuten köcheln und püriere ihn glatt.",
+            "Gib zwei Karotten, zwei Kartoffeln und eine Handvoll Nudeln dazu und lass alles weitere zwanzig Minuten köcheln; viele Familien garen auch Rindfleisch darin. Würze zum Schluss mit Limettensaft und Salz.",
+            "Haitianer zu Hause wie im Ausland kochen die Suppe bis heute am ersten Januar als erste Mahlzeit des Jahres. Im Dezember 2021 wurde sie von der UNESCO als lebendiges Erbe anerkannt, als erste Tradition Haitis auf dieser Liste."
+          ]
+        }
+      ],
+      "summary" : "Jeden ersten Januar essen die Menschen in Haiti eine Kürbissuppe, die sie früher nicht probieren durften, so erzählt man, und 2021 hat die UNESCO sie in ihre Liste des lebendigen Erbes aufgenommen.",
+      "title" : "Die Suppe der Freiheit",
+      "translationGroup" : "soup-joumou"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-16",
+      "id" : "soup-joumou-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to one person with the tú imperative, which for regular verbs looks like the él/ella present: añade, cuece. Hacer is irregular: haz.",
+              "example" : "Añade zanahorias, patatas y un poco de pasta.",
+              "title" : "The tú imperative in recipes"
+            },
+            {
+              "body" : "Poder (can) is followed by a plain infinitive: no pueden comer = they cannot eat. An object pronoun can join the end of the infinitive: comerla = eat it.",
+              "example" : "Pero no pueden comerla.",
+              "title" : "Poder + infinitive"
+            },
+            {
+              "body" : "With a normal verb, the object pronoun comes before it: la comen = they eat it. La stands for la sopa.",
+              "example" : "Ahora todos la comen.",
+              "title" : "The object pronoun before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es el 1 de enero de 1804. Haití es libre de Francia. Es un país nuevo.",
+            "La gente dice: antes de 1804, cocinan sopa de calabaza. Pero no pueden comerla. Ahora todos la comen. La llaman soup joumou.",
+            "Cuece un trozo grande de calabaza en agua. Haz un puré. Añade zanahorias, patatas y un poco de pasta. Añade zumo de lima y sal.",
+            "Hoy los haitianos la comen cada 1 de enero. En 2021, la sopa está en una lista de la UNESCO."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A finished action in the past takes the indefinido: -ar verbs end in -aron for they (prepararon), -er verbs in -ieron (comieron), and poner is irregular (puso).",
+              "example" : "El primer día de libertad, todos la comieron.",
+              "title" : "Pretérito indefinido: prepararon, comieron, puso"
+            },
+            {
+              "body" : "To describe how things were, not what happened, Spanish uses the imperfect: era (ser), tenían (tener). No tener permiso para = not to be allowed to.",
+              "example" : "Pero ellos no tenían permiso para comerla.",
+              "title" : "Era, tenían: the imperfect for background"
+            },
+            {
+              "body" : "Some verbs need se: independizarse = to become independent. In the past, se stays before the verb: Haití se independizó.",
+              "example" : "El 1 de enero de 1804, Haití se independizó de Francia.",
+              "title" : "Reflexive verbs: se independizó"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 1 de enero de 1804, Haití se independizó de Francia. Antes, la mayoría de sus habitantes eran personas esclavizadas.",
+            "La gente dice que los cocineros esclavizados prepararon soup joumou para los dueños franceses. Era una sopa de calabaza. Pero ellos no tenían permiso para comerla. El primer día de libertad, todos la comieron.",
+            "Esta es una versión sencilla para cuatro personas. Cuece un kilo de calabaza en agua durante veinte minutos. Después, haz un puré.",
+            "Añade dos zanahorias, dos patatas y un poco de pasta. Cuece todo veinte minutos más. Añade zumo de lima y sal.",
+            "Los haitianos todavía la comen cada 1 de enero. En 2021, la UNESCO la puso en su lista de la cultura viva del mundo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (preparaban) describes what used to happen again and again; the preterite (comieron) tells one finished event that changes things.",
+              "example" : "El primer día de libertad, la comieron todos.",
+              "title" : "Imperfect and preterite together"
+            },
+            {
+              "body" : "Se + a third-person verb leaves out who does the action: no se les permitía = they were not allowed. Les (to them) shows who was not allowed.",
+              "example" : "Pero no se les permitía comerla.",
+              "title" : "No se les permitía: the impersonal se"
+            },
+            {
+              "body" : "\"Hasta que\" (until) about something that has not happened yet takes the subjunctive: hasta que quede fina = until it is smooth.",
+              "example" : "Después, tritúrala hasta que quede fina.",
+              "title" : "Hasta que + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 1 de enero de 1804, en la ciudad de Gonaïves, Jean-Jacques Dessalines declaró la independencia de Haití frente a Francia. La libertad llegó tras años de revolución de las personas esclavizadas.",
+            "Las familias haitianas dicen que los cocineros esclavizados preparaban soup joumou, una sopa de calabaza, para los dueños franceses. Pero no se les permitía comerla. El primer día de libertad, la comieron todos.",
+            "Para cuatro personas, cuece un kilo de calabaza en litro y medio de agua durante veinte minutos. Después, tritúrala hasta que quede fina.",
+            "Añade dos zanahorias, dos patatas y un puñado de pasta, y cuece veinte minutos más. Muchas familias también añaden carne de vaca. Termina con zumo de lima y sal.",
+            "Dentro y fuera de Haití, los haitianos todavía la comen el 1 de enero, como primera comida del año. En diciembre de 2021, la UNESCO la añadió a su lista del patrimonio vivo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + sido + participle places a passive state before another past event: they had been enslaved before the revolution ended. The participle agrees with personas.",
+              "example" : "Terminaba así una revolución encabezada por personas que habían sido esclavizadas.",
+              "title" : "Pluperfect passive: habían sido esclavizadas"
+            },
+            {
+              "body" : "\"Sin que\" (without) always takes the subjunctive, and after a past verb the imperfect subjunctive: sin que se les permitiera = without their being allowed.",
+              "example" : "En las familias haitianas se dice que los cocineros esclavizados preparaban soup joumou, una sopa de calabaza, para los hacendados franceses sin que se les permitiera probarla.",
+              "title" : "Sin que + imperfect subjunctive"
+            },
+            {
+              "body" : "Seguir + gerund (-ando, -iendo) says that something continues: la siguen preparando = they still make it. The pronoun may also go before seguir.",
+              "example" : "Dentro y fuera de Haití, los haitianos la siguen preparando cada 1 de enero como primera comida del año.",
+              "title" : "Seguir + gerund for \"still\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 1 de enero de 1804, en la ciudad de Gonaïves, Jean-Jacques Dessalines declaró la independencia de Haití frente a Francia. Terminaba así una revolución encabezada por personas que habían sido esclavizadas.",
+            "En las familias haitianas se dice que los cocineros esclavizados preparaban soup joumou, una sopa de calabaza, para los hacendados franceses sin que se les permitiera probarla. El primer día de libertad, todos la comieron.",
+            "En una versión sencilla para cuatro personas, cuece a fuego lento un kilo de calabaza en litro y medio de agua durante veinte minutos. Luego tritúrala hasta que quede fina.",
+            "Añade dos zanahorias, dos patatas y un puñado de pasta, y déjala cocer otros veinte minutos; muchas familias cuecen en ella también carne de vaca. Termina con zumo de lima y sal.",
+            "Dentro y fuera de Haití, los haitianos la siguen preparando cada 1 de enero como primera comida del año. En diciembre de 2021, la UNESCO la reconoció como patrimonio vivo, la primera entrada de Haití en la lista."
+          ]
+        }
+      ],
+      "summary" : "Cada 1 de enero, los haitianos comen una sopa de calabaza que, según dicen, antes no podían probar, y en 2021 la UNESCO la puso en su lista del patrimonio vivo.",
+      "title" : "La sopa de la libertad",
+      "translationGroup" : "soup-joumou"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-16",
+      "id" : "soup-joumou-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe speaks to one person with the tu imperative, verb first: cuoci, aggiungi. A pronoun is joined to the end of the imperative: rendila = make it.",
+              "example" : "Aggiungi carote, patate e un po' di pasta.",
+              "title" : "The tu imperative in recipes"
+            },
+            {
+              "body" : "La gente (people) is a singular noun in Italian, so its verb is singular too: la gente dice = people say.",
+              "example" : "La gente dice: prima del 1804 cucinano la zuppa di zucca.",
+              "title" : "La gente takes a singular verb"
+            },
+            {
+              "body" : "Potere (can) is followed by a plain infinitive, and an object pronoun can be joined to its end: non possono mangiarla = they cannot eat it.",
+              "example" : "Ma non possono mangiarla.",
+              "title" : "Potere + infinitive"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il primo gennaio 1804. Haiti è libera dalla Francia. È un paese nuovo.",
+            "La gente dice: prima del 1804 cucinano la zuppa di zucca. Ma non possono mangiarla. Ora tutti la mangiano. La chiamano soup joumou.",
+            "Cuoci un pezzo grande di zucca in acqua. Rendila liscia. Aggiungi carote, patate e un po' di pasta. Aggiungi succo di lime e sale.",
+            "Oggi gli haitiani mangiano la zuppa ogni primo gennaio. Nel 2021 la zuppa entra in una lista dell'UNESCO."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of change such as diventare form the passato prossimo with essere, and the participle agrees with the subject: Haiti è diventata (feminine).",
+              "example" : "Il primo gennaio 1804 Haiti è diventata libera dalla Francia.",
+              "title" : "Passato prossimo with essere"
+            },
+            {
+              "body" : "Potere in the passato prossimo says that something was not possible or not allowed: non hanno potuto mangiarla = they could not eat it.",
+              "example" : "Ma non hanno potuto mangiarla.",
+              "title" : "Non hanno potuto: the past of cannot"
+            },
+            {
+              "body" : "With avere the participle normally stays in -o, but after the pronouns lo, la, li, le it agrees with them: l'ha messa = has put it (la zuppa).",
+              "example" : "Nel 2021 l'UNESCO l'ha messa nella sua lista della cultura viva del mondo.",
+              "title" : "L'ha messa: the participle agrees with the pronoun"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il primo gennaio 1804 Haiti è diventata libera dalla Francia. Prima di allora, la maggior parte delle persone di Haiti era ridotta in schiavitù.",
+            "La gente racconta che i cuochi schiavizzati hanno preparato una zuppa di zucca per i padroni francesi. Ma non hanno potuto mangiarla. Il primo giorno di libertà, tutti hanno mangiato la soup joumou.",
+            "Ecco una versione semplice per quattro persone. Cuoci un chilo di zucca in acqua per venti minuti, poi rendila liscia.",
+            "Aggiungi due carote, due patate e un po' di pasta. Cuoci per altri venti minuti. Aggiungi succo di lime e sale.",
+            "Gli haitiani mangiano ancora questa zuppa ogni primo gennaio. Nel 2021 l'UNESCO l'ha messa nella sua lista della cultura viva del mondo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Essere permesso is used impersonally, with the person after a: a loro non era permesso mangiarla = they were not allowed to eat it. The imperfect era describes a lasting situation.",
+              "example" : "Ma a loro non era permesso mangiarla.",
+              "title" : "Non era permesso + infinitive"
+            },
+            {
+              "body" : "Preparavano (imperfect) is what the cooks did again and again; l'hanno mangiata (passato prossimo) is what happened once, on the first day of freedom.",
+              "example" : "Il primo giorno di libertà, invece, l'hanno mangiata tutti.",
+              "title" : "Imperfect for habits, passato prossimo for one event"
+            },
+            {
+              "body" : "Fino a + infinitive says how far to go: frullala fino a renderla liscia = blend it until it is smooth.",
+              "example" : "Poi frullala fino a renderla liscia.",
+              "title" : "Fino a + infinitive for an end point"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il primo gennaio 1804, nella città di Gonaïves, Jean-Jacques Dessalines ha dichiarato Haiti indipendente dalla Francia. È successo dopo anni di rivoluzione delle persone ridotte in schiavitù.",
+            "Le famiglie haitiane raccontano questa storia: i cuochi schiavizzati preparavano la soup joumou, una zuppa di zucca, per i padroni francesi. Ma a loro non era permesso mangiarla. Il primo giorno di libertà, invece, l'hanno mangiata tutti.",
+            "Per quattro persone, cuoci un chilo di zucca in un litro e mezzo d'acqua per venti minuti. Poi frullala fino a renderla liscia.",
+            "Aggiungi due carote, due patate e una manciata di pasta, e cuoci per altri venti minuti. Molte famiglie aggiungono anche carne di manzo. Finisci con succo di lime e sale.",
+            "Gli haitiani, in patria e all'estero, la mangiano ancora il primo gennaio, come primo pasto dell'anno. Nel dicembre 2021 l'UNESCO l'ha aggiunta alla sua lista del patrimonio vivente."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The trapassato prossimo (imperfect of essere or avere + participle) places one past event before another: they had been enslaved before the revolution ended.",
+              "example" : "Il primo gennaio 1804, nella città di Gonaïves, Jean-Jacques Dessalines dichiarò Haiti indipendente dalla Francia, ponendo fine a una rivoluzione guidata da persone che erano state ridotte in schiavitù.",
+              "title" : "Trapassato prossimo: erano state ridotte"
+            },
+            {
+              "body" : "After a verb of telling, the indicative reports a fact, while the subjunctive keeps a distance: raccontano che preparassero = they tell that the cooks prepared it (a story, not a proven fact).",
+              "example" : "Le famiglie haitiane raccontano che i cuochi schiavizzati preparassero la soup joumou, una zuppa di zucca, per i proprietari terrieri francesi, senza che fosse loro permesso assaggiarla.",
+              "title" : "Raccontare che + subjunctive"
+            },
+            {
+              "body" : "Fare + infinitive means to make something happen: fai sobbollire = let it simmer, literally make it simmer. Lasciare + infinitive works the same way: lascia sobbollire.",
+              "example" : "Per una versione semplice per quattro persone, fai sobbollire un chilo di zucca in un litro e mezzo d'acqua per venti minuti.",
+              "title" : "Fare + infinitive: fai sobbollire"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il primo gennaio 1804, nella città di Gonaïves, Jean-Jacques Dessalines dichiarò Haiti indipendente dalla Francia, ponendo fine a una rivoluzione guidata da persone che erano state ridotte in schiavitù.",
+            "Le famiglie haitiane raccontano che i cuochi schiavizzati preparassero la soup joumou, una zuppa di zucca, per i proprietari terrieri francesi, senza che fosse loro permesso assaggiarla. Il primo giorno di libertà, la mangiarono tutti.",
+            "Per una versione semplice per quattro persone, fai sobbollire un chilo di zucca in un litro e mezzo d'acqua per venti minuti. Poi frullala fino a renderla liscia.",
+            "Aggiungi due carote, due patate e una manciata di pasta, e lascia sobbollire per altri venti minuti; molte famiglie cuociono nella zuppa anche carne di manzo. Finisci con succo di lime e sale.",
+            "Gli haitiani, in patria e all'estero, la preparano ancora il primo gennaio come primo pasto dell'anno. Nel dicembre 2021 l'UNESCO l'ha riconosciuta come patrimonio vivente, la prima iscrizione di Haiti nella lista."
+          ]
+        }
+      ],
+      "summary" : "Ogni primo gennaio gli haitiani mangiano una zuppa di zucca che, si racconta, un tempo non potevano assaggiare, e nel 2021 l'UNESCO l'ha messa nella sua lista del patrimonio vivente.",
+      "title" : "La zuppa della libertà",
+      "translationGroup" : "soup-joumou"
     }
   ]
 }
