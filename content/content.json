@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 16,
-  "generatedAt" : "2026-10-19",
+  "contentVersion" : 17,
+  "generatedAt" : "2026-10-20",
   "glossary" : {
     "english" : [
       {
@@ -1119,7 +1119,9 @@
       {
         "forms" : [
           "child",
-          "children"
+          "child's",
+          "children",
+          "children's"
         ],
         "note" : "\"Children\" is the plural.",
         "pos" : "noun",
@@ -3087,7 +3089,8 @@
       },
       {
         "forms" : [
-          "here"
+          "here",
+          "here's"
         ],
         "note" : "Refers to this location.",
         "pos" : "adverb",
@@ -4462,9 +4465,9 @@
           "opened",
           "openly"
         ],
-        "note" : "\"Openly\" is the adverb, meaning \"without hiding.\"",
+        "note" : "As a verb, open/opened: \"she opened a room for children\". \"Openly\" is the adverb, meaning \"without hiding.\"",
         "pos" : "adjective",
-        "translation" : "not closed / to make not closed"
+        "translation" : "not closed / to make not closed, to start (a shop, a school)"
       },
       {
         "forms" : [
@@ -4714,6 +4717,7 @@
       },
       {
         "forms" : [
+          "pick",
           "picked"
         ],
         "note" : "Past tense of \"pick.\"",
@@ -5493,7 +5497,8 @@
       },
       {
         "forms" : [
-          "school"
+          "school",
+          "schools"
         ],
         "note" : "As in \"the school parade.\"",
         "pos" : "noun",
@@ -5707,6 +5712,7 @@
       {
         "forms" : [
           "she",
+          "she'd",
           "she's"
         ],
         "gender" : "feminine",
@@ -6059,9 +6065,9 @@
           "spread",
           "spreadable"
         ],
-        "note" : "\"Spreadable\" means \"able to be spread.\"",
+        "note" : "\"Her method spread around the world\" = it reached many countries; \"spread butter\" = put a layer on bread. \"Spreadable\" means \"able to be spread.\"",
         "pos" : "verb",
-        "translation" : "to put a layer over a surface"
+        "translation" : "to reach more and more places or people; to put a layer over a surface"
       },
       {
         "forms" : [
@@ -7370,9 +7376,9 @@
           "worked",
           "worker"
         ],
-        "note" : "\"Workday\" is a day of work; \"worker\" is the noun for a person.",
+        "note" : "Work is also the verb: \"their parents worked all day\". \"Workday\" is a day of work; \"worker\" is the noun for a person.",
         "pos" : "noun",
-        "translation" : "a job or effort / a person who does it"
+        "translation" : "a job or effort; to do a job (work, worked) / a person who does it"
       },
       {
         "forms" : [
@@ -18234,7 +18240,8 @@
       },
       {
         "forms" : [
-          "chair"
+          "chair",
+          "chairs"
         ],
         "note" : "Blood donors sit in a big reclining chair.",
         "pos" : "noun",
@@ -18874,9 +18881,9 @@
         "forms" : [
           "opens"
         ],
-        "note" : "\"Its first verse opens:\" = begins with.",
+        "note" : "\"She opens a room for children\" = she starts it for them; \"Its first verse opens:\" = begins with.",
         "pos" : "verb",
-        "translation" : "begins (a text)"
+        "translation" : "makes something open, starts it; begins (a text)"
       },
       {
         "forms" : [
@@ -22673,9 +22680,9 @@
         "forms" : [
           "medicine"
         ],
-        "note" : "Medicine is also the science of doctors.",
+        "note" : "\"A degree in medicine\" = the subject doctors study; \"take your medicine\" = the pills or drops.",
         "pos" : "noun",
-        "translation" : "something you take to get better when you are ill"
+        "translation" : "the science and work of doctors; something you take to get better"
       },
       {
         "forms" : [
@@ -25042,6 +25049,7 @@
       },
       {
         "forms" : [
+          "sweep",
           "swept"
         ],
         "note" : "Past of sweep (irregular: sweep, swept, swept); \"swept RB Leipzig aside\" = beat them easily.",
@@ -25280,6 +25288,175 @@
         "note" : "Harry Kane, an English striker who plays for Bayern Munich.",
         "pos" : "noun",
         "translation" : "Kane"
+      },
+      {
+        "forms" : [
+          "6"
+        ],
+        "note" : "In a date, \"6 January\" is said \"the sixth of January\".",
+        "pos" : "number",
+        "translation" : "six; the sixth"
+      },
+      {
+        "forms" : [
+          "1907"
+        ],
+        "note" : "A year, said \"nineteen oh seven\": the year Montessori opened her first room for children.",
+        "pos" : "number",
+        "translation" : "1907"
+      },
+      {
+        "forms" : [
+          "1896"
+        ],
+        "note" : "A year, said \"eighteen ninety-six\": the year Montessori finished her studies in medicine.",
+        "pos" : "number",
+        "translation" : "1896"
+      },
+      {
+        "forms" : [
+          "1952"
+        ],
+        "note" : "A year, said \"nineteen fifty-two\": the year Maria Montessori died.",
+        "pos" : "number",
+        "translation" : "1952"
+      },
+      {
+        "forms" : [
+          "maria"
+        ],
+        "note" : "The first name of Maria Montessori (1870–1952), an Italian doctor and educator.",
+        "pos" : "noun",
+        "translation" : "Maria"
+      },
+      {
+        "forms" : [
+          "montessori"
+        ],
+        "note" : "Maria Montessori, Italian doctor and educator, 1870–1952; schools that use her method are called Montessori schools.",
+        "pos" : "noun",
+        "translation" : "Montessori"
+      },
+      {
+        "forms" : [
+          "san"
+        ],
+        "note" : "Part of the name San Lorenzo, a district of Rome; \"San\" is Italian for \"Saint\".",
+        "pos" : "noun",
+        "translation" : "San"
+      },
+      {
+        "forms" : [
+          "lorenzo"
+        ],
+        "note" : "Part of the name San Lorenzo, a district of Rome, named after Saint Lawrence (Lorenzo in Italian).",
+        "pos" : "noun",
+        "translation" : "Lorenzo"
+      },
+      {
+        "forms" : [
+          "liked"
+        ],
+        "note" : "Past tense of the verb like; \"where she liked\" = where she wanted.",
+        "pos" : "verb",
+        "translation" : "wanted, enjoyed"
+      },
+      {
+        "forms" : [
+          "qualified",
+          "qualify"
+        ],
+        "note" : "\"Qualify in medicine\" = finish your studies and get the right to work as a doctor; \"qualified\" is the past form.",
+        "pos" : "verb",
+        "translation" : "to pass the exams needed for a job"
+      },
+      {
+        "forms" : [
+          "floor"
+        ],
+        "note" : "\"Sweep the floor\" = clean it with a broom.",
+        "pos" : "noun",
+        "translation" : "the flat surface you walk on inside a room"
+      },
+      {
+        "forms" : [
+          "jug"
+        ],
+        "note" : "A small jug lets a child pour water without help.",
+        "pos" : "noun",
+        "translation" : "a container with a handle, for pouring water or milk"
+      },
+      {
+        "forms" : [
+          "broom"
+        ],
+        "note" : "You sweep with a broom.",
+        "pos" : "noun",
+        "translation" : "a brush with a long handle, for cleaning the floor"
+      },
+      {
+        "forms" : [
+          "furniture"
+        ],
+        "note" : "An uncountable noun: say \"the furniture\" or \"a piece of furniture\", never \"furnitures\".",
+        "pos" : "noun",
+        "translation" : "tables, chairs, beds and other things in a room"
+      },
+      {
+        "forms" : [
+          "building"
+        ],
+        "note" : "A noun made from the verb build: \"a new building\".",
+        "pos" : "noun",
+        "translation" : "a house or other structure with walls and a roof"
+      },
+      {
+        "forms" : [
+          "low-income"
+        ],
+        "note" : "A compound adjective used before a noun: \"low-income families\" = families with little money.",
+        "pos" : "adjective",
+        "translation" : "earning little money"
+      },
+      {
+        "forms" : [
+          "three-year-old"
+        ],
+        "note" : "A compound with hyphens; \"year\" stays singular: \"a three-year-old\", but \"she is three years old\".",
+        "pos" : "noun",
+        "translation" : "a child who is three years old"
+      },
+      {
+        "forms" : [
+          "basically"
+        ],
+        "note" : "Very common in speech to sum something up: \"they were basically on their own\".",
+        "pos" : "adverb",
+        "translation" : "in fact, more or less"
+      },
+      {
+        "forms" : [
+          "rid"
+        ],
+        "note" : "Used in \"get rid of\" = to throw out or remove: \"she got rid of the heavy furniture\".",
+        "pos" : "adjective",
+        "translation" : "free of something unwanted"
+      },
+      {
+        "forms" : [
+          "stepping"
+        ],
+        "note" : "\"Step in\" = to get involved to help or stop something; here she watched without stepping in.",
+        "pos" : "verb",
+        "translation" : "moving one foot forward; (stepping in) getting involved"
+      },
+      {
+        "forms" : [
+          "six-year-olds"
+        ],
+        "note" : "\"Three- to six-year-olds\" = children aged three to six; the first hyphen stands for \"-year-olds\".",
+        "pos" : "noun",
+        "translation" : "children who are six years old"
       }
     ],
     "french" : [
@@ -25922,6 +26099,9 @@
       },
       {
         "forms" : [
+          "versaient",
+          "versent",
+          "verser",
           "versé"
         ],
         "note" : "Past participle of verser (to pour).",
@@ -27699,7 +27879,8 @@
       {
         "forms" : [
           "facile",
-          "facilement"
+          "facilement",
+          "faciles"
         ],
         "note" : "\"Facilement\" is the adverb form.",
         "pos" : "adjective",
@@ -27711,7 +27892,8 @@
           "faisait",
           "fait",
           "faite",
-          "faites"
+          "faites",
+          "faits"
         ],
         "note" : "One of the most common French verbs — many forms across tenses and agreement.",
         "pos" : "verb",
@@ -28406,6 +28588,7 @@
       {
         "forms" : [
           "lave",
+          "lavent",
           "laver",
           "lavé"
         ],
@@ -28995,6 +29178,7 @@
       {
         "forms" : [
           "nouveau",
+          "nouvel",
           "nouvelle",
           "nouvelles"
         ],
@@ -30260,7 +30444,8 @@
       },
       {
         "forms" : [
-          "sortez"
+          "sortez",
+          "sortir"
         ],
         "note" : "Sortir (to go/take out), \"vous\" command form.",
         "pos" : "verb",
@@ -31616,12 +31801,14 @@
           "choisi",
           "choisir",
           "choisis",
+          "choisissaient",
           "choisisse",
+          "choisissent",
           "choisissons"
         ],
-        "note" : "Past participle of choisir.",
+        "note" : "Choisir = to choose; « choisi » is the past participle.",
         "pos" : "verb",
-        "translation" : "chosen"
+        "translation" : "to choose; chosen"
       },
       {
         "forms" : [
@@ -32480,6 +32667,7 @@
       },
       {
         "forms" : [
+          "d'enfant",
           "enfant"
         ],
         "note" : "Same form for both genders.",
@@ -33397,7 +33585,8 @@
       {
         "forms" : [
           "léger",
-          "légèrement"
+          "légèrement",
+          "légères"
         ],
         "note" : "\"Légèrement\" is the adverb form.",
         "pos" : "adjective",
@@ -35816,7 +36005,8 @@
       },
       {
         "forms" : [
-          "contenta"
+          "contenta",
+          "contentait"
         ],
         "note" : "\"Se contenta de sourire\" = simply smiled and did no more. Passé simple of se contenter.",
         "pos" : "verb",
@@ -38269,6 +38459,7 @@
       },
       {
         "forms" : [
+          "décidait",
           "décide",
           "décident",
           "décider"
@@ -41556,6 +41747,7 @@
       },
       {
         "forms" : [
+          "travaillaient",
           "travaille"
         ],
         "note" : "Travailler, il/elle form.",
@@ -47734,6 +47926,7 @@
         "forms" : [
           "notaient",
           "notait",
+          "note",
           "noté"
         ],
         "note" : "Forms of noter.",
@@ -48477,7 +48670,8 @@
       },
       {
         "forms" : [
-          "lourd"
+          "lourd",
+          "lourds"
         ],
         "note" : "Masculine adjective.",
         "pos" : "adjective",
@@ -51215,14 +51409,15 @@
           "meurent",
           "meurt",
           "mort",
+          "morte",
           "mortes",
           "mourait",
           "mourir",
           "mourut"
         ],
-        "note" : "« Mort » est le participe passé de « mourir ».",
+        "note" : "« Mort » is the past participle of « mourir »; as a noun, « la mort » = death (jusqu'à sa mort = until her death).",
         "pos" : "verb",
-        "translation" : "die; died; to die"
+        "translation" : "died; to die; (la mort) death"
       },
       {
         "forms" : [
@@ -57854,7 +58049,8 @@
       },
       {
         "forms" : [
-          "remplacer"
+          "remplacer",
+          "remplacé"
         ],
         "note" : "Remplacer A par B = to replace A with B: « remplacer le congé de maternité par un congé parental ».",
         "pos" : "verb",
@@ -59318,9 +59514,9 @@
         "forms" : [
           "balayé"
         ],
-        "note" : "Past participle of balayer (to sweep): in sports « balayer un adversaire » = to beat a team easily.",
+        "note" : "Past participle of balayer (to sweep, as with a broom); in sports « balayer un adversaire » = to beat a team easily.",
         "pos" : "verb",
-        "translation" : "swept aside"
+        "translation" : "swept; swept aside"
       },
       {
         "forms" : [
@@ -59353,6 +59549,249 @@
         "note" : "Present of rouler (to roll, to drive): « la Formule 1 roule à Austin » = Formula 1 races in Austin.",
         "pos" : "verb",
         "translation" : "drives, races"
+      },
+      {
+        "forms" : [
+          "6"
+        ],
+        "note" : "Read « six »; French puts the day before the month: « le 6 janvier 1907 ».",
+        "pos" : "number",
+        "translation" : "6"
+      },
+      {
+        "forms" : [
+          "1896"
+        ],
+        "note" : "Read « mille huit cent quatre-vingt-seize »; the year Maria Montessori qualified in medicine.",
+        "pos" : "number",
+        "translation" : "1896"
+      },
+      {
+        "forms" : [
+          "1907"
+        ],
+        "note" : "Read « mille neuf cent sept »; the year the first Casa dei Bambini opened in Rome.",
+        "pos" : "number",
+        "translation" : "1907"
+      },
+      {
+        "forms" : [
+          "1952"
+        ],
+        "note" : "Read « mille neuf cent cinquante-deux »; the year Maria Montessori died, in the Netherlands.",
+        "pos" : "number",
+        "translation" : "1952"
+      },
+      {
+        "forms" : [
+          "maria"
+        ],
+        "gender" : "feminine",
+        "note" : "First name of Maria Montessori; in French texts she is often called just « Montessori » at higher levels.",
+        "pos" : "noun",
+        "translation" : "Maria"
+      },
+      {
+        "forms" : [
+          "montessori"
+        ],
+        "gender" : "feminine",
+        "note" : "Maria Montessori (1870–1952), an Italian doctor whose way of teaching small children spread around the world.",
+        "pos" : "noun",
+        "translation" : "Montessori"
+      },
+      {
+        "forms" : [
+          "lorenzo",
+          "san"
+        ],
+        "gender" : "masculine",
+        "note" : "San Lorenzo, a working-class district of Rome; the two words form one name, « le quartier de San Lorenzo ».",
+        "pos" : "noun",
+        "translation" : "San Lorenzo"
+      },
+      {
+        "forms" : [
+          "chaise",
+          "chaises"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une chaise » is feminine; « une petite chaise » = a small chair, the adjective usually before the noun for size.",
+        "pos" : "noun",
+        "translation" : "chair, chairs"
+      },
+      {
+        "forms" : [
+          "pichet"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un pichet » is a small jug for pouring water or milk at the table.",
+        "pos" : "noun",
+        "translation" : "jug, pitcher"
+      },
+      {
+        "forms" : [
+          "balai"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un balai » is a broom; the verb is « balayer », to sweep.",
+        "pos" : "noun",
+        "translation" : "broom"
+      },
+      {
+        "forms" : [
+          "balaient",
+          "balayaient",
+          "balayer"
+        ],
+        "note" : "Balayer (to sweep): before a silent -e the y becomes i (ils balaient); the imparfait keeps the y: ils balayaient.",
+        "pos" : "verb",
+        "translation" : "sweep, to sweep"
+      },
+      {
+        "forms" : [
+          "sol"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le sol » is the floor or the ground; « balayer le sol » = to sweep the floor.",
+        "pos" : "noun",
+        "translation" : "floor, ground"
+      },
+      {
+        "forms" : [
+          "meubles"
+        ],
+        "gender" : "masculine",
+        "note" : "« Les meubles » (plural) is the usual word for furniture; one piece is « un meuble ».",
+        "pos" : "noun",
+        "translation" : "furniture"
+      },
+      {
+        "forms" : [
+          "immeuble"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un immeuble » is a building of flats; do not confuse it with « un meuble », a piece of furniture.",
+        "pos" : "noun",
+        "translation" : "apartment building"
+      },
+      {
+        "forms" : [
+          "cinquantaine"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une cinquantaine de » = about fifty: the suffix -aine turns a number into an approximate amount (une dizaine, une vingtaine).",
+        "pos" : "noun",
+        "translation" : "about fifty"
+      },
+      {
+        "forms" : [
+          "d'enseigner"
+        ],
+        "note" : "De + enseigner (to teach), shortened before the vowel; « sa façon d'enseigner » = her way of teaching.",
+        "pos" : "verb",
+        "translation" : "of teaching"
+      },
+      {
+        "forms" : [
+          "d'écoles"
+        ],
+        "gender" : "feminine",
+        "note" : "De + écoles, shortened before the vowel; after « beaucoup » French uses « de », never « des »: beaucoup d'écoles.",
+        "pos" : "noun",
+        "translation" : "of schools"
+      },
+      {
+        "forms" : [
+          "institutrice"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une institutrice » is a woman teaching young children; the masculine is « un instituteur ».",
+        "pos" : "noun",
+        "translation" : "primary-school teacher (woman)"
+      },
+      {
+        "forms" : [
+          "livrés"
+        ],
+        "note" : "« Livrés à eux-mêmes » = left on their own, with nobody to look after them; the participle of livrer agrees with « les enfants ».",
+        "pos" : "adjective",
+        "translation" : "left (to themselves)"
+      },
+      {
+        "forms" : [
+          "médecine"
+        ],
+        "gender" : "feminine",
+        "note" : "« La médecine » is the subject one studies; the doctor is « le médecin », without -e, even for a woman.",
+        "pos" : "noun",
+        "translation" : "medicine"
+      },
+      {
+        "forms" : [
+          "répandit",
+          "répandue"
+        ],
+        "note" : "Se répandre (to spread): « s'est répandue » is the passé composé of speech, agreeing with « sa méthode »; « se répandit » is the passé simple, met only in written narration.",
+        "pos" : "verb",
+        "translation" : "spread"
+      },
+      {
+        "forms" : [
+          "bouger"
+        ],
+        "note" : "The everyday spoken word for moving something or yourself; « déplacer » says the same in a more careful way.",
+        "pos" : "verb",
+        "translation" : "to move"
+      },
+      {
+        "forms" : [
+          "récent"
+        ],
+        "note" : "« Tout récent » = brand-new, only just built; « tout » here means completely, very.",
+        "pos" : "adjective",
+        "translation" : "recent, new"
+      },
+      {
+        "forms" : [
+          "étonnant"
+        ],
+        "note" : "« Le plus étonnant, c'est que… » = the most surprising thing is that…, a spoken way to bring in a twist.",
+        "pos" : "adjective",
+        "translation" : "surprising, amazing"
+      },
+      {
+        "forms" : [
+          "décroché"
+        ],
+        "note" : "Past participle of décrocher (to unhook, to pick up the phone); « décrocher un diplôme » is the spoken way to say get a degree.",
+        "pos" : "verb",
+        "translation" : "landed, got (a degree)"
+      },
+      {
+        "forms" : [
+          "installer"
+        ],
+        "note" : "« Faire installer des tables » = to have tables put in; after « a fait sortir … et », one faire carries both infinitives.",
+        "pos" : "verb",
+        "translation" : "to put in, to set up"
+      },
+      {
+        "forms" : [
+          "mêler"
+        ],
+        "note" : "« S'en mêler » = to get involved, to step in; « sans jamais s'en mêler » = without ever interfering.",
+        "pos" : "verb",
+        "translation" : "to mix; s'en mêler = to interfere"
+      },
+      {
+        "forms" : [
+          "activité"
+        ],
+        "gender" : "feminine",
+        "note" : "In a French classroom the things children choose to do are their « activités »; « travail » would sound like a job.",
+        "pos" : "noun",
+        "translation" : "activity"
       }
     ],
     "german" : [
@@ -62086,6 +62525,7 @@
       {
         "forms" : [
           "leicht",
+          "leichte",
           "leichter",
           "leichtes"
         ],
@@ -62239,9 +62679,14 @@
           "macht",
           "machte"
         ],
-        "note" : "Forms of machen across tenses. Separable: … weiter = weitermachen, to keep going; „Er machte weiter“ = he kept going.",
+        "note" : "Forms of machen across tenses. Separable: … weiter = weitermachen, to keep going; „Er machte weiter“ = he kept going; … auf = aufmachen, to open; „Sie macht einen Raum für Kinder auf“ = she opens a room for children.",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to open",
+            "verb" : "aufmachen"
+          },
           {
             "particle" : "weiter",
             "translation" : "to keep going",
@@ -63288,7 +63733,8 @@
       },
       {
         "forms" : [
-          "schule"
+          "schule",
+          "schulen"
         ],
         "gender" : "feminine",
         "note" : "Where students learn.",
@@ -72468,13 +72914,18 @@
         "forms" : [
           "gießen"
         ],
-        "note" : "Infinitive. Separable: … dazu = dazugießen, to pour in, to add (a liquid); „Gießen Sie etwas Wein dazu“ = pour in a little wine.",
+        "note" : "Infinitive. Separable: … dazu = dazugießen, to pour in, to add (a liquid); „Gießen Sie etwas Wein dazu“ = pour in a little wine; … ein = eingießen, to pour (in).",
         "pos" : "verb",
         "separable" : [
           {
             "particle" : "dazu",
             "translation" : "to pour in, to add (a liquid)",
             "verb" : "dazugießen"
+          },
+          {
+            "particle" : "ein",
+            "translation" : "to pour (in)",
+            "verb" : "eingießen"
           }
         ],
         "translation" : "to pour"
@@ -74762,8 +75213,15 @@
         "forms" : [
           "suchen"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive. Separable: … aus = aussuchen, to choose, to pick out.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "aus",
+            "translation" : "to choose, to pick out",
+            "verb" : "aussuchen"
+          }
+        ],
         "translation" : "to search, to look for"
       },
       {
@@ -77716,6 +78174,7 @@
       },
       {
         "forms" : [
+          "geholt",
           "holten"
         ],
         "note" : "Past tense plural of \"holen.\" Separable: … zurück = zurückholen, to bring back.",
@@ -79008,13 +79467,18 @@
         "forms" : [
           "sieht"
         ],
-        "note" : "From \"sehen.\" Separable: … aus = aussehen, to look, to appear.",
+        "note" : "From \"sehen.\" Separable: … aus = aussehen, to look, to appear; … zu = zusehen, to watch; „Maria sieht zu“ = Maria watches.",
         "pos" : "verb",
         "separable" : [
           {
             "particle" : "aus",
             "translation" : "to look, to appear",
             "verb" : "aussehen"
+          },
+          {
+            "particle" : "zu",
+            "translation" : "to watch",
+            "verb" : "zusehen"
           }
         ],
         "translation" : "sees"
@@ -80429,7 +80893,10 @@
       },
       {
         "forms" : [
-          "arm"
+          "arm",
+          "armen",
+          "armes",
+          "ärmsten"
         ],
         "note" : "\"Tomas war nicht arm\" = Tomas wasn't poor.",
         "pos" : "adjective",
@@ -83877,9 +84344,9 @@
         "forms" : [
           "arme"
         ],
-        "note" : "„Arme Ritter\" = der deutsche Name für pain perdu.",
+        "note" : "Form of arm (poor), as in „arme Familien“; „Arme Ritter“ = the German name for pain perdu.",
         "pos" : "adjective",
-        "translation" : "poor (in \"Arme Ritter\")"
+        "translation" : "poor"
       },
       {
         "forms" : [
@@ -86215,6 +86682,7 @@
       },
       {
         "forms" : [
+          "bewegen",
           "bewegt"
         ],
         "note" : "Bewegen, er/sie/es form: „den keine Bürste mehr bewegt“ = that no brush shifts any more.",
@@ -90098,9 +90566,9 @@
         "forms" : [
           "schweren"
         ],
-        "note" : "Form of schwer; with an illness it means severe: „eine schwere Anämie“. Here it is dative, because nachgehen takes the dative.",
+        "note" : "Form of schwer (heavy): „die schweren Möbel“ = the heavy furniture; with an illness it means severe: „eine schwere Anämie“.",
         "pos" : "adjective",
-        "translation" : "severe, serious"
+        "translation" : "heavy; severe, serious"
       },
       {
         "forms" : [
@@ -94042,6 +94510,346 @@
         "note" : "Der Treffer, from treffen: a goal in the press; the plural has the same form: „die übrigen Treffer“.",
         "pos" : "noun",
         "translation" : "goal (scored), hit"
+      },
+      {
+        "forms" : [
+          "6"
+        ],
+        "note" : "The day in „der 6. Januar“ and „am 6. Januar 1907“; the full stop makes it an ordinal, read „am sechsten Januar“.",
+        "pos" : "number",
+        "translation" : "6th (in a date)"
+      },
+      {
+        "forms" : [
+          "1907"
+        ],
+        "note" : "The year the first Casa dei Bambini opened in Rome, read neunzehnhundertsieben; a year stands alone, without „im“.",
+        "pos" : "number",
+        "translation" : "1907"
+      },
+      {
+        "forms" : [
+          "1896"
+        ],
+        "note" : "The year Maria Montessori finished her medical studies, read achtzehnhundertsechsundneunzig; „1896 hat sie …“ needs no preposition.",
+        "pos" : "number",
+        "translation" : "1896"
+      },
+      {
+        "forms" : [
+          "1952"
+        ],
+        "note" : "The year Maria Montessori died, read neunzehnhundertzweiundfünfzig: „bis zu ihrem Tod 1952“ = until her death in 1952.",
+        "pos" : "number",
+        "translation" : "1952"
+      },
+      {
+        "forms" : [
+          "maria"
+        ],
+        "gender" : "feminine",
+        "note" : "The first name of Maria Montessori (1870–1952), the Italian doctor in this story; A1 to B1 call her by it alone, B2 by her family name.",
+        "pos" : "noun",
+        "translation" : "Maria"
+      },
+      {
+        "forms" : [
+          "montessori"
+        ],
+        "gender" : "feminine",
+        "note" : "The family name of Maria Montessori, the doctor whose way of teaching small children is still used in schools around the world.",
+        "pos" : "noun",
+        "translation" : "Montessori"
+      },
+      {
+        "forms" : [
+          "rom"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Rom of the story, the Italian capital; city names take no article: „in Rom“, and the genitive is „Roms“.",
+        "pos" : "noun",
+        "translation" : "Rome"
+      },
+      {
+        "forms" : [
+          "san"
+        ],
+        "gender" : "neuter",
+        "note" : "First word of „San Lorenzo“, Italian for Saint Lawrence: the name of a poor district of Rome.",
+        "pos" : "noun",
+        "translation" : "San (Lorenzo)"
+      },
+      {
+        "forms" : [
+          "lorenzo"
+        ],
+        "gender" : "neuter",
+        "note" : "Second word of „San Lorenzo“, the district of Rome where the first room for children opened in 1907.",
+        "pos" : "noun",
+        "translation" : "(San) Lorenzo"
+      },
+      {
+        "forms" : [
+          "stuhl",
+          "stühle"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Stuhl, plural die Stühle: the umlaut ü marks the plural, as in „kleine, leichte Stühle“.",
+        "pos" : "noun",
+        "translation" : "chair, chairs"
+      },
+      {
+        "forms" : [
+          "kanne"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kanne: a jug with a spout for pouring, as in „eine kleine Kanne“ for water.",
+        "pos" : "noun",
+        "translation" : "jug, pitcher"
+      },
+      {
+        "forms" : [
+          "besen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Besen, plural also die Besen: what you sweep the floor with; „einen kleinen Besen“ is the accusative.",
+        "pos" : "noun",
+        "translation" : "broom"
+      },
+      {
+        "forms" : [
+          "möbel"
+        ],
+        "gender" : "neuter",
+        "note" : "Die Möbel is plural in German where English uses one uncountable word: „die schweren Möbel“ = the heavy furniture.",
+        "pos" : "noun",
+        "translation" : "furniture"
+      },
+      {
+        "forms" : [
+          "fegen",
+          "fegten",
+          "gefegt"
+        ],
+        "note" : "Fegen is regular: „sie fegen“ (present), „sie fegten“ (Präteritum), „haben gefegt“ (Perfekt).",
+        "pos" : "verb",
+        "translation" : "to sweep, swept"
+      },
+      {
+        "forms" : [
+          "dreijähriges"
+        ],
+        "note" : "Drei + Jahr + -ig, an adjective with the neuter ending after „ein“: „ein dreijähriges Kind“ = a three-year-old child.",
+        "pos" : "adjective",
+        "translation" : "three-year-old"
+      },
+      {
+        "forms" : [
+          "abgeschlossen"
+        ],
+        "note" : "Partizip II of abschließen: „ein Studium abschließen“ = to complete a degree; in the participle, -ge- sits between the particle and the verb.",
+        "pos" : "verb",
+        "translation" : "completed, finished"
+      },
+      {
+        "forms" : [
+          "medizinstudium"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Medizinstudium = die Medizin + das Studium; a compound takes the gender of its last part.",
+        "pos" : "noun",
+        "translation" : "medical studies, medical degree"
+      },
+      {
+        "forms" : [
+          "unterrichten"
+        ],
+        "note" : "„Ihre Art zu unterrichten“ = her way of teaching: after „Art“ (way, manner) German uses zu + infinitive.",
+        "pos" : "verb",
+        "translation" : "to teach"
+      },
+      {
+        "forms" : [
+          "hochheben"
+        ],
+        "note" : "Hoch + heben, a separable verb; after a modal it stays one word at the end: „konnte einen Stuhl hochheben“.",
+        "pos" : "verb",
+        "translation" : "to lift up, to pick up"
+      },
+      {
+        "forms" : [
+          "verbreitet",
+          "verbreitete"
+        ],
+        "note" : "Sich verbreiten is reflexive: „ihre Methode hat sich weltweit verbreitet“ (Perfekt, as people say it) = her method spread around the world.",
+        "pos" : "verb",
+        "translation" : "spread"
+      },
+      {
+        "forms" : [
+          "mietshaus"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Mietshaus = die Miete (rent) + das Haus: a building with flats for rent, with the linking -s-.",
+        "pos" : "noun",
+        "translation" : "apartment building"
+      },
+      {
+        "forms" : [
+          "anfangen",
+          "fang"
+        ],
+        "note" : "Fang is the du imperative, without the umlaut of „du fängst“: „Fang mit einer Kanne an“ = start with a jug. Separable: … an = anfangen, to start.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "an",
+            "translation" : "to start",
+            "verb" : "anfangen"
+          }
+        ],
+        "translation" : "to start, begin; start!"
+      },
+      {
+        "forms" : [
+          "aufgemacht"
+        ],
+        "note" : "Partizip II of aufmachen, the everyday word for opening a shop or a place: „sie hat einen Raum aufgemacht“; -ge- sits between auf- and -macht.",
+        "pos" : "verb",
+        "translation" : "opened"
+      },
+      {
+        "forms" : [
+          "ausgesucht"
+        ],
+        "note" : "Partizip II of aussuchen, the spoken word for choosing: „ihre Arbeit selbst ausgesucht“ = chose their work themselves.",
+        "pos" : "verb",
+        "translation" : "chosen, picked"
+      },
+      {
+        "forms" : [
+          "eingegossen",
+          "eingießen"
+        ],
+        "note" : "Eingießen = to pour a drink into a glass or cup; irregular like gießen: eingießen – goss ein – eingegossen.",
+        "pos" : "verb",
+        "translation" : "to pour (in); poured"
+      },
+      {
+        "forms" : [
+          "einzumischen"
+        ],
+        "note" : "Zu-infinitive of sich einmischen: „ohne sich einzumischen“ = without stepping in; in a separable verb „zu“ sits between the particle and the verb.",
+        "pos" : "verb",
+        "translation" : "to interfere, to step in"
+      },
+      {
+        "forms" : [
+          "hinsetzen"
+        ],
+        "note" : "Sich hinsetzen is reflexive and separable; after a modal it stays one word at the end: „konnte sich hinsetzen, wo es wollte“.",
+        "pos" : "verb",
+        "translation" : "to sit down"
+      },
+      {
+        "forms" : [
+          "kinderhände"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Kinderhand (Kind + Hand); „Besen, die in Kinderhände passen“ = brooms that fit a child's hands.",
+        "pos" : "noun",
+        "translation" : "children's hands"
+      },
+      {
+        "forms" : [
+          "kommt's"
+        ],
+        "note" : "Spoken short form of „kommt es“; „Und jetzt kommt's“ = and here's the thing, a way to announce a surprise.",
+        "pos" : "verb",
+        "translation" : "comes (it)"
+      },
+      {
+        "forms" : [
+          "mitgeschrieben"
+        ],
+        "note" : "Partizip II of mitschreiben, to write down what happens while it happens: „sie hat mitgeschrieben“ = she took notes.",
+        "pos" : "verb",
+        "translation" : "taken notes"
+      },
+      {
+        "forms" : [
+          "nagelneuen"
+        ],
+        "note" : "Nagelneu (literally nail-new) is the everyday word for brand-new; dative ending after „in einem“: „in einem nagelneuen Mietshaus“.",
+        "pos" : "adjective",
+        "translation" : "brand-new"
+      },
+      {
+        "forms" : [
+          "neubau"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Neubau = neu + der Bau: a building that has just been put up; „in einem Neubau“ (dative).",
+        "pos" : "noun",
+        "translation" : "new building"
+      },
+      {
+        "forms" : [
+          "rausbringen"
+        ],
+        "note" : "Spoken short form of herausbringen/hinausbringen; with „lassen“ it means having it done: „hat die Möbel rausbringen lassen“ = had the furniture taken out.",
+        "pos" : "verb",
+        "translation" : "to take out"
+      },
+      {
+        "forms" : [
+          "rausgeräumt"
+        ],
+        "note" : "Partizip II of rausräumen (raus = heraus, out + räumen, to clear): „die Möbel rausgeräumt“ = cleared the furniture out.",
+        "pos" : "verb",
+        "translation" : "cleared out"
+      },
+      {
+        "forms" : [
+          "reingestellt"
+        ],
+        "note" : "Partizip II of reinstellen (rein = herein, in + stellen, to put): the spoken pair of rausräumen, out with the old, in with the new.",
+        "pos" : "verb",
+        "translation" : "put in"
+      },
+      {
+        "forms" : [
+          "sechsjährigen"
+        ],
+        "gender" : "masculine",
+        "note" : "An adjective used as a noun: der/die Sechsjährige, plural die Sechsjährigen; „die Drei- bis Sechsjährigen“ = the three- to six-year-olds, the hyphen saving one „-jährigen“.",
+        "pos" : "noun",
+        "translation" : "six-year-olds"
+      },
+      {
+        "forms" : [
+          "tod"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Tod; „bis zu ihrem Tod“ = until her death, a common way to say until she died.",
+        "pos" : "noun",
+        "translation" : "death"
+      },
+      {
+        "forms" : [
+          "weitergemacht"
+        ],
+        "note" : "Partizip II of weitermachen (weiter + machen): „sie hat weitergemacht“ = she kept at it.",
+        "pos" : "verb",
+        "translation" : "kept going, carried on"
+      },
+      {
+        "forms" : [
+          "zugeschaut"
+        ],
+        "note" : "Partizip II of zuschauen (to watch), the everyday twin of zusehen; -ge- sits between zu- and -schaut: „Maria hat nur zugeschaut“.",
+        "pos" : "verb",
+        "translation" : "watched"
       }
     ],
     "italian" : [
@@ -97251,6 +98059,7 @@
       {
         "forms" : [
           "decide",
+          "decidere",
           "deciderlo",
           "decidono",
           "decisa",
@@ -99012,6 +99821,7 @@
           "guarda",
           "guardare",
           "guardassi",
+          "guardati",
           "guardato",
           "guardava",
           "guardi"
@@ -99893,6 +100703,7 @@
       },
       {
         "forms" : [
+          "lavano",
           "lavare",
           "lavarsi"
         ],
@@ -101961,6 +102772,7 @@
           "portando",
           "portano",
           "portare",
+          "portarli",
           "portarlo",
           "portasse",
           "portata",
@@ -102072,6 +102884,7 @@
       {
         "forms" : [
           "potesse",
+          "potessero",
           "poteva",
           "potrebbe",
           "potresti",
@@ -103544,6 +104357,8 @@
           "scegliamo",
           "scegliere",
           "scegliesse",
+          "sceglievano",
+          "scelgono",
           "scelte",
           "scelto"
         ],
@@ -103693,7 +104508,8 @@
       },
       {
         "forms" : [
-          "scuola"
+          "scuola",
+          "scuole"
         ],
         "gender" : "feminine",
         "note" : "A common noun.",
@@ -104482,6 +105298,7 @@
           "sposta",
           "spostano",
           "spostare",
+          "spostarli",
           "spostarsi"
         ],
         "note" : "Reflexive infinitive.",
@@ -104920,6 +105737,7 @@
       {
         "forms" : [
           "tavole",
+          "tavoli",
           "tavolo"
         ],
         "gender" : "masculine",
@@ -105816,7 +106634,10 @@
       {
         "forms" : [
           "versa",
-          "versato"
+          "versano",
+          "versare",
+          "versato",
+          "versavano"
         ],
         "note" : "From versare.",
         "pos" : "verb",
@@ -112257,7 +113078,8 @@
       },
       {
         "forms" : [
-          "leggera"
+          "leggera",
+          "leggeri"
         ],
         "note" : "As in feeling lighter, less burdened.",
         "pos" : "adjective",
@@ -113234,7 +114056,8 @@
           "lavorando",
           "lavorano",
           "lavorare",
-          "lavorato"
+          "lavorato",
+          "lavoravano"
         ],
         "note" : "From lavorare.",
         "pos" : "verb",
@@ -113664,7 +114487,8 @@
       {
         "forms" : [
           "segna",
-          "segnato"
+          "segnato",
+          "segnava"
         ],
         "note" : "Past participle of segnare.",
         "pos" : "verb",
@@ -115133,6 +115957,7 @@
           "morire",
           "morisse",
           "moriva",
+          "morta",
           "morte",
           "morto",
           "morì",
@@ -116664,7 +117489,8 @@
       },
       {
         "forms" : [
-          "sedia"
+          "sedia",
+          "sedie"
         ],
         "gender" : "feminine",
         "note" : "«La sedia del dentista».",
@@ -123228,6 +124054,200 @@
         "note" : "Past participle of espugnare, to storm a fortress; in sport, to win on the opponent's ground: ha espugnato il campo del Real Betis.",
         "pos" : "verb",
         "translation" : "won away at"
+      },
+      {
+        "forms" : [
+          "6"
+        ],
+        "note" : "Sei; dates use the plain number before the month: il 6 gennaio = 6 January.",
+        "pos" : "number",
+        "translation" : "6"
+      },
+      {
+        "forms" : [
+          "1896"
+        ],
+        "note" : "The year Maria Montessori qualified in medicine, said milleottocentonovantasei; nel 1896 = in 1896.",
+        "pos" : "number",
+        "translation" : "1896"
+      },
+      {
+        "forms" : [
+          "1907"
+        ],
+        "note" : "The year the first Casa dei Bambini opened, said millenovecentosette; il 6 gennaio 1907 = 6 January 1907.",
+        "pos" : "number",
+        "translation" : "1907"
+      },
+      {
+        "forms" : [
+          "1952"
+        ],
+        "note" : "The year Maria Montessori died, said millenovecentocinquantadue; nel 1952 = in 1952.",
+        "pos" : "number",
+        "translation" : "1952"
+      },
+      {
+        "forms" : [
+          "maria"
+        ],
+        "gender" : "feminine",
+        "note" : "First name of Maria Montessori; the A1, A2 and B1 texts call her simply Maria, B2 says la Montessori.",
+        "pos" : "noun",
+        "translation" : "Maria"
+      },
+      {
+        "forms" : [
+          "montessori"
+        ],
+        "gender" : "feminine",
+        "note" : "Maria Montessori (1870–1952), the Italian doctor whose way of teaching small children is known worldwide; Italians traditionally say la Montessori.",
+        "pos" : "noun",
+        "translation" : "Montessori"
+      },
+      {
+        "forms" : [
+          "san"
+        ],
+        "gender" : "masculine",
+        "note" : "San is the short form of santo before a masculine name that starts with a consonant: San Lorenzo, San Marco.",
+        "pos" : "noun",
+        "translation" : "Saint"
+      },
+      {
+        "forms" : [
+          "lorenzo"
+        ],
+        "gender" : "masculine",
+        "note" : "San Lorenzo is a working-class district of Rome, east of Termini station, where the first Casa dei Bambini opened.",
+        "pos" : "noun",
+        "translation" : "Lorenzo"
+      },
+      {
+        "forms" : [
+          "cinquantina"
+        ],
+        "gender" : "feminine",
+        "note" : "The ending -ina turns a round number into an approximate quantity: una cinquantina di bambini = about fifty children (also una decina, una ventina).",
+        "pos" : "noun",
+        "translation" : "about fifty"
+      },
+      {
+        "forms" : [
+          "brocca"
+        ],
+        "gender" : "feminine",
+        "note" : "A jug for pouring water or milk; plural le brocche, with an h to keep the hard c sound.",
+        "pos" : "noun",
+        "translation" : "jug"
+      },
+      {
+        "forms" : [
+          "scopa"
+        ],
+        "gender" : "feminine",
+        "note" : "The broom for sweeping the floor; spazzare is the verb that goes with it.",
+        "pos" : "noun",
+        "translation" : "broom"
+      },
+      {
+        "forms" : [
+          "pavimento"
+        ],
+        "gender" : "masculine",
+        "note" : "The floor you walk on inside a room; a floor of a building (first floor, second floor) is il piano.",
+        "pos" : "noun",
+        "translation" : "floor"
+      },
+      {
+        "forms" : [
+          "mobili"
+        ],
+        "gender" : "masculine",
+        "note" : "I mobili is plural in Italian where English furniture is uncountable; one piece of furniture is un mobile.",
+        "pos" : "noun",
+        "translation" : "furniture"
+      },
+      {
+        "forms" : [
+          "palazzo"
+        ],
+        "gender" : "masculine",
+        "note" : "In Italian a palazzo is any large building, usually with flats, not only a palace.",
+        "pos" : "noun",
+        "translation" : "building, apartment block"
+      },
+      {
+        "forms" : [
+          "medicina"
+        ],
+        "gender" : "feminine",
+        "note" : "La medicina is the science and the degree subject (laurearsi in medicina); a medicine you take is also una medicina, plural le medicine.",
+        "pos" : "noun",
+        "translation" : "medicine (the subject)"
+      },
+      {
+        "forms" : [
+          "laurearsi",
+          "laureata"
+        ],
+        "note" : "Laurearsi is reflexive and takes essere in compound tenses: si è laureata, si era laureata = she graduated, she had graduated.",
+        "pos" : "verb",
+        "translation" : "to graduate (from university)"
+      },
+      {
+        "forms" : [
+          "diffuse",
+          "diffuso"
+        ],
+        "note" : "From diffondersi, reflexive: il suo metodo si è diffuso = her method spread, the passato prossimo people say; si diffuse is the written passato remoto.",
+        "pos" : "verb",
+        "translation" : "spread"
+      },
+      {
+        "forms" : [
+          "spazzano",
+          "spazzare",
+          "spazzato",
+          "spazzavano"
+        ],
+        "note" : "Spazzare (il pavimento) = to sweep (the floor), a regular -are verb: spazzano (present), hanno spazzato (passato prossimo), spazzavano (imperfect).",
+        "pos" : "verb",
+        "translation" : "to sweep"
+      },
+      {
+        "forms" : [
+          "apposta"
+        ],
+        "note" : "A very common spoken word: costruito apposta per = built specially for; fare apposta = to do something on purpose.",
+        "pos" : "adverb",
+        "translation" : "specially, on purpose"
+      },
+      {
+        "forms" : [
+          "colpo"
+        ],
+        "gender" : "masculine",
+        "note" : "Un colpo is a blow or a knock; di colpo is the spoken way to say suddenly, like all'improvviso.",
+        "pos" : "noun",
+        "translation" : "blow, knock (di colpo = suddenly)"
+      },
+      {
+        "forms" : [
+          "zecca"
+        ],
+        "gender" : "feminine",
+        "note" : "La zecca is the mint where coins are made, so nuovo di zecca, like a fresh coin, means brand-new.",
+        "pos" : "noun",
+        "translation" : "mint (nuovo di zecca = brand-new)"
+      },
+      {
+        "forms" : [
+          "popolari"
+        ],
+        "note" : "Plural of popolare; le case popolari are flats built by the state or the city for families with little money.",
+        "pos" : "adjective",
+        "translation" : "working-class, public (housing)"
       }
     ],
     "spanish" : [
@@ -124973,7 +125993,8 @@
       },
       {
         "forms" : [
-          "escuela"
+          "escuela",
+          "escuelas"
         ],
         "gender" : "feminine",
         "note" : "Where students learn.",
@@ -125362,9 +126383,9 @@
         "forms" : [
           "hasta"
         ],
-        "note" : "Marks an endpoint in time or space.",
+        "note" : "Marks an endpoint in time or space (hasta 1952); before a noun or verb it also means \"even\" (hasta un niño puede…).",
         "pos" : "preposition",
-        "translation" : "until"
+        "translation" : "until; even"
       },
       {
         "forms" : [
@@ -125676,7 +126697,9 @@
       {
         "forms" : [
           "lavado",
+          "lavan",
           "lavar",
+          "lavarse",
           "lavó"
         ],
         "note" : "Infinitive of lavar.",
@@ -126891,7 +127914,8 @@
       {
         "forms" : [
           "quita",
-          "quitarlo"
+          "quitarlo",
+          "quitó"
         ],
         "note" : "Quitar (to remove), command form.",
         "pos" : "verb",
@@ -127248,7 +128272,11 @@
       },
       {
         "forms" : [
-          "servía"
+          "servir",
+          "servía",
+          "servían",
+          "sirven",
+          "sirvieron"
         ],
         "note" : "Servir (to serve), imperfect tense.",
         "pos" : "verb",
@@ -127657,6 +128685,7 @@
       {
         "forms" : [
           "trabajaba",
+          "trabajaban",
           "trabajo"
         ],
         "note" : "\"Trabajaba\" is the imperfect verb form, \"trabajo\" the noun \"work.\"",
@@ -131328,7 +132357,8 @@
       },
       {
         "forms" : [
-          "sola"
+          "sola",
+          "solos"
         ],
         "note" : "Feminine of solo.",
         "pos" : "adjective",
@@ -132109,6 +133139,7 @@
       },
       {
         "forms" : [
+          "limitaba",
           "limitó"
         ],
         "note" : "\"Se limitó a sonreír\" = simply smiled and did no more.",
@@ -133798,7 +134829,8 @@
       {
         "forms" : [
           "decide",
-          "deciden"
+          "deciden",
+          "decidir"
         ],
         "note" : "Decidir, ellos/ellas form.",
         "pos" : "verb",
@@ -134165,9 +135197,12 @@
         "forms" : [
           "elegimos",
           "elegir",
+          "elegían",
           "elige",
+          "eligen",
           "eliges",
-          "eligiera"
+          "eligiera",
+          "eligieron"
         ],
         "note" : "Elegir, tú imperative.",
         "pos" : "verb",
@@ -135181,6 +136216,7 @@
       {
         "forms" : [
           "llevar",
+          "llevarlas",
           "llévala"
         ],
         "note" : "Infinitive.",
@@ -140524,6 +141560,7 @@
       {
         "forms" : [
           "pudiera",
+          "pudieran",
           "pudieron"
         ],
         "note" : "Forms of \"poder.\"",
@@ -142283,6 +143320,8 @@
       },
       {
         "forms" : [
+          "apunta",
+          "apuntaba",
           "apuntó"
         ],
         "note" : "Preterite of apuntar.",
@@ -143724,7 +144763,8 @@
       },
       {
         "forms" : [
-          "ligera"
+          "ligera",
+          "ligeras"
         ],
         "note" : "Not heavy; feminine of ligero.",
         "pos" : "adjective",
@@ -144169,7 +145209,8 @@
       },
       {
         "forms" : [
-          "pesado"
+          "pesado",
+          "pesados"
         ],
         "note" : "\"Te sientes pesado\" (you feel heavy).",
         "pos" : "adjective",
@@ -145581,7 +146622,8 @@
       {
         "forms" : [
           "conseguido",
-          "conseguir"
+          "conseguir",
+          "consiguió"
         ],
         "note" : "«Haya conseguido sentarse».",
         "pos" : "verb",
@@ -147180,6 +148222,7 @@
       },
       {
         "forms" : [
+          "moverlas",
           "mueve"
         ],
         "note" : "Present of mover, o→ue: \"ningún cepillo lo mueve\".",
@@ -149987,9 +151030,9 @@
         "forms" : [
           "mandó"
         ],
-        "note" : "Pretérito indefinido of mandar, which means to send and also to tell someone to do something.",
+        "note" : "Pretérito indefinido of mandar: to send, to tell someone to do something, and with an infinitive to have something done (mandó sacar = had it taken out).",
         "pos" : "verb",
-        "translation" : "sent"
+        "translation" : "sent; told to; had (something) done"
       },
       {
         "forms" : [
@@ -151047,6 +152090,7 @@
       },
       {
         "forms" : [
+          "extendió",
           "extiende"
         ],
         "note" : "Tú imperative of extender (e becomes ie): \"extiende un disco de masa\" = lay a round of pastry out flat.",
@@ -153956,6 +155000,181 @@
         "note" : "From vencer (to defeat); \"vencedor por 1-0\" = 1–0 winner, a noun used in apposition instead of \"que ganó\".",
         "pos" : "noun",
         "translation" : "winner"
+      },
+      {
+        "forms" : [
+          "maria"
+        ],
+        "gender" : "feminine",
+        "note" : "Maria Montessori (1870–1952), the Italian doctor who opened the first Casa dei Bambini in Rome; her Italian first name has no accent, unlike Spanish María.",
+        "pos" : "noun",
+        "translation" : "Maria"
+      },
+      {
+        "forms" : [
+          "montessori"
+        ],
+        "gender" : "feminine",
+        "note" : "The surname of Maria Montessori; it is also the name of the teaching method she created (el método Montessori).",
+        "pos" : "noun",
+        "translation" : "Montessori"
+      },
+      {
+        "forms" : [
+          "6"
+        ],
+        "note" : "Read \"seis\"; Spanish puts the day first and adds de before month and year: el 6 de enero de 1907.",
+        "pos" : "number",
+        "translation" : "6"
+      },
+      {
+        "forms" : [
+          "1907"
+        ],
+        "note" : "Read \"mil novecientos siete\"; the year Montessori opened her first room for children in Rome.",
+        "pos" : "number",
+        "translation" : "1907"
+      },
+      {
+        "forms" : [
+          "1896"
+        ],
+        "note" : "Read \"mil ochocientos noventa y seis\"; the year Montessori qualified in medicine.",
+        "pos" : "number",
+        "translation" : "1896"
+      },
+      {
+        "forms" : [
+          "1952"
+        ],
+        "note" : "Read \"mil novecientos cincuenta y dos\"; the year Montessori died, in the Netherlands.",
+        "pos" : "number",
+        "translation" : "1952"
+      },
+      {
+        "forms" : [
+          "silla",
+          "sillas"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine, plural sillas; the small form sillita is a common, affectionate way to say a child's chair.",
+        "pos" : "noun",
+        "translation" : "chair"
+      },
+      {
+        "forms" : [
+          "barren",
+          "barrer",
+          "barrieron",
+          "barrían"
+        ],
+        "note" : "A regular -er verb: barren (they sweep), barrieron (they swept), barrían (they used to sweep); barrer el suelo = to sweep the floor.",
+        "pos" : "verb",
+        "translation" : "to sweep"
+      },
+      {
+        "forms" : [
+          "suelo"
+        ],
+        "gender" : "masculine",
+        "note" : "El suelo is the floor of a room or the ground outside; it is also \"I usually\" from the verb soler, a different word.",
+        "pos" : "noun",
+        "translation" : "floor; ground"
+      },
+      {
+        "forms" : [
+          "jarra"
+        ],
+        "gender" : "feminine",
+        "note" : "A jug with a handle for water or milk; una jarra pequeña is a small one a child can hold.",
+        "pos" : "noun",
+        "translation" : "jug, pitcher"
+      },
+      {
+        "forms" : [
+          "escoba"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine; barrer con una escoba = to sweep with a broom.",
+        "pos" : "noun",
+        "translation" : "broom"
+      },
+      {
+        "forms" : [
+          "san"
+        ],
+        "note" : "Short form of santo used before most male saints' names: San Lorenzo, San Pedro (but Santo Tomás, Santo Domingo).",
+        "pos" : "adjective",
+        "translation" : "Saint"
+      },
+      {
+        "forms" : [
+          "lorenzo"
+        ],
+        "gender" : "masculine",
+        "note" : "San Lorenzo is a working-class district of Rome, near the main railway station, where the first Casa dei Bambini opened.",
+        "pos" : "noun",
+        "translation" : "Lorenzo (Lawrence)"
+      },
+      {
+        "forms" : [
+          "medicina"
+        ],
+        "gender" : "feminine",
+        "note" : "Graduarse en medicina = to graduate in medicine, to get a medical degree; Spanish often writes the degree subject with a capital: Medicina.",
+        "pos" : "noun",
+        "translation" : "medicine (the science, the degree)"
+      },
+      {
+        "forms" : [
+          "edificio"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine; un edificio de viviendas = an apartment building.",
+        "pos" : "noun",
+        "translation" : "building"
+      },
+      {
+        "forms" : [
+          "muebles"
+        ],
+        "gender" : "masculine",
+        "note" : "Spanish counts furniture: un mueble is one piece, los muebles is the furniture.",
+        "pos" : "noun",
+        "translation" : "furniture"
+      },
+      {
+        "forms" : [
+          "estrenado"
+        ],
+        "note" : "Participle of estrenar (to use or wear for the first time); recién estrenado = brand-new, just opened.",
+        "pos" : "adjective",
+        "translation" : "brand-new, first used"
+      },
+      {
+        "forms" : [
+          "graduado",
+          "graduarse"
+        ],
+        "note" : "Reflexive: graduarse en medicina = to graduate in medicine; las primeras en graduarse = the first to graduate, with en before the infinitive.",
+        "pos" : "verb",
+        "translation" : "to graduate"
+      },
+      {
+        "forms" : [
+          "humildes"
+        ],
+        "note" : "Plural of humilde, the same for masculine and feminine; familias humildes is the everyday, kind way to say low-income families.",
+        "pos" : "adjective",
+        "translation" : "poor, of modest means; humble"
+      },
+      {
+        "forms" : [
+          "meterse"
+        ],
+        "note" : "Reflexive meterse (from meter, to put in) means to get involved where you are not asked; sin meterse = without stepping in.",
+        "pos" : "verb",
+        "translation" : "to step in, to interfere"
       }
     ]
   },
@@ -178570,6 +179789,586 @@
       "summary" : "Sabato 17 ottobre 2026 Luis Díaz ha fatto tre gol nel 6–1 del Bayern sull'RB Leipzig, mentre Manchester City e Barcelona sono rimasti a punteggio pieno.",
       "title" : "Tre gol per Díaz",
       "translationGroup" : "weekend-sport-2026-10-18"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-20",
+      "id" : "small-chair",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Can\" says what someone is able to do; the verb after it has no \"to\" and no -s.",
+              "example" : "A child of three can even carry a chair!",
+              "title" : "Can + verb for what someone is able to do"
+            },
+            {
+              "body" : "In speech, \"just\" often means \"only\" or makes an action sound simple: she just watches.",
+              "example" : "Maria just watches and writes it all down.",
+              "title" : "\"Just\" in everyday talk"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "So it's 6 January 1907, in Rome. Maria Montessori is a doctor. She opens a room for small children: their parents work all day.",
+            "The chairs and tables are small and light. A child of three can even carry a chair! The children choose their work.",
+            "They pour water, sweep the floor and wash their hands. Maria just watches and writes it all down.",
+            "Today schools all over the world use her ideas. At home, start with a small jug."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Could\" is the past of \"can\": it says what someone was able to do.",
+              "example" : "So a child of three could pick up a chair and sit where she liked.",
+              "title" : "Could: the past of can"
+            },
+            {
+              "body" : "\"Not … at all\" makes a negative stronger: it is the opposite of what you might expect.",
+              "example" : "Actually, she wasn't a teacher at all.",
+              "title" : "Not … at all"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 6 January 1907, Maria Montessori opened a room for children in San Lorenzo, a poor part of Rome.",
+            "Actually, she wasn't a teacher at all. She was a doctor, one of the first women in Italy to get a medical degree, in 1896.",
+            "About fifty small children came, because their parents worked all day. Maria got small, light chairs and tables for them.",
+            "So a child of three could pick up a chair and sit where she liked. The children poured water, swept the floor and chose their own work. Maria just watched and wrote down what they did.",
+            "Her way of teaching went around the world. At home, start with a small jug and a small broom."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Adjective + enough + to + verb\" says that something has the quality needed for an action.",
+              "example" : "Maria got rid of the heavy furniture and brought in small tables and chairs light enough for the children to move.",
+              "title" : "Light enough to + verb"
+            },
+            {
+              "body" : "\"Keep + -ing\" says that an action went on and on, without stopping.",
+              "example" : "Her method spread all over the world, and she kept working on it until she died in 1952.",
+              "title" : "Keep + -ing: going on doing something"
+            },
+            {
+              "body" : "\"While\" joins two actions happening at the same time.",
+              "example" : "The children poured water, swept and chose their own work, while Maria just watched and took notes.",
+              "title" : "While for two actions at the same time"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 6 January 1907, Maria Montessori opened a room for small children in San Lorenzo, Rome, in a new building for poor families.",
+            "She wasn't even a teacher: she was a doctor, one of the first women in Italy to qualify in medicine, in 1896.",
+            "About fifty children aged three to six came, because their parents worked all day. Maria got rid of the heavy furniture and brought in small tables and chairs light enough for the children to move.",
+            "Now a three-year-old could pick up a chair and decide where to sit. The children poured water, swept and chose their own work, while Maria just watched and took notes.",
+            "Her method spread all over the world, and she kept working on it until she died in 1952. At home, a small jug and broom are a good start."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Have + object + past participle\" means someone else does the action for you: she arranged it, others did it.",
+              "example" : "Montessori had the heavy furniture taken out and brought in tables and chairs light enough for them to carry.",
+              "title" : "Have something done"
+            },
+            {
+              "body" : "In speech the past perfect is usually contracted (she'd become, they'd gone); it puts one past event before another.",
+              "example" : "She was a doctor, and in 1896 she'd become one of the first women in Italy to qualify in medicine.",
+              "title" : "She'd become: the past perfect in speech"
+            },
+            {
+              "body" : "\"Without\" + -ing says that an action does not happen alongside the main one.",
+              "example" : "Montessori just watched, without stepping in, and wrote down everything she saw.",
+              "title" : "Without + -ing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 6 January 1907, Maria Montessori opened a room for about fifty small children in San Lorenzo, a poor part of Rome, in a brand-new block for low-income families.",
+            "And here's the thing: she wasn't a teacher at all. She was a doctor, and in 1896 she'd become one of the first women in Italy to qualify in medicine.",
+            "The children's parents worked all day, so these three- to six-year-olds were basically on their own. Montessori had the heavy furniture taken out and brought in tables and chairs light enough for them to carry.",
+            "Suddenly a three-year-old could choose where to sit and what to do: pour water, sweep the floor, wash her hands. Montessori just watched, without stepping in, and wrote down everything she saw.",
+            "Her method spread across the world, and she was still working on it when she died in 1952. At home, it starts with a jug and a broom that fit a child's hands."
+          ]
+        }
+      ],
+      "summary" : "In 1907 a doctor in Rome gave about fifty small children chairs they could carry themselves, and found out what kids do when they get to choose.",
+      "title" : "The Small Chair",
+      "translationGroup" : "small-chair"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-20",
+      "id" : "small-chair-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Peut\" (from pouvoir) says what someone is able to do; the next verb stays in the infinitive: peut porter. \"Même\" (even) sits between the two.",
+              "example" : "Un enfant de trois ans peut même porter une chaise !",
+              "title" : "Pouvoir + infinitive: can"
+            },
+            {
+              "body" : "With a reflexive verb the action comes back to the subject: ils se lavent. For your own body French says \"les mains\" (the hands), not \"leurs mains\".",
+              "example" : "Ils versent de l'eau, balaient et se lavent les mains.",
+              "title" : "Reflexive verbs: se laver les mains"
+            },
+            {
+              "body" : "Advice to a friend uses the tu imperative: the present form without \"tu\", and -er verbs drop their -s: tu commences → commence.",
+              "example" : "À la maison, commence par un petit pichet.",
+              "title" : "The tu imperative: commence"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Alors, on est le 6 janvier 1907, à Rome. Maria Montessori est médecin. Elle ouvre une salle pour les petits enfants. Pourquoi ? Parce que leurs parents travaillent toute la journée.",
+            "Les chaises et les tables sont petites et légères. Un enfant de trois ans peut même porter une chaise ! Et les enfants choisissent leur activité.",
+            "Ils versent de l'eau, balaient et se lavent les mains. Maria, elle, regarde juste et elle note tout.",
+            "Aujourd'hui, beaucoup d'écoles dans le monde utilisent ses idées. À la maison, commence par un petit pichet."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + past participle for most verbs; some participles are irregular: ouvrir → ouvert, avoir → eu, faire → fait.",
+              "example" : "Le 6 janvier 1907, Maria Montessori a ouvert une salle pour les enfants.",
+              "title" : "Passé composé with avoir: a ouvert"
+            },
+            {
+              "body" : "Venir forms its past with être, and the participle agrees with the subject: les enfants sont venus, les filles sont venues.",
+              "example" : "Environ cinquante petits enfants sont venus, parce que leurs parents travaillaient toute la journée.",
+              "title" : "Passé composé with être: sont venus"
+            },
+            {
+              "body" : "\"Du tout\" after \"pas\" makes the negative stronger: the opposite of what you would expect.",
+              "example" : "En fait, elle n'était pas du tout institutrice.",
+              "title" : "Ne … pas du tout: not at all"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 6 janvier 1907, Maria Montessori a ouvert une salle pour les enfants. C'était à San Lorenzo, un quartier pauvre de Rome.",
+            "En fait, elle n'était pas du tout institutrice. Elle était médecin. En 1896, elle a été une des premières femmes en Italie à avoir son diplôme.",
+            "Environ cinquante petits enfants sont venus, parce que leurs parents travaillaient toute la journée. Alors, Maria leur a trouvé des petites tables et des petites chaises, toutes légères.",
+            "Un enfant de trois ans pouvait prendre une chaise et s'asseoir où il voulait. Les enfants ont versé de l'eau, balayé le sol et choisi eux-mêmes leur activité. Et Maria ? Elle a juste regardé, et elle a tout noté.",
+            "Sa façon d'enseigner a fait le tour du monde. À la maison, commence par un petit pichet et un petit balai."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Facile à\" + infinitive says that something is easy to do: facile à bouger = easy to move. The infinitive has a passive sense here.",
+              "example" : "Maria a remplacé les meubles lourds par des petites tables et des chaises légères, faciles à bouger.",
+              "title" : "Facile à + infinitive"
+            },
+            {
+              "body" : "\"Pendant que\" joins two actions going on at the same time; the imparfait (versaient, regardait) shows what kept happening, day after day.",
+              "example" : "Les enfants versaient de l'eau, balayaient et choisissaient leur activité, pendant que Maria regardait et prenait des notes.",
+              "title" : "Pendant que + imparfait: at the same time"
+            },
+            {
+              "body" : "\"Continuer à\" + infinitive says an action went on without stopping; in speech \"travailler dessus\" means to work on it.",
+              "example" : "Et Maria a continué à travailler dessus jusqu'à sa mort, en 1952.",
+              "title" : "Continuer à + infinitive: keep doing"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 6 janvier 1907, Maria Montessori a ouvert une salle pour les petits enfants à San Lorenzo, à Rome. C'était dans un nouvel immeuble pour des familles pauvres.",
+            "En fait, elle n'était même pas institutrice. Elle était médecin, et en 1896, elle a été une des premières femmes en Italie à avoir son diplôme de médecine.",
+            "Une cinquantaine d'enfants de trois à six ans sont venus, parce que leurs parents travaillaient toute la journée. Maria a remplacé les meubles lourds par des petites tables et des chaises légères, faciles à bouger.",
+            "Du coup, un enfant de trois ans pouvait prendre une chaise et décider où s'asseoir. Les enfants versaient de l'eau, balayaient et choisissaient leur activité, pendant que Maria regardait et prenait des notes.",
+            "Sa méthode s'est répandue dans le monde entier. Et Maria a continué à travailler dessus jusqu'à sa mort, en 1952. À la maison, un petit pichet et un petit balai, c'est déjà un bon début."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Faire\" + infinitive means someone else does the action for you: a fait sortir = had (the furniture) taken out; one \"faire\" can carry two infinitives.",
+              "example" : "Montessori a fait sortir les meubles lourds et installer des tables et des chaises assez légères pour qu'ils puissent les porter.",
+              "title" : "Faire + infinitive: having something done"
+            },
+            {
+              "body" : "Avoir in the imparfait + participle puts one past event before another, and people say it all the time; \"décrocher un diplôme\" is the spoken way to say get a degree.",
+              "example" : "En 1896, elle avait décroché son diplôme de médecine, une des premières femmes d'Italie à y arriver.",
+              "title" : "Plus-que-parfait: avait décroché"
+            },
+            {
+              "body" : "After \"sans\" French uses the infinitive where English uses -ing; \"s'en mêler\" = to get involved, to interfere.",
+              "example" : "Montessori se contentait de regarder, sans jamais s'en mêler, et notait tout ce qu'elle voyait.",
+              "title" : "Sans + infinitive: without doing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 6 janvier 1907, Maria Montessori a ouvert une salle pour une cinquantaine de petits enfants à San Lorenzo, un quartier pauvre de Rome. C'était dans un immeuble tout récent, pour des familles modestes.",
+            "Et le plus étonnant, c'est qu'elle n'était pas du tout institutrice, mais médecin. En 1896, elle avait décroché son diplôme de médecine, une des premières femmes d'Italie à y arriver.",
+            "Les parents travaillaient toute la journée, alors ces petits de trois à six ans étaient pratiquement livrés à eux-mêmes. Montessori a fait sortir les meubles lourds et installer des tables et des chaises assez légères pour qu'ils puissent les porter.",
+            "D'un coup, un petit de trois ans pouvait choisir où s'asseoir et quoi faire. Verser de l'eau, balayer le sol, se laver les mains : c'était lui qui décidait. Montessori se contentait de regarder, sans jamais s'en mêler, et notait tout ce qu'elle voyait.",
+            "Sa méthode a fait le tour du monde, et elle travaillait encore dessus quand elle est morte, en 1952. À la maison, tout commence par un pichet et un balai faits pour des mains d'enfant."
+          ]
+        }
+      ],
+      "summary" : "En 1907, à Rome, une médecin a donné à une cinquantaine de petits enfants des chaises qu'ils pouvaient porter tout seuls, et elle a vu ce que font les enfants quand on les laisse choisir.",
+      "title" : "La petite chaise",
+      "translationGroup" : "small-chair"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-20",
+      "id" : "small-chair-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In verbs like „zusehen“ (to watch) and „aufschreiben“ (to write down), the small first part splits off in the present and stands at the end of the clause: „sieht … zu“, „schreibt … auf“.",
+              "example" : "Maria sieht nur zu und schreibt alles auf.",
+              "title" : "Separable verbs: the particle goes to the end"
+            },
+            {
+              "body" : "The modal verb „kann“ stands in second place; the main verb goes to the very end in its infinitive form: „kann … tragen“.",
+              "example" : "Sogar ein dreijähriges Kind kann einen Stuhl tragen!",
+              "title" : "Können + infinitive at the end"
+            },
+            {
+              "body" : "Advice to a friend uses the du imperative: the du form without „du“ and without -st, and without the umlaut of „du fängst“: fang! The particle still goes to the end, and „einfach“ (just) makes it a friendly tip, not an order.",
+              "example" : "Fang zu Hause einfach mit einer kleinen Kanne an.",
+              "title" : "The du imperative: Fang … an!"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Also: Rom, 6. Januar 1907. Maria Montessori ist Ärztin. Sie macht einen Raum für kleine Kinder auf. Die Eltern arbeiten nämlich den ganzen Tag.",
+            "Die Stühle und Tische sind klein und leicht. Sogar ein dreijähriges Kind kann einen Stuhl tragen! Die Kinder suchen ihre Aufgaben selbst aus.",
+            "Sie gießen Wasser ein, fegen und waschen sich die Hände. Maria sieht nur zu und schreibt alles auf.",
+            "Heute nutzen Schulen überall ihre Ideen. Fang zu Hause einfach mit einer kleinen Kanne an."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with „haben“ (or „sein“) in second place and the participle at the end. Separable verbs put „ge“ inside: eingießen → eingegossen, aussuchen → ausgesucht.",
+              "example" : "Die Kinder haben Wasser eingegossen, den Boden gefegt und sich ihre Aufgaben ausgesucht.",
+              "title" : "Perfekt: haben + participle at the end"
+            },
+            {
+              "body" : "Verbs of movement like „kommen“ take „sein“: „sind gekommen“. After „weil“ the whole verb goes to the end, the helper last: „gearbeitet haben“.",
+              "example" : "Ungefähr fünfzig kleine Kinder sind gekommen, weil ihre Eltern den ganzen Tag gearbeitet haben.",
+              "title" : "Perfekt with sein, and weil sends the verb to the end"
+            },
+            {
+              "body" : "„Gar“ makes „kein“ stronger (not a teacher at all), and after a negation „sondern“, not „aber“, brings in the right answer.",
+              "example" : "Eigentlich war sie gar keine Lehrerin, sondern Ärztin.",
+              "title" : "Gar kein …, sondern: not … at all, but"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am 6. Januar 1907 hat Maria Montessori einen Raum für Kinder aufgemacht. Das war in San Lorenzo, einem armen Viertel von Rom.",
+            "Eigentlich war sie gar keine Lehrerin, sondern Ärztin. 1896 hat sie als eine der ersten Frauen in Italien ihr Medizinstudium abgeschlossen.",
+            "Ungefähr fünfzig kleine Kinder sind gekommen, weil ihre Eltern den ganzen Tag gearbeitet haben. Maria hat kleine, leichte Stühle und Tische geholt.",
+            "So konnte ein dreijähriges Kind einen Stuhl nehmen und sich hinsetzen, wo es wollte. Die Kinder haben Wasser eingegossen, den Boden gefegt und sich ihre Aufgaben ausgesucht. Maria hat nur zugeschaut und alles aufgeschrieben.",
+            "Ihre Art zu unterrichten ist um die Welt gegangen. Fang zu Hause mit einer kleinen Kanne und einem kleinen Besen an."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A relative clause sends its verb to the end. In „die die Kinder bewegen konnten“ the first „die“ is the relative pronoun (which, for the chairs and tables) and the second is the article of „Kinder“.",
+              "example" : "Maria hat die schweren Möbel rausgeräumt und kleine, leichte Tische und Stühle reingestellt, die die Kinder bewegen konnten.",
+              "title" : "Relative clauses: die die Kinder …"
+            },
+            {
+              "body" : "„Während“ joins two things happening at once and sends the verb of its clause to the end; in the Perfekt the helper „hat“ comes last.",
+              "example" : "Die Kinder haben Wasser eingegossen, gefegt und ihre Aufgaben ausgesucht, während Maria nur zugeschaut und mitgeschrieben hat.",
+              "title" : "Während for two actions at the same time"
+            },
+            {
+              "body" : "„Nicht mal“ (spoken for „nicht einmal“) means not even, and „sondern“ then gives the surprising truth. „Dabei“ at the start means and yet: it sets up the surprise.",
+              "example" : "Dabei war sie nicht mal Lehrerin, sondern Ärztin.",
+              "title" : "Nicht mal …, sondern: not even … but"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am 6. Januar 1907 hat Maria Montessori einen Raum für kleine Kinder eröffnet. Das war in San Lorenzo in Rom, in einem Neubau für arme Familien.",
+            "Dabei war sie nicht mal Lehrerin, sondern Ärztin. 1896 hat sie als eine der ersten Frauen in Italien ihr Medizinstudium abgeschlossen.",
+            "Ungefähr fünfzig Kinder zwischen drei und sechs sind gekommen, weil ihre Eltern den ganzen Tag gearbeitet haben. Maria hat die schweren Möbel rausgeräumt und kleine, leichte Tische und Stühle reingestellt, die die Kinder bewegen konnten.",
+            "Jetzt konnte ein dreijähriges Kind einen Stuhl hochheben und selbst entscheiden, wo es sitzt. Die Kinder haben Wasser eingegossen, gefegt und ihre Aufgaben ausgesucht, während Maria nur zugeschaut und mitgeschrieben hat.",
+            "Ihre Methode ist um die Welt gegangen, und bis zu ihrem Tod 1952 hat sie weitergemacht. Zu Hause? Fang mit einer kleinen Kanne und einem Besen an."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Etwas machen lassen“ means having someone else do it. With a second infinitive, the Perfekt keeps „lassen“ instead of „gelassen“: „hat die Möbel rausbringen lassen“ = had the furniture taken out.",
+              "example" : "Montessori hat die schweren Möbel rausbringen lassen und Tische und Stühle reingestellt, die so leicht waren, dass die Kinder sie tragen konnten.",
+              "title" : "Perfekt of lassen + infinitive: hat … rausbringen lassen"
+            },
+            {
+              "body" : "„Hatte“ + participle puts one past event before another, in speech as in writing: she had finished her degree in 1896, eleven years before the room opened.",
+              "example" : "1896 hatte sie als eine der ersten Frauen in Italien ihr Medizinstudium abgeschlossen.",
+              "title" : "Plusquamperfekt: hatte … abgeschlossen"
+            },
+            {
+              "body" : "„Ohne … zu“ + infinitive says that something does not happen alongside the main action. With „sich einmischen“ (to interfere) the reflexive „sich“ comes first and „zu“ sits inside: einzumischen.",
+              "example" : "Die hat nur zugeschaut, ohne sich einzumischen, und alles aufgeschrieben.",
+              "title" : "Ohne … zu with a reflexive, separable verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am 6. Januar 1907 hat Maria Montessori einen Raum für ungefähr fünfzig kleine Kinder eröffnet, in San Lorenzo, einem armen Viertel von Rom. Und das in einem nagelneuen Mietshaus für Familien mit wenig Geld.",
+            "Und jetzt kommt's: Sie war gar keine Lehrerin, sondern Ärztin. 1896 hatte sie als eine der ersten Frauen in Italien ihr Medizinstudium abgeschlossen.",
+            "Die Eltern haben den ganzen Tag gearbeitet, also waren die Drei- bis Sechsjährigen praktisch auf sich gestellt. Montessori hat die schweren Möbel rausbringen lassen und Tische und Stühle reingestellt, die so leicht waren, dass die Kinder sie tragen konnten.",
+            "Plötzlich konnte ein dreijähriges Kind bestimmen, wo es sitzt und was es macht: Wasser eingießen, fegen, sich die Hände waschen. Und Montessori? Die hat nur zugeschaut, ohne sich einzumischen, und alles aufgeschrieben.",
+            "Ihre Methode hat sich weltweit verbreitet, und sie hat noch bis zu ihrem Tod 1952 daran gearbeitet. Zu Hause kannst du mit einer Kanne und einem Besen anfangen, die in Kinderhände passen."
+          ]
+        }
+      ],
+      "summary" : "1907 hat eine Ärztin in Rom ungefähr fünfzig kleinen Kindern Stühle gegeben, die sie selbst tragen konnten, und dabei herausgefunden, was Kinder machen, wenn sie es sich aussuchen dürfen.",
+      "title" : "Der kleine Stuhl",
+      "translationGroup" : "small-chair"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-20",
+      "id" : "small-chair-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish says what someone is without \"un\" or \"una\": es médica, not es una médica. The noun also agrees with the person: médico for a man, médica for a woman.",
+              "example" : "Maria Montessori es médica.",
+              "title" : "No article before a profession"
+            },
+            {
+              "body" : "In speech, \"hasta\" before a noun means \"even\": hasta un niño = even a child. After poder the next verb stays in the infinitive: puede llevar = can carry.",
+              "example" : "¡Hasta un niño de tres años puede llevar una silla!",
+              "title" : "Hasta for \"even\""
+            },
+            {
+              "body" : "With a reflexive verb, Spanish uses the article for parts of the body, not \"sus\": se lavan las manos = they wash their hands.",
+              "example" : "Sirven agua, barren el suelo y se lavan las manos.",
+              "title" : "Se lavan las manos: reflexive verb, no possessive"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Pues mira, es el 6 de enero de 1907, en Roma. Maria Montessori es médica. Abre una sala para niños pequeños: sus padres trabajan todo el día.",
+            "Las sillas y las mesas son pequeñas y ligeras. ¡Hasta un niño de tres años puede llevar una silla! Los niños eligen qué hacer.",
+            "Sirven agua, barren el suelo y se lavan las manos. Maria solo mira y lo apunta todo.",
+            "Hoy muchas escuelas de todo el mundo usan sus ideas. ¿Y en casa? Empieza con una jarra pequeña."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For actions repeated day after day, Spanish uses the imperfect: -ía/-ían for -er and -ir verbs (servían, barrían, elegían), -aba/-aban for -ar verbs (miraba, apuntaba). One-off events take the pretérito: llegaron, consiguió.",
+              "example" : "Los niños servían agua, barrían el suelo y elegían qué hacer.",
+              "title" : "Imperfect for what happened again and again"
+            },
+            {
+              "body" : "For an ability that lasted in the past, Spanish uses the imperfect podía, where English says \"could\"; the next verb stays in the infinitive.",
+              "example" : "Un niño de tres años ya podía llevar una silla y elegir dónde sentarse.",
+              "title" : "Podía: what someone was able to do"
+            },
+            {
+              "body" : "\"La verdad es que\" (literally \"the truth is that\") is how Spanish speakers say \"actually\" or \"to be honest\" before a surprising fact.",
+              "example" : "La verdad es que no era maestra: era médica.",
+              "title" : "La verdad es que: \"actually\" in talk"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 6 de enero de 1907, en Roma, Maria Montessori abrió una sala para niños. Fue en San Lorenzo, un barrio pobre de la ciudad.",
+            "La verdad es que no era maestra: era médica. En 1896 fue una de las primeras mujeres de Italia en graduarse en medicina.",
+            "Llegaron unos cincuenta niños pequeños: sus padres tenían que trabajar todo el día. Maria les consiguió sillas y mesas pequeñas y ligeras.",
+            "Un niño de tres años ya podía llevar una silla y elegir dónde sentarse. Los niños servían agua, barrían el suelo y elegían qué hacer. Maria solo los miraba y lo apuntaba todo.",
+            "Su forma de enseñar dio la vuelta al mundo. ¿Y en casa? Pues empieza con una jarra y una escoba pequeñas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Pasarse el día\" + gerund (-ando, -iendo) is the everyday way to say someone spends the whole day doing something: se pasaban el día trabajando = they worked all day long.",
+              "example" : "Llegaron unos cincuenta niños de tres a seis años, porque sus padres se pasaban el día trabajando.",
+              "title" : "Pasarse el día + gerund"
+            },
+            {
+              "body" : "\"Tan + adjective + que\" links a quality to what it makes possible: tan ligeras que podían moverlas = so light that they could move them.",
+              "example" : "Maria quitó los muebles pesados y trajo mesas y sillas pequeñas, tan ligeras que los niños podían moverlas.",
+              "title" : "Tan + adjective + que for a result"
+            },
+            {
+              "body" : "\"Seguir\" + gerund says that an action went on without stopping: siguió trabajando = she kept working. Seguir changes e to i in the pretérito: siguió.",
+              "example" : "Su método se extendió por todo el mundo, y ella siguió trabajando en él hasta que murió en 1952.",
+              "title" : "Seguir + gerund: going on doing something"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 6 de enero de 1907, Maria Montessori abrió una sala para niños pequeños en San Lorenzo, en Roma. Estaba en un edificio nuevo para familias pobres.",
+            "Ni siquiera era maestra: era médica. En 1896 fue una de las primeras mujeres de Italia en graduarse en medicina.",
+            "Llegaron unos cincuenta niños de tres a seis años, porque sus padres se pasaban el día trabajando. Maria quitó los muebles pesados y trajo mesas y sillas pequeñas, tan ligeras que los niños podían moverlas.",
+            "Y claro, ahora un niño de tres años podía llevar una silla y decidir dónde sentarse. Los niños servían agua, barrían y elegían qué hacer, mientras Maria solo miraba y tomaba notas.",
+            "Su método se extendió por todo el mundo, y ella siguió trabajando en él hasta que murió en 1952. En casa, para empezar, basta con una jarra y una escoba pequeñas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a negative, Spanish corrects with \"sino\", not \"pero\": no era maestra, sino médica answers what the listener might expect of someone opening a school.",
+              "example" : "Y aquí viene lo bueno: no era maestra, sino médica.",
+              "title" : "No … sino …: correcting an expectation"
+            },
+            {
+              "body" : "\"Mandar + infinitive\" means you have someone else do it: mandó sacar los muebles = she had the furniture taken out. After \"para que\" in a past sentence the verb goes in the imperfect subjunctive: pudieran.",
+              "example" : "Montessori mandó sacar los muebles pesados y trajo mesas y sillas ligeras, para que pudieran llevarlas ellos mismos.",
+              "title" : "Mandar + infinitive, para que + subjunctive"
+            },
+            {
+              "body" : "Había + participle puts one past event before another: by 1907 she had already qualified as a doctor, back in 1896. \"Ya\" (already) often comes with it in speech.",
+              "example" : "Ya en 1896 se había graduado en medicina: fue una de las primeras mujeres de Italia en hacerlo.",
+              "title" : "Se había graduado: the pluperfect"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 6 de enero de 1907, Maria Montessori abrió una sala para unos cincuenta niños pequeños en San Lorenzo, un barrio pobre de Roma. Estaba en un edificio recién estrenado para familias humildes.",
+            "Y aquí viene lo bueno: no era maestra, sino médica. Ya en 1896 se había graduado en medicina: fue una de las primeras mujeres de Italia en hacerlo.",
+            "Los padres de los niños trabajaban todo el día, así que esos pequeños de tres a seis años estaban prácticamente solos. Montessori mandó sacar los muebles pesados y trajo mesas y sillas ligeras, para que pudieran llevarlas ellos mismos.",
+            "De repente, un niño de tres años podía elegir dónde sentarse y qué hacer: servir agua, barrer el suelo, lavarse las manos. Montessori se limitaba a mirar, sin meterse, y apuntaba todo lo que veía.",
+            "Su método dio la vuelta al mundo, y ella seguía trabajando en él cuando murió en 1952. En casa, todo empieza con una jarra y una escoba a la medida de un niño."
+          ]
+        }
+      ],
+      "summary" : "En 1907, una médica de Roma les dio a unos cincuenta niños pequeños sillas que podían llevar ellos solos, y descubrió qué hacen los niños cuando pueden elegir.",
+      "title" : "La silla pequeña",
+      "translationGroup" : "small-chair"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-20",
+      "id" : "small-chair-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In everyday Italian you say what someone does for a living with fare + the article + the job: fa il medico = she is a doctor.",
+              "example" : "Maria Montessori fa il medico.",
+              "title" : "Fare il + profession"
+            },
+            {
+              "body" : "\"Può\" (from potere) says what someone is able to do, and the next verb stays in the infinitive: può portare = can carry. \"Anche\" in front means \"even\".",
+              "example" : "Anche un bambino di tre anni può portare una sedia!",
+              "title" : "Potere + infinitive: can"
+            },
+            {
+              "body" : "At the end of a sentence, \"e basta\" says that this is all someone does: guarda e scrive tutto, e basta = she just watches and writes it all down. It is one of the commonest little phrases of spoken Italian.",
+              "example" : "Maria guarda e scrive tutto, e basta.",
+              "title" : "E basta: just, and nothing else"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, siamo a Roma, il 6 gennaio 1907. Maria Montessori fa il medico. Apre una stanza per bambini piccoli: i genitori lavorano tutto il giorno.",
+            "Le sedie e i tavoli sono piccoli e leggeri. Anche un bambino di tre anni può portare una sedia! E i bambini scelgono da soli cosa fare.",
+            "Versano l'acqua, spazzano il pavimento e si lavano le mani. Maria guarda e scrive tutto, e basta.",
+            "Oggi tante scuole in tutto il mondo usano le sue idee. A casa, comincia con una brocca piccola."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Essere forms its passato prossimo with itself, and the participle agrees with the subject: lei è stata, lui è stato, loro sono stati.",
+              "example" : "Nel 1896 è stata una delle prime donne in Italia a laurearsi in medicina.",
+              "title" : "È stata: essere in the passato prossimo"
+            },
+            {
+              "body" : "When a direct object pronoun comes before avere, the participle agrees with it: li ha guardati (i bambini), l'ha presa (la sedia).",
+              "example" : "Maria li ha solo guardati e ha scritto tutto quello che facevano.",
+              "title" : "Li ha guardati: agreement after lo, la, li, le"
+            },
+            {
+              "body" : "The passato prossimo tells what happened (ha aperto, sono arrivati); the imperfect describes how things were and what was possible at the time: poteva = could, voleva = wanted.",
+              "example" : "Così un bambino di tre anni poteva prendere una sedia e sedersi dove voleva.",
+              "title" : "Poteva, voleva: the imperfect for the background"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Allora, il 6 gennaio 1907 Maria Montessori ha aperto una stanza per bambini a San Lorenzo, a Roma. Era un quartiere povero.",
+            "In realtà non era per niente una maestra: era un medico. Nel 1896 è stata una delle prime donne in Italia a laurearsi in medicina.",
+            "Sono arrivati una cinquantina di bambini piccoli, perché i genitori lavoravano tutto il giorno. Per loro Maria ha preso apposta sedie e tavoli piccoli e leggeri.",
+            "Così un bambino di tre anni poteva prendere una sedia e sedersi dove voleva. I bambini hanno versato l'acqua, spazzato il pavimento e scelto da soli cosa fare. Maria li ha solo guardati e ha scritto tutto quello che facevano.",
+            "E il suo modo di insegnare ha fatto il giro del mondo. A casa, comincia con una brocca piccola e una scopa piccola."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The trapassato prossimo (imperfect of essere or avere + past participle) puts one past event before another: by 1907 she had already graduated, in 1896. Laurearsi is reflexive, so it takes essere.",
+              "example" : "Era un medico: si era laureata in medicina nel 1896, tra le prime donne in Italia.",
+              "title" : "Si era laureata: the trapassato prossimo"
+            },
+            {
+              "body" : "\"Così + adjective + che\" gives a quality and its result in one go: così leggeri che i bambini potevano spostarli = so light that the children could move them.",
+              "example" : "Via i mobili pesanti: Maria ha messo tavoli e sedie piccoli, così leggeri che i bambini potevano spostarli.",
+              "title" : "Così … che: so … that"
+            },
+            {
+              "body" : "\"Mentre\" (while) joins two things going on at the same time; both sides take the imperfect because they describe ongoing, repeated actions: versavano, stava a guardare.",
+              "example" : "I bambini versavano l'acqua, spazzavano e sceglievano da soli cosa fare, mentre Maria stava a guardare e prendeva appunti.",
+              "title" : "Mentre + imperfect: at the same time"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il 6 gennaio 1907 Maria Montessori ha aperto una stanza per bambini piccoli a San Lorenzo, a Roma. Era in un palazzo nuovo, costruito apposta per le famiglie povere.",
+            "Pensa, non era nemmeno una maestra. Era un medico: si era laureata in medicina nel 1896, tra le prime donne in Italia.",
+            "Sono arrivati una cinquantina di bambini dai tre ai sei anni, perché i genitori lavoravano tutto il giorno. Via i mobili pesanti: Maria ha messo tavoli e sedie piccoli, così leggeri che i bambini potevano spostarli.",
+            "A quel punto un bambino di tre anni poteva prendere una sedia e decidere dove sedersi. I bambini versavano l'acqua, spazzavano e sceglievano da soli cosa fare, mentre Maria stava a guardare e prendeva appunti.",
+            "Il suo metodo ha fatto il giro del mondo, e lei ci ha lavorato fino alla morte, nel 1952. A casa, per cominciare, bastano una brocca piccola e una scopa piccola."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Fare + infinitive\" means someone arranges an action that others carry out: ha fatto portare via i mobili = she had the furniture taken out. \"Perché\" + subjunctive (potessero) means \"so that\".",
+              "example" : "La Montessori ha fatto portare via i mobili pesanti e ha messo tavoli e sedie abbastanza leggeri perché i bambini potessero portarli.",
+              "title" : "Fare + infinitive: having something done"
+            },
+            {
+              "body" : "The trapassato prossimo (era stata = she had been) sets an earlier past event behind the main story; in speech it is the everyday way to say \"she'd been\".",
+              "example" : "Era un medico, e già nel 1896 era stata una delle prime donne in Italia a laurearsi in medicina.",
+              "title" : "Era stata: one past before another"
+            },
+            {
+              "body" : "Where English says \"without\" + -ing, Italian uses senza + the infinitive: senza intervenire. \"Se ne stava lì a guardare\" is the spoken way to say she just stood there watching and did nothing else.",
+              "example" : "La Montessori se ne stava lì a guardare, senza mai intervenire, e si segnava tutto quello che vedeva.",
+              "title" : "Senza + infinitive, starsene lì a + infinitive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il 6 gennaio 1907 Maria Montessori ha aperto una stanza per una cinquantina di bambini piccoli a San Lorenzo, un quartiere povero di Roma. Era in un palazzo di case popolari nuovo di zecca.",
+            "Ed ecco il bello: non era affatto una maestra. Era un medico, e già nel 1896 era stata una delle prime donne in Italia a laurearsi in medicina.",
+            "Erano bambini tra i tre e i sei anni, con i genitori al lavoro tutto il giorno: in pratica, restavano da soli. La Montessori ha fatto portare via i mobili pesanti e ha messo tavoli e sedie abbastanza leggeri perché i bambini potessero portarli.",
+            "Di colpo un bambino di tre anni poteva scegliere dove sedersi e cosa fare: versare l'acqua, spazzare il pavimento, lavarsi le mani. La Montessori se ne stava lì a guardare, senza mai intervenire, e si segnava tutto quello che vedeva.",
+            "Il suo metodo si è diffuso in tutto il mondo, e lei ci stava ancora lavorando quando è morta, nel 1952. A casa puoi cominciare da una brocca e una scopa a misura di bambino."
+          ]
+        }
+      ],
+      "summary" : "Nel 1907 una dottoressa di Roma ha dato a una cinquantina di bambini piccoli delle sedie che riuscivano a portare da soli, e ha scoperto cosa fanno i bimbi quando possono scegliere.",
+      "title" : "La piccola sedia",
+      "translationGroup" : "small-chair"
     }
   ]
 }

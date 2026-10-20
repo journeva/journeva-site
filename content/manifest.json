@@ -1,8 +1,8 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 16,
-  "generatedAt" : "2026-10-19",
+  "contentVersion" : 17,
+  "generatedAt" : "2026-10-20",
   "imageBaseURL" : "images/",
   "schemaVersion" : 1,
-  "sha256" : "f1313ec2638d09902845c15ec88081b2d4a1fcd7f1f04e4f9f8e2c369aaf1b83"
+  "sha256" : "b4ca0026f5cb98dc067a74fadd551271b925ef1ba4c68e0ce9d79a5e882ab421"
 }
