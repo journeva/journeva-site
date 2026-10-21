@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 17,
-  "generatedAt" : "2026-10-20",
+  "contentVersion" : 18,
+  "generatedAt" : "2026-10-21",
   "glossary" : {
     "english" : [
       {
@@ -2908,7 +2908,8 @@
       },
       {
         "forms" : [
-          "habit"
+          "habit",
+          "habits"
         ],
         "note" : "As in \"an old habit.\"",
         "pos" : "noun",
@@ -3600,7 +3601,8 @@
       },
       {
         "forms" : [
-          "leader"
+          "leader",
+          "leaders"
         ],
         "note" : "As in \"the caravan's leader.\"",
         "pos" : "noun",
@@ -6067,7 +6069,7 @@
         ],
         "note" : "\"Her method spread around the world\" = it reached many countries; \"spread butter\" = put a layer on bread. \"Spreadable\" means \"able to be spread.\"",
         "pos" : "verb",
-        "translation" : "to reach more and more places or people; to put a layer over a surface"
+        "translation" : "to reach more and more places or people; to put a layer over a surface; (noun) a soft food you put on bread"
       },
       {
         "forms" : [
@@ -7528,7 +7530,8 @@
       {
         "forms" : [
           "ask",
-          "asked"
+          "asked",
+          "asking"
         ],
         "note" : "\"Asked\" is the past tense.",
         "pos" : "verb",
@@ -15972,7 +15975,8 @@
       },
       {
         "forms" : [
-          "baker"
+          "baker",
+          "bakers"
         ],
         "note" : "As in \"Mateo is a baker.\"",
         "pos" : "noun",
@@ -16482,6 +16486,7 @@
       },
       {
         "forms" : [
+          "pill",
           "pills"
         ],
         "note" : "Plural of \"pill.\"",
@@ -17738,7 +17743,7 @@
         ],
         "note" : "As in \"the wind's push.\"",
         "pos" : "noun",
-        "translation" : "a force applied to move something"
+        "translation" : "a force applied to move something; a strong effort to make something happen"
       },
       {
         "forms" : [
@@ -17754,9 +17759,9 @@
           "record",
           "records"
         ],
-        "note" : "As in \"no history book will record his name.\"",
+        "note" : "As a verb, to write something down or store it; as a noun, a result nobody has beaten: \"a sad record\".",
         "pos" : "verb",
-        "translation" : "to write down for later reference"
+        "translation" : "to write down for later reference; (noun) the best or worst result"
       },
       {
         "forms" : [
@@ -20323,7 +20328,8 @@
       },
       {
         "forms" : [
-          "region"
+          "region",
+          "region's"
         ],
         "note" : "\"The last in its region\" = the last country in that part of the world.",
         "pos" : "noun",
@@ -25457,6 +25463,207 @@
         "note" : "\"Three- to six-year-olds\" = children aged three to six; the first hyphen stands for \"-year-olds\".",
         "pos" : "noun",
         "translation" : "children who are six years old"
+      },
+      {
+        "forms" : [
+          "1960s"
+        ],
+        "note" : "\"The 1960s\" (say \"the nineteen-sixties\") means the whole decade.",
+        "pos" : "number",
+        "translation" : "the years 1960 to 1969"
+      },
+      {
+        "forms" : [
+          "1971"
+        ],
+        "note" : "The year local leaders in North Karelia asked the government for help.",
+        "pos" : "number",
+        "translation" : "1971"
+      },
+      {
+        "forms" : [
+          "2014"
+        ],
+        "note" : "By 2014 deaths from heart disease in middle age in North Karelia were down by 84 percent.",
+        "pos" : "number",
+        "translation" : "2014"
+      },
+      {
+        "forms" : [
+          "80"
+        ],
+        "note" : "\"More than 80 percent\" = more than eighty out of every hundred.",
+        "pos" : "number",
+        "translation" : "eighty"
+      },
+      {
+        "forms" : [
+          "act"
+        ],
+        "note" : "\"Asking the government to act\" = asking it to do something about a problem.",
+        "pos" : "verb",
+        "translation" : "to do something, to take action"
+      },
+      {
+        "forms" : [
+          "berries"
+        ],
+        "note" : "Plural of berry; in Finland bilberries and lingonberries grow wild in the forests.",
+        "pos" : "noun",
+        "translation" : "small soft fruits"
+      },
+      {
+        "forms" : [
+          "buy"
+        ],
+        "note" : "Past tense: bought.",
+        "pos" : "verb",
+        "translation" : "to get something by paying for it"
+      },
+      {
+        "forms" : [
+          "copied"
+        ],
+        "note" : "Past tense of copy: \"the whole country had copied the idea\".",
+        "pos" : "verb",
+        "translation" : "did the same thing as someone else"
+      },
+      {
+        "forms" : [
+          "dairies",
+          "dairy"
+        ],
+        "note" : "A dairy turns milk into skimmed milk, butter and cheese; plural dairies.",
+        "pos" : "noun",
+        "translation" : "a place that makes milk products"
+      },
+      {
+        "forms" : [
+          "eastern"
+        ],
+        "note" : "\"Eastern Finland\" = the part of Finland in the east.",
+        "pos" : "adjective",
+        "translation" : "in or from the east"
+      },
+      {
+        "forms" : [
+          "fat"
+        ],
+        "note" : "\"Salt and fat\": butter and full-fat milk have a lot of fat.",
+        "pos" : "noun",
+        "translation" : "the oily part of food"
+      },
+      {
+        "forms" : [
+          "finland"
+        ],
+        "note" : "A country in northern Europe; its people are Finns and speak Finnish.",
+        "pos" : "noun",
+        "translation" : "Finland"
+      },
+      {
+        "forms" : [
+          "frightened"
+        ],
+        "note" : "A little stronger than \"scared\".",
+        "pos" : "adjective",
+        "translation" : "afraid"
+      },
+      {
+        "forms" : [
+          "karelia"
+        ],
+        "note" : "North Karelia is a region in eastern Finland, of lakes and forests, on the border with Russia.",
+        "pos" : "noun",
+        "translation" : "Karelia"
+      },
+      {
+        "forms" : [
+          "lovely"
+        ],
+        "note" : "Very common in British speech: \"a lovely place to live\".",
+        "pos" : "adjective",
+        "translation" : "very nice, beautiful"
+      },
+      {
+        "forms" : [
+          "low-fat"
+        ],
+        "note" : "\"Low-fat milk\" has less fat than whole milk.",
+        "pos" : "adjective",
+        "translation" : "with little fat"
+      },
+      {
+        "forms" : [
+          "pekka"
+        ],
+        "note" : "Pekka Puska, the young doctor who led the North Karelia Project from 1972.",
+        "pos" : "noun",
+        "translation" : "Pekka (a Finnish first name)"
+      },
+      {
+        "forms" : [
+          "puska"
+        ],
+        "note" : "Pekka Puska, a Finnish doctor.",
+        "pos" : "noun",
+        "translation" : "Puska (a surname)"
+      },
+      {
+        "forms" : [
+          "petition"
+        ],
+        "note" : "\"Signed a petition\": they all put their names on it.",
+        "pos" : "noun",
+        "translation" : "a letter many people sign to ask for something"
+      },
+      {
+        "forms" : [
+          "plant"
+        ],
+        "note" : "\"A plant spread\" is made from plant oils, not from milk.",
+        "pos" : "noun",
+        "translation" : "a living thing that grows in the ground"
+      },
+      {
+        "forms" : [
+          "scared"
+        ],
+        "note" : "Everyday word for afraid: \"families are scared\".",
+        "pos" : "adjective",
+        "translation" : "afraid"
+      },
+      {
+        "forms" : [
+          "skimmed"
+        ],
+        "note" : "\"Skimmed milk\" has almost no fat (US: skim milk).",
+        "pos" : "adjective",
+        "translation" : "with the fat taken off"
+      },
+      {
+        "forms" : [
+          "spreads"
+        ],
+        "note" : "\"Plant spreads\" are made from vegetable oils and used instead of butter.",
+        "pos" : "noun",
+        "translation" : "soft foods you put on bread"
+      },
+      {
+        "forms" : [
+          "switched"
+        ],
+        "note" : "Past tense of switch: \"people switched to plant spreads\" = they stopped using butter and used plant spreads instead.",
+        "pos" : "verb",
+        "translation" : "changed from one thing to another"
+      },
+      {
+        "forms" : [
+          "terrible"
+        ],
+        "note" : "\"A terrible record\" = a very bad result, worse than anyone else.",
+        "pos" : "adjective",
+        "translation" : "very bad"
       }
     ],
     "french" : [
@@ -25540,9 +25747,9 @@
         "forms" : [
           "comme"
         ],
-        "note" : "Used to compare — \"like the sand.\"",
+        "note" : "Comparing: comme le sable = like the sand; at the start of a sentence, comme = since, because.",
         "pos" : "conjunction",
-        "translation" : "like, as"
+        "translation" : "like, as; since"
       },
       {
         "forms" : [
@@ -26964,9 +27171,9 @@
         "forms" : [
           "chez"
         ],
-        "note" : "As in \"chez eux\" (at their home).",
+        "note" : "Chez eux = at their home; chez les hommes = among men.",
         "pos" : "preposition",
-        "translation" : "at the home of"
+        "translation" : "at the home of; among, with"
       },
       {
         "forms" : [
@@ -27895,9 +28102,9 @@
           "faites",
           "faits"
         ],
-        "note" : "One of the most common French verbs — many forms across tenses and agreement.",
+        "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact.",
         "pos" : "verb",
-        "translation" : "to do, to make"
+        "translation" : "to do, to make; (en fait) actually, in fact"
       },
       {
         "forms" : [
@@ -28175,7 +28382,8 @@
       },
       {
         "forms" : [
-          "habitude"
+          "habitude",
+          "habitudes"
         ],
         "gender" : "feminine",
         "note" : "As in \"une vieille habitude\" (an old habit).",
@@ -29178,6 +29386,7 @@
       {
         "forms" : [
           "nouveau",
+          "nouveaux",
           "nouvel",
           "nouvelle",
           "nouvelles"
@@ -29376,9 +29585,9 @@
           "parle",
           "parlent"
         ],
-        "note" : "Parler (to speak), \"il/elle\" form.",
+        "note" : "Parler (to speak): il/elle parle = he/she speaks; also the tu imperative: parle à ton médecin = talk to your doctor.",
         "pos" : "verb",
-        "translation" : "speaks, talks"
+        "translation" : "speaks, talks; (to a friend) talk!"
       },
       {
         "forms" : [
@@ -32072,9 +32281,9 @@
           "coup"
         ],
         "gender" : "masculine",
-        "note" : "As in \"tout à coup\" (suddenly).",
+        "note" : "Tout à coup = suddenly; du coup (very common in speech) = so, as a result.",
         "pos" : "noun",
-        "translation" : "blow, sudden action"
+        "translation" : "blow, sudden action; (du coup) so, as a result"
       },
       {
         "forms" : [
@@ -39109,6 +39318,7 @@
       },
       {
         "forms" : [
+          "d'hommes",
           "homme",
           "hommes"
         ],
@@ -39600,6 +39810,7 @@
       },
       {
         "forms" : [
+          "locale",
           "locaux"
         ],
         "note" : "Masculine plural of local.",
@@ -39775,6 +39986,7 @@
       },
       {
         "forms" : [
+          "mettaient",
           "mettait"
         ],
         "note" : "Mettre, imperfect tense.",
@@ -41045,9 +41257,9 @@
           "régions"
         ],
         "gender" : "feminine",
-        "note" : "Areas of a country or the world.",
+        "note" : "Région is singular, régions the plural; feminine: la région.",
         "pos" : "noun",
-        "translation" : "regions"
+        "translation" : "region / regions"
       },
       {
         "forms" : [
@@ -42800,9 +43012,9 @@
           "coin"
         ],
         "gender" : "masculine",
-        "note" : "As in \"un coin chaud.\"",
+        "note" : "Un coin chaud = a warm corner; la laiterie du coin = the local dairy.",
         "pos" : "noun",
-        "translation" : "corner"
+        "translation" : "corner; (du coin) local"
       },
       {
         "forms" : [
@@ -44451,6 +44663,7 @@
         "forms" : [
           "mange",
           "mangea",
+          "mangeaient",
           "mangeait",
           "mangent",
           "manger",
@@ -47505,6 +47718,7 @@
         "forms" : [
           "demande-t-il",
           "demandent",
+          "demander",
           "demandèrent"
         ],
         "note" : "Forms of demander.",
@@ -47983,9 +48197,9 @@
           "passaient",
           "passent"
         ],
-        "note" : "Forms of passer.",
+        "note" : "Forms of passer: passer du temps = to spend time; passer à la margarine = to switch to margarine.",
         "pos" : "verb",
-        "translation" : "to spend, pass (time)"
+        "translation" : "to spend, pass (time); (passer à) to switch to"
       },
       {
         "forms" : [
@@ -48495,6 +48709,7 @@
       },
       {
         "forms" : [
+          "veux",
           "voulant",
           "vouloir"
         ],
@@ -48766,6 +48981,7 @@
       },
       {
         "forms" : [
+          "sain",
           "saines"
         ],
         "note" : "Feminine plural of sain.",
@@ -48943,7 +49159,8 @@
       },
       {
         "forms" : [
-          "boulanger"
+          "boulanger",
+          "boulangers"
         ],
         "gender" : "masculine",
         "note" : "Noun.",
@@ -49310,6 +49527,7 @@
       },
       {
         "forms" : [
+          "médicament",
           "médicaments"
         ],
         "gender" : "masculine",
@@ -50778,9 +50996,9 @@
         "forms" : [
           "d'après"
         ],
-        "note" : "« D'après Lena » = selon Lena.",
+        "note" : "D'après Lena = according to Lena; l'année d'après = the year after.",
         "pos" : "preposition",
-        "translation" : "according to"
+        "translation" : "according to; (l'année d'après) after, later"
       },
       {
         "forms" : [
@@ -51411,6 +51629,7 @@
           "mort",
           "morte",
           "mortes",
+          "mouraient",
           "mourait",
           "mourir",
           "mourut"
@@ -51459,9 +51678,9 @@
         "forms" : [
           "moyen"
         ],
-        "note" : "« À feu moyen ».",
+        "note" : "À feu moyen = on medium heat; d'âge moyen = middle-aged.",
         "pos" : "adjective",
-        "translation" : "medium"
+        "translation" : "medium; middle, average"
       },
       {
         "forms" : [
@@ -52221,6 +52440,7 @@
       },
       {
         "forms" : [
+          "d'âge",
           "l'âge",
           "âge",
           "âgés"
@@ -54405,7 +54625,8 @@
       },
       {
         "forms" : [
-          "chutent"
+          "chutent",
+          "chuté"
         ],
         "note" : "Present of chuter, third person plural: « les hormones chutent » = the hormones fall sharply; stronger than « baissent ».",
         "pos" : "verb",
@@ -54549,7 +54770,7 @@
         "forms" : [
           "1972"
         ],
-        "note" : "The year of the last human rabies death in Chile.",
+        "note" : "A year: 1972 (mille neuf cent soixante-douze).",
         "pos" : "number",
         "translation" : "1972"
       },
@@ -55549,6 +55770,7 @@
       },
       {
         "forms" : [
+          "tartinaient",
           "tartiner"
         ],
         "note" : "« À tartiner » after a food means made for spreading: « de la levure à tartiner » = yeast spread, like « du fromage à tartiner ».",
@@ -59792,6 +60014,246 @@
         "note" : "In a French classroom the things children choose to do are their « activités »; « travail » would sound like a job.",
         "pos" : "noun",
         "translation" : "activity"
+      },
+      {
+        "forms" : [
+          "1960"
+        ],
+        "note" : "A year, read « mille neuf cent soixante »; « les années 1960 » = the 1960s.",
+        "pos" : "number",
+        "translation" : "1960"
+      },
+      {
+        "forms" : [
+          "1971"
+        ],
+        "note" : "A year, read « mille neuf cent soixante et onze ».",
+        "pos" : "number",
+        "translation" : "1971"
+      },
+      {
+        "forms" : [
+          "2014"
+        ],
+        "note" : "A year, read « deux mille quatorze ».",
+        "pos" : "number",
+        "translation" : "2014"
+      },
+      {
+        "forms" : [
+          "80"
+        ],
+        "note" : "Read « quatre-vingts », literally four twenties; « 80 % » = « quatre-vingts pour cent ».",
+        "pos" : "number",
+        "translation" : "80, eighty"
+      },
+      {
+        "forms" : [
+          "carélie"
+        ],
+        "gender" : "feminine",
+        "note" : "A region on both sides of the Finnish–Russian border; « la Carélie du Nord » (North Karelia) is the Finnish region in eastern Finland.",
+        "pos" : "noun",
+        "translation" : "Karelia"
+      },
+      {
+        "forms" : [
+          "finlande"
+        ],
+        "gender" : "feminine",
+        "note" : "The country in northern Europe; « en Finlande » = in Finland (en before a feminine country).",
+        "pos" : "noun",
+        "translation" : "Finland"
+      },
+      {
+        "forms" : [
+          "pekka"
+        ],
+        "note" : "Pekka Puska's first name; Pekka is a common Finnish man's name.",
+        "pos" : "noun",
+        "translation" : "Pekka"
+      },
+      {
+        "forms" : [
+          "puska"
+        ],
+        "note" : "Pekka Puska, the young Finnish doctor who started the North Karelia Project in 1972.",
+        "pos" : "noun",
+        "translation" : "Puska"
+      },
+      {
+        "forms" : [
+          "baies"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une baie »; in Finland: bilberries, lingonberries, cloudberries. « Les fruits rouges » is the everyday word for berries in France.",
+        "pos" : "noun",
+        "translation" : "berries"
+      },
+      {
+        "forms" : [
+          "margarine"
+        ],
+        "gender" : "feminine",
+        "note" : "A spread made from plant oils, used instead of butter on bread.",
+        "pos" : "noun",
+        "translation" : "margarine"
+      },
+      {
+        "forms" : [
+          "écrémé"
+        ],
+        "note" : "« Du lait écrémé » = skimmed milk, with the cream (la crème) taken out; « demi-écrémé » = semi-skimmed.",
+        "pos" : "adjective",
+        "translation" : "skimmed"
+      },
+      {
+        "forms" : [
+          "record"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un triste record » = a sad record: the worst figure in the world, not something to be proud of.",
+        "pos" : "noun",
+        "translation" : "record"
+      },
+      {
+        "forms" : [
+          "laiterie",
+          "laiteries"
+        ],
+        "gender" : "feminine",
+        "note" : "From « lait » (milk): the place where milk is processed into butter, cream and skimmed milk; « la laiterie locale » = the local dairy.",
+        "pos" : "noun",
+        "translation" : "dairy (factory)"
+      },
+      {
+        "forms" : [
+          "morts"
+        ],
+        "gender" : "masculine",
+        "note" : "« Les morts » = the dead, the deaths (« un mort » = a person who died, masculine); « 80 % de morts du cœur en moins » = 80 % fewer heart deaths.",
+        "pos" : "noun",
+        "translation" : "deaths"
+      },
+      {
+        "forms" : [
+          "gras"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le gras » = the fat in food, the everyday spoken word; « les graisses » is the more technical one. Also an adjective: « gras » = fatty.",
+        "pos" : "noun",
+        "translation" : "fat"
+      },
+      {
+        "forms" : [
+          "l'est"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + est (east), shortened before the vowel; « dans l'est de la Finlande » = in eastern Finland. Not to be confused with « est » = is.",
+        "pos" : "noun",
+        "translation" : "the east"
+      },
+      {
+        "forms" : [
+          "terrible"
+        ],
+        "note" : "Same form for masculine and feminine; after the noun: « un record terrible ».",
+        "pos" : "adjective",
+        "translation" : "terrible"
+      },
+      {
+        "forms" : [
+          "élus"
+        ],
+        "gender" : "masculine",
+        "note" : "From élire (to elect): « les élus locaux » = the local councillors and mayors, the people voted in to run the region.",
+        "pos" : "noun",
+        "translation" : "elected officials, local leaders"
+      },
+      {
+        "forms" : [
+          "lancé"
+        ],
+        "note" : "Past participle of lancer (to throw, to launch): « lancer un projet » = to start a project.",
+        "pos" : "verb",
+        "translation" : "launched, started"
+      },
+      {
+        "forms" : [
+          "écoles"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une école ».",
+        "pos" : "noun",
+        "translation" : "schools"
+      },
+      {
+        "forms" : [
+          "copié"
+        ],
+        "note" : "Past participle of copier: « tout le pays avait copié l'idée » = the whole country had copied the idea.",
+        "pos" : "verb",
+        "translation" : "copied"
+      },
+      {
+        "forms" : [
+          "tes"
+        ],
+        "note" : "The possessive for tu before a plural noun: « tes habitudes » = your habits; ton (masc.), ta (fem.), tes (plural).",
+        "pos" : "other",
+        "translation" : "your (plural things)"
+      },
+      {
+        "forms" : [
+          "truc"
+        ],
+        "gender" : "masculine",
+        "note" : "Very common spoken word for « chose »; « le truc, c'est que… » = here's the thing: …",
+        "pos" : "noun",
+        "translation" : "thing"
+      },
+      {
+        "forms" : [
+          "pétition"
+        ],
+        "gender" : "feminine",
+        "note" : "A letter many people sign to ask for something; « signer une pétition ».",
+        "pos" : "noun",
+        "translation" : "petition"
+      },
+      {
+        "forms" : [
+          "pilules"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une pilule »; « une histoire de pilules » = a matter of pills.",
+        "pos" : "noun",
+        "translation" : "pills"
+      },
+      {
+        "forms" : [
+          "acheter"
+        ],
+        "note" : "Infinitive of acheter; « personne ne pouvait acheter de lait écrémé » = nobody could buy skimmed milk.",
+        "pos" : "verb",
+        "translation" : "to buy"
+      },
+      {
+        "forms" : [
+          "envie"
+        ],
+        "gender" : "feminine",
+        "note" : "« Avoir envie de » = to feel like, to want; « Envie de changer… ? » is the spoken short form of « Tu as envie de… ? ».",
+        "pos" : "noun",
+        "translation" : "wish, desire"
+      },
+      {
+        "forms" : [
+          "parles-en"
+        ],
+        "note" : "Tu imperative of parler + en (about it): the -s comes back before « en » for the sound: parle → parles-en.",
+        "pos" : "verb",
+        "translation" : "talk about it"
       }
     ],
     "german" : [
@@ -60852,9 +61314,9 @@
           "einfaches",
           "einfachste"
         ],
-        "note" : "\"Einfachste\" is the superlative, \"simplest.\"",
+        "note" : "Adjective: simple (die einfachste Lösung, the simplest solution); in speech often \"just\": einfach angefangen = just started.",
         "pos" : "adjective",
-        "translation" : "simple"
+        "translation" : "simple; (in speech) just, simply"
       },
       {
         "forms" : [
@@ -60884,9 +61346,9 @@
         "forms" : [
           "einmal"
         ],
-        "note" : "As in \"mehr als einmal\" (more than once).",
+        "note" : "Mehr als einmal = more than once; nicht einmal = not even.",
         "pos" : "adverb",
-        "translation" : "once"
+        "translation" : "once; (nicht einmal) not even"
       },
       {
         "forms" : [
@@ -61420,7 +61882,8 @@
       {
         "forms" : [
           "gefährlich",
-          "gefährliche"
+          "gefährliche",
+          "gefährlicher"
         ],
         "note" : "Same form regardless of gender.",
         "pos" : "adjective",
@@ -61611,7 +62074,8 @@
       },
       {
         "forms" : [
-          "gewohnheit"
+          "gewohnheit",
+          "gewohnheiten"
         ],
         "gender" : "feminine",
         "note" : "As in \"eine alte Gewohnheit\" (an old habit).",
@@ -62700,9 +63164,9 @@
           "mal"
         ],
         "gender" : "neuter",
-        "note" : "As in \"noch einmal\" (once more).",
+        "note" : "Noch einmal = once more; in speech \"mal\" softens a request (sprich mal mit …) and \"nicht mal\" = not even.",
         "pos" : "noun",
-        "translation" : "time(s), once"
+        "translation" : "time(s), once; (in speech) just, (softening a request)"
       },
       {
         "forms" : [
@@ -63678,9 +64142,9 @@
         "forms" : [
           "schon"
         ],
-        "note" : "Refers to something already true.",
+        "note" : "Already (schon 1972); as a talk particle it adds conviction: das ist schon schwer = that is really hard.",
         "pos" : "adverb",
-        "translation" : "already"
+        "translation" : "already; (in speech) indeed, really"
       },
       {
         "forms" : [
@@ -63993,9 +64457,9 @@
         "forms" : [
           "sonst"
         ],
-        "note" : "Introduces an alternative.",
+        "note" : "Introduces an alternative (sonst = otherwise); irgendwo sonst = anywhere else.",
         "pos" : "conjunction",
-        "translation" : "otherwise"
+        "translation" : "otherwise; else"
       },
       {
         "forms" : [
@@ -64411,7 +64875,8 @@
       {
         "forms" : [
           "traurig",
-          "traurige"
+          "traurige",
+          "traurigen"
         ],
         "note" : "Same form regardless of gender.",
         "pos" : "adjective",
@@ -64472,9 +64937,9 @@
         "forms" : [
           "um"
         ],
-        "note" : "As in \"um die Berge\" (around the mountains) or \"um zu\" (in order to). At the end of a clause, „um“ is usually the detached half of a separable verb (umrühren, umdrehen, umfüllen …): the meaning is on the verb's card.",
+        "note" : "Um die Berge = around the mountains; um zu = in order to; um 84 Prozent = by 84 percent. At the end of a clause, „um“ is usually the detached half of a separable verb (umrühren, umdrehen …): the meaning is on the verb's card.",
         "pos" : "preposition",
-        "translation" : "around, in order to"
+        "translation" : "around, in order to; (with a number) by"
       },
       {
         "forms" : [
@@ -66099,9 +66564,9 @@
         "forms" : [
           "doch"
         ],
-        "note" : "A flexible contrastive word.",
+        "note" : "Contrast: but, still; as a talk particle it adds emphasis (das ist doch klar = that's obvious, isn't it); after a negative question it means \"yes, it is\".",
         "pos" : "conjunction",
-        "translation" : "yet, but, still"
+        "translation" : "yet, but, still; (in speech) after all, really"
       },
       {
         "forms" : [
@@ -68214,7 +68679,8 @@
       },
       {
         "forms" : [
-          "schön"
+          "schön",
+          "schöner"
         ],
         "note" : "Also used as an intensifier, like \"schön dick\" (nice and thick).",
         "pos" : "adjective",
@@ -73760,7 +74226,8 @@
       },
       {
         "forms" : [
-          "laden"
+          "laden",
+          "läden"
         ],
         "gender" : "masculine",
         "note" : "\"Ein zweiter Laden\" = a second shop.",
@@ -77892,7 +78359,8 @@
       },
       {
         "forms" : [
-          "gesund"
+          "gesund",
+          "gesunde"
         ],
         "note" : "In good health.",
         "pos" : "adjective",
@@ -79237,9 +79705,9 @@
           "richtet",
           "richtig"
         ],
-        "note" : "Adjective form included.",
+        "note" : "Richten is the verb (to direct); richtig = correct, right, and in speech \"really\" (richtig Angst = really scared).",
         "pos" : "verb",
-        "translation" : "to direct; correct"
+        "translation" : "to direct; correct; (in speech) really"
       },
       {
         "forms" : [
@@ -81217,7 +81685,8 @@
       },
       {
         "forms" : [
-          "bäcker"
+          "bäcker",
+          "bäckern"
         ],
         "gender" : "masculine",
         "note" : "Mateo's profession.",
@@ -83511,6 +83980,7 @@
       },
       {
         "forms" : [
+          "tablette",
           "tabletten"
         ],
         "gender" : "feminine",
@@ -86314,6 +86784,7 @@
       },
       {
         "forms" : [
+          "zehnte",
           "zehnten",
           "zehntes"
         ],
@@ -94850,6 +95321,346 @@
         "note" : "Partizip II of zuschauen (to watch), the everyday twin of zusehen; -ge- sits between zu- and -schaut: „Maria hat nur zugeschaut“.",
         "pos" : "verb",
         "translation" : "watched"
+      },
+      {
+        "forms" : [
+          "1971"
+        ],
+        "note" : "The year local leaders in North Karelia asked the government for help: „neunzehnhunderteinundsiebzig“.",
+        "pos" : "number",
+        "translation" : "1971"
+      },
+      {
+        "forms" : [
+          "2014"
+        ],
+        "note" : "A year from 2000 on is said „zweitausendvierzehn“; a bare year needs no „im“: „bis 2014“ = by 2014.",
+        "pos" : "number",
+        "translation" : "2014"
+      },
+      {
+        "forms" : [
+          "80"
+        ],
+        "note" : "„Achtzig“; „um mehr als 80 Prozent“ = by more than 80 percent, with „um“ for the size of a change.",
+        "pos" : "number",
+        "translation" : "80"
+      },
+      {
+        "forms" : [
+          "abgeschaut"
+        ],
+        "note" : "Partizip II of abschauen, colloquial for copying what someone else does; with „sich“: „sich die Idee abgeschaut“ = picked up the idea from them.",
+        "pos" : "verb",
+        "translation" : "copied (by watching)"
+      },
+      {
+        "forms" : [
+          "anstoß"
+        ],
+        "gender" : "masculine",
+        "note" : "„Den Anstoß geben“ = to give the push that starts something.",
+        "pos" : "noun",
+        "translation" : "push, impulse"
+      },
+      {
+        "forms" : [
+          "beeren"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Beere (berry); Finland is known for its wild berries.",
+        "pos" : "noun",
+        "translation" : "berries"
+      },
+      {
+        "forms" : [
+          "fett"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Fett, the fat in food; „fettarm“ = low-fat.",
+        "pos" : "noun",
+        "translation" : "fat"
+      },
+      {
+        "forms" : [
+          "fettarme"
+        ],
+        "note" : "Fett (fat) + arm (poor in): „fettarme Milch“ = low-fat milk.",
+        "pos" : "adjective",
+        "translation" : "low-fat"
+      },
+      {
+        "forms" : [
+          "finnland",
+          "finnlands"
+        ],
+        "gender" : "neuter",
+        "note" : "The country in northern Europe; „im Osten Finnlands“ = in the east of Finland, with the genitive -s.",
+        "pos" : "noun",
+        "translation" : "Finland"
+      },
+      {
+        "forms" : [
+          "geschmiert"
+        ],
+        "note" : "Partizip II of schmieren, the everyday word for spreading butter: „sich Butter aufs Brot schmieren“.",
+        "pos" : "verb",
+        "translation" : "spread (on)"
+      },
+      {
+        "forms" : [
+          "gestrichen"
+        ],
+        "note" : "Partizip II of streichen (to spread, also to paint), an irregular verb: streichen – strich – gestrichen.",
+        "pos" : "verb",
+        "translation" : "spread"
+      },
+      {
+        "forms" : [
+          "herrlicher"
+        ],
+        "note" : "Masculine form of herrlich after „ein“: „ein herrlicher Ort“ = a lovely place.",
+        "pos" : "adjective",
+        "translation" : "lovely, wonderful"
+      },
+      {
+        "forms" : [
+          "herzkrankheiten"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Herzkrankheit (Herz = heart + Krankheit = illness); „an Herzkrankheiten sterben“ = to die of heart disease.",
+        "pos" : "noun",
+        "translation" : "heart diseases, heart disease"
+      },
+      {
+        "forms" : [
+          "hilfe"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Hilfe; „um Hilfe bitten“ = to ask for help.",
+        "pos" : "noun",
+        "translation" : "help"
+      },
+      {
+        "forms" : [
+          "kaufen"
+        ],
+        "note" : "Infinitive after the modal „konnte“, at the end of the clause: „Magermilch kaufen konnte“.",
+        "pos" : "verb",
+        "translation" : "to buy"
+      },
+      {
+        "forms" : [
+          "lieber"
+        ],
+        "note" : "The comparative of „gern“: „lieber Margarine nehmen“ = to prefer margarine, to take margarine instead.",
+        "pos" : "adverb",
+        "translation" : "rather, preferably"
+      },
+      {
+        "forms" : [
+          "magermilch"
+        ],
+        "gender" : "feminine",
+        "note" : "Mager (lean) + Milch: milk with almost all the fat taken out.",
+        "pos" : "noun",
+        "translation" : "skimmed milk"
+      },
+      {
+        "forms" : [
+          "margarine"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Margarine: a spread made from plant oils, used on bread instead of butter.",
+        "pos" : "noun",
+        "translation" : "margarine, plant spread"
+      },
+      {
+        "forms" : [
+          "medikament"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Medikament, a medicine you take; the everyday word in German.",
+        "pos" : "noun",
+        "translation" : "medicine, drug"
+      },
+      {
+        "forms" : [
+          "mitgebracht"
+        ],
+        "note" : "Partizip II of the separable verb mitbringen, with -ge- after mit-: „hat … mitgebracht“.",
+        "pos" : "verb",
+        "translation" : "brought (along)"
+      },
+      {
+        "forms" : [
+          "mittleren"
+        ],
+        "note" : "„In den mittleren Jahren“ = in middle age, the years between young and old.",
+        "pos" : "adjective",
+        "translation" : "middle"
+      },
+      {
+        "forms" : [
+          "molkerei",
+          "molkereien"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Molkerei, where milk is made into butter, cheese and other products; plural Molkereien.",
+        "pos" : "noun",
+        "translation" : "dairy"
+      },
+      {
+        "forms" : [
+          "nirgendwo"
+        ],
+        "note" : "„Nirgendwo … so viele … wie hier“ = nowhere as many as here, i.e. more here than anywhere else.",
+        "pos" : "adverb",
+        "translation" : "nowhere"
+      },
+      {
+        "forms" : [
+          "nordkarelien"
+        ],
+        "gender" : "neuter",
+        "note" : "A region in eastern Finland, on the border with Russia.",
+        "pos" : "noun",
+        "translation" : "North Karelia"
+      },
+      {
+        "forms" : [
+          "nordkarelien-projekt"
+        ],
+        "gender" : "neuter",
+        "note" : "The health project started in 1972 in North Karelia, Finland; a hyphen joins a name to a noun.",
+        "pos" : "noun",
+        "translation" : "North Karelia Project"
+      },
+      {
+        "forms" : [
+          "pekka"
+        ],
+        "note" : "First name of Pekka Puska, the young Finnish doctor who led the North Karelia Project from 1972.",
+        "pos" : "noun",
+        "translation" : "Pekka"
+      },
+      {
+        "forms" : [
+          "puska"
+        ],
+        "note" : "Surname of Pekka Puska, the Finnish doctor who led the North Karelia Project.",
+        "pos" : "noun",
+        "translation" : "Puska"
+      },
+      {
+        "forms" : [
+          "petition"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Petition, a written request that many people sign.",
+        "pos" : "noun",
+        "translation" : "petition"
+      },
+      {
+        "forms" : [
+          "politiker"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Politiker; the plural has the same form: „die Politiker der Region“.",
+        "pos" : "noun",
+        "translation" : "politicians"
+      },
+      {
+        "forms" : [
+          "regierung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Regierung, the people who run a country; plural Regierungen.",
+        "pos" : "noun",
+        "translation" : "government"
+      },
+      {
+        "forms" : [
+          "rekord"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Rekord, the highest (or here the worst) number anyone has reached.",
+        "pos" : "noun",
+        "translation" : "record"
+      },
+      {
+        "forms" : [
+          "rolle"
+        ],
+        "gender" : "feminine",
+        "note" : "„Keine Rolle spielen“ = to play no part, not to matter.",
+        "pos" : "noun",
+        "translation" : "role"
+      },
+      {
+        "forms" : [
+          "schrecklichen"
+        ],
+        "note" : "Schrecklich with the ending -en after „einen“: „einen schrecklichen Rekord“.",
+        "pos" : "adjective",
+        "translation" : "terrible"
+      },
+      {
+        "forms" : [
+          "sechzigerjahren"
+        ],
+        "gender" : "neuter",
+        "note" : "„In den Sechzigerjahren“ = in the 1960s; dative plural of die Sechzigerjahre.",
+        "pos" : "noun",
+        "translation" : "the sixties"
+      },
+      {
+        "forms" : [
+          "sprich"
+        ],
+        "note" : "Du imperative of sprechen: the e turns to i as in „du sprichst“, and -st falls away.",
+        "pos" : "verb",
+        "translation" : "speak! talk!"
+      },
+      {
+        "forms" : [
+          "umgestiegen"
+        ],
+        "note" : "Partizip II of umsteigen (to change trains; here: to switch to), with -ge- after um- and the helper sein: „sind auf Margarine umgestiegen“.",
+        "pos" : "verb",
+        "translation" : "switched"
+      },
+      {
+        "forms" : [
+          "unterschrieben"
+        ],
+        "note" : "Partizip II of unterschreiben, an inseparable verb, so no ge-: „haben … unterschrieben“.",
+        "pos" : "verb",
+        "translation" : "signed"
+      },
+      {
+        "forms" : [
+          "verteilt"
+        ],
+        "note" : "Partizip II of verteilen, with no ge- because ver- is an inseparable prefix.",
+        "pos" : "verb",
+        "translation" : "handed out"
+      },
+      {
+        "forms" : [
+          "willst"
+        ],
+        "note" : "Du form of wollen: „Du willst was ändern?“ = want to change something?",
+        "pos" : "verb",
+        "translation" : "(you) want"
+      },
+      {
+        "forms" : [
+          "zusammengearbeitet"
+        ],
+        "note" : "Partizip II of the separable verb zusammenarbeiten, with -ge- after zusammen-; „mit … zusammenarbeiten“ = to work with.",
+        "pos" : "verb",
+        "translation" : "worked together"
       }
     ],
     "italian" : [
@@ -95127,6 +95938,7 @@
       {
         "forms" : [
           "abitudine",
+          "abitudini",
           "l'abitudine",
           "un'abitudine"
         ],
@@ -96245,6 +97057,7 @@
         "forms" : [
           "bei",
           "bel",
+          "bellissimo",
           "bello"
         ],
         "note" : "Forms of bello before different nouns.",
@@ -101241,6 +102054,7 @@
           "metterlo",
           "mettete",
           "metteva",
+          "mettevano",
           "metti",
           "mettila",
           "mettile",
@@ -103377,9 +104191,9 @@
         "forms" : [
           "quarto"
         ],
-        "note" : "The ordinal number, as in the fourth round.",
+        "note" : "The ordinal (il quarto giro, the fourth round); un quarto = a quarter (di circa un quarto = by about a quarter).",
         "pos" : "number",
-        "translation" : "fourth"
+        "translation" : "fourth; a quarter"
       },
       {
         "forms" : [
@@ -103625,9 +104439,9 @@
           "regioni"
         ],
         "gender" : "feminine",
-        "note" : "Plural of regione.",
+        "note" : "Regione is singular, regioni the plural; feminine: la regione.",
         "pos" : "noun",
-        "translation" : "regions"
+        "translation" : "region / regions"
       },
       {
         "forms" : [
@@ -105693,7 +106507,8 @@
       {
         "forms" : [
           "taglia",
-          "tagliarlo"
+          "tagliarlo",
+          "tagliato"
         ],
         "note" : "From tagliare.",
         "pos" : "verb",
@@ -106430,9 +107245,9 @@
           "uomo"
         ],
         "gender" : "masculine",
-        "note" : "A common noun.",
+        "note" : "Uomo is singular, uomini the irregular plural.",
         "pos" : "noun",
-        "translation" : "man"
+        "translation" : "man / men"
       },
       {
         "forms" : [
@@ -112488,6 +113303,7 @@
       },
       {
         "forms" : [
+          "pillola",
           "pillole"
         ],
         "gender" : "feminine",
@@ -113202,6 +114018,7 @@
       },
       {
         "forms" : [
+          "sana",
           "sano"
         ],
         "note" : "Masculine singular of sano.",
@@ -113548,6 +114365,7 @@
       {
         "forms" : [
           "cambia",
+          "cambiano",
           "cambiati",
           "cambiato"
         ],
@@ -114152,15 +114970,16 @@
         "forms" : [
           "parla"
         ],
-        "note" : "From parlare, third person singular present.",
+        "note" : "From parlare: lui/lei parla = he/she speaks; also the tu imperative: parla con il tuo medico = talk to your doctor.",
         "pos" : "verb",
-        "translation" : "speaks, is talked about"
+        "translation" : "speaks; (to a friend) talk!"
       },
       {
         "forms" : [
           "passa",
           "passando",
           "passano",
+          "passata",
           "passato",
           "passi",
           "passò"
@@ -115307,6 +116126,7 @@
       {
         "forms" : [
           "compra",
+          "comprare",
           "comprarono"
         ],
         "note" : "Presente e passato remoto.",
@@ -115617,6 +116437,7 @@
       },
       {
         "forms" : [
+          "fornai",
           "fornaio"
         ],
         "gender" : "masculine",
@@ -115886,7 +116707,8 @@
       },
       {
         "forms" : [
-          "malattia"
+          "malattia",
+          "malattie"
         ],
         "gender" : "feminine",
         "note" : "«Una malattia».",
@@ -115957,6 +116779,7 @@
           "morire",
           "morisse",
           "moriva",
+          "morivano",
           "morta",
           "morte",
           "morto",
@@ -117313,6 +118136,7 @@
       },
       {
         "forms" : [
+          "partire",
           "partito"
         ],
         "note" : "«È partito»: partire con essere.",
@@ -117680,7 +118504,8 @@
       },
       {
         "forms" : [
-          "est"
+          "est",
+          "nell'est"
         ],
         "gender" : "masculine",
         "note" : "Est = east; in Timor Est it is part of the country's name. The compass points are masculine and invariable.",
@@ -119053,7 +119878,7 @@
         "forms" : [
           "1972"
         ],
-        "note" : "L'anno dell'ultimo caso umano di rabbia in Cile.",
+        "note" : "A year: 1972 (millenovecentosettantadue).",
         "pos" : "number",
         "translation" : "1972"
       },
@@ -120752,6 +121577,7 @@
       },
       {
         "forms" : [
+          "orientale",
           "orientali"
         ],
         "note" : "Plural of orientale, from oriente (the east); the opposite is occidentale.",
@@ -124248,6 +125074,235 @@
         "note" : "Plural of popolare; le case popolari are flats built by the state or the city for families with little money.",
         "pos" : "adjective",
         "translation" : "working-class, public (housing)"
+      },
+      {
+        "forms" : [
+          "1971"
+        ],
+        "note" : "The year the people of North Karelia asked the government for help; years are said as one number: millenovecentosettantuno.",
+        "pos" : "number",
+        "translation" : "1971"
+      },
+      {
+        "forms" : [
+          "2014"
+        ],
+        "note" : "Said duemilaquattordici; fino al 2014 = up to 2014, by 2014.",
+        "pos" : "number",
+        "translation" : "2014"
+      },
+      {
+        "forms" : [
+          "l'80"
+        ],
+        "note" : "L' + 80: percentages take the article in Italian, l'80 per cento = 80 percent.",
+        "pos" : "number",
+        "translation" : "80 (percent)"
+      },
+      {
+        "forms" : [
+          "dell'84"
+        ],
+        "note" : "Di + l' + 84: calare dell'84 per cento = to fall by 84 percent; the article goes before a percentage.",
+        "pos" : "number",
+        "translation" : "by 84 (percent)"
+      },
+      {
+        "forms" : [
+          "carelia"
+        ],
+        "gender" : "feminine",
+        "note" : "A region in eastern Finland (and Russia); la Carelia del Nord = North Karelia, the Finnish region of this story.",
+        "pos" : "noun",
+        "translation" : "Karelia"
+      },
+      {
+        "forms" : [
+          "finlandia"
+        ],
+        "gender" : "feminine",
+        "note" : "The country in northern Europe; in Finlandia = in Finland.",
+        "pos" : "noun",
+        "translation" : "Finland"
+      },
+      {
+        "forms" : [
+          "pekka"
+        ],
+        "note" : "First name of Pekka Puska, the young Finnish doctor who led the North Karelia Project from 1972.",
+        "pos" : "noun",
+        "translation" : "Pekka"
+      },
+      {
+        "forms" : [
+          "puska"
+        ],
+        "note" : "Surname of Pekka Puska, the Finnish doctor who led the North Karelia Project.",
+        "pos" : "noun",
+        "translation" : "Puska"
+      },
+      {
+        "forms" : [
+          "aiuto"
+        ],
+        "gender" : "masculine",
+        "note" : "Chiedere aiuto = to ask for help; the verb is aiutare.",
+        "pos" : "noun",
+        "translation" : "help"
+      },
+      {
+        "forms" : [
+          "bosco"
+        ],
+        "gender" : "masculine",
+        "note" : "I frutti di bosco (literally fruits of the wood) are berries: blueberries, raspberries, lingonberries.",
+        "pos" : "noun",
+        "translation" : "wood, forest"
+      },
+      {
+        "forms" : [
+          "frutti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il frutto, one single fruit; la frutta is fruit as food in general. Frutti di bosco = berries.",
+        "pos" : "noun",
+        "translation" : "fruits (berries in frutti di bosco)"
+      },
+      {
+        "forms" : [
+          "c'entravano"
+        ],
+        "note" : "Imperfect of c'entrare, a spoken idiom: non c'entra niente = it has nothing to do with it.",
+        "pos" : "verb",
+        "translation" : "had to do with it"
+      },
+      {
+        "forms" : [
+          "caseifici",
+          "caseificio"
+        ],
+        "gender" : "masculine",
+        "note" : "Il caseificio, plural i caseifici: the dairy plant, not the shop.",
+        "pos" : "noun",
+        "translation" : "dairy (where milk is made into butter and cheese)"
+      },
+      {
+        "forms" : [
+          "copiato"
+        ],
+        "note" : "Past participle of copiare, to copy; aveva copiato l'idea = had copied the idea.",
+        "pos" : "verb",
+        "translation" : "copied"
+      },
+      {
+        "forms" : [
+          "grassi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il grasso, fat in food: il sale e i grassi = salt and fat.",
+        "pos" : "noun",
+        "translation" : "fats"
+      },
+      {
+        "forms" : [
+          "magro"
+        ],
+        "note" : "Latte magro is low-fat milk; said of a person, magro means thin.",
+        "pos" : "adjective",
+        "translation" : "low-fat, skimmed (milk); thin"
+      },
+      {
+        "forms" : [
+          "margarina"
+        ],
+        "gender" : "feminine",
+        "note" : "A spread for bread made from vegetable oils; margarina vegetale = plant-based spread.",
+        "pos" : "noun",
+        "translation" : "margarine, plant spread"
+      },
+      {
+        "forms" : [
+          "mezza"
+        ],
+        "note" : "Feminine of mezzo; la mezza età = middle age, roughly from 40 to 65.",
+        "pos" : "adjective",
+        "translation" : "middle, half"
+      },
+      {
+        "forms" : [
+          "petizione"
+        ],
+        "gender" : "feminine",
+        "note" : "A letter many people sign to ask for something: firmare una petizione = to sign a petition.",
+        "pos" : "noun",
+        "translation" : "petition"
+      },
+      {
+        "forms" : [
+          "locali"
+        ],
+        "note" : "Plural of locale; i rappresentanti locali = the local leaders.",
+        "pos" : "adjective",
+        "translation" : "local"
+      },
+      {
+        "forms" : [
+          "rappresentanti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il rappresentante, someone who speaks and acts for a place or a group.",
+        "pos" : "noun",
+        "translation" : "representatives, leaders"
+      },
+      {
+        "forms" : [
+          "record"
+        ],
+        "gender" : "masculine",
+        "note" : "Borrowed from English and invariable: un record, due record; un triste record = a sad record.",
+        "pos" : "noun",
+        "translation" : "record"
+      },
+      {
+        "forms" : [
+          "scremato"
+        ],
+        "note" : "Latte scremato = skimmed milk, with the cream taken off.",
+        "pos" : "adjective",
+        "translation" : "skimmed"
+      },
+      {
+        "forms" : [
+          "spalmavano"
+        ],
+        "note" : "Imperfect of spalmare, to spread butter or jam on bread; the imperfect tells a habit.",
+        "pos" : "verb",
+        "translation" : "used to spread"
+      },
+      {
+        "forms" : [
+          "spaventate"
+        ],
+        "note" : "Feminine plural of spaventato, agreeing with le famiglie; in speech you also say avere paura.",
+        "pos" : "adjective",
+        "translation" : "frightened, scared"
+      },
+      {
+        "forms" : [
+          "terribile"
+        ],
+        "note" : "Same form for masculine and feminine; plural terribili.",
+        "pos" : "adjective",
+        "translation" : "terrible"
+      },
+      {
+        "forms" : [
+          "politici"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il politico (politician); i politici locali = the local politicians, the everyday word for the people who run a place.",
+        "pos" : "noun",
+        "translation" : "politicians"
       }
     ],
     "spanish" : [
@@ -126064,9 +127119,9 @@
         "forms" : [
           "este"
         ],
-        "note" : "Masculine demonstrative \"this.\"",
+        "note" : "Masculine demonstrative \"this\" (este año); as a noun, el este = the east (en el este de Finlandia).",
         "pos" : "other",
-        "translation" : "this"
+        "translation" : "this; (el este) the east"
       },
       {
         "forms" : [
@@ -126180,9 +127235,9 @@
           "frente"
         ],
         "gender" : "feminine",
-        "note" : "As in \"frente a\" (facing, when confronted with).",
+        "note" : "Frente a = facing; ponerse al frente de algo = to take charge of it.",
         "pos" : "noun",
-        "translation" : "front, facing"
+        "translation" : "front, facing; (al frente de) in charge of"
       },
       {
         "forms" : [
@@ -126373,7 +127428,8 @@
           "hacer",
           "hacerla",
           "hacia",
-          "hacía"
+          "hacía",
+          "hiciera"
         ],
         "note" : "Forms of hacer across tenses; \"hacia\" (without accent) means \"toward.\"",
         "pos" : "verb",
@@ -128326,9 +129382,9 @@
           "siguiente",
           "siguió"
         ],
-        "note" : "From seguir (to continue/follow); \"siguiente\" means \"next.\"",
+        "note" : "From seguir (to continue, to follow); siguiente is the adjective \"next\": al año siguiente = the next year.",
         "pos" : "verb",
-        "translation" : "continues, follows / next"
+        "translation" : "continues, follows; (siguiente) next"
       },
       {
         "forms" : [
@@ -128621,9 +129677,9 @@
           "tienen",
           "tienes"
         ],
-        "note" : "Tener (to have), \"él/ella\" form.",
+        "note" : "Tener (to have): tiene = he/she has, tienen = they have, tienes = you have.",
         "pos" : "verb",
-        "translation" : "has"
+        "translation" : "has; have"
       },
       {
         "forms" : [
@@ -128800,7 +129856,8 @@
       },
       {
         "forms" : [
-          "unta"
+          "unta",
+          "untaban"
         ],
         "note" : "Untar (to spread), command form.",
         "pos" : "verb",
@@ -129552,13 +130609,14 @@
       {
         "forms" : [
           "cambia",
+          "cambian",
           "cambiar",
           "cambiaron",
           "cambió"
         ],
-        "note" : "Infinitive of cambiar.",
+        "note" : "Cambiar = to change; cambia = he/she changes; cambió / cambiaron = changed (past).",
         "pos" : "verb",
-        "translation" : "to change"
+        "translation" : "to change; changes; changed"
       },
       {
         "forms" : [
@@ -131180,7 +132238,8 @@
       },
       {
         "forms" : [
-          "líder"
+          "líder",
+          "líderes"
         ],
         "note" : "Used for both masculine and feminine leaders.",
         "pos" : "noun",
@@ -132527,7 +133586,7 @@
           "trabajaron",
           "trabajó"
         ],
-        "note" : "Past tense of trabajar, plural.",
+        "note" : "Past tense of trabajar: trabajó (he/she worked), trabajaron (they worked).",
         "pos" : "verb",
         "translation" : "worked"
       },
@@ -132844,7 +133903,8 @@
       },
       {
         "forms" : [
-          "caía"
+          "caía",
+          "caído"
         ],
         "note" : "Imperfect of caer.",
         "pos" : "verb",
@@ -135894,7 +136954,8 @@
       },
       {
         "forms" : [
-          "hábito"
+          "hábito",
+          "hábitos"
         ],
         "gender" : "masculine",
         "note" : "\"Mantuvo el hábito\" = kept up the habit.",
@@ -137012,14 +138073,16 @@
       },
       {
         "forms" : [
+          "pedirle",
+          "pedían",
           "pedírselo",
           "pide",
           "pidiera",
           "pidió"
         ],
-        "note" : "Pedir, él/ella form.",
+        "note" : "Pedir (to ask for): pide = asks for, pidió = asked for, pidiera = (that he/she) asked for.",
         "pos" : "verb",
-        "translation" : "asks for, requires"
+        "translation" : "asks for; asked for"
       },
       {
         "forms" : [
@@ -137448,9 +138511,9 @@
           "región"
         ],
         "gender" : "feminine",
-        "note" : "Areas of a country or the world.",
+        "note" : "Región is singular, regiones the plural; an area of a country or of the world.",
         "pos" : "noun",
-        "translation" : "regions"
+        "translation" : "region / regions"
       },
       {
         "forms" : [
@@ -138182,6 +139245,7 @@
       {
         "forms" : [
           "toma",
+          "tomaban",
           "tomar",
           "tomes"
         ],
@@ -138220,7 +139284,7 @@
           "traen",
           "traer"
         ],
-        "note" : "Infinitive.",
+        "note" : "From traer (to bring): trae = he/she brings, traen = they bring, traer = to bring.",
         "pos" : "verb",
         "translation" : "to bring"
       },
@@ -142299,6 +143363,7 @@
       {
         "forms" : [
           "trata",
+          "trataba",
           "trataban",
           "trataron"
         ],
@@ -144619,9 +145684,9 @@
           "hombres"
         ],
         "gender" : "masculine",
-        "note" : "Man.",
+        "note" : "Hombre is singular, hombres the plural.",
         "pos" : "noun",
-        "translation" : "man"
+        "translation" : "man / men"
       },
       {
         "forms" : [
@@ -145048,7 +146113,8 @@
       },
       {
         "forms" : [
-          "panadero"
+          "panadero",
+          "panaderos"
         ],
         "gender" : "masculine",
         "note" : "A baker.",
@@ -145118,6 +146184,7 @@
       },
       {
         "forms" : [
+          "pastilla",
           "pastillas"
         ],
         "gender" : "feminine",
@@ -146583,9 +147650,9 @@
           "compraron",
           "compró"
         ],
-        "note" : "Presente y pretérito.",
+        "note" : "Comprar = to buy; compra = buys; compró / compraron = bought.",
         "pos" : "verb",
-        "translation" : "buys; bought"
+        "translation" : "to buy; buys; bought"
       },
       {
         "forms" : [
@@ -147294,6 +148361,7 @@
         "forms" : [
           "morir",
           "moría",
+          "morían",
           "muere",
           "mueren",
           "muerto",
@@ -153413,7 +154481,8 @@
       {
         "forms" : [
           "preguntan",
-          "preguntar"
+          "preguntar",
+          "pregúntale"
         ],
         "note" : "Preguntar takes \"a\" before the person who is asked: preguntan a la matrona = they ask the midwife.",
         "pos" : "verb",
@@ -154912,6 +155981,7 @@
       },
       {
         "forms" : [
+          "firmaron",
           "firmó"
         ],
         "note" : "Pretérito indefinido of firmar (to sign); sports press uses it for a feat that carries a player's signature: \"firmó un triplete\".",
@@ -155175,6 +156245,227 @@
         "note" : "Reflexive meterse (from meter, to put in) means to get involved where you are not asked; sin meterse = without stepping in.",
         "pos" : "verb",
         "translation" : "to step in, to interfere"
+      },
+      {
+        "forms" : [
+          "1971"
+        ],
+        "note" : "Said as a whole number: mil novecientos setenta y uno; en 1971 = in 1971.",
+        "pos" : "number",
+        "translation" : "1971"
+      },
+      {
+        "forms" : [
+          "2014"
+        ],
+        "note" : "Said dos mil catorce; \"para 2014\" means \"by 2014\", \"hasta 2014\" means \"up to 2014\".",
+        "pos" : "number",
+        "translation" : "2014"
+      },
+      {
+        "forms" : [
+          "80"
+        ],
+        "note" : "Read \"ochenta\"; un 80 por ciento = 80 percent, with \"un\" before the figure as people say it.",
+        "pos" : "number",
+        "translation" : "eighty"
+      },
+      {
+        "forms" : [
+          "finlandia"
+        ],
+        "gender" : "feminine",
+        "note" : "The country in northern Europe; country names take no article in Spanish: en Finlandia.",
+        "pos" : "noun",
+        "translation" : "Finland"
+      },
+      {
+        "forms" : [
+          "karelia"
+        ],
+        "gender" : "feminine",
+        "note" : "A region on both sides of the border between Finland and Russia; Karelia del Norte (North Karelia) is the Finnish region in the east.",
+        "pos" : "noun",
+        "translation" : "Karelia"
+      },
+      {
+        "forms" : [
+          "pekka"
+        ],
+        "note" : "Pekka Puska, the young Finnish doctor who started the North Karelia Project in 1972.",
+        "pos" : "noun",
+        "translation" : "Pekka"
+      },
+      {
+        "forms" : [
+          "puska"
+        ],
+        "note" : "Pekka Puska, the Finnish doctor who led the North Karelia Project from 1972.",
+        "pos" : "noun",
+        "translation" : "Puska"
+      },
+      {
+        "forms" : [
+          "asustadas"
+        ],
+        "note" : "Feminine plural of asustado (from asustar, to frighten); estar asustado = to be scared, a feeling, so it takes estar.",
+        "pos" : "adjective",
+        "translation" : "frightened, scared"
+      },
+      {
+        "forms" : [
+          "copiado"
+        ],
+        "note" : "Past participle of copiar; había copiado = had copied (pluperfect, había + participle).",
+        "pos" : "verb",
+        "translation" : "copied"
+      },
+      {
+        "forms" : [
+          "empujón"
+        ],
+        "gender" : "masculine",
+        "note" : "From empujar (to push); in talk, el empujón also means the push that gets something going.",
+        "pos" : "noun",
+        "translation" : "push, shove"
+      },
+      {
+        "forms" : [
+          "local",
+          "locales"
+        ],
+        "note" : "Same form for masculine and feminine; locales is the plural: los líderes locales = the local leaders.",
+        "pos" : "adjective",
+        "translation" : "local"
+      },
+      {
+        "forms" : [
+          "centrales"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of central, a plant; las centrales lecheras = the dairies, the plants that process milk.",
+        "pos" : "noun",
+        "translation" : "plants (factories)"
+      },
+      {
+        "forms" : [
+          "lecheras"
+        ],
+        "note" : "Feminine plural of lechero, from leche: centrales lecheras = dairies.",
+        "pos" : "adjective",
+        "translation" : "dairy, milk (adjective)"
+      },
+      {
+        "forms" : [
+          "lechería",
+          "lecherías"
+        ],
+        "gender" : "feminine",
+        "note" : "A place that makes or sells milk, from leche; la lechería local = the local dairy.",
+        "pos" : "noun",
+        "translation" : "dairy"
+      },
+      {
+        "forms" : [
+          "desnatada"
+        ],
+        "note" : "Leche desnatada = skimmed milk, with the cream (la nata) taken out; in Latin America it is often called leche descremada.",
+        "pos" : "adjective",
+        "translation" : "skimmed"
+      },
+      {
+        "forms" : [
+          "grasa"
+        ],
+        "gender" : "feminine",
+        "note" : "Leche baja en grasa = low-fat milk; grasa is the fat in food.",
+        "pos" : "noun",
+        "translation" : "fat"
+      },
+      {
+        "forms" : [
+          "margarina"
+        ],
+        "gender" : "feminine",
+        "note" : "A spread made from plant oils; margarina vegetal = plant spread.",
+        "pos" : "noun",
+        "translation" : "margarine"
+      },
+      {
+        "forms" : [
+          "vegetal"
+        ],
+        "note" : "Same form for masculine and feminine: margarina vegetal = a spread made from plants, not from milk.",
+        "pos" : "adjective",
+        "translation" : "plant, plant-based"
+      },
+      {
+        "forms" : [
+          "mediana"
+        ],
+        "note" : "Feminine of mediano; la mediana edad = middle age, roughly from forty to sixty.",
+        "pos" : "adjective",
+        "translation" : "middle"
+      },
+      {
+        "forms" : [
+          "medicamento"
+        ],
+        "gender" : "masculine",
+        "note" : "A medicine you take; ningún medicamento nuevo = no new medicine at all.",
+        "pos" : "noun",
+        "translation" : "medicine, drug"
+      },
+      {
+        "forms" : [
+          "marcha"
+        ],
+        "gender" : "feminine",
+        "note" : "Poner en marcha = to start, to get something going: puso en marcha el proyecto = started the project.",
+        "pos" : "noun",
+        "translation" : "motion, march"
+      },
+      {
+        "forms" : [
+          "petición"
+        ],
+        "gender" : "feminine",
+        "note" : "Firmar una petición = to sign a petition; from pedir, to ask.",
+        "pos" : "noun",
+        "translation" : "petition, request"
+      },
+      {
+        "forms" : [
+          "precioso"
+        ],
+        "note" : "In everyday Spanish precioso means very pretty or lovely, not \"precious\": un sitio precioso = a lovely place.",
+        "pos" : "adjective",
+        "translation" : "lovely, beautiful"
+      },
+      {
+        "forms" : [
+          "récord"
+        ],
+        "gender" : "masculine",
+        "note" : "A best or worst figure no one else has; un récord muy triste = a very sad record. Written with an accent.",
+        "pos" : "noun",
+        "translation" : "record"
+      },
+      {
+        "forms" : [
+          "repartir"
+        ],
+        "note" : "Repartir pastillas = to hand out pills, to give one to each person.",
+        "pos" : "verb",
+        "translation" : "to hand out"
+      },
+      {
+        "forms" : [
+          "terrible"
+        ],
+        "note" : "Same form for masculine and feminine; un récord terrible = a terrible record.",
+        "pos" : "adjective",
+        "translation" : "terrible"
       }
     ]
   },
@@ -180369,6 +181660,581 @@
       "summary" : "Nel 1907 una dottoressa di Roma ha dato a una cinquantina di bambini piccoli delle sedie che riuscivano a portare da soli, e ha scoperto cosa fanno i bimbi quando possono scegliere.",
       "title" : "La piccola sedia",
       "translationGroup" : "small-chair"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-21",
+      "id" : "north-karelia",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"More men … than anywhere else\" compares one place with all the others.",
+              "example" : "More men die of heart disease here than anywhere else.",
+              "title" : "More … than: comparing"
+            },
+            {
+              "body" : "\"No\" before a noun means \"not any\"; \"just\" here means \"only\".",
+              "example" : "He has no new pill, just a plan.",
+              "title" : "No + noun, just + noun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "So it's 1972, in North Karelia, in Finland. More men die of heart disease here than anywhere else. Families are scared.",
+            "They ask for help, and a young doctor comes: Pekka Puska. He has no new pill, just a plan.",
+            "Almost everyone puts butter on their bread. Slowly, people change to a plant spread and low-fat milk. They eat less salt and more vegetables and berries.",
+            "Years later, far fewer men die of heart disease. Ask your doctor about salt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (asked, changed); many common verbs are irregular (had, came, went, put, ate).",
+              "example" : "The next year a young doctor, Pekka Puska, came with a team.",
+              "title" : "The past simple: regular and irregular"
+            },
+            {
+              "body" : "The past negative is didn't + the base verb: he didn't bring, not \"he didn't brought\".",
+              "example" : "Actually, he didn't bring any new medicine.",
+              "title" : "Didn't + verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In the 1960s, North Karelia in Finland had a sad record. More men died of heart disease there than anywhere else in the world.",
+            "People were scared, so in 1971 they asked the government for help. The next year a young doctor, Pekka Puska, came with a team.",
+            "Actually, he didn't bring any new medicine. He went to the shops, the dairies and the bakers instead.",
+            "Back then, almost everyone put butter on their bread. Slowly, people changed to plant spreads and low-fat milk. They ate less salt and more vegetables.",
+            "By 2014, deaths from heart disease in middle age were down by more than 80 percent. Talk to your doctor about salt and fat."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"So that\" + a clause gives the reason for an action: what they wanted to happen.",
+              "example" : "They worked with shops, dairies, bakers, schools and farmers, so that the healthy choice became the easy one.",
+              "title" : "So that: saying the purpose"
+            },
+            {
+              "body" : "\"Had\" + past participle looks back from a point in the past (2014) to what happened before it.",
+              "example" : "By 2014, deaths from heart disease in middle age had fallen by 84 percent, and the whole country had copied the idea.",
+              "title" : "The past perfect: had fallen, had copied"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In the 1960s, North Karelia in eastern Finland had a terrible record: more men died of heart disease there than anywhere else. Families were frightened.",
+            "In 1971 the region's leaders asked the government for help, and in 1972 a young doctor, Pekka Puska, started the North Karelia Project.",
+            "But they didn't hand out pills. They worked with shops, dairies, bakers, schools and farmers, so that the healthy choice became the easy one.",
+            "In 1972, nearly nine in ten people put butter on their bread; forty years later it was fewer than one in ten. People switched to plant spreads, used less salt and ate more vegetables and berries.",
+            "By 2014, deaths from heart disease in middle age had fallen by 84 percent, and the whole country had copied the idea. Want to change your habits? Talk to your doctor first."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"A lovely place to live\": the to-infinitive after a noun says what the place is like for doing something.",
+              "example" : "Back in the 1960s, North Karelia, in Finland, was a lovely place to live and a dangerous place to be a man.",
+              "title" : "A … place to + verb"
+            },
+            {
+              "body" : "A spoken way to announce the surprising point that comes next.",
+              "example" : "And here's the thing: the push came from the people themselves.",
+              "title" : "\"Here's the thing\" in speech"
+            },
+            {
+              "body" : "\"On\" after a length of time means \"later\": forty years on = forty years later.",
+              "example" : "In 1972 nearly nine in ten people spread butter on their bread; forty years on, it was fewer than one in ten.",
+              "title" : "Forty years on"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Back in the 1960s, North Karelia, in Finland, was a lovely place to live and a dangerous place to be a man. More men died of heart disease there than anywhere else on earth.",
+            "And here's the thing: the push came from the people themselves. In January 1971 local leaders signed a petition asking the government to act.",
+            "In 1972 a young doctor, Pekka Puska, took on the North Karelia Project, and it wasn't about pills at all. His team worked with shops, dairies and bakers, and when nobody could buy skimmed milk, the local dairy simply started making it.",
+            "In 1972 nearly nine in ten people spread butter on their bread; forty years on, it was fewer than one in ten. Men ate about a quarter less salt.",
+            "By 2014, deaths from heart disease in middle age had fallen by 84 percent, and the whole country had copied the idea. Want to change your habits? Talk to your doctor."
+          ]
+        }
+      ],
+      "summary" : "In 1972 a part of Finland where more men died of heart disease than anywhere else in the world started changing what went on its bread.",
+      "title" : "The Region That Changed Its Bread",
+      "translationGroup" : "north-karelia"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-21",
+      "id" : "north-karelia-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Plus de\" + noun … \"que\" compares quantities: plus d'hommes … que partout ailleurs = more men … than anywhere else. \"De\" becomes d' before a vowel.",
+              "example" : "Ici, plus d'hommes meurent du cœur que partout ailleurs.",
+              "title" : "Plus de … que: comparing"
+            },
+            {
+              "body" : "After a negative, un/une/des becomes \"de\": il a un médicament → il n'a pas de médicament. \"Juste\" here means \"only\".",
+              "example" : "Il n'a pas de nouveau médicament, juste un plan.",
+              "title" : "Ne … pas de: no + noun"
+            },
+            {
+              "body" : "Advice to a friend uses the tu imperative: the present form without \"tu\", and -er verbs drop their -s: tu parles → parle.",
+              "example" : "Parle du sel à ton médecin.",
+              "title" : "The tu imperative: parle"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Alors, on est en 1972, en Carélie du Nord, en Finlande. Ici, plus d'hommes meurent du cœur que partout ailleurs. Les familles ont peur.",
+            "Elles demandent de l'aide, et un jeune médecin arrive, Pekka Puska. Il n'a pas de nouveau médicament, juste un plan.",
+            "Presque tout le monde met du beurre sur son pain. Petit à petit, ils passent à la margarine et au lait écrémé. Ils mangent moins de sel, plus de légumes et de baies.",
+            "Des années après, beaucoup moins d'hommes meurent du cœur. Parle du sel à ton médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + past participle for most verbs (ils ont demandé, il a apporté), but verbs of movement like venir, aller and passer take être: il est venu, ils sont passés.",
+              "example" : "L'année d'après, un jeune médecin, Pekka Puska, est venu avec une équipe.",
+              "title" : "Passé composé with avoir and être"
+            },
+            {
+              "body" : "The imparfait describes how things were, what people usually did: tout le monde mettait du beurre. The passé composé then tells what changed.",
+              "example" : "À l'époque, presque tout le monde mettait du beurre sur son pain.",
+              "title" : "Imparfait for the background"
+            },
+            {
+              "body" : "\"Même\" between the verb and \"pas\" makes the negative surprising: il n'a même pas apporté = he didn't even bring.",
+              "example" : "Il n'a même pas apporté de nouveaux médicaments.",
+              "title" : "Ne … même pas: not even"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Dans les années 1960, la Carélie du Nord, en Finlande, avait un triste record. Plus d'hommes y mouraient de maladies du cœur que partout ailleurs dans le monde.",
+            "Les gens avaient peur, alors en 1971, ils ont demandé de l'aide au gouvernement. L'année d'après, un jeune médecin, Pekka Puska, est venu avec une équipe.",
+            "Il n'a même pas apporté de nouveaux médicaments. Il est plutôt allé voir les magasins, les laiteries et les boulangers.",
+            "À l'époque, presque tout le monde mettait du beurre sur son pain. Petit à petit, ils sont passés à la margarine et au lait écrémé. Ils ont mangé moins de sel et plus de légumes.",
+            "En 2014, chez les gens d'âge moyen, il y avait plus de 80 % de morts du cœur en moins. Parle du sel et du gras à ton médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Pour que\" gives the aim of an action and is always followed by the subjunctive: pour que manger sain soit (not est) plus facile.",
+              "example" : "Ils ont travaillé avec les magasins, les laiteries, les boulangers, les écoles et les agriculteurs, pour que manger sain soit plus facile.",
+              "title" : "Pour que + subjunctive: so that"
+            },
+            {
+              "body" : "Imparfait of avoir/être + past participle looks back from a point in the past (2014) to what had happened before it.",
+              "example" : "En 2014, chez les gens d'âge moyen, les morts du cœur avaient baissé de 84 %, et tout le pays avait copié l'idée.",
+              "title" : "The plus-que-parfait: avaient baissé"
+            },
+            {
+              "body" : "\"Y\" replaces a place already named and goes before the verb: y mouraient = died there (in North Karelia).",
+              "example" : "Plus d'hommes y mouraient de maladies du cœur que partout ailleurs, et les familles avaient vraiment peur.",
+              "title" : "Y: there"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Dans les années 1960, la Carélie du Nord, dans l'est de la Finlande, avait un record terrible. Plus d'hommes y mouraient de maladies du cœur que partout ailleurs, et les familles avaient vraiment peur.",
+            "En 1971, les élus locaux ont demandé de l'aide au gouvernement, et en 1972, un jeune médecin, Pekka Puska, a lancé le projet Carélie du Nord.",
+            "Mais pas de médicaments. Ils ont travaillé avec les magasins, les laiteries, les boulangers, les écoles et les agriculteurs, pour que manger sain soit plus facile.",
+            "En 1972, presque neuf personnes sur dix mettaient du beurre sur leur pain. Quarante ans après, c'était moins d'une sur dix. Ils sont passés à la margarine, ils ont mis moins de sel et mangé plus de légumes et de baies.",
+            "En 2014, chez les gens d'âge moyen, les morts du cœur avaient baissé de 84 %, et tout le pays avait copié l'idée. Tu veux changer tes habitudes ? Parle d'abord à ton médecin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A spoken way to announce the surprising point: the noun comes first, then \"c'est que\" + the clause. More careful speech says \"le plus étonnant, c'est que\".",
+              "example" : "Et le truc, c'est que tout est venu des gens eux-mêmes.",
+              "title" : "\"Le truc, c'est que\" in speech"
+            },
+            {
+              "body" : "\"En\" replaces \"de + noun\" already mentioned and goes before the infinitive: commencé à en faire = started making some (skimmed milk). In \"parles-en\" the imperative takes an extra -s before en.",
+              "example" : "Et quand personne ne pouvait acheter de lait écrémé, la laiterie du coin a tout simplement commencé à en faire.",
+              "title" : "En as an object: en faire"
+            },
+            {
+              "body" : "\"Ne … plus\" means \"no longer\"; adding \"même\" stresses how far things went: elles n'étaient même plus une sur dix = not even one in ten any more.",
+              "example" : "Quarante ans après, elles n'étaient même plus une sur dix.",
+              "title" : "Ne … même plus: not even any more"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Dans les années 1960, la Carélie du Nord, en Finlande, c'était un endroit magnifique pour vivre… et dangereux quand on était un homme. Plus d'hommes y mouraient de maladies du cœur que partout ailleurs au monde.",
+            "Et le truc, c'est que tout est venu des gens eux-mêmes. En janvier 1971, des élus locaux ont signé une pétition pour demander au gouvernement d'agir.",
+            "En 1972, un jeune médecin, Pekka Puska, a lancé le projet Carélie du Nord, et ce n'était pas du tout une histoire de pilules. Son équipe a travaillé avec les magasins, les laiteries et les boulangers. Et quand personne ne pouvait acheter de lait écrémé, la laiterie du coin a tout simplement commencé à en faire.",
+            "En 1972, presque neuf personnes sur dix tartinaient leur pain de beurre. Quarante ans après, elles n'étaient même plus une sur dix. Les hommes, eux, mangeaient environ un quart de sel en moins.",
+            "En 2014, chez les gens d'âge moyen, les morts du cœur avaient chuté de 84 %, et tout le pays avait copié l'idée. Envie de changer tes habitudes ? Parles-en à ton médecin."
+          ]
+        }
+      ],
+      "summary" : "En 1972, dans une région de Finlande où plus d'hommes mouraient du cœur que partout ailleurs dans le monde, on a commencé à changer ce qu'on mettait sur son pain.",
+      "title" : "La région qui a changé ses tartines",
+      "translationGroup" : "north-karelia"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-21",
+      "id" : "north-karelia-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "„So viele … wie“ compares two equal amounts; with „nirgendwo“ (nowhere) in front it means this place has more than any other. „Am Herzen sterben“ is how people say „die of heart disease“.",
+              "example" : "Nirgendwo sterben so viele Männer am Herzen wie hier.",
+              "title" : "So viele … wie: as many … as"
+            },
+            {
+              "body" : "„Kein“ says there is not any of something and takes the noun's ending (keine Tablette); „nur“ then gives what there is instead.",
+              "example" : "Er hat keine neue Tablette, nur einen Plan.",
+              "title" : "Kein … nur: not a, just a"
+            },
+            {
+              "body" : "Verbs that change e to i in the du form keep the i in the imperative and drop -st: du sprichst → sprich! Friends say du, and „mal“ makes it a friendly tip, not an order.",
+              "example" : "Sprich mal mit deinem Arzt über Salz.",
+              "title" : "The du imperative: Sprich!"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Also, es ist 1972, in Nordkarelien in Finnland. Nirgendwo sterben so viele Männer am Herzen wie hier. Die Familien haben Angst.",
+            "Sie bitten um Hilfe, und dann kommt ein junger Arzt: Pekka Puska. Er hat keine neue Tablette, nur einen Plan.",
+            "Fast alle essen Brot mit Butter. Langsam nehmen die Leute lieber Margarine und fettarme Milch. Sie essen weniger Salz und mehr Gemüse und Beeren.",
+            "Jahre später sterben viel weniger Männer am Herzen. Sprich mal mit deinem Arzt über Salz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement like „kommen“ and „gehen“ build the Perfekt with „sein“, not „haben“: „ist gekommen“, „ist gegangen“. The participle goes to the end.",
+              "example" : "Ein Jahr später ist dann ein junger Arzt, Pekka Puska, mit einem Team gekommen.",
+              "title" : "Perfekt with sein for movement"
+            },
+            {
+              "body" : "In the participle of a separable verb, „ge“ goes between the particle and the verb: umsteigen → umgestiegen, mitbringen → mitgebracht.",
+              "example" : "Langsam sind die Leute auf Margarine und fettarme Milch umgestiegen.",
+              "title" : "Separable verbs in the Perfekt: umgestiegen"
+            },
+            {
+              "body" : "„Gar“ makes „kein“ stronger: „gar kein neues Medikament“ = no new medicine at all. „Aber“ inside the sentence is the spoken „but, though“: you would expect a doctor to bring medicine.",
+              "example" : "Er hat aber gar kein neues Medikament mitgebracht.",
+              "title" : "Gar kein: not … at all"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In den Sechzigerjahren hatte Nordkarelien in Finnland einen traurigen Rekord. Nirgendwo auf der Welt sind so viele Männer am Herzen gestorben wie dort.",
+            "Die Leute hatten Angst, also haben sie 1971 die Regierung um Hilfe gebeten. Ein Jahr später ist dann ein junger Arzt, Pekka Puska, mit einem Team gekommen.",
+            "Er hat aber gar kein neues Medikament mitgebracht. Stattdessen ist er zu den Läden, Molkereien und Bäckern gegangen.",
+            "Damals haben fast alle Butter aufs Brot geschmiert. Langsam sind die Leute auf Margarine und fettarme Milch umgestiegen. Sie haben weniger Salz und mehr Gemüse gegessen.",
+            "2014 sind dann über 80 Prozent weniger Menschen in den mittleren Jahren am Herzen gestorben. Sprich mal mit deinem Arzt über Salz und Fett."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Damit“ + a clause says what an action is for (so that), and it sends the verb to the end: „damit man ganz einfach gesund essen kann“.",
+              "example" : "Sie haben mit Läden, Molkereien, Bäckern, Schulen und Bauern zusammengearbeitet, damit man ganz einfach gesund essen kann.",
+              "title" : "Damit: saying the purpose"
+            },
+            {
+              "body" : "„Hatte“ + participle looks back from a point in the past (2014) to what had already happened before it, often with „schon“ (already); it is as common in speech as in writing.",
+              "example" : "2014 sind dann 84 Prozent weniger Menschen in den mittleren Jahren am Herzen gestorben, und das ganze Land hatte die Idee schon übernommen.",
+              "title" : "Plusquamperfekt: hatte … übernommen"
+            },
+            {
+              "body" : "In speech the noun can go first for emphasis and „keine“ stays behind near the end: „Tabletten haben sie keine verteilt“ = they didn't hand out any pills.",
+              "example" : "Tabletten haben sie aber keine verteilt.",
+              "title" : "Tabletten … keine: a split noun phrase"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In den Sechzigerjahren hatte Nordkarelien im Osten von Finnland einen schrecklichen Rekord: Nirgendwo sind so viele Männer am Herzen gestorben wie dort. Die Familien hatten wirklich Angst.",
+            "1971 haben die Politiker der Region die Regierung um Hilfe gebeten, und 1972 hat ein junger Arzt, Pekka Puska, das Nordkarelien-Projekt gestartet.",
+            "Tabletten haben sie aber keine verteilt. Sie haben mit Läden, Molkereien, Bäckern, Schulen und Bauern zusammengearbeitet, damit man ganz einfach gesund essen kann.",
+            "1972 haben fast neun von zehn Leuten Butter aufs Brot gestrichen, vierzig Jahre später weniger als jeder Zehnte. Die Leute sind auf Margarine umgestiegen, haben weniger Salz genommen und mehr Gemüse und Beeren gegessen.",
+            "2014 sind dann 84 Prozent weniger Menschen in den mittleren Jahren am Herzen gestorben, und das ganze Land hatte die Idee schon übernommen. Du willst was ändern? Dann sprich zuerst mit deinem Arzt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "German turns the infinitive into a noun after „zum“ (zu dem) to say what something is good for: „ein Ort zum Leben“ = a place to live. The noun-infinitive takes a capital letter.",
+              "example" : "In den Sechzigerjahren war Nordkarelien in Finnland eigentlich ein schöner Ort zum Leben, nur für Männer eben ein gefährlicher.",
+              "title" : "Zum + infinitive: a place to live"
+            },
+            {
+              "body" : "A spoken way to announce the surprising point (here's the thing); „kommt's“ is „kommt es“ shortened as people say it.",
+              "example" : "Und jetzt kommt's: Den Anstoß haben die Leute selbst gegeben.",
+              "title" : "„Und jetzt kommt's“ in speech"
+            },
+            {
+              "body" : "German often says a share with „jeder“ + an ordinal used as a noun, with a capital letter: „jeder Zehnte“ = one in ten, „weniger als jeder Zehnte“ = fewer than one in ten.",
+              "example" : "1972 haben sich fast neun von zehn Leuten Butter aufs Brot geschmiert, vierzig Jahre danach weniger als jeder Zehnte.",
+              "title" : "Jeder Zehnte: one in ten"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In den Sechzigerjahren war Nordkarelien in Finnland eigentlich ein schöner Ort zum Leben, nur für Männer eben ein gefährlicher. Nirgendwo auf der Welt sind so viele Männer am Herzen gestorben.",
+            "Und jetzt kommt's: Den Anstoß haben die Leute selbst gegeben. Im Januar 1971 haben Politiker vor Ort eine Petition unterschrieben: Die Regierung sollte etwas tun.",
+            "1972 hat ein junger Arzt, Pekka Puska, das Nordkarelien-Projekt übernommen, und Tabletten haben gar keine Rolle gespielt. Sein Team hat mit Läden, Molkereien und Bäckern zusammengearbeitet, und als niemand Magermilch kaufen konnte, hat die Molkerei vor Ort einfach angefangen, sie selbst zu machen.",
+            "1972 haben sich fast neun von zehn Leuten Butter aufs Brot geschmiert, vierzig Jahre danach weniger als jeder Zehnte. Und die Männer haben etwa ein Viertel weniger Salz gegessen.",
+            "2014 sind dann 84 Prozent weniger Menschen in den mittleren Jahren am Herzen gestorben, und das ganze Land hatte sich die Idee längst abgeschaut. Du willst deine Gewohnheiten ändern? Sprich mit deinem Arzt."
+          ]
+        }
+      ],
+      "summary" : "In einer Gegend in Finnland sind mehr Männer am Herzen gestorben als irgendwo sonst auf der Welt – und 1972 haben die Leute dort angefangen zu ändern, was aufs Brot kommt.",
+      "title" : "Die Region, die ihr Brot verändert hat",
+      "translationGroup" : "north-karelia"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-21",
+      "id" : "north-karelia-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To say \"more than anywhere else\", Spanish uses más … que en ningún otro sitio: after a comparison, ningún (not any) does the work of English \"any\".",
+              "example" : "Aquí mueren más hombres del corazón que en ningún otro sitio.",
+              "title" : "Más … que en ningún otro sitio"
+            },
+            {
+              "body" : "Spanish keeps \"no\" before the verb and adds ninguno/ninguna before the noun: no trae ninguna pastilla = he brings no pill at all. \"Solo\" means \"just, only\".",
+              "example" : "No trae ninguna pastilla nueva, solo un plan.",
+              "title" : "No … ninguna, solo …: the double negative"
+            },
+            {
+              "body" : "An object pronoun is attached to the end of an affirmative imperative: pregunta + le = pregúntale, with an accent to keep the stress. \"Preguntar por\" means \"to ask about\".",
+              "example" : "Pregúntale a tu médico por la sal.",
+              "title" : "Pregúntale: the tú imperative with a pronoun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Pues mira, estamos en 1972, en Karelia del Norte, en Finlandia. Aquí mueren más hombres del corazón que en ningún otro sitio. Las familias tienen miedo.",
+            "Piden ayuda, y llega un médico joven: Pekka Puska. No trae ninguna pastilla nueva, solo un plan.",
+            "Casi todos ponen mantequilla en el pan. Poco a poco, cambian a margarina y leche baja en grasa. Comen menos sal y más verduras y frutos del bosque.",
+            "Años después, mueren muchos menos hombres del corazón. Pregúntale a tu médico por la sal."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (ponían, tenía) describes how things were back then; the pretérito (cambiaron, llegó) tells what happened next.",
+              "example" : "Por aquel entonces, casi todos ponían mantequilla en el pan.",
+              "title" : "Imperfect for the background, pretérito for events"
+            },
+            {
+              "body" : "Traer (to bring) has an irregular pretérito with -j-: traje, trajiste, trajo. With \"no … ningún\" the sentence stays negative twice.",
+              "example" : "La verdad es que no trajo ningún medicamento nuevo.",
+              "title" : "Trajo: an irregular pretérito"
+            },
+            {
+              "body" : "In speech Spanish often doubles the indirect object: le + a + the person (le pidió ayuda al gobierno = asked the government for help).",
+              "example" : "La gente tenía miedo, así que en 1971 le pidió ayuda al gobierno.",
+              "title" : "Le pidió ayuda al gobierno"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En los años sesenta, Karelia del Norte, en Finlandia, tenía un récord muy triste. Allí morían más hombres del corazón que en ningún otro lugar del mundo.",
+            "La gente tenía miedo, así que en 1971 le pidió ayuda al gobierno. Al año siguiente llegó un médico joven, Pekka Puska, con un equipo.",
+            "La verdad es que no trajo ningún medicamento nuevo. En vez de eso, habló con las tiendas, las lecherías y los panaderos.",
+            "Por aquel entonces, casi todos ponían mantequilla en el pan. Poco a poco, cambiaron a margarina y leche baja en grasa. Y empezaron a comer menos sal y más verduras.",
+            "Hasta 2014, las muertes por problemas de corazón a mediana edad bajaron más de un 80 por ciento. Habla con tu médico sobre la sal y la grasa."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Para que\" (so that) gives the purpose of an action and always takes the subjunctive; in a past sentence it is the imperfect subjunctive: fuera.",
+              "example" : "Trabajaron con tiendas, lecherías, panaderos, escuelas y agricultores, para que lo más sano fuera también lo más fácil.",
+              "title" : "Para que + imperfect subjunctive"
+            },
+            {
+              "body" : "Había/habían + participle looks back from a point in the past (2014) to what had happened before it. \"Para 2014\" means \"by 2014\".",
+              "example" : "Para 2014, las muertes por problemas de corazón a mediana edad habían bajado un 84 por ciento, y todo el país ya había copiado la idea.",
+              "title" : "Habían bajado: the pluperfect"
+            },
+            {
+              "body" : "\"X de cada diez\" is how Spanish says \"X in ten\"; before a number, \"less than\" is menos de, not menos que.",
+              "example" : "Cuarenta años después, eran menos de una de cada diez.",
+              "title" : "Menos de una de cada diez"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En los años sesenta, Karelia del Norte, en el este de Finlandia, tenía un récord terrible. Allí morían más hombres del corazón que en ningún otro sitio, y las familias estaban asustadas.",
+            "En 1971, los líderes de la región le pidieron ayuda al gobierno. En 1972, un médico joven, Pekka Puska, puso en marcha el Proyecto Karelia del Norte.",
+            "Pero no se trataba de repartir pastillas. Trabajaron con tiendas, lecherías, panaderos, escuelas y agricultores, para que lo más sano fuera también lo más fácil.",
+            "En 1972, casi nueve de cada diez personas ponían mantequilla en el pan. Cuarenta años después, eran menos de una de cada diez. La gente se pasó a la margarina, usó menos sal y comió más verduras y frutos del bosque.",
+            "Para 2014, las muertes por problemas de corazón a mediana edad habían bajado un 84 por ciento, y todo el país ya había copiado la idea. ¿Quieres cambiar tus hábitos? Pues habla primero con tu médico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Un sitio precioso para vivir\": para + infinitive after a noun says what the place is like for doing something.",
+              "example" : "Allá por los años sesenta, Karelia del Norte, en Finlandia, era un sitio precioso para vivir y peligroso para ser hombre.",
+              "title" : "Un sitio + adjective + para + infinitive"
+            },
+            {
+              "body" : "After pedir (to ask someone to do something) the next verb goes in the subjunctive; in a past sentence the imperfect subjunctive: que hiciera algo = to do something.",
+              "example" : "En enero de 1971, los líderes locales firmaron una petición: le pedían al gobierno que hiciera algo.",
+              "title" : "Pedir que + imperfect subjunctive"
+            },
+            {
+              "body" : "Lo + adjective + es que is a spoken way to point to the part worth hearing that comes next: lo bueno es que = the thing is, the best part is.",
+              "example" : "Y lo bueno es que el empujón salió de la propia gente.",
+              "title" : "\"Lo bueno es que\" in speech"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Allá por los años sesenta, Karelia del Norte, en Finlandia, era un sitio precioso para vivir y peligroso para ser hombre. Allí morían más hombres del corazón que en ningún otro lugar del planeta.",
+            "Y lo bueno es que el empujón salió de la propia gente. En enero de 1971, los líderes locales firmaron una petición: le pedían al gobierno que hiciera algo.",
+            "En 1972, un médico joven, Pekka Puska, se puso al frente del Proyecto Karelia del Norte, y no se trataba de pastillas, para nada. Su equipo trabajó con tiendas, lecherías y panaderos, y cuando no había forma de comprar leche desnatada, la lechería local empezó a hacerla, sin más.",
+            "En 1972, casi nueve de cada diez personas untaban mantequilla en el pan; cuarenta años más tarde, eran menos de una de cada diez. Y los hombres ya tomaban alrededor de una cuarta parte menos de sal.",
+            "Para 2014, las muertes por problemas de corazón a mediana edad habían caído un 84 por ciento, y todo el país había copiado la idea. ¿Quieres cambiar tus hábitos? Habla con tu médico."
+          ]
+        }
+      ],
+      "summary" : "En 1972, una región de Finlandia donde morían más hombres del corazón que en ningún otro lugar del mundo empezó a cambiar lo que ponía en el pan.",
+      "title" : "La región que cambió su pan",
+      "translationGroup" : "north-karelia"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-21",
+      "id" : "north-karelia-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To compare one place with all the others, Italian puts più before the noun and che before the second term: più uomini che in ogni altro posto = more men than anywhere else.",
+              "example" : "Qui muoiono di cuore più uomini che in ogni altro posto.",
+              "title" : "Più … che: comparing"
+            },
+            {
+              "body" : "Italian keeps non before the verb even when nessuno/nessuna follows: non ha nessuna pillola = he has no pill. Solo here means \"only\", \"just\".",
+              "example" : "Non ha nessuna pillola nuova, ha solo un piano.",
+              "title" : "Non … nessuna: the double negative"
+            },
+            {
+              "body" : "For -are verbs, the tu imperative looks like the third person present: parla = talk (to a friend). It is how you give a friendly tip.",
+              "example" : "Parla con il tuo medico del sale.",
+              "title" : "Parla: the tu imperative"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, siamo nel 1972, in Carelia del Nord, in Finlandia. Qui muoiono di cuore più uomini che in ogni altro posto. Le famiglie hanno paura.",
+            "Chiedono aiuto, e arriva un giovane medico: Pekka Puska. Non ha nessuna pillola nuova, ha solo un piano.",
+            "Quasi tutti mettono il burro sul pane. Poco a poco passano alla margarina e al latte scremato. E mangiano meno sale, più verdura e frutti di bosco.",
+            "Anni dopo, muoiono di cuore molti meno uomini. Parla con il tuo medico del sale."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement like arrivare and andare take essere (è arrivato, è andato); most others take avere (ha chiesto, ha portato).",
+              "example" : "L'anno dopo è arrivato un giovane medico, Pekka Puska, con il suo gruppo.",
+              "title" : "Passato prossimo with essere or avere"
+            },
+            {
+              "body" : "The passato prossimo tells what happened once; the imperfect (mettevano, morivano) describes habits and the background: what people used to do.",
+              "example" : "A quei tempi quasi tutti mettevano il burro sul pane.",
+              "title" : "The imperfect: how things used to be"
+            },
+            {
+              "body" : "Invece says that someone did something else than what you would expect; in speech it often comes right after the verb.",
+              "example" : "È andato invece nei negozi, nei caseifici e dai fornai.",
+              "title" : "Invece: instead"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Negli anni Sessanta la Carelia del Nord, in Finlandia, aveva un brutto record. Lì morivano di cuore più uomini che in qualsiasi altro posto del mondo.",
+            "La gente aveva paura, così nel 1971 ha chiesto aiuto al governo. L'anno dopo è arrivato un giovane medico, Pekka Puska, con il suo gruppo.",
+            "In realtà non ha portato medicine nuove. È andato invece nei negozi, nei caseifici e dai fornai.",
+            "A quei tempi quasi tutti mettevano il burro sul pane. Poco a poco la gente è passata alla margarina e al latte scremato. E ha cominciato a mangiare meno sale e più verdura.",
+            "Fino al 2014 le morti di cuore nella mezza età sono calate di oltre l'80 per cento. Parla con il tuo medico del sale e dei grassi."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In speech, così (so) links an action to what came out of it: hanno lavorato con tutti, così la scelta sana è diventata più facile.",
+              "example" : "Ma niente pillole: hanno lavorato con negozi, caseifici, fornai, scuole e contadini, così la scelta sana è diventata anche quella più facile.",
+              "title" : "Così: joining a result"
+            },
+            {
+              "body" : "The imperfect of essere or avere + the past participle looks back from a point in the past (2014) to what had happened before it. With essere the participle agrees: le morti erano calate.",
+              "example" : "Nel 2014 le morti per malattie di cuore nella mezza età erano calate dell'84 per cento, e tutto il paese aveva copiato l'idea.",
+              "title" : "Trapassato prossimo: erano calate, aveva copiato"
+            },
+            {
+              "body" : "Italian says \"nine in ten\" with su: nove persone su dieci, una su dieci.",
+              "example" : "Ecco i numeri: nel 1972 quasi nove persone su dieci mettevano il burro sul pane; quarant'anni dopo erano meno di una su dieci.",
+              "title" : "Nove su dieci: saying proportions"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Negli anni Sessanta la Carelia del Nord, nell'est della Finlandia, aveva un record terribile. Lì morivano di malattie di cuore più uomini che in qualsiasi altro posto, e le famiglie erano davvero spaventate.",
+            "Allora, nel 1971, i politici della regione hanno chiesto aiuto al governo. E nel 1972 un giovane medico, Pekka Puska, ha fatto partire il Progetto Carelia del Nord.",
+            "Ma niente pillole: hanno lavorato con negozi, caseifici, fornai, scuole e contadini, così la scelta sana è diventata anche quella più facile.",
+            "Ecco i numeri: nel 1972 quasi nove persone su dieci mettevano il burro sul pane; quarant'anni dopo erano meno di una su dieci. La gente è passata alla margarina, ha usato meno sale e ha mangiato più verdura e frutti di bosco.",
+            "Nel 2014 le morti per malattie di cuore nella mezza età erano calate dell'84 per cento, e tutto il paese aveva copiato l'idea. Vuoi cambiare le tue abitudini? Parla prima con il tuo medico."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Un posto dove vivere\" = a place to live: dove + the infinitive says what a place is for. \"Se eri un uomo\" uses the imperfect for a general \"if you were\" in the past.",
+              "example" : "Negli anni Sessanta la Carelia del Nord, in Finlandia, era un posto bellissimo dove vivere, ma pericoloso se eri un uomo.",
+              "title" : "Un posto dove + infinitive"
+            },
+            {
+              "body" : "A spoken way to announce the surprising point that comes next: literally \"and here comes the nice part\". Proprio before a phrase stresses it: proprio dalla gente = from the people themselves, of all places.",
+              "example" : "E qui viene il bello: la spinta è partita proprio dalla gente.",
+              "title" : "\"E qui viene il bello\" in speech"
+            },
+            {
+              "body" : "Mettersi a + infinitive is the everyday way to say someone started doing something: si è messo a farlo = it started making it. Being reflexive, it takes essere.",
+              "example" : "E quando nessuno riusciva a comprare il latte scremato, il caseificio del posto si è messo semplicemente a farlo.",
+              "title" : "Mettersi a + infinitive: to start doing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Negli anni Sessanta la Carelia del Nord, in Finlandia, era un posto bellissimo dove vivere, ma pericoloso se eri un uomo. Lì morivano di malattie di cuore più uomini che in qualsiasi altro angolo del mondo.",
+            "E qui viene il bello: la spinta è partita proprio dalla gente. Nel gennaio del 1971 i politici locali hanno firmato una petizione per chiedere al governo di fare qualcosa.",
+            "Nel 1972 un giovane medico, Pekka Puska, ha preso in mano il Progetto Carelia del Nord, e le pillole non c'entravano per niente. Il suo gruppo ha lavorato con negozi, caseifici e fornai. E quando nessuno riusciva a comprare il latte scremato, il caseificio del posto si è messo semplicemente a farlo.",
+            "Pensa: nel 1972 quasi nove persone su dieci spalmavano il burro sul pane; quarant'anni dopo, erano meno di una su dieci. E gli uomini hanno tagliato il sale di circa un quarto.",
+            "Nel 2014 le morti per malattie di cuore nella mezza età erano calate dell'84 per cento, e ormai tutto il paese aveva copiato l'idea. Vuoi cambiare le tue abitudini? Parla con il tuo medico."
+          ]
+        }
+      ],
+      "summary" : "Nel 1972 una regione della Finlandia, dove morivano di cuore più uomini che in qualsiasi altro posto al mondo, ha cominciato a cambiare quello che metteva sul pane.",
+      "title" : "La regione che ha cambiato il pane",
+      "translationGroup" : "north-karelia"
     }
   ]
 }
