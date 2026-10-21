@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 18,
-  "generatedAt" : "2026-10-21",
+  "contentVersion" : 19,
+  "generatedAt" : "2026-10-22",
   "glossary" : {
     "english" : [
       {
@@ -989,7 +989,8 @@
       },
       {
         "forms" : [
-          "can"
+          "can",
+          "can't"
         ],
         "note" : "Also can mean a metal container, as in a can of tomatoes.",
         "pos" : "verb",
@@ -6520,7 +6521,8 @@
       },
       {
         "forms" : [
-          "they"
+          "they",
+          "they'd"
         ],
         "note" : "Third-person plural subject pronoun.",
         "pos" : "pronoun",
@@ -11549,7 +11551,8 @@
       },
       {
         "forms" : [
-          "strip"
+          "strip",
+          "strips"
         ],
         "note" : "\"A strip of seaweed.\"",
         "pos" : "noun",
@@ -18132,7 +18135,8 @@
       },
       {
         "forms" : [
-          "arm"
+          "arm",
+          "arms"
         ],
         "note" : "Where a nurse puts the needle.",
         "pos" : "noun",
@@ -20789,7 +20793,7 @@
         "forms" : [
           "1891"
         ],
-        "note" : "The year Pellegrino Artusi published his cookbook.",
+        "note" : "A year: eighteen ninety-one.",
         "pos" : "number",
         "translation" : "1891"
       },
@@ -25664,6 +25668,198 @@
         "note" : "\"A terrible record\" = a very bad result, worse than anyone else.",
         "pos" : "adjective",
         "translation" : "very bad"
+      },
+      {
+        "forms" : [
+          "1993"
+        ],
+        "note" : "The year the tomb at Guodian, near Jingmen, was opened.",
+        "pos" : "number",
+        "translation" : "1993"
+      },
+      {
+        "forms" : [
+          "300"
+        ],
+        "note" : "\"Around 300 BC\" = about 2,300 years ago.",
+        "pos" : "number",
+        "translation" : "three hundred"
+      },
+      {
+        "forms" : [
+          "64"
+        ],
+        "note" : "Chapter 64 of the Laozi has the line about the thousand li.",
+        "pos" : "number",
+        "translation" : "sixty-four"
+      },
+      {
+        "forms" : [
+          "800"
+        ],
+        "note" : "About 800 bamboo strips were found in the tomb.",
+        "pos" : "number",
+        "translation" : "eight hundred"
+      },
+      {
+        "forms" : [
+          "archaeologists"
+        ],
+        "note" : "Singular: archaeologist (stress on \"OL\": ar-kee-OL-o-jist).",
+        "pos" : "noun",
+        "translation" : "people who study the past by digging"
+      },
+      {
+        "forms" : [
+          "bamboo"
+        ],
+        "note" : "A tall, hollow grass; in old China people wrote on thin strips of it.",
+        "pos" : "noun",
+        "translation" : "bamboo"
+      },
+      {
+        "forms" : [
+          "chapter"
+        ],
+        "note" : "\"Chapter 64\" = the 64th part.",
+        "pos" : "noun",
+        "translation" : "a part of a book"
+      },
+      {
+        "forms" : [
+          "china"
+        ],
+        "note" : "The country; lower-case \"china\" is also fine porcelain.",
+        "pos" : "noun",
+        "translation" : "China"
+      },
+      {
+        "forms" : [
+          "climbed"
+        ],
+        "note" : "Past tense of climb (the b is silent).",
+        "pos" : "verb",
+        "translation" : "went up or into, using hands and feet"
+      },
+      {
+        "forms" : [
+          "commenced"
+        ],
+        "note" : "A formal, old-fashioned word for \"started\": Legge wrote it in 1891.",
+        "pos" : "verb",
+        "translation" : "began, started"
+      },
+      {
+        "forms" : [
+          "daodejing"
+        ],
+        "note" : "The Laozi's other name: \"the classic of the way and its power\".",
+        "pos" : "noun",
+        "translation" : "the Daodejing (Tao Te Ching)"
+      },
+      {
+        "forms" : [
+          "james"
+        ],
+        "note" : "James Legge (1815–1897), a Scottish scholar who translated Chinese classics into English.",
+        "pos" : "noun",
+        "translation" : "James (a first name)"
+      },
+      {
+        "forms" : [
+          "jingmen"
+        ],
+        "note" : "A city in Hubei province, central China, near the Guodian tomb.",
+        "pos" : "noun",
+        "translation" : "Jingmen"
+      },
+      {
+        "forms" : [
+          "kilometre"
+        ],
+        "note" : "US spelling: kilometer.",
+        "pos" : "noun",
+        "translation" : "kilometre (1,000 metres)"
+      },
+      {
+        "forms" : [
+          "laozi"
+        ],
+        "note" : "The book is named after Laozi, \"the old master\", who tradition says wrote it.",
+        "pos" : "noun",
+        "translation" : "the Laozi (a book); Laozi (its traditional author)"
+      },
+      {
+        "forms" : [
+          "legge"
+        ],
+        "note" : "James Legge translated the Laozi into English in 1891.",
+        "pos" : "noun",
+        "translation" : "Legge (a surname)"
+      },
+      {
+        "forms" : [
+          "li"
+        ],
+        "note" : "A li is about half a kilometre today; \"a thousand li\" = a very long way.",
+        "pos" : "noun",
+        "translation" : "li (an old Chinese measure of distance)"
+      },
+      {
+        "forms" : [
+          "luckily"
+        ],
+        "note" : "From luck: \"luckily they had left the bamboo\".",
+        "pos" : "adverb",
+        "translation" : "by good luck"
+      },
+      {
+        "forms" : [
+          "robbers"
+        ],
+        "note" : "Singular: robber; tomb robbers steal from graves.",
+        "pos" : "noun",
+        "translation" : "people who steal"
+      },
+      {
+        "forms" : [
+          "shoot"
+        ],
+        "note" : "Here a noun (a tiny shoot); as a verb, \"shoot\" means to fire a gun.",
+        "pos" : "noun",
+        "translation" : "a new young part of a plant"
+      },
+      {
+        "forms" : [
+          "tomb"
+        ],
+        "note" : "The b is silent: \"toom\".",
+        "pos" : "noun",
+        "translation" : "a grave, often with a room"
+      },
+      {
+        "forms" : [
+          "trip"
+        ],
+        "note" : "\"A trip of a thousand li\" = a journey of a thousand li.",
+        "pos" : "noun",
+        "translation" : "a journey"
+      },
+      {
+        "forms" : [
+          "best-known"
+        ],
+        "note" : "best + known, written with a hyphen before a noun: \"its best-known line\".",
+        "pos" : "adjective",
+        "translation" : "most famous"
+      },
+      {
+        "forms" : [
+          "language"
+        ],
+        "note" : "\"Learning a language\": language takes a or the, like most nouns you can count.",
+        "pos" : "noun",
+        "translation" : "a system of words people speak and write"
       }
     ],
     "french" : [
@@ -25796,9 +25992,9 @@
         "forms" : [
           "dit"
         ],
-        "note" : "Past participle of dire (to say).",
+        "note" : "From dire (to say): il/elle dit = he/she says; also the past participle (il a dit = he said).",
         "pos" : "verb",
-        "translation" : "said"
+        "translation" : "said; says"
       },
       {
         "forms" : [
@@ -26546,7 +26742,8 @@
       },
       {
         "forms" : [
-          "apprend"
+          "apprend",
+          "apprends"
         ],
         "note" : "Apprendre (to learn), \"il/elle\" form.",
         "pos" : "verb",
@@ -27665,7 +27862,8 @@
       },
       {
         "forms" : [
-          "descendent"
+          "descendent",
+          "descendus"
         ],
         "note" : "Descendre (to go down), \"ils/elles\" form.",
         "pos" : "verb",
@@ -29495,6 +29693,7 @@
           "l'ouvre",
           "ouvert",
           "ouvre",
+          "ouvrent",
           "ouvrir"
         ],
         "note" : "\"Ouvert\" is the past participle, \"ouvrir\" the infinitive.",
@@ -29611,9 +29810,9 @@
         "forms" : [
           "pas"
         ],
-        "note" : "Pairs with \"ne\" to form a negation.",
+        "note" : "With \"ne\" it makes a negation (je ne sais pas); as a noun, un pas = a step (un premier pas = a first step).",
         "pos" : "other",
-        "translation" : "not"
+        "translation" : "not; (un pas) a step"
       },
       {
         "forms" : [
@@ -31103,9 +31302,9 @@
         "forms" : [
           "vers"
         ],
-        "note" : "Describes direction.",
+        "note" : "Direction (vers la mer = toward the sea) or an approximate time (vers 300 avant J.-C. = around 300 BC).",
         "pos" : "preposition",
-        "translation" : "toward"
+        "translation" : "toward; around (a time)"
       },
       {
         "forms" : [
@@ -33859,9 +34058,9 @@
           "mesure",
           "mesuré"
         ],
-        "note" : "\"Mesure\" also means \"as\" in \"à mesure que.\"",
+        "note" : "From mesurer (to measure); as a noun, une mesure = a measure (une vieille mesure chinoise); « à mesure que » = as.",
         "pos" : "verb",
-        "translation" : "measure(s), measured"
+        "translation" : "measure(s), measured; (une mesure) a measure, a unit"
       },
       {
         "forms" : [
@@ -37395,7 +37594,8 @@
       },
       {
         "forms" : [
-          "bande"
+          "bande",
+          "bandes"
         ],
         "gender" : "feminine",
         "note" : "\"Une bande d'algue\" = a strip of seaweed.",
@@ -38860,9 +39060,10 @@
         "forms" : [
           "entrent",
           "entrer",
-          "entré"
+          "entré",
+          "entrés"
         ],
-        "note" : "Infinitive.",
+        "note" : "Entrer = to enter; ils entrent = they enter; entré = entered (ils sont entrés).",
         "pos" : "verb",
         "translation" : "to enter"
       },
@@ -40691,9 +40892,9 @@
           "pousses",
           "poussé"
         ],
-        "note" : "Pousser; pousses can also be a noun (young shoots).",
+        "note" : "Pousser = to grow (and to push); une pousse is a noun: a young shoot of a plant.",
         "pos" : "verb",
-        "translation" : "grows, grow, shoots, grew"
+        "translation" : "grows, grow, grew; (une pousse) a young shoot"
       },
       {
         "forms" : [
@@ -48624,9 +48825,9 @@
         "forms" : [
           "tombe"
         ],
-        "note" : "Tomber, present tense.",
+        "note" : "Tomber, present tense: il tombe = he falls; as a noun, une tombe = a grave, a tomb (une petite tombe).",
         "pos" : "verb",
-        "translation" : "falls"
+        "translation" : "falls; (une tombe) a grave, a tomb"
       },
       {
         "forms" : [
@@ -50653,7 +50854,8 @@
       },
       {
         "forms" : [
-          "auteurs"
+          "auteurs",
+          "l'auteur"
         ],
         "gender" : "masculine",
         "note" : "Pluriel de « auteur ».",
@@ -52838,9 +53040,9 @@
           "langue"
         ],
         "gender" : "feminine",
-        "note" : "Also means language; here « passer la langue sur ses dents ».",
+        "note" : "« Passer la langue sur ses dents » = to run your tongue over your teeth; apprendre une langue = to learn a language.",
         "pos" : "noun",
-        "translation" : "tongue"
+        "translation" : "tongue; language"
       },
       {
         "forms" : [
@@ -54254,7 +54456,7 @@
         "forms" : [
           "1891"
         ],
-        "note" : "The year Pellegrino Artusi printed his cookbook himself; « en 1891 » = in 1891.",
+        "note" : "A year: « en 1891 » = in 1891 (mille huit cent quatre-vingt-onze).",
         "pos" : "number",
         "translation" : "1891"
       },
@@ -60172,6 +60374,7 @@
       },
       {
         "forms" : [
+          "lancer",
           "lancé"
         ],
         "note" : "Past participle of lancer (to throw, to launch): « lancer un projet » = to start a project.",
@@ -60254,6 +60457,176 @@
         "note" : "Tu imperative of parler + en (about it): the -s comes back before « en » for the sound: parle → parles-en.",
         "pos" : "verb",
         "translation" : "talk about it"
+      },
+      {
+        "forms" : [
+          "1993"
+        ],
+        "note" : "Said « mille neuf cent quatre-vingt-treize »; the year the Guodian tomb was opened.",
+        "pos" : "number",
+        "translation" : "1993"
+      },
+      {
+        "forms" : [
+          "800"
+        ],
+        "note" : "Said « huit cents »: the -s stays because nothing follows the hundreds.",
+        "pos" : "number",
+        "translation" : "800"
+      },
+      {
+        "forms" : [
+          "300"
+        ],
+        "note" : "Said « trois cents »; « vers 300 avant J.-C. » = around 300 BC.",
+        "pos" : "number",
+        "translation" : "300"
+      },
+      {
+        "forms" : [
+          "64"
+        ],
+        "note" : "Said « soixante-quatre »; « le chapitre 64 » uses the plain number, not « soixante-quatrième ».",
+        "pos" : "number",
+        "translation" : "64"
+      },
+      {
+        "forms" : [
+          "bambou"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le bambou » here means the bamboo strips themselves; plural bambous.",
+        "pos" : "noun",
+        "translation" : "bamboo"
+      },
+      {
+        "forms" : [
+          "écriture"
+        ],
+        "gender" : "feminine",
+        "note" : "The written signs on something: « une vieille écriture » = old writing; from écrire.",
+        "pos" : "noun",
+        "translation" : "writing, script"
+      },
+      {
+        "forms" : [
+          "chine"
+        ],
+        "gender" : "feminine",
+        "note" : "The country; feminine: « en Chine » (in China), « le centre de la Chine ».",
+        "pos" : "noun",
+        "translation" : "China"
+      },
+      {
+        "forms" : [
+          "jingmen"
+        ],
+        "note" : "A city in Hubei, central China; the Guodian tomb was found near it in 1993.",
+        "pos" : "noun",
+        "translation" : "Jingmen"
+      },
+      {
+        "forms" : [
+          "laozi"
+        ],
+        "gender" : "masculine",
+        "note" : "The old Chinese book of wisdom, named after Laozi, the sage said to have written it; « le Laozi ».",
+        "pos" : "noun",
+        "translation" : "the Laozi"
+      },
+      {
+        "forms" : [
+          "daodejing"
+        ],
+        "gender" : "masculine",
+        "note" : "The other name of the Laozi, « le livre de la Voie et de la Vertu »; also written Tao-tö-king.",
+        "pos" : "noun",
+        "translation" : "the Daodejing"
+      },
+      {
+        "forms" : [
+          "li"
+        ],
+        "gender" : "masculine",
+        "note" : "An old Chinese measure of distance, about half a kilometre; it does not change in the plural: « mille li ».",
+        "pos" : "noun",
+        "translation" : "li (Chinese unit of distance)"
+      },
+      {
+        "forms" : [
+          "demi-kilomètre"
+        ],
+        "gender" : "masculine",
+        "note" : "« Demi » before a noun takes a hyphen and never changes: un demi-kilomètre, une demi-heure.",
+        "pos" : "noun",
+        "translation" : "half a kilometre"
+      },
+      {
+        "forms" : [
+          "archéologues"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un/une archéologue », the same form for a man or a woman.",
+        "pos" : "noun",
+        "translation" : "archaeologists"
+      },
+      {
+        "forms" : [
+          "voleurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « voleur », from voler (to steal); « les voleurs sont arrivés les premiers » = the robbers got there first.",
+        "pos" : "noun",
+        "translation" : "robbers, thieves"
+      },
+      {
+        "forms" : [
+          "heureusement"
+        ],
+        "note" : "From heureux + -ment; in speech often alone at the front: « heureusement, ils avaient laissé le bambou ».",
+        "pos" : "adverb",
+        "translation" : "luckily, fortunately"
+      },
+      {
+        "forms" : [
+          "là-dedans"
+        ],
+        "note" : "Spoken for « dedans » pointing at a place already named: « il y avait là-dedans » = in there, there were.",
+        "pos" : "adverb",
+        "translation" : "in there"
+      },
+      {
+        "forms" : [
+          "chapitre"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le chapitre 64 » = chapter 64; the number comes after the noun.",
+        "pos" : "noun",
+        "translation" : "chapter"
+      },
+      {
+        "forms" : [
+          "entourer"
+        ],
+        "note" : "« Entourer de ses bras » = to get your arms around; infinitive after « ne peut pas ».",
+        "pos" : "verb",
+        "translation" : "to put (your arms) around, to surround"
+      },
+      {
+        "forms" : [
+          "fou"
+        ],
+        "note" : "Feminine folle; « le plus fou, c'est que… » = the craziest thing is that…, a spoken way to announce a surprise.",
+        "pos" : "adjective",
+        "translation" : "crazy, amazing"
+      },
+      {
+        "forms" : [
+          "raté"
+        ],
+        "note" : "Past participle of rater (spoken for « manquer »): « ils avaient raté l'essentiel » = they had missed what mattered most.",
+        "pos" : "verb",
+        "translation" : "missed"
       }
     ],
     "german" : [
@@ -63009,6 +63382,7 @@
         "forms" : [
           "lerne",
           "lernen",
+          "lernst",
           "lernt",
           "lernte"
         ],
@@ -66229,6 +66603,8 @@
       {
         "forms" : [
           "berühmte",
+          "berühmten",
+          "berühmter",
           "berühmtes"
         ],
         "note" : "Case-inflected form of berühmt.",
@@ -67463,9 +67839,9 @@
         "forms" : [
           "heißt"
         ],
-        "note" : "Present tense of heißen.",
+        "note" : "Present tense of heißen: ich heiße Anna = my name is Anna; das heißt = that means; es heißt = it is said, it says.",
         "pos" : "verb",
-        "translation" : "is called, means"
+        "translation" : "is called, means; (es heißt) it says"
       },
       {
         "forms" : [
@@ -68847,7 +69223,7 @@
         "forms" : [
           "steht"
         ],
-        "note" : "Present tense of stehen. Separable: … auf = aufstehen, to get up; „Er steht nachts auf“ = he gets up at night.",
+        "note" : "Present tense of stehen: er steht = he stands; im Buch steht … = the book says …. Separable: … auf = aufstehen, to get up; „Er steht nachts auf“ = he gets up at night.",
         "pos" : "verb",
         "separable" : [
           {
@@ -68856,7 +69232,7 @@
             "verb" : "aufstehen"
           }
         ],
-        "translation" : "stands"
+        "translation" : "stands; (im Buch steht) it says, it's written"
       },
       {
         "forms" : [
@@ -71249,7 +71625,8 @@
       },
       {
         "forms" : [
-          "weiß"
+          "weiß",
+          "weißt"
         ],
         "note" : "Wissen, \"ich\" form — knowing a fact; kennen is for people and things.",
         "pos" : "verb",
@@ -73531,6 +73908,7 @@
         "forms" : [
           "halbe",
           "halben",
+          "halber",
           "halbes"
         ],
         "note" : "\"Eine halbe Stunde\" = half an hour.",
@@ -89446,7 +89824,7 @@
         "forms" : [
           "1891"
         ],
-        "note" : "The year Pellegrino Artusi printed his cookbook himself.",
+        "note" : "A year: achtzehnhunderteinundneunzig.",
         "pos" : "number",
         "translation" : "1891"
       },
@@ -93879,6 +94257,7 @@
       },
       {
         "forms" : [
+          "bestehen",
           "besteht"
         ],
         "note" : "Bestehen aus + dative = to consist of: „besteht meist aus Haferflocken“ = is mostly oats.",
@@ -95661,6 +96040,305 @@
         "note" : "Partizip II of the separable verb zusammenarbeiten, with -ge- after zusammen-; „mit … zusammenarbeiten“ = to work with.",
         "pos" : "verb",
         "translation" : "worked together"
+      },
+      {
+        "forms" : [
+          "1993"
+        ],
+        "note" : "The year the tomb near Jingmen was opened and the bamboo slips were found.",
+        "pos" : "number",
+        "translation" : "1993"
+      },
+      {
+        "forms" : [
+          "300"
+        ],
+        "note" : "„Um 300 vor Christus“ = around 300 BC, when the Guodian slips were written.",
+        "pos" : "number",
+        "translation" : "300"
+      },
+      {
+        "forms" : [
+          "64"
+        ],
+        "note" : "„Kapitel 64“ = chapter 64 of the Laozi, where the line about the thousand li is.",
+        "pos" : "number",
+        "translation" : "64"
+      },
+      {
+        "forms" : [
+          "800"
+        ],
+        "note" : "„Rund 800“ = about 800, the number of bamboo strips in the tomb.",
+        "pos" : "number",
+        "translation" : "800"
+      },
+      {
+        "forms" : [
+          "abschrift"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Abschrift: a copy written out by hand; „die älteste Abschrift“ = the oldest copy.",
+        "pos" : "noun",
+        "translation" : "(handwritten) copy"
+      },
+      {
+        "forms" : [
+          "archäologen"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Archäologe, a weak noun: every form except the nominative singular ends in -n.",
+        "pos" : "noun",
+        "translation" : "archaeologists"
+      },
+      {
+        "forms" : [
+          "autor"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Autor: the person who wrote a book; a woman is die Autorin.",
+        "pos" : "noun",
+        "translation" : "author, writer"
+      },
+      {
+        "forms" : [
+          "bambus"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Bambus: the tall grass with hollow stems; in old China people wrote on thin strips of it.",
+        "pos" : "noun",
+        "translation" : "bamboo"
+      },
+      {
+        "forms" : [
+          "bambusstreifen"
+        ],
+        "gender" : "masculine",
+        "note" : "Compound of Bambus + Streifen (strip); the plural looks like the singular: ein Bambusstreifen, 800 Bambusstreifen.",
+        "pos" : "noun",
+        "translation" : "bamboo strips"
+      },
+      {
+        "forms" : [
+          "bekanntesten"
+        ],
+        "note" : "Superlative of bekannt (known) with a case ending: „seinen bekanntesten Satz“ = its best-known line; „einer der bekanntesten Sätze“ = one of the best-known lines.",
+        "pos" : "adjective",
+        "translation" : "best-known"
+      },
+      {
+        "forms" : [
+          "china"
+        ],
+        "gender" : "neuter",
+        "note" : "The country in East Asia; usually without an article: „in China“.",
+        "pos" : "noun",
+        "translation" : "China"
+      },
+      {
+        "forms" : [
+          "daodejing"
+        ],
+        "note" : "Another name for the Laozi, the old Chinese book of the Way (Dao); also spelled Tao Te King in German.",
+        "pos" : "noun",
+        "translation" : "Daodejing"
+      },
+      {
+        "forms" : [
+          "deutsch"
+        ],
+        "gender" : "neuter",
+        "note" : "„Auf Deutsch“ = in German; the language is written with a capital: das Deutsch.",
+        "pos" : "noun",
+        "translation" : "German (the language)"
+      },
+      {
+        "forms" : [
+          "drin"
+        ],
+        "note" : "Spoken short form of „darin“ or „drinnen“: „Drin waren rund 800 Streifen“ = there were about 800 strips in there.",
+        "pos" : "adverb",
+        "translation" : "in there, inside"
+      },
+      {
+        "forms" : [
+          "eingebrochen"
+        ],
+        "note" : "Partizip II of the separable verb einbrechen (to break in), with -ge- after ein- and the Perfekt with sein: „Räuber waren eingebrochen“ = robbers had broken in.",
+        "pos" : "verb",
+        "translation" : "broken in"
+      },
+      {
+        "forms" : [
+          "geklettert"
+        ],
+        "note" : "Partizip II of klettern (to climb); movement from one place to another takes sein: „sind in ein Grab geklettert“.",
+        "pos" : "verb",
+        "translation" : "climbed"
+      },
+      {
+        "forms" : [
+          "grab"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Grab, plural die Gräber: a place where someone is buried.",
+        "pos" : "noun",
+        "translation" : "tomb, grave"
+      },
+      {
+        "forms" : [
+          "halt"
+        ],
+        "note" : "A talk particle that says „that's just how it is“: „Große Dinge bestehen halt aus kleinen“ = big things are just made of small ones; it is not the verb halten.",
+        "pos" : "adverb",
+        "translation" : "(in speech) just, simply"
+      },
+      {
+        "forms" : [
+          "james"
+        ],
+        "note" : "First name of James Legge, the Scottish scholar who put the Laozi into English in 1891.",
+        "pos" : "noun",
+        "translation" : "James"
+      },
+      {
+        "forms" : [
+          "jingmen"
+        ],
+        "note" : "A city in Hubei province in central China; the Guodian tomb is near it.",
+        "pos" : "noun",
+        "translation" : "Jingmen"
+      },
+      {
+        "forms" : [
+          "kapitel"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Kapitel, plural die Kapitel; „in Kapitel 64“ = in chapter 64, with no article before the number.",
+        "pos" : "noun",
+        "translation" : "chapter"
+      },
+      {
+        "forms" : [
+          "kilometer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kilometer, plural die Kilometer: „ein halber Kilometer“ = half a kilometre.",
+        "pos" : "noun",
+        "translation" : "kilometre"
+      },
+      {
+        "forms" : [
+          "laozi"
+        ],
+        "gender" : "neuter",
+        "note" : "An old Chinese book of short wise sayings, also called the Daodejing; nobody knows for sure who wrote it.",
+        "pos" : "noun",
+        "translation" : "the Laozi"
+      },
+      {
+        "forms" : [
+          "legge"
+        ],
+        "note" : "Surname of James Legge, the Scottish scholar whose English Laozi came out in 1891.",
+        "pos" : "noun",
+        "translation" : "Legge"
+      },
+      {
+        "forms" : [
+          "li"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Li: an old Chinese measure of distance, about half a kilometre; „tausend Li“ = a thousand li, a very long way.",
+        "pos" : "noun",
+        "translation" : "li (old Chinese unit of length)"
+      },
+      {
+        "forms" : [
+          "maßeinheit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Maßeinheit, compound of Maß (measure) + Einheit (unit): „eine alte Maßeinheit“ = an old unit of measure.",
+        "pos" : "noun",
+        "translation" : "unit of measurement"
+      },
+      {
+        "forms" : [
+          "räuber"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Räuber, plural die Räuber (the same form): someone who steals; „Grabräuber“ = tomb robbers.",
+        "pos" : "noun",
+        "translation" : "robbers"
+      },
+      {
+        "forms" : [
+          "schrift"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Schrift: written signs on a surface, or a writing system; „mit alter Schrift“ = with old writing.",
+        "pos" : "noun",
+        "translation" : "writing, script"
+      },
+      {
+        "forms" : [
+          "sprache"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Sprache, plural die Sprachen: „eine Sprache lernen“ = to learn a language.",
+        "pos" : "noun",
+        "translation" : "language"
+      },
+      {
+        "forms" : [
+          "spross"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Spross: the first little stem a plant pushes out of the ground.",
+        "pos" : "noun",
+        "translation" : "shoot, sprout"
+      },
+      {
+        "forms" : [
+          "umarmen"
+        ],
+        "note" : "Inseparable (um- is unstressed): „du umarmst“, „hat umarmt“; „zu dick zum Umarmen“ = too big to hug, with the infinitive as a noun.",
+        "pos" : "verb",
+        "translation" : "to hug"
+      },
+      {
+        "forms" : [
+          "unwichtig"
+        ],
+        "note" : "The opposite of wichtig (important), with the prefix un-: „das Ziel ist unwichtig“ = the goal doesn't matter.",
+        "pos" : "adjective",
+        "translation" : "unimportant"
+      },
+      {
+        "forms" : [
+          "zentralchina"
+        ],
+        "gender" : "neuter",
+        "note" : "Compound of zentral + China, the middle part of the country (Hubei, where Jingmen is).",
+        "pos" : "noun",
+        "translation" : "central China"
+      },
+      {
+        "forms" : [
+          "ziel"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Ziel, plural die Ziele: where you want to arrive, in a journey or in life.",
+        "pos" : "noun",
+        "translation" : "goal"
+      },
+      {
+        "forms" : [
+          "vorher"
+        ],
+        "note" : "Stands alone without a noun (unlike the preposition „vor“): „Räuber waren schon vorher da“ = robbers had been there before (them).",
+        "pos" : "adverb",
+        "translation" : "before, beforehand"
       }
     ],
     "italian" : [
@@ -97839,6 +98517,7 @@
         "forms" : [
           "citano",
           "citare",
+          "citata",
           "citato"
         ],
         "note" : "From citare.",
@@ -99627,6 +100306,7 @@
         "forms" : [
           "entrarci",
           "entrare",
+          "entrati",
           "entrato"
         ],
         "note" : "From entrare.",
@@ -101626,9 +102306,9 @@
         "forms" : [
           "li"
         ],
-        "note" : "Masculine plural direct object pronoun.",
+        "note" : "Masculine plural direct object pronoun (li vedo = I see them); also li, the old Chinese measure of distance, about half a kilometre (mille li).",
         "pos" : "pronoun",
-        "translation" : "them"
+        "translation" : "them; (a Chinese li) about half a kilometre"
       },
       {
         "forms" : [
@@ -103993,9 +104673,9 @@
           "proprie",
           "proprio"
         ],
-        "note" : "Proprio agrees in gender and number.",
+        "note" : "Proprio agrees in gender and number (la propria casa); as a talk word it means really, just (è proprio così).",
         "pos" : "other",
-        "translation" : "own / one's own"
+        "translation" : "own / one's own; (in speech) really, just"
       },
       {
         "forms" : [
@@ -106260,9 +106940,9 @@
           "strade"
         ],
         "gender" : "feminine",
-        "note" : "Strada, plural strade.",
+        "note" : "Strada, plural strade: a street in town, a road, or the way to somewhere.",
         "pos" : "noun",
-        "translation" : "street(s)"
+        "translation" : "street(s), road(s), way"
       },
       {
         "forms" : [
@@ -106524,7 +107204,9 @@
       },
       {
         "forms" : [
+          "tanta",
           "tante",
+          "tanti",
           "tanto"
         ],
         "note" : "Tanto/tanta/tanti/tante.",
@@ -107951,6 +108633,7 @@
       {
         "forms" : [
           "antica",
+          "antiche",
           "antichi",
           "antico",
           "un'antica"
@@ -114253,6 +114936,7 @@
       {
         "forms" : [
           "apre",
+          "aprono",
           "aprì"
         ],
         "note" : "From aprire, third person singular present.",
@@ -114494,7 +115178,8 @@
           "conosceva",
           "conoscevano",
           "conosci",
-          "conosco"
+          "conosco",
+          "conoscono"
         ],
         "note" : "From conoscere.",
         "pos" : "verb",
@@ -115168,7 +115853,8 @@
       },
       {
         "forms" : [
-          "riesce"
+          "riesce",
+          "riesci"
         ],
         "note" : "From riuscire, third person singular present.",
         "pos" : "verb",
@@ -118027,9 +118713,9 @@
           "lingua"
         ],
         "gender" : "feminine",
-        "note" : "«Passando la lingua sui denti»; anche = language.",
+        "note" : "«Passando la lingua sui denti» = running your tongue over your teeth; una lingua straniera = a foreign language.",
         "pos" : "noun",
-        "translation" : "tongue"
+        "translation" : "tongue; language"
       },
       {
         "forms" : [
@@ -118323,7 +119009,8 @@
       },
       {
         "forms" : [
-          "sfugge"
+          "sfugge",
+          "sfuggire"
         ],
         "note" : "«La placca che sfugge» allo spazzolino.",
         "pos" : "verb",
@@ -119565,7 +120252,7 @@
         "forms" : [
           "1891"
         ],
-        "note" : "The year Pellegrino Artusi printed his cookbook at his own expense; said milleottocentonovantuno.",
+        "note" : "A year: said milleottocentonovantuno.",
         "pos" : "number",
         "translation" : "1891"
       },
@@ -120332,6 +121019,7 @@
       {
         "forms" : [
           "l'ottobre",
+          "nell'ottobre",
           "ottobre"
         ],
         "gender" : "masculine",
@@ -122736,6 +123424,7 @@
       },
       {
         "forms" : [
+          "scesi",
           "sceso"
         ],
         "note" : "Irregular past participle of scendere (to go down), with essere: è sceso al sesto posto = he dropped to sixth place.",
@@ -124275,7 +124964,8 @@
       },
       {
         "forms" : [
-          "piccolissima"
+          "piccolissima",
+          "piccolissimo"
         ],
         "note" : "Piccola + -issima, the absolute superlative: -issimo/-issima means 'very' and agrees like any adjective.",
         "pos" : "adjective",
@@ -125303,6 +125993,169 @@
         "note" : "Plural of il politico (politician); i politici locali = the local politicians, the everyday word for the people who run a place.",
         "pos" : "noun",
         "translation" : "politicians"
+      },
+      {
+        "forms" : [
+          "1993"
+        ],
+        "note" : "Said millenovecentonovantatré; years take the article: nel 1993, nell'ottobre del 1993.",
+        "pos" : "number",
+        "translation" : "1993"
+      },
+      {
+        "forms" : [
+          "300"
+        ],
+        "note" : "Trecento; intorno al 300 a.C. = around 300 BC.",
+        "pos" : "number",
+        "translation" : "300"
+      },
+      {
+        "forms" : [
+          "64"
+        ],
+        "note" : "Sessantaquattro; il capitolo 64 = chapter 64.",
+        "pos" : "number",
+        "translation" : "64"
+      },
+      {
+        "forms" : [
+          "800"
+        ],
+        "note" : "Ottocento; circa 800 strisce = about 800 strips.",
+        "pos" : "number",
+        "translation" : "800"
+      },
+      {
+        "forms" : [
+          "cina"
+        ],
+        "gender" : "feminine",
+        "note" : "The country; countries take the article except after in: in Cina, nella Cina centrale.",
+        "pos" : "noun",
+        "translation" : "China"
+      },
+      {
+        "forms" : [
+          "jingmen"
+        ],
+        "note" : "A city in Hubei, central China; the Guodian tomb was found near it.",
+        "pos" : "noun",
+        "translation" : "Jingmen"
+      },
+      {
+        "forms" : [
+          "laozi"
+        ],
+        "note" : "An old Chinese book, named after the sage said to have written it; also called the Daodejing.",
+        "pos" : "noun",
+        "translation" : "Laozi"
+      },
+      {
+        "forms" : [
+          "daodejing"
+        ],
+        "note" : "The other name of the Laozi, \"the book of the way and its power\".",
+        "pos" : "noun",
+        "translation" : "Daodejing"
+      },
+      {
+        "forms" : [
+          "tomba"
+        ],
+        "gender" : "feminine",
+        "note" : "Tomba, plural tombe.",
+        "pos" : "noun",
+        "translation" : "tomb, grave"
+      },
+      {
+        "forms" : [
+          "bambù"
+        ],
+        "gender" : "masculine",
+        "note" : "Stressed on the last syllable, so it never changes in the plural.",
+        "pos" : "noun",
+        "translation" : "bamboo"
+      },
+      {
+        "forms" : [
+          "ladri"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of ladro; un ladro = a thief.",
+        "pos" : "noun",
+        "translation" : "thieves, robbers"
+      },
+      {
+        "forms" : [
+          "archeologi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of archeologo, with -gi; people who dig up the past.",
+        "pos" : "noun",
+        "translation" : "archaeologists"
+      },
+      {
+        "forms" : [
+          "l'autore"
+        ],
+        "gender" : "masculine",
+        "note" : "L' = il before a vowel; autore is who wrote a book, scrittore a writer by trade.",
+        "pos" : "noun",
+        "translation" : "the author, the writer"
+      },
+      {
+        "forms" : [
+          "capitolo"
+        ],
+        "gender" : "masculine",
+        "note" : "Capitolo, plural capitoli; il capitolo 64 = chapter 64.",
+        "pos" : "noun",
+        "translation" : "chapter"
+      },
+      {
+        "forms" : [
+          "chilometro"
+        ],
+        "gender" : "masculine",
+        "note" : "Mezzo chilometro = half a kilometre; mezzo before a noun does not take un.",
+        "pos" : "noun",
+        "translation" : "kilometre"
+      },
+      {
+        "forms" : [
+          "germoglio"
+        ],
+        "gender" : "masculine",
+        "note" : "The first green tip a plant puts out; plural germogli.",
+        "pos" : "noun",
+        "translation" : "shoot, sprout"
+      },
+      {
+        "forms" : [
+          "meta"
+        ],
+        "gender" : "feminine",
+        "note" : "No accent: la meta = the goal; metà with an accent means half.",
+        "pos" : "noun",
+        "translation" : "goal, destination"
+      },
+      {
+        "forms" : [
+          "grosso"
+        ],
+        "note" : "In speech grosso often means big in size: un albero grosso = a big, thick tree.",
+        "pos" : "adjective",
+        "translation" : "big, thick"
+      },
+      {
+        "forms" : [
+          "abbracciare",
+          "abbracciarlo"
+        ],
+        "note" : "Abbracciarlo = abbracciare + lo (it): the pronoun is joined to the infinitive.",
+        "pos" : "verb",
+        "translation" : "to hug, to put your arms around"
       }
     ],
     "spanish" : [
@@ -126455,7 +127308,8 @@
         "forms" : [
           "da",
           "daba",
-          "dar"
+          "dar",
+          "dé"
         ],
         "note" : "Forms of dar across tenses.",
         "pos" : "verb",
@@ -127022,7 +127876,9 @@
           "escribir",
           "escribirlo",
           "escribió",
-          "escrito"
+          "escritas",
+          "escrito",
+          "escritos"
         ],
         "note" : "Forms of escribir across tenses.",
         "pos" : "verb",
@@ -127431,9 +128287,9 @@
           "hacía",
           "hiciera"
         ],
-        "note" : "Forms of hacer across tenses; \"hacia\" (without accent) means \"toward.\"",
+        "note" : "Forms of hacer across tenses (hace, hacía, hiciera); \"hacia\" without an accent is another word: toward, or around a date (hacia el año 300).",
         "pos" : "verb",
-        "translation" : "to do, make"
+        "translation" : "to do, make; (hacia) toward, around"
       },
       {
         "forms" : [
@@ -127553,7 +128409,8 @@
           "importa",
           "importaba",
           "importado",
-          "importantes"
+          "importantes",
+          "importe"
         ],
         "note" : "\"Importa\" is a verb form (\"lo que importa\" = what matters); \"importantes\" is the plural adjective.",
         "pos" : "verb",
@@ -128070,6 +128927,7 @@
       },
       {
         "forms" : [
+          "meta",
           "metas"
         ],
         "gender" : "feminine",
@@ -130041,9 +130899,9 @@
           "y",
           "ya"
         ],
-        "note" : "\"Y\" means \"and\"; \"ya\" means \"already.\"",
+        "note" : "\"Y\" means \"and\". \"Ya\" means \"already\" or \"now\" (ya habían entrado = they had already gone in) and in speech \"right / I see\" (ya, ya).",
         "pos" : "conjunction",
-        "translation" : "and / already"
+        "translation" : "and (y) / already, now; (in speech) right, sure (ya)"
       },
       {
         "forms" : [
@@ -131659,6 +132517,7 @@
       },
       {
         "forms" : [
+          "famosa",
           "famoso",
           "famosos"
         ],
@@ -131845,6 +132704,7 @@
       },
       {
         "forms" : [
+          "hechas",
           "hecho"
         ],
         "note" : "Past participle of hacer; also the noun \"fact.\"",
@@ -135150,6 +136010,7 @@
       },
       {
         "forms" : [
+          "brote",
           "brotes"
         ],
         "note" : "Plural of brote; young plant growth.",
@@ -135368,6 +136229,7 @@
       },
       {
         "forms" : [
+          "cierta",
           "ciertas",
           "cierto"
         ],
@@ -138730,7 +139592,8 @@
       },
       {
         "forms" : [
-          "rodea"
+          "rodea",
+          "rodear"
         ],
         "note" : "Rodear, él/ella form.",
         "pos" : "verb",
@@ -139235,7 +140098,8 @@
       },
       {
         "forms" : [
-          "tira"
+          "tira",
+          "tiras"
         ],
         "gender" : "feminine",
         "note" : "\"Una tira de alga\" = a strip of seaweed.",
@@ -140509,6 +141373,7 @@
         "forms" : [
           "dejado",
           "dejados",
+          "dejaron",
           "dejó"
         ],
         "note" : "Past participle and past tense of \"dejar.\"",
@@ -142720,9 +143585,9 @@
           "recordar",
           "recuerda"
         ],
-        "note" : "From \"recordar.\"",
+        "note" : "From recordar: to remember (recuerda su nombre) and to remind (te recuerda que…).",
         "pos" : "verb",
-        "translation" : "remembers"
+        "translation" : "remembers; reminds"
       },
       {
         "forms" : [
@@ -144417,7 +145282,7 @@
           "autoras"
         ],
         "gender" : "feminine",
-        "note" : "Female author.",
+        "note" : "Autor is the man or the general word, autora the woman; autoras plural.",
         "pos" : "noun",
         "translation" : "author"
       },
@@ -145333,7 +146198,8 @@
       {
         "forms" : [
           "escapa",
-          "escaparse"
+          "escaparse",
+          "escapó"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -150992,7 +151858,7 @@
         "forms" : [
           "1891"
         ],
-        "note" : "The year Artusi printed his cookbook at his own expense.",
+        "note" : "A year: mil ochocientos noventa y uno.",
         "pos" : "number",
         "translation" : "1891"
       },
@@ -156466,6 +157332,162 @@
         "note" : "Same form for masculine and feminine; un récord terrible = a terrible record.",
         "pos" : "adjective",
         "translation" : "terrible"
+      },
+      {
+        "forms" : [
+          "1993"
+        ],
+        "note" : "Said \"mil novecientos noventa y tres\"; en octubre de 1993 = in October 1993.",
+        "pos" : "number",
+        "translation" : "1993"
+      },
+      {
+        "forms" : [
+          "300"
+        ],
+        "note" : "Said \"trescientos\"; el año 300 antes de Cristo = the year 300 BC.",
+        "pos" : "number",
+        "translation" : "300"
+      },
+      {
+        "forms" : [
+          "800"
+        ],
+        "note" : "Said \"ochocientos\"; unas 800 tiras = about 800 strips (unas = about, before a number).",
+        "pos" : "number",
+        "translation" : "800"
+      },
+      {
+        "forms" : [
+          "64"
+        ],
+        "note" : "Said \"sesenta y cuatro\"; el capítulo 64 = chapter 64.",
+        "pos" : "number",
+        "translation" : "64"
+      },
+      {
+        "forms" : [
+          "china"
+        ],
+        "gender" : "feminine",
+        "note" : "The country; the adjective and the language are chino/china, with a small letter.",
+        "pos" : "noun",
+        "translation" : "China"
+      },
+      {
+        "forms" : [
+          "jingmen"
+        ],
+        "note" : "A city in Hubei, central China; the Guodian tomb was found near it in 1993.",
+        "pos" : "noun",
+        "translation" : "Jingmen"
+      },
+      {
+        "forms" : [
+          "laozi"
+        ],
+        "gender" : "masculine",
+        "note" : "An old Chinese book of short wise sayings, about 2,300 years old; it is also the name given to its legendary author.",
+        "pos" : "noun",
+        "translation" : "the Laozi"
+      },
+      {
+        "forms" : [
+          "daodejing"
+        ],
+        "gender" : "masculine",
+        "note" : "The other name of the Laozi, \"the book of the way and of virtue\"; also written Tao Te Ching.",
+        "pos" : "noun",
+        "translation" : "the Daodejing"
+      },
+      {
+        "forms" : [
+          "li"
+        ],
+        "gender" : "masculine",
+        "note" : "An old Chinese measure of distance, about half a kilometre; it does not change in the plural: mil li.",
+        "pos" : "noun",
+        "translation" : "li (Chinese unit of distance)"
+      },
+      {
+        "forms" : [
+          "kilómetro"
+        ],
+        "gender" : "masculine",
+        "note" : "Medio kilómetro = half a kilometre; the plural is kilómetros.",
+        "pos" : "noun",
+        "translation" : "kilometre"
+      },
+      {
+        "forms" : [
+          "tumba"
+        ],
+        "gender" : "feminine",
+        "note" : "Abrir una tumba = to open a tomb; feminine noun.",
+        "pos" : "noun",
+        "translation" : "tomb, grave"
+      },
+      {
+        "forms" : [
+          "bambú"
+        ],
+        "gender" : "masculine",
+        "note" : "Keeps the accent on the last syllable; tiras de bambú = bamboo strips.",
+        "pos" : "noun",
+        "translation" : "bamboo"
+      },
+      {
+        "forms" : [
+          "escritura"
+        ],
+        "gender" : "feminine",
+        "note" : "The written signs on something (escritura antigua = old writing); from escribir, to write.",
+        "pos" : "noun",
+        "translation" : "writing, script"
+      },
+      {
+        "forms" : [
+          "arqueólogos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of arqueólogo (archaeologist), the person who digs up and studies old things.",
+        "pos" : "noun",
+        "translation" : "archaeologists"
+      },
+      {
+        "forms" : [
+          "ladrones"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of ladrón (thief); the accent goes away in the plural.",
+        "pos" : "noun",
+        "translation" : "thieves, robbers"
+      },
+      {
+        "forms" : [
+          "capítulo"
+        ],
+        "gender" : "masculine",
+        "note" : "El capítulo 64 = chapter 64; the number comes after the noun.",
+        "pos" : "noun",
+        "translation" : "chapter"
+      },
+      {
+        "forms" : [
+          "idioma"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine even though it ends in -a: un idioma, aprender un idioma = to learn a language.",
+        "pos" : "noun",
+        "translation" : "language"
+      },
+      {
+        "forms" : [
+          "abrazarlo"
+        ],
+        "note" : "Abrazar (to hug) + lo (it) joined at the end of the infinitive; demasiado grande para abrazarlo = too big to hug.",
+        "pos" : "verb",
+        "translation" : "to hug it"
       }
     ]
   },
@@ -182235,6 +183257,576 @@
       "summary" : "Nel 1972 una regione della Finlandia, dove morivano di cuore più uomini che in qualsiasi altro posto al mondo, ha cominciato a cambiare quello che metteva sul pane.",
       "title" : "La regione che ha cambiato il pane",
       "translationGroup" : "north-karelia"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-22",
+      "id" : "thousand-li",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"There are\" + a plural noun says what is in a place; the place can come first: inside, there are thin strips.",
+              "example" : "Inside, there are thin strips of bamboo with old writing.",
+              "title" : "Inside, there are …: saying what is in a place"
+            },
+            {
+              "body" : "\"Of\" joins a thing to its size or amount: a trip of a thousand li.",
+              "example" : "A trip of a thousand li starts with one step.",
+              "title" : "A trip of …: of + amount"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "So it's October 1993, in China. People open a small tomb near Jingmen. Inside, there are thin strips of bamboo with old writing.",
+            "The strips are part of a very old book, the Laozi. Nobody knows for sure who the writer is.",
+            "The book has a famous line. A trip of a thousand li starts with one step. A li is about half a kilometre.",
+            "The road is long, but the step is small. So take one small step today."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Were\" goes with plural subjects: there were about 800 strips; some of them were the oldest copy.",
+              "example" : "Some of them were the oldest copy of a famous book, the Laozi.",
+              "title" : "The past simple of be: was / were"
+            },
+            {
+              "body" : "\"Doesn't\" + verb makes the present negative; \"that\" introduces what is (not) said.",
+              "example" : "The line doesn't say that the first step is easy.",
+              "title" : "Doesn't say that …"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In October 1993, archaeologists opened a small tomb near Jingmen, in China. Robbers got there first, but they left the bamboo.",
+            "Inside, there were about 800 thin strips of bamboo with writing from around 300 BC. Some of them were the oldest copy of a famous book, the Laozi.",
+            "Nobody really knows who wrote it. But the book has a line that people still say today.",
+            "A journey of a thousand li starts with one step. A li is an old measure, about half a kilometre, so that's a very long way.",
+            "The line doesn't say that the first step is easy. It just says that big things start small. So take one small step today."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle shows what happened before the main past moment (before the archaeologists arrived).",
+              "example" : "Robbers had already broken in, but luckily they had left the bamboo.",
+              "title" : "The past perfect: had broken in"
+            },
+            {
+              "body" : "After \"among them\", English often puts the verb before the subject.",
+              "example" : "Among them was the oldest copy of the Laozi ever found.",
+              "title" : "Among them was …: inversion after a place phrase"
+            },
+            {
+              "body" : "\"Too big to hug\" means so big that you cannot put your arms around it.",
+              "example" : "Just before it, the book says that a tree too big to hug grows from a tiny shoot.",
+              "title" : "Too + adjective + to: too big to hug"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In October 1993, archaeologists climbed into a small tomb near Jingmen, in central China. Robbers had already broken in, but luckily they had left the bamboo.",
+            "Inside, there were about 800 thin bamboo strips with writing from around 300 BC. Among them was the oldest copy of the Laozi ever found.",
+            "Nobody knows for sure who wrote the book. In 1891 James Legge put its best-known line into English: \"The journey of a thousand li commenced with a single step.\"",
+            "It doesn't mean the goal isn't important, or that the first step is easy. Just before it, the book says that a tree too big to hug grows from a tiny shoot.",
+            "Big things are made of small ones. If you're learning a language, that's your thousand li, and one story a day is a step."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"They'd\" = they had: the past perfect looks back from a past moment, so the robbers broke in and missed the bamboo before the archaeologists came.",
+              "example" : "Robbers had already broken in, but they'd missed what mattered most: the bamboo.",
+              "title" : "They'd missed …: the past perfect in speech"
+            },
+            {
+              "body" : "After a superlative (the oldest, the best), English uses the present perfect with \"ever\": it means in all of time up to now.",
+              "example" : "Among them was the oldest copy of the Laozi anyone has ever found, the book also called the Daodejing.",
+              "title" : "The oldest … anyone has ever found"
+            },
+            {
+              "body" : "\"Can't get your arms around\" (a tree) = it is too big to hug; also used for problems too big to grasp.",
+              "example" : "Right before it, the chapter points out that a tree you can't get your arms around grows from a tiny shoot.",
+              "title" : "You can't get your arms around"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In October 1993, archaeologists climbed into a small tomb near Jingmen, in central China. Robbers had already broken in, but they'd missed what mattered most: the bamboo.",
+            "There were about 800 thin strips in there, written around 300 BC. Among them was the oldest copy of the Laozi anyone has ever found, the book also called the Daodejing.",
+            "And here's the thing: nobody really knows who wrote it. Its most quoted line comes from chapter 64, which James Legge translated in 1891: \"The journey of a thousand li commenced with a single step.\"",
+            "A li is about half a kilometre. The line isn't saying the goal doesn't matter, or that starting is easy. Right before it, the chapter points out that a tree you can't get your arms around grows from a tiny shoot.",
+            "Big things are made of small ones. If you're learning a language, that's your thousand li, and one story a day is a step on it."
+          ]
+        }
+      ],
+      "summary" : "In 1993 robbers broke into a tomb in China, but they left the bamboo, and on it was the oldest copy of a book with one of the world's best-known lines.",
+      "title" : "A Thousand Li",
+      "translationGroup" : "thousand-li"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-22",
+      "id" : "thousand-li-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Faire partie de\" = to be part of; faire changes with the subject (ces bandes font partie), and de becomes d' before a vowel: d'un livre.",
+              "example" : "Ces bandes font partie d'un très vieux livre, le Laozi.",
+              "title" : "Faire partie de: to be part of"
+            },
+            {
+              "body" : "In speech, French names the thing first and then explains it with \"c'est\": un li, c'est environ un demi-kilomètre = a li is about half a kilometre.",
+              "example" : "Un li, c'est environ un demi-kilomètre.",
+              "title" : "Un li, c'est …: explaining a word"
+            },
+            {
+              "body" : "Advice to a friend uses the tu imperative, the present form without \"tu\": tu fais → fais. Faire un pas = to take a step.",
+              "example" : "Alors, fais un petit pas aujourd'hui.",
+              "title" : "The tu imperative: fais"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Alors, on est en octobre 1993, en Chine. Des gens ouvrent une petite tombe près de Jingmen. Et dedans ? De fines bandes de bambou, avec une écriture ancienne.",
+            "Ces bandes font partie d'un très vieux livre, le Laozi. En fait, personne ne sait vraiment qui est l'auteur.",
+            "Dans ce livre, il y a une phrase célèbre. « Un voyage de mille li commence par un premier pas. » Un li, c'est environ un demi-kilomètre.",
+            "La route est longue, mais un pas, c'est tout petit. Alors, fais un petit pas aujourd'hui."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + past participle for most verbs (ils ont ouvert, ils ont laissé), but passer (to come by) takes être here, and the participle agrees with the subject: ils sont passés.",
+              "example" : "Des voleurs sont passés avant eux, mais ils ont laissé le bambou.",
+              "title" : "Passé composé with avoir and être"
+            },
+            {
+              "body" : "\"Il y avait\" is the imparfait of \"il y a\": it describes what was there, the background of the story, and stays the same for the plural.",
+              "example" : "Parmi elles, il y avait même la plus vieille copie d'un livre célèbre, le Laozi.",
+              "title" : "Il y avait: there was, there were"
+            },
+            {
+              "body" : "\"Ne … pas\" goes around the verb, and \"que\" then introduces what is (not) said: ne dit pas que = doesn't say that.",
+              "example" : "La phrase ne dit pas que le premier pas est facile.",
+              "title" : "Ne … pas que: doesn't say that"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En octobre 1993, des archéologues ont ouvert une petite tombe près de Jingmen, en Chine. Des voleurs sont passés avant eux, mais ils ont laissé le bambou.",
+            "Dedans, il y avait environ 800 fines bandes de bambou, écrites vers 300 avant J.-C. Parmi elles, il y avait même la plus vieille copie d'un livre célèbre, le Laozi.",
+            "En fait, personne ne sait vraiment qui l'a écrit. Mais dans ce livre, il y a une phrase que les gens disent encore aujourd'hui.",
+            "« Un voyage de mille li commence par un premier pas. » Un li, c'est une vieille mesure, environ un demi-kilomètre, donc mille li, c'est vraiment loin.",
+            "La phrase ne dit pas que le premier pas est facile. Elle dit juste que les grandes choses commencent petit. Alors, fais un petit pas aujourd'hui."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait of être or avoir + past participle tells what had already happened before the main past moment (before the archaeologists came in).",
+              "example" : "Des voleurs étaient déjà entrés, mais heureusement, ils avaient laissé le bambou.",
+              "title" : "The plus-que-parfait: étaient entrés, avaient laissé"
+            },
+            {
+              "body" : "A superlative + \"jamais\" + past participle means \"ever\": la plus vieille copie jamais trouvée = the oldest copy ever found. The participle agrees with copie.",
+              "example" : "Et parmi elles, il y avait la plus vieille copie du Laozi jamais trouvée.",
+              "title" : "La plus vieille … jamais trouvée"
+            },
+            {
+              "body" : "\"Trop gros pour que\" (too big for) is followed by the subjunctive: pour qu'on le prenne (not prend). Prendre dans ses bras = to hug.",
+              "example" : "Juste avant, le livre dit même qu'un arbre trop gros pour qu'on le prenne dans ses bras sort d'une toute petite pousse.",
+              "title" : "Trop … pour que + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En octobre 1993, des archéologues sont descendus dans une petite tombe près de Jingmen, dans le centre de la Chine. Des voleurs étaient déjà entrés, mais heureusement, ils avaient laissé le bambou.",
+            "Dedans, il y avait environ 800 fines bandes de bambou, écrites vers 300 avant J.-C. Et parmi elles, il y avait la plus vieille copie du Laozi jamais trouvée.",
+            "Personne ne sait vraiment qui a écrit ce livre. Sa phrase la plus connue, on la dit souvent comme ça : « Un voyage de mille li commence par un premier pas. »",
+            "Ça ne veut pas dire que le but n'est pas important, ni que le premier pas est facile. Juste avant, le livre dit même qu'un arbre trop gros pour qu'on le prenne dans ses bras sort d'une toute petite pousse.",
+            "Les grandes choses, en fait, sont faites de petites. Si tu apprends une langue, c'est ça, tes mille li, et une histoire par jour, c'est un pas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a superlative (la plus vieille, le seul), the relative clause often takes the subjunctive: la plus vieille copie qu'on ait jamais trouvée = the oldest copy anyone has ever found.",
+              "example" : "Et parmi elles, la plus vieille copie du Laozi qu'on ait jamais trouvée, le livre qu'on appelle aussi le Daodejing.",
+              "title" : "Qu'on ait jamais trouvée: subjunctive"
+            },
+            {
+              "body" : "A spoken way to announce the surprising point: \"le plus\" + adjective, then \"c'est que\" + the clause. Le plus fou = the craziest thing.",
+              "example" : "Et le plus fou, c'est que personne ne sait vraiment qui l'a écrit.",
+              "title" : "Le plus fou, c'est que …"
+            },
+            {
+              "body" : "After a negative, \"ni que\" adds a second thing that is not said: ne dit pas que … ni que … = doesn't say that … or that …",
+              "example" : "La phrase ne dit pas que le but n'a pas d'importance, ni que se lancer, c'est facile.",
+              "title" : "Ni que: nor that"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En octobre 1993, des archéologues sont descendus dans une petite tombe près de Jingmen, dans le centre de la Chine. Des voleurs étaient déjà passés par là, mais ils avaient raté l'essentiel : le bambou.",
+            "Il y avait là-dedans environ 800 fines bandes, écrites vers 300 avant J.-C. Et parmi elles, la plus vieille copie du Laozi qu'on ait jamais trouvée, le livre qu'on appelle aussi le Daodejing.",
+            "Et le plus fou, c'est que personne ne sait vraiment qui l'a écrit. Sa phrase la plus citée vient du chapitre 64, et en français, ça donne : « Un voyage de mille li commence par un premier pas. »",
+            "Un li, c'est environ un demi-kilomètre. La phrase ne dit pas que le but n'a pas d'importance, ni que se lancer, c'est facile. Juste avant, le chapitre fait même remarquer qu'un arbre qu'on ne peut pas entourer de ses bras sort d'une minuscule pousse.",
+            "Les grandes choses sont faites de petites. Si tu apprends une langue, c'est ça, tes mille li à toi, et une histoire par jour, c'est un pas de plus sur la route."
+          ]
+        }
+      ],
+      "summary" : "En 1993, des voleurs sont entrés dans une tombe en Chine, mais ils ont laissé le bambou, et dessus, il y avait la plus vieille copie d'un livre où se trouve une des phrases les plus connues au monde.",
+      "title" : "Mille li",
+      "translationGroup" : "thousand-li"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-22",
+      "id" : "thousand-li-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "When a sentence starts with a place word like „drinnen“ (inside), the verb stays in second place and the subject comes after it. German often says „liegen“ (lie) for flat things where English says „there are“.",
+              "example" : "Drinnen liegen dünne Streifen aus Bambus mit alter Schrift.",
+              "title" : "Drinnen liegen …: the verb in second place"
+            },
+            {
+              "body" : "After „weiß“, a question word like „wer“ (who) starts a clause, and its verb moves to the end: „wer der Autor ist“.",
+              "example" : "Niemand weiß genau, wer der Autor ist.",
+              "title" : "Wer … ist: the verb goes to the end"
+            },
+            {
+              "body" : "For a tip to a friend, take the du form and drop -st: du machst → mach! The verb comes first, and „doch“ and „einfach“ make it a friendly nudge, not an order.",
+              "example" : "Mach doch heute einfach einen kleinen Schritt.",
+              "title" : "The du imperative: Mach!"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Also, es ist Oktober 1993, in China. Leute öffnen ein kleines Grab bei Jingmen. Drinnen liegen dünne Streifen aus Bambus mit alter Schrift.",
+            "Die Streifen gehören zu einem sehr alten Buch, dem Laozi. Niemand weiß genau, wer der Autor ist.",
+            "Im Buch steht ein berühmter Satz. Eine Reise von tausend Li beginnt mit dem ersten Schritt. Ein Li ist etwa ein halber Kilometer.",
+            "Der Weg ist lang, aber der Schritt ist klein. Mach doch heute einfach einen kleinen Schritt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is „haben“ + the participle, and the participle goes to the end: öffnen → „haben … geöffnet“.",
+              "example" : "Im Oktober 1993 haben Archäologen ein kleines Grab bei Jingmen in China geöffnet.",
+              "title" : "The Perfekt with haben: haben … geöffnet"
+            },
+            {
+              "body" : "„Liegen lassen“ = to leave something where it is. In the Perfekt, people keep „lassen“ as an infinitive after another verb: „sie haben den Bambus liegen lassen“.",
+              "example" : "Räuber waren schon vorher da, aber den Bambus haben sie liegen lassen.",
+              "title" : "Liegen lassen: two infinitives in the Perfekt"
+            },
+            {
+              "body" : "„Dass“ (that) starts a clause, and the verb of that clause moves to the end: „dass der erste Schritt leicht ist“.",
+              "example" : "Der Satz sagt nicht, dass der erste Schritt leicht ist.",
+              "title" : "Dass: the verb goes to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im Oktober 1993 haben Archäologen ein kleines Grab bei Jingmen in China geöffnet. Räuber waren schon vorher da, aber den Bambus haben sie liegen lassen.",
+            "Drinnen waren rund 800 dünne Bambusstreifen mit Schrift von etwa 300 vor Christus. Ein Teil davon war die älteste Abschrift vom Laozi, einem berühmten Buch.",
+            "Wer das Buch geschrieben hat, weiß keiner genau. Aber einen Satz daraus sagen die Leute heute noch.",
+            "Auch eine Reise von tausend Li beginnt mit dem ersten Schritt. Ein Li ist eine alte Maßeinheit, etwa ein halber Kilometer. Tausend Li, das ist ein sehr langer Weg.",
+            "Der Satz sagt nicht, dass der erste Schritt leicht ist. Er sagt nur, dass große Dinge klein anfangen. Also mach heute einen kleinen Schritt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Waren/hatten“ + participle looks back from a past moment (the archaeologists' visit) to what had happened before it: the robbers had already broken in.",
+              "example" : "Räuber waren schon eingebrochen, aber zum Glück hatten sie den Bambus liegen lassen.",
+              "title" : "Plusquamperfekt: waren eingebrochen, hatten … lassen"
+            },
+            {
+              "body" : "A relative pronoun („die“, for „die Abschrift“) starts the clause and the verb goes to the end; „je“ = ever, so „die man je gefunden hat“ = that anyone has ever found.",
+              "example" : "Darunter war die älteste Abschrift vom Laozi, die man je gefunden hat.",
+              "title" : "Die man je gefunden hat: a relative clause"
+            },
+            {
+              "body" : "„Zu“ + adjective + „zum“ + an infinitive used as a noun (with a capital) says something is too much for an action: „zu dick zum Umarmen“ = too big to hug.",
+              "example" : "Kurz davor steht im Buch: Ein Baum, der zu dick zum Umarmen ist, wächst aus einem winzigen Spross.",
+              "title" : "Zu dick zum Umarmen: too … to"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im Oktober 1993 sind Archäologen in ein kleines Grab bei Jingmen in Zentralchina geklettert. Räuber waren schon eingebrochen, aber zum Glück hatten sie den Bambus liegen lassen.",
+            "Drinnen waren rund 800 dünne Bambusstreifen mit Schrift von etwa 300 vor Christus. Darunter war die älteste Abschrift vom Laozi, die man je gefunden hat.",
+            "Wer es geschrieben hat, weiß niemand genau. 1891 hat James Legge den bekanntesten Satz daraus ins Englische übersetzt. Auf Deutsch heißt er: „Auch eine Reise von tausend Li beginnt mit dem ersten Schritt.“",
+            "Das heißt nicht, dass das Ziel unwichtig oder der erste Schritt leicht ist. Kurz davor steht im Buch: Ein Baum, der zu dick zum Umarmen ist, wächst aus einem winzigen Spross.",
+            "Große Dinge bestehen halt aus kleinen. Wenn du eine Sprache lernst, sind das deine tausend Li, und eine Geschichte am Tag ist ein Schritt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "German turns a superlative into a noun with „das“ and a capital letter: „das Wichtigste“ = the most important thing, what mattered most.",
+              "example" : "Räuber waren schon eingebrochen, hatten aber das Wichtigste übersehen: den Bambus.",
+              "title" : "Das Wichtigste: an adjective used as a noun"
+            },
+            {
+              "body" : "In a relative clause with a modal verb, the infinitive comes first and the modal last: „den du nicht mal umarmen kannst“.",
+              "example" : "Direkt davor steht im Kapitel: Ein Baum, den du nicht mal umarmen kannst, wächst aus einem winzigen Spross.",
+              "title" : "Den du … umarmen kannst: a modal at the very end"
+            },
+            {
+              "body" : "When a sentence starts with a „wenn“ clause, that whole clause counts as the first position, so the main verb comes straight after the comma: „…, sind das deine tausend Li“.",
+              "example" : "Wenn du eine Sprache lernst, sind das deine tausend Li, und eine Geschichte am Tag ist ein Schritt auf dem Weg.",
+              "title" : "Wenn …, sind das …: the verb right after the clause"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im Oktober 1993 sind Archäologen in ein kleines Grab bei Jingmen in Zentralchina geklettert. Räuber waren schon eingebrochen, hatten aber das Wichtigste übersehen: den Bambus.",
+            "Drin waren rund 800 dünne Streifen mit Schrift von etwa 300 vor Christus. Darunter war die älteste Abschrift vom Laozi, die je jemand gefunden hat. Das Buch heißt auch Daodejing.",
+            "Und weißt du was? Wer es geschrieben hat, weiß eigentlich keiner. Den bekanntesten Satz aus Kapitel 64 hat James Legge 1891 ins Englische übersetzt. Auf Deutsch heißt er: „Auch eine Reise von tausend Li beginnt mit dem ersten Schritt.“",
+            "Ein Li ist etwa ein halber Kilometer. Der Satz behauptet ja nicht, dass das Ziel egal ist oder der Anfang leicht. Direkt davor steht im Kapitel: Ein Baum, den du nicht mal umarmen kannst, wächst aus einem winzigen Spross.",
+            "Große Dinge bestehen eben aus kleinen. Wenn du eine Sprache lernst, sind das deine tausend Li, und eine Geschichte am Tag ist ein Schritt auf dem Weg."
+          ]
+        }
+      ],
+      "summary" : "1993 sind Räuber in ein Grab in China eingebrochen, aber den Bambus haben sie liegen lassen – und darauf war die älteste Abschrift von einem Buch, in dem einer der bekanntesten Sätze der Welt steht.",
+      "title" : "Tausend Li",
+      "translationGroup" : "thousand-li"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-22",
+      "id" : "thousand-li-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Hay is the one form for \"there is\" and \"there are\", singular or plural; the place often comes first: dentro hay … = inside, there are ….",
+              "example" : "Dentro hay tiras finas de bambú con escritura antigua.",
+              "title" : "Hay: there is, there are"
+            },
+            {
+              "body" : "To tell a friend to do something, Spanish uses the tú imperative; for dar (to give) it is da, and dar un paso means \"to take a step\".",
+              "example" : "Así que da un paso pequeño hoy.",
+              "title" : "Da: the tú imperative"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Pues mira, estamos en octubre de 1993, en China. Unos arqueólogos abren una tumba pequeña cerca de Jingmen. Dentro hay tiras finas de bambú con escritura antigua.",
+            "Las tiras son parte de un libro muy antiguo, el Laozi. La verdad es que nadie sabe muy bien quién es el autor.",
+            "El libro tiene una frase famosa. «Un viaje de mil li empieza con un solo paso». Un li es más o menos medio kilómetro.",
+            "El camino es largo, pero el paso es pequeño. Así que da un paso pequeño hoy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (había, eran) describes what was there; the pretérito (abrieron, llegaron, escribieron) tells what happened.",
+              "example" : "Dentro había unas 800 tiras finas de bambú.",
+              "title" : "Imperfect for the scene, pretérito for events"
+            },
+            {
+              "body" : "An object pronoun (lo = it) goes before a conjugated verb: lo escribió = wrote it. Quién keeps its accent in a question, even inside a sentence.",
+              "example" : "En realidad, nadie sabe quién lo escribió.",
+              "title" : "Lo escribió: the object pronoun before the verb"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En octubre de 1993, unos arqueólogos abrieron una tumba pequeña cerca de Jingmen, en China. Unos ladrones llegaron antes que ellos, pero dejaron el bambú.",
+            "Dentro había unas 800 tiras finas de bambú. Las escribieron alrededor del año 300 antes de Cristo. Algunas tiras eran la copia más antigua de un libro famoso, el Laozi.",
+            "En realidad, nadie sabe quién lo escribió. Pero el libro tiene una frase que la gente todavía dice hoy.",
+            "«Un viaje de mil li empieza con un solo paso». Un li es una medida antigua, más o menos medio kilómetro. O sea, mil li son un camino muy largo.",
+            "La frase no habla de un primer paso fácil. Solo dice que las cosas grandes empiezan con algo pequeño. Así que da un paso pequeño hoy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había/habían + participle shows what happened before another moment in the past: the robbers came in before the archaeologists did.",
+              "example" : "Unos ladrones ya habían entrado, pero, por suerte, habían dejado el bambú.",
+              "title" : "Habían entrado: the pluperfect"
+            },
+            {
+              "body" : "After a denied statement (no quiere decir que, no dice que) the next verb goes in the subjunctive: importe, sea.",
+              "example" : "Eso no quiere decir que la meta no importe, ni que el primer paso sea fácil.",
+              "title" : "No quiere decir que + subjunctive"
+            },
+            {
+              "body" : "After a superlative, Spanish uses que + the present perfect + nunca (or jamás) for \"ever\": in all of time up to now.",
+              "example" : "Entre ellas estaba la copia más antigua del Laozi que se ha encontrado nunca.",
+              "title" : "Lo más antiguo … que se ha encontrado nunca"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En octubre de 1993, unos arqueólogos bajaron a una tumba pequeña cerca de Jingmen, en el centro de China. Unos ladrones ya habían entrado, pero, por suerte, habían dejado el bambú.",
+            "Dentro había unas 800 tiras finas de bambú, escritas alrededor del año 300 antes de Cristo. Entre ellas estaba la copia más antigua del Laozi que se ha encontrado nunca.",
+            "Nadie sabe con certeza quién escribió el libro. Su frase más conocida dice así: «Un viaje de mil li empieza con un solo paso».",
+            "Eso no quiere decir que la meta no importe, ni que el primer paso sea fácil. Justo antes, el libro dice que un árbol demasiado grande para abrazarlo nace de un brote diminuto.",
+            "Las cosas grandes están hechas de cosas pequeñas. Pues si estás aprendiendo un idioma, esos son tus mil li, y una historia al día es un paso."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Se + an indirect pronoun (les) + verb tells what happens to someone without meaning to: se les escapó = it slipped past them, they missed it.",
+              "example" : "Unos ladrones ya habían entrado, pero se les escapó lo que de verdad importaba: el bambú.",
+              "title" : "Se les escapó: the unplanned se"
+            },
+            {
+              "body" : "When a statement is denied, the verb after que goes in the subjunctive; dar igual (to not matter) becomes dé igual.",
+              "example" : "La frase no dice que la meta dé igual, ni que empezar sea fácil.",
+              "title" : "No dice que + subjunctive: dé igual, sea"
+            },
+            {
+              "body" : "Venir a ser + a quantity is a spoken way to say \"is roughly, works out at\"; it softens the number like más o menos.",
+              "example" : "Un li viene a ser medio kilómetro.",
+              "title" : "Viene a ser: \"comes to about\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En octubre de 1993, unos arqueólogos bajaron a una pequeña tumba cerca de Jingmen, en el centro de China. Unos ladrones ya habían entrado, pero se les escapó lo que de verdad importaba: el bambú.",
+            "Ahí dentro había unas 800 tiras finas, escritas alrededor del año 300 antes de Cristo. Entre ellas estaba la copia más antigua del Laozi que se ha encontrado jamás, el libro que también se conoce como Daodejing.",
+            "Y aquí viene lo curioso: nadie sabe a ciencia cierta quién lo escribió. Su frase más citada sale del capítulo 64: «Un viaje de mil li empieza con un solo paso».",
+            "Un li viene a ser medio kilómetro. La frase no dice que la meta dé igual, ni que empezar sea fácil. Justo antes, el capítulo explica que un árbol que no puedes rodear con los brazos nace de un brote diminuto.",
+            "Lo grande está hecho de cosas pequeñas. Y si estás aprendiendo un idioma, esos son tus mil li, y una historia al día es un paso en ese camino."
+          ]
+        }
+      ],
+      "summary" : "En 1993, unos ladrones entraron en una tumba de China, pero dejaron el bambú, y en él estaba la copia más antigua de un libro con una de las frases más conocidas del mundo.",
+      "title" : "Un viaje de mil li",
+      "translationGroup" : "thousand-li"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-22",
+      "id" : "thousand-li-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Ci sono + a plural noun says what there is in a place (c'è for one thing); the place, like dentro, can come first.",
+              "example" : "Dentro ci sono strisce sottili di bambù con parole antiche.",
+              "title" : "Ci sono: saying what is in a place"
+            },
+            {
+              "body" : "When nessuno (nobody) comes before the verb, Italian does not add non: nessuno sa = nobody knows.",
+              "example" : "Nessuno sa davvero chi è l'autore.",
+              "title" : "Nessuno sa: no non before the verb"
+            },
+            {
+              "body" : "Fai is the friendly tu form of fare used as a tip: fai un passo = take a step. Italian says fare un passo, \"to make a step\".",
+              "example" : "Quindi oggi fai anche tu un piccolo passo.",
+              "title" : "Fai: the tu imperative of fare"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, siamo nell'ottobre del 1993, in Cina. Alcune persone aprono una piccola tomba vicino a Jingmen. Dentro ci sono strisce sottili di bambù con parole antiche.",
+            "Le strisce fanno parte di un libro molto antico, il Laozi. Nessuno sa davvero chi è l'autore.",
+            "Nel libro c'è una frase famosa. Un viaggio di mille li comincia con un passo. Un li è circa mezzo chilometro.",
+            "La strada è lunga, ma il passo è piccolo. Quindi oggi fai anche tu un piccolo passo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement like arrivare take essere, and the participle agrees with the subject (sono arrivati); most other verbs take avere (hanno lasciato).",
+              "example" : "Dei ladri sono arrivati prima di loro, ma hanno lasciato lì il bambù.",
+              "title" : "Passato prossimo with essere or avere"
+            },
+            {
+              "body" : "C'erano is the imperfect of ci sono: it describes what was there, the background of the story, not an action.",
+              "example" : "Dentro c'erano circa 800 strisce sottili di bambù, scritte intorno al 300 a.C.",
+              "title" : "C'erano: there were"
+            },
+            {
+              "body" : "Non goes right before the verb to make it negative; che (that) introduces what is said.",
+              "example" : "La frase non dice che il primo passo è facile.",
+              "title" : "Non dice che …: not + verb + che"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nell'ottobre del 1993 alcuni archeologi hanno aperto una piccola tomba vicino a Jingmen, in Cina. Dei ladri sono arrivati prima di loro, ma hanno lasciato lì il bambù.",
+            "Dentro c'erano circa 800 strisce sottili di bambù, scritte intorno al 300 a.C. Su alcune c'era la copia più antica di un libro famoso, il Laozi.",
+            "Nessuno sa davvero chi l'ha scritto. Però nel libro c'è una frase che la gente dice ancora oggi.",
+            "Un viaggio di mille li comincia con un passo. Il li è una vecchia misura, circa mezzo chilometro, quindi è proprio tanta strada.",
+            "La frase non dice che il primo passo è facile. Dice solo che le cose grandi nascono piccole. Allora oggi fai anche tu un piccolo passo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect of essere or avere + past participle tells what had already happened before the main past moment (before the archaeologists came in).",
+              "example" : "Dei ladri ci erano già entrati, ma per fortuna avevano lasciato il bambù.",
+              "title" : "Trapassato prossimo: erano entrati, avevano lasciato"
+            },
+            {
+              "body" : "In speech Italian often puts the object first and repeats it with a pronoun (la) before the verb, to stress it.",
+              "example" : "Però la sua frase più famosa la conoscono in tanti: «Un viaggio di mille li comincia con un passo».",
+              "title" : "La … la conoscono: putting the object first"
+            },
+            {
+              "body" : "After non vuol dire che (it doesn't mean that), the verb goes into the subjunctive: sia, not è.",
+              "example" : "Non vuol dire che la meta non sia importante, o che il primo passo sia facile.",
+              "title" : "Non vuol dire che + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nell'ottobre del 1993 alcuni archeologi sono scesi in una piccola tomba vicino a Jingmen, nella Cina centrale. Dei ladri ci erano già entrati, ma per fortuna avevano lasciato il bambù.",
+            "Dentro c'erano circa 800 strisce sottili di bambù, scritte intorno al 300 a.C. E tra queste c'era la copia più antica del Laozi mai trovata.",
+            "Nessuno sa con certezza chi ha scritto il libro. Però la sua frase più famosa la conoscono in tanti: «Un viaggio di mille li comincia con un passo».",
+            "Non vuol dire che la meta non sia importante, o che il primo passo sia facile. E poco prima il libro dice che un albero troppo grande da abbracciare nasce da un germoglio piccolissimo.",
+            "Le cose grandi sono fatte di cose piccole. Se stai imparando una lingua, ecco i tuoi mille li, e una storia al giorno è un passo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Lasciarsi sfuggire qualcosa = to miss something you could have had; here in the trapassato prossimo, with essere because the verb is reflexive.",
+              "example" : "Dei ladri ci erano già entrati, ma si erano lasciati sfuggire la cosa che contava di più: il bambù.",
+              "title" : "Si erano lasciati sfuggire: to let slip"
+            },
+            {
+              "body" : "After a superlative (la più antica), the relative clause takes the subjunctive: che abbiano mai trovato = that anyone (literally \"they\") has ever found.",
+              "example" : "E tra queste c'era la copia più antica del Laozi che abbiano mai trovato, il libro che chiamano anche Daodejing.",
+              "title" : "The superlative + che + subjunctive"
+            },
+            {
+              "body" : "Così + adjective + che gives a result: un albero così grosso che non riesci ad abbracciarlo = a tree so big you can't hug it; lo is joined to the infinitive.",
+              "example" : "Subito prima, il capitolo fa notare che un albero così grosso che non riesci ad abbracciarlo nasce da un germoglio piccolissimo.",
+              "title" : "Così … che: so … that"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nell'ottobre del 1993 alcuni archeologi sono scesi in una piccola tomba vicino a Jingmen, nella Cina centrale. Dei ladri ci erano già entrati, ma si erano lasciati sfuggire la cosa che contava di più: il bambù.",
+            "Lì dentro c'erano circa 800 strisce sottili, scritte intorno al 300 a.C. E tra queste c'era la copia più antica del Laozi che abbiano mai trovato, il libro che chiamano anche Daodejing.",
+            "E il bello è che nessuno sa davvero chi l'ha scritto. La sua frase più citata è nel capitolo 64: «Un viaggio di mille li comincia con un passo».",
+            "Un li è circa mezzo chilometro. La frase non vuol dire che la meta non conti, o che cominciare sia facile. Subito prima, il capitolo fa notare che un albero così grosso che non riesci ad abbracciarlo nasce da un germoglio piccolissimo.",
+            "Le cose grandi sono fatte di cose piccole. Se stai imparando una lingua, ecco i tuoi mille li, e una storia al giorno è un passo su quella strada."
+          ]
+        }
+      ],
+      "summary" : "Nel 1993 dei ladri sono entrati in una tomba in Cina, ma hanno lasciato lì il bambù, e su quel bambù c'era la copia più antica di un libro con una delle frasi più famose del mondo.",
+      "title" : "Mille li",
+      "translationGroup" : "thousand-li"
     }
   ]
 }
