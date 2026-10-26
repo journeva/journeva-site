@@ -1,5 +1,5 @@
 {
-  "contentVersion" : 20,
+  "contentVersion" : 21,
   "generatedAt" : "2026-10-26",
   "glossary" : {
     "english" : [
@@ -5223,7 +5223,8 @@
       {
         "forms" : [
           "repeated",
-          "repeating"
+          "repeating",
+          "repeats"
         ],
         "note" : "\"Repeating\" is the present participle.",
         "pos" : "verb",
@@ -6422,7 +6423,8 @@
       {
         "forms" : [
           "team",
-          "team's"
+          "team's",
+          "teams"
         ],
         "note" : "As in \"the small team.\"",
         "pos" : "noun",
@@ -27386,6 +27388,556 @@
         "note" : "British spelling (American: tires); in Formula 1, medium tyres are faster, hard tyres last longer.",
         "pos" : "noun",
         "translation" : "tyres (the rubber wheels of a car)"
+      },
+      {
+        "forms" : [
+          "chicken"
+        ],
+        "note" : "The bird and its meat; as food it has no a: some chicken, 600 g of chicken.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "g"
+        ],
+        "note" : "Short for gram or grams: 600 g, 150 g; read it \"grams\".",
+        "pos" : "noun",
+        "translation" : "gram(s)"
+      },
+      {
+        "forms" : [
+          "ml"
+        ],
+        "note" : "Short for millilitre(s): 100 ml of cream; read it \"millilitres\".",
+        "pos" : "noun",
+        "translation" : "millilitre(s)"
+      },
+      {
+        "forms" : [
+          "ginger"
+        ],
+        "note" : "A hot, fresh-tasting root used in cooking; here grated into the yoghurt.",
+        "pos" : "noun",
+        "translation" : "ginger"
+      },
+      {
+        "forms" : [
+          "grill"
+        ],
+        "note" : "An imperative in the recipe: grill it until it's brown.",
+        "pos" : "verb",
+        "translation" : "to cook under or over strong heat"
+      },
+      {
+        "forms" : [
+          "spices"
+        ],
+        "note" : "Dried seeds, roots or bark that give food taste and heat: cumin, paprika, garam masala.",
+        "pos" : "noun",
+        "translation" : "spices"
+      },
+      {
+        "forms" : [
+          "thighs"
+        ],
+        "note" : "Chicken thighs stay juicy when they cook, which is why curries use them.",
+        "pos" : "noun",
+        "translation" : "thighs (the top part of the leg)"
+      },
+      {
+        "forms" : [
+          "mahal"
+        ],
+        "note" : "Mahal means \"palace\" in Urdu and Hindi; it is part of restaurant names: the Shish Mahal in Glasgow, Moti Mahal in Delhi.",
+        "pos" : "noun",
+        "translation" : "Mahal (palace)"
+      },
+      {
+        "forms" : [
+          "chars"
+        ],
+        "note" : "To char is to cook until the outside is slightly burnt, which gives grilled food its taste.",
+        "pos" : "verb",
+        "translation" : "burns a little, goes black at the edges"
+      },
+      {
+        "forms" : [
+          "600"
+        ],
+        "note" : "Said \"six hundred\"; 600 g is the chicken for four people.",
+        "pos" : "number",
+        "translation" : "600"
+      },
+      {
+        "forms" : [
+          "1947"
+        ],
+        "note" : "The year of Partition, when British India was split into India and Pakistan.",
+        "pos" : "number",
+        "translation" : "1947"
+      },
+      {
+        "forms" : [
+          "2024"
+        ],
+        "note" : "Said \"twenty twenty-four\".",
+        "pos" : "number",
+        "translation" : "2024"
+      },
+      {
+        "forms" : [
+          "50"
+        ],
+        "note" : "Said \"fifty\"; 50 g of butter.",
+        "pos" : "number",
+        "translation" : "50"
+      },
+      {
+        "forms" : [
+          "black"
+        ],
+        "note" : "\"Until it's a bit black\" = until the edges burn a little, as on a grill.",
+        "pos" : "adjective",
+        "translation" : "black"
+      },
+      {
+        "forms" : [
+          "cousin"
+        ],
+        "note" : "The child of your aunt or uncle; Kundan Lal Jaggi was Gujral's cousin.",
+        "pos" : "noun",
+        "translation" : "cousin"
+      },
+      {
+        "forms" : [
+          "delhi"
+        ],
+        "note" : "The capital region of India; Moti Mahal opened in Daryaganj, in Old Delhi.",
+        "pos" : "noun",
+        "translation" : "Delhi"
+      },
+      {
+        "forms" : [
+          "divided"
+        ],
+        "note" : "Past participle of divide; \"when India was divided\" = when it was split into two countries in 1947.",
+        "pos" : "verb",
+        "translation" : "split into parts"
+      },
+      {
+        "forms" : [
+          "founders"
+        ],
+        "note" : "The founders of a restaurant are the people who opened it.",
+        "pos" : "noun",
+        "translation" : "the people who started something"
+      },
+      {
+        "forms" : [
+          "furnace"
+        ],
+        "note" : "\"As hot as a furnace\" = extremely hot.",
+        "pos" : "noun",
+        "translation" : "a very hot oven for fire"
+      },
+      {
+        "forms" : [
+          "gujral",
+          "gujrals"
+        ],
+        "note" : "Kundan Lal Gujral, one of Moti Mahal's founders; \"the Gujrals\" = his family.",
+        "pos" : "noun",
+        "translation" : "Gujral"
+      },
+      {
+        "forms" : [
+          "jaggi",
+          "jaggis"
+        ],
+        "note" : "Kundan Lal Jaggi, Gujral's cousin and partner; \"the Jaggis\" = his family.",
+        "pos" : "noun",
+        "translation" : "Jaggi"
+      },
+      {
+        "forms" : [
+          "kundan"
+        ],
+        "note" : "A first name; both founders of Moti Mahal were called Kundan Lal.",
+        "pos" : "noun",
+        "translation" : "Kundan"
+      },
+      {
+        "forms" : [
+          "lal"
+        ],
+        "note" : "Part of the first name Kundan Lal, shared by the two cooks.",
+        "pos" : "noun",
+        "translation" : "Lal"
+      },
+      {
+        "forms" : [
+          "leftovers"
+        ],
+        "note" : "Leftovers are what nobody ate, often eaten the next day.",
+        "pos" : "noun",
+        "translation" : "food left after a meal"
+      },
+      {
+        "forms" : [
+          "moti"
+        ],
+        "note" : "Part of the restaurant's name, Moti Mahal, \"the Pearl Palace\".",
+        "pos" : "noun",
+        "translation" : "Moti (pearl)"
+      },
+      {
+        "forms" : [
+          "palace"
+        ],
+        "note" : "A big, grand house for a king or queen; Moti Mahal means \"Pearl Palace\".",
+        "pos" : "noun",
+        "translation" : "palace"
+      },
+      {
+        "forms" : [
+          "partition"
+        ],
+        "note" : "With a capital P: the 1947 split of British India into India and Pakistan, when millions had to leave home.",
+        "pos" : "noun",
+        "translation" : "Partition (1947)"
+      },
+      {
+        "forms" : [
+          "pearl"
+        ],
+        "note" : "A small, round, shiny white stone that grows inside a shell.",
+        "pos" : "noun",
+        "translation" : "pearl"
+      },
+      {
+        "forms" : [
+          "peshawar"
+        ],
+        "note" : "A city in what is now north-west Pakistan, where the two cooks came from.",
+        "pos" : "noun",
+        "translation" : "Peshawar"
+      },
+      {
+        "forms" : [
+          "split"
+        ],
+        "note" : "Split, split, split: the past is the same; \"Partition split India\" = divided it.",
+        "pos" : "verb",
+        "translation" : "divided"
+      },
+      {
+        "forms" : [
+          "tandoor"
+        ],
+        "note" : "A tall clay oven heated very hot with charcoal or wood; food cooked in it is tandoori.",
+        "pos" : "noun",
+        "translation" : "tandoor, a clay oven"
+      },
+      {
+        "forms" : [
+          "tandoori"
+        ],
+        "note" : "Tandoori chicken is marinated in yoghurt and spices and cooked in a tandoor.",
+        "pos" : "adjective",
+        "translation" : "cooked in a tandoor"
+      },
+      {
+        "forms" : [
+          "10,000"
+        ],
+        "note" : "Read it \"ten thousand\"; English writes a comma between thousands: 10,000.",
+        "pos" : "number",
+        "translation" : "ten thousand"
+      },
+      {
+        "forms" : [
+          "2003"
+        ],
+        "note" : "A year: read it \"two thousand and three\" (or \"two thousand three\").",
+        "pos" : "number",
+        "translation" : "2003"
+      },
+      {
+        "forms" : [
+          "30"
+        ],
+        "note" : "The number 30: 30 million years is thirty million years.",
+        "pos" : "number",
+        "translation" : "thirty"
+      },
+      {
+        "forms" : [
+          "7"
+        ],
+        "note" : "The number 7; in a date, 7 October is read \"the seventh of October\".",
+        "pos" : "number",
+        "translation" : "seven"
+      },
+      {
+        "forms" : [
+          "atom",
+          "atom's"
+        ],
+        "note" : "Everything is made of atoms; the atom's heart is the heart of the atom ('s shows belonging).",
+        "pos" : "noun",
+        "translation" : "the smallest piece of a chemical element"
+      },
+      {
+        "forms" : [
+          "atomic"
+        ],
+        "note" : "Adjective from atom: an atomic clock keeps time by watching the atom's electrons.",
+        "pos" : "adjective",
+        "translation" : "of atoms"
+      },
+      {
+        "forms" : [
+          "nuclear"
+        ],
+        "note" : "Adjective from nucleus; a nuclear clock watches the nucleus and has nothing to do with nuclear power.",
+        "pos" : "adjective",
+        "translation" : "of the nucleus, the centre of an atom"
+      },
+      {
+        "forms" : [
+          "nucleus"
+        ],
+        "note" : "Plural nuclei (say NEW-klee-eye); it is more than 10,000 times smaller than the whole atom.",
+        "pos" : "noun",
+        "translation" : "the tiny centre of an atom"
+      },
+      {
+        "forms" : [
+          "electrons"
+        ],
+        "note" : "Plural of electron; an atomic clock counts the ticks of its electrons.",
+        "pos" : "noun",
+        "translation" : "tiny parts that move around the centre of an atom"
+      },
+      {
+        "forms" : [
+          "laser"
+        ],
+        "note" : "Say LAY-zer; it was first a short form of a long technical name, now an everyday word.",
+        "pos" : "noun",
+        "translation" : "a machine that makes a thin, strong beam of light of one colour"
+      },
+      {
+        "forms" : [
+          "crystal"
+        ],
+        "note" : "Salt and quartz are crystals; here a small crystal holds the thorium.",
+        "pos" : "noun",
+        "translation" : "a hard, clear solid with a regular shape"
+      },
+      {
+        "forms" : [
+          "pendulum"
+        ],
+        "note" : "Plural pendulums; each swing of the pendulum is one tick of the clock.",
+        "pos" : "noun",
+        "translation" : "a weight that swings from side to side in an old clock"
+      },
+      {
+        "forms" : [
+          "swinging"
+        ],
+        "note" : "The -ing form of swing used before a noun, like an adjective: a swinging pendulum.",
+        "pos" : "adjective",
+        "translation" : "moving from side to side"
+      },
+      {
+        "forms" : [
+          "jumps"
+        ],
+        "note" : "Plural of jump; here the tiny jumps of electrons that an atomic clock counts.",
+        "pos" : "noun",
+        "translation" : "sudden changes, small moves up or down"
+      },
+      {
+        "forms" : [
+          "ticks"
+        ],
+        "note" : "Plural of tick (tick-tock); used here for anything a clock counts.",
+        "pos" : "noun",
+        "translation" : "the small, regular sounds or beats of a clock"
+      },
+      {
+        "forms" : [
+          "shines",
+          "shone"
+        ],
+        "note" : "Irregular verb: shine, shone, shone; a laser shines on the crystal.",
+        "pos" : "verb",
+        "translation" : "gives out light; points light at something"
+      },
+      {
+        "forms" : [
+          "slips"
+        ],
+        "note" : "Present with -s: if the laser slips, it drifts off its exact colour.",
+        "pos" : "verb",
+        "translation" : "moves a little away from where it should be"
+      },
+      {
+        "forms" : [
+          "presented"
+        ],
+        "note" : "Past of present (say pri-ZENT as a verb): the teams presented their clocks in a journal.",
+        "pos" : "verb",
+        "translation" : "showed to other people"
+      },
+      {
+        "forms" : [
+          "separately"
+        ],
+        "note" : "Adverb from separate (+ly): they worked separately.",
+        "pos" : "adverb",
+        "translation" : "each on its own, not together"
+      },
+      {
+        "forms" : [
+          "glad"
+        ],
+        "note" : "Glad is used after be, not before a noun: the team was glad.",
+        "pos" : "adjective",
+        "translation" : "happy, pleased"
+      },
+      {
+        "forms" : [
+          "physicists"
+        ],
+        "note" : "Plural of physicist; stress on the first syllable: FIZ-i-sists.",
+        "pos" : "noun",
+        "translation" : "scientists who study physics (matter, energy, light, time)"
+      },
+      {
+        "forms" : [
+          "thorium-229"
+        ],
+        "note" : "Thorium is a metal; 229 names one kind (isotope) of it, read \"thorium two-two-nine\".",
+        "pos" : "noun",
+        "translation" : "thorium-229, a kind of the metal thorium"
+      },
+      {
+        "forms" : [
+          "calcium"
+        ],
+        "note" : "Calcium fluoride is a clear crystal made of calcium and fluorine.",
+        "pos" : "noun",
+        "translation" : "calcium, a soft white metal found in bones, chalk and milk"
+      },
+      {
+        "forms" : [
+          "fluoride"
+        ],
+        "note" : "Say FLOR-ide; you know it from toothpaste, here part of the crystal calcium fluoride.",
+        "pos" : "noun",
+        "translation" : "a compound of the element fluorine"
+      },
+      {
+        "forms" : [
+          "gps"
+        ],
+        "note" : "Short for Global Positioning System; satellites with very exact clocks tell your phone where you are.",
+        "pos" : "noun",
+        "translation" : "GPS, satellite navigation"
+      },
+      {
+        "forms" : [
+          "thorsten"
+        ],
+        "note" : "First name of Thorsten Schumm, the physicist who led the Vienna team at TU Wien.",
+        "pos" : "noun",
+        "translation" : "Thorsten"
+      },
+      {
+        "forms" : [
+          "schumm",
+          "schumm's"
+        ],
+        "note" : "Thorsten Schumm, physicist at TU Wien in Vienna; Schumm's team is the team Schumm led.",
+        "pos" : "noun",
+        "translation" : "Schumm"
+      },
+      {
+        "forms" : [
+          "shiqian"
+        ],
+        "note" : "First name of Shiqian Ding, the physicist who led the Beijing team at Tsinghua University.",
+        "pos" : "noun",
+        "translation" : "Shiqian"
+      },
+      {
+        "forms" : [
+          "ding",
+          "ding's"
+        ],
+        "note" : "Shiqian Ding, physicist at Tsinghua University in Beijing; Ding's team is the team Ding led.",
+        "pos" : "noun",
+        "translation" : "Ding"
+      },
+      {
+        "forms" : [
+          "ekkehard"
+        ],
+        "note" : "First name of Ekkehard Peik, a physicist at PTB, Germany's national institute for measurement.",
+        "pos" : "noun",
+        "translation" : "Ekkehard"
+      },
+      {
+        "forms" : [
+          "peik"
+        ],
+        "note" : "Ekkehard Peik, German physicist who wrote down the idea of a thorium nuclear clock in 2003 with Christian Tamm.",
+        "pos" : "noun",
+        "translation" : "Peik"
+      },
+      {
+        "forms" : [
+          "christian"
+        ],
+        "note" : "A first name; here Christian Tamm, who wrote down the nuclear clock idea with Ekkehard Peik.",
+        "pos" : "noun",
+        "translation" : "Christian"
+      },
+      {
+        "forms" : [
+          "tamm"
+        ],
+        "note" : "Christian Tamm, physicist at PTB in Germany, co-author of the 2003 nuclear clock idea.",
+        "pos" : "noun",
+        "translation" : "Tamm"
+      },
+      {
+        "forms" : [
+          "beijing"
+        ],
+        "note" : "The capital of China, home of Tsinghua University; say bay-JING.",
+        "pos" : "noun",
+        "translation" : "Beijing"
+      },
+      {
+        "forms" : [
+          "electron"
+        ],
+        "note" : "Used before another noun like an adjective: electron jumps are the jumps of electrons.",
+        "pos" : "noun",
+        "translation" : "a tiny part that moves around the centre of an atom"
+      },
+      {
+        "forms" : [
+          "journal"
+        ],
+        "note" : "Nature is the name of a famous science journal; here it does not mean the natural world.",
+        "pos" : "noun",
+        "translation" : "a magazine where scientists publish their work"
       }
     ],
     "french" : [
@@ -27884,7 +28436,8 @@
       },
       {
         "forms" : [
-          "reste"
+          "reste",
+          "restes"
         ],
         "gender" : "masculine",
         "note" : "\"Tout le reste\" = \"all the rest\"; in the plural, \"les restes\" = leftovers, the food left over from a meal.",
@@ -27997,9 +28550,9 @@
           "tout"
         ],
         "gender" : "masculine",
-        "note" : "\"Tout le reste\" = \"all the rest.\"",
+        "note" : "\"Tout le reste\" = all the rest; before an adjective it means very: « tout petit ».",
         "pos" : "pronoun",
-        "translation" : "all, everything"
+        "translation" : "all, everything; (tout petit) very"
       },
       {
         "forms" : [
@@ -28573,9 +29126,9 @@
         "forms" : [
           "bien"
         ],
-        "note" : "A very common adverb of manner.",
+        "note" : "A very common adverb; « bien plus difficile » = much more difficult.",
         "pos" : "adverb",
-        "translation" : "well"
+        "translation" : "well; (bien plus) much"
       },
       {
         "forms" : [
@@ -29487,6 +30040,7 @@
           "disaient-ils",
           "disait",
           "disait-il",
+          "disant",
           "disent"
         ],
         "note" : "Forms of dire (to say): \"disaient\" (ils/elles, imperfect), \"disait\" (il/elle, imperfect), \"disent\" (ils/elles, present), \"disant\" (present participle: \"en disant que\" = saying that); the \"-ils\"/\"-il\" versions are inverted for a question or quotation.",
@@ -29495,7 +30049,8 @@
       },
       {
         "forms" : [
-          "divisez"
+          "divisez",
+          "divisée"
         ],
         "note" : "Diviser (to divide): « divisez » is the vous command, « divisée » the feminine past participle, as in « l'Inde a été divisée » = India was divided.",
         "pos" : "verb",
@@ -30083,6 +30638,7 @@
       {
         "forms" : [
           "grillent",
+          "griller",
           "grillé"
         ],
         "note" : "From griller (to toast or grill): « du pain grillé » = toast, « fais-le griller » = grill it.",
@@ -30891,9 +31447,9 @@
           "millions"
         ],
         "gender" : "masculine",
-        "note" : "Large quantities.",
+        "note" : "Milliers = thousands, millions = millions.",
         "pos" : "noun",
-        "translation" : "thousands / millions"
+        "translation" : "thousands (milliers) / millions (millions)"
       },
       {
         "forms" : [
@@ -31126,18 +31682,18 @@
           "nouvelle",
           "nouvelles"
         ],
-        "note" : "\"Nouveau\" (masc.), \"nouvelle\" (fem.), \"nouvelles\" (fem. plural; also means \"news\").",
+        "note" : "\"Nouveau\" (masc.), \"nouvelle\" (fem.); « la nouvelle » as a noun = the news.",
         "pos" : "adjective",
-        "translation" : "new"
+        "translation" : "new; (la nouvelle) news"
       },
       {
         "forms" : [
           "noyau"
         ],
         "gender" : "masculine",
-        "note" : "The pit of an avocado.",
+        "note" : "The pit of an avocado; in science, le noyau = the nucleus of an atom.",
         "pos" : "noun",
-        "translation" : "pit, seed"
+        "translation" : "pit, seed; nucleus"
       },
       {
         "forms" : [
@@ -31611,6 +32167,7 @@
       },
       {
         "forms" : [
+          "pourraient",
           "pourrait"
         ],
         "note" : "Pouvoir (can), conditional tense.",
@@ -33074,7 +33631,8 @@
       },
       {
         "forms" : [
-          "équipe"
+          "équipe",
+          "équipes"
         ],
         "gender" : "feminine",
         "note" : "A group working together.",
@@ -34543,7 +35101,7 @@
           "dérivant",
           "dérive"
         ],
-        "note" : "Present participle of dériver.",
+        "note" : "« Il dérive » = it drifts (present); « dérivant » is the present participle.",
         "pos" : "verb",
         "translation" : "drifting"
       },
@@ -36919,8 +37477,10 @@
       },
       {
         "forms" : [
+          "s'appelaient",
           "s'appelait",
-          "s'appelle"
+          "s'appelle",
+          "s'appellent"
         ],
         "note" : "Forms of s'appeler.",
         "pos" : "verb",
@@ -38796,7 +39356,8 @@
       },
       {
         "forms" : [
-          "achetait"
+          "achetait",
+          "n'achetait"
         ],
         "note" : "Acheter, imperfect tense.",
         "pos" : "verb",
@@ -40852,7 +41413,8 @@
       {
         "forms" : [
           "fonctionnait",
-          "fonctionne"
+          "fonctionne",
+          "fonctionner"
         ],
         "note" : "Fonctionner; fonctionnait is imperfect, fonctionne is present.",
         "pos" : "verb",
@@ -41149,6 +41711,7 @@
       },
       {
         "forms" : [
+          "incorpore",
           "incorporez"
         ],
         "note" : "Incorporer (to stir into a mixture), imperative: « incorporez » for vous, « incorpore » for tu.",
@@ -41732,9 +42295,9 @@
           "meilleures"
         ],
         "gender" : "feminine",
-        "note" : "Feminine plural comparative of bonne.",
+        "note" : "Feminine plural of meilleur; with « les » it means the best.",
         "pos" : "adjective",
-        "translation" : "better"
+        "translation" : "better; (les meilleures) the best"
       },
       {
         "forms" : [
@@ -44978,6 +45541,8 @@
       },
       {
         "forms" : [
+          "corrige",
+          "corrigeait",
           "corriger"
         ],
         "note" : "Infinitive.",
@@ -50141,6 +50706,7 @@
         "forms" : [
           "quitta",
           "quitte",
+          "quittent",
           "quitter",
           "quitté"
         ],
@@ -50541,9 +51107,9 @@
         "forms" : [
           "vienne"
         ],
-        "note" : "Venir, subjunctive.",
+        "note" : "Venir, subjunctive; with a capital V, Vienne is Vienna, the capital of Austria.",
         "pos" : "verb",
-        "translation" : "comes"
+        "translation" : "comes (venir); Vienne = Vienna"
       },
       {
         "forms" : [
@@ -50603,6 +51169,7 @@
       },
       {
         "forms" : [
+          "brûlant",
           "brûlante"
         ],
         "note" : "Brûlant, feminine brûlante: « un four brûlant » = a scorching-hot oven, « une poêle brûlante » = a sizzling-hot pan.",
@@ -53138,6 +53705,7 @@
       },
       {
         "forms" : [
+          "horloge",
           "horloges"
         ],
         "gender" : "feminine",
@@ -54015,9 +54583,9 @@
         "forms" : [
           "seconde"
         ],
-        "note" : "« Une seconde différence » ; aussi « une seconde » = one second.",
+        "note" : "« Une seconde différence »; « une seconde » = one second of time.",
         "pos" : "adjective",
-        "translation" : "second"
+        "translation" : "second; a second (of time)"
       },
       {
         "forms" : [
@@ -61862,7 +62430,8 @@
       },
       {
         "forms" : [
-          "installer"
+          "installer",
+          "installés"
         ],
         "note" : "« Faire installer des tables » = to have tables put in (after « a fait sortir … et », one faire carries both infinitives); s'installer = to settle: « ils se sont installés à Delhi » = they settled in Delhi.",
         "pos" : "verb",
@@ -64557,6 +65126,685 @@
         "note" : "The US state where Austin is; French says « au Texas » (in Texas), because the name is masculine.",
         "pos" : "noun",
         "translation" : "Texas"
+      },
+      {
+        "forms" : [
+          "chicken"
+        ],
+        "gender" : "masculine",
+        "note" : "English word kept in dish names: « le chicken tikka masala », « le butter chicken » (masculine); French says « poulet » everywhere else.",
+        "pos" : "noun",
+        "translation" : "chicken (in the dish's name)"
+      },
+      {
+        "forms" : [
+          "mahal"
+        ],
+        "gender" : "masculine",
+        "note" : "Mahal = palace in Urdu and Hindi, as in Taj Mahal; « le Shish Mahal » (Glasgow), « le Moti Mahal » (Delhi): masculine, like « restaurant ».",
+        "pos" : "noun",
+        "translation" : "Mahal (palace, in names)"
+      },
+      {
+        "forms" : [
+          "poulet"
+        ],
+        "gender" : "masculine",
+        "note" : "The everyday word for chicken as meat; « le poulet », and « des hauts de cuisse de poulet » = chicken thighs.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "épices"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une épice »; « des épices » = some spices, with des because you do not count them.",
+        "pos" : "noun",
+        "translation" : "spices"
+      },
+      {
+        "forms" : [
+          "gingembre"
+        ],
+        "gender" : "masculine",
+        "note" : "« Du gingembre » = some ginger, with du because you do not count it.",
+        "pos" : "noun",
+        "translation" : "ginger"
+      },
+      {
+        "forms" : [
+          "cuisse"
+        ],
+        "gender" : "feminine",
+        "note" : "« Un haut de cuisse » = the top of the leg, a chicken thigh; « cuisse » alone is the whole leg.",
+        "pos" : "noun",
+        "translation" : "thigh"
+      },
+      {
+        "forms" : [
+          "hauts"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le haut » (the top); in a recipe « des hauts de cuisse » = chicken thighs. As an adjective, haut means high.",
+        "pos" : "noun",
+        "translation" : "tops"
+      },
+      {
+        "forms" : [
+          "g"
+        ],
+        "gender" : "masculine",
+        "note" : "Short for « gramme(s) », read aloud: « 600 g » = « six cents grammes ».",
+        "pos" : "noun",
+        "translation" : "g, grams"
+      },
+      {
+        "forms" : [
+          "ml"
+        ],
+        "gender" : "masculine",
+        "note" : "Short for « millilitre(s) », read aloud: « 100 ml » = « cent millilitres ».",
+        "pos" : "noun",
+        "translation" : "ml, millilitres"
+      },
+      {
+        "forms" : [
+          "600"
+        ],
+        "note" : "Read « six cents »: the -s stays because nothing follows the hundreds.",
+        "pos" : "number",
+        "translation" : "600"
+      },
+      {
+        "forms" : [
+          "fais-le"
+        ],
+        "note" : "Tu imperative of faire + le: « fais-le dorer » = fry it until golden; the pronoun follows the verb with a hyphen.",
+        "pos" : "verb",
+        "translation" : "make it (imperative)"
+      },
+      {
+        "forms" : [
+          "paraît-il"
+        ],
+        "note" : "From paraître (to seem), with the verb before « il » as in a question; slipped into a sentence, it hedges a detail you are not sure of: « et, paraît-il, de la soupe de tomate ».",
+        "pos" : "adverb",
+        "translation" : "apparently, so they say"
+      },
+      {
+        "forms" : [
+          "grille-les"
+        ],
+        "note" : "Tu imperative of griller + les: « grille-les » = grill them, les because « hauts de cuisse » is plural; -er verbs drop the -s in the tu imperative.",
+        "pos" : "verb",
+        "translation" : "grill them (imperative)"
+      },
+      {
+        "forms" : [
+          "noircissent"
+        ],
+        "note" : "Subjunctive of noircir (to blacken, from noir), ils form, after « jusqu'à ce que »: « jusqu'à ce qu'ils noircissent » = until they char.",
+        "pos" : "verb",
+        "translation" : "char, turn black (subjunctive)"
+      },
+      {
+        "forms" : [
+          "1947"
+        ],
+        "note" : "A year, read « mille neuf cent quarante-sept »; the year India was split at Partition and the two cooks came to Delhi.",
+        "pos" : "number",
+        "translation" : "1947"
+      },
+      {
+        "forms" : [
+          "2024"
+        ],
+        "note" : "A year, read « deux mille vingt-quatre »; « en 2024 » = in 2024, with en and no article.",
+        "pos" : "number",
+        "translation" : "2024"
+      },
+      {
+        "forms" : [
+          "50"
+        ],
+        "note" : "Read « cinquante »; « 50 g de beurre » = « cinquante grammes de beurre ».",
+        "pos" : "number",
+        "translation" : "50"
+      },
+      {
+        "forms" : [
+          "peshawar"
+        ],
+        "gender" : "masculine",
+        "note" : "A city in the north-west of the old British India, now in Pakistan; « quitter Peshawar pour Delhi » = to leave Peshawar for Delhi.",
+        "pos" : "noun",
+        "translation" : "Peshawar"
+      },
+      {
+        "forms" : [
+          "delhi"
+        ],
+        "gender" : "masculine",
+        "note" : "The city that holds India's capital, New Delhi; « à Delhi » = in Delhi, with à before a city.",
+        "pos" : "noun",
+        "translation" : "Delhi"
+      },
+      {
+        "forms" : [
+          "kundan"
+        ],
+        "gender" : "masculine",
+        "note" : "First part of the first name Kundan Lal, which both cooks had: Kundan Lal Gujral and his cousin Kundan Lal Jaggi.",
+        "pos" : "noun",
+        "translation" : "Kundan"
+      },
+      {
+        "forms" : [
+          "lal"
+        ],
+        "gender" : "masculine",
+        "note" : "Second part of the first name Kundan Lal, which both cooks had; « Lal » is a common part of names in North India.",
+        "pos" : "noun",
+        "translation" : "Lal"
+      },
+      {
+        "forms" : [
+          "gujral"
+        ],
+        "gender" : "masculine",
+        "note" : "Family name of Kundan Lal Gujral, a founder of the Moti Mahal; « les Gujral » = the Gujral family, with no plural -s.",
+        "pos" : "noun",
+        "translation" : "Gujral"
+      },
+      {
+        "forms" : [
+          "jaggi"
+        ],
+        "gender" : "masculine",
+        "note" : "Family name of Kundan Lal Jaggi, Gujral's cousin and partner; « les Jaggi » = the Jaggi family, with no plural -s.",
+        "pos" : "noun",
+        "translation" : "Jaggi"
+      },
+      {
+        "forms" : [
+          "moti"
+        ],
+        "gender" : "masculine",
+        "note" : "Moti = pearl in Hindi and Urdu; « le Moti Mahal », the « Palais de la Perle », is masculine because « restaurant » is.",
+        "pos" : "noun",
+        "translation" : "Moti (in Moti Mahal)"
+      },
+      {
+        "forms" : [
+          "butter"
+        ],
+        "gender" : "masculine",
+        "note" : "English word kept in the dish's name: « le butter chicken » is masculine; in French it is also called « poulet au beurre ».",
+        "pos" : "noun",
+        "translation" : "butter (in the dish's name)"
+      },
+      {
+        "forms" : [
+          "tandoori"
+        ],
+        "note" : "Never changes its ending: « le poulet tandoori » = chicken marinated in yoghurt and spices and cooked in a tandoor.",
+        "pos" : "adjective",
+        "translation" : "tandoori, cooked in a tandoor"
+      },
+      {
+        "forms" : [
+          "tandoor"
+        ],
+        "gender" : "masculine",
+        "note" : "A deep clay oven, very hot, used in India and Pakistan; « cuit au tandoor » = cooked in the tandoor, with au.",
+        "pos" : "noun",
+        "translation" : "tandoor, clay oven"
+      },
+      {
+        "forms" : [
+          "tribunal"
+        ],
+        "gender" : "masculine",
+        "note" : "« Aller au tribunal » = to go to court; the plural is « les tribunaux », -al becoming -aux.",
+        "pos" : "noun",
+        "translation" : "court (of law)"
+      },
+      {
+        "forms" : [
+          "cour"
+        ],
+        "gender" : "feminine",
+        "note" : "« La Haute Cour de Delhi » = the Delhi High Court; in everyday life « la cour » is also a courtyard or a school playground.",
+        "pos" : "noun",
+        "translation" : "court"
+      },
+      {
+        "forms" : [
+          "cousin"
+        ],
+        "gender" : "masculine",
+        "note" : "« Son cousin » = his or her (male) cousin; a female cousin is « une cousine ».",
+        "pos" : "noun",
+        "translation" : "cousin"
+      },
+      {
+        "forms" : [
+          "prénom"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le même prénom » = the same first name; the family name is « le nom de famille ».",
+        "pos" : "noun",
+        "translation" : "first name"
+      },
+      {
+        "forms" : [
+          "partition"
+        ],
+        "gender" : "feminine",
+        "note" : "« La partition de l'Inde » is the 1947 split of British India into India and Pakistan, often just « la Partition »; « une partition » is also a music score.",
+        "pos" : "noun",
+        "translation" : "Partition (of India, 1947)"
+      },
+      {
+        "forms" : [
+          "palais"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le Palais de la Perle » = the Pearl Palace, the meaning of Moti Mahal; palais ends in -s even in the singular.",
+        "pos" : "noun",
+        "translation" : "palace"
+      },
+      {
+        "forms" : [
+          "perle"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une perle » = a pearl; « le Palais de la Perle » = the Pearl Palace. Said of a person, « une perle » is a gem.",
+        "pos" : "noun",
+        "translation" : "pearl"
+      },
+      {
+        "forms" : [
+          "séchaient"
+        ],
+        "note" : "Sécher (to dry), imparfait, ils form: it happened again and again; the adjective is sec, feminine sèche.",
+        "pos" : "verb",
+        "translation" : "dried out, were drying"
+      },
+      {
+        "forms" : [
+          "desséchaient"
+        ],
+        "note" : "Se dessécher (to dry out completely), imparfait, ils form; « se desséchaient » is stronger than « séchaient ».",
+        "pos" : "verb",
+        "translation" : "dried out, dried up"
+      },
+      {
+        "forms" : [
+          "recyclés"
+        ],
+        "note" : "Past participle of recycler; « on les a recyclés »: it agrees with « les » (the leftovers), placed before avoir. « Recycler les restes » = to turn leftovers into a new dish.",
+        "pos" : "verb",
+        "translation" : "recycled, reused"
+      },
+      {
+        "forms" : [
+          "repartis"
+        ],
+        "note" : "Past participle of repartir (re- + partir), with être: « ils sont repartis de zéro » = they started over from scratch.",
+        "pos" : "verb",
+        "translation" : "started again, set off again"
+      },
+      {
+        "forms" : [
+          "noircisse"
+        ],
+        "note" : "Subjunctive of noircir (to blacken, from noir), il form, after « jusqu'à ce que »: « jusqu'à ce qu'il noircisse un peu » = until it's a bit black.",
+        "pos" : "verb",
+        "translation" : "turns black, chars (subjunctive)"
+      },
+      {
+        "forms" : [
+          "pékin"
+        ],
+        "gender" : "masculine",
+        "note" : "The French name for Beijing, the capital of China, home of Shiqian Ding's team; « à Pékin » = in Beijing.",
+        "pos" : "noun",
+        "translation" : "Beijing"
+      },
+      {
+        "forms" : [
+          "atome"
+        ],
+        "gender" : "masculine",
+        "note" : "Un atome, the tiny building block of everything; « le cœur d'un atome » = the heart of an atom.",
+        "pos" : "noun",
+        "translation" : "atom"
+      },
+      {
+        "forms" : [
+          "l'atome"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + atome, shortened before the vowel: « le cœur de l'atome » = the heart of the atom.",
+        "pos" : "noun",
+        "translation" : "the atom"
+      },
+      {
+        "forms" : [
+          "laser"
+        ],
+        "gender" : "masculine",
+        "note" : "Un laser, said « la-zèr »; « une lumière laser » = laser light, where laser works like an adjective and never takes an -s.",
+        "pos" : "noun",
+        "translation" : "laser"
+      },
+      {
+        "forms" : [
+          "l'éclaire"
+        ],
+        "note" : "L' (it) + éclaire, present of éclairer (to light up): the object pronoun comes before the verb, « un laser l'éclaire » = a laser shines on it.",
+        "pos" : "verb",
+        "translation" : "lights it up, shines on it"
+      },
+      {
+        "forms" : [
+          "l'éclairait"
+        ],
+        "note" : "L' (it) + éclairait, imparfait of éclairer, for the background of the story: « un laser l'éclairait » = a laser was shining on it.",
+        "pos" : "verb",
+        "translation" : "lit it up, was shining on it"
+      },
+      {
+        "forms" : [
+          "trompait",
+          "trompe"
+        ],
+        "note" : "From « se tromper » (to be wrong, to make a mistake), reflexive: « le laser se trompe ? » = is the laser wrong?; « se trompait » is the imparfait, for each time it happened.",
+        "pos" : "verb",
+        "translation" : "is wrong, goes wrong"
+      },
+      {
+        "forms" : [
+          "2003"
+        ],
+        "note" : "Read « deux mille trois »: « en 2003 » = in 2003, « depuis 2003 » = since 2003.",
+        "pos" : "number",
+        "translation" : "2003"
+      },
+      {
+        "forms" : [
+          "gps"
+        ],
+        "gender" : "masculine",
+        "note" : "Le GPS, said letter by letter « gé-pé-esse »; it means both the satellite system and the box or app in your car or phone.",
+        "pos" : "noun",
+        "translation" : "GPS"
+      },
+      {
+        "forms" : [
+          "7"
+        ],
+        "note" : "Read « sept » (the p is silent): « le 7 octobre » = on 7 October, with « le » and no word for « on ».",
+        "pos" : "number",
+        "translation" : "7, seven"
+      },
+      {
+        "forms" : [
+          "thorsten"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Thorsten Schumm, the physicist who leads the nuclear clock team at TU Wien, the technical university of Vienna.",
+        "pos" : "noun",
+        "translation" : "Thorsten"
+      },
+      {
+        "forms" : [
+          "schumm"
+        ],
+        "gender" : "masculine",
+        "note" : "Thorsten Schumm, Austrian physicist at TU Wien, whose team ran a nuclear clock on its own in 2026.",
+        "pos" : "noun",
+        "translation" : "Schumm"
+      },
+      {
+        "forms" : [
+          "shiqian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Shiqian Ding, the physicist who leads the nuclear clock team at Tsinghua University in Beijing.",
+        "pos" : "noun",
+        "translation" : "Shiqian"
+      },
+      {
+        "forms" : [
+          "ding"
+        ],
+        "gender" : "masculine",
+        "note" : "Shiqian Ding, Chinese physicist at Tsinghua University in Beijing; in Chinese the family name, Ding, comes first.",
+        "pos" : "noun",
+        "translation" : "Ding"
+      },
+      {
+        "forms" : [
+          "nucléaire",
+          "nucléaires"
+        ],
+        "note" : "From « le noyau » of an atom; « une horloge nucléaire » = a clock that listens to the nucleus, nothing to do with a nuclear power station.",
+        "pos" : "adjective",
+        "translation" : "nuclear"
+      },
+      {
+        "forms" : [
+          "va-et-vient"
+        ],
+        "gender" : "masculine",
+        "note" : "Literally « goes and comes », written with hyphens and never changing in the plural: « le va-et-vient d'un pendule » = the swing of a pendulum.",
+        "pos" : "noun",
+        "translation" : "swinging to and fro, back-and-forth"
+      },
+      {
+        "forms" : [
+          "pendule"
+        ],
+        "gender" : "masculine",
+        "note" : "Le pendule is the swinging weight; careful, « la pendule » (feminine) is a clock on the wall or the mantelpiece.",
+        "pos" : "noun",
+        "translation" : "pendulum"
+      },
+      {
+        "forms" : [
+          "atomique",
+          "atomiques"
+        ],
+        "note" : "From « l'atome »; « une horloge atomique » counts the jumps of electrons, the most exact clocks before nuclear ones.",
+        "pos" : "adjective",
+        "translation" : "atomic"
+      },
+      {
+        "forms" : [
+          "sauts"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le saut » (jump), from sauter; « les sauts des électrons » = the jumps of the electrons.",
+        "pos" : "noun",
+        "translation" : "jumps"
+      },
+      {
+        "forms" : [
+          "électrons"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un électron », the tiny particles that move around the nucleus of an atom.",
+        "pos" : "noun",
+        "translation" : "electrons"
+      },
+      {
+        "forms" : [
+          "battements"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le battement », from battre (to beat): the beats of a heart or the ticks of a clock.",
+        "pos" : "noun",
+        "translation" : "beats, ticks"
+      },
+      {
+        "forms" : [
+          "thorium",
+          "thorium-229"
+        ],
+        "gender" : "masculine",
+        "note" : "A heavy metal; thorium-229 (read « thorium deux cent vingt-neuf ») is the kind whose nucleus can be nudged by a laser, the heart of the new clocks.",
+        "pos" : "noun",
+        "translation" : "thorium, thorium-229"
+      },
+      {
+        "forms" : [
+          "cristal"
+        ],
+        "gender" : "masculine",
+        "note" : "Un cristal, plural « des cristaux »: a clear solid whose atoms sit in neat rows, here holding the thorium.",
+        "pos" : "noun",
+        "translation" : "crystal"
+      },
+      {
+        "forms" : [
+          "absorbe"
+        ],
+        "note" : "Present of absorber, il/elle form: « le thorium absorbe une lumière laser » = the thorium takes in laser light.",
+        "pos" : "verb",
+        "translation" : "absorbs, takes in"
+      },
+      {
+        "forms" : [
+          "décale"
+        ],
+        "note" : "From « se décaler » (to shift a little out of place), reflexive: « si le laser se décale » = if the laser slips.",
+        "pos" : "verb",
+        "translation" : "shifts, slips (out of place)"
+      },
+      {
+        "forms" : [
+          "ramène"
+        ],
+        "note" : "Present of ramener; the e becomes è when the ending is silent: « l'horloge le ramène » = the clock pulls it back.",
+        "pos" : "verb",
+        "translation" : "brings back, pulls back"
+      },
+      {
+        "forms" : [
+          "d'écart"
+        ],
+        "gender" : "masculine",
+        "note" : "De + écart (gap, difference), shortened before the vowel: « une seconde d'écart » = a second off.",
+        "pos" : "noun",
+        "translation" : "of difference, off"
+      },
+      {
+        "forms" : [
+          "l'écart"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + écart, shortened before the vowel: how far a measure is from the right value; « l'écart ? » = how far off?",
+        "pos" : "noun",
+        "translation" : "the gap, the difference"
+      },
+      {
+        "forms" : [
+          "30"
+        ],
+        "note" : "Read « trente »: « 30 millions d'années » = 30 million years, with « de » after millions.",
+        "pos" : "number",
+        "translation" : "30, thirty"
+      },
+      {
+        "forms" : [
+          "physiciens"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un physicien », someone who works in physics (« la physique »); a woman is « une physicienne ».",
+        "pos" : "noun",
+        "translation" : "physicists"
+      },
+      {
+        "forms" : [
+          "10 000"
+        ],
+        "note" : "Read « dix mille »: French groups thousands with a space, not a comma: « 10 000 fois » = 10,000 times.",
+        "pos" : "number",
+        "translation" : "10,000, ten thousand"
+      },
+      {
+        "forms" : [
+          "fluorure"
+        ],
+        "gender" : "masculine",
+        "note" : "Le fluorure; « le fluorure de calcium » = calcium fluoride, the clear crystal that holds the thorium.",
+        "pos" : "noun",
+        "translation" : "fluoride"
+      },
+      {
+        "forms" : [
+          "calcium"
+        ],
+        "gender" : "masculine",
+        "note" : "Le calcium, the same word as in English, said « cal-si-om »; « un cristal de fluorure de calcium » = a calcium fluoride crystal.",
+        "pos" : "noun",
+        "translation" : "calcium"
+      },
+      {
+        "forms" : [
+          "ekkehard"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Ekkehard Peik, German physicist in Braunschweig, who wrote down the idea of a nuclear clock in 2003.",
+        "pos" : "noun",
+        "translation" : "Ekkehard"
+      },
+      {
+        "forms" : [
+          "peik"
+        ],
+        "gender" : "masculine",
+        "note" : "Ekkehard Peik, German physicist who proposed the thorium nuclear clock with Christian Tamm in 2003.",
+        "pos" : "noun",
+        "translation" : "Peik"
+      },
+      {
+        "forms" : [
+          "christian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Christian Tamm, the German physicist who proposed the nuclear clock with Ekkehard Peik in 2003.",
+        "pos" : "noun",
+        "translation" : "Christian"
+      },
+      {
+        "forms" : [
+          "tamm"
+        ],
+        "gender" : "masculine",
+        "note" : "Christian Tamm, German physicist, co-author of the 2003 nuclear clock idea with Ekkehard Peik.",
+        "pos" : "noun",
+        "translation" : "Tamm"
+      },
+      {
+        "forms" : [
+          "blanc"
+        ],
+        "note" : "« Mettre noir sur blanc » = to put in writing, literally black on white: « ils avaient mis l'idée noir sur blanc » = they had written the idea down.",
+        "pos" : "adjective",
+        "translation" : "white"
+      },
+      {
+        "forms" : [
+          "revue"
+        ],
+        "gender" : "feminine",
+        "note" : "Une revue is a magazine or a scientific journal: « la revue Nature » = the journal Nature, where scientists publish their work.",
+        "pos" : "noun",
+        "translation" : "journal, magazine"
       }
     ],
     "german" : [
@@ -65653,9 +66901,9 @@
         "forms" : [
           "einmal"
         ],
-        "note" : "Mehr als einmal = more than once; nicht einmal = not even.",
+        "note" : "Mehr als einmal = more than once; „einmal“ can also mean one day (in the future); nicht einmal = not even.",
         "pos" : "adverb",
-        "translation" : "once; (nicht einmal) not even"
+        "translation" : "once; one day; (nicht einmal) not even"
       },
       {
         "forms" : [
@@ -67222,6 +68470,7 @@
         "forms" : [
           "lang",
           "lange",
+          "langem",
           "langen"
         ],
         "note" : "Case-inflected forms of lang.",
@@ -68171,7 +69420,8 @@
       },
       {
         "forms" : [
-          "rest"
+          "rest",
+          "reste"
         ],
         "gender" : "masculine",
         "note" : "What's left over; the plural „die Reste“ usually means leftovers, food left from a meal.",
@@ -68645,9 +69895,9 @@
           "seine",
           "seinen"
         ],
-        "note" : "\"Sei\" subjunctive of sein (to be); \"seine/seinen\" his (possessive).",
+        "note" : "„Seine/seinen“ = his or its (possessive); „sei“ is the subjunctive of sein (to be).",
         "pos" : "other",
-        "translation" : "be / to be, his / his (case forms)"
+        "translation" : "his, its / be (sei, sein)"
       },
       {
         "forms" : [
@@ -69638,9 +70888,9 @@
           "wege"
         ],
         "gender" : "masculine",
-        "note" : "\"Wege\" is the plural. At the end of a clause, „weg“ is usually the detached half of a separable verb (wegwerfen, weglegen, weggehen …): the meaning is on the verb's card.",
+        "note" : "\"Wege\" is the plural; as „weg“ at the end of a clause it means away and is usually the detached half of a separable verb (wegdriften …).",
         "pos" : "noun",
-        "translation" : "way, path"
+        "translation" : "way, path; away"
       },
       {
         "forms" : [
@@ -70292,8 +71542,15 @@
           "arbeite",
           "arbeiten"
         ],
-        "note" : "Infinitive or plural present of arbeiten.",
+        "note" : "Infinitive or plural present of arbeiten. Separable: … zusammen = zusammenarbeiten, to work together; „Sie arbeiten nicht zusammen“ = they don't work together.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "zusammen",
+            "translation" : "to work together",
+            "verb" : "zusammenarbeiten"
+          }
+        ],
         "translation" : "to work, works"
       },
       {
@@ -73017,6 +74274,7 @@
         "forms" : [
           "schwer",
           "schwere",
+          "schwerer",
           "schwerste"
         ],
         "note" : "Can describe weight or difficulty.",
@@ -73995,9 +75253,9 @@
           "wiederholt",
           "wiederholte"
         ],
-        "note" : "Past tense of wiederholen.",
+        "note" : "„Das sich wiederholt“ = that repeats (present); also the past participle of wiederholen.",
         "pos" : "verb",
-        "translation" : "repeated"
+        "translation" : "repeats; repeated"
       },
       {
         "forms" : [
@@ -75518,7 +76776,10 @@
       },
       {
         "forms" : [
-          "trockene"
+          "trocken",
+          "trockene",
+          "trockenem",
+          "trockenes"
         ],
         "note" : "Trocken (dry) has no ending after „ist“ or „wird“ („es wird trocken“) and takes a case ending before a noun: „trockene Erde“, „trockenes Hähnchen“.",
         "pos" : "adjective",
@@ -78212,7 +79473,8 @@
       },
       {
         "forms" : [
-          "indien"
+          "indien",
+          "indiens"
         ],
         "note" : "A country in South Asia.",
         "pos" : "other",
@@ -79646,7 +80908,7 @@
           "rührst",
           "rührt"
         ],
-        "note" : "Forms of rühren; „rühr!“ is the du imperative. Separable: … ein = einrühren, to stir in; … um = umrühren, to stir; … zusammen = zusammenrühren, to stir together; „Rühr um“ = stir.",
+        "note" : "Forms of rühren; „rühr!“ is the du imperative. Separable: … ein = einrühren, to stir in; … um = umrühren, to stir; … zusammen = zusammenrühren, to stir together; „Rühr um“ = stir; … unter = unterrühren, to stir in; „Rühr Sahne und das Hähnchen unter“ = stir in cream and the chicken.",
         "pos" : "verb",
         "separable" : [
           {
@@ -79658,6 +80920,11 @@
             "particle" : "um",
             "translation" : "to stir",
             "verb" : "umrühren"
+          },
+          {
+            "particle" : "unter",
+            "translation" : "to stir in",
+            "verb" : "unterrühren"
           },
           {
             "particle" : "zusammen",
@@ -83354,7 +84621,8 @@
       },
       {
         "forms" : [
-          "korrigieren"
+          "korrigieren",
+          "korrigiert"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -83923,9 +85191,14 @@
           "nimmst",
           "nimmt"
         ],
-        "note" : "Forms of \"nehmen.\" Separable: … weg = wegnehmen, to take away; „nimmt jeden Kummer weg“ = takes away every sorrow; … heraus = herausnehmen, to take out; „du nimmst den Kern heraus“ = you take out the stone.",
+        "note" : "Forms of \"nehmen.\" Separable: … weg = wegnehmen, to take away; „nimmt jeden Kummer weg“ = takes away every sorrow; … heraus = herausnehmen, to take out; „du nimmst den Kern heraus“ = you take out the stone; … auf = aufnehmen, to take in, absorb; „Es nimmt Laserlicht von genau einer Farbe auf“ = it takes in laser light of one exact colour.",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to take in, absorb",
+            "verb" : "aufnehmen"
+          },
           {
             "particle" : "weg",
             "translation" : "to take away",
@@ -84378,9 +85651,9 @@
           "sekunden"
         ],
         "gender" : "feminine",
-        "note" : "Units of time.",
+        "note" : "Units of time: eine Sekunde, zwei Sekunden.",
         "pos" : "noun",
-        "translation" : "seconds"
+        "translation" : "second(s)"
       },
       {
         "forms" : [
@@ -84537,6 +85810,7 @@
       },
       {
         "forms" : [
+          "gestimmt",
           "stimmt",
           "stimmte"
         ],
@@ -87141,8 +88415,15 @@
           "holt",
           "holte"
         ],
-        "note" : "Holen: present \"er/sie/es\" form and preterite.",
+        "note" : "Holen: present \"er/sie/es\" form and preterite. Separable: … zurück = zurückholen, to bring back, pull back; „holt die Uhr ihn zurück“ = the clock pulls it back.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "zurück",
+            "translation" : "to bring back, pull back",
+            "verb" : "zurückholen"
+          }
+        ],
         "translation" : "fetches, fetched"
       },
       {
@@ -103230,6 +104511,696 @@
         "note" : "Spoken short form of „war es“; „das war's“ = that was it, that's all.",
         "pos" : "verb",
         "translation" : "that was it"
+      },
+      {
+        "forms" : [
+          "600"
+        ],
+        "note" : "Said „sechshundert“: „600 g Hähnchen“ = 600 grams of chicken, with no „of“ in German.",
+        "pos" : "number",
+        "translation" : "600"
+      },
+      {
+        "forms" : [
+          "chicken"
+        ],
+        "gender" : "neuter",
+        "note" : "The English word, kept in dish names: „Chicken Tikka Masala“, „Butter Chicken“; for the meat itself German says „Hähnchen“.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "g"
+        ],
+        "gender" : "neuter",
+        "note" : "Short for das Gramm, written after a number with a space: „600 g“, said „sechshundert Gramm“.",
+        "pos" : "noun",
+        "translation" : "g (grams)"
+      },
+      {
+        "forms" : [
+          "gewürzen"
+        ],
+        "gender" : "neuter",
+        "note" : "Dative plural of das Gewürz (spice), with -n after „mit“ or „aus“: „mit Joghurt, Sahne und Gewürzen“.",
+        "pos" : "noun",
+        "translation" : "spices"
+      },
+      {
+        "forms" : [
+          "grill"
+        ],
+        "note" : "Du imperative of grillen (to grill): „grill das Fleisch!“ = grill the meat!",
+        "pos" : "verb",
+        "translation" : "grill"
+      },
+      {
+        "forms" : [
+          "hähnchen"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Hähnchen, the everyday word for chicken as food; the plural is the same: die Hähnchen.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "hähnchenoberschenkel"
+        ],
+        "gender" : "masculine",
+        "note" : "Compound of Hähnchen + Oberschenkel (thigh); „600 g Hähnchenoberschenkel“ = 600 g of chicken thighs.",
+        "pos" : "noun",
+        "translation" : "chicken thighs"
+      },
+      {
+        "forms" : [
+          "ingwer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Ingwer, the hot root used fresh or ground in Indian cooking.",
+        "pos" : "noun",
+        "translation" : "ginger"
+      },
+      {
+        "forms" : [
+          "mahal"
+        ],
+        "gender" : "neuter",
+        "note" : "Mahal = palace (Urdu, Hindi): „das Shish Mahal“ (palace of glass) in Glasgow, „das Moti Mahal“ (pearl palace) in Delhi; neuter, like „das Restaurant“.",
+        "pos" : "noun",
+        "translation" : "Mahal (palace, in names)"
+      },
+      {
+        "forms" : [
+          "ml"
+        ],
+        "gender" : "masculine",
+        "note" : "Short for der Milliliter, written after a number: „100 ml Sahne“, said „hundert Milliliter“.",
+        "pos" : "noun",
+        "translation" : "ml (millilitres)"
+      },
+      {
+        "forms" : [
+          "verkohlen"
+        ],
+        "note" : "From Kohle (coal): „bis sie leicht verkohlen“ = until they char a little at the edges.",
+        "pos" : "verb",
+        "translation" : "to char"
+      },
+      {
+        "forms" : [
+          "1947"
+        ],
+        "note" : "A year, read „neunzehnhundertsiebenundvierzig“; it goes straight to the front with no „in“, and the verb follows: „1947 gehen zwei Köche …“.",
+        "pos" : "number",
+        "translation" : "1947"
+      },
+      {
+        "forms" : [
+          "2024"
+        ],
+        "note" : "A year, read „zweitausendvierundzwanzig“; with a month: „im Januar 2024“ = in January 2024.",
+        "pos" : "number",
+        "translation" : "2024"
+      },
+      {
+        "forms" : [
+          "50"
+        ],
+        "note" : "Said „fünfzig“: „50 g Butter“ = 50 grams of butter, with no „of“ in German.",
+        "pos" : "number",
+        "translation" : "50"
+      },
+      {
+        "forms" : [
+          "ausgetrocknet"
+        ],
+        "note" : "Partizip II of austrocknen (to dry out), with „sein“: „ist ausgetrocknet“; the -ge- sits between „aus“ and „trocknet“.",
+        "pos" : "verb",
+        "translation" : "dried out"
+      },
+      {
+        "forms" : [
+          "court"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of „der Delhi High Court“, the high court of Delhi; German keeps the English name, where its own word would be „das Gericht“.",
+        "pos" : "noun",
+        "translation" : "Court (in Delhi High Court)"
+      },
+      {
+        "forms" : [
+          "cousin"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Cousin, said the French way („ku-SÄNG“); a female cousin is die Cousine, and the old-fashioned word is der Vetter.",
+        "pos" : "noun",
+        "translation" : "cousin (male)"
+      },
+      {
+        "forms" : [
+          "delhi"
+        ],
+        "gender" : "neuter",
+        "note" : "India's capital, used without an article: „nach Delhi“ = to Delhi, „in Delhi“ = in Delhi.",
+        "pos" : "noun",
+        "translation" : "Delhi"
+      },
+      {
+        "forms" : [
+          "gegrillt"
+        ],
+        "note" : "Partizip II of grillen, with „haben“: „sie haben Hähnchen gegrillt“ = they grilled chicken.",
+        "pos" : "verb",
+        "translation" : "grilled"
+      },
+      {
+        "forms" : [
+          "geteilt"
+        ],
+        "note" : "Partizip II of teilen; „als Indien geteilt wurde“ = when India was divided, the passive (werden + Partizip II).",
+        "pos" : "verb",
+        "translation" : "divided, split"
+      },
+      {
+        "forms" : [
+          "gezogen"
+        ],
+        "note" : "Partizip II of ziehen; with „sein“ it means moving house or country: „sind nach Delhi gezogen“ = moved to Delhi.",
+        "pos" : "verb",
+        "translation" : "moved (to live somewhere); pulled"
+      },
+      {
+        "forms" : [
+          "gujral",
+          "gujrals"
+        ],
+        "note" : "Kundan Lal Gujral, one of the two cooks from Peshawar who opened Moti Mahal in Delhi in 1947; a family name + -s means the whole family: „die Gujrals“.",
+        "pos" : "noun",
+        "translation" : "Gujral; die Gujrals = the Gujral family"
+      },
+      {
+        "forms" : [
+          "high"
+        ],
+        "note" : "Part of the English name „Delhi High Court“, which German keeps as it is: „beim Delhi High Court verklagt“ = sued at the Delhi High Court.",
+        "pos" : "noun",
+        "translation" : "High (in Delhi High Court)"
+      },
+      {
+        "forms" : [
+          "hochofen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Hochofen, from hoch (high) + Ofen (oven), the furnace that melts iron; „heiß wie ein Hochofen“ = as hot as a furnace.",
+        "pos" : "noun",
+        "translation" : "blast furnace"
+      },
+      {
+        "forms" : [
+          "jaggi",
+          "jaggis"
+        ],
+        "note" : "Kundan Lal Jaggi, Kundan Lal Gujral's cousin and the other cook from Peshawar at Moti Mahal; „die Jaggis“ = the Jaggi family.",
+        "pos" : "noun",
+        "translation" : "Jaggi; die Jaggis = the Jaggi family"
+      },
+      {
+        "forms" : [
+          "kundan"
+        ],
+        "note" : "First part of „Kundan Lal“, the first name both cooks had: Kundan Lal Gujral and his cousin Kundan Lal Jaggi.",
+        "pos" : "noun",
+        "translation" : "Kundan"
+      },
+      {
+        "forms" : [
+          "lal"
+        ],
+        "note" : "Second part of the shared first name „Kundan Lal“; Gujral and Jaggi are the family names.",
+        "pos" : "noun",
+        "translation" : "Lal"
+      },
+      {
+        "forms" : [
+          "lehmofen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Lehmofen, from Lehm (clay) + Ofen (oven); a tandoor is a Lehmofen.",
+        "pos" : "noun",
+        "translation" : "clay oven"
+      },
+      {
+        "forms" : [
+          "moti"
+        ],
+        "gender" : "neuter",
+        "note" : "Part of „Moti Mahal“ (pearl palace), the restaurant the two Kundan Lals opened in Delhi in 1947; like most restaurant names it is neuter: „das Moti Mahal“.",
+        "pos" : "noun",
+        "translation" : "Moti (pearl)"
+      },
+      {
+        "forms" : [
+          "perlenpalast"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Perlenpalast, from Perle (pearl) + Palast (palace): what the name „Moti Mahal“ means.",
+        "pos" : "noun",
+        "translation" : "pearl palace"
+      },
+      {
+        "forms" : [
+          "peshawar"
+        ],
+        "gender" : "neuter",
+        "note" : "A city in north-west British India, in Pakistan since 1947; used without an article: „von Peshawar nach Delhi“.",
+        "pos" : "noun",
+        "translation" : "Peshawar"
+      },
+      {
+        "forms" : [
+          "schwarz"
+        ],
+        "note" : "„Schwarz werden“ = to go black; after „werden“ or „sein“ the adjective takes no ending.",
+        "pos" : "adjective",
+        "translation" : "black"
+      },
+      {
+        "forms" : [
+          "tandoor"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Tandoor, the very hot clay oven of Indian and Pakistani cooking; „im Tandoor“ = in the tandoor.",
+        "pos" : "noun",
+        "translation" : "tandoor (clay oven)"
+      },
+      {
+        "forms" : [
+          "tandoori"
+        ],
+        "note" : "From the tandoor; German keeps the name and never adds an ending: „das Tandoori Chicken“.",
+        "pos" : "adjective",
+        "translation" : "tandoori (cooked in a tandoor)"
+      },
+      {
+        "forms" : [
+          "teilung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Teilung, from teilen (to divide); German calls the 1947 Partition of British India into India and Pakistan „die Teilung Indiens“: „bei der Teilung Indiens“ = at Partition.",
+        "pos" : "noun",
+        "translation" : "division; (die Teilung Indiens) Partition"
+      },
+      {
+        "forms" : [
+          "verklagt"
+        ],
+        "note" : "Partizip II of verklagen (to sue, to take to court), with no ge- because ver- never splits off: „haben … verklagt“.",
+        "pos" : "verb",
+        "translation" : "sued"
+      },
+      {
+        "forms" : [
+          "vornamen"
+        ],
+        "gender" : "masculine",
+        "note" : "Accusative of der Vorname, with -n: „denselben Vornamen“ = the same first name; the family name is der Nachname.",
+        "pos" : "noun",
+        "translation" : "first name"
+      },
+      {
+        "forms" : [
+          "zerlass"
+        ],
+        "note" : "Du imperative of zerlassen, the kitchen word for melting butter or fat: „Zerlass 50 g Butter“ = melt 50 g of butter.",
+        "pos" : "verb",
+        "translation" : "melt (butter)"
+      },
+      {
+        "forms" : [
+          "zuhause"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Zuhause, the place where you live and belong: „ihr Zuhause verloren“ = lost their home; written apart, „zu Hause“ = at home.",
+        "pos" : "noun",
+        "translation" : "home"
+      },
+      {
+        "forms" : [
+          "zurückgelassen"
+        ],
+        "note" : "Partizip II of zurücklassen (to leave behind), with -ge- between „zurück“ and „lassen“: „haben alles zurückgelassen“.",
+        "pos" : "verb",
+        "translation" : "left behind"
+      },
+      {
+        "forms" : [
+          "peking"
+        ],
+        "note" : "The German name for Beijing, the capital of China, home of Shiqian Ding's team; „in Peking“ = in Beijing.",
+        "pos" : "other",
+        "translation" : "Beijing"
+      },
+      {
+        "forms" : [
+          "atoms"
+        ],
+        "gender" : "neuter",
+        "note" : "Genitive of das Atom (the tiny building block of everything): „das Herz eines Atoms“ = the heart of an atom.",
+        "pos" : "noun",
+        "translation" : "of an atom, of the atom"
+      },
+      {
+        "forms" : [
+          "laser"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Laser, said as in English „lay-zer“; „Stimmt der Laser nicht?“ = is the laser wrong?",
+        "pos" : "noun",
+        "translation" : "laser"
+      },
+      {
+        "forms" : [
+          "scheint"
+        ],
+        "note" : "Scheinen, er/sie/es form, here in its first meaning, to shine (like the sun): „Ein Laser scheint darauf“ = a laser shines on it; it can also mean to seem.",
+        "pos" : "verb",
+        "translation" : "shines"
+      },
+      {
+        "forms" : [
+          "freut",
+          "gefreut"
+        ],
+        "note" : "Sich freuen (to be glad) is reflexive: „Das Team freut sich“ = the team is happy; Perfekt „hat sich gefreut“.",
+        "pos" : "verb",
+        "translation" : "is glad; was glad"
+      },
+      {
+        "forms" : [
+          "2003"
+        ],
+        "note" : "Read „zweitausenddrei“; a year stands alone in German, with no „in“: „die Idee ist von 2003“.",
+        "pos" : "number",
+        "translation" : "2003"
+      },
+      {
+        "forms" : [
+          "gps"
+        ],
+        "gender" : "neuter",
+        "note" : "Das GPS, said „ge-pe-ess“: the satellite system that tells your phone or car where it is; „beim GPS helfen“ = to help with GPS.",
+        "pos" : "noun",
+        "translation" : "GPS"
+      },
+      {
+        "forms" : [
+          "7"
+        ],
+        "note" : "In a date German writes the number with a full stop: „am 7. Oktober“, said „am siebten Oktober“.",
+        "pos" : "number",
+        "translation" : "7th, seventh"
+      },
+      {
+        "forms" : [
+          "thorsten"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Thorsten Schumm, the physicist who leads the nuclear clock team at TU Wien, the technical university of Vienna.",
+        "pos" : "noun",
+        "translation" : "Thorsten"
+      },
+      {
+        "forms" : [
+          "schumms"
+        ],
+        "gender" : "masculine",
+        "note" : "Thorsten Schumm, Austrian physicist at TU Wien; with a name, the genitive is just -s and goes before the noun: „Schumms Team“ = Schumm's team.",
+        "pos" : "noun",
+        "translation" : "Schumm's"
+      },
+      {
+        "forms" : [
+          "shiqian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Shiqian Ding, the physicist who leads the nuclear clock team at Tsinghua University in Beijing.",
+        "pos" : "noun",
+        "translation" : "Shiqian"
+      },
+      {
+        "forms" : [
+          "dings"
+        ],
+        "gender" : "masculine",
+        "note" : "Shiqian Ding, Chinese physicist at Tsinghua University in Beijing; name + -s = whose: „Shiqian Dings Team“ = Shiqian Ding's team.",
+        "pos" : "noun",
+        "translation" : "Ding's"
+      },
+      {
+        "forms" : [
+          "kernuhr",
+          "kernuhren"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kernuhr, from der Kern (the nucleus of an atom) + die Uhr; plural die Kernuhren. It has nothing to do with nuclear power.",
+        "pos" : "noun",
+        "translation" : "nuclear clock(s)"
+      },
+      {
+        "forms" : [
+          "schwingendes"
+        ],
+        "note" : "Present participle of schwingen (to swing) used as an adjective, with -es for a neuter noun after „ein“: „ein schwingendes Pendel“.",
+        "pos" : "adjective",
+        "translation" : "swinging"
+      },
+      {
+        "forms" : [
+          "pendel"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Pendel, the weight that swings to and fro in an old clock.",
+        "pos" : "noun",
+        "translation" : "pendulum"
+      },
+      {
+        "forms" : [
+          "atomuhr",
+          "atomuhren"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Atomuhr, plural die Atomuhren: a clock that counts the jumps of electrons, the most exact clocks before nuclear ones.",
+        "pos" : "noun",
+        "translation" : "atomic clock(s)"
+      },
+      {
+        "forms" : [
+          "sprünge"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Sprung (jump), with an umlaut: „Sprünge von Elektronen“ = electron jumps.",
+        "pos" : "noun",
+        "translation" : "jumps"
+      },
+      {
+        "forms" : [
+          "elektronen"
+        ],
+        "gender" : "neuter",
+        "note" : "Plural of das Elektron, the tiny particles that move around the nucleus of an atom.",
+        "pos" : "noun",
+        "translation" : "electrons"
+      },
+      {
+        "forms" : [
+          "atomkern"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Atomkern = das Atom + der Kern, the tiny heart of an atom; in a compound the last word gives the gender.",
+        "pos" : "noun",
+        "translation" : "nucleus (of an atom)"
+      },
+      {
+        "forms" : [
+          "zeitschrift"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Zeitschrift, a magazine or a scientific journal: „in der Zeitschrift Nature“ = in the journal Nature.",
+        "pos" : "noun",
+        "translation" : "journal, magazine"
+      },
+      {
+        "forms" : [
+          "nature"
+        ],
+        "gender" : "feminine",
+        "note" : "The English name of a famous science journal, kept in German: „in der Zeitschrift Nature“; feminine like die Zeitschrift.",
+        "pos" : "noun",
+        "translation" : "Nature (a science journal)"
+      },
+      {
+        "forms" : [
+          "funktionierende"
+        ],
+        "note" : "Present participle of funktionieren (to work) used as an adjective: „eine funktionierende Kernuhr“ = a nuclear clock that works.",
+        "pos" : "adjective",
+        "translation" : "working, that works"
+      },
+      {
+        "forms" : [
+          "ticken"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Ticken, the verb ticken used as a noun (capital T): „das Ticken der Elektronen“ = the ticks of the electrons.",
+        "pos" : "noun",
+        "translation" : "ticking, ticks"
+      },
+      {
+        "forms" : [
+          "thorium-229"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Thorium-229, said „Thorium zweihundertneunundzwanzig“: the kind of thorium whose nucleus a laser can nudge, the heart of the new clocks.",
+        "pos" : "noun",
+        "translation" : "thorium-229"
+      },
+      {
+        "forms" : [
+          "kristall"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kristall, a clear solid whose atoms sit in neat rows; „in einem Kristall“ = in a crystal (dative).",
+        "pos" : "noun",
+        "translation" : "crystal"
+      },
+      {
+        "forms" : [
+          "laserlicht"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Laserlicht = der Laser + das Licht; the last part of a compound gives the gender.",
+        "pos" : "noun",
+        "translation" : "laser light"
+      },
+      {
+        "forms" : [
+          "verrutscht"
+        ],
+        "note" : "Verrutschen (to slip out of place), er/sie/es form: „wenn der Laser verrutscht“ = if the laser slips; ver- is not separable.",
+        "pos" : "verb",
+        "translation" : "slips"
+      },
+      {
+        "forms" : [
+          "abweichung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Abweichung, from abweichen (to deviate): how far off a value is; „eine Sekunde Abweichung“ = a second off.",
+        "pos" : "noun",
+        "translation" : "deviation, error"
+      },
+      {
+        "forms" : [
+          "30"
+        ],
+        "note" : "Read „dreißig“: „in 30 Millionen Jahren“ = in 30 million years (dative plural Jahren after in).",
+        "pos" : "number",
+        "translation" : "30, thirty"
+      },
+      {
+        "forms" : [
+          "physiker"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Physiker, same form in the plural: „zwei Physiker“ = two physicists; a woman is eine Physikerin.",
+        "pos" : "noun",
+        "translation" : "physicists"
+      },
+      {
+        "forms" : [
+          "präsentiert"
+        ],
+        "note" : "Partizip II of präsentieren (to present, to show); verbs in -ieren take no ge-: „haben … präsentiert“.",
+        "pos" : "verb",
+        "translation" : "presented"
+      },
+      {
+        "forms" : [
+          "10.000"
+        ],
+        "note" : "Read „zehntausend“: German groups thousands with a dot, not a comma: „über 10.000 Mal kleiner“ = over 10,000 times smaller.",
+        "pos" : "number",
+        "translation" : "10,000, ten thousand"
+      },
+      {
+        "forms" : [
+          "calciumfluorid"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Calciumfluorid (also spelled Kalziumfluorid), the clear crystal that holds the thorium; „aus Calciumfluorid“ = made of calcium fluoride.",
+        "pos" : "noun",
+        "translation" : "calcium fluoride"
+      },
+      {
+        "forms" : [
+          "driftet"
+        ],
+        "note" : "Driften, er/sie/es form. Separable: … weg = wegdriften, to drift away; „Driftet der Laser weg, …“ = if the laser drifts off, …",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "weg",
+            "translation" : "to drift away",
+            "verb" : "wegdriften"
+          }
+        ],
+        "translation" : "drifts"
+      },
+      {
+        "forms" : [
+          "ekkehard"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Ekkehard Peik, German physicist in Braunschweig, who wrote down the idea of a nuclear clock in 2003.",
+        "pos" : "noun",
+        "translation" : "Ekkehard"
+      },
+      {
+        "forms" : [
+          "peik"
+        ],
+        "gender" : "masculine",
+        "note" : "Ekkehard Peik, German physicist who proposed the thorium nuclear clock with Christian Tamm in 2003.",
+        "pos" : "noun",
+        "translation" : "Peik"
+      },
+      {
+        "forms" : [
+          "christian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Christian Tamm, the German physicist who proposed the nuclear clock with Ekkehard Peik in 2003.",
+        "pos" : "noun",
+        "translation" : "Christian"
+      },
+      {
+        "forms" : [
+          "tamm"
+        ],
+        "gender" : "masculine",
+        "note" : "Christian Tamm, German physicist, co-author of the 2003 nuclear clock idea with Ekkehard Peik.",
+        "pos" : "noun",
+        "translation" : "Tamm"
+      },
+      {
+        "forms" : [
+          "vorgeben"
+        ],
+        "note" : "Vorgeben, separable (vor + geben): „den Takt vorgeben“ = to set the beat, to call the tune; here the clocks would keep time for GPS.",
+        "pos" : "verb",
+        "translation" : "to set, to give (a pace)"
       }
     ],
     "italian" : [
@@ -104687,7 +106658,8 @@
       },
       {
         "forms" : [
-          "bianca"
+          "bianca",
+          "bianco"
         ],
         "note" : "Feminine of bianco.",
         "pos" : "adjective",
@@ -104896,6 +106868,7 @@
       {
         "forms" : [
           "calda",
+          "caldissimo",
           "caldo"
         ],
         "note" : "Caldo/calda; caldissimo = very hot (-issimo means very).",
@@ -106246,7 +108219,8 @@
       {
         "forms" : [
           "cuocere",
-          "cuoceva"
+          "cuoceva",
+          "cuocevano"
         ],
         "note" : "Cuocere = to cook, in a pan or in the oven; cuoceva (he/she) and cuocevano (they) are the imperfect: cooked, used to cook.",
         "pos" : "verb",
@@ -107729,8 +109703,10 @@
           "finisci",
           "finiscono",
           "finisse",
+          "finite",
           "finiti",
-          "finito"
+          "finito",
+          "finivano"
         ],
         "note" : "From finire; finire in + place = to end up in: sono finite in tribunale = they ended up in court.",
         "pos" : "verb",
@@ -109109,6 +111085,7 @@
       {
         "forms" : [
           "lasciandoli",
+          "lasciano",
           "lasciare",
           "lasciata",
           "lasciava"
@@ -109763,9 +111740,9 @@
           "migliore",
           "migliori"
         ],
-        "note" : "From migliorare.",
+        "note" : "From migliorare; migliore/migliori = better, with the article the best.",
         "pos" : "verb",
-        "translation" : "improve(s) / better"
+        "translation" : "improve(s) / better; (i migliori) the best"
       },
       {
         "forms" : [
@@ -111351,6 +113328,7 @@
           "potessero",
           "poteva",
           "potrebbe",
+          "potrebbero",
           "potresti",
           "potuto"
         ],
@@ -112446,9 +114424,9 @@
           "ripetere",
           "ripeteva"
         ],
-        "note" : "From ripetere.",
+        "note" : "From ripetere: ripete = repeats (present), ripetendo = repeating.",
         "pos" : "verb",
-        "translation" : "repeating"
+        "translation" : "repeats; repeating"
       },
       {
         "forms" : [
@@ -113020,6 +114998,7 @@
       {
         "forms" : [
           "secca",
+          "secchi",
           "secco"
         ],
         "note" : "Secco, feminine secca, masculine plural secchi (-co becomes -chi): pollo secco = dry chicken.",
@@ -113039,9 +115018,9 @@
         "forms" : [
           "secondo"
         ],
-        "note" : "Secondo can mean the ordinal number or \"according to.\"",
+        "note" : "The ordinal number, \"according to\", or the noun: un secondo = one second of time.",
         "pos" : "other",
-        "translation" : "second / according to"
+        "translation" : "second / according to; a second (of time)"
       },
       {
         "forms" : [
@@ -113796,9 +115775,9 @@
           "spostarli",
           "spostarsi"
         ],
-        "note" : "Reflexive infinitive.",
+        "note" : "From spostare: sposta = moves (present); spostarsi = to move around.",
         "pos" : "verb",
-        "translation" : "to move around / get around"
+        "translation" : "moves; to move around / get around"
       },
       {
         "forms" : [
@@ -114802,7 +116781,8 @@
       },
       {
         "forms" : [
-          "ultimo"
+          "ultimo",
+          "un'ultima"
         ],
         "note" : "The final one; un'ultima (una + ultima) = one last: un'ultima noce di burro.",
         "pos" : "adjective",
@@ -115589,6 +117569,7 @@
       },
       {
         "forms" : [
+          "all'alta",
           "alta",
           "alte",
           "un'alta"
@@ -122977,6 +124958,7 @@
       {
         "forms" : [
           "scioglieranno",
+          "sciogliere",
           "sciolgono"
         ],
         "note" : "From sciogliere/sciogliersi.",
@@ -123278,6 +125260,7 @@
           "vende",
           "vendere",
           "venderla",
+          "vendono",
           "venduta",
           "venduto"
         ],
@@ -129682,6 +131665,7 @@
       },
       {
         "forms" : [
+          "g",
           "grammi"
         ],
         "gender" : "masculine",
@@ -131041,7 +133025,8 @@
       {
         "forms" : [
           "dividere",
-          "dividersi"
+          "dividersi",
+          "divisa"
         ],
         "note" : "Dividere is to split something between people (dividere le notti = to share the nights; dividersi = to share out between them) or to divide a country: l'India è stata divisa = India was divided.",
         "pos" : "verb",
@@ -134140,9 +136125,9 @@
           "calcio"
         ],
         "gender" : "masculine",
-        "note" : "Il calcio is the game; a kick is also un calcio.",
+        "note" : "Il calcio is the game, and a kick is un calcio; in chemistry il calcio = calcium (fluoruro di calcio).",
         "pos" : "noun",
-        "translation" : "football, soccer"
+        "translation" : "football, soccer; calcium"
       },
       {
         "forms" : [
@@ -135244,7 +137229,8 @@
       },
       {
         "forms" : [
-          "sbaglia"
+          "sbaglia",
+          "sbagliava"
         ],
         "note" : "From sbagliare; non sbaglia un colpo = it does not miss a beat.",
         "pos" : "verb",
@@ -135627,6 +137613,660 @@
         "note" : "Imperfect subjunctive of arrivare, needed after a past \"serviva che\": gli serviva che Russell arrivasse nono = he needed Russell to finish ninth.",
         "pos" : "verb",
         "translation" : "(that he) finished, arrived"
+      },
+      {
+        "forms" : [
+          "1947"
+        ],
+        "note" : "Millenovecentoquarantasette, the year of the Partition of India; years take the article: nel 1947 = in 1947.",
+        "pos" : "number",
+        "translation" : "1947"
+      },
+      {
+        "forms" : [
+          "2024"
+        ],
+        "note" : "Duemilaventiquattro; nel 2024 = in 2024, and with a month nel gennaio 2024 = in January 2024.",
+        "pos" : "number",
+        "translation" : "2024"
+      },
+      {
+        "forms" : [
+          "50"
+        ],
+        "note" : "Cinquanta; 50 g di burro = cinquanta grammi di burro, with di between the amount and the food.",
+        "pos" : "number",
+        "translation" : "50"
+      },
+      {
+        "forms" : [
+          "600"
+        ],
+        "note" : "Seicento, written as one word; 600 g = seicento grammi.",
+        "pos" : "number",
+        "translation" : "600"
+      },
+      {
+        "forms" : [
+          "kundan",
+          "lal"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name the two cooks of this story shared: Kundan Lal Gujral and his cousin Kundan Lal Jaggi, who left Peshawar for Delhi in 1947.",
+        "pos" : "noun",
+        "translation" : "Kundan Lal"
+      },
+      {
+        "forms" : [
+          "gujral"
+        ],
+        "gender" : "masculine",
+        "note" : "Kundan Lal Gujral, one of the founders of Moti Mahal; family names do not change in the plural: i Gujral = the Gujral family.",
+        "pos" : "noun",
+        "translation" : "Gujral"
+      },
+      {
+        "forms" : [
+          "jaggi"
+        ],
+        "gender" : "masculine",
+        "note" : "Kundan Lal Jaggi, cousin of Kundan Lal Gujral and co-founder of Moti Mahal; like every family name it stays the same in the plural: i Jaggi.",
+        "pos" : "noun",
+        "translation" : "Jaggi"
+      },
+      {
+        "forms" : [
+          "moti"
+        ],
+        "gender" : "masculine",
+        "note" : "Moti is Hindi and Urdu for pearl: il Moti Mahal, the Pearl Palace, the restaurant the two Kundan Lals opened in Old Delhi; it is masculine, like ristorante.",
+        "pos" : "noun",
+        "translation" : "Moti (pearl)"
+      },
+      {
+        "forms" : [
+          "mahal"
+        ],
+        "note" : "Mahal = palace in Urdu and Hindi: lo Shish Mahal (Glasgow), il Moti Mahal (Delhi).",
+        "pos" : "noun",
+        "translation" : "Mahal (palace, in names)"
+      },
+      {
+        "forms" : [
+          "peshawar"
+        ],
+        "gender" : "feminine",
+        "note" : "A city in the north-west of today's Pakistan; until 1947 it was part of British India.",
+        "pos" : "noun",
+        "translation" : "Peshawar"
+      },
+      {
+        "forms" : [
+          "delhi"
+        ],
+        "gender" : "feminine",
+        "note" : "The capital region of India, where the two cooks started over in 1947; its High Court is l'Alta Corte di Delhi.",
+        "pos" : "noun",
+        "translation" : "Delhi"
+      },
+      {
+        "forms" : [
+          "partizione"
+        ],
+        "gender" : "feminine",
+        "note" : "La Partizione is the division of British India into India and Pakistan in 1947, when millions of people had to leave their homes.",
+        "pos" : "noun",
+        "translation" : "Partition (of India)"
+      },
+      {
+        "forms" : [
+          "pollo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il pollo, the bird and the meat; cosce di pollo = chicken thighs.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "cosce"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of coscia (thigh): cosce di pollo = chicken thighs; -cia loses its i in the plural.",
+        "pos" : "noun",
+        "translation" : "thighs"
+      },
+      {
+        "forms" : [
+          "salsa"
+        ],
+        "gender" : "feminine",
+        "note" : "La salsa: any sauce; a thick tomato sauce is also la salsa di pomodoro.",
+        "pos" : "noun",
+        "translation" : "sauce"
+      },
+      {
+        "forms" : [
+          "spezie"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of spezia (spice), almost always used in the plural.",
+        "pos" : "noun",
+        "translation" : "spices"
+      },
+      {
+        "forms" : [
+          "zenzero"
+        ],
+        "gender" : "masculine",
+        "note" : "Lo zenzero: lo because the word starts with z.",
+        "pos" : "noun",
+        "translation" : "ginger"
+      },
+      {
+        "forms" : [
+          "ml"
+        ],
+        "gender" : "masculine",
+        "note" : "Abbreviation of millilitri: 100 ml di panna = 100 millilitres of cream.",
+        "pos" : "noun",
+        "translation" : "ml (millilitres)"
+      },
+      {
+        "forms" : [
+          "chicken"
+        ],
+        "note" : "English word kept in dish names: chicken tikka masala, butter chicken; in Italian the dish is masculine (il chicken tikka masala, il butter chicken).",
+        "pos" : "other",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "unisci"
+        ],
+        "note" : "Tu imperative of unire (unisco, unisci…): in recipes it means to add one thing to another.",
+        "pos" : "verb",
+        "translation" : "add, combine, stir in"
+      },
+      {
+        "forms" : [
+          "bruciacchiano"
+        ],
+        "note" : "Present of bruciacchiarsi, from bruciare + -acchiare (a little, here and there): si bruciacchiano ai bordi = they char at the edges.",
+        "pos" : "verb",
+        "translation" : "(they) char, get slightly burnt"
+      },
+      {
+        "forms" : [
+          "butter"
+        ],
+        "note" : "English word kept in the dish's name: il butter chicken, which Italians also call pollo al burro (il burro = butter).",
+        "pos" : "other",
+        "translation" : "butter (English)"
+      },
+      {
+        "forms" : [
+          "tandoori"
+        ],
+        "note" : "Said of food cooked in a tandoor, the clay oven of North India and Pakistan; it never changes: il pollo tandoori.",
+        "pos" : "adjective",
+        "translation" : "tandoori (cooked in a tandoor)"
+      },
+      {
+        "forms" : [
+          "tandoor"
+        ],
+        "gender" : "masculine",
+        "note" : "A tall clay oven heated with charcoal or wood, used in North India and Pakistan; Italian keeps the word: il tandoor.",
+        "pos" : "noun",
+        "translation" : "tandoor (clay oven)"
+      },
+      {
+        "forms" : [
+          "terracotta"
+        ],
+        "gender" : "feminine",
+        "note" : "Literally cooked earth (terra cotta): un forno di terracotta = a clay oven; argilla is the raw clay.",
+        "pos" : "noun",
+        "translation" : "terracotta, baked clay"
+      },
+      {
+        "forms" : [
+          "fornace"
+        ],
+        "gender" : "feminine",
+        "note" : "A very hot oven for bricks, glass or metal; caldo come una fornace = as hot as a furnace, also said of a hot room in summer.",
+        "pos" : "noun",
+        "translation" : "furnace, kiln"
+      },
+      {
+        "forms" : [
+          "avanzi"
+        ],
+        "gender" : "masculine",
+        "note" : "Gli avanzi, from avanzare (to be left over): the food left after a meal; niente male, per degli avanzi = not bad for leftovers.",
+        "pos" : "noun",
+        "translation" : "leftovers"
+      },
+      {
+        "forms" : [
+          "cugino"
+        ],
+        "gender" : "masculine",
+        "note" : "Il cugino, la cugina; with a possessive and no other word it takes no article: suo cugino = his cousin.",
+        "pos" : "noun",
+        "translation" : "cousin"
+      },
+      {
+        "forms" : [
+          "tribunale"
+        ],
+        "gender" : "masculine",
+        "note" : "Andare in tribunale = to go to court; finire in tribunale = to end up in court, the everyday words for a legal fight.",
+        "pos" : "noun",
+        "translation" : "court (of law)"
+      },
+      {
+        "forms" : [
+          "corte"
+        ],
+        "gender" : "feminine",
+        "note" : "La corte is a court in official names: l'Alta Corte di Delhi = the Delhi High Court; in everyday talk a court is il tribunale.",
+        "pos" : "noun",
+        "translation" : "court"
+      },
+      {
+        "forms" : [
+          "neri"
+        ],
+        "note" : "Masculine plural of nero, agreeing with i bordi: finché i bordi non diventano neri = until the edges go black.",
+        "pos" : "adjective",
+        "translation" : "black"
+      },
+      {
+        "forms" : [
+          "invenduti"
+        ],
+        "note" : "In- (not) + venduto (sold), masculine plural: i pezzi invenduti = the pieces nobody bought.",
+        "pos" : "adjective",
+        "translation" : "unsold"
+      },
+      {
+        "forms" : [
+          "seccavano"
+        ],
+        "note" : "Imperfect of seccarsi (loro), for what kept happening: si seccavano = they dried out, got dry.",
+        "pos" : "verb",
+        "translation" : "dried out, were drying out"
+      },
+      {
+        "forms" : [
+          "ricominciato"
+        ],
+        "note" : "Past participle of ricominciare (ri- again + cominciare); ricominciare da zero = to start over from nothing.",
+        "pos" : "verb",
+        "translation" : "started again, started over"
+      },
+      {
+        "forms" : [
+          "addirittura"
+        ],
+        "note" : "A spoken word for surprise or emphasis: i Gujral addirittura già a Peshawar = the Gujrals even say it was back in Peshawar.",
+        "pos" : "adverb",
+        "translation" : "even, no less"
+      },
+      {
+        "forms" : [
+          "perla"
+        ],
+        "gender" : "feminine",
+        "note" : "La perla, plural le perle: il Palazzo della Perla = the Pearl Palace, which is what Moti Mahal means.",
+        "pos" : "noun",
+        "translation" : "pearl"
+      },
+      {
+        "forms" : [
+          "nero"
+        ],
+        "note" : "Nero agrees with what it describes, here il pollo (masculine singular): finché non diventa un po' nero = until it goes a bit black; plural neri, feminine nera.",
+        "pos" : "adjective",
+        "translation" : "black"
+      },
+      {
+        "forms" : [
+          "pechino"
+        ],
+        "gender" : "feminine",
+        "note" : "The Italian name for Beijing, the capital of China, home of Shiqian Ding's team; «a Pechino» = in Beijing (a before a city).",
+        "pos" : "noun",
+        "translation" : "Beijing"
+      },
+      {
+        "forms" : [
+          "atomo"
+        ],
+        "gender" : "masculine",
+        "note" : "L'atomo, the tiny building block of everything; «il cuore di un atomo» = the heart of an atom.",
+        "pos" : "noun",
+        "translation" : "atom"
+      },
+      {
+        "forms" : [
+          "dell'atomo"
+        ],
+        "gender" : "masculine",
+        "note" : "Di + l'atomo, joined with an apostrophe before the vowel: «il cuore dell'atomo» = the heart of the atom.",
+        "pos" : "noun",
+        "translation" : "of the atom"
+      },
+      {
+        "forms" : [
+          "laser"
+        ],
+        "gender" : "masculine",
+        "note" : "Il laser, the same in the plural; «la luce laser» = laser light, where laser does not change like an adjective.",
+        "pos" : "noun",
+        "translation" : "laser"
+      },
+      {
+        "forms" : [
+          "illumina",
+          "illuminava"
+        ],
+        "note" : "Illuminare (to light up): illumina is the present, illuminava the imperfect for the background: «un laser lo illuminava» = a laser was shining on it.",
+        "pos" : "verb",
+        "translation" : "lights up, shines on"
+      },
+      {
+        "forms" : [
+          "corregge",
+          "correggeva"
+        ],
+        "note" : "Correggere (to correct): corregge is the present, correggeva the imperfect, for each time it happened: «lo correggeva da solo» = it fixed it by itself.",
+        "pos" : "verb",
+        "translation" : "corrects, fixes"
+      },
+      {
+        "forms" : [
+          "2003"
+        ],
+        "note" : "Read «duemilatré»; a year takes the article: «del 2003» = from 2003, «nel 2003» = in 2003.",
+        "pos" : "number",
+        "translation" : "2003"
+      },
+      {
+        "forms" : [
+          "gps"
+        ],
+        "gender" : "masculine",
+        "note" : "Il GPS, said letter by letter «gi-pi-esse»: the satellite system that tells your phone or car where it is.",
+        "pos" : "noun",
+        "translation" : "GPS"
+      },
+      {
+        "forms" : [
+          "7"
+        ],
+        "note" : "Read «sette»; dates use the plain number with il: «il 7 ottobre» = on 7 October (but «il primo» for the 1st).",
+        "pos" : "number",
+        "translation" : "7, seventh"
+      },
+      {
+        "forms" : [
+          "thorsten"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Thorsten Schumm, the physicist who leads the nuclear clock team at TU Wien, the technical university of Vienna.",
+        "pos" : "noun",
+        "translation" : "Thorsten"
+      },
+      {
+        "forms" : [
+          "schumm"
+        ],
+        "gender" : "masculine",
+        "note" : "Thorsten Schumm, Austrian physicist at TU Wien, whose team ran a nuclear clock on its own in 2026.",
+        "pos" : "noun",
+        "translation" : "Schumm"
+      },
+      {
+        "forms" : [
+          "shiqian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Shiqian Ding, the physicist who leads the nuclear clock team at Tsinghua University in Beijing.",
+        "pos" : "noun",
+        "translation" : "Shiqian"
+      },
+      {
+        "forms" : [
+          "ding"
+        ],
+        "gender" : "masculine",
+        "note" : "Shiqian Ding, Chinese physicist at Tsinghua University in Beijing; in Chinese the family name, Ding, comes first.",
+        "pos" : "noun",
+        "translation" : "Ding"
+      },
+      {
+        "forms" : [
+          "nucleare",
+          "nucleari"
+        ],
+        "note" : "From il nucleo of an atom; «un orologio nucleare» = a clock that listens to the nucleus, nothing to do with nuclear power.",
+        "pos" : "adjective",
+        "translation" : "nuclear"
+      },
+      {
+        "forms" : [
+          "dondolio"
+        ],
+        "gender" : "masculine",
+        "note" : "Il dondolio, from dondolare (to swing, to rock): «il dondolio di un pendolo» = the swing of a pendulum.",
+        "pos" : "noun",
+        "translation" : "swinging, rocking"
+      },
+      {
+        "forms" : [
+          "pendolo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il pendolo, the weight that swings to and fro in an old clock.",
+        "pos" : "noun",
+        "translation" : "pendulum"
+      },
+      {
+        "forms" : [
+          "atomici",
+          "atomico"
+        ],
+        "note" : "From l'atomo; «un orologio atomico» counts the jumps of electrons, the most exact clocks before nuclear ones.",
+        "pos" : "adjective",
+        "translation" : "atomic"
+      },
+      {
+        "forms" : [
+          "salti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il salto, from saltare (to jump): «i salti degli elettroni» = the jumps of the electrons.",
+        "pos" : "noun",
+        "translation" : "jumps"
+      },
+      {
+        "forms" : [
+          "elettroni"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'elettrone, the tiny particles that move around the nucleus of an atom.",
+        "pos" : "noun",
+        "translation" : "electrons"
+      },
+      {
+        "forms" : [
+          "nucleo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il nucleo, the centre of an atom, its tiny heart; also the core of anything.",
+        "pos" : "noun",
+        "translation" : "nucleus"
+      },
+      {
+        "forms" : [
+          "contento"
+        ],
+        "note" : "Contento (feminine contenta): glad about something that happened; «il gruppo era proprio contento» = the team was really glad.",
+        "pos" : "adjective",
+        "translation" : "happy, pleased"
+      },
+      {
+        "forms" : [
+          "rivista"
+        ],
+        "gender" : "feminine",
+        "note" : "La rivista, a magazine or a scientific journal: «sulla rivista Nature» = in the journal Nature (Italian says su, on).",
+        "pos" : "noun",
+        "translation" : "magazine, journal"
+      },
+      {
+        "forms" : [
+          "nature"
+        ],
+        "gender" : "feminine",
+        "note" : "The English name of a famous science journal, kept as it is: «la rivista Nature».",
+        "pos" : "noun",
+        "translation" : "Nature (a science journal)"
+      },
+      {
+        "forms" : [
+          "separatamente"
+        ],
+        "note" : "From separato + -mente: «hanno lavorato separatamente» = they worked separately, each on its own.",
+        "pos" : "adverb",
+        "translation" : "separately"
+      },
+      {
+        "forms" : [
+          "tic-tac"
+        ],
+        "gender" : "masculine",
+        "note" : "Il tic-tac, the sound of a clock: «il tic-tac degli elettroni» = the ticks of the electrons; it never changes in the plural.",
+        "pos" : "noun",
+        "translation" : "tick-tock, ticking"
+      },
+      {
+        "forms" : [
+          "torio",
+          "torio-229"
+        ],
+        "gender" : "masculine",
+        "note" : "Il torio is thorium; torio-229 (read «torio duecentoventinove») is the kind whose nucleus a laser can nudge, the heart of the new clocks.",
+        "pos" : "noun",
+        "translation" : "thorium, thorium-229"
+      },
+      {
+        "forms" : [
+          "cristallo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il cristallo, a clear solid whose atoms sit in neat rows, here holding the thorium; it also means fine glass.",
+        "pos" : "noun",
+        "translation" : "crystal"
+      },
+      {
+        "forms" : [
+          "assorbe"
+        ],
+        "note" : "Assorbire, lui/lei form: «il torio assorbe la luce laser» = the thorium takes in laser light.",
+        "pos" : "verb",
+        "translation" : "absorbs, takes in"
+      },
+      {
+        "forms" : [
+          "30"
+        ],
+        "note" : "Read «trenta»: «30 milioni di anni» = 30 million years, with di after milioni.",
+        "pos" : "number",
+        "translation" : "30, thirty"
+      },
+      {
+        "forms" : [
+          "fisici"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il fisico (physicist), with -ci; la fisica is both physics and a woman physicist.",
+        "pos" : "noun",
+        "translation" : "physicists"
+      },
+      {
+        "forms" : [
+          "10.000"
+        ],
+        "note" : "Read «diecimila»: Italian groups thousands with a dot, not a comma: «10.000 volte» = 10,000 times.",
+        "pos" : "number",
+        "translation" : "10,000, ten thousand"
+      },
+      {
+        "forms" : [
+          "fluoruro"
+        ],
+        "gender" : "masculine",
+        "note" : "Il fluoruro; «fluoruro di calcio» = calcium fluoride (here calcio is the element calcium, not football).",
+        "pos" : "noun",
+        "translation" : "fluoride"
+      },
+      {
+        "forms" : [
+          "l'errore"
+        ],
+        "gender" : "masculine",
+        "note" : "Lo + errore, shortened before the vowel: how far off a measure is; «l'errore?» = how far off?",
+        "pos" : "noun",
+        "translation" : "the error"
+      },
+      {
+        "forms" : [
+          "ekkehard"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Ekkehard Peik, German physicist in Braunschweig, who wrote down the idea of a nuclear clock in 2003.",
+        "pos" : "noun",
+        "translation" : "Ekkehard"
+      },
+      {
+        "forms" : [
+          "peik"
+        ],
+        "gender" : "masculine",
+        "note" : "Ekkehard Peik, German physicist who proposed the thorium nuclear clock with Christian Tamm in 2003.",
+        "pos" : "noun",
+        "translation" : "Peik"
+      },
+      {
+        "forms" : [
+          "christian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Christian Tamm, the German physicist who proposed the nuclear clock with Ekkehard Peik in 2003.",
+        "pos" : "noun",
+        "translation" : "Christian"
+      },
+      {
+        "forms" : [
+          "tamm"
+        ],
+        "gender" : "masculine",
+        "note" : "Christian Tamm, German physicist, co-author of the 2003 nuclear clock idea with Ekkehard Peik.",
+        "pos" : "noun",
+        "translation" : "Tamm"
+      },
+      {
+        "forms" : [
+          "capi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il capo (head; end); «ai due capi del mondo» = at the two ends of the world, far apart.",
+        "pos" : "noun",
+        "translation" : "ends"
       }
     ],
     "spanish" : [
@@ -136561,7 +139201,8 @@
       {
         "forms" : [
           "comparten",
-          "compartir"
+          "compartir",
+          "compartían"
         ],
         "note" : "\"Compartir\" infinitive, \"comparten\" ellos form, \"compartían\" ellos imperfect: hasta compartían nombre = they even shared a name.",
         "pos" : "verb",
@@ -136957,7 +139598,8 @@
         "forms" : [
           "devolver",
           "devolviste",
-          "devolvió"
+          "devolvió",
+          "devuelve"
         ],
         "note" : "\"Devolver\" infinitive, \"devolviste\" past tense.",
         "pos" : "verb",
@@ -137045,7 +139687,8 @@
       },
       {
         "forms" : [
-          "divide"
+          "divide",
+          "dividieron"
         ],
         "note" : "Dividir (to divide): divide is the tú command form (divide la tarea grande = divide the big task), and dividieron the ellos pretérito, often standing in for a passive (cuando dividieron la India = when India was divided).",
         "pos" : "verb",
@@ -137319,7 +139962,8 @@
       },
       {
         "forms" : [
-          "equipo"
+          "equipo",
+          "equipos"
         ],
         "gender" : "masculine",
         "note" : "A group working together.",
@@ -138460,9 +141104,9 @@
           "miles",
           "millones"
         ],
-        "note" : "Large quantities.",
+        "note" : "Miles = thousands, millones = millions.",
         "pos" : "noun",
-        "translation" : "thousands / millions"
+        "translation" : "thousands (miles) / millions (millones)"
       },
       {
         "forms" : [
@@ -139068,6 +141712,7 @@
       {
         "forms" : [
           "podría",
+          "podrían",
           "podía",
           "podían"
         ],
@@ -139892,7 +142537,7 @@
         "forms" : [
           "tan"
         ],
-        "note" : "Intensifies an adjective — \"tan sûrs\" (so sure).",
+        "note" : "Intensifies an adjective: \"tan seguros\" (so sure).",
         "pos" : "adverb",
         "translation" : "so"
       },
@@ -141390,9 +144035,9 @@
           "cuenta"
         ],
         "gender" : "feminine",
-        "note" : "As in \"lo que de verdad cuenta\" (what really counts) — also a verb form of contar.",
+        "note" : "\"Lo que de verdad cuenta\" = what really counts; \"todo reloj cuenta algo\" = every clock counts something.",
         "pos" : "noun",
-        "translation" : "account, realize"
+        "translation" : "account; counts (contar)"
       },
       {
         "forms" : [
@@ -142606,6 +145251,7 @@
       {
         "forms" : [
           "lograr",
+          "lograron",
           "logro"
         ],
         "note" : "\"Logro\" is also the noun \"achievement.\"",
@@ -143708,7 +146354,8 @@
       },
       {
         "forms" : [
-          "seguía"
+          "seguía",
+          "seguían"
         ],
         "note" : "Imperfect tense of seguir.",
         "pos" : "verb",
@@ -144880,9 +147527,9 @@
         "forms" : [
           "segundo"
         ],
-        "note" : "\"El segundo\" (the second one).",
+        "note" : "\"El segundo\" = the second one; \"un segundo\" = one second of time.",
         "pos" : "adjective",
-        "translation" : "second"
+        "translation" : "second; a second (of time)"
       },
       {
         "forms" : [
@@ -147160,7 +149807,8 @@
       {
         "forms" : [
           "funciona",
-          "funcionaba"
+          "funcionaba",
+          "funcionar"
         ],
         "note" : "Funcionar; funcionaba is imperfect tense.",
         "pos" : "verb",
@@ -152068,9 +154716,9 @@
         "forms" : [
           "largos"
         ],
-        "note" : "Plural of \"largo.\"",
+        "note" : "Plural of \"largo\"; after a number of years it means more than: \"quince años largos\".",
         "pos" : "adjective",
-        "translation" : "long (masculine plural)"
+        "translation" : "long; (quince años largos) a good fifteen years"
       },
       {
         "forms" : [
@@ -153550,7 +156198,8 @@
       },
       {
         "forms" : [
-          "sobra"
+          "sobra",
+          "sobras"
         ],
         "gender" : "feminine",
         "note" : "As in \"de sobra,\" more than enough; in the plural, las sobras are the leftovers of a meal: nada mal para unas sobras = not bad for leftovers.",
@@ -153636,6 +156285,7 @@
       },
       {
         "forms" : [
+          "superior",
           "superiores"
         ],
         "note" : "Better in quality or higher in rank (superiores is the plural): el Tribunal Superior = the High Court.",
@@ -155979,7 +158629,7 @@
           "felices",
           "feliz"
         ],
-        "note" : "Plural of feliz.",
+        "note" : "Singular; the plural is felices.",
         "pos" : "adjective",
         "translation" : "happy"
       },
@@ -157867,6 +160517,7 @@
       },
       {
         "forms" : [
+          "alemanes",
           "alemán"
         ],
         "note" : "«Un estudioso alemán».",
@@ -158202,6 +160853,7 @@
           "conseguido",
           "conseguir",
           "conseguía",
+          "consiguieron",
           "consiguió"
         ],
         "note" : "«Haya conseguido sentarse».",
@@ -158248,9 +160900,9 @@
           "cristales"
         ],
         "gender" : "masculine",
-        "note" : "«Sobre un cristal».",
+        "note" : "«Sobre un cristal» = on a glass; in science, a crystal.",
         "pos" : "noun",
-        "translation" : "glass; glass slides"
+        "translation" : "glass; crystal"
       },
       {
         "forms" : [
@@ -159110,7 +161762,8 @@
       },
       {
         "forms" : [
-          "prima"
+          "prima",
+          "primo"
         ],
         "gender" : "feminine",
         "note" : "«Su prima hermana» = its first cousin, a very close relative; the masculine primo is a male cousin: su primo = his cousin.",
@@ -169129,7 +171782,9 @@
       {
         "forms" : [
           "acaba",
+          "acababan",
           "acabar",
+          "acabaron",
           "acabarse",
           "acabó"
         ],
@@ -169372,6 +172027,7 @@
       },
       {
         "forms" : [
+          "perdieron",
           "perdió"
         ],
         "note" : "Pretérito indefinido of perder: perdió la beca = he lost his scholarship.",
@@ -169697,6 +172353,701 @@
         "note" : "\"Recuperó la posición\" = he got his place back; nouns in -ción are feminine and the plural drops the accent: posiciones.",
         "pos" : "noun",
         "translation" : "position, place"
+      },
+      {
+        "forms" : [
+          "kundan"
+        ],
+        "gender" : "masculine",
+        "note" : "Kundan Lal was the first name of both cooks, Kundan Lal Gujral and his cousin Kundan Lal Jaggi, who opened Moti Mahal in Delhi.",
+        "pos" : "noun",
+        "translation" : "Kundan (first name)"
+      },
+      {
+        "forms" : [
+          "lal"
+        ],
+        "gender" : "masculine",
+        "note" : "The second half of Kundan Lal, the name the two cooks shared; Gujral and Jaggi are their family names.",
+        "pos" : "noun",
+        "translation" : "Lal (in the first name Kundan Lal)"
+      },
+      {
+        "forms" : [
+          "gujral"
+        ],
+        "gender" : "masculine",
+        "note" : "Family name of Kundan Lal Gujral, one of the founders of Moti Mahal; los Gujral = the Gujral family, with the surname left in the singular.",
+        "pos" : "noun",
+        "translation" : "Gujral"
+      },
+      {
+        "forms" : [
+          "jaggi"
+        ],
+        "gender" : "masculine",
+        "note" : "Family name of Kundan Lal Jaggi, Gujral's cousin and partner at Moti Mahal; los Jaggi = the Jaggi family.",
+        "pos" : "noun",
+        "translation" : "Jaggi"
+      },
+      {
+        "forms" : [
+          "peshawar"
+        ],
+        "gender" : "masculine",
+        "note" : "A city in the north-west of today's Pakistan, part of British India until 1947; Spanish keeps the name as it is.",
+        "pos" : "noun",
+        "translation" : "Peshawar"
+      },
+      {
+        "forms" : [
+          "delhi"
+        ],
+        "gender" : "masculine",
+        "note" : "India's capital region; Spanish keeps the English spelling, and the h is silent: DEL-i.",
+        "pos" : "noun",
+        "translation" : "Delhi"
+      },
+      {
+        "forms" : [
+          "moti"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of the restaurant name Moti Mahal, \"pearl palace\" in Hindi and Urdu (moti = pearl); Spanish says el Moti Mahal, masculine like el restaurante.",
+        "pos" : "noun",
+        "translation" : "Moti (in Moti Mahal)"
+      },
+      {
+        "forms" : [
+          "mahal"
+        ],
+        "gender" : "masculine",
+        "note" : "Mahal = palace in Urdu and Hindi: el Shish Mahal (Glasgow), el Moti Mahal (Delhi); masculine, like el restaurante.",
+        "pos" : "noun",
+        "translation" : "Mahal (palace, in names)"
+      },
+      {
+        "forms" : [
+          "tandoor"
+        ],
+        "gender" : "masculine",
+        "note" : "A deep clay oven from South Asia, heated with charcoal or wood until it is very hot; Spanish keeps the word: un tandoor.",
+        "pos" : "noun",
+        "translation" : "tandoor (clay oven)"
+      },
+      {
+        "forms" : [
+          "tandoori"
+        ],
+        "note" : "Says that food was cooked in a tandoor; it never changes its form and goes after the noun: el pollo tandoori.",
+        "pos" : "adjective",
+        "translation" : "tandoori (cooked in a tandoor)"
+      },
+      {
+        "forms" : [
+          "butter"
+        ],
+        "gender" : "masculine",
+        "note" : "An English word kept in the name butter chicken; in Spanish the dish is masculine, el butter chicken, and many menus also call it pollo a la mantequilla.",
+        "pos" : "noun",
+        "translation" : "butter (English, part of the dish's name)"
+      },
+      {
+        "forms" : [
+          "chicken"
+        ],
+        "gender" : "masculine",
+        "note" : "An English word kept in the names chicken tikka, chicken tikka masala and butter chicken; in Spanish the dish is masculine, like el pollo: el chicken tikka.",
+        "pos" : "noun",
+        "translation" : "chicken (English, part of the dish's name)"
+      },
+      {
+        "forms" : [
+          "pollo"
+        ],
+        "gender" : "masculine",
+        "note" : "The everyday word for chicken as food and as a bird; muslos de pollo = chicken thighs.",
+        "pos" : "noun",
+        "translation" : "chicken"
+      },
+      {
+        "forms" : [
+          "muslos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of muslo; muslos de pollo (chicken thighs) stay juicier than breast when grilled.",
+        "pos" : "noun",
+        "translation" : "thighs"
+      },
+      {
+        "forms" : [
+          "jengibre"
+        ],
+        "gender" : "masculine",
+        "note" : "The spice or the fresh root; the j is said like a throaty h: jen-HEE-bre.",
+        "pos" : "noun",
+        "translation" : "ginger"
+      },
+      {
+        "forms" : [
+          "especias"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of especia (spice); do not mix it up with especie, which means species or kind.",
+        "pos" : "noun",
+        "translation" : "spices"
+      },
+      {
+        "forms" : [
+          "partición"
+        ],
+        "gender" : "feminine",
+        "note" : "Partición means a division into parts; with a capital, la Partición is the split of British India into India and Pakistan in August 1947.",
+        "pos" : "noun",
+        "translation" : "Partition (of India, 1947)"
+      },
+      {
+        "forms" : [
+          "palacio"
+        ],
+        "gender" : "masculine",
+        "note" : "A palace; el Palacio de las Perlas (the Pearl Palace) is what the name Moti Mahal means.",
+        "pos" : "noun",
+        "translation" : "palace"
+      },
+      {
+        "forms" : [
+          "perlas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of perla (pearl); in everyday speech de perlas also means \"perfectly\": me viene de perlas = it suits me perfectly.",
+        "pos" : "noun",
+        "translation" : "pearls"
+      },
+      {
+        "forms" : [
+          "tribunal",
+          "tribunales"
+        ],
+        "gender" : "masculine",
+        "note" : "Acabar en los tribunales = to end up in court; el Tribunal Superior de Delhi is the Delhi High Court.",
+        "pos" : "noun",
+        "translation" : "court (of law)"
+      },
+      {
+        "forms" : [
+          "nuez"
+        ],
+        "gender" : "feminine",
+        "note" : "Una nuez is a walnut, and una nuez de mantequilla is a walnut-sized knob of butter; the plural is nueces (z becomes c before e).",
+        "pos" : "noun",
+        "translation" : "walnut; a knob (of butter)"
+      },
+      {
+        "forms" : [
+          "negro",
+          "negros"
+        ],
+        "note" : "Negro agrees with its noun: un poco negro (el pollo), negros (los bordes); ponerse negro = to turn black.",
+        "pos" : "adjective",
+        "translation" : "black"
+      },
+      {
+        "forms" : [
+          "chamuscados"
+        ],
+        "note" : "Participle of chamuscar used as an adjective, masculine plural to agree with los muslos: hasta que queden un poco chamuscados = until they are a little charred.",
+        "pos" : "adjective",
+        "translation" : "charred, singed"
+      },
+      {
+        "forms" : [
+          "secaban"
+        ],
+        "note" : "Imperfect of secarse (to dry out), for what kept happening: se secaban = they kept drying out; secar without se means to dry something.",
+        "pos" : "verb",
+        "translation" : "dry out, get dry"
+      },
+      {
+        "forms" : [
+          "resecaban"
+        ],
+        "note" : "Imperfect of resecarse, a stronger secarse: re- adds \"right through\", so se resecaban = they kept drying out completely.",
+        "pos" : "verb",
+        "translation" : "dried out (completely)"
+      },
+      {
+        "forms" : [
+          "asaban"
+        ],
+        "note" : "Imperfect of asar (to roast or grill over strong heat), for what they did every day; pollo asado = roast chicken.",
+        "pos" : "verb",
+        "translation" : "roasted, grilled (used to)"
+      },
+      {
+        "forms" : [
+          "hazlo"
+        ],
+        "note" : "Tú imperative of hacer (haz) with lo (it) attached; haz has one syllable, so hazlo needs no written accent: hazlo a la parrilla = grill it.",
+        "pos" : "verb",
+        "translation" : "do it, cook it"
+      },
+      {
+        "forms" : [
+          "fríe"
+        ],
+        "note" : "Tú imperative of freír (to fry), with the stem e → í: fríe una cebolla = fry an onion; with lo attached it becomes fríelo.",
+        "pos" : "verb",
+        "translation" : "fry"
+      },
+      {
+        "forms" : [
+          "tritúralo"
+        ],
+        "note" : "Tú imperative of triturar (to blend, to purée) with lo attached; the written accent keeps the stress on -tú-.",
+        "pos" : "verb",
+        "translation" : "blend it"
+      },
+      {
+        "forms" : [
+          "remátalo"
+        ],
+        "note" : "Tú imperative of rematar (to finish off) with lo attached; the written accent keeps the stress on -má-.",
+        "pos" : "verb",
+        "translation" : "finish it off"
+      },
+      {
+        "forms" : [
+          "chup"
+        ],
+        "note" : "Said twice, chup chup is the Spain kitchen word for a pot bubbling gently: déjalo haciendo chup chup = let it simmer.",
+        "pos" : "interjection",
+        "translation" : "blub (the sound of a gentle simmer)"
+      },
+      {
+        "forms" : [
+          "g"
+        ],
+        "gender" : "masculine",
+        "note" : "The symbol for gramos; read 600 g as \"seiscientos gramos\", and it never takes a plural s or a full stop.",
+        "pos" : "noun",
+        "translation" : "g (grams)"
+      },
+      {
+        "forms" : [
+          "ml"
+        ],
+        "gender" : "masculine",
+        "note" : "The symbol for mililitros; read 100 ml as \"cien mililitros\".",
+        "pos" : "noun",
+        "translation" : "ml (millilitres)"
+      },
+      {
+        "forms" : [
+          "600"
+        ],
+        "note" : "Read \"seiscientos\"; 600 g de pollo = six hundred grams of chicken.",
+        "pos" : "number",
+        "translation" : "600"
+      },
+      {
+        "forms" : [
+          "50"
+        ],
+        "note" : "Read \"cincuenta\"; 50 g de mantequilla = fifty grams of butter.",
+        "pos" : "number",
+        "translation" : "50"
+      },
+      {
+        "forms" : [
+          "1947"
+        ],
+        "note" : "Read \"mil novecientos cuarenta y siete\"; the year of the Partition of India, when the two cooks left Peshawar for Delhi.",
+        "pos" : "number",
+        "translation" : "1947"
+      },
+      {
+        "forms" : [
+          "2024"
+        ],
+        "note" : "Read \"dos mil veinticuatro\"; the year the two families went to court in Delhi over butter chicken.",
+        "pos" : "number",
+        "translation" : "2024"
+      },
+      {
+        "forms" : [
+          "irse"
+        ],
+        "note" : "Ir with se attached: irse de un sitio = to leave a place; after tener que the pronoun joins the infinitive, so tuvieron que irse = they had to leave.",
+        "pos" : "verb",
+        "translation" : "to leave, to go away"
+      },
+      {
+        "forms" : [
+          "dejarlo"
+        ],
+        "note" : "Dejar with lo (it) attached to the infinitive; in a recipe, hasta dejarlo + adjective says how it should end up: hasta dejarlo un poco negro = until it's a bit black.",
+        "pos" : "verb",
+        "translation" : "to leave it, to get it (+ adjective)"
+      },
+      {
+        "forms" : [
+          "pekín"
+        ],
+        "gender" : "masculine",
+        "note" : "The Spanish name for Beijing, the capital of China, home of Shiqian Ding's team; «en Pekín» = in Beijing.",
+        "pos" : "noun",
+        "translation" : "Beijing"
+      },
+      {
+        "forms" : [
+          "átomo"
+        ],
+        "gender" : "masculine",
+        "note" : "El átomo, the tiny building block of everything; «el corazón del átomo» = the heart of the atom (de + el = del).",
+        "pos" : "noun",
+        "translation" : "atom"
+      },
+      {
+        "forms" : [
+          "láser"
+        ],
+        "gender" : "masculine",
+        "note" : "El láser, with a written accent; «luz láser» = laser light, where láser stays the same like an adjective.",
+        "pos" : "noun",
+        "translation" : "laser"
+      },
+      {
+        "forms" : [
+          "ilumina",
+          "iluminaba"
+        ],
+        "note" : "Iluminar (to light up): ilumina is the present, iluminaba the imperfect for the background: «un láser lo iluminaba» = a laser was shining on it.",
+        "pos" : "verb",
+        "translation" : "lights up, shines on"
+      },
+      {
+        "forms" : [
+          "equivoca",
+          "equivocaba"
+        ],
+        "note" : "From equivocarse (to be wrong, to make a mistake), always with se: «¿el láser se equivoca?» = is the laser wrong?; equivocaba is the imperfect.",
+        "pos" : "verb",
+        "translation" : "is wrong, goes wrong"
+      },
+      {
+        "forms" : [
+          "corregía",
+          "corrige"
+        ],
+        "note" : "Corregir (to correct): the e becomes i in corrige; corregía is the imperfect, for each time it happened.",
+        "pos" : "verb",
+        "translation" : "corrects, fixes"
+      },
+      {
+        "forms" : [
+          "exacto"
+        ],
+        "note" : "Exacto (feminine exacta): «muy exacto» = very exact; in speech «¡exacto!» alone also means exactly, right.",
+        "pos" : "adjective",
+        "translation" : "exact, precise"
+      },
+      {
+        "forms" : [
+          "2003"
+        ],
+        "note" : "Read «dos mil tres»: «la idea es de 2003» = the idea is from 2003.",
+        "pos" : "number",
+        "translation" : "2003"
+      },
+      {
+        "forms" : [
+          "gps"
+        ],
+        "gender" : "masculine",
+        "note" : "El GPS, said letter by letter «ge-pe-ese»: the satellite system that tells your phone or car where it is.",
+        "pos" : "noun",
+        "translation" : "GPS"
+      },
+      {
+        "forms" : [
+          "7"
+        ],
+        "note" : "Read «siete»; dates use the plain number: «el 7 de octubre» = on 7 October.",
+        "pos" : "number",
+        "translation" : "7, seventh"
+      },
+      {
+        "forms" : [
+          "thorsten"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Thorsten Schumm, the physicist who leads the nuclear clock team at TU Wien, the technical university of Vienna.",
+        "pos" : "noun",
+        "translation" : "Thorsten"
+      },
+      {
+        "forms" : [
+          "schumm"
+        ],
+        "gender" : "masculine",
+        "note" : "Thorsten Schumm, Austrian physicist at TU Wien, whose team ran a nuclear clock on its own in 2026.",
+        "pos" : "noun",
+        "translation" : "Schumm"
+      },
+      {
+        "forms" : [
+          "shiqian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Shiqian Ding, the physicist who leads the nuclear clock team at Tsinghua University in Beijing.",
+        "pos" : "noun",
+        "translation" : "Shiqian"
+      },
+      {
+        "forms" : [
+          "ding"
+        ],
+        "gender" : "masculine",
+        "note" : "Shiqian Ding, Chinese physicist at Tsinghua University in Beijing; in Chinese the family name, Ding, comes first.",
+        "pos" : "noun",
+        "translation" : "Ding"
+      },
+      {
+        "forms" : [
+          "nuclear",
+          "nucleares"
+        ],
+        "note" : "From el núcleo of an atom; «un reloj nuclear» = a clock that listens to the nucleus, nothing to do with nuclear power.",
+        "pos" : "adjective",
+        "translation" : "nuclear"
+      },
+      {
+        "forms" : [
+          "vaivén"
+        ],
+        "gender" : "masculine",
+        "note" : "El vaivén, from va y viene (goes and comes): «el vaivén de un péndulo» = the back-and-forth swing of a pendulum.",
+        "pos" : "noun",
+        "translation" : "swinging to and fro"
+      },
+      {
+        "forms" : [
+          "péndulo"
+        ],
+        "gender" : "masculine",
+        "note" : "El péndulo, the weight that swings to and fro in an old clock.",
+        "pos" : "noun",
+        "translation" : "pendulum"
+      },
+      {
+        "forms" : [
+          "atómico",
+          "atómicos"
+        ],
+        "note" : "From el átomo; «un reloj atómico» counts the jumps of electrons, the most exact clocks before nuclear ones.",
+        "pos" : "adjective",
+        "translation" : "atomic"
+      },
+      {
+        "forms" : [
+          "saltos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el salto, from saltar (to jump): «saltos de electrones» = electron jumps.",
+        "pos" : "noun",
+        "translation" : "jumps"
+      },
+      {
+        "forms" : [
+          "electrones"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el electrón (the accent goes in the plural): the tiny particles that move around the nucleus.",
+        "pos" : "noun",
+        "translation" : "electrons"
+      },
+      {
+        "forms" : [
+          "núcleo"
+        ],
+        "gender" : "masculine",
+        "note" : "El núcleo, the centre of an atom, its tiny heart; also the core of anything.",
+        "pos" : "noun",
+        "translation" : "nucleus"
+      },
+      {
+        "forms" : [
+          "revista"
+        ],
+        "gender" : "feminine",
+        "note" : "La revista, a magazine or a scientific journal: «en la revista Nature» = in the journal Nature.",
+        "pos" : "noun",
+        "translation" : "magazine, journal"
+      },
+      {
+        "forms" : [
+          "nature"
+        ],
+        "gender" : "feminine",
+        "note" : "The English name of a famous science journal, kept as it is: «la revista Nature».",
+        "pos" : "noun",
+        "translation" : "Nature (a science journal)"
+      },
+      {
+        "forms" : [
+          "separado"
+        ],
+        "note" : "Separado (separate, apart); «por separado» = separately, each on its own.",
+        "pos" : "adjective",
+        "translation" : "separate"
+      },
+      {
+        "forms" : [
+          "tictac"
+        ],
+        "gender" : "masculine",
+        "note" : "El tictac, the sound of a clock written as one word: «el tictac de los electrones» = the ticks of the electrons.",
+        "pos" : "noun",
+        "translation" : "ticking, tick-tock"
+      },
+      {
+        "forms" : [
+          "torio",
+          "torio-229"
+        ],
+        "gender" : "masculine",
+        "note" : "El torio is thorium; torio-229 (read «torio doscientos veintinueve») is the kind whose nucleus a laser can nudge, the heart of the new clocks.",
+        "pos" : "noun",
+        "translation" : "thorium, thorium-229"
+      },
+      {
+        "forms" : [
+          "absorbe"
+        ],
+        "note" : "Absorber, él/ella form: «el torio absorbe luz láser» = the thorium takes in laser light.",
+        "pos" : "verb",
+        "translation" : "absorbs, takes in"
+      },
+      {
+        "forms" : [
+          "desvía"
+        ],
+        "note" : "From desviarse (to drift off course), with se and an accent on the í: «si el láser se desvía» = if the laser slips.",
+        "pos" : "verb",
+        "translation" : "drifts off, slips"
+      },
+      {
+        "forms" : [
+          "30"
+        ],
+        "note" : "Read «treinta»: «30 millones de años» = 30 million years, with de after millones.",
+        "pos" : "number",
+        "translation" : "30, thirty"
+      },
+      {
+        "forms" : [
+          "físicos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el físico (physicist); la física is both a woman physicist and physics.",
+        "pos" : "noun",
+        "translation" : "physicists"
+      },
+      {
+        "forms" : [
+          "presentaron"
+        ],
+        "note" : "Pretérito of presentar, ellos form: «dos equipos presentaron…» = two teams presented…",
+        "pos" : "verb",
+        "translation" : "presented"
+      },
+      {
+        "forms" : [
+          "marcan"
+        ],
+        "note" : "Marcar la hora = to show or keep the time, what any clock does: «relojes que marcan la hora sin ayuda».",
+        "pos" : "verb",
+        "translation" : "show, keep (the time)"
+      },
+      {
+        "forms" : [
+          "marcarle"
+        ],
+        "note" : "Marcar + le (to it), joined: «marcarle la hora al GPS» = to keep time for GPS; Spanish repeats the object with le.",
+        "pos" : "verb",
+        "translation" : "to keep (the time) for it"
+      },
+      {
+        "forms" : [
+          "10.000"
+        ],
+        "note" : "Read «diez mil»: Spanish marks thousands with a dot or a space, not a comma: «10.000 veces» = 10,000 times.",
+        "pos" : "number",
+        "translation" : "10,000, ten thousand"
+      },
+      {
+        "forms" : [
+          "fluoruro"
+        ],
+        "gender" : "masculine",
+        "note" : "El fluoruro; «fluoruro de calcio» = calcium fluoride, the clear crystal that holds the thorium.",
+        "pos" : "noun",
+        "translation" : "fluoride"
+      },
+      {
+        "forms" : [
+          "calcio"
+        ],
+        "gender" : "masculine",
+        "note" : "El calcio, the same mineral as in milk and bones: «un cristal de fluoruro de calcio».",
+        "pos" : "noun",
+        "translation" : "calcium"
+      },
+      {
+        "forms" : [
+          "ekkehard"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Ekkehard Peik, German physicist in Braunschweig, who wrote down the idea of a nuclear clock in 2003.",
+        "pos" : "noun",
+        "translation" : "Ekkehard"
+      },
+      {
+        "forms" : [
+          "peik"
+        ],
+        "gender" : "masculine",
+        "note" : "Ekkehard Peik, German physicist who proposed the thorium nuclear clock with Christian Tamm in 2003.",
+        "pos" : "noun",
+        "translation" : "Peik"
+      },
+      {
+        "forms" : [
+          "christian"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Christian Tamm, the German physicist who proposed the nuclear clock with Ekkehard Peik in 2003.",
+        "pos" : "noun",
+        "translation" : "Christian"
+      },
+      {
+        "forms" : [
+          "tamm"
+        ],
+        "gender" : "masculine",
+        "note" : "Christian Tamm, German physicist, co-author of the 2003 nuclear clock idea with Ekkehard Peik.",
+        "pos" : "noun",
+        "translation" : "Tamm"
+      },
+      {
+        "forms" : [
+          "puntas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la punta (tip, end); «en dos puntas del mundo» = at two ends of the world, far apart.",
+        "pos" : "noun",
+        "translation" : "ends, tips"
       }
     ]
   },
@@ -211821,6 +215172,591 @@
       "summary" : "Domenica 25 ottobre 2026 Kimi Antonelli ha vinto ad Austin partendo dalla pole, ma per la festa del titolo bisogna aspettare almeno fino a Città del Messico.",
       "title" : "Antonelli vince, il titolo aspetta",
       "translationGroup" : "weekend-sport-2026-10-25"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-26",
+      "id" : "heart-of-an-atom",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "With the verb be, a yes/no question just puts \"is\" or \"are\" first: The laser is wrong → Is the laser wrong?",
+              "example" : "Is the laser wrong?",
+              "title" : "Questions with be: Is the laser …?"
+            },
+            {
+              "body" : "In the present, English says no with \"don't\" (\"doesn't\" after he, she, it) + the base verb: they don't work.",
+              "example" : "They don't work together, but finish the same week.",
+              "title" : "Don't + verb: the negative present"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "So it's October 2026. Two teams make a new clock, in Vienna and Beijing. They don't work together, but finish the same week.",
+            "Every clock counts something. This one watches the tiny heart of an atom. A laser shines on it. Is the laser wrong? The clock fixes it.",
+            "The Vienna clock runs alone for a day. It's very exact. The team is happy!",
+            "The idea is from 2003. That's a long wait! Maybe one day it helps everyone's GPS."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (finished, fixed); many common verbs have their own past form (build → built, shine → shone, run → ran).",
+              "example" : "The Vienna clock ran on its own for over 24 hours.",
+              "title" : "The past simple: built, shone, ran"
+            },
+            {
+              "body" : "In the negative, the past sits in \"didn't\" and the verb goes back to its base form: they didn't work, not they didn't worked.",
+              "example" : "They didn't work together, but they finished the same week.",
+              "title" : "Didn't + verb: the negative past"
+            },
+            {
+              "body" : "\"Could\" + a verb says something is possible, not certain: it could help, but it doesn't yet.",
+              "example" : "One day, a clock like this could help everyone's GPS.",
+              "title" : "Could for something possible one day"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 7 October 2026, two teams had the same news. Thorsten Schumm's team in Vienna and Shiqian Ding's team in Beijing built a nuclear clock. They didn't work together, but they finished the same week.",
+            "Every clock counts something that repeats, like a swinging pendulum. An atomic clock counts electron jumps. A nuclear clock counts jumps in the nucleus, the tiny heart of an atom.",
+            "A laser shone on it. When the laser went wrong, the clock fixed it by itself.",
+            "The Vienna clock ran on its own for over 24 hours. The team was really glad.",
+            "Two scientists in Germany had the idea in 2003. That's a long wait! One day, a clock like this could help everyone's GPS."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" ('d) + past participle puts one past event before another: first they built the clock, then they said so.",
+              "example" : "On 7 October 2026, two teams said in the journal Nature they'd built a working nuclear clock.",
+              "title" : "The past perfect: they'd built"
+            },
+            {
+              "body" : "\"That\" starts a clause that says which thing you mean: something that repeats, again and again.",
+              "example" : "Every clock counts something that repeats, like a pendulum.",
+              "title" : "That for a thing you describe: something that repeats"
+            },
+            {
+              "body" : "\"Not as exact as\" says the first thing is less exact; \"yet\", at the end, adds that this may change later.",
+              "example" : "It wasn't as exact as the best atomic clocks yet.",
+              "title" : "Not as … as … yet: an honest comparison"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 7 October 2026, two teams said in the journal Nature they'd built a working nuclear clock. Thorsten Schumm's team in Vienna and Shiqian Ding's in Beijing worked separately.",
+            "Every clock counts something that repeats, like a pendulum. An atomic clock counts the ticks of electrons. A nuclear clock listens to the nucleus, the atom's heart.",
+            "Both use thorium-229 in a crystal. It takes in laser light of one exact colour, so if the laser slips, the clock pulls it back.",
+            "In Vienna, the clock ran alone for over 24 hours, off by about a second in 30 million years. It wasn't as exact as the best atomic clocks yet.",
+            "Two physicists in Germany had the idea in 2003. After a long wait, two teams got there the same week, and one day their clocks could help everyone's GPS."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle sets an event further back than the rest of the story: the idea came in 2003, long before 2026.",
+              "example" : "Ekkehard Peik and Christian Tamm in Germany had first written the idea down in 2003.",
+              "title" : "The past perfect: had first written"
+            },
+            {
+              "body" : "\"Whenever\" means each time something happens, so it fits a rule that repeats: whenever the laser drifts, the clock corrects it.",
+              "example" : "Thorium-229 in a calcium fluoride crystal takes in laser light of one exact colour, so whenever the laser drifts, the clock pulls it back.",
+              "title" : "Whenever: every time that"
+            },
+            {
+              "body" : "After see, watch or hear, the base verb shows the whole action from start to end: saw their clock run, not saw their clock to run.",
+              "example" : "After over fifteen years of patience, Schumm's team saw their clock run alone for over 24 hours, off by about a second in 30 million years.",
+              "title" : "See + object + base verb: saw their clock run"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 7 October 2026, in the journal Nature, two teams presented the first nuclear clocks that keep their own time. Thorsten Schumm's team in Vienna and Shiqian Ding's in Beijing worked separately.",
+            "Every clock counts something that repeats. An atomic clock counts the ticks of electrons. A nuclear clock listens to the nucleus, the atom's heart, over 10,000 times smaller and far harder to disturb.",
+            "Thorium-229 in a calcium fluoride crystal takes in laser light of one exact colour, so whenever the laser drifts, the clock pulls it back.",
+            "After over fifteen years of patience, Schumm's team saw their clock run alone for over 24 hours, off by about a second in 30 million years. It still fell short of the best atomic clocks.",
+            "Ekkehard Peik and Christian Tamm in Germany had first written the idea down in 2003. Two teams, a world apart, got there the same week, and one day their clocks could keep time for everyone's GPS."
+          ]
+        }
+      ],
+      "summary" : "In one week in October 2026, two teams on opposite sides of the world, working separately, each got a clock running on the tiny heart of an atom.",
+      "title" : "The Clock in the Heart of an Atom",
+      "translationGroup" : "heart-of-an-atom"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-26",
+      "id" : "heart-of-an-atom-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "French says no with two words that wrap the conjugated verb: ne before it, pas after it. Elles travaillent → elles ne travaillent pas.",
+              "example" : "Elles ne travaillent pas ensemble, mais elles finissent la même semaine.",
+              "title" : "Ne … pas around the verb"
+            },
+            {
+              "body" : "In everyday French you can ask a yes/no question by keeping the normal word order and raising your voice at the end: Le laser se trompe ?",
+              "example" : "Le laser se trompe ?",
+              "title" : "A question with just your voice"
+            },
+            {
+              "body" : "In speech, French often names the subject first and then picks it up again with a pronoun: Cette horloge, elle regarde… It puts the spotlight on the subject.",
+              "example" : "Cette horloge, elle regarde le tout petit cœur d'un atome.",
+              "title" : "Cette horloge, elle: the spoken double subject"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Alors, on est en octobre 2026. Deux équipes construisent une nouvelle horloge, à Vienne et à Pékin. Elles ne travaillent pas ensemble, mais elles finissent la même semaine.",
+            "Chaque horloge compte quelque chose. Cette horloge, elle regarde le tout petit cœur d'un atome. Un laser l'éclaire. Le laser se trompe ? L'horloge le corrige.",
+            "L'horloge de Vienne fonctionne toute seule pendant un jour. Elle est très précise. L'équipe est contente !",
+            "L'idée existe depuis 2003. C'est long, l'attente ! Peut-être qu'un jour, ces horloges aident le GPS de tout le monde."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir (or être) + the past participle: ont eu, ont construit, ont fini, a fonctionné. It tells what happened once.",
+              "example" : "L'horloge de Vienne a fonctionné toute seule plus de 24 heures.",
+              "title" : "Passé composé: avoir + past participle"
+            },
+            {
+              "body" : "The imparfait (éclairait, se trompait, corrigeait) tells the background and what happened again and again, here every time the laser went wrong.",
+              "example" : "Quand le laser se trompait, l'horloge le corrigeait toute seule.",
+              "title" : "The imparfait for what kept happening"
+            },
+            {
+              "body" : "Pourrait is the conditional of pouvoir: it says something is possible, not sure. It is followed by a verb in the infinitive: pourrait aider.",
+              "example" : "Un jour, une horloge comme celle-ci pourrait aider le GPS de tout le monde.",
+              "title" : "Pourrait: could, something possible one day"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 7 octobre 2026, deux équipes ont annoncé la même nouvelle. À Vienne, c'est l'équipe de Thorsten Schumm, à Pékin, celle de Shiqian Ding. Elles ont construit une horloge nucléaire. En fait, elles n'ont pas travaillé ensemble, mais elles ont fini la même semaine.",
+            "Chaque horloge compte quelque chose qui se répète, comme le va-et-vient d'un pendule. Une horloge atomique compte les sauts des électrons. Une horloge nucléaire compte les sauts dans le noyau, le tout petit cœur d'un atome.",
+            "Un laser l'éclairait. Quand le laser se trompait, l'horloge le corrigeait toute seule.",
+            "L'horloge de Vienne a fonctionné toute seule plus de 24 heures. L'équipe était vraiment contente.",
+            "Deux scientifiques en Allemagne ont eu l'idée en 2003. Ça fait des années d'attente ! Un jour, une horloge comme celle-ci pourrait aider le GPS de tout le monde."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avaient + past participle puts an event before another past one: first they built the clock, then they announced it.",
+              "example" : "Le 7 octobre 2026, deux équipes ont annoncé dans la revue Nature qu'elles avaient construit une horloge nucléaire qui fonctionne.",
+              "title" : "Plus-que-parfait: one past before another"
+            },
+            {
+              "body" : "Qui starts a clause about the noun just before it and is its subject: quelque chose qui se répète = something that repeats.",
+              "example" : "Chaque horloge compte quelque chose qui se répète, comme un pendule.",
+              "title" : "Qui for a thing you describe"
+            },
+            {
+              "body" : "Aussi + adjective + que compares two things as equal; with ne … pas encore it says the first is not there yet, but may be one day.",
+              "example" : "Mais elle n'était pas encore aussi précise que les meilleures horloges atomiques.",
+              "title" : "Pas encore aussi … que: not yet as … as"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 7 octobre 2026, deux équipes ont annoncé dans la revue Nature qu'elles avaient construit une horloge nucléaire qui fonctionne. L'équipe de Thorsten Schumm à Vienne et celle de Shiqian Ding à Pékin ont travaillé chacune de leur côté.",
+            "Chaque horloge compte quelque chose qui se répète, comme un pendule. Une horloge atomique compte les battements des électrons. Une horloge nucléaire, elle, écoute le noyau, le cœur de l'atome.",
+            "Les deux utilisent du thorium-229 dans un cristal. Le thorium absorbe une lumière laser d'une couleur très précise, alors si le laser se décale, l'horloge le ramène.",
+            "À Vienne, l'horloge a fonctionné seule plus de 24 heures, avec environ une seconde d'écart en 30 millions d'années. Mais elle n'était pas encore aussi précise que les meilleures horloges atomiques.",
+            "Deux physiciens en Allemagne ont eu l'idée en 2003. Après des années d'attente, deux équipes y sont arrivées la même semaine. Et un jour, leurs horloges pourraient aider le GPS de tout le monde."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After voir, entendre or regarder, French uses the infinitive for the action you watch: a vu son horloge fonctionner = saw its clock run.",
+              "example" : "Après plus de quinze ans de patience, l'équipe de Schumm a vu son horloge fonctionner seule plus de 24 heures.",
+              "title" : "Voir + infinitive: a vu son horloge tourner"
+            },
+            {
+              "body" : "Chaque fois que (or à chaque fois que in speech) means every time that, for a rule that repeats; the verb after it stays in the indicative.",
+              "example" : "Et chaque fois que le laser dérive, l'horloge le remet en place.",
+              "title" : "Chaque fois que: whenever"
+            },
+            {
+              "body" : "Dès + a date stresses how early something already happened: dès 2003 = as early as 2003, long before the clocks existed.",
+              "example" : "Ekkehard Peik et Christian Tamm, en Allemagne, avaient mis l'idée noir sur blanc dès 2003.",
+              "title" : "Dès 2003: as early as"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 7 octobre 2026, dans la revue Nature, deux équipes ont présenté les premières horloges nucléaires qui donnent l'heure par elles-mêmes. L'équipe de Thorsten Schumm était à Vienne, celle de Shiqian Ding à Pékin, chacune de son côté.",
+            "Chaque horloge compte quelque chose qui se répète. Une horloge atomique compte les battements des électrons. Une horloge nucléaire écoute le noyau, le cœur de l'atome, plus de 10 000 fois plus petit et bien plus difficile à perturber.",
+            "Dans un cristal de fluorure de calcium, le thorium-229 absorbe une lumière laser d'une couleur très précise. Et chaque fois que le laser dérive, l'horloge le remet en place.",
+            "Après plus de quinze ans de patience, l'équipe de Schumm a vu son horloge fonctionner seule plus de 24 heures. L'écart ? Environ une seconde en 30 millions d'années. Mais les meilleures horloges atomiques restaient devant.",
+            "Ekkehard Peik et Christian Tamm, en Allemagne, avaient mis l'idée noir sur blanc dès 2003. Deux équipes, aux deux bouts du monde, y sont arrivées la même semaine, et un jour, leurs horloges pourraient donner l'heure au GPS de tout le monde."
+          ]
+        }
+      ],
+      "summary" : "En une seule semaine d'octobre 2026, deux équipes, aux deux bouts du monde et chacune de son côté, ont fait marcher une horloge réglée sur le minuscule cœur d'un atome.",
+      "title" : "L'horloge au cœur de l'atome",
+      "translationGroup" : "heart-of-an-atom"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-26",
+      "id" : "heart-of-an-atom-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "For a yes/no question, German puts the verb first and the subject after it: Der Laser stimmt nicht → Stimmt der Laser nicht?",
+              "example" : "Stimmt der Laser nicht?",
+              "title" : "Yes/no questions start with the verb"
+            },
+            {
+              "body" : "In a statement the verb is always the second element; when another word comes first (vielleicht, da), the subject moves behind the verb: Vielleicht hilft so eine Uhr …",
+              "example" : "Vielleicht hilft so eine Uhr einmal allen beim GPS.",
+              "title" : "The verb in second place"
+            },
+            {
+              "body" : "Nicht says no to the verb and sits after it (and after an object): Sie arbeiten nicht zusammen. Zusammenarbeiten is a separable verb, so zusammen goes to the end.",
+              "example" : "Sie arbeiten nicht zusammen, sind aber in derselben Woche fertig.",
+              "title" : "Nicht after the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Also, Oktober 2026. Zwei Teams bauen eine neue Uhr, in Wien und Peking. Sie arbeiten nicht zusammen, sind aber in derselben Woche fertig.",
+            "Jede Uhr zählt etwas. Diese Uhr schaut auf das winzige Herz eines Atoms. Ein Laser scheint darauf. Stimmt der Laser nicht? Die Uhr korrigiert ihn.",
+            "In Wien läuft sie einen Tag allein. Sie ist sehr genau. Das Team freut sich!",
+            "Die Idee ist von 2003. Das dauert lange! Vielleicht hilft so eine Uhr einmal allen beim GPS."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the Perfekt with haben (haben gebaut, hat geleuchtet), but verbs of movement or change take sein: ist gelaufen, sind fertig geworden.",
+              "example" : "Die Uhr in Wien ist über 24 Stunden allein gelaufen.",
+              "title" : "Perfekt with sein for movement and change"
+            },
+            {
+              "body" : "Freuen is reflexive: you are glad with sich (mich, dich, sich …). In the Perfekt, sich stays right after hat: Das Team hat sich gefreut.",
+              "example" : "Das Team hat sich wirklich gefreut.",
+              "title" : "Sich freuen: to be glad"
+            },
+            {
+              "body" : "Könnte (from können) says something is possible, not certain; the second verb goes to the end in the infinitive: könnte … helfen.",
+              "example" : "Eines Tages könnte so eine Uhr allen beim GPS helfen.",
+              "title" : "Könnte: could, maybe one day"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am 7. Oktober 2026 hatten zwei Teams dieselbe Nachricht. Thorsten Schumms Team in Wien und Shiqian Dings Team in Peking haben eine Kernuhr gebaut. Sie haben nicht zusammengearbeitet, sind aber in derselben Woche fertig geworden.",
+            "Jede Uhr zählt etwas, das sich wiederholt, wie ein schwingendes Pendel. Eine Atomuhr zählt Sprünge von Elektronen. Eine Kernuhr zählt Sprünge im Atomkern, dem winzigen Herzen eines Atoms.",
+            "Ein Laser hat darauf geleuchtet. Wenn der Laser nicht gestimmt hat, hat die Uhr ihn von allein korrigiert.",
+            "Die Uhr in Wien ist über 24 Stunden allein gelaufen. Das Team hat sich wirklich gefreut.",
+            "Zwei Forscher in Deutschland hatten die Idee schon 2003. Das hat lange gedauert! Eines Tages könnte so eine Uhr allen beim GPS helfen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After dass (that) the conjugated verb goes to the very end of the clause: dass sie eine Kernuhr gebaut haben, not dass sie haben gebaut.",
+              "example" : "Am 7. Oktober 2026 haben zwei Teams in der Zeitschrift Nature berichtet, dass sie eine funktionierende Kernuhr gebaut haben.",
+              "title" : "Dass sends the verb to the end"
+            },
+            {
+              "body" : "Verbs like aufnehmen, zuhören and zurückholen split in a main clause: the verb comes second and the particle goes to the end (nimmt … auf, holt … zurück).",
+              "example" : "Es nimmt Laserlicht von genau einer Farbe auf: Wenn der Laser verrutscht, holt die Uhr ihn zurück.",
+              "title" : "Separable verbs: the particle goes last"
+            },
+            {
+              "body" : "After etwas (something), German starts the relative clause with das and sends the verb to the end: etwas, das sich wiederholt = something that repeats.",
+              "example" : "Jede Uhr zählt etwas, das sich wiederholt, wie ein Pendel.",
+              "title" : "Relative clause: etwas, das …"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am 7. Oktober 2026 haben zwei Teams in der Zeitschrift Nature berichtet, dass sie eine funktionierende Kernuhr gebaut haben. Thorsten Schumms Team in Wien und Shiqian Dings in Peking haben getrennt gearbeitet.",
+            "Jede Uhr zählt etwas, das sich wiederholt, wie ein Pendel. Eine Atomuhr zählt das Ticken der Elektronen. Eine Kernuhr hört dem Atomkern zu, dem Herzen des Atoms.",
+            "Beide benutzen Thorium-229 in einem Kristall. Es nimmt Laserlicht von genau einer Farbe auf: Wenn der Laser verrutscht, holt die Uhr ihn zurück.",
+            "In Wien ist die Uhr über 24 Stunden allein gelaufen, mit etwa einer Sekunde Abweichung in 30 Millionen Jahren. So genau wie die besten Atomuhren war sie noch nicht.",
+            "Zwei Physiker in Deutschland hatten die Idee 2003. Nach langem Warten haben es zwei Teams in derselben Woche geschafft, und eines Tages könnten ihre Uhren allen beim GPS helfen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Hatte + past participle sets an event further back than the rest of the story: the idea was written down in 2003, long before the clocks of 2026.",
+              "example" : "Ekkehard Peik und Christian Tamm in Deutschland hatten die Idee schon 2003 aufgeschrieben.",
+              "title" : "Plusquamperfekt: hatten aufgeschrieben"
+            },
+            {
+              "body" : "With sehen, hören or lassen plus another verb, the Perfekt uses the infinitive sehen instead of gesehen: hat seine Uhr laufen sehen = saw its clock run.",
+              "example" : "Nach über fünfzehn Jahren Geduld hat Schumms Team seine Uhr über 24 Stunden allein laufen sehen, mit etwa einer Sekunde Abweichung in 30 Millionen Jahren.",
+              "title" : "Double infinitive: hat … laufen sehen"
+            },
+            {
+              "body" : "Spoken German can drop wenn and start the if-clause with the verb: Driftet der Laser weg, … = Wenn der Laser wegdriftet, … The main clause then follows with its verb first too.",
+              "example" : "Driftet der Laser weg, holt die Uhr ihn zurück.",
+              "title" : "If without wenn: the verb comes first"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am 7. Oktober 2026 haben zwei Teams in der Zeitschrift Nature die ersten Kernuhren präsentiert, die selbst die Zeit halten. Thorsten Schumms Team in Wien und Shiqian Dings in Peking haben getrennt gearbeitet.",
+            "Jede Uhr zählt etwas, das sich wiederholt. Eine Atomuhr zählt das Ticken der Elektronen. Eine Kernuhr hört dem Atomkern zu, dem Herzen des Atoms: über 10.000 Mal kleiner und viel schwerer zu stören.",
+            "Thorium-229 in einem Kristall aus Calciumfluorid nimmt Laserlicht von genau einer Farbe auf. Driftet der Laser weg, holt die Uhr ihn zurück.",
+            "Nach über fünfzehn Jahren Geduld hat Schumms Team seine Uhr über 24 Stunden allein laufen sehen, mit etwa einer Sekunde Abweichung in 30 Millionen Jahren. Die besten Atomuhren hat sie trotzdem nicht erreicht.",
+            "Ekkehard Peik und Christian Tamm in Deutschland hatten die Idee schon 2003 aufgeschrieben. Zwei Teams an zwei Enden der Welt haben es in derselben Woche geschafft, und irgendwann könnten ihre Uhren dem GPS von uns allen den Takt vorgeben."
+          ]
+        }
+      ],
+      "summary" : "In einer einzigen Woche im Oktober 2026 haben zwei Teams an zwei Enden der Welt, jedes für sich, eine Uhr zum Laufen gebracht, die nach dem winzigen Herzen eines Atoms tickt.",
+      "title" : "Die Uhr im Herzen des Atoms",
+      "translationGroup" : "heart-of-an-atom"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-26",
+      "id" : "heart-of-an-atom-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish can ask a yes/no question with normal word order: only the voice rises, and the written question opens with ¿ and closes with ?.",
+              "example" : "¿El láser se equivoca?",
+              "title" : "A question with just your voice"
+            },
+            {
+              "body" : "To say not, put no right before the verb: trabajan → no trabajan. There is no extra helper word as in English don't.",
+              "example" : "No trabajan juntos, pero terminan la misma semana.",
+              "title" : "No before the verb"
+            },
+            {
+              "body" : "Quizás (maybe) can take the subjunctive, but in everyday talk the normal present is fine too: quizás un día ayuda = maybe one day it helps.",
+              "example" : "Quizás un día este reloj ayuda al GPS de todos.",
+              "title" : "Quizás with the plain present"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Mira, estamos en octubre de 2026. Dos equipos hacen un reloj nuevo, en Viena y en Pekín. No trabajan juntos, pero terminan la misma semana.",
+            "Todos los relojes cuentan algo. Este mira el corazón pequeñito de un átomo. Un láser lo ilumina. ¿El láser se equivoca? El reloj lo corrige.",
+            "El reloj de Viena funciona sin ayuda un día entero. Es muy exacto. ¡El equipo está feliz!",
+            "La idea es de 2003. ¡Eso es mucho esperar! Quizás un día este reloj ayuda al GPS de todos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Some common verbs change in the pretérito: dar → dieron, tener → tuvieron; construir writes a y between vowels: construyeron.",
+              "example" : "Dos científicos en Alemania tuvieron la idea en 2003.",
+              "title" : "Irregular pretérito: dieron, construyeron, tuvieron"
+            },
+            {
+              "body" : "The imperfect (iluminaba, se equivocaba, corregía, estaba) tells the background and what happened again and again; the pretérito tells single events: funcionó, tuvieron.",
+              "example" : "Y cuando el láser se equivocaba, el reloj lo corregía solo.",
+              "title" : "The imperfect for what kept happening"
+            },
+            {
+              "body" : "Podría is the conditional of poder: it says something is possible, not sure, and is followed by an infinitive: podría ayudar.",
+              "example" : "Un día, un reloj así podría ayudar al GPS de todos.",
+              "title" : "Podría: could, maybe one day"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El 7 de octubre de 2026, dos equipos dieron la misma noticia. El equipo de Thorsten Schumm en Viena y el de Shiqian Ding en Pekín construyeron un reloj nuclear. No trabajaron juntos, pero terminaron la misma semana.",
+            "Todo reloj cuenta algo que se repite, como el vaivén de un péndulo. Un reloj atómico cuenta saltos de electrones. Un reloj nuclear cuenta saltos en el núcleo, el corazón pequeñito de un átomo.",
+            "Un láser lo iluminaba. Y cuando el láser se equivocaba, el reloj lo corregía solo.",
+            "El reloj de Viena funcionó sin ayuda más de 24 horas. El equipo estaba muy contento, la verdad.",
+            "Dos científicos en Alemania tuvieron la idea en 2003. ¡Cuánto tiempo esperando! Un día, un reloj así podría ayudar al GPS de todos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + past participle puts one past event before another: first they built the clock, then they told the world.",
+              "example" : "El 7 de octubre de 2026, dos equipos dijeron en la revista Nature que habían construido un reloj nuclear que funciona.",
+              "title" : "Pluscuamperfecto: habían construido"
+            },
+            {
+              "body" : "Que starts a clause that says which thing you mean, for people and things alike: algo que se repite = something that repeats.",
+              "example" : "Todo reloj cuenta algo que se repite, como un péndulo.",
+              "title" : "Que for a thing you describe"
+            },
+            {
+              "body" : "Tan + adjective + como compares two things as equal; with aún no it says the first is not there yet: aún no era tan exacto como…",
+              "example" : "Aún no era tan exacto como los mejores relojes atómicos.",
+              "title" : "Tan … como: as … as"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 7 de octubre de 2026, dos equipos dijeron en la revista Nature que habían construido un reloj nuclear que funciona. El equipo de Thorsten Schumm en Viena y el de Shiqian Ding en Pekín trabajaron por separado.",
+            "Todo reloj cuenta algo que se repite, como un péndulo. Un reloj atómico cuenta el tictac de los electrones. Un reloj nuclear escucha al núcleo, el corazón del átomo.",
+            "Los dos usan torio-229 en un cristal. El torio absorbe luz láser de un color exacto, y si el láser se desvía, el reloj lo devuelve a su sitio.",
+            "En Viena, el reloj funcionó sin ayuda más de 24 horas, con un error de más o menos un segundo en 30 millones de años. Aún no era tan exacto como los mejores relojes atómicos.",
+            "Dos físicos alemanes tuvieron la idea en 2003. Después de tanto esperar, dos equipos lo consiguieron la misma semana, y un día sus relojes podrían ayudar al GPS de todos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After ver, oír or mirar, Spanish uses the infinitive for the action you watch: vio su reloj funcionar = saw its clock run.",
+              "example" : "Tras quince años largos de paciencia, el equipo de Schumm vio su reloj funcionar sin ayuda más de 24 horas.",
+              "title" : "Ver + infinitive: vio su reloj funcionar"
+            },
+            {
+              "body" : "Cada vez que (every time that) takes the indicative for a rule that keeps repeating: cada vez que el láser se desvía.",
+              "example" : "Cada vez que el láser se desvía, el reloj lo devuelve a su sitio.",
+              "title" : "Cada vez que: whenever"
+            },
+            {
+              "body" : "Ya + pluscuamperfecto stresses that something had already happened long before the story's moment: in 2003, the idea was already on paper.",
+              "example" : "Ekkehard Peik y Christian Tamm, en Alemania, ya habían escrito la idea en 2003.",
+              "title" : "Ya habían escrito: the pluperfect with ya"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 7 de octubre de 2026, en la revista Nature, dos equipos presentaron los primeros relojes nucleares que marcan la hora sin ayuda. El equipo de Schumm en Viena y el de Ding en Pekín trabajaron por separado.",
+            "Todo reloj cuenta algo que se repite: uno atómico, el tictac de los electrones. Un reloj nuclear escucha al núcleo, el corazón del átomo, más de 10.000 veces más pequeño y muchísimo más difícil de perturbar.",
+            "En un cristal de fluoruro de calcio, el torio-229 absorbe luz láser de un color exacto. Cada vez que el láser se desvía, el reloj lo devuelve a su sitio.",
+            "Tras quince años largos de paciencia, el equipo de Schumm vio su reloj funcionar sin ayuda más de 24 horas. El error: más o menos un segundo en 30 millones de años. Aun así, los mejores relojes atómicos seguían por delante.",
+            "Ekkehard Peik y Christian Tamm, en Alemania, ya habían escrito la idea en 2003. Dos equipos, en dos puntas del mundo, lo lograron la misma semana, y un día sus relojes podrían marcarle la hora al GPS de todos."
+          ]
+        }
+      ],
+      "summary" : "En una sola semana de octubre de 2026, dos equipos en lados opuestos del mundo, cada uno por su cuenta, pusieron en marcha un reloj que late con el diminuto corazón de un átomo.",
+      "title" : "El reloj en el corazón del átomo",
+      "translationGroup" : "heart-of-an-atom"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-10-26",
+      "id" : "heart-of-an-atom-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian asks a yes/no question with the normal word order: only the voice rises at the end. Il laser sbaglia. → Il laser sbaglia?",
+              "example" : "Il laser sbaglia?",
+              "title" : "A question with just your voice"
+            },
+            {
+              "body" : "To say not, put non right before the verb: lavorano → non lavorano. Nothing else changes.",
+              "example" : "Non lavorano insieme, ma finiscono la stessa settimana.",
+              "title" : "Non before the verb"
+            },
+            {
+              "body" : "The object pronoun lo (it, him) goes before the conjugated verb: un laser lo illumina = a laser lights it up.",
+              "example" : "Un laser lo illumina.",
+              "title" : "Lo before the verb: it"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, siamo a ottobre 2026. Due gruppi costruiscono un orologio nuovo, a Vienna e a Pechino. Non lavorano insieme, ma finiscono la stessa settimana.",
+            "Ogni orologio conta qualcosa. Questo guarda il cuore piccolissimo di un atomo. Un laser lo illumina. Il laser sbaglia? L'orologio lo corregge.",
+            "L'orologio di Vienna funziona da solo per un giorno intero. È davvero preciso. Il gruppo è felice!",
+            "L'idea è del 2003. Quanto tempo ad aspettare! Forse un giorno questo orologio aiuta il GPS di tutti."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avere (or essere) + the past participle: hanno dato, hanno costruito, hanno finito, ha funzionato. It tells what happened once.",
+              "example" : "L'orologio di Vienna ha funzionato da solo per più di 24 ore.",
+              "title" : "Passato prossimo: avere + participle"
+            },
+            {
+              "body" : "The imperfect (illuminava, sbagliava, correggeva, era) tells the background and what happened again and again, here every time the laser went wrong.",
+              "example" : "E quando il laser sbagliava, l'orologio lo correggeva da solo.",
+              "title" : "The imperfect for what kept happening"
+            },
+            {
+              "body" : "Potrebbe is the conditional of potere: it says something is possible, not sure, and is followed by an infinitive: potrebbe aiutare.",
+              "example" : "Un giorno, un orologio così potrebbe aiutare il GPS di tutti.",
+              "title" : "Potrebbe: could, maybe one day"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il 7 ottobre 2026 due gruppi hanno dato la stessa notizia. A Vienna c'era il gruppo di Thorsten Schumm, a Pechino quello di Shiqian Ding. Tutti e due hanno costruito un orologio nucleare. Non hanno lavorato insieme, ma hanno finito la stessa settimana.",
+            "Ogni orologio conta qualcosa che si ripete, come il dondolio di un pendolo. Un orologio atomico conta i salti degli elettroni. Un orologio nucleare conta i salti nel nucleo, il cuore piccolissimo di un atomo.",
+            "Un laser lo illuminava. E quando il laser sbagliava, l'orologio lo correggeva da solo.",
+            "L'orologio di Vienna ha funzionato da solo per più di 24 ore. Il gruppo era proprio contento.",
+            "Due scienziati in Germania hanno avuto l'idea nel 2003. Che lunga attesa! Un giorno, un orologio così potrebbe aiutare il GPS di tutti."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avevano + past participle puts an event before another past one: first they built the clock, then they said so.",
+              "example" : "Il 7 ottobre 2026 due gruppi hanno detto sulla rivista Nature che avevano costruito un orologio nucleare che funziona.",
+              "title" : "Trapassato prossimo: one past before another"
+            },
+            {
+              "body" : "Che starts a clause about the noun just before it, for people and things alike: qualcosa che si ripete = something that repeats.",
+              "example" : "Ogni orologio conta qualcosa che si ripete, come un pendolo.",
+              "title" : "Che for a thing you describe"
+            },
+            {
+              "body" : "Preciso come (as precise as) compares two things as equal; non … ancora says the first is not there yet, but may be one day.",
+              "example" : "Però non era ancora preciso come i migliori orologi atomici.",
+              "title" : "Non ancora … come: not yet as … as"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il 7 ottobre 2026 due gruppi hanno detto sulla rivista Nature che avevano costruito un orologio nucleare che funziona. Il gruppo di Thorsten Schumm a Vienna e quello di Shiqian Ding a Pechino hanno lavorato separatamente.",
+            "Ogni orologio conta qualcosa che si ripete, come un pendolo. Un orologio atomico conta il tic-tac degli elettroni. Un orologio nucleare ascolta il nucleo, il cuore dell'atomo.",
+            "Tutti e due usano torio-229 in un cristallo. Il torio assorbe la luce laser di un colore preciso, quindi se il laser si sposta, l'orologio lo rimette a posto.",
+            "A Vienna l'orologio ha funzionato da solo per più di 24 ore, con un errore di circa un secondo in 30 milioni di anni. Però non era ancora preciso come i migliori orologi atomici.",
+            "Due fisici in Germania hanno avuto l'idea nel 2003. Dopo una lunga attesa, due gruppi ci sono arrivati la stessa settimana, e un giorno i loro orologi potrebbero aiutare il GPS di tutti."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After vedere, sentire or guardare, Italian uses the infinitive for the action you watch: ha visto il suo orologio andare avanti = saw its clock keep running.",
+              "example" : "Dopo più di quindici anni di pazienza, il gruppo di Schumm ha visto il suo orologio andare avanti da solo più di 24 ore.",
+              "title" : "Vedere + infinitive: ha visto il suo orologio andare"
+            },
+            {
+              "body" : "Ogni volta che (every time that) takes the indicative for a rule that keeps repeating: ogni volta che il laser scivola via.",
+              "example" : "Così, ogni volta che il laser scivola via, l'orologio lo rimette a posto.",
+              "title" : "Ogni volta che: whenever"
+            },
+            {
+              "body" : "Avevano + past participle, with già (already), sets an event far back from the rest of the story: the idea was on paper in 2003.",
+              "example" : "Ekkehard Peik e Christian Tamm, in Germania, avevano messo l'idea nero su bianco già nel 2003.",
+              "title" : "Trapassato prossimo with già"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il 7 ottobre 2026, sulla rivista Nature, due gruppi hanno presentato i primi orologi nucleari che tengono il tempo da soli. Il gruppo di Schumm a Vienna e quello di Ding a Pechino hanno lavorato separatamente.",
+            "Ogni orologio conta qualcosa che si ripete: quello atomico, il tic-tac degli elettroni. Un orologio nucleare ascolta il nucleo, il cuore dell'atomo, più di 10.000 volte più piccolo e molto più difficile da disturbare.",
+            "In un cristallo di fluoruro di calcio, il torio-229 assorbe la luce laser di un colore preciso. Così, ogni volta che il laser scivola via, l'orologio lo rimette a posto.",
+            "Dopo più di quindici anni di pazienza, il gruppo di Schumm ha visto il suo orologio andare avanti da solo più di 24 ore. L'errore? Circa un secondo in 30 milioni di anni. Eppure non ha raggiunto i migliori orologi atomici.",
+            "Ekkehard Peik e Christian Tamm, in Germania, avevano messo l'idea nero su bianco già nel 2003. Due gruppi, ai due capi del mondo, ci sono arrivati la stessa settimana, e un giorno i loro orologi potrebbero dare il tempo al GPS di tutti."
+          ]
+        }
+      ],
+      "summary" : "In una sola settimana di ottobre 2026, due gruppi ai lati opposti del mondo, ognuno per conto suo, hanno fatto partire un orologio che batte col minuscolo cuore di un atomo.",
+      "title" : "L'orologio nel cuore dell'atomo",
+      "translationGroup" : "heart-of-an-atom"
     }
   ]
 }
