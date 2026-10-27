@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 21,
-  "generatedAt" : "2026-10-26",
+  "contentVersion" : 22,
+  "generatedAt" : "2026-10-27",
   "glossary" : {
     "english" : [
       {
@@ -3593,9 +3593,9 @@
           "late",
           "later"
         ],
-        "note" : "\"Later\" is the comparative, meaning \"afterward.\"",
+        "note" : "\"Later\" is the comparative of late, and also means afterwards: \"a year later\".",
         "pos" : "adjective",
-        "translation" : "after the expected time"
+        "translation" : "after the expected time; afterwards"
       },
       {
         "forms" : [
@@ -3912,7 +3912,7 @@
         "forms" : [
           "march"
         ],
-        "note" : "The surname of Jo March.",
+        "note" : "The month of March; also the surname of Jo March.",
         "pos" : "other",
         "translation" : "March"
       },
@@ -9062,9 +9062,9 @@
           "cost",
           "costs"
         ],
-        "note" : "\"Costs\" is the plural or he/she/it verb form.",
+        "note" : "As a verb: \"500 grams cost 2 euros\"; \"costs\" is also the plural noun.",
         "pos" : "noun",
-        "translation" : "what something takes to get or have"
+        "translation" : "what something takes to get or have; to have a price of"
       },
       {
         "forms" : [
@@ -16913,9 +16913,9 @@
           "cheaper",
           "cheapest"
         ],
-        "note" : "Superlative of \"cheap.\"",
+        "note" : "Cheap, cheaper (comparative), cheapest (superlative).",
         "pos" : "adjective",
-        "translation" : "lowest in price"
+        "translation" : "low in price; cheaper (lower in price); cheapest"
       },
       {
         "forms" : [
@@ -17851,6 +17851,7 @@
       {
         "forms" : [
           "sell",
+          "selling",
           "sells"
         ],
         "note" : "\"Sells\" is the he/she/it form; \"chicken that didn't sell\" = chicken nobody bought.",
@@ -24325,7 +24326,8 @@
       },
       {
         "forms" : [
-          "price"
+          "price",
+          "prices"
         ],
         "note" : "\"Gave a price\" = said how much is needed.",
         "pos" : "noun",
@@ -25534,7 +25536,7 @@
         "forms" : [
           "1971"
         ],
-        "note" : "The year local leaders in North Karelia asked the government for help.",
+        "note" : "A year: 1971.",
         "pos" : "number",
         "translation" : "1971"
       },
@@ -27938,6 +27940,238 @@
         "note" : "Nature is the name of a famous science journal; here it does not mean the natural world.",
         "pos" : "noun",
         "translation" : "a magazine where scientists publish their work"
+      },
+      {
+        "forms" : [
+          "1966"
+        ],
+        "note" : "Said \"nineteen sixty-six\"; the year the first issue came out.",
+        "pos" : "number",
+        "translation" : "1966"
+      },
+      {
+        "forms" : [
+          "1964"
+        ],
+        "note" : "Said \"nineteen sixty-four\"; the year the foundation was set up.",
+        "pos" : "number",
+        "translation" : "1964"
+      },
+      {
+        "forms" : [
+          "1968"
+        ],
+        "note" : "Said \"nineteen sixty-eight\".",
+        "pos" : "number",
+        "translation" : "1968"
+      },
+      {
+        "forms" : [
+          "100,000"
+        ],
+        "note" : "English puts a comma every three digits: 100,000, not 100.000.",
+        "pos" : "number",
+        "translation" : "one hundred thousand"
+      },
+      {
+        "forms" : [
+          "210,000"
+        ],
+        "note" : "British English says \"and\" after hundred: two hundred and ten thousand.",
+        "pos" : "number",
+        "translation" : "two hundred and ten thousand"
+      },
+      {
+        "forms" : [
+          "2"
+        ],
+        "note" : "Said \"two\"; 2 euros = two euros.",
+        "pos" : "number",
+        "translation" : "two"
+      },
+      {
+        "forms" : [
+          "500"
+        ],
+        "note" : "500 grams is half a kilo.",
+        "pos" : "number",
+        "translation" : "five hundred"
+      },
+      {
+        "forms" : [
+          "3.50"
+        ],
+        "note" : "English writes a point before the cents and says \"three fifty\".",
+        "pos" : "number",
+        "translation" : "three euros fifty"
+      },
+      {
+        "forms" : [
+          "euros"
+        ],
+        "note" : "Plural of euro; 100 cents make one euro.",
+        "pos" : "noun",
+        "translation" : "the money used in most EU countries"
+      },
+      {
+        "forms" : [
+          "eu"
+        ],
+        "note" : "Said letter by letter, \"E-U\"; a group of European countries with shared laws.",
+        "pos" : "noun",
+        "translation" : "the European Union"
+      },
+      {
+        "forms" : [
+          "west"
+        ],
+        "note" : "West Germany was the name people used for the Federal Republic of Germany before 1990.",
+        "pos" : "adjective",
+        "translation" : "in or of the western part"
+      },
+      {
+        "forms" : [
+          "berlin"
+        ],
+        "note" : "The German city where the testing foundation was set up in 1964.",
+        "pos" : "noun",
+        "translation" : "Berlin"
+      },
+      {
+        "forms" : [
+          "magazine"
+        ],
+        "note" : "Here a magazine of test results, sold in shops or by post.",
+        "pos" : "noun",
+        "translation" : "a thin book of articles that comes out regularly"
+      },
+      {
+        "forms" : [
+          "issue"
+        ],
+        "note" : "\"The first issue\" = the first magazine of a series; issue also means a problem.",
+        "pos" : "noun",
+        "translation" : "one copy or number of a magazine"
+      },
+      {
+        "forms" : [
+          "sewing"
+        ],
+        "note" : "A sewing machine does this with a motor; sew is said like \"so\".",
+        "pos" : "noun",
+        "translation" : "joining cloth with a needle and thread"
+      },
+      {
+        "forms" : [
+          "mixers"
+        ],
+        "note" : "Plural of mixer, from mix.",
+        "pos" : "noun",
+        "translation" : "kitchen machines that stir or beat food"
+      },
+      {
+        "forms" : [
+          "testers"
+        ],
+        "note" : "Plural of tester: the -er ending makes a person from a verb (test → tester).",
+        "pos" : "noun",
+        "translation" : "people whose job is to test things"
+      },
+      {
+        "forms" : [
+          "foundation"
+        ],
+        "note" : "Also the base of a building; here an organisation, set up by the government.",
+        "pos" : "noun",
+        "translation" : "an organisation set up with money for one purpose"
+      },
+      {
+        "forms" : [
+          "subscribers"
+        ],
+        "note" : "Plural of subscriber, from subscribe: you pay once and it comes by post.",
+        "pos" : "noun",
+        "translation" : "people who pay to get each new issue"
+      },
+      {
+        "forms" : [
+          "newsstands"
+        ],
+        "note" : "Plural of newsstand; British English also says news kiosk.",
+        "pos" : "noun",
+        "translation" : "small shops or stalls that sell newspapers and magazines"
+      },
+      {
+        "forms" : [
+          "dearer"
+        ],
+        "note" : "Comparative of dear, which in British English can mean expensive.",
+        "pos" : "adjective",
+        "translation" : "more expensive"
+      },
+      {
+        "forms" : [
+          "label"
+        ],
+        "note" : "A shelf label shows the price and the price per kilo or litre.",
+        "pos" : "noun",
+        "translation" : "a small piece of paper or card with information"
+      },
+      {
+        "forms" : [
+          "shelf"
+        ],
+        "note" : "Plural shelves; in a shop, goods sit on shelves.",
+        "pos" : "noun",
+        "translation" : "a flat board for putting things on"
+      },
+      {
+        "forms" : [
+          "promising"
+        ],
+        "note" : "From promise: a promising start is one that looks good for later.",
+        "pos" : "adjective",
+        "translation" : "showing signs of going well"
+      },
+      {
+        "forms" : [
+          "scientifically"
+        ],
+        "note" : "Adverb of scientific; it says how the testing is done.",
+        "pos" : "adverb",
+        "translation" : "in the careful way a scientist works"
+      },
+      {
+        "forms" : [
+          "shelves"
+        ],
+        "note" : "Plural of shelf: f becomes v, like half → halves.",
+        "pos" : "noun",
+        "translation" : "flat boards for putting things on"
+      },
+      {
+        "forms" : [
+          "shoppers"
+        ],
+        "note" : "Plural of shopper, from shop + -er (the p doubles): a person who shops.",
+        "pos" : "noun",
+        "translation" : "people who go to shops to buy things"
+      },
+      {
+        "forms" : [
+          "stiftung"
+        ],
+        "note" : "Part of the name Stiftung Warentest, Germany's product-testing foundation, 1964.",
+        "pos" : "noun",
+        "translation" : "foundation (German)"
+      },
+      {
+        "forms" : [
+          "warentest"
+        ],
+        "note" : "Part of the name Stiftung Warentest, Germany's product-testing foundation, 1964.",
+        "pos" : "noun",
+        "translation" : "goods test, a test of products (German)"
       }
     ],
     "french" : [
@@ -29471,7 +29705,7 @@
           "chiffres"
         ],
         "gender" : "masculine",
-        "note" : "Plural of chiffre.",
+        "note" : "Un chiffre = a number, a figure; plural chiffres.",
         "pos" : "noun",
         "translation" : "numbers, figures"
       },
@@ -29800,9 +30034,9 @@
           "côte"
         ],
         "gender" : "feminine",
-        "note" : "Where the caravan begins its journey.",
+        "note" : "La côte = the coast; « côte à côte » = side by side.",
         "pos" : "noun",
-        "translation" : "coast"
+        "translation" : "coast; side (côte à côte = side by side)"
       },
       {
         "forms" : [
@@ -30929,9 +31163,9 @@
           "l'air"
         ],
         "gender" : "masculine",
-        "note" : "Le + air, shortened before the vowel.",
+        "note" : "Le + air before the vowel; « avoir l'air » = to look or seem: « il a l'air plus cher ».",
         "pos" : "noun",
-        "translation" : "the air"
+        "translation" : "the air; (avoir l'air) to look, seem"
       },
       {
         "forms" : [
@@ -31709,9 +31943,9 @@
           "numéro"
         ],
         "gender" : "masculine",
-        "note" : "As in a phone number.",
+        "note" : "A phone number, or one issue of a magazine: « le premier numéro ».",
         "pos" : "noun",
-        "translation" : "number"
+        "translation" : "number; issue (of a magazine)"
       },
       {
         "forms" : [
@@ -32014,7 +32248,8 @@
       {
         "forms" : [
           "peut",
-          "peuvent"
+          "peuvent",
+          "peux"
         ],
         "note" : "From pouvoir (can, to be able to).",
         "pos" : "verb",
@@ -36125,6 +36360,7 @@
       },
       {
         "forms" : [
+          "magasin",
           "magasins"
         ],
         "gender" : "masculine",
@@ -40553,7 +40789,7 @@
           "coûtent",
           "coûté"
         ],
-        "note" : "Coûter, il/elle form; coûté is the past participle.",
+        "note" : "Coûter: « il coûte » = it costs, « ils coûtent » = they cost; coûté is the past participle.",
         "pos" : "verb",
         "translation" : "costs"
       },
@@ -40603,7 +40839,8 @@
       },
       {
         "forms" : [
-          "créé"
+          "créé",
+          "créée"
         ],
         "note" : "Past participle of créer.",
         "pos" : "verb",
@@ -46661,9 +46898,9 @@
           "journaux"
         ],
         "gender" : "masculine",
-        "note" : "Irregular plural. Also a newspaper: lire le journal = to read the paper; \"papier journal\" = newspaper as a material, old sheets of it.",
+        "note" : "Irregular plural of journal; « le journal » usually means the newspaper (lire le journal), also a diary.",
         "pos" : "noun",
-        "translation" : "diary, journal"
+        "translation" : "newspapers; diary, journal"
       },
       {
         "forms" : [
@@ -48605,9 +48842,9 @@
         "forms" : [
           "sorti"
         ],
-        "note" : "Past participle of \"sortir.\"",
+        "note" : "Past participle of sortir; « le magazine est sorti » = the magazine came out.",
         "pos" : "verb",
-        "translation" : "went out, exited"
+        "translation" : "went out, exited; came out (was published)"
       },
       {
         "forms" : [
@@ -48765,9 +49002,9 @@
           "testé",
           "testés"
         ],
-        "note" : "Infinitive.",
+        "note" : "Tester (infinitive); « testé / testés » = tested (past participle).",
         "pos" : "verb",
-        "translation" : "to test"
+        "translation" : "to test; tested"
       },
       {
         "forms" : [
@@ -48792,9 +49029,9 @@
           "tombée",
           "tombés"
         ],
-        "note" : "Infinitive.",
+        "note" : "Tomber (infinitive); « tombée / tombés » = fallen (past participle).",
         "pos" : "verb",
-        "translation" : "to fall"
+        "translation" : "to fall; fallen"
       },
       {
         "forms" : [
@@ -50027,7 +50264,9 @@
       },
       {
         "forms" : [
-          "comparent"
+          "compare",
+          "comparent",
+          "comparer"
         ],
         "note" : "Comparer, present plural.",
         "pos" : "verb",
@@ -51091,9 +51330,9 @@
           "vend",
           "vendre"
         ],
-        "note" : "Vendre, present tense.",
+        "note" : "Vendre (infinitive); « il vend » = he sells.",
         "pos" : "verb",
-        "translation" : "sells"
+        "translation" : "to sell; sells"
       },
       {
         "forms" : [
@@ -51206,6 +51445,7 @@
       },
       {
         "forms" : [
+          "comparable",
           "comparables"
         ],
         "note" : "Plural adjective.",
@@ -51898,7 +52138,8 @@
       },
       {
         "forms" : [
-          "kiosque"
+          "kiosque",
+          "kiosques"
         ],
         "gender" : "masculine",
         "note" : "Noun.",
@@ -52947,6 +53188,7 @@
       {
         "forms" : [
           "achète",
+          "achètent",
           "l'achète"
         ],
         "note" : "Présent de « acheter » ; « l'achète » = « le/la achète ».",
@@ -65805,6 +66047,253 @@
         "note" : "Une revue is a magazine or a scientific journal: « la revue Nature » = the journal Nature, where scientists publish their work.",
         "pos" : "noun",
         "translation" : "journal, magazine"
+      },
+      {
+        "forms" : [
+          "1966"
+        ],
+        "note" : "A year, read « mille neuf cent soixante-six »: the first issue of the magazine came out in March 1966.",
+        "pos" : "number",
+        "translation" : "1966"
+      },
+      {
+        "forms" : [
+          "l'ouest"
+        ],
+        "gender" : "masculine",
+        "note" : "L' + ouest (west), shortened before the vowel; « l'Allemagne de l'Ouest » = West Germany, the country from 1949 to 1990.",
+        "pos" : "noun",
+        "translation" : "the West"
+      },
+      {
+        "forms" : [
+          "stiftung"
+        ],
+        "gender" : "feminine",
+        "note" : "German for foundation; French keeps the German name: « la Stiftung Warentest », a foundation in Berlin that tests products.",
+        "pos" : "noun",
+        "translation" : "Stiftung (foundation)"
+      },
+      {
+        "forms" : [
+          "warentest"
+        ],
+        "gender" : "masculine",
+        "note" : "German Waren (goods) + Test: the second half of the name « Stiftung Warentest », which French does not translate.",
+        "pos" : "noun",
+        "translation" : "Warentest (product testing)"
+      },
+      {
+        "forms" : [
+          "coudre"
+        ],
+        "note" : "Infinitive; « une machine à coudre » = a sewing machine: à + infinitive says what a machine is for.",
+        "pos" : "verb",
+        "translation" : "to sew"
+      },
+      {
+        "forms" : [
+          "mixeurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un mixeur », a kitchen machine that mixes or blends food.",
+        "pos" : "noun",
+        "translation" : "mixers"
+      },
+      {
+        "forms" : [
+          "100 000"
+        ],
+        "note" : "Read « cent mille »: French groups thousands with a space, not a comma.",
+        "pos" : "number",
+        "translation" : "100,000, a hundred thousand"
+      },
+      {
+        "forms" : [
+          "magazine"
+        ],
+        "gender" : "masculine",
+        "note" : "Un magazine is masculine although it ends in -e: « un nouveau magazine », « son magazine ».",
+        "pos" : "noun",
+        "translation" : "magazine"
+      },
+      {
+        "forms" : [
+          "testeurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un testeur », a person whose job is to test things.",
+        "pos" : "noun",
+        "translation" : "testers"
+      },
+      {
+        "forms" : [
+          "500"
+        ],
+        "note" : "Read « cinq cents »: « 500 grammes » = 500 grams.",
+        "pos" : "number",
+        "translation" : "500, five hundred"
+      },
+      {
+        "forms" : [
+          "2"
+        ],
+        "note" : "Read « deux »: « 2 euros » = two euros.",
+        "pos" : "number",
+        "translation" : "2, two"
+      },
+      {
+        "forms" : [
+          "euros"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un euro »: French adds -s, « 2 euros », « 4 euros le kilo » = 4 euros a kilo.",
+        "pos" : "noun",
+        "translation" : "euros"
+      },
+      {
+        "forms" : [
+          "3,50"
+        ],
+        "note" : "French writes a decimal comma, not a point: « 3,50 » is read « trois cinquante » (three fifty), short for 3,50 euros.",
+        "pos" : "number",
+        "translation" : "3.50, three euros fifty"
+      },
+      {
+        "forms" : [
+          "européenne"
+        ],
+        "note" : "Feminine of européen; « la loi européenne » = EU law, the rules all EU countries share.",
+        "pos" : "adjective",
+        "translation" : "European, EU"
+      },
+      {
+        "forms" : [
+          "abonnés"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un abonné », someone who pays to get every issue of a magazine.",
+        "pos" : "noun",
+        "translation" : "subscribers"
+      },
+      {
+        "forms" : [
+          "1968"
+        ],
+        "note" : "A year, read « mille neuf cent soixante-huit ».",
+        "pos" : "number",
+        "translation" : "1968"
+      },
+      {
+        "forms" : [
+          "oblige"
+        ],
+        "note" : "Obliger, il/elle form: « obliger quelqu'un à + infinitive » = to make someone do something, by law: « la loi oblige les magasins à montrer ce chiffre ».",
+        "pos" : "verb",
+        "translation" : "obliges, makes (someone do)"
+      },
+      {
+        "forms" : [
+          "fondation"
+        ],
+        "gender" : "feminine",
+        "note" : "Une fondation is an organisation set up with money for a lasting purpose, here to test products.",
+        "pos" : "noun",
+        "translation" : "foundation"
+      },
+      {
+        "forms" : [
+          "berlin"
+        ],
+        "gender" : "masculine",
+        "note" : "The German city where the Stiftung Warentest was set up in 1964.",
+        "pos" : "noun",
+        "translation" : "Berlin"
+      },
+      {
+        "forms" : [
+          "produits"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un produit », a thing that is made to be sold.",
+        "pos" : "noun",
+        "translation" : "products"
+      },
+      {
+        "forms" : [
+          "acheteurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un acheteur », a person who buys things.",
+        "pos" : "noun",
+        "translation" : "buyers, shoppers"
+      },
+      {
+        "forms" : [
+          "210 000"
+        ],
+        "note" : "Read « deux cent dix mille »: French groups thousands with a space.",
+        "pos" : "number",
+        "translation" : "210,000"
+      },
+      {
+        "forms" : [
+          "afficher"
+        ],
+        "note" : "Infinitive; « afficher un prix » = to put a price up where everyone can see it.",
+        "pos" : "verb",
+        "translation" : "to display, to show"
+      },
+      {
+        "forms" : [
+          "1964"
+        ],
+        "note" : "A year, read « mille neuf cent soixante-quatre »: when the foundation was set up.",
+        "pos" : "number",
+        "translation" : "1964"
+      },
+      {
+        "forms" : [
+          "scientifiquement"
+        ],
+        "note" : "Scientifique + -ment: in a careful, scientific way.",
+        "pos" : "adverb",
+        "translation" : "scientifically"
+      },
+      {
+        "forms" : [
+          "prometteur"
+        ],
+        "note" : "From promettre (to promise): « un début prometteur » = a promising start.",
+        "pos" : "adjective",
+        "translation" : "promising"
+      },
+      {
+        "forms" : [
+          "revoilà"
+        ],
+        "note" : "Re- + voilà: « le revoilà » = here it is again, it is back; very spoken.",
+        "pos" : "other",
+        "translation" : "here it is again"
+      },
+      {
+        "forms" : [
+          "l'étiquette"
+        ],
+        "gender" : "feminine",
+        "note" : "L' + étiquette, shortened before the vowel: the small price label on the shelf.",
+        "pos" : "noun",
+        "translation" : "the label"
+      },
+      {
+        "forms" : [
+          "rayon",
+          "rayons"
+        ],
+        "gender" : "masculine",
+        "note" : "In a shop, « un rayon » is a shelf or an aisle: « l'étiquette du rayon » = the shelf label; « des rayons entiers » = whole shelves.",
+        "pos" : "noun",
+        "translation" : "shelf, aisle (in a shop)"
       }
     ],
     "german" : [
@@ -66891,7 +67380,8 @@
       },
       {
         "forms" : [
-          "einkaufen"
+          "einkaufen",
+          "einkaufst"
         ],
         "note" : "Infinitive — going shopping.",
         "pos" : "verb",
@@ -71091,6 +71581,7 @@
       },
       {
         "forms" : [
+          "zeigen",
           "zeigt"
         ],
         "note" : "Zeigen (to show), \"er/sie/es\" form.",
@@ -76651,13 +77142,18 @@
           "schaust",
           "schaute"
         ],
-        "note" : "Forms of schauen — \"schau\" is the imperative. Separable: … an = anschauen, to look at; … zu = zuschauen, to watch; „schau zu, wie die Milch golden wird“ = watch the milk turn golden.",
+        "note" : "Forms of schauen — \"schau\" is the imperative. Separable: … an = anschauen, to look at; … zu = zuschauen, to watch; „schau zu, wie die Milch golden wird“ = watch the milk turn golden; … hin = hinschauen, to look (closely); „Schau zweimal hin!“ = look twice.",
         "pos" : "verb",
         "separable" : [
           {
             "particle" : "an",
             "translation" : "to look at",
             "verb" : "anschauen"
+          },
+          {
+            "particle" : "hin",
+            "translation" : "to look (closely)",
+            "verb" : "hinschauen"
           }
         ],
         "translation" : "look"
@@ -79803,9 +80299,9 @@
           "kostet",
           "kosteten"
         ],
-        "note" : "Kosten, er/sie/es form.",
+        "note" : "Kosten (infinitive, and „sie kosten“ = they cost); „kostet“ = it costs; „kosteten“ = cost (past).",
         "pos" : "verb",
-        "translation" : "costs"
+        "translation" : "to cost; costs"
       },
       {
         "forms" : [
@@ -85925,9 +86421,9 @@
           "testen",
           "testet"
         ],
-        "note" : "Infinitive.",
+        "note" : "Testen (infinitive); „testet“ = he/she/it tests.",
         "pos" : "verb",
-        "translation" : "to test"
+        "translation" : "to test; tests"
       },
       {
         "forms" : [
@@ -86297,7 +86793,8 @@
       },
       {
         "forms" : [
-          "vielversprechend"
+          "vielversprechend",
+          "vielversprechender"
         ],
         "note" : "Showing good potential.",
         "pos" : "adjective",
@@ -87114,7 +87611,8 @@
       {
         "forms" : [
           "apfel",
-          "äpfel"
+          "äpfel",
+          "äpfeln"
         ],
         "gender" : "masculine",
         "note" : "Apfel (singular) and its plural Äpfel.",
@@ -88552,7 +89050,7 @@
           "kiosk"
         ],
         "gender" : "masculine",
-        "note" : "Where Frau Halden sells newspapers.",
+        "note" : "A small shop or stand that sells newspapers and magazines.",
         "pos" : "noun",
         "translation" : "kiosk, newsstand"
       },
@@ -90379,7 +90877,7 @@
           "zahl"
         ],
         "gender" : "feminine",
-        "note" : "The tally of forest-loss warnings.",
+        "note" : "A number or figure: „die kleine Zahl“ = the small number.",
         "pos" : "noun",
         "translation" : "number"
       },
@@ -94595,7 +95093,8 @@
       },
       {
         "forms" : [
-          "teuer"
+          "teuer",
+          "teurer"
         ],
         "note" : "„Binden waren zu teuer“ = pads were too expensive; after sein the adjective takes no ending.",
         "pos" : "adjective",
@@ -96702,9 +97201,9 @@
           "billigen",
           "billiger"
         ],
-        "note" : "Forms of billig (cheap): „aus einem billigen Glas“ (dative), „billiger Hefeaufstrich“ (masculine, no article).",
+        "note" : "Forms of billig (cheap): „aus einem billigen Glas“; „billiger“ is also the comparative: cheaper.",
         "pos" : "adjective",
-        "translation" : "cheap"
+        "translation" : "cheap; cheaper"
       },
       {
         "forms" : [
@@ -99290,7 +99789,8 @@
       },
       {
         "forms" : [
-          "preis"
+          "preis",
+          "preise"
         ],
         "gender" : "masculine",
         "note" : "Der Preis is both a price and a prize; „einen Preis nennen“ = to name a price.",
@@ -99931,6 +100431,7 @@
       },
       {
         "forms" : [
+          "liter",
           "litern"
         ],
         "gender" : "masculine",
@@ -101164,7 +101665,7 @@
         "forms" : [
           "1971"
         ],
-        "note" : "The year local leaders in North Karelia asked the government for help: „neunzehnhunderteinundsiebzig“.",
+        "note" : "A year: „neunzehnhunderteinundsiebzig“.",
         "pos" : "number",
         "translation" : "1971"
       },
@@ -105201,6 +105702,306 @@
         "note" : "Vorgeben, separable (vor + geben): „den Takt vorgeben“ = to set the beat, to call the tune; here the clocks would keep time for GPS.",
         "pos" : "verb",
         "translation" : "to set, to give (a pace)"
+      },
+      {
+        "forms" : [
+          "1966"
+        ],
+        "note" : "A year, read „neunzehnhundertsechsundsechzig“: the first issue came out in March 1966.",
+        "pos" : "number",
+        "translation" : "1966"
+      },
+      {
+        "forms" : [
+          "westdeutschland"
+        ],
+        "gender" : "neuter",
+        "note" : "Das (frühere) Westdeutschland, the Federal Republic before 1990; „in Westdeutschland“ needs no article.",
+        "pos" : "noun",
+        "translation" : "West Germany"
+      },
+      {
+        "forms" : [
+          "stiftung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Stiftung, an organisation set up with money for a lasting purpose; „die Stiftung Warentest“ is the one in Berlin that tests products.",
+        "pos" : "noun",
+        "translation" : "foundation"
+      },
+      {
+        "forms" : [
+          "warentest"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Warentest = Waren (goods) + Test; part of the name „Stiftung Warentest“, the foundation for testing goods.",
+        "pos" : "noun",
+        "translation" : "product test"
+      },
+      {
+        "forms" : [
+          "nähmaschinen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Nähmaschine: nähen (to sew) + Maschine.",
+        "pos" : "noun",
+        "translation" : "sewing machines"
+      },
+      {
+        "forms" : [
+          "mixer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Mixer, a kitchen machine that mixes or blends; the plural is the same: „die Mixer“.",
+        "pos" : "noun",
+        "translation" : "mixers"
+      },
+      {
+        "forms" : [
+          "nebeneinander"
+        ],
+        "note" : "Neben (next to) + einander (each other): „nebeneinander testen“ = to test side by side.",
+        "pos" : "adverb",
+        "translation" : "side by side, next to each other"
+      },
+      {
+        "forms" : [
+          "100.000"
+        ],
+        "note" : "Read „hunderttausend“: German groups thousands with a dot, not a comma.",
+        "pos" : "number",
+        "translation" : "100,000, a hundred thousand"
+      },
+      {
+        "forms" : [
+          "gratis"
+        ],
+        "note" : "Spoken word for kostenlos: „gratis an Zeitungen geben“ = to give to newspapers for free.",
+        "pos" : "adverb",
+        "translation" : "for free"
+      },
+      {
+        "forms" : [
+          "500"
+        ],
+        "note" : "Read „fünfhundert“: „500 Gramm“ = 500 grams.",
+        "pos" : "number",
+        "translation" : "500, five hundred"
+      },
+      {
+        "forms" : [
+          "2"
+        ],
+        "note" : "Read „zwei“: „2 Euro“ = two euros.",
+        "pos" : "number",
+        "translation" : "2, two"
+      },
+      {
+        "forms" : [
+          "euro"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Euro; after a number it stays singular: „2 Euro“, „4 Euro pro Kilo“.",
+        "pos" : "noun",
+        "translation" : "euro(s)"
+      },
+      {
+        "forms" : [
+          "3,50"
+        ],
+        "note" : "German writes a decimal comma: „3,50“ is read „drei fünfzig“ (three fifty), short for 3,50 Euro.",
+        "pos" : "number",
+        "translation" : "3.50, three euros fifty"
+      },
+      {
+        "forms" : [
+          "überraschung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Überraschung, from überraschen (to surprise); on its own, „Überraschung!“ = surprise!",
+        "pos" : "noun",
+        "translation" : "surprise"
+      },
+      {
+        "forms" : [
+          "eu-recht"
+        ],
+        "gender" : "neuter",
+        "note" : "Das EU-Recht, the law all EU countries share: EU + Recht (law); „das EU-Recht sagt“ = EU law says.",
+        "pos" : "noun",
+        "translation" : "EU law"
+      },
+      {
+        "forms" : [
+          "herausgebracht"
+        ],
+        "note" : "Partizip II of herausbringen (separable: heraus + bringen, ge- in the middle): „eine Zeitschrift herausbringen“ = to bring out a magazine.",
+        "pos" : "verb",
+        "translation" : "brought out, published"
+      },
+      {
+        "forms" : [
+          "heft",
+          "hefte"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Heft is one issue of a magazine (also an exercise book); plural die Hefte.",
+        "pos" : "noun",
+        "translation" : "issue, copy (of a magazine)"
+      },
+      {
+        "forms" : [
+          "abonnenten"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Abonnent, someone who pays to get every issue (das Abo).",
+        "pos" : "noun",
+        "translation" : "subscribers"
+      },
+      {
+        "forms" : [
+          "1968"
+        ],
+        "note" : "A year, read „neunzehnhundertachtundsechzig“.",
+        "pos" : "number",
+        "translation" : "1968"
+      },
+      {
+        "forms" : [
+          "berlin"
+        ],
+        "gender" : "neuter",
+        "note" : "Germany's capital; the Stiftung Warentest was set up there in 1964.",
+        "pos" : "noun",
+        "translation" : "Berlin"
+      },
+      {
+        "forms" : [
+          "käufer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Käufer, from kaufen (to buy); the plural is the same: „für Käufer“ = for shoppers.",
+        "pos" : "noun",
+        "translation" : "buyers, shoppers"
+      },
+      {
+        "forms" : [
+          "210.000"
+        ],
+        "note" : "Read „zweihundertzehntausend“: German groups thousands with a dot.",
+        "pos" : "number",
+        "translation" : "210,000"
+      },
+      {
+        "forms" : [
+          "weitergegeben"
+        ],
+        "note" : "Partizip II of weitergeben (separable: weiter + geben, ge- in the middle): to pass something on to others.",
+        "pos" : "verb",
+        "translation" : "passed on, handed on"
+      },
+      {
+        "forms" : [
+          "grundpreis"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Grundpreis, the price per kilo or litre shown in small print under the price, so you can compare packs of different sizes.",
+        "pos" : "noun",
+        "translation" : "unit price"
+      },
+      {
+        "forms" : [
+          "rausgekommen"
+        ],
+        "note" : "Partizip II of rauskommen, spoken for herauskommen; it takes sein: „ist rausgekommen“ = came out.",
+        "pos" : "verb",
+        "translation" : "come out, been published"
+      },
+      {
+        "forms" : [
+          "1964"
+        ],
+        "note" : "A year, read „neunzehnhundertvierundsechzig“: when the foundation was set up.",
+        "pos" : "number",
+        "translation" : "1964"
+      },
+      {
+        "forms" : [
+          "gegründet"
+        ],
+        "note" : "Partizip II of gründen; „gegründet hatte“ is the Plusquamperfekt: had set up.",
+        "pos" : "verb",
+        "translation" : "founded, set up"
+      },
+      {
+        "forms" : [
+          "wissenschaftlich"
+        ],
+        "note" : "From die Wissenschaft (science); German uses the same form as an adverb: „wissenschaftlich vergleichen“.",
+        "pos" : "adjective",
+        "translation" : "scientifically, scientific"
+      },
+      {
+        "forms" : [
+          "nebeneinandergestellt"
+        ],
+        "note" : "Partizip II of nebeneinanderstellen (separable: nebeneinander + stellen): to put next to each other.",
+        "pos" : "verb",
+        "translation" : "put side by side"
+      },
+      {
+        "forms" : [
+          "handtuch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Handtuch; „das Handtuch werfen“ = to throw in the towel, to give up.",
+        "pos" : "noun",
+        "translation" : "towel"
+      },
+      {
+        "forms" : [
+          "werfen"
+        ],
+        "note" : "Infinitive; „statt das Handtuch zu werfen“ = rather than throw in the towel.",
+        "pos" : "verb",
+        "translation" : "to throw"
+      },
+      {
+        "forms" : [
+          "regalschild"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Regalschild = Regal (shelf) + Schild (sign): the small label on the shelf with the price.",
+        "pos" : "noun",
+        "translation" : "shelf label"
+      },
+      {
+        "forms" : [
+          "tester"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Tester, a person who tests things; the plural is the same: „die Tester“.",
+        "pos" : "noun",
+        "translation" : "testers"
+      },
+      {
+        "forms" : [
+          "regal",
+          "regale"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Regal, plural die Regale: „für ganze Regale“ = for whole shelves.",
+        "pos" : "noun",
+        "translation" : "shelf, shelves"
+      },
+      {
+        "forms" : [
+          "produkte"
+        ],
+        "gender" : "neuter",
+        "note" : "Plural of das Produkt, a thing made to be sold: „eine Stiftung, die Produkte testet“.",
+        "pos" : "noun",
+        "translation" : "products"
       }
     ],
     "italian" : [
@@ -107251,9 +108052,9 @@
           "chilo"
         ],
         "gender" : "masculine",
-        "note" : "Short for chilogrammi.",
+        "note" : "Short for chilogrammo: un chilo, due chili.",
         "pos" : "noun",
-        "translation" : "kilograms"
+        "translation" : "kilo(s)"
       },
       {
         "forms" : [
@@ -108054,9 +108855,9 @@
           "costano",
           "costavano"
         ],
-        "note" : "From costare, \"to cost.\"",
+        "note" : "From costare: costa = it costs, costano = they cost.",
         "pos" : "verb",
-        "translation" : "costs"
+        "translation" : "costs; they cost"
       },
       {
         "forms" : [
@@ -108498,7 +109299,8 @@
           "dei",
           "del",
           "della",
-          "delle"
+          "delle",
+          "dello"
         ],
         "note" : "Contractions of di + il/i/lo/la/le, forms of the partitive.",
         "pos" : "preposition",
@@ -111894,6 +112696,7 @@
       {
         "forms" : [
           "mostra",
+          "mostrare",
           "mostrato"
         ],
         "note" : "From mostrare.",
@@ -113663,9 +114466,9 @@
           "provato",
           "provava"
         ],
-        "note" : "Provare (verb, \"to try\"); prova (noun, \"proof/test\").",
+        "note" : "Provare (verb: to try, to test); la prova (noun: proof, test).",
         "pos" : "other",
-        "translation" : "to try / proof"
+        "translation" : "to try, to test / proof, test"
       },
       {
         "forms" : [
@@ -118170,9 +118973,9 @@
           "confrontato",
           "confronto"
         ],
-        "note" : "Noun form is masculine.",
+        "note" : "Confrontare: confrontando = comparing, confrontato = compared; il confronto = the comparison.",
         "pos" : "verb",
-        "translation" : "comparing; comparison"
+        "translation" : "comparing; comparison; compared"
       },
       {
         "forms" : [
@@ -124200,7 +125003,8 @@
       },
       {
         "forms" : [
-          "confrontano"
+          "confrontano",
+          "confrontare"
         ],
         "note" : "From confrontare, third person plural present.",
         "pos" : "verb",
@@ -125262,6 +126066,7 @@
           "venderla",
           "vendono",
           "venduta",
+          "vendute",
           "venduto"
         ],
         "note" : "From vendere: vende = sells, vendono = they sell (non si vendono = they don't get sold), venduto = sold.",
@@ -125876,9 +126681,9 @@
           "comprarono",
           "compravano"
         ],
-        "note" : "Presente e passato remoto.",
+        "note" : "Comprare: compra = buys, comprano = they buy (present), comprarono = they bought.",
         "pos" : "verb",
-        "translation" : "buys; bought (they)"
+        "translation" : "buys; they buy; bought (they)"
       },
       {
         "forms" : [
@@ -138267,6 +139072,279 @@
         "note" : "Plural of il capo (head; end); «ai due capi del mondo» = at the two ends of the world, far apart.",
         "pos" : "noun",
         "translation" : "ends"
+      },
+      {
+        "forms" : [
+          "1966"
+        ],
+        "note" : "A year, said as one number: millenovecentosessantasei; the first issue came out in March 1966.",
+        "pos" : "number",
+        "translation" : "1966"
+      },
+      {
+        "forms" : [
+          "ovest"
+        ],
+        "gender" : "masculine",
+        "note" : "L'ovest; «la Germania Ovest» = West Germany, the country from 1949 to 1990.",
+        "pos" : "noun",
+        "translation" : "west"
+      },
+      {
+        "forms" : [
+          "stiftung"
+        ],
+        "gender" : "feminine",
+        "note" : "German for foundation; Italian keeps the German name: «la Stiftung Warentest», a foundation in Berlin that tests products.",
+        "pos" : "noun",
+        "translation" : "Stiftung (foundation)"
+      },
+      {
+        "forms" : [
+          "warentest"
+        ],
+        "gender" : "masculine",
+        "note" : "German Waren (goods) + Test: the second half of the name «Stiftung Warentest», which Italian does not translate.",
+        "pos" : "noun",
+        "translation" : "Warentest (product testing)"
+      },
+      {
+        "forms" : [
+          "cucire"
+        ],
+        "note" : "Infinitive; «una macchina da cucire» = a sewing machine: da + infinitive says what a machine is for.",
+        "pos" : "verb",
+        "translation" : "to sew"
+      },
+      {
+        "forms" : [
+          "frullatori"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il frullatore, the kitchen machine that blends or whisks food.",
+        "pos" : "noun",
+        "translation" : "mixers, blenders"
+      },
+      {
+        "forms" : [
+          "100.000"
+        ],
+        "note" : "Read «centomila»: Italian groups thousands with a dot, not a comma.",
+        "pos" : "number",
+        "translation" : "100,000, a hundred thousand"
+      },
+      {
+        "forms" : [
+          "prezzi",
+          "prezzo"
+        ],
+        "gender" : "masculine",
+        "note" : "Il prezzo, plural i prezzi; «il prezzo al chilo» = the price per kilo.",
+        "pos" : "noun",
+        "translation" : "price, prices"
+      },
+      {
+        "forms" : [
+          "500"
+        ],
+        "note" : "Read «cinquecento»: «500 grammi» = 500 grams.",
+        "pos" : "number",
+        "translation" : "500, five hundred"
+      },
+      {
+        "forms" : [
+          "2"
+        ],
+        "note" : "Read «due»: «2 euro» = two euros.",
+        "pos" : "number",
+        "translation" : "2, two"
+      },
+      {
+        "forms" : [
+          "euro"
+        ],
+        "gender" : "masculine",
+        "note" : "L'euro never changes in the plural: «2 euro», «4 euro al chilo» = 4 euros a kilo.",
+        "pos" : "noun",
+        "translation" : "euro(s)"
+      },
+      {
+        "forms" : [
+          "3,50"
+        ],
+        "note" : "Italian writes a decimal comma: «3,50» is read «tre e cinquanta» (three fifty), short for 3,50 euro.",
+        "pos" : "number",
+        "translation" : "3.50, three euros fifty"
+      },
+      {
+        "forms" : [
+          "europee"
+        ],
+        "note" : "Feminine plural of europeo; «le regole europee» = the EU rules, the law all EU countries share.",
+        "pos" : "adjective",
+        "translation" : "European, EU"
+      },
+      {
+        "forms" : [
+          "lanciato"
+        ],
+        "note" : "Past participle of lanciare (to throw, to launch): «ha lanciato una nuova rivista» = it started a new magazine.",
+        "pos" : "verb",
+        "translation" : "launched, started"
+      },
+      {
+        "forms" : [
+          "abbonati"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'abbonato, someone who pays to get every issue of a magazine.",
+        "pos" : "noun",
+        "translation" : "subscribers"
+      },
+      {
+        "forms" : [
+          "1968"
+        ],
+        "note" : "A year, said as one number: millenovecentosessantotto.",
+        "pos" : "number",
+        "translation" : "1968"
+      },
+      {
+        "forms" : [
+          "edicola"
+        ],
+        "gender" : "feminine",
+        "note" : "L'edicola, the kiosk that sells newspapers and magazines; «in edicola» = at the newsstand.",
+        "pos" : "noun",
+        "translation" : "newsstand"
+      },
+      {
+        "forms" : [
+          "fondazione"
+        ],
+        "gender" : "feminine",
+        "note" : "La fondazione, an organisation set up with money for a lasting purpose, here to test products.",
+        "pos" : "noun",
+        "translation" : "foundation"
+      },
+      {
+        "forms" : [
+          "berlino"
+        ],
+        "gender" : "feminine",
+        "note" : "The German city where the Stiftung Warentest was set up in 1964.",
+        "pos" : "noun",
+        "translation" : "Berlin"
+      },
+      {
+        "forms" : [
+          "spesa"
+        ],
+        "gender" : "feminine",
+        "note" : "La spesa; «fare la spesa» = to do the shopping, to buy food and everyday things.",
+        "pos" : "noun",
+        "translation" : "shopping (for food)"
+      },
+      {
+        "forms" : [
+          "210.000"
+        ],
+        "note" : "Read «duecentodiecimila»: Italian groups thousands with a dot.",
+        "pos" : "number",
+        "translation" : "210,000"
+      },
+      {
+        "forms" : [
+          "caro"
+        ],
+        "note" : "Caro means expensive (and dear, of a person): «sembra più caro» = it looks dearer.",
+        "pos" : "adjective",
+        "translation" : "dear, expensive"
+      },
+      {
+        "forms" : [
+          "obbligano"
+        ],
+        "note" : "Obbligare, loro form: «obbligare qualcuno a + infinitive» = to make someone do something, by law.",
+        "pos" : "verb",
+        "translation" : "oblige, make (someone do)"
+      },
+      {
+        "forms" : [
+          "1964"
+        ],
+        "note" : "A year, said as one number: millenovecentosessantaquattro; when the foundation was set up.",
+        "pos" : "number",
+        "translation" : "1964"
+      },
+      {
+        "forms" : [
+          "scientifico"
+        ],
+        "note" : "«Con metodo scientifico» = with a scientific method, scientifically.",
+        "pos" : "adjective",
+        "translation" : "scientific"
+      },
+      {
+        "forms" : [
+          "prodotti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il prodotto (noun), a thing made to be sold: «prodotti dello stesso tipo» = products of the same kind.",
+        "pos" : "noun",
+        "translation" : "products"
+      },
+      {
+        "forms" : [
+          "merci"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la merce, the things shops sell: «provare le merci» = to test goods.",
+        "pos" : "noun",
+        "translation" : "goods"
+      },
+      {
+        "forms" : [
+          "gettare"
+        ],
+        "note" : "Infinitive; «gettare la spugna» = to throw in the towel, to give up.",
+        "pos" : "verb",
+        "translation" : "to throw"
+      },
+      {
+        "forms" : [
+          "voluta"
+        ],
+        "note" : "Past participle of volere in «ci vuole» (it takes): «ci è voluta pazienza» = it took patience; it agrees with pazienza.",
+        "pos" : "verb",
+        "translation" : "taken, needed (ci vuole)"
+      },
+      {
+        "forms" : [
+          "sull'etichetta"
+        ],
+        "note" : "Su + l'etichetta: «sull'etichetta dello scaffale» = on the shelf label.",
+        "pos" : "other",
+        "translation" : "on the label"
+      },
+      {
+        "forms" : [
+          "scaffale",
+          "scaffali"
+        ],
+        "gender" : "masculine",
+        "note" : "Lo scaffale, plural gli scaffali: the shelves in a shop; «scaffali interi» = whole shelves.",
+        "pos" : "noun",
+        "translation" : "shelf, shelves"
+      },
+      {
+        "forms" : [
+          "tester"
+        ],
+        "gender" : "masculine",
+        "note" : "I tester, the people who test products; an English word that does not change in the plural.",
+        "pos" : "noun",
+        "translation" : "testers"
       }
     ],
     "spanish" : [
@@ -142750,9 +143828,9 @@
           "trabajaban",
           "trabajo"
         ],
-        "note" : "\"Trabajaba\" is the imperfect verb form, \"trabajo\" the noun \"work.\"",
+        "note" : "\"Trabajo\" is the noun (work, job: su trabajo era…); \"trabajaba\" is the imperfect verb form.",
         "pos" : "verb",
-        "translation" : "was working / work"
+        "translation" : "work, job / was working"
       },
       {
         "forms" : [
@@ -145387,6 +146465,7 @@
       },
       {
         "forms" : [
+          "mostrar",
           "mostraron",
           "mostró"
         ],
@@ -148760,6 +149839,7 @@
       },
       {
         "forms" : [
+          "creado",
           "crearon"
         ],
         "note" : "Past tense of crear, plural.",
@@ -148858,7 +149938,7 @@
           "cuesta",
           "cuestan"
         ],
-        "note" : "Costar, él/ella form.",
+        "note" : "Costar: \"cuesta\" = it costs, \"cuestan\" = they cost, \"costaban\" = they cost (past).",
         "pos" : "verb",
         "translation" : "costs"
       },
@@ -153617,9 +154697,9 @@
           "dejaron",
           "dejó"
         ],
-        "note" : "Past participle and past tense of \"dejar.\"",
+        "note" : "Past forms of dejar; « dejaron de vender » = they stopped selling.",
         "pos" : "verb",
-        "translation" : "left; left (plural); left"
+        "translation" : "left; (dejar de) stopped"
       },
       {
         "forms" : [
@@ -155678,6 +156758,7 @@
       },
       {
         "forms" : [
+          "prometedor",
           "prometedora"
         ],
         "note" : "Showing good potential.",
@@ -157595,7 +158676,7 @@
           "barato",
           "baratos"
         ],
-        "note" : "Feminine of barato.",
+        "note" : "Barato (masculine), barata (feminine), baratos (plural): cheap.",
         "pos" : "adjective",
         "translation" : "cheap"
       },
@@ -157849,6 +158930,7 @@
       },
       {
         "forms" : [
+          "comparable",
           "comparables"
         ],
         "note" : "Plural of comparable.",
@@ -157857,7 +158939,10 @@
       },
       {
         "forms" : [
-          "comparan"
+          "compara",
+          "comparan",
+          "comparar",
+          "comparó"
         ],
         "note" : "Present of comparar.",
         "pos" : "verb",
@@ -158562,6 +159647,7 @@
       },
       {
         "forms" : [
+          "etiqueta",
           "etiquetas"
         ],
         "gender" : "feminine",
@@ -159696,7 +160782,8 @@
       },
       {
         "forms" : [
-          "quiosco"
+          "quiosco",
+          "quioscos"
         ],
         "gender" : "masculine",
         "note" : "A newsstand or kiosk.",
@@ -160244,12 +161331,14 @@
       {
         "forms" : [
           "vende",
+          "vender",
           "venderla",
+          "vendieron",
           "vendió"
         ],
-        "note" : "Present of vender.",
+        "note" : "Vender: « vende » = sells, « vendió » = sold, « venderla » = to sell it.",
         "pos" : "verb",
-        "translation" : "sells"
+        "translation" : "sells; to sell it"
       },
       {
         "forms" : [
@@ -164206,6 +165295,7 @@
       {
         "forms" : [
           "imprime",
+          "imprimieron",
           "imprimió"
         ],
         "note" : "Present and indefinido of imprimir: \"él mismo lo imprime\" = he prints it himself.",
@@ -173048,6 +174138,237 @@
         "note" : "Plural of la punta (tip, end); «en dos puntas del mundo» = at two ends of the world, far apart.",
         "pos" : "noun",
         "translation" : "ends, tips"
+      },
+      {
+        "forms" : [
+          "1966"
+        ],
+        "note" : "A year, read «mil novecientos sesenta y seis»: the first issue came out in March 1966.",
+        "pos" : "number",
+        "translation" : "1966"
+      },
+      {
+        "forms" : [
+          "occidental"
+        ],
+        "note" : "«Alemania Occidental» = West Germany, the country from 1949 to 1990.",
+        "pos" : "adjective",
+        "translation" : "western, West"
+      },
+      {
+        "forms" : [
+          "stiftung"
+        ],
+        "gender" : "feminine",
+        "note" : "German for foundation; Spanish keeps the German name: «la Stiftung Warentest», a foundation in Berlin that tests products.",
+        "pos" : "noun",
+        "translation" : "Stiftung (foundation)"
+      },
+      {
+        "forms" : [
+          "warentest"
+        ],
+        "gender" : "masculine",
+        "note" : "German Waren (goods) + Test: the second half of the name «Stiftung Warentest», which Spanish does not translate.",
+        "pos" : "noun",
+        "translation" : "Warentest (product testing)"
+      },
+      {
+        "forms" : [
+          "coser"
+        ],
+        "note" : "Infinitive; «una máquina de coser» = a sewing machine: de + infinitive says what a machine is for.",
+        "pos" : "verb",
+        "translation" : "to sew"
+      },
+      {
+        "forms" : [
+          "batidoras"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la batidora, the kitchen machine that beats or blends food.",
+        "pos" : "noun",
+        "translation" : "mixers"
+      },
+      {
+        "forms" : [
+          "100.000"
+        ],
+        "note" : "Read «cien mil»: Spanish groups thousands with a dot, not a comma.",
+        "pos" : "number",
+        "translation" : "100,000, a hundred thousand"
+      },
+      {
+        "forms" : [
+          "precio",
+          "precios"
+        ],
+        "gender" : "masculine",
+        "note" : "El precio; «el precio por kilo» = the price per kilo, the small number that lets you compare.",
+        "pos" : "noun",
+        "translation" : "price, prices"
+      },
+      {
+        "forms" : [
+          "500"
+        ],
+        "note" : "Read «quinientos»: «500 gramos» = 500 grams.",
+        "pos" : "number",
+        "translation" : "500, five hundred"
+      },
+      {
+        "forms" : [
+          "2"
+        ],
+        "note" : "Read «dos»: «2 euros» = two euros.",
+        "pos" : "number",
+        "translation" : "2, two"
+      },
+      {
+        "forms" : [
+          "euros"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el euro: «2 euros», «4 euros el kilo» = 4 euros a kilo.",
+        "pos" : "noun",
+        "translation" : "euros"
+      },
+      {
+        "forms" : [
+          "3,50"
+        ],
+        "note" : "Spanish writes a decimal comma: «3,50» is read «tres cincuenta» (three fifty), short for 3,50 euros.",
+        "pos" : "number",
+        "translation" : "3.50, three euros fifty"
+      },
+      {
+        "forms" : [
+          "europea"
+        ],
+        "note" : "Feminine of europeo; «la ley europea» = EU law, the rules all EU countries share.",
+        "pos" : "adjective",
+        "translation" : "European, EU"
+      },
+      {
+        "forms" : [
+          "lanzó"
+        ],
+        "note" : "Pretérito of lanzar (to throw, to launch): «lanzó una revista» = it started a magazine.",
+        "pos" : "verb",
+        "translation" : "launched, started"
+      },
+      {
+        "forms" : [
+          "suscriptores"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el suscriptor, someone who pays to get every issue of a magazine.",
+        "pos" : "noun",
+        "translation" : "subscribers"
+      },
+      {
+        "forms" : [
+          "1968"
+        ],
+        "note" : "A year, read «mil novecientos sesenta y ocho».",
+        "pos" : "number",
+        "translation" : "1968"
+      },
+      {
+        "forms" : [
+          "fundación"
+        ],
+        "gender" : "feminine",
+        "note" : "La fundación, an organisation set up with money for a lasting purpose, here to test products.",
+        "pos" : "noun",
+        "translation" : "foundation"
+      },
+      {
+        "forms" : [
+          "berlín"
+        ],
+        "gender" : "masculine",
+        "note" : "The German city where the Stiftung Warentest was set up in 1964.",
+        "pos" : "noun",
+        "translation" : "Berlin"
+      },
+      {
+        "forms" : [
+          "compradores"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el comprador, a person who buys things.",
+        "pos" : "noun",
+        "translation" : "buyers, shoppers"
+      },
+      {
+        "forms" : [
+          "210.000"
+        ],
+        "note" : "Read «doscientos diez mil»: Spanish groups thousands with a dot.",
+        "pos" : "number",
+        "translation" : "210,000"
+      },
+      {
+        "forms" : [
+          "obliga"
+        ],
+        "note" : "Obligar, él/ella form: «obligar a alguien a + infinitive» = to make someone do something, by law.",
+        "pos" : "verb",
+        "translation" : "obliges, makes (someone do)"
+      },
+      {
+        "forms" : [
+          "1964"
+        ],
+        "note" : "A year, read «mil novecientos sesenta y cuatro»: when the foundation was set up.",
+        "pos" : "number",
+        "translation" : "1964"
+      },
+      {
+        "forms" : [
+          "científicamente"
+        ],
+        "note" : "Científica + -mente: in a careful, scientific way.",
+        "pos" : "adverb",
+        "translation" : "scientifically"
+      },
+      {
+        "forms" : [
+          "productos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el producto, a thing made to be sold.",
+        "pos" : "noun",
+        "translation" : "products"
+      },
+      {
+        "forms" : [
+          "comienzo"
+        ],
+        "gender" : "masculine",
+        "note" : "El comienzo; «un comienzo prometedor» = a promising start.",
+        "pos" : "noun",
+        "translation" : "start, beginning"
+      },
+      {
+        "forms" : [
+          "toalla"
+        ],
+        "gender" : "feminine",
+        "note" : "La toalla; «tirar la toalla» = to throw in the towel, to give up.",
+        "pos" : "noun",
+        "translation" : "towel"
+      },
+      {
+        "forms" : [
+          "estantería",
+          "estanterías"
+        ],
+        "gender" : "feminine",
+        "note" : "La estantería, the shelves in a shop; «estanterías enteras» = whole shelves.",
+        "pos" : "noun",
+        "translation" : "shelf, shelves"
       }
     ]
   },
@@ -215757,6 +217078,586 @@
       "summary" : "In una sola settimana di ottobre 2026, due gruppi ai lati opposti del mondo, ognuno per conto suo, hanno fatto partire un orologio che batte col minuscolo cuore di un atomo.",
       "title" : "L'orologio nel cuore dell'atomo",
       "translationGroup" : "heart-of-an-atom"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "id" : "look-twice",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To tell a friend what to do, English uses the base verb with no subject: look, compare, buy.",
+              "example" : "In a shop, look at the small number: the price per kilo.",
+              "title" : "The imperative: look at"
+            },
+            {
+              "body" : "To avoid saying the same verb twice, English uses \"do\" (\"does\" after he, she, it): a lot fewer do = a lot fewer people buy it.",
+              "example" : "A year later, a lot fewer do.",
+              "title" : "Do instead of the verb again: a lot fewer do"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "So it's 1966, in West Germany. Stiftung Warentest tests sewing machines and mixers side by side.",
+            "100,000 people buy its new magazine. A year later, a lot fewer do. It gives its results to newspapers for free.",
+            "In a shop, look at the small number: the price per kilo. 500 grams for 2 euros is 4 euros a kilo. One kilo for 3.50 is cheaper. Surprise!",
+            "EU law says shops must show that number. So people can compare. Look twice!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (started, tested, stopped); many common verbs have their own past form (buy → bought, give → gave).",
+              "example" : "At first, 100,000 people bought it.",
+              "title" : "The past simple: started, bought, gave"
+            },
+            {
+              "body" : "After \"stop\", the next verb takes -ing when you mean you no longer do it: they stopped selling = they didn't sell it any more.",
+              "example" : "In 1968, they stopped selling it at newsstands.",
+              "title" : "Stop + -ing: stopped selling"
+            },
+            {
+              "body" : "Short adjectives add -er to compare two things: cheap → cheaper, big → bigger.",
+              "example" : "One kilo for 3.50 is actually cheaper!",
+              "title" : "Comparatives with -er: cheaper"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In March 1966, Stiftung Warentest started a new magazine in West Germany. Its first issue tested sewing machines and mixers side by side, so people could compare.",
+            "At first, 100,000 people bought it. A year later, it had only 10,000 subscribers. That was hard.",
+            "In 1968, they stopped selling it at newsstands. They gave their results to newspapers for free, and by 1971 it was back on the newsstands.",
+            "You can compare too, in any shop. Look at the small number under the price: the price per kilo. If 500 grams cost 2 euros, that's 4 euros a kilo. One kilo for 3.50 is actually cheaper!",
+            "EU law says shops must show that number, so people can compare. Look twice!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a preposition like \"instead of\", the verb takes -ing: instead of giving up, not instead of give up.",
+              "example" : "Instead of giving up, they handed their results to newspapers for free in 1968 and stopped selling it at newsstands.",
+              "title" : "Instead of + -ing"
+            },
+            {
+              "body" : "\"To\" + the base verb after \"was\" says what something is for: its job was to test things.",
+              "example" : "Its job was to test things side by side for shoppers, so the first issue compared sewing machines and mixers.",
+              "title" : "Its job was to + verb"
+            },
+            {
+              "body" : "\"Look\" + adjective says how something seems; \"but\" then gives the fact that goes against it.",
+              "example" : "A kilo for 3.50 looks dearer, but it's actually cheaper.",
+              "title" : "Looks … but is …: looks and facts"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "At the end of March 1966, Stiftung Warentest, a foundation in Berlin, started a new magazine. Its job was to test things side by side for shoppers, so the first issue compared sewing machines and mixers.",
+            "They printed 210,000 copies, and 100,000 sold. A year later, though, there were only 10,000 subscribers.",
+            "Instead of giving up, they handed their results to newspapers for free in 1968 and stopped selling it at newsstands. By 1971, it was back on the newsstands.",
+            "When you shop, the small number under the price is the price per kilo or litre. If 500 grams cost 2 euros, that's 4 euros a kilo. A kilo for 3.50 looks dearer, but it's actually cheaper.",
+            "Today, EU law says shops must show that number, and it even says why: so people can compare prices. Look twice."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle puts an event further back than the story's main past: the foundation came first, in 1964, the magazine later.",
+              "example" : "Behind it was a foundation the government had set up in Berlin in 1964 to compare like with like, scientifically.",
+              "title" : "The past perfect: the government had set up"
+            },
+            {
+              "body" : "\"Rather than\" sets aside one choice for another, and is often followed by the base verb: rather than give up.",
+              "example" : "Rather than give up, in 1968 they handed their results to newspapers for free and stopped selling at newsstands.",
+              "title" : "Rather than + base verb"
+            },
+            {
+              "body" : "\"Turns out to be\" says what something really is once you look closer, often against what you expected.",
+              "example" : "So a kilo for 3.50, which looks dearer, turns out to be cheaper.",
+              "title" : "Turn out to be: what you find in the end"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In March 1966, a new magazine came out. Behind it was a foundation the government had set up in Berlin in 1964 to compare like with like, scientifically. Its name, Stiftung Warentest, means foundation for testing goods. The first issue put sewing machines and mixers side by side.",
+            "They'd printed 210,000 copies and sold 100,000, a promising start. A year later, they were down to 10,000 subscribers.",
+            "Rather than give up, in 1968 they handed their results to newspapers for free and stopped selling at newsstands. It took patience, but by 1971 it was back.",
+            "Check the small number on the shelf label, the price per kilo. 500 grams for 2 euros is 4 euros a kilo. So a kilo for 3.50, which looks dearer, turns out to be cheaper.",
+            "What the testers did for two machines, EU law now does for whole shelves, so people can compare prices. Look twice: at the big price, then the small one."
+          ]
+        }
+      ],
+      "summary" : "In March 1966, a new magazine put sewing machines and mixers side by side, and the same simple idea is printed today in a small number on the shelf where you shop.",
+      "title" : "Look Twice",
+      "translationGroup" : "look-twice"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "id" : "look-twice-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To tell a friend what to do, French uses the tu form of the present without tu: tu regardes → regarde! For -er verbs the final -s goes.",
+              "example" : "Au magasin, regarde le petit chiffre, le prix au kilo.",
+              "title" : "The tu imperative: regarde"
+            },
+            {
+              "body" : "En stands for a quantity of something already named (here, people who buy it): il y en a beaucoup moins = there are a lot fewer of them.",
+              "example" : "Un an après, il y en a beaucoup moins.",
+              "title" : "Il y en a: there are (of them)"
+            },
+            {
+              "body" : "In everyday French ça fait gives the result of a sum or a price: 500 grammes à 2 euros, ça fait 4 euros le kilo.",
+              "example" : "500 grammes à 2 euros, ça fait 4 euros le kilo.",
+              "title" : "Ça fait: that makes, in sums"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Alors, on est en 1966, en Allemagne de l'Ouest. La Stiftung Warentest compare des machines à coudre et des mixeurs.",
+            "100 000 personnes achètent son magazine. Un an après, il y en a beaucoup moins. Elle donne ses résultats aux journaux, gratuitement.",
+            "Au magasin, regarde le petit chiffre, le prix au kilo. 500 grammes à 2 euros, ça fait 4 euros le kilo. Un kilo à 3,50, c'est moins cher. Surprise !",
+            "Pour la loi européenne, les magasins doivent montrer ce chiffre. Comme ça, on peut comparer. Regarde deux fois !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + the past participle: a lancé, a testé, ont acheté. The object pronoun l' (le magazine) goes before avoir.",
+              "example" : "Au début, 100 000 personnes l'ont acheté.",
+              "title" : "Passé composé: avoir + past participle"
+            },
+            {
+              "body" : "Ne … plus que says that only this much is left: il n'avait plus que 10 000 abonnés = it had only 10,000 subscribers left.",
+              "example" : "Un an après, il n'avait plus que 10 000 abonnés.",
+              "title" : "Ne … plus que: only … left"
+            },
+            {
+              "body" : "To stop doing something is arrêter de + the infinitive: ils ont arrêté de le vendre = they stopped selling it. The object pronoun le goes before the infinitive.",
+              "example" : "En 1968, ils ont arrêté de le vendre en kiosque.",
+              "title" : "Arrêter de + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En mars 1966, la Stiftung Warentest a lancé un magazine en Allemagne de l'Ouest. Son premier numéro a testé des machines à coudre et des mixeurs côte à côte. Comme ça, on pouvait comparer.",
+            "Au début, 100 000 personnes l'ont acheté. Un an après, il n'avait plus que 10 000 abonnés. C'était dur.",
+            "En 1968, ils ont arrêté de le vendre en kiosque. Ils ont offert leurs résultats aux journaux, et en 1971, il était de retour.",
+            "Toi aussi, tu peux comparer, dans n'importe quel magasin. Regarde le petit chiffre sous le prix, le prix au kilo. Si 500 grammes coûtent 2 euros, ça fait 4 euros le kilo. Un kilo à 3,50 est en fait moins cher !",
+            "La loi européenne oblige les magasins à montrer ce chiffre, comme ça on peut comparer. Regarde deux fois !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Au lieu de (instead of) is followed by the infinitive, not a -ant form: au lieu d'abandonner = instead of giving up.",
+              "example" : "Au lieu d'abandonner, ils ont donné leurs résultats gratuitement aux journaux en 1968 et ont arrêté de le vendre en kiosque.",
+              "title" : "Au lieu de + infinitive"
+            },
+            {
+              "body" : "Pour que (so that) always takes the subjunctive: on peut → pour qu'on puisse.",
+              "example" : "Aujourd'hui, la loi européenne oblige les magasins à afficher ce chiffre, et elle dit même pourquoi : pour qu'on puisse comparer les prix.",
+              "title" : "Pour que + subjunctive"
+            },
+            {
+              "body" : "Avoir l'air + adjective says how something seems; mais en fait then gives the real fact: il a l'air plus cher, mais en fait, il est moins cher.",
+              "example" : "Un kilo à 3,50 a l'air plus cher, mais en fait, il est moins cher.",
+              "title" : "Avoir l'air: to look, to seem"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Fin mars 1966, la Stiftung Warentest, une fondation de Berlin, a lancé un magazine. Son rôle : tester des produits côte à côte pour les acheteurs. Le premier numéro a donc comparé des machines à coudre et des mixeurs.",
+            "Ils ont imprimé 210 000 exemplaires et vendu 100 000. Pourtant, un an plus tard, il n'y avait plus que 10 000 abonnés.",
+            "Au lieu d'abandonner, ils ont donné leurs résultats gratuitement aux journaux en 1968 et ont arrêté de le vendre en kiosque. En 1971, il était de retour.",
+            "Quand tu fais tes courses, le petit chiffre sous le prix, c'est le prix au kilo ou au litre. Si 500 grammes coûtent 2 euros, ça fait 4 euros le kilo. Un kilo à 3,50 a l'air plus cher, mais en fait, il est moins cher.",
+            "Aujourd'hui, la loi européenne oblige les magasins à afficher ce chiffre, et elle dit même pourquoi : pour qu'on puisse comparer les prix. Regarde deux fois."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avait + past participle puts an event further back than the story's past: the foundation came first, in 1964. With avoir, the participle agrees with a direct object placed before it: une fondation que … avait créée.",
+              "example" : "Derrière, il y avait une fondation que le gouvernement avait créée à Berlin en 1964 pour comparer scientifiquement ce qui est comparable.",
+              "title" : "Plus-que-parfait: avait créée"
+            },
+            {
+              "body" : "Plutôt que de sets one choice aside for another: plutôt que de baisser les bras = rather than throw in the towel (literally, lower the arms).",
+              "example" : "Plutôt que de baisser les bras, ils ont offert en 1968 leurs résultats aux journaux et quitté les kiosques.",
+              "title" : "Plutôt que de + infinitive"
+            },
+            {
+              "body" : "Spoken French puts ce que (what) first for weight and picks it up again with le: ce que les testeurs ont fait, la loi le fait.",
+              "example" : "Ce que les testeurs ont fait pour deux machines, la loi européenne le fait aujourd'hui pour des rayons entiers, pour qu'on puisse comparer les prix.",
+              "title" : "Ce que …, … le fait: what X did, Y does"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En mars 1966, un nouveau magazine est sorti. Derrière, il y avait une fondation que le gouvernement avait créée à Berlin en 1964 pour comparer scientifiquement ce qui est comparable. Son nom, Stiftung Warentest, signifie fondation pour tester les produits. Le premier numéro a mis côte à côte des machines à coudre et des mixeurs.",
+            "Ils ont imprimé 210 000 exemplaires et en ont vendu 100 000, un début prometteur. Un an après, ils sont tombés à 10 000 abonnés.",
+            "Plutôt que de baisser les bras, ils ont offert en 1968 leurs résultats aux journaux et quitté les kiosques. Il a fallu de la patience, mais en 1971, le revoilà.",
+            "Jette un œil au petit chiffre sur l'étiquette du rayon, le prix au kilo. 500 grammes à 2 euros, ça fait 4 euros le kilo. Le kilo à 3,50, qui a l'air plus cher, est finalement moins cher.",
+            "Ce que les testeurs ont fait pour deux machines, la loi européenne le fait aujourd'hui pour des rayons entiers, pour qu'on puisse comparer les prix. Regarde deux fois : le gros prix, puis le petit."
+          ]
+        }
+      ],
+      "summary" : "En mars 1966, un nouveau magazine a mis côte à côte des machines à coudre et des mixeurs, et la même idée toute simple est imprimée aujourd'hui en petit chiffre sur le rayon où tu fais tes courses.",
+      "title" : "Regarde deux fois",
+      "translationGroup" : "look-twice"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "id" : "look-twice-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To tell a friend what to do, German takes the du form and drops -st and du: du schaust → schau! Hinschauen is separable, so hin goes to the end.",
+              "example" : "Schau zweimal hin!",
+              "title" : "The du imperative: schau"
+            },
+            {
+              "body" : "With es as a placeholder subject, the verb agrees with what follows: es sind viel weniger = there are a lot fewer. After Ein Jahr später the verb comes second, before es.",
+              "example" : "Ein Jahr später sind es viel weniger.",
+              "title" : "Es sind: there are (fewer)"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Also, wir sind im Jahr 1966, in Westdeutschland. Die Stiftung Warentest testet Nähmaschinen und Mixer nebeneinander.",
+            "100.000 Leute kaufen ihre neue Zeitschrift. Ein Jahr später sind es viel weniger. Sie gibt ihre Ergebnisse gratis an Zeitungen.",
+            "Schau im Laden auf die kleine Zahl: den Preis pro Kilo. 500 Gramm für 2 Euro sind 4 Euro pro Kilo. Ein Kilo für 3,50 ist billiger. Überraschung!",
+            "Das EU-Recht sagt, Läden müssen diese Zahl zeigen. So können die Leute vergleichen. Schau zweimal hin!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is haben + the past participle at the end of the clause; in a separable verb, ge- goes after the particle: herausbringen → herausgebracht.",
+              "example" : "Im März 1966 hat die Stiftung Warentest in Westdeutschland eine neue Zeitschrift herausgebracht.",
+              "title" : "Perfekt: hat herausgebracht"
+            },
+            {
+              "body" : "Nicht mehr says something stopped: they no longer sold it at the kiosk. Nur noch is its partner: only … left.",
+              "example" : "1968 haben sie es nicht mehr am Kiosk verkauft.",
+              "title" : "Nicht mehr: not any more"
+            },
+            {
+              "body" : "After wenn (if, when) the conjugated verb goes to the end of its clause, and the next clause starts with its verb: Wenn 500 Gramm 2 Euro kosten, sind das …",
+              "example" : "Wenn 500 Gramm 2 Euro kosten, sind das 4 Euro pro Kilo.",
+              "title" : "Wenn sends the verb to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im März 1966 hat die Stiftung Warentest in Westdeutschland eine neue Zeitschrift herausgebracht. Das erste Heft hat Nähmaschinen und Mixer nebeneinander getestet, damit man vergleichen konnte.",
+            "100.000 Leute haben es gekauft. Ein Jahr später hatte es nur noch 10.000 Abonnenten. Das war hart.",
+            "1968 haben sie es nicht mehr am Kiosk verkauft. Ihre Ergebnisse haben sie gratis an Zeitungen gegeben, und 1971 war es wieder am Kiosk.",
+            "Vergleichen kannst du auch, in jedem Laden. Schau auf die kleine Zahl unter dem Preis: den Preis pro Kilo. Wenn 500 Gramm 2 Euro kosten, sind das 4 Euro pro Kilo. Ein Kilo für 3,50 ist eigentlich billiger!",
+            "Das EU-Recht sagt, Läden müssen diese Zahl zeigen, damit man vergleichen kann. Schau zweimal hin!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Statt (instead of) takes an infinitive with zu; with a separable verb, zu goes between particle and verb: aufgeben → statt aufzugeben.",
+              "example" : "Statt aufzugeben, haben sie 1968 ihre Ergebnisse gratis an Zeitungen weitergegeben und das Heft nicht mehr am Kiosk verkauft.",
+              "title" : "Statt … zu: instead of"
+            },
+            {
+              "body" : "In a clause with dass (that) or damit (so that), the conjugated verb goes last: dass Läden diese Zahl zeigen müssen, damit man vergleichen kann.",
+              "example" : "Heute sagt das EU-Recht, dass Läden diese Zahl zeigen müssen, und es sagt sogar, warum: damit man Preise vergleichen kann.",
+              "title" : "Dass and damit send the verb to the end"
+            },
+            {
+              "body" : "Aussehen (to look) is separable: sieht teurer aus = looks dearer. Aber after the verb says the fact goes against it: ist aber billiger.",
+              "example" : "Ein Kilo für 3,50 sieht teurer aus, ist aber eigentlich billiger.",
+              "title" : "Sieht … aus, ist aber: looks, but is"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Ende März 1966 hat die Stiftung Warentest in Berlin eine neue Zeitschrift herausgebracht. Ihre Aufgabe war, für Käufer Dinge nebeneinander zu testen, und so hat das erste Heft Nähmaschinen und Mixer verglichen.",
+            "Sie haben 210.000 Hefte gedruckt und 100.000 verkauft. Ein Jahr später hatte die Zeitschrift aber nur noch 10.000 Abonnenten.",
+            "Statt aufzugeben, haben sie 1968 ihre Ergebnisse gratis an Zeitungen weitergegeben und das Heft nicht mehr am Kiosk verkauft. 1971 war es wieder am Kiosk.",
+            "Wenn du einkaufst, ist die kleine Zahl unter dem Preis der Grundpreis: der Preis pro Kilo oder Liter. Wenn 500 Gramm 2 Euro kosten, sind das 4 Euro pro Kilo. Ein Kilo für 3,50 sieht teurer aus, ist aber eigentlich billiger.",
+            "Heute sagt das EU-Recht, dass Läden diese Zahl zeigen müssen, und es sagt sogar, warum: damit man Preise vergleichen kann. Schau zweimal hin."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Hatte + past participle puts an event further back than the rest of the story: the foundation came first, in 1964, the magazine in 1966.",
+              "example" : "Gemacht hat sie eine Stiftung, die die Regierung 1964 in Berlin gegründet hatte, um wissenschaftlich Äpfel mit Äpfeln zu vergleichen.",
+              "title" : "Plusquamperfekt: gegründet hatte"
+            },
+            {
+              "body" : "Spoken German can put the participle or the object first for weight; the verb stays second and the subject follows: Gemacht hat sie eine Stiftung = a foundation made it.",
+              "example" : "Gemacht hat sie eine Stiftung, die die Regierung 1964 in Berlin gegründet hatte, um wissenschaftlich Äpfel mit Äpfeln zu vergleichen.",
+              "title" : "The object first: Gemacht hat sie eine Stiftung"
+            },
+            {
+              "body" : "A clause with was (what) can open the sentence; the main clause then starts with its verb: Was die Tester gemacht haben, macht das EU-Recht heute …",
+              "example" : "Was die Tester für zwei Maschinen gemacht haben, macht das EU-Recht heute für ganze Regale, damit man Preise vergleichen kann.",
+              "title" : "Was …, macht …: what X did, Y does"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im März 1966 ist eine neue Zeitschrift rausgekommen. Gemacht hat sie eine Stiftung, die die Regierung 1964 in Berlin gegründet hatte, um wissenschaftlich Äpfel mit Äpfeln zu vergleichen. Sie heißt Stiftung Warentest: eine Stiftung, die Produkte testet. Das erste Heft hat Nähmaschinen und Mixer nebeneinandergestellt.",
+            "Sie hatten 210.000 Hefte gedruckt und 100.000 verkauft, ein vielversprechender Anfang. Ein Jahr später waren es nur noch 10.000 Abonnenten.",
+            "Statt das Handtuch zu werfen, haben sie 1968 ihre Ergebnisse gratis an Zeitungen gegeben und am Kiosk nichts mehr verkauft. Das hat Geduld gebraucht, aber 1971 war es wieder da.",
+            "Schau dir die kleine Zahl am Regalschild an, den Grundpreis. 500 Gramm für 2 Euro sind 4 Euro pro Kilo. Das Kilo für 3,50, das teurer aussieht, ist am Ende billiger.",
+            "Was die Tester für zwei Maschinen gemacht haben, macht das EU-Recht heute für ganze Regale, damit man Preise vergleichen kann. Schau zweimal hin: erst auf den großen Preis, dann auf den kleinen."
+          ]
+        }
+      ],
+      "summary" : "Im März 1966 hat eine neue Zeitschrift Nähmaschinen und Mixer nebeneinandergestellt, und dieselbe einfache Idee steht heute als kleine Zahl am Regal, wo du einkaufst.",
+      "title" : "Schau zweimal hin",
+      "translationGroup" : "look-twice"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "id" : "look-twice-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To tell a friend what to do, Spanish uses the tú imperative, which for regular verbs looks like the él/ella present: mira, compara, compra.",
+              "example" : "En una tienda, mira el número pequeño: el precio por kilo.",
+              "title" : "The tú imperative: mira"
+            },
+            {
+              "body" : "Tener que + infinitive says something has to happen: las tiendas tienen que mostrar = shops must show.",
+              "example" : "La ley europea dice que las tiendas tienen que mostrar ese número.",
+              "title" : "Tener que + infinitive: must"
+            },
+            {
+              "body" : "Spanish compares with más + adjective: barato → más barato (cheaper), caro → más caro (dearer).",
+              "example" : "Un kilo a 3,50 es más barato.",
+              "title" : "Más barato: cheaper"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Mira, estamos en 1966, en Alemania Occidental. La Stiftung Warentest pone a prueba máquinas de coser y batidoras. Las compara lado a lado.",
+            "100.000 personas compran su revista nueva. Un año después, la compran muchas menos. Da sus resultados gratis a los periódicos.",
+            "En una tienda, mira el número pequeño: el precio por kilo. 500 gramos a 2 euros son 4 euros el kilo. Un kilo a 3,50 es más barato. ¡Sorpresa!",
+            "La ley europea dice que las tiendas tienen que mostrar ese número. Así la gente puede comparar. ¡Mira dos veces!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito tells single finished events: lanzar → lanzó, comprar → compraron; dar is irregular: dieron.",
+              "example" : "Al principio, 100.000 personas la compraron.",
+              "title" : "Pretérito indefinido: lanzó, compraron, dieron"
+            },
+            {
+              "body" : "Dejar de + infinitive says you stop doing something; the object pronoun can join the infinitive: dejaron de venderla = they stopped selling it.",
+              "example" : "En 1968 dejaron de venderla en los quioscos.",
+              "title" : "Dejar de + infinitive: to stop doing"
+            },
+            {
+              "body" : "The imperfect describes a situation, not an event: solo tenía 10.000 suscriptores = it only had 10,000 subscribers (at that time).",
+              "example" : "Un año después, solo tenía 10.000 suscriptores.",
+              "title" : "The imperfect for background: tenía, estaba, podía"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En marzo de 1966, la Stiftung Warentest lanzó una revista nueva en Alemania Occidental. Su primer número probó máquinas de coser y batidoras, una al lado de la otra. Así la gente podía comparar.",
+            "Al principio, 100.000 personas la compraron. Un año después, solo tenía 10.000 suscriptores. Eso fue duro.",
+            "En 1968 dejaron de venderla en los quioscos. Dieron sus resultados gratis a los periódicos, y en 1971 ya estaba otra vez en los quioscos.",
+            "Tú también puedes comparar, en cualquier tienda. Mira el número pequeño debajo del precio: el precio por kilo. Si 500 gramos cuestan 2 euros, son 4 euros el kilo. ¡Un kilo a 3,50 en realidad es más barato!",
+            "La ley europea dice que las tiendas tienen que mostrar ese número, así la gente puede comparar. ¡Mira dos veces!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After en vez de (instead of), Spanish uses the infinitive, with the reflexive pronoun attached: en vez de rendirse = instead of giving up.",
+              "example" : "En vez de rendirse, en 1968 les dieron sus resultados gratis a los periódicos y dejaron de venderla en los quioscos.",
+              "title" : "En vez de + infinitive"
+            },
+            {
+              "body" : "Para que (so that) always takes the subjunctive: la gente puede → para que la gente pueda.",
+              "example" : "Hoy, la ley europea obliga a las tiendas a mostrar ese número, y hasta dice por qué: para que la gente pueda comparar precios.",
+              "title" : "Para que + subjunctive"
+            },
+            {
+              "body" : "Parecer + adjective says how something seems; pero en realidad then gives the fact that goes against it.",
+              "example" : "Un kilo a 3,50 parece más caro, pero en realidad es más barato.",
+              "title" : "Parece …, pero …: looks, but is"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "A finales de marzo de 1966, la Stiftung Warentest, una fundación de Berlín, lanzó una revista nueva. Su trabajo era probar cosas una al lado de la otra para los compradores. Por eso, el primer número comparó máquinas de coser y batidoras.",
+            "Imprimieron 210.000 ejemplares y se vendieron 100.000. Pero un año después solo había 10.000 suscriptores.",
+            "En vez de rendirse, en 1968 les dieron sus resultados gratis a los periódicos y dejaron de venderla en los quioscos. En 1971 ya estaba otra vez en los quioscos.",
+            "Cuando vas a comprar, el número pequeño debajo del precio es el precio por kilo o por litro. Si 500 gramos cuestan 2 euros, son 4 euros el kilo. Un kilo a 3,50 parece más caro, pero en realidad es más barato.",
+            "Hoy, la ley europea obliga a las tiendas a mostrar ese número, y hasta dice por qué: para que la gente pueda comparar precios. Mira dos veces."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + past participle puts one past event before another: the foundation came first, in 1964, the magazine in 1966.",
+              "example" : "Detrás estaba una fundación que el Gobierno había creado en Berlín en 1964 para comparar lo comparable, científicamente.",
+              "title" : "Pluscuamperfecto: había creado"
+            },
+            {
+              "body" : "Spoken Spanish puts lo que (what) first for weight and picks it up again with lo before the verb: lo que hicieron…, hoy lo hace la ley.",
+              "example" : "Lo que hicieron los de la revista con dos máquinas, hoy lo hace la ley europea con estanterías enteras, para que la gente pueda comparar precios.",
+              "title" : "Lo que …, … lo hace: what X did, Y does"
+            },
+            {
+              "body" : "Resultar + adjective says what something really is once you look closer, often against what you expected: resulta más barato = it turns out cheaper.",
+              "example" : "Así que el kilo a 3,50, que parece más caro, resulta más barato.",
+              "title" : "Resultar + adjective: to turn out"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En marzo de 1966 salió una revista nueva. Detrás estaba una fundación que el Gobierno había creado en Berlín en 1964 para comparar lo comparable, científicamente. Su nombre, Stiftung Warentest, significa fundación para probar productos. El primer número puso máquinas de coser y batidoras una al lado de la otra.",
+            "Imprimieron 210.000 ejemplares y vendieron 100.000, un comienzo prometedor. Un año después, se quedaron en 10.000 suscriptores.",
+            "En lugar de tirar la toalla, en 1968 les dieron sus resultados gratis a los periódicos y dejaron de vender en los quioscos. Hizo falta paciencia, pero en 1971 ya estaba de vuelta.",
+            "Fíjate en el número pequeño de la etiqueta de la estantería, el precio por kilo. 500 gramos a 2 euros son 4 euros el kilo. Así que el kilo a 3,50, que parece más caro, resulta más barato.",
+            "Lo que hicieron los de la revista con dos máquinas, hoy lo hace la ley europea con estanterías enteras, para que la gente pueda comparar precios. Mira dos veces: primero el precio grande, luego el pequeño."
+          ]
+        }
+      ],
+      "summary" : "En marzo de 1966, una revista nueva puso máquinas de coser y batidoras una al lado de la otra, y hoy esa misma idea tan sencilla está impresa en un número pequeño en la estantería de la tienda donde compras.",
+      "title" : "Mira dos veces",
+      "translationGroup" : "look-twice"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "id" : "look-twice-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To tell a friend what to do, Italian uses the tu imperative; for -are verbs it ends in -a: guardare → guarda, confrontare → confronta.",
+              "example" : "In un negozio, guarda il numero piccolo: il prezzo al chilo.",
+              "title" : "The tu imperative: guarda"
+            },
+            {
+              "body" : "Devono (from dovere) + an infinitive says something has to happen: i negozi devono mostrare = shops must show.",
+              "example" : "Le regole europee dicono che i negozi devono mostrare quel numero.",
+              "title" : "Dovere + infinitive: must"
+            },
+            {
+              "body" : "In everyday Italian fare gives the result of a sum or a price: 500 grammi a 2 euro fanno 4 euro al chilo.",
+              "example" : "500 grammi a 2 euro fanno 4 euro al chilo.",
+              "title" : "Fare in sums: fanno 4 euro"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, siamo nel 1966, nella Germania Ovest. La Stiftung Warentest prova macchine da cucire e frullatori, uno accanto all'altro.",
+            "100.000 persone comprano la sua nuova rivista. Un anno dopo, sono molte di meno. Dà i suoi risultati gratis ai giornali.",
+            "In un negozio, guarda il numero piccolo: il prezzo al chilo. 500 grammi a 2 euro fanno 4 euro al chilo. Un chilo a 3,50 costa meno. Sorpresa!",
+            "Le regole europee dicono che i negozi devono mostrare quel numero. Così la gente può confrontare. Guarda due volte!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the spoken past with avere (ha lanciato, hanno dato), but essere takes essere itself, and the participle agrees: è stata dura = it was hard.",
+              "example" : "È stata dura.",
+              "title" : "Passato prossimo with essere: è stata dura"
+            },
+            {
+              "body" : "Smettere di + infinitive says you stop doing something; the object pronoun joins the infinitive: hanno smesso di venderla = they stopped selling it.",
+              "example" : "Nel 1968 hanno smesso di venderla in edicola.",
+              "title" : "Smettere di + infinitive: to stop doing"
+            },
+            {
+              "body" : "When lo or la comes before avere, the past participle agrees with it: la rivista → l'hanno comprata.",
+              "example" : "All'inizio l'hanno comprata 100.000 persone.",
+              "title" : "L'hanno comprata: the participle agrees"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel marzo 1966 la Stiftung Warentest ha lanciato una nuova rivista nella Germania Ovest. Il primo numero ha provato macchine da cucire e frullatori, uno accanto all'altro. Così la gente poteva confrontare.",
+            "All'inizio l'hanno comprata 100.000 persone. Un anno dopo, aveva solo 10.000 abbonati. È stata dura.",
+            "Nel 1968 hanno smesso di venderla in edicola. Hanno dato i loro risultati gratis ai giornali, e nel 1971 era di nuovo in edicola.",
+            "Anche tu puoi confrontare, in qualsiasi negozio. Guarda il numero piccolo sotto il prezzo: il prezzo al chilo. Se 500 grammi costano 2 euro, fanno 4 euro al chilo. Un chilo a 3,50 in realtà costa meno!",
+            "Le regole europee dicono che i negozi devono mostrare quel numero, così la gente può confrontare. Guarda due volte!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After invece di (instead of), Italian uses the infinitive, with the reflexive pronoun attached: invece di arrendersi = instead of giving up.",
+              "example" : "Invece di arrendersi, nel 1968 hanno dato i loro risultati gratis ai giornali e hanno smesso di venderla in edicola.",
+              "title" : "Invece di + infinitive"
+            },
+            {
+              "body" : "Ne stands for a quantity of something already named (here, copies), and with avere the participle agrees with it: ne hanno vendute 100.000 = they sold 100,000 of them.",
+              "example" : "Hanno stampato 210.000 copie e ne hanno vendute 100.000.",
+              "title" : "Ne: of them"
+            },
+            {
+              "body" : "Sembrare + adjective says how something seems; ma in realtà then gives the fact that goes against it.",
+              "example" : "Un chilo a 3,50 sembra più caro, ma in realtà costa meno.",
+              "title" : "Sembra …, ma …: looks, but is"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Alla fine di marzo del 1966, la Stiftung Warentest, una fondazione di Berlino, ha lanciato una nuova rivista. Il suo compito era provare le cose una accanto all'altra per chi fa la spesa. Ecco perché il primo numero ha confrontato macchine da cucire e frullatori.",
+            "Hanno stampato 210.000 copie e ne hanno vendute 100.000. Però un anno dopo gli abbonati erano solo 10.000.",
+            "Invece di arrendersi, nel 1968 hanno dato i loro risultati gratis ai giornali e hanno smesso di venderla in edicola. Nel 1971 era di nuovo in edicola.",
+            "Quando fai la spesa, il numero piccolo sotto il prezzo è il prezzo al chilo o al litro. Se 500 grammi costano 2 euro, fanno 4 euro al chilo. Un chilo a 3,50 sembra più caro, ma in realtà costa meno.",
+            "Oggi le regole europee obbligano i negozi a mostrare quel numero, e dicono persino perché: così la gente può confrontare i prezzi. Guarda due volte."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Aveva + past participle puts one past event before another: the foundation came first, in 1964, the magazine in 1966.",
+              "example" : "Dietro c'era una fondazione che il governo aveva creato a Berlino nel 1964 per confrontare, con metodo scientifico, prodotti dello stesso tipo.",
+              "title" : "Trapassato prossimo: aveva creato"
+            },
+            {
+              "body" : "An everyday idiom for giving up, taken from boxing, where a trainer throws the sponge into the ring; invece di + infinitive sets it aside.",
+              "example" : "Invece di gettare la spugna, nel 1968 hanno dato i loro risultati gratis ai giornali e hanno smesso di vendere in edicola.",
+              "title" : "Gettare la spugna: to throw in the towel"
+            },
+            {
+              "body" : "Spoken Italian puts quello che (what) first for weight and picks it up again with lo before the verb: quello che i tester hanno fatto…, le regole lo fanno.",
+              "example" : "Quello che i tester hanno fatto per due macchine, oggi le regole europee lo fanno per scaffali interi, così la gente può confrontare i prezzi.",
+              "title" : "Quello che …, … lo fanno: what X did, Y does"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel marzo 1966 è uscita una nuova rivista. Dietro c'era una fondazione che il governo aveva creato a Berlino nel 1964 per confrontare, con metodo scientifico, prodotti dello stesso tipo. Il suo nome, Stiftung Warentest, vuol dire fondazione per provare le merci. Il primo numero ha messo fianco a fianco macchine da cucire e frullatori.",
+            "Hanno stampato 210.000 copie e ne hanno vendute 100.000, un inizio promettente. Un anno dopo, erano scesi a 10.000 abbonati.",
+            "Invece di gettare la spugna, nel 1968 hanno dato i loro risultati gratis ai giornali e hanno smesso di vendere in edicola. Ci è voluta pazienza, ma nel 1971 era tornata.",
+            "Controlla il numero piccolo sull'etichetta dello scaffale, il prezzo al chilo. 500 grammi a 2 euro fanno 4 euro al chilo. Quindi il chilo a 3,50, che sembra più caro, alla fine costa meno.",
+            "Quello che i tester hanno fatto per due macchine, oggi le regole europee lo fanno per scaffali interi, così la gente può confrontare i prezzi. Guarda due volte: prima il prezzo grande, poi quello piccolo."
+          ]
+        }
+      ],
+      "summary" : "Nel marzo 1966 una nuova rivista ha messo fianco a fianco macchine da cucire e frullatori, e oggi la stessa idea semplice è stampata in un piccolo numero sullo scaffale dove fai la spesa.",
+      "title" : "Guarda due volte",
+      "translationGroup" : "look-twice"
     }
   ]
 }
