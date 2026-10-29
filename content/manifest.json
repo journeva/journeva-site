@@ -1,8 +1,46 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 23,
-  "generatedAt" : "2026-10-28",
+  "contentVersion" : 24,
+  "generatedAt" : "2026-10-29",
   "imageBaseURL" : "images/",
+  "newest" : [
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "titles" : {
+        "english" : "Cultivate Our Garden",
+        "french" : "Cultiver notre jardin",
+        "german" : "Unseren Garten bestellen",
+        "italian" : "Coltivare il nostro giardino",
+        "spanish" : "Cultivar nuestro jardín"
+      },
+      "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-10-28",
+      "titles" : {
+        "english" : "Forty Minutes in Naples",
+        "french" : "Quarante minutes à Naples",
+        "german" : "Vierzig Minuten in Neapel",
+        "italian" : "Quaranta minuti a Napoli",
+        "spanish" : "Cuarenta minutos en Nápoles"
+      },
+      "translationGroup" : "forty-minutes-in-naples"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-10-27",
+      "titles" : {
+        "english" : "Look Twice",
+        "french" : "Regarde deux fois",
+        "german" : "Schau zweimal hin",
+        "italian" : "Guarda due volte",
+        "spanish" : "Mira dos veces"
+      },
+      "translationGroup" : "look-twice"
+    }
+  ],
   "schemaVersion" : 1,
-  "sha256" : "6a01626763b630834582d800c2167e60ecfc2de1a474f6dc91f354ee36fd02d9"
+  "sha256" : "431b6505cc27d2e66edfdae12e29261956df717e46b7b5b86c08e6498ec94090"
 }

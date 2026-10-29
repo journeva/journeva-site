@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 23,
-  "generatedAt" : "2026-10-28",
+  "contentVersion" : 24,
+  "generatedAt" : "2026-10-29",
   "glossary" : {
     "english" : [
       {
@@ -30990,9 +30990,9 @@
           "faites",
           "faits"
         ],
-        "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact. At a till, « ça fait un euro vingt-cinq » = that comes to one euro twenty-five.",
+        "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact. At a till, « ça fait un euro vingt-cinq » = that comes to one euro twenty-five. Faire + infinitive = to have something done: « il a fait nettoyer les marais » = he had the marshes cleaned up.",
         "pos" : "verb",
-        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to"
+        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to; (faire + verb) to have something done"
       },
       {
         "forms" : [
@@ -220483,6 +220483,596 @@
       "summary" : "Nel 2005 un pediatra di Napoli si è chiesto cosa succede all'allattamento quando i papà imparano ad aiutare, e per trovare la risposta è bastato un corso.",
       "title" : "Quaranta minuti a Napoli",
       "translationGroup" : "forty-minutes-in-naples"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "id" : "cultivate-our-garden",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"So\" joins a reason and what happens because of it: it's our garden, so they work together. Put a comma before it.",
+              "example" : "It's our garden, not my garden, so they work together.",
+              "title" : "So: what comes next because of it"
+            },
+            {
+              "body" : "\"Must\" + the base verb says something is needed or important: we must work. It never takes -s: he must, not he musts.",
+              "example" : "The last line says: we must work in our garden.",
+              "title" : "Must + verb: we must work"
+            },
+            {
+              "body" : "To tell a friend not to do something, put \"don't\" before the base verb: don't worry. To say what to do, use the base verb alone: look after.",
+              "example" : "It means: don't worry about everything.",
+              "title" : "Don't + verb: advice to a friend"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's February 1759, and the writer Voltaire is 64. He buys an old house in Ferney, a poor village near Geneva.",
+            "A few weeks before, his short book Candide comes out. In the book, Candide and his friends have lots of bad luck. But in the end, they live on a small farm.",
+            "The last line says: we must work in our garden. It's our garden, not my garden, so they work together. It means: don't worry about everything. Look after your little corner.",
+            "And Voltaire? He does it too. He plants trees, and he builds a school. So today, the town is called Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Many common verbs have their own past form: buy → bought, come → came, give → gave.",
+              "example" : "He planted trees and gave the village streets, a fountain and a school.",
+              "title" : "The past simple: bought, came, gave"
+            },
+            {
+              "body" : "\"End up\" somewhere means to arrive there in the end, often after a lot happened first.",
+              "example" : "After a lot of bad luck, Candide and his friends ended up on a small farm.",
+              "title" : "End up: where you are in the end"
+            },
+            {
+              "body" : "After \"stop\", the next verb takes -ing when you mean you no longer do it: stop worrying = don't worry any more.",
+              "example" : "It means: stop worrying about everything and look after your little corner, together.",
+              "title" : "Stop + -ing: stop worrying"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In February 1759, the writer Voltaire bought an old castle in Ferney, a poor village near Geneva. He was 64.",
+            "A few weeks before, his short book Candide came out. After a lot of bad luck, Candide and his friends ended up on a small farm.",
+            "The book's last line is famous: we must work in our garden. It says our garden, not my garden.",
+            "So it doesn't mean: shut the door on the world. It means: stop worrying about everything and look after your little corner, together.",
+            "And Voltaire did it too. He planted trees and gave the village streets, a fountain and a school. Later, people called it Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle puts an event before another past event: the book came out first, then he bought the castle.",
+              "example" : "A few weeks earlier, his short book Candide had come out.",
+              "title" : "The past perfect: had come out"
+            },
+            {
+              "body" : "\"Let us\" (usually \"let's\") + the base verb invites a group, including the speaker, to do something together.",
+              "example" : "“All that is very well,” answered Candide, “but let us cultivate our garden.”",
+              "title" : "Let us + verb: a suggestion for a group"
+            },
+            {
+              "body" : "\"As if\" introduces a comparison that isn't true; the verb after it often goes into the past: as if it meant.",
+              "example" : "People often quote it as “one's own garden”, as if it meant: shut the door on the world.",
+              "title" : "As if + past: as if it meant"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In February 1759, Voltaire bought an old castle at Ferney, a poor village on swampy land near Geneva. He was 64.",
+            "A few weeks earlier, his short book Candide had come out. After a lifetime of disasters, Candide and his friends end up on a small farm. An old farmer tells them that work keeps away boredom, vice and need.",
+            "The last line, in a 1918 English translation, goes: “All that is very well,” answered Candide, “but let us cultivate our garden.”",
+            "People often quote it as “one's own garden”, as if it meant: shut the door on the world. But it says “our”: look after the patch in front of you, together.",
+            "He did it himself. He planted trees and gave the village paved streets, a fountain and a school. Soon after his death, people began calling it Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"On paper\" means according to the documents, often unlike the real situation: on paper it belonged to his niece.",
+              "example" : "On paper, though, it belonged to his niece, Madame Denis.",
+              "title" : "On paper: officially, not in fact"
+            },
+            {
+              "body" : "With \"keep away\", the object can sit between the verb and \"away\": keep three great evils away.",
+              "example" : "After a lifetime of disasters, its hero ends up on a small farm, where a farmer says work keeps three great evils away: boredom, vice and need.",
+              "title" : "Keep … away: a separable phrasal verb"
+            },
+            {
+              "body" : "To \"take your own advice\" is to do what you told others to do.",
+              "example" : "Voltaire took his own advice.",
+              "title" : "Take your own advice"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In February 1759, Voltaire bought an old castle at Ferney, a poor village on swampy land near Geneva. He was 64. On paper, though, it belonged to his niece, Madame Denis.",
+            "A few weeks earlier, Candide had come out. After a lifetime of disasters, its hero ends up on a small farm, where a farmer says work keeps three great evils away: boredom, vice and need.",
+            "It ends, in a 1918 translation, with “All that is very well,” answered Candide, “but let us cultivate our garden.”",
+            "It's often quoted as “one's own garden”, as if it meant shutting out the world. But the word is “our”: look after the patch in front of you, together.",
+            "Voltaire took his own advice. He planted trees, cleaned up the swamps and gave the village paved streets, a fountain and a school; by 1780 it had four times as many households. In 1878, a hundred years after his death, its name became official: Ferney-Voltaire."
+          ]
+        }
+      ],
+      "summary" : "In February 1759, Voltaire bought an old castle in a poor village near Geneva, a few weeks after his new book ended with a line about a garden, and then he went and dug one.",
+      "title" : "Cultivate Our Garden",
+      "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "id" : "cultivate-our-garden-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Alors joins a reason and what happens because of it: c'est notre jardin, alors ils travaillent ensemble (so they work together).",
+              "example" : "Et c'est notre jardin, pas mon jardin, alors ils travaillent ensemble.",
+              "title" : "Alors: so, because of that"
+            },
+            {
+              "body" : "Il faut + an infinitive says something must be done, by everyone or by us: il faut travailler = we have to work. Il never changes here.",
+              "example" : "La dernière ligne parle d'un jardin : il faut travailler dans notre jardin.",
+              "title" : "Il faut + infinitive: you have to"
+            },
+            {
+              "body" : "French gives age with avoir (to have) and the word ans: Voltaire a 64 ans, never Voltaire est 64.",
+              "example" : "On est en février 1759 et l'écrivain Voltaire a 64 ans.",
+              "title" : "Avoir for age: il a 64 ans"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en février 1759 et l'écrivain Voltaire a 64 ans. Il achète une vieille maison à Ferney. C'est un village pauvre, près de Genève.",
+            "Quelques semaines avant, son petit livre Candide sort. Dans le livre, Candide et ses amis n'ont vraiment pas de chance. Mais à la fin, ils vivent dans une petite ferme.",
+            "La dernière ligne parle d'un jardin : il faut travailler dans notre jardin. Et c'est notre jardin, pas mon jardin, alors ils travaillent ensemble. En fait, ça veut dire : arrête de t'inquiéter pour tout. Occupe-toi de ton petit coin.",
+            "Et Voltaire ? Lui aussi, il fait la même chose. Il plante des arbres et il construit une école. Alors aujourd'hui, la ville s'appelle Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + the past participle: il a acheté, il a planté. With two verbs in a row, the second can drop avoir: il a planté … et offert.",
+              "example" : "Il a planté des arbres et offert au village des rues, une fontaine et une école.",
+              "title" : "Passé composé with avoir: a acheté, a planté"
+            },
+            {
+              "body" : "Verbs of coming and going (sortir) and all reflexive verbs (se retrouver) take être in the passé composé, and the participle agrees: ils se sont retrouvés.",
+              "example" : "Après beaucoup de malheurs, Candide et ses amis se sont retrouvés dans une petite ferme.",
+              "title" : "Être with sortir and se retrouver"
+            },
+            {
+              "body" : "These are tu imperatives. Arrêter de + infinitive means to stop doing something; with a reflexive verb the pronoun goes after, joined by a hyphen: occupe-toi.",
+              "example" : "Ça veut dire : arrête de t'inquiéter pour tout et occupe-toi de ton bout de jardin, avec les autres.",
+              "title" : "Arrête de …, occupe-toi de …"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En février 1759, l'écrivain Voltaire a acheté un vieux château à Ferney. C'était un village pauvre, près de Genève. Il avait 64 ans.",
+            "Quelques semaines avant, son petit livre Candide est sorti. Après beaucoup de malheurs, Candide et ses amis se sont retrouvés dans une petite ferme.",
+            "La dernière ligne du livre est célèbre : il faut travailler dans notre jardin. Elle dit bien notre jardin, pas mon jardin.",
+            "Du coup, ça ne veut pas dire : coupe-toi du monde. Ça veut dire : arrête de t'inquiéter pour tout et occupe-toi de ton bout de jardin, avec les autres.",
+            "Et Voltaire l'a fait, lui aussi. Il a planté des arbres et offert au village des rues, une fontaine et une école. Plus tard, les gens l'ont appelé Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Était/avait + past participle puts an event before another past event: the book came out first, then he bought the château. Sortir takes être.",
+              "example" : "Quelques semaines plus tôt, son petit livre Candide était sorti.",
+              "title" : "Plus-que-parfait: était sorti"
+            },
+            {
+              "body" : "Il faut cultiver means we must, or one must, cultivate: il faut never changes, and notre shows who is meant. Répondit is the passé simple, the written past of Voltaire's text.",
+              "example" : "Voici la dernière ligne, telle que Voltaire l'a écrite : « Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin. »",
+              "title" : "Il faut + infinitive in the quote"
+            },
+            {
+              "body" : "Comme si (as if) introduces something that isn't true, and the verb goes into the imparfait: comme si ça voulait dire.",
+              "example" : "On la cite souvent de travers, « cultiver son jardin », comme si ça voulait dire : coupe-toi du monde.",
+              "title" : "Comme si + imparfait"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En février 1759, Voltaire a acheté un vieux château à Ferney, un village pauvre au milieu des marais, près de Genève. Il avait 64 ans.",
+            "Quelques semaines plus tôt, son petit livre Candide était sorti. Après une vie de catastrophes, Candide et ses amis se retrouvent dans une petite ferme. Un vieux paysan leur explique que le travail éloigne l'ennui, le vice et le besoin.",
+            "Voici la dernière ligne, telle que Voltaire l'a écrite : « Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin. »",
+            "On la cite souvent de travers, « cultiver son jardin », comme si ça voulait dire : coupe-toi du monde. Mais Voltaire a bien écrit « notre » : occupe-toi de ton bout de jardin, avec les autres.",
+            "Et il l'a fait lui-même. Il a planté des arbres et offert au village des rues pavées, une fontaine et une école. Peu après sa mort, les gens ont commencé à l'appeler Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Sur le papier means according to the documents, often unlike the real situation; enfin at the start corrects what you just said: well, actually.",
+              "example" : "Enfin, sur le papier, le domaine appartenait à sa nièce, Madame Denis.",
+              "title" : "Enfin, sur le papier: well, officially"
+            },
+            {
+              "body" : "Inside or after a quotation, French puts the verb before the speaker: répondit Candide, not Candide répondit. Répondit is the passé simple, the tense of written narration; in speech you'd say a répondu.",
+              "example" : "Le livre se termine sur cette phrase : « Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin. »",
+              "title" : "Inversion after a quote: répondit Candide"
+            },
+            {
+              "body" : "Suivre ses propres conseils (French keeps conseils plural) is to do what you told others to do; lui after the name stresses it: Voltaire, lui = Voltaire, for his part.",
+              "example" : "Voltaire, lui, a suivi ses propres conseils.",
+              "title" : "Suivre ses propres conseils"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En février 1759, à 64 ans, Voltaire a acheté un vieux château à Ferney, un village pauvre au milieu des marais, près de Genève. Enfin, sur le papier, le domaine appartenait à sa nièce, Madame Denis.",
+            "Quelques semaines plus tôt, Candide était sorti. Après mille catastrophes, son héros atterrit dans une petite ferme, où un paysan dit que le travail éloigne trois grands maux : l'ennui, le vice et le besoin.",
+            "Le livre se termine sur cette phrase : « Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin. »",
+            "On la résume souvent en « cultiver son jardin », comme s'il fallait tourner le dos au monde. Sauf que le mot, c'est « notre » : occupe-toi de ton bout de jardin, avec les autres.",
+            "Voltaire, lui, a suivi ses propres conseils. Il a planté des arbres, fait nettoyer les marais et offert au village des rues pavées, une fontaine et une école. En 1780, il y avait quatre fois plus de foyers. En 1878, cent ans après sa mort, le nom est devenu officiel : Ferney-Voltaire."
+          ]
+        }
+      ],
+      "summary" : "En février 1759, Voltaire a acheté un vieux château dans un village pauvre près de Genève, quelques semaines après la sortie de son nouveau livre, qui finit sur une histoire de jardin, et là, il s'est mis à bêcher pour de vrai.",
+      "title" : "Cultiver notre jardin",
+      "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "id" : "cultivate-our-garden-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "„Also“ (so) joins a reason and what happens because of it. It takes the first place, so the verb comes right after it: also arbeiten sie.",
+              "example" : "Es ist unser Garten, nicht mein Garten, also arbeiten sie zusammen.",
+              "title" : "Also: so, and the verb comes next"
+            },
+            {
+              "body" : "With „müssen“ (must, have to), the second verb goes to the very end in its basic form: „wir müssen … arbeiten“.",
+              "example" : "Der letzte Satz geht so: Wir müssen in unserem Garten arbeiten.",
+              "title" : "Müssen + infinitive at the end"
+            },
+            {
+              "body" : "„Herauskommen“ (to come out) splits in a main clause: „kommt“ stays in second place and „heraus“ goes to the end.",
+              "example" : "Wenige Wochen vorher kommt sein kurzes Buch Candide heraus.",
+              "title" : "Separable verb: kommt … heraus"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist Februar 1759, und der Schriftsteller Voltaire ist 64. Er kauft ein altes Haus in Ferney, einem armen Dorf bei Genf.",
+            "Wenige Wochen vorher kommt sein kurzes Buch Candide heraus. Im Buch haben Candide und seine Freunde viel Pech. Aber am Ende leben sie auf einem kleinen Bauernhof.",
+            "Der letzte Satz geht so: Wir müssen in unserem Garten arbeiten. Es ist unser Garten, nicht mein Garten, also arbeiten sie zusammen. Das heißt: Mach dir nicht über alles Sorgen. Kümmer dich um deine kleine Ecke.",
+            "Und Voltaire? Er macht es genauso. Er pflanzt Bäume, und er baut eine Schule. Also heißt der Ort heute Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of arriving or ending up somewhere, like „landen“ and „rauskommen“, form the Perfekt with „sein“, not „haben“: „sie sind … gelandet“.",
+              "example" : "Nach viel Pech sind Candide und seine Freunde auf einem kleinen Bauernhof gelandet.",
+              "title" : "Perfekt with sein for movement and change"
+            },
+            {
+              "body" : "For advice to a friend, take the du form and drop -st: du machst → mach! Reflexive verbs keep their „dich“ or „dir“: kümmer dich, mach dir Sorgen.",
+              "example" : "Sondern: Mach dir nicht über alles Sorgen und kümmer dich mit anderen um deine kleine Ecke.",
+              "title" : "The du imperative: mach, kümmer dich"
+            },
+            {
+              "body" : "„Zumachen“ (to shut) splits in the imperative too: „mach“ comes first and „zu“ goes to the end.",
+              "example" : "Das heißt also nicht: Mach die Tür zu und lass die Welt draußen.",
+              "title" : "Separable verb in the imperative: Mach … zu"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im Februar 1759 hat der Schriftsteller Voltaire ein altes Schloss in Ferney gekauft. Das war ein armes Dorf bei Genf. Er war 64.",
+            "Ein paar Wochen vorher ist sein kurzes Buch Candide rausgekommen. Nach viel Pech sind Candide und seine Freunde auf einem kleinen Bauernhof gelandet.",
+            "Der letzte Satz ist berühmt: Wir müssen in unserem Garten arbeiten. Da steht: unser Garten, nicht mein Garten.",
+            "Das heißt also nicht: Mach die Tür zu und lass die Welt draußen. Sondern: Mach dir nicht über alles Sorgen und kümmer dich mit anderen um deine kleine Ecke.",
+            "Voltaire hat es selbst so gemacht. Er hat Bäume gepflanzt und dem Dorf Straßen, einen Brunnen und eine Schule gegeben. Später hat man den Ort Ferney-Voltaire genannt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„War/hatte“ + the participle puts one past event before another: the book came out first, then he bought the castle.",
+              "example" : "Ein paar Wochen vorher war sein kurzes Buch Candide rausgekommen.",
+              "title" : "Plusquamperfekt: war … rausgekommen"
+            },
+            {
+              "body" : "French „il faut cultiver“ (one must cultivate) has no person; German names one: „wir müssen … bestellen“, with the infinitive at the end. „Den Garten bestellen“ is the old word for working a garden.",
+              "example" : "Ganz am Ende schreibt Voltaire: „Das ist gut gesagt“, antwortete Candide, „aber wir müssen unseren Garten bestellen.“",
+              "title" : "Wir müssen + infinitive: the French „il faut“"
+            },
+            {
+              "body" : "„Als würde es heißen“ = as if it meant; after „als“ for „as if“, the verb comes straight after it, and „würde“ shows that it isn't true.",
+              "example" : "Viele machen daraus „seinen eigenen Garten bestellen“, als würde es heißen: Lass die Welt draußen.",
+              "title" : "Als würde: as if"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im Februar 1759 hat Voltaire ein altes Schloss in Ferney gekauft, einem armen Dorf auf sumpfigem Land bei Genf. Er war 64.",
+            "Ein paar Wochen vorher war sein kurzes Buch Candide rausgekommen. Nach einem Leben voller Katastrophen landen Candide und seine Freunde auf einem kleinen Bauernhof. Ein alter Bauer erklärt ihnen, dass Arbeit Langeweile, Laster und Not fernhält.",
+            "Ganz am Ende schreibt Voltaire: „Das ist gut gesagt“, antwortete Candide, „aber wir müssen unseren Garten bestellen.“",
+            "Viele machen daraus „seinen eigenen Garten bestellen“, als würde es heißen: Lass die Welt draußen. Aber da steht „unseren“: Kümmer dich um das Stück Erde vor deiner Tür, und zwar gemeinsam.",
+            "Er hat es selbst vorgemacht. Er hat Bäume gepflanzt und dem Dorf gepflasterte Straßen, einen Brunnen und eine Schule gegeben. Kurz nach seinem Tod hat man angefangen, den Ort Ferney-Voltaire zu nennen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Auf dem Papier“ means according to the documents, often unlike the real situation; „wobei“ adds that twist to the sentence before it.",
+              "example" : "Er war 64, wobei es auf dem Papier seiner Nichte Madame Denis gehört hat.",
+              "title" : "Auf dem Papier: officially, not in fact"
+            },
+            {
+              "body" : "„Fernhalten“ (to keep away) splits in a main clause: „hält“ stays second and „fern“ closes the clause. In speech, German often reports what someone says with no „dass“, in plain word order.",
+              "example" : "Der Held landet nach einem Leben voller Katastrophen auf einem kleinen Hof, wo ein Bauer sagt, Arbeit hält drei große Übel fern: Langeweile, Laster und Not.",
+              "title" : "Separable verb: hält … fern"
+            },
+            {
+              "body" : "„Sich an einen Rat halten“ = to follow advice; „sich an seinen eigenen Rat halten“ is to do what you told others to do.",
+              "example" : "Voltaire hat sich an seinen eigenen Rat gehalten.",
+              "title" : "Sich an etwas halten: to stick to something"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im Februar 1759 hat Voltaire ein altes Schloss in Ferney gekauft, einem armen Dorf auf sumpfigem Land bei Genf. Er war 64, wobei es auf dem Papier seiner Nichte Madame Denis gehört hat.",
+            "Ein paar Wochen vorher war Candide erschienen. Der Held landet nach einem Leben voller Katastrophen auf einem kleinen Hof, wo ein Bauer sagt, Arbeit hält drei große Übel fern: Langeweile, Laster und Not.",
+            "Voltaire schreibt zum Schluss: „Das ist gut gesagt“, antwortete Candide, „aber wir müssen unseren Garten bestellen.“",
+            "Oft heißt es „seinen eigenen Garten bestellen“, als sollte man sich von der Welt abschotten. Nur steht da eben „unseren“: Kümmer dich um das Stück Erde vor deiner Tür, und zwar gemeinsam.",
+            "Voltaire hat sich an seinen eigenen Rat gehalten. Er hat Bäume gepflanzt, das Sumpfland gesünder gemacht und dem Dorf gepflasterte Straßen, einen Brunnen und eine Schule gegeben; 1780 hatte es viermal so viele Haushalte. 1878, hundert Jahre nach seinem Tod, ist der Name offiziell geworden: Ferney-Voltaire."
+          ]
+        }
+      ],
+      "summary" : "Im Februar 1759 hat Voltaire ein altes Schloss in einem armen Dorf bei Genf gekauft, ein paar Wochen nachdem sein neues Buch mit einem Satz über einen Garten geendet hatte, und dann hat er selbst zum Spaten gegriffen.",
+      "title" : "Unseren Garten bestellen",
+      "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "id" : "cultivate-our-garden-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Así que joins a reason and what happens because of it: es nuestro jardín, así que trabajan juntos (so they work together).",
+              "example" : "Y es nuestro jardín, no mi jardín, así que trabajan juntos.",
+              "title" : "Así que: so, because of that"
+            },
+            {
+              "body" : "Tener que + infinitive says something has to be done: tenemos que trabajar = we must work. Only tener changes: tengo que, tienes que, tenemos que.",
+              "example" : "La última frase dice: tenemos que trabajar en nuestro jardín.",
+              "title" : "Tener que + infinitive: tenemos que"
+            },
+            {
+              "body" : "Spanish gives age with tener (to have) + años: tiene 64 años = he is 64. Never ser here.",
+              "example" : "Estamos en febrero de 1759 y el escritor Voltaire tiene 64 años.",
+              "title" : "Age with tener: tiene 64 años"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en febrero de 1759 y el escritor Voltaire tiene 64 años. Compra una casa vieja en Ferney. Es un pueblo pobre cerca de Ginebra.",
+            "Unas semanas antes sale Candide, un libro corto suyo. En el libro, Candide y sus amigos tienen muy mala suerte. Pero al final, viven en una granja pequeña.",
+            "La última frase dice: tenemos que trabajar en nuestro jardín. Y es nuestro jardín, no mi jardín, así que trabajan juntos. O sea, deja de preocuparte por todo y cuida tu pequeño rincón.",
+            "¿Y Voltaire? Pues hace lo mismo. Planta árboles y construye una escuela. Por eso hoy el pueblo se llama Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito tells single finished events: comprar → compró, salir → salió, plantar → plantó; dar is irregular: dio.",
+              "example" : "Plantó árboles y le dio al pueblo calles, una fuente y una escuela.",
+              "title" : "Pretérito indefinido: compró, salió, dio"
+            },
+            {
+              "body" : "The imperfect describes how things were, not what happened: era un pueblo pobre, tenía 64 años. The event itself, compró, is in the pretérito.",
+              "example" : "Era un pueblo pobre cerca de Ginebra, y él tenía 64 años.",
+              "title" : "The imperfect for background: era, tenía"
+            },
+            {
+              "body" : "Dejar de + infinitive means to stop doing something; a reflexive pronoun joins the infinitive: deja de preocuparte = stop worrying.",
+              "example" : "Quiere decir: deja de preocuparte por todo y cuida tu pequeño rincón, junto con los demás.",
+              "title" : "Dejar de + infinitive: stop doing"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En febrero de 1759, el escritor Voltaire compró una vieja casa señorial en Ferney. Era un pueblo pobre cerca de Ginebra, y él tenía 64 años.",
+            "Unas semanas antes salió Candide, un libro corto suyo. Después de mucha mala suerte, Candide y sus amigos acabaron en una granja pequeña.",
+            "La última frase del libro es famosa: tenemos que trabajar en nuestro jardín. Fíjate: dice nuestro jardín, no mi jardín.",
+            "Así que no quiere decir: ciérrale la puerta al mundo. Quiere decir: deja de preocuparte por todo y cuida tu pequeño rincón, junto con los demás.",
+            "Pues Voltaire hizo lo mismo. Plantó árboles y le dio al pueblo calles, una fuente y una escuela. Más tarde, la gente lo llamó Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + past participle puts one past event before another: the book came out first, then he bought the house.",
+              "example" : "Unas semanas antes había salido Candide, un libro corto suyo.",
+              "title" : "Pluscuamperfecto: había salido"
+            },
+            {
+              "body" : "Hay que + infinitive says something must be done without naming who, just like Voltaire's il faut: hay que cultivar = we must cultivate.",
+              "example" : "Voltaire termina el libro con esta frase: «Eso está bien dicho —respondió Candide—, pero hay que cultivar nuestro jardín».",
+              "title" : "Hay que + infinitive: one must"
+            },
+            {
+              "body" : "Como si (as if) always takes the imperfect subjunctive: quería decir → como si quisiera decir.",
+              "example" : "Mucha gente la cita como «cultivar su jardín», como si quisiera decir: ciérrale la puerta al mundo.",
+              "title" : "Como si + imperfect subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En febrero de 1759, Voltaire compró una vieja casa señorial en Ferney, un pueblo pobre entre pantanos, cerca de Ginebra. Tenía 64 años.",
+            "Unas semanas antes había salido Candide, un libro corto suyo. Después de toda una vida de desastres, Candide y sus amigos acaban en una pequeña granja. Allí un viejo campesino les cuenta que el trabajo aleja el aburrimiento, el vicio y la necesidad.",
+            "Voltaire termina el libro con esta frase: «Eso está bien dicho —respondió Candide—, pero hay que cultivar nuestro jardín».",
+            "Mucha gente la cita como «cultivar su jardín», como si quisiera decir: ciérrale la puerta al mundo. Pero dice «nuestro»: cuida el trocito que tienes delante, junto con los demás.",
+            "Y él lo hizo de verdad. Plantó árboles y le dio al pueblo calles empedradas, una fuente y una escuela. Poco después de su muerte, la gente empezó a llamarlo Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Sobre el papel means according to the documents, often unlike the real situation: sobre el papel la casa era de su sobrina.",
+              "example" : "Eso sí, sobre el papel la casa era de su sobrina, Madame Denis.",
+              "title" : "Sobre el papel: officially, not in fact"
+            },
+            {
+              "body" : "Soler + infinitive says what usually happens; with the impersonal se it means people usually do it: se suele citar = it is usually quoted.",
+              "example" : "Se suele citar como «cultivar su jardín», como si quisiera decir encerrarse y darle la espalda al mundo.",
+              "title" : "Soler + infinitive: usually"
+            },
+            {
+              "body" : "Predicar con el ejemplo (to preach by example) means doing yourself what you tell others to do.",
+              "example" : "Voltaire predicó con el ejemplo.",
+              "title" : "Predicar con el ejemplo"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En febrero de 1759, Voltaire compró una vieja casa señorial en Ferney, un pueblo pobre y pantanoso cerca de Ginebra. Tenía ya 64 años. Eso sí, sobre el papel la casa era de su sobrina, Madame Denis.",
+            "Unas semanas antes había salido Candide. Su héroe, después de toda una vida de desastres, acaba en una pequeña granja. Allí un campesino cuenta que el trabajo aleja tres grandes males: el aburrimiento, el vicio y la necesidad.",
+            "Y Voltaire termina el libro así: «Eso está bien dicho —respondió Candide—, pero hay que cultivar nuestro jardín».",
+            "Se suele citar como «cultivar su jardín», como si quisiera decir encerrarse y darle la espalda al mundo. Pero la palabra es «nuestro»: ocúpate del trocito que tienes delante, y hazlo con los demás.",
+            "Voltaire predicó con el ejemplo. Plantó árboles, saneó los pantanos y le dio al pueblo calles empedradas, una fuente y una escuela; en 1780 el pueblo ya tenía cuatro veces más hogares. En 1878, cien años después de su muerte, el nombre se hizo oficial: Ferney-Voltaire."
+          ]
+        }
+      ],
+      "summary" : "En febrero de 1759, Voltaire compró una vieja casa señorial en un pueblo pobre cerca de Ginebra, pocas semanas después de que su libro nuevo terminara con una frase sobre un jardín, y luego se puso a cavar uno de verdad.",
+      "title" : "Cultivar nuestro jardín",
+      "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-10-29",
+      "id" : "cultivate-our-garden-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Così joins a reason and what happens because of it: è il nostro giardino, così lavorano insieme (so they work together).",
+              "example" : "Ed è il nostro giardino, non il mio, così lavorano insieme.",
+              "title" : "Così: so, because of that"
+            },
+            {
+              "body" : "Dobbiamo (from dovere, \"must\") is followed straight by an infinitive, with no preposition: dobbiamo lavorare = we must work.",
+              "example" : "L'ultima frase parla proprio di un giardino: dobbiamo lavorare nel nostro giardino.",
+              "title" : "Dovere + infinitive: dobbiamo lavorare"
+            },
+            {
+              "body" : "Italian says how old someone is with avere (to have) and anni: ha 64 anni = he is 64, literally \"he has 64 years\".",
+              "example" : "Siamo nel febbraio del 1759 e lo scrittore Voltaire ha 64 anni.",
+              "title" : "Avere for age: ha 64 anni"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo nel febbraio del 1759 e lo scrittore Voltaire ha 64 anni. Compra una vecchia casa a Ferney. È un villaggio povero vicino a Ginevra.",
+            "Poche settimane prima esce Candide, un suo libro breve. Nel libro, Candide e i suoi amici hanno tanti guai. Ma alla fine, vivono in una piccola fattoria.",
+            "L'ultima frase parla proprio di un giardino: dobbiamo lavorare nel nostro giardino. Ed è il nostro giardino, non il mio, così lavorano insieme. Cioè, smetti di preoccuparti di tutto e cura il tuo angolino.",
+            "E Voltaire? Anche lui fa lo stesso. Pianta alberi e costruisce una scuola. Quindi oggi la città si chiama Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement and change such as uscire and finire (to end up) make the spoken past with essere, and the participle agrees with the subject: è uscito, sono finiti.",
+              "example" : "Dopo tanti guai, Candide e i suoi amici sono finiti in una piccola fattoria.",
+              "title" : "Passato prossimo with essere: sono finiti"
+            },
+            {
+              "body" : "In the tu imperative, a reflexive pronoun is joined to the end of the verb: prendi + ti → prenditi cura (take care); after smetti di the infinitive keeps it too: preoccuparti.",
+              "example" : "Vuol dire: smetti di preoccuparti di tutto e prenditi cura del tuo angolino, insieme.",
+              "title" : "The tu imperative with a pronoun: prenditi cura"
+            },
+            {
+              "body" : "The passato prossimo tells what happened (ha comprato); the imperfetto describes how things were at the time: aveva 64 anni (he was 64).",
+              "example" : "Aveva 64 anni.",
+              "title" : "Imperfetto for background: aveva 64 anni"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel febbraio 1759 lo scrittore Voltaire ha comprato un vecchio castello a Ferney, un villaggio povero vicino a Ginevra. Aveva 64 anni.",
+            "Poche settimane prima è uscito Candide, un suo libro breve. Dopo tanti guai, Candide e i suoi amici sono finiti in una piccola fattoria.",
+            "L'ultima frase del libro è famosa: dobbiamo lavorare nel nostro giardino. Ecco, dice il nostro giardino, non il mio.",
+            "Quindi non vuol dire: chiudi la porta al mondo. Vuol dire: smetti di preoccuparti di tutto e prenditi cura del tuo angolino, insieme.",
+            "E Voltaire? Ha fatto proprio questo anche lui. Ha piantato alberi e ha dato al villaggio strade, una fontana e una scuola. Più tardi la gente ha cominciato a chiamarlo Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Era/aveva + past participle puts one past event before another: the book came out first, then he bought the castle.",
+              "example" : "Poche settimane prima era uscito Candide, un suo libro breve.",
+              "title" : "Trapassato prossimo: era uscito"
+            },
+            {
+              "body" : "Bisogna (from bisognare) is impersonal, like French il faut: bisogna coltivare = one must cultivate, we have to cultivate. It never changes form.",
+              "example" : "E Voltaire chiude il libro così: «Ben detto», risponde Candide, «ma bisogna coltivare il nostro giardino».",
+              "title" : "Bisogna + infinitive: one must"
+            },
+            {
+              "body" : "Come se (as if) is always followed by the imperfect subjunctive: come se volesse dire = as if it meant.",
+              "example" : "Molti citano questa frase come «coltivare il proprio giardino», come se volesse dire: chiudi la porta al mondo.",
+              "title" : "Come se + congiuntivo imperfetto"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel febbraio 1759 Voltaire ha comprato un vecchio castello a Ferney, un villaggio povero su un terreno paludoso vicino a Ginevra. Aveva 64 anni.",
+            "Poche settimane prima era uscito Candide, un suo libro breve. Dopo una vita di disastri, Candide e i suoi amici finiscono in una piccola fattoria. Lì un vecchio contadino gli spiega che il lavoro tiene lontani la noia, il vizio e il bisogno.",
+            "E Voltaire chiude il libro così: «Ben detto», risponde Candide, «ma bisogna coltivare il nostro giardino».",
+            "Molti citano questa frase come «coltivare il proprio giardino», come se volesse dire: chiudi la porta al mondo. Ma dice «nostro»: prenditi cura del pezzetto che hai davanti, insieme.",
+            "E lui l'ha fatto in prima persona. Ha piantato alberi e ha dato al villaggio strade lastricate, una fontana e una scuola. Poco dopo la sua morte, la gente ha cominciato a chiamarlo Ferney-Voltaire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Sulla carta (on paper) means according to the documents, often unlike the real situation; però (however) can sit right after it, between commas: sulla carta, però, il castello era di sua nipote.",
+              "example" : "Sulla carta, però, il castello era di sua nipote, Madame Denis.",
+              "title" : "Sulla carta: officially, not in fact"
+            },
+            {
+              "body" : "In tenere lontano (to keep away), lontano is an adjective and agrees with what is kept away: tiene lontani tre grandi mali.",
+              "example" : "Lì un contadino gli spiega che il lavoro tiene lontani tre grandi mali: la noia, il vizio e il bisogno.",
+              "title" : "Tenere lontano: the adjective agrees"
+            },
+            {
+              "body" : "Spoken Italian often makes the passive with venire + past participle, which agrees with the subject: la frase viene citata = the line is quoted.",
+              "example" : "Spesso la frase viene citata come «coltivare il proprio giardino», come se volesse dire tagliarsi fuori dal mondo.",
+              "title" : "Viene citata: the passive with venire"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel febbraio 1759 Voltaire ha comprato un vecchio castello a Ferney, un villaggio povero su un terreno paludoso vicino a Ginevra. Aveva 64 anni. Sulla carta, però, il castello era di sua nipote, Madame Denis.",
+            "Poche settimane prima era uscito Candide. Dopo una vita di disastri, il protagonista finisce in una piccola fattoria. Lì un contadino gli spiega che il lavoro tiene lontani tre grandi mali: la noia, il vizio e il bisogno.",
+            "E il libro si chiude con queste parole: «Ben detto», risponde Candide, «ma bisogna coltivare il nostro giardino».",
+            "Spesso la frase viene citata come «coltivare il proprio giardino», come se volesse dire tagliarsi fuori dal mondo. Ma la parola è «nostro»: prenditi cura del pezzetto che hai davanti, insieme agli altri.",
+            "Ecco, Voltaire ha messo in pratica il suo stesso consiglio. Ha piantato alberi, ha risanato le paludi e ha dato al villaggio strade lastricate, una fontana e una scuola. Nel 1780 le famiglie erano già quattro volte di più. Nel 1878, cent'anni dopo la sua morte, il nome è diventato ufficiale: Ferney-Voltaire."
+          ]
+        }
+      ],
+      "summary" : "Nel febbraio 1759 Voltaire ha comprato un vecchio castello in un villaggio povero vicino a Ginevra, poche settimane dopo aver chiuso il suo nuovo libro con una frase su un giardino, e poi si è messo a zappare sul serio.",
+      "title" : "Coltivare il nostro giardino",
+      "translationGroup" : "cultivate-our-garden"
     }
   ]
 }
