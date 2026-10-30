@@ -1,9 +1,21 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 24,
-  "generatedAt" : "2026-10-29",
+  "contentVersion" : 25,
+  "generatedAt" : "2026-10-30",
   "imageBaseURL" : "images/",
   "newest" : [
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "titles" : {
+        "english" : "The Chicken That Went to Court",
+        "french" : "Le poulet qui a fini au tribunal",
+        "german" : "Das Hähnchen vor Gericht",
+        "italian" : "Il pollo finito in tribunale",
+        "spanish" : "El pollo que acabó en los tribunales"
+      },
+      "translationGroup" : "butter-chicken"
+    },
     {
       "category" : "bookQuotes",
       "dateAdded" : "2026-10-29",
@@ -27,20 +39,8 @@
         "spanish" : "Cuarenta minutos en Nápoles"
       },
       "translationGroup" : "forty-minutes-in-naples"
-    },
-    {
-      "category" : "lifeLessons",
-      "dateAdded" : "2026-10-27",
-      "titles" : {
-        "english" : "Look Twice",
-        "french" : "Regarde deux fois",
-        "german" : "Schau zweimal hin",
-        "italian" : "Guarda due volte",
-        "spanish" : "Mira dos veces"
-      },
-      "translationGroup" : "look-twice"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "431b6505cc27d2e66edfdae12e29261956df717e46b7b5b86c08e6498ec94090"
+  "sha256" : "a5e941b75a32f6a87e88412a4afbda00d344696ee01092464e65433e3299889b"
 }

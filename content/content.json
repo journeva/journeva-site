@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 24,
-  "generatedAt" : "2026-10-29",
+  "contentVersion" : 25,
+  "generatedAt" : "2026-10-30",
   "glossary" : {
     "english" : [
       {
@@ -34207,9 +34207,9 @@
           "écrire",
           "écrit"
         ],
-        "note" : "\"Écrire\" infinitive, \"écrit\" past participle.",
+        "note" : "\"Écrire\" infinitive; \"écrit\" is both the present (il/elle écrit = he/she writes; personne n'écrit = nobody writes) and the past participle (il a écrit = he wrote).",
         "pos" : "verb",
-        "translation" : "to write / written"
+        "translation" : "to write; (il/elle) writes; written"
       },
       {
         "forms" : [
@@ -72288,9 +72288,9 @@
           "wird",
           "würde"
         ],
-        "note" : "Werden is a helper for the future and the passive; „würde“ = would.",
+        "note" : "With an adjective, werden = to get, to become: „die werden trocken“ = they get dry. It is also the helper for the future and the passive; „würde“ = would.",
         "pos" : "verb",
-        "translation" : "to become, will; would"
+        "translation" : "to become, to get; will; would"
       },
       {
         "forms" : [
@@ -77454,9 +77454,9 @@
         "forms" : [
           "beiden"
         ],
-        "note" : "Case-inflected form of beide — \"an den beiden Enden\" (at both ends).",
+        "note" : "Case-inflected form of beide — \"an den beiden Enden\" (at both ends); \"einer von beiden\" = one of the two, \"keiner von beiden\" = neither of them.",
         "pos" : "other",
-        "translation" : "both"
+        "translation" : "both; (einer/keiner von beiden) one / neither of the two"
       },
       {
         "forms" : [
@@ -107306,6 +107306,14 @@
         "note" : "Das Sumpfland = der Sumpf (swamp) + das Land; the gender comes from the last part: „das Sumpfland gesünder machen“ = to make the swampy land healthier.",
         "pos" : "noun",
         "translation" : "swampland, marshy land"
+      },
+      {
+        "forms" : [
+          "grillen"
+        ],
+        "note" : "Present of grillen (to grill) with wir/sie/Sie: „sie grillen Hähnchen in einem heißen Ofen“ = they grill chicken in a hot oven.",
+        "pos" : "verb",
+        "translation" : "grill"
       }
     ],
     "italian" : [
@@ -221073,6 +221081,586 @@
       "summary" : "Nel febbraio 1759 Voltaire ha comprato un vecchio castello in un villaggio povero vicino a Ginevra, poche settimane dopo aver chiuso il suo nuovo libro con una frase su un giardino, e poi si è messo a zappare sul serio.",
       "title" : "Coltivare il nostro giardino",
       "translationGroup" : "cultivate-our-garden"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "id" : "butter-chicken",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Both\" means the two of them, one and the other; it can stand alone (both are) or go before a noun (both men).",
+              "example" : "Both men are called Kundan Lal.",
+              "title" : "Both: the two together"
+            },
+            {
+              "body" : "A recipe uses the base form of the verb with no subject: mix, grill, cook, blend, add.",
+              "example" : "Cook tomatoes with butter, blend them, then add cream and the chicken.",
+              "title" : "The imperative for a recipe"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's 1947, and two cooks have to leave Peshawar for Delhi. Both men are called Kundan Lal. There, they open a restaurant, Moti Mahal, and cook tandoori chicken.",
+            "But some of the chicken doesn't sell, and it gets dry. So one of them makes a sauce with tomatoes, butter and cream. That's butter chicken!",
+            "Try it at home: mix chicken with yoghurt and spices, and grill it. Cook tomatoes with butter, blend them, then add cream and the chicken.",
+            "But nobody writes the recipe down. So each family says it's their grandfather's dish, and in 2024 they go to court. Not bad for dry chicken!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (opened, cooked); many common verbs have their own form (make → made, go → went).",
+              "example" : "They opened Moti Mahal and cooked chicken in a hot clay oven.",
+              "title" : "The past simple: opened, made, went"
+            },
+            {
+              "body" : "\"That's how\" + a clause says that what you just told is the way something happened.",
+              "example" : "That's how butter chicken started.",
+              "title" : "That's how …: explaining a result"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1947, two cooks had to leave Peshawar for Delhi. Both were called Kundan Lal: Kundan Lal Gujral and Kundan Lal Jaggi.",
+            "They opened Moti Mahal and cooked chicken in a hot clay oven. But any chicken that didn't sell got dry.",
+            "So one of them made a sauce with tomatoes, butter and cream. That's how butter chicken started.",
+            "For four, mix 600 g of chicken with yoghurt, ginger and chilli. After two hours, grill it until it's a bit black. Cook a tin of tomatoes in butter for fifteen minutes. Blend, then add cream and the chicken.",
+            "Nobody wrote the recipe down. In 2024, the families went to court. Each says their grandfather invented it. Not bad for leftovers."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the noun is the object of the clause, \"that\" can be left out: the pieces (that) nobody bought.",
+              "example" : "People say the pieces nobody bought dried out, so they went into a sauce of tomatoes, butter and cream: butter chicken.",
+              "title" : "A relative clause without \"that\": the pieces nobody bought"
+            },
+            {
+              "body" : "\"When\" + the past sets the scene for what happened: when India was divided.",
+              "example" : "In 1947, when India was divided, two cooks from Peshawar lost their home and moved to Delhi.",
+              "title" : "When for a background event"
+            },
+            {
+              "body" : "\"Each\" looks at the members one by one, so the verb is singular: each says.",
+              "example" : "In 2024 the families went to court: each says their grandfather invented it.",
+              "title" : "Each says …: each + singular verb"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1947, when India was divided, two cooks from Peshawar lost their home and moved to Delhi. They shared a first name: Kundan Lal Gujral and his cousin, Kundan Lal Jaggi.",
+            "They opened Moti Mahal and cooked chicken in a tandoor, a hot clay oven. People say the pieces nobody bought dried out, so they went into a sauce of tomatoes, butter and cream: butter chicken.",
+            "For four, mix 600 g of chicken thighs with 150 g of yoghurt, ginger and chilli. After two hours, grill it until the edges go black.",
+            "Melt 50 g of butter, add a tin of tomatoes and simmer for fifteen minutes. Blend, then stir in 100 ml of cream and the chicken.",
+            "Nobody wrote the recipe down. In 2024 the families went to court: each says their grandfather invented it. Not bad for leftovers."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"As\" + adjective + \"as\" says two things are equal in some way: a clay oven as hot as a furnace.",
+              "example" : "They opened Moti Mahal, the Pearl Palace, and cooked chicken in a tandoor, a clay oven as hot as a furnace.",
+              "title" : "As hot as: comparing two things"
+            },
+            {
+              "body" : "Two phrasal verbs: \"leave everything behind\" means go without your things; \"start over\" means begin again from nothing.",
+              "example" : "In 1947, when Partition split India, two cooks from Peshawar left everything behind and started over in Delhi.",
+              "title" : "Leave behind / start over"
+            },
+            {
+              "body" : "\"Even\" before a comparative makes it stronger and a little surprising: even earlier than Delhi.",
+              "example" : "In January 2024 the Gujrals took the Jaggis to the Delhi High Court, saying it began even earlier, in Peshawar.",
+              "title" : "Even earlier: even with a comparative"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1947, when Partition split India, two cooks from Peshawar left everything behind and started over in Delhi. Both were called Kundan Lal: Gujral and his cousin, Jaggi.",
+            "They opened Moti Mahal, the Pearl Palace, and cooked chicken in a tandoor, a clay oven as hot as a furnace. The leftovers dried out and, the story goes, went into a sauce of tomatoes, butter and cream: butter chicken.",
+            "For four, mix 600 g of chicken thighs with 150 g of yoghurt, ginger and chilli. Two hours later, grill it until it chars.",
+            "Melt 50 g of butter, add a tin of tomatoes and simmer for fifteen minutes. Blend, stir in 100 ml of cream and the chicken, and finish with a knob of butter.",
+            "Nobody wrote the recipe down. Each family says their grandfather invented it. In January 2024 the Gujrals took the Jaggis to the Delhi High Court, saying it began even earlier, in Peshawar. Not bad for leftovers."
+          ]
+        }
+      ],
+      "summary" : "Butter chicken started, people say, with dry leftovers in a Delhi restaurant in 1947, and in 2024 two families went to court over whose grandfather invented it.",
+      "title" : "The Chicken That Went to Court",
+      "translationGroup" : "butter-chicken"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "id" : "butter-chicken-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend uses the tu imperative: the tu present without « tu », and -er verbs drop the final -s: tu mélanges → mélange, tu ajoutes → ajoute.",
+              "example" : "Ajoute la crème et le poulet.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "French gives many cooking steps as faire + infinitive, literally \"make cook\": fais cuire = cook, fais-le griller = grill it.",
+              "example" : "Ensuite, fais cuire des tomates au beurre, et mixe.",
+              "title" : "Fais cuire: faire + an infinitive"
+            },
+            {
+              "body" : "« Les deux » (the two) is how French says both: on its own, as here, or before a noun, as in « les deux familles » (both families).",
+              "example" : "Les deux s'appellent Kundan Lal, et ils ouvrent le Moti Mahal.",
+              "title" : "Les deux: both"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en 1947, et deux cuisiniers doivent quitter Peshawar pour Delhi. Les deux s'appellent Kundan Lal, et ils ouvrent le Moti Mahal.",
+            "Dans leur restaurant, le poulet tandoori cuit dans un four très chaud. Mais parfois, personne ne l'achète, et il devient sec. Alors l'un d'eux fait une sauce : tomates, beurre et crème. C'est le butter chicken !",
+            "Mélange le poulet avec du yaourt et des épices, puis fais-le griller. Ensuite, fais cuire des tomates au beurre, et mixe. Ajoute la crème et le poulet.",
+            "Mais personne n'écrit la recette. Alors pour chaque famille, c'est le plat de son grand-père. Et en 2024, les deux familles vont au tribunal. Pas mal, pour du poulet sec !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait (vendait, devenaient) tells what happened again and again, the background of the story; the passé composé (ont ouvert, a fait) tells the one-time events.",
+              "example" : "Mais les morceaux qu'on ne vendait pas devenaient secs.",
+              "title" : "The imparfait for what kept happening"
+            },
+            {
+              "body" : "Aller forms its passé composé with être, and the participle agrees with the subject: les familles (feminine plural) → sont allées. Most verbs take avoir instead: ils ont ouvert, ils ont dû.",
+              "example" : "En 2024, les familles sont allées au tribunal.",
+              "title" : "Aller takes être: sont allées"
+            },
+            {
+              "body" : "« Personne » as the subject needs « ne » before the verb and no « pas »: personne n'a écrit = nobody wrote.",
+              "example" : "Personne n'a écrit la recette.",
+              "title" : "Personne ne …: nobody"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1947, deux cuisiniers ont dû quitter Peshawar pour Delhi. Les deux s'appelaient Kundan Lal : Kundan Lal Gujral et Kundan Lal Jaggi.",
+            "Ils ont ouvert le Moti Mahal. Le poulet cuisait dans un four en terre très chaud. Mais les morceaux qu'on ne vendait pas devenaient secs.",
+            "Alors l'un d'eux a fait une sauce : tomates, beurre, crème. C'est comme ça que le butter chicken est né.",
+            "Pour quatre, mélange 600 g de poulet avec du yaourt, du gingembre et du piment. Deux heures après, fais-le griller jusqu'à ce qu'il noircisse un peu. Fais cuire une boîte de tomates au beurre quinze minutes. Mixe, ajoute de la crème et le poulet.",
+            "Personne n'a écrit la recette. En 2024, les familles sont allées au tribunal. Pour chacune, c'est son grand-père qui l'a inventé. Pas mal, pour des restes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "« Que » starts a relative clause when the noun is the object of the next verb: les morceaux que personne n'achetait = the pieces (that) nobody bought; unlike English, French can never leave it out.",
+              "example" : "Les morceaux que personne n'achetait séchaient.",
+              "title" : "Que: the object relative pronoun"
+            },
+            {
+              "body" : "Reflexive verbs form the passé composé with être, and the participle agrees with the subject: ils se sont installés (masculine plural) = they settled.",
+              "example" : "En 1947, quand l'Inde a été divisée, deux cuisiniers de Peshawar ont perdu leur maison et se sont installés à Delhi.",
+              "title" : "Reflexive verbs take être: se sont installés"
+            },
+            {
+              "body" : "« C'est X qui … » puts one person in the spotlight: c'est son grand-père qui l'a inventé = it was THEIR grandfather who invented it, not the other family's.",
+              "example" : "En 2024, les familles sont allées au tribunal : chacune dit que c'est son grand-père qui l'a inventé.",
+              "title" : "C'est … qui: stressing who did it"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1947, quand l'Inde a été divisée, deux cuisiniers de Peshawar ont perdu leur maison et se sont installés à Delhi. Ils avaient le même prénom : Kundan Lal Gujral et son cousin, Kundan Lal Jaggi.",
+            "Ils ont ouvert le Moti Mahal, où le poulet cuisait au tandoor, un four en terre chaud. Les morceaux que personne n'achetait séchaient. Alors, paraît-il, on les mettait dans une sauce aux tomates, au beurre et à la crème : le butter chicken.",
+            "Pour quatre, mélange 600 g de hauts de cuisse avec 150 g de yaourt, du gingembre et du piment. Deux heures après, grille-les jusqu'à ce que les bords noircissent.",
+            "Fais fondre 50 g de beurre, ajoute une boîte de tomates et laisse mijoter quinze minutes. Mixe, incorpore 100 ml de crème et le poulet.",
+            "Personne n'a écrit la recette. En 2024, les familles sont allées au tribunal : chacune dit que c'est son grand-père qui l'a inventé. Pas mal, pour des restes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In the passé composé, « tout » (everything) sits between the auxiliary and the participle: ils ont tout laissé, never ils ont laissé tout. « Repartir de zéro » = to start over from scratch.",
+              "example" : "En 1947, à la partition de l'Inde, deux cuisiniers de Peshawar ont tout laissé et sont repartis de zéro à Delhi.",
+              "title" : "Ont tout laissé: tout before the participle"
+            },
+            {
+              "body" : "With avoir the participle normally stays as it is, but it agrees with a direct object pronoun placed before it: les = les restes (masculine plural) → recyclés.",
+              "example" : "Les restes se desséchaient et, à ce qu'on raconte, on les a recyclés dans une sauce tomate au beurre et à la crème : le butter chicken.",
+              "title" : "On les a recyclés: agreement before avoir"
+            },
+            {
+              "body" : "En + present participle says what someone does at the same time as the main verb: they sued, saying that it all began in Peshawar. Family names take no plural -s: les Gujral, les Jaggi.",
+              "example" : "En janvier 2024, les Gujral ont attaqué les Jaggi devant la Haute Cour de Delhi, en disant que tout avait commencé encore plus tôt, à Peshawar.",
+              "title" : "The gérondif: en disant que"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1947, à la partition de l'Inde, deux cuisiniers de Peshawar ont tout laissé et sont repartis de zéro à Delhi. Les deux s'appelaient Kundan Lal : Gujral et son cousin, Jaggi.",
+            "Ils ont ouvert le Moti Mahal, le Palais de la Perle, où le poulet cuisait au tandoor, un four en terre brûlant. Les restes se desséchaient et, à ce qu'on raconte, on les a recyclés dans une sauce tomate au beurre et à la crème : le butter chicken.",
+            "Pour quatre, mélange 600 g de hauts de cuisse avec 150 g de yaourt, du gingembre et du piment. Deux heures après, grille-les jusqu'à ce qu'ils noircissent.",
+            "Fais fondre 50 g de beurre, ajoute une boîte de tomates et laisse mijoter quinze minutes. Mixe, incorpore 100 ml de crème et le poulet, termine par une noix de beurre.",
+            "Personne n'a écrit la recette. Chaque famille dit que l'idée vient de son grand-père. En janvier 2024, les Gujral ont attaqué les Jaggi devant la Haute Cour de Delhi, en disant que tout avait commencé encore plus tôt, à Peshawar. Pas mal, pour des restes."
+          ]
+        }
+      ],
+      "summary" : "Le butter chicken est né, paraît-il, de restes de poulet secs dans un restaurant de Delhi en 1947, et en 2024, deux familles sont allées au tribunal pour savoir quel grand-père l'a inventé.",
+      "title" : "Le poulet qui a fini au tribunal",
+      "translationGroup" : "butter-chicken"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "id" : "butter-chicken-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend uses the du form without -st and without „du“, with the verb first: du mischst → misch!, du kochst → koch!, du gibst → gib!",
+              "example" : "Koch Tomaten mit Butter, dann gib Sahne und das Hähnchen dazu.",
+              "title" : "The du imperative in a recipe: misch, grill, koch"
+            },
+            {
+              "body" : "In „aufmachen“ (to open a shop or a restaurant) the little word „auf“ splits off and goes to the end of the sentence; „aufschreiben“ (to write down) works the same way: „keiner von beiden schreibt das Rezept auf“.",
+              "example" : "Dort machen sie dann ein Restaurant auf: das Moti Mahal.",
+              "title" : "Machen … auf: a separable verb"
+            },
+            {
+              "body" : "When a sentence starts with a year, with „dort“ (there), „also“ (so) or with the object, the verb comes next and the subject after it: „1947 müssen zwei Köche …“, „Dort machen sie …“, „Also macht einer von beiden …“, „Manche Stücke will keiner“. After „aber“ and „und“ the order stays normal: „und die werden trocken“.",
+              "example" : "Also macht einer von beiden eine Soße aus Tomaten, Butter und Sahne.",
+              "title" : "Dort, also: the verb comes next"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "1947 müssen zwei Köche von Peshawar nach Delhi. Beide heißen sogar Kundan Lal. Dort machen sie dann ein Restaurant auf: das Moti Mahal.",
+            "Sie grillen Hähnchen im heißen Ofen: Tandoori Chicken. Aber manche Stücke will keiner, und die werden trocken. Also macht einer von beiden eine Soße aus Tomaten, Butter und Sahne. Das ist Butter Chicken!",
+            "Misch Hähnchen mit Joghurt und Gewürzen und grill es. Koch Tomaten mit Butter, dann gib Sahne und das Hähnchen dazu.",
+            "Aber keiner von beiden schreibt das Rezept auf. Also sagt jede Familie, das Rezept ist von ihrem Opa. 2024 gehen sie sogar vor Gericht. Nicht schlecht für trockenes Hähnchen!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of moving or changing make the Perfekt with „sein“, not „haben“: „sind vor Gericht gegangen“ (went to court), „sind trocken geworden“ (got dry).",
+              "example" : "2024 sind die Familien vor Gericht gegangen.",
+              "title" : "Perfekt with sein: sind gegangen, sind geworden"
+            },
+            {
+              "body" : "In the Perfekt, „-ge-“ goes between the little word and the verb: aufmachen → „haben … aufgemacht“, aufschreiben → „hat … aufgeschrieben“. The participle stands at the end.",
+              "example" : "Sie haben das Moti Mahal aufgemacht und Hähnchen im heißen Lehmofen gegrillt.",
+              "title" : "Perfekt of a separable verb: aufgemacht"
+            },
+            {
+              "body" : "A relative clause starts with der/die/das (here „die“ for the plural „Stücke“) and sends its verb to the end; „wollte“ is the everyday past of „wollen“, fine in speech.",
+              "example" : "Aber die Stücke, die keiner wollte, sind trocken geworden.",
+              "title" : "Die Stücke, die keiner wollte: a relative clause"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1947 mussten zwei Köche von Peshawar nach Delhi. Beide hatten sogar denselben Vornamen: Kundan Lal Gujral und Kundan Lal Jaggi.",
+            "Sie haben das Moti Mahal aufgemacht und Hähnchen im heißen Lehmofen gegrillt. Aber die Stücke, die keiner wollte, sind trocken geworden.",
+            "Also hat einer von beiden eine Soße aus Tomaten, Butter und Sahne gemacht. So ist Butter Chicken entstanden.",
+            "Für vier Leute misch 600 g Hähnchen mit Joghurt, Ingwer und Chili. Nach zwei Stunden grill es, bis es etwas schwarz ist. Koch eine Dose Tomaten fünfzehn Minuten mit Butter. Püriere alles, rühr Sahne und das Hähnchen unter.",
+            "Das Rezept hat keiner aufgeschrieben. 2024 sind die Familien vor Gericht gegangen. Jede sagt, ihr Opa hat es erfunden. Nicht schlecht für Reste."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Als“ (when) introduces a single event in the past and sends its verb to the end; „wenn“ would mean every time. „Geteilt wurde“ is the passive (werden + Partizip II): India was divided; in speech the passive past takes „wurde“, like „war“ and „hatte“.",
+              "example" : "1947, als Indien geteilt wurde, haben zwei Köche aus Peshawar ihr Zuhause verloren und sind nach Delhi gezogen.",
+              "title" : "Als for one event in the past"
+            },
+            {
+              "body" : "„Angeblich“ (supposedly) marks something people tell without you vouching for it; it is the everyday way to say „people say“ in the middle of a sentence.",
+              "example" : "Was keiner gekauft hat, ist angeblich ausgetrocknet und in einer Soße aus Tomaten, Butter und Sahne gelandet: Butter Chicken.",
+              "title" : "Angeblich: passing on a story"
+            },
+            {
+              "body" : "In speech, German often reports a claim with a comma and plain word order in the indicative: „Jede sagt, ihr Großvater hat es erfunden“; writing would use the Konjunktiv (habe … erfunden).",
+              "example" : "2024 sind die Familien vor Gericht gegangen: Jede sagt, ihr Großvater hat es erfunden.",
+              "title" : "Jede sagt, …: what someone says, as people say it"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1947, als Indien geteilt wurde, haben zwei Köche aus Peshawar ihr Zuhause verloren und sind nach Delhi gezogen. Sie hatten sogar denselben Vornamen: Kundan Lal Gujral und sein Cousin Kundan Lal Jaggi.",
+            "Sie haben das Moti Mahal aufgemacht und Hähnchen im Tandoor gegrillt, einem heißen Lehmofen. Was keiner gekauft hat, ist angeblich ausgetrocknet und in einer Soße aus Tomaten, Butter und Sahne gelandet: Butter Chicken.",
+            "Für vier Leute misch 600 g Hähnchenoberschenkel mit 150 g Joghurt, Ingwer und Chili. Nach zwei Stunden grill das Fleisch, bis die Ränder schwarz werden.",
+            "Lass 50 g Butter schmelzen, gib eine Dose Tomaten dazu und lass sie fünfzehn Minuten köcheln. Püriere alles, dann rühr 100 ml Sahne und das Hähnchen unter.",
+            "Das Rezept hat keiner aufgeschrieben. 2024 sind die Familien vor Gericht gegangen: Jede sagt, ihr Großvater hat es erfunden. Nicht schlecht für Reste."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„(So) heiß wie …“ says two things are equal in some way; German uses „wie“ here, while „als“ is for the comparative: „heißer als ein Hochofen“ = hotter than a furnace.",
+              "example" : "Sie haben das Moti Mahal, den „Perlenpalast“, aufgemacht und Hähnchen im Tandoor gegrillt, einem Lehmofen, der heiß wird wie ein Hochofen.",
+              "title" : "Heiß wie ein Hochofen: comparing with wie"
+            },
+            {
+              "body" : "„So heißt es“ (so the story goes) slips in between commas to show you are passing on what people tell, not vouching for it; here „heißen“ means to be said, not to be called.",
+              "example" : "Die Reste sind ausgetrocknet und, so heißt es, in einer Soße aus Tomaten, Butter und Sahne gelandet: Butter Chicken.",
+              "title" : "So heißt es: passing on a story mid-sentence"
+            },
+            {
+              "body" : "Putting the participle first stresses it, a common move in speech: „angefangen hat alles noch früher“ = it actually started even earlier. After „sagen“ and a comma, speech keeps main-clause order for the claim, with no „dass“.",
+              "example" : "Im Januar 2024 haben die Gujrals die Jaggis beim Delhi High Court verklagt und sagen, angefangen hat alles noch früher, in Peshawar.",
+              "title" : "Angefangen hat alles …: the participle in first place"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1947, bei der Teilung Indiens, haben zwei Köche aus Peshawar alles zurückgelassen und in Delhi neu angefangen. Beide hatten den Vornamen Kundan Lal: Gujral und sein Cousin Jaggi.",
+            "Sie haben das Moti Mahal, den „Perlenpalast“, aufgemacht und Hähnchen im Tandoor gegrillt, einem Lehmofen, der heiß wird wie ein Hochofen. Die Reste sind ausgetrocknet und, so heißt es, in einer Soße aus Tomaten, Butter und Sahne gelandet: Butter Chicken.",
+            "Für vier Leute misch 600 g Hähnchenoberschenkel mit 150 g Joghurt, Ingwer und Chili. Zwei Stunden später grill sie, bis sie leicht verkohlen.",
+            "Zerlass 50 g Butter, gib eine Dose Tomaten dazu und lass sie fünfzehn Minuten köcheln. Püriere alles, rühr 100 ml Sahne, das Hähnchen und zum Schluss ein Stück Butter unter.",
+            "Das Rezept hat keiner aufgeschrieben. Jede Familie sagt, ihr Großvater hat es erfunden. Im Januar 2024 haben die Gujrals die Jaggis beim Delhi High Court verklagt und sagen, angefangen hat alles noch früher, in Peshawar. Nicht schlecht für Reste."
+          ]
+        }
+      ],
+      "summary" : "Butter Chicken ist angeblich 1947 in einem Restaurant in Delhi aus trockenen Resten entstanden – und 2024 sind zwei Familien vor Gericht gegangen, weil sie streiten, wessen Großvater es erfunden hat.",
+      "title" : "Das Hähnchen vor Gericht",
+      "translationGroup" : "butter-chicken"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "id" : "butter-chicken-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps for a friend use the tú imperative, which for most verbs looks like the él/ella present: mezcla, fríe, añade. A pronoun is joined to the end: hazlo (do it), tritúralo (blend it).",
+              "example" : "Después fríe el tomate con mantequilla y tritúralo.",
+              "title" : "The tú imperative in a recipe"
+            },
+            {
+              "body" : "Tener que + infinitive says something has to be done: tienen que irse = they have to leave. Only tener changes: tengo que, tienes que, tienen que.",
+              "example" : "Mira, estamos en 1947 y dos cocineros tienen que irse de Peshawar a Delhi.",
+              "title" : "Tener que + infinitive: tienen que irse"
+            },
+            {
+              "body" : "Así que joins a reason and what happens because of it: each family says it is their grandfather's dish, así que (so) they go to court.",
+              "example" : "Así que en 2024 van a los tribunales.",
+              "title" : "Así que: so, because of that"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Mira, estamos en 1947 y dos cocineros tienen que irse de Peshawar a Delhi. Los dos se llaman Kundan Lal. Allí abren el restaurante Moti Mahal y hacen pollo tandoori.",
+            "Pero el pollo que no se vende se queda seco. Entonces uno de ellos hace una salsa con tomate, mantequilla y nata. ¡Así nace el butter chicken!",
+            "¿Quieres probarlo en casa? Mezcla el pollo con yogur y especias, y hazlo a la parrilla. Después fríe el tomate con mantequilla y tritúralo. Al final, añade la nata y el pollo.",
+            "Pero nadie escribe nunca la receta. Años después, cada familia dice que es el plato de su abuelo. Así que en 2024 van a los tribunales. ¡Nada mal para un pollo seco!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (asaban, se vendía, se quedaba) tells what happened again and again at the restaurant; the pretérito (abrieron, hizo, nació) tells the events that happened once.",
+              "example" : "Allí asaban pollo en un horno de barro muy caliente.",
+              "title" : "Imperfect for every day, pretérito for once"
+            },
+            {
+              "body" : "Tener and hacer have their own pretérito stems with no written accent: tuvieron que irse = they had to leave (tener que = to have to), hizo = he made.",
+              "example" : "En 1947, dos cocineros tuvieron que irse de Peshawar a Delhi.",
+              "title" : "Irregular pretérito: tuvieron, hizo"
+            },
+            {
+              "body" : "Spanish stacks negative words instead of cancelling them: nadie apuntó nunca = nobody ever wrote down. When a negative word comes before the verb, no extra no is needed.",
+              "example" : "Nadie apuntó nunca la receta.",
+              "title" : "Nadie … nunca: two negatives together"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1947, dos cocineros tuvieron que irse de Peshawar a Delhi. Los dos se llamaban Kundan Lal: Kundan Lal Gujral y Kundan Lal Jaggi.",
+            "Abrieron el restaurante Moti Mahal. Allí asaban pollo en un horno de barro muy caliente. Pero claro, lo que no se vendía se quedaba seco.",
+            "Pues uno de ellos hizo una salsa con tomate, mantequilla y nata. Y así nació el butter chicken, el pollo a la mantequilla.",
+            "Para cuatro, mezcla 600 g de pollo con yogur, jengibre y guindilla. Dos horas después, hazlo a la parrilla hasta dejarlo un poco negro. Fríe una lata de tomate con mantequilla quince minutos. Tritúralo, echa la nata y el pollo.",
+            "Nadie apuntó nunca la receta. En 2024, las familias acabaron en los tribunales. Cada una dice que lo inventó su abuelo. Nada mal para unas sobras."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English uses a passive (India was divided), spoken Spanish often uses the ellos form with no subject: cuando dividieron la India.",
+              "example" : "En 1947, cuando dividieron la India, dos cocineros de Peshawar perdieron su casa y se fueron a Delhi.",
+              "title" : "Dividieron: \"they\" instead of a passive"
+            },
+            {
+              "body" : "In an instruction, hasta que (until) points to a moment that has not come yet, so its verb is subjunctive: se pongan, not se ponen. Ponerse + a colour means to turn that colour.",
+              "example" : "Dos horas después, haz el pollo a la parrilla hasta que los bordes se pongan negros.",
+              "title" : "Hasta que + subjunctive"
+            },
+            {
+              "body" : "Lo + adjective turns the adjective into an idea (lo malo = the bad thing), and es que introduces what it is: a very common way to raise a problem in speech.",
+              "example" : "Lo malo es que nadie apuntó nunca la receta.",
+              "title" : "Lo malo es que …: the trouble is"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1947, cuando dividieron la India, dos cocineros de Peshawar perdieron su casa y se fueron a Delhi. Hasta se llamaban igual: Kundan Lal Gujral y su primo, Kundan Lal Jaggi.",
+            "Abrieron el Moti Mahal y asaban pollo en un tandoor, un horno de barro muy caliente. Dicen que los trozos que nadie compraba se secaban y acababan en una salsa de tomate, mantequilla y nata: el butter chicken.",
+            "Para cuatro, mezcla 600 g de muslos de pollo con 150 g de yogur, jengibre y guindilla. Dos horas después, haz el pollo a la parrilla hasta que los bordes se pongan negros.",
+            "Derrite 50 g de mantequilla, añade una lata de tomate y déjalo a fuego lento quince minutos. Tritúralo, echa 100 ml de nata y el pollo, remueve y listo.",
+            "Lo malo es que nadie apuntó nunca la receta. En 2024 las familias acabaron en los tribunales: cada una dice que lo inventó su abuelo. Nada mal para unas sobras."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When todo (everything) is the direct object, Spanish adds the pronoun lo before the verb: lo dejaron todo atrás = they left everything behind.",
+              "example" : "En 1947, con la Partición de la India, dos cocineros de Peshawar lo dejaron todo atrás y empezaron de cero en Delhi.",
+              "title" : "Lo dejaron todo: todo as object takes lo"
+            },
+            {
+              "body" : "Speech often puts the topic first and picks it up again with a pronoun: la receta … la apuntó = as for the recipe, nobody wrote it down. Without la the sentence would sound wrong.",
+              "example" : "La receta, eso sí, nunca la apuntó nadie.",
+              "title" : "The object first, repeated by a pronoun"
+            },
+            {
+              "body" : "To name a whole family Spanish puts the article in the plural and leaves the surname as it is: los Gujral, los Jaggi; the a before los Jaggi is the personal a for a person object.",
+              "example" : "En enero de 2024, los Gujral llevaron a los Jaggi al Tribunal Superior de Delhi y añaden que nació incluso antes, allá en Peshawar.",
+              "title" : "Los Gujral: family names stay singular"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1947, con la Partición de la India, dos cocineros de Peshawar lo dejaron todo atrás y empezaron de cero en Delhi. Hasta compartían nombre: Kundan Lal Gujral y su primo, Kundan Lal Jaggi.",
+            "Abrieron el Moti Mahal, el Palacio de las Perlas, y asaban pollo en un tandoor, un horno de barro al rojo vivo. Las sobras se resecaban y, según dicen, acababan en una salsa de tomate, mantequilla y nata: el butter chicken.",
+            "Para cuatro, mezcla 600 g de muslos de pollo con 150 g de yogur, jengibre y guindilla. A las dos horas, ponlos en la parrilla hasta que queden un poco chamuscados.",
+            "Derrite 50 g de mantequilla, añade una lata de tomate y déjalo haciendo chup chup quince minutos. Tritúralo, echa 100 ml de nata y el pollo, y remátalo con una nuez de mantequilla.",
+            "La receta, eso sí, nunca la apuntó nadie. Cada familia dice que lo inventó su abuelo. En enero de 2024, los Gujral llevaron a los Jaggi al Tribunal Superior de Delhi y añaden que nació incluso antes, allá en Peshawar. Nada mal para unas sobras."
+          ]
+        }
+      ],
+      "summary" : "El butter chicken nació, según dicen, de unas sobras de pollo seco en un restaurante de Delhi en 1947, y en 2024 dos familias acabaron en los tribunales discutiendo qué abuelo lo inventó.",
+      "title" : "El pollo que acabó en los tribunales",
+      "translationGroup" : "butter-chicken"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-10-30",
+      "id" : "butter-chicken-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian says both with tutti e due, and tutte e due for women or feminine nouns: tutti e due i cuochi, tutte e due le famiglie.",
+              "example" : "Tutti e due si chiamano Kundan Lal: Gujral e Jaggi.",
+              "title" : "Tutti e due: both"
+            },
+            {
+              "body" : "Recipe steps speak to a friend with the tu imperative: -are verbs end in -a (mescola), -ere and -ire verbs in -i (cuoci, aggiungi).",
+              "example" : "Intanto cuoci i pomodori nel burro, poi aggiungi panna e pollo.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "With a possessive and a single family member (nonno, cugino, madre), Italian drops the article: di suo nonno, not del suo nonno. It comes back in the plural (i suoi nonni) and always with loro (il loro nonno).",
+              "example" : "Quindi ogni famiglia dice che è il piatto di suo nonno.",
+              "title" : "Suo nonno: no article with one family member"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo nel 1947 e due cuochi devono lasciare Peshawar per Delhi. Tutti e due si chiamano Kundan Lal: Gujral e Jaggi. A Delhi aprono il Moti Mahal e fanno il pollo tandoori.",
+            "Ma alcuni pezzi di pollo non li compra nessuno, e diventano secchi. Così uno dei due fa una salsa con pomodori, burro e panna. Ecco il butter chicken!",
+            "Lo vuoi provare? Mescola il pollo con yogurt e spezie, poi cuocilo alla griglia. Intanto cuoci i pomodori nel burro, poi aggiungi panna e pollo.",
+            "Ma i due cuochi non scrivono mai la ricetta. Quindi ogni famiglia dice che è il piatto di suo nonno. Per questo nel 2024 le due famiglie vanno in tribunale. Niente male, per del pollo secco!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the spoken past with avere (hanno aperto, hanno dovuto lasciare); verbs of movement like andare take essere, and then the participle agrees with the subject: sono andate, because le famiglie is feminine plural.",
+              "example" : "Nel 2024 le due famiglie sono andate in tribunale.",
+              "title" : "Passato prossimo: avere or essere"
+            },
+            {
+              "body" : "The imperfect (cuocevano, comprava, diventavano) tells what happened again and again; the passato prossimo tells the single event: uno dei due ha fatto una salsa.",
+              "example" : "Ma i pezzi che nessuno comprava diventavano secchi.",
+              "title" : "The imperfect for what kept happening"
+            },
+            {
+              "body" : "When nessuno (nobody) comes first, the verb needs no non: nessuno ha scritto. After the verb, Italian doubles the negative: non ha scritto nessuno.",
+              "example" : "Nessuno ha mai scritto la ricetta.",
+              "title" : "Nessuno before the verb: no non"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1947 due cuochi hanno dovuto lasciare Peshawar per Delhi. Si chiamavano tutti e due Kundan Lal: Gujral e Jaggi.",
+            "Hanno aperto il Moti Mahal. Lì cuocevano il pollo in un forno di terracotta caldissimo. Ma i pezzi che nessuno comprava diventavano secchi.",
+            "Allora uno dei due ha fatto una salsa con pomodori, burro e panna. Ecco com'è nato il butter chicken, il pollo al burro.",
+            "Per quattro persone, mescola 600 g di pollo con yogurt, zenzero e peperoncino. Dopo due ore, cuocilo alla griglia finché non diventa un po' nero. Intanto sciogli il burro, versa una scatola di pelati e cuoci quindici minuti. Frulla, poi aggiungi panna e pollo.",
+            "Nessuno ha mai scritto la ricetta. Nel 2024 le due famiglie sono andate in tribunale. Ogni famiglia dice che l'ha inventato suo nonno. Niente male, per degli avanzi."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passive is essere + past participle, and the participle agrees with the subject: l'India (feminine) è stata divisa = India was divided. Quando sets the moment in the background.",
+              "example" : "Nel 1947, quando l'India è stata divisa, due cuochi di Peshawar hanno perso la casa e sono arrivati a Delhi.",
+              "title" : "Quando and the passive: è stata divisa"
+            },
+            {
+              "body" : "Dicono che (they say that) is the everyday way to pass on a story you can't vouch for. Careful speech may follow it with the subjunctive (si seccassero), but in conversation the indicative is normal.",
+              "example" : "Dicono che i pezzi invenduti si seccavano, e così finivano in una salsa di pomodoro, burro e panna: il butter chicken.",
+              "title" : "Dicono che: passing on a story"
+            },
+            {
+              "body" : "Proprio means own and takes the article like an adjective: after ognuna (each one) it makes clear that each family means its own grandfather. As a talk word, proprio means really.",
+              "example" : "Nel 2024 le due famiglie sono finite in tribunale, e ognuna dice che l'ha inventato il proprio nonno.",
+              "title" : "Il proprio nonno: proprio meaning own"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1947, quando l'India è stata divisa, due cuochi di Peshawar hanno perso la casa e sono arrivati a Delhi. Avevano anche lo stesso nome: Kundan Lal Gujral e suo cugino, Kundan Lal Jaggi.",
+            "Hanno aperto il Moti Mahal e cuocevano il pollo nel tandoor, un forno di terracotta caldissimo. Dicono che i pezzi invenduti si seccavano, e così finivano in una salsa di pomodoro, burro e panna: il butter chicken.",
+            "Allora, per quattro persone, mescola 600 g di cosce di pollo con 150 g di yogurt, zenzero e peperoncino. Dopo due ore, cuocile alla griglia finché i bordi non diventano neri.",
+            "Sciogli 50 g di burro, aggiungi una scatola di pelati e cuoci a fuoco lento per quindici minuti. Frulla, poi unisci 100 ml di panna e il pollo.",
+            "Nessuno ha mai scritto la ricetta. Nel 2024 le due famiglie sono finite in tribunale, e ognuna dice che l'ha inventato il proprio nonno. Niente male, per degli avanzi."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Two everyday idioms: lasciarsi qualcosa alle spalle (to put something behind you, reflexive, so it takes essere) and ricominciare da zero (to start over from nothing).",
+              "example" : "Nel 1947, con la Partizione dell'India, due cuochi di Peshawar si sono lasciati tutto alle spalle e hanno ricominciato da zero a Delhi.",
+              "title" : "Lasciarsi tutto alle spalle, ricominciare da zero"
+            },
+            {
+              "body" : "Spoken Italian often names the topic first and picks it up again with a pronoun: la ricetta … l'ha messa. With lo/la before avere, the participle agrees with it (messa, feminine).",
+              "example" : "La ricetta, però, nessuno l'ha mai messa per iscritto.",
+              "title" : "La ricetta, nessuno l'ha messa: the topic first"
+            },
+            {
+              "body" : "Fare + infinitive means to make something happen (fai sciogliere il burro = melt the butter); lasciare + infinitive means to let it happen on its own (lascia sobbollire = let it simmer).",
+              "example" : "Fai sciogliere 50 g di burro, aggiungi una scatola di pelati e lascia sobbollire per quindici minuti.",
+              "title" : "Fai sciogliere, lascia sobbollire"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1947, con la Partizione dell'India, due cuochi di Peshawar si sono lasciati tutto alle spalle e hanno ricominciato da zero a Delhi. Avevano perfino lo stesso nome, Kundan Lal: Gujral e suo cugino, Jaggi.",
+            "Hanno aperto il Moti Mahal, il Palazzo della Perla, e cuocevano il pollo nel tandoor, un forno di terracotta caldo come una fornace. I pezzi invenduti si seccavano e, a quanto si racconta, finivano in una salsa di pomodoro, burro e panna: il butter chicken.",
+            "Allora, per quattro persone, mescola 600 g di cosce di pollo con 150 g di yogurt, zenzero e peperoncino; due ore dopo, cuocile alla griglia finché non si bruciacchiano.",
+            "Fai sciogliere 50 g di burro, aggiungi una scatola di pelati e lascia sobbollire per quindici minuti. Frulla, unisci 100 ml di panna e il pollo e, per finire, un'ultima noce di burro.",
+            "La ricetta, però, nessuno l'ha mai messa per iscritto. Nel gennaio 2024 i Gujral hanno portato i Jaggi davanti all'Alta Corte di Delhi. Ognuno dice che l'ha inventato il proprio nonno, i Gujral addirittura già a Peshawar. Niente male, per degli avanzi."
+          ]
+        }
+      ],
+      "summary" : "Il butter chicken, si dice, è nato nel 1947 in un ristorante di Delhi da un po' di pollo avanzato e secco, e nel 2024 due famiglie sono finite in tribunale per stabilire quale dei due nonni l'ha inventato.",
+      "title" : "Il pollo finito in tribunale",
+      "translationGroup" : "butter-chicken"
     }
   ]
 }
