@@ -1,9 +1,21 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 25,
-  "generatedAt" : "2026-10-30",
+  "contentVersion" : 26,
+  "generatedAt" : "2026-11-02",
   "imageBaseURL" : "images/",
   "newest" : [
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "titles" : {
+        "english" : "Zaragoza's Fourth Try",
+        "french" : "Le quatrième essai de Saragosse",
+        "german" : "Zaragozas vierter Versuch",
+        "italian" : "Il quarto tentativo di Saragozza",
+        "spanish" : "A la cuarta, la vencida"
+      },
+      "translationGroup" : "zaragozas-fourth-try"
+    },
     {
       "category" : "recipes",
       "dateAdded" : "2026-10-30",
@@ -27,20 +39,8 @@
         "spanish" : "Cultivar nuestro jardín"
       },
       "translationGroup" : "cultivate-our-garden"
-    },
-    {
-      "category" : "health",
-      "dateAdded" : "2026-10-28",
-      "titles" : {
-        "english" : "Forty Minutes in Naples",
-        "french" : "Quarante minutes à Naples",
-        "german" : "Vierzig Minuten in Neapel",
-        "italian" : "Quaranta minuti a Napoli",
-        "spanish" : "Cuarenta minutos en Nápoles"
-      },
-      "translationGroup" : "forty-minutes-in-naples"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "a5e941b75a32f6a87e88412a4afbda00d344696ee01092464e65433e3299889b"
+  "sha256" : "562dac488151b790209aeea6ea0c38e4982be493bd450fc49db9de20f250ff84"
 }

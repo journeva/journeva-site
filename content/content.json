@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 25,
-  "generatedAt" : "2026-10-30",
+  "contentVersion" : 26,
+  "generatedAt" : "2026-11-02",
   "glossary" : {
     "english" : [
       {
@@ -513,9 +513,9 @@
         "forms" : [
           "back"
         ],
-        "note" : "As in \"turn back.\"",
+        "note" : "As in \"turn back\"; \"back then\" = at that time in the past.",
         "pos" : "adverb",
-        "translation" : "to a previous place or state"
+        "translation" : "to a previous place or state; (back then) at that time"
       },
       {
         "forms" : [
@@ -1283,9 +1283,9 @@
         "forms" : [
           "coming"
         ],
-        "note" : "Present participle of \"come.\"",
+        "note" : "Present participle of \"come\"; \"a long time coming\" = it took a long time to happen.",
         "pos" : "verb",
-        "translation" : "moving toward"
+        "translation" : "moving toward; (a long time coming) long awaited"
       },
       {
         "forms" : [
@@ -1594,7 +1594,8 @@
       },
       {
         "forms" : [
-          "cut"
+          "cut",
+          "cuts"
         ],
         "note" : "Same form in present and past tense.",
         "pos" : "verb",
@@ -2823,9 +2824,9 @@
         "forms" : [
           "got"
         ],
-        "note" : "Past tense of \"get\"; before an adjective it means \"became\": got dry. \"Have you got …?\" = do you have …?",
+        "note" : "Past tense of \"get\"; before an adjective it means \"became\": got dry; \"got there\" = arrived. \"Have you got …?\" = do you have …?",
         "pos" : "verb",
-        "translation" : "obtained, received; became (got dry); (have got) have"
+        "translation" : "obtained, received; became (got dry); arrived (got there); (have got) have"
       },
       {
         "forms" : [
@@ -3864,9 +3865,9 @@
         "forms" : [
           "made"
         ],
-        "note" : "Past tense of \"make.\"",
+        "note" : "Past tense of \"make\"; \"made the final\" = got into the final.",
         "pos" : "verb",
-        "translation" : "created, prepared"
+        "translation" : "created, prepared; (made the final) got into"
       },
       {
         "forms" : [
@@ -4188,9 +4189,9 @@
           "named",
           "names"
         ],
-        "note" : "\"Named\" is the past tense verb form.",
+        "note" : "\"Named\" is the past tense verb form: \"named Zaragoza Green Capital\" = gave Zaragoza that title.",
         "pos" : "noun",
-        "translation" : "what someone or something is called"
+        "translation" : "what someone or something is called; (named) called, or given a title"
       },
       {
         "forms" : [
@@ -5440,9 +5441,9 @@
           "ran",
           "run"
         ],
-        "note" : "As in \"run errands.\"",
+        "note" : "As in \"run errands\"; \"how well it is run\" = how well it is managed.",
         "pos" : "verb",
-        "translation" : "to move quickly on foot"
+        "translation" : "to move quickly on foot; (a city, a business) to manage"
       },
       {
         "forms" : [
@@ -6373,9 +6374,9 @@
           "takes",
           "taking"
         ],
-        "note" : "Forms of \"take\" across tenses; \"take an exam\" = do it; \"take on the baths\" = make them your job.",
+        "note" : "Forms of \"take\" across tenses; \"take an exam\" = do it; \"take on the baths\" = make them your job; \"taken down\" (trees) = cut down.",
         "pos" : "verb",
-        "translation" : "to get hold of, to require (time); (take on) to start doing a job"
+        "translation" : "to get hold of, to require (time); (take on) to start doing a job; (take down) to cut down"
       },
       {
         "forms" : [
@@ -6796,9 +6797,9 @@
         "forms" : [
           "try"
         ],
-        "note" : "As in \"decided to try it.\"",
+        "note" : "As in \"decided to try it\"; as a noun, \"a try\" = an attempt: \"its fourth try\".",
         "pos" : "verb",
-        "translation" : "to attempt to do something"
+        "translation" : "to attempt to do something; (a try) an attempt"
       },
       {
         "forms" : [
@@ -8823,7 +8824,8 @@
       },
       {
         "forms" : [
-          "choose"
+          "choose",
+          "chooses"
         ],
         "note" : "Past tense is \"chose.\"",
         "pos" : "verb",
@@ -17923,9 +17925,9 @@
           "stick",
           "sticking"
         ],
-        "note" : "\"Stick\" also means to adhere, as in apples that \"do not stick.\"",
+        "note" : "\"Stick\" also means to adhere, as in apples that \"do not stick\"; \"sticking with its plans\" = keeping to them.",
         "pos" : "verb",
-        "translation" : "to attach, fix in place"
+        "translation" : "to attach, fix in place; (stick to / with) to keep to"
       },
       {
         "forms" : [
@@ -24724,7 +24726,8 @@
       },
       {
         "forms" : [
-          "litre"
+          "litre",
+          "litres"
         ],
         "note" : "1,000 millilitres; \"a litre and a half\" = 1.5 litres. American spelling: liter.",
         "pos" : "noun",
@@ -26726,9 +26729,9 @@
         "forms" : [
           "stuck"
         ],
-        "note" : "\"Stuck at a desk\" = sitting there all day with no way out.",
+        "note" : "\"Stuck at a desk\" = sitting there all day with no way out; \"stuck to its plans\" = kept to them.",
         "pos" : "adjective",
-        "translation" : "unable to move or get away"
+        "translation" : "unable to move or get away; (stuck to) kept to"
       },
       {
         "forms" : [
@@ -28535,6 +28538,224 @@
         "note" : "Past of drain: drain a swamp, to make the land dry.",
         "pos" : "verb",
         "translation" : "took the water out of (wet land)"
+      },
+      {
+        "forms" : [
+          "zaragoza",
+          "zaragoza's"
+        ],
+        "note" : "Spanish city on the river Ebro, named European Green Capital 2028; say tha-ra-GO-tha; Zaragoza's = of Zaragoza.",
+        "pos" : "noun",
+        "translation" : "Zaragoza (a big city in north-east Spain)"
+      },
+      {
+        "forms" : [
+          "guimarães"
+        ],
+        "note" : "The European Green Capital 2026, where the 2028 winners were named; say ghee-muh-RAINSH.",
+        "pos" : "noun",
+        "translation" : "Guimarães (a city in the north of Portugal)"
+      },
+      {
+        "forms" : [
+          "portugal"
+        ],
+        "note" : "A country in south-west Europe, next to Spain.",
+        "pos" : "noun",
+        "translation" : "Portugal"
+      },
+      {
+        "forms" : [
+          "ebro"
+        ],
+        "note" : "The river that runs through Zaragoza; say AY-bro.",
+        "pos" : "noun",
+        "translation" : "the Ebro (a river in Spain)"
+      },
+      {
+        "forms" : [
+          "spanish"
+        ],
+        "note" : "Nationality words take a capital letter in English: a Spanish city, the Spanish language.",
+        "pos" : "adjective",
+        "translation" : "from Spain"
+      },
+      {
+        "forms" : [
+          "european"
+        ],
+        "note" : "Takes a capital letter; it starts with a \"y\" sound, so it's \"a European city\", not \"an\".",
+        "pos" : "adjective",
+        "translation" : "from Europe, of Europe"
+      },
+      {
+        "forms" : [
+          "commission"
+        ],
+        "note" : "The European Commission runs the everyday work of the European Union and gives the Green Capital award.",
+        "pos" : "noun",
+        "translation" : "an official group with a job to do"
+      },
+      {
+        "forms" : [
+          "capital"
+        ],
+        "note" : "Here part of a title: European Green Capital = the city Europe names as its green example for one year.",
+        "pos" : "noun",
+        "translation" : "the city where a country's government sits"
+      },
+      {
+        "forms" : [
+          "metres"
+        ],
+        "note" : "British spelling (American: meters); 300 metres is about a four-minute walk.",
+        "pos" : "noun",
+        "translation" : "units of length (100 centimetres)"
+      },
+      {
+        "forms" : [
+          "park",
+          "parks"
+        ],
+        "note" : "Anyone can go in for free: live near a park, a city's parks.",
+        "pos" : "noun",
+        "translation" : "a public garden in a town, with grass and trees"
+      },
+      {
+        "forms" : [
+          "experts"
+        ],
+        "note" : "Plural of \"expert\": here the people who judged the cities.",
+        "pos" : "noun",
+        "translation" : "people who know a lot about a subject"
+      },
+      {
+        "forms" : [
+          "jury"
+        ],
+        "note" : "In a competition, the jury looks at everyone and picks the winner; one jury, many members.",
+        "pos" : "noun",
+        "translation" : "a group of people who decide who wins"
+      },
+      {
+        "forms" : [
+          "judged"
+        ],
+        "note" : "Past of \"judge\" (to give an opinion on); judge someone on something = by those points.",
+        "pos" : "verb",
+        "translation" : "looked at carefully and decided how good it was"
+      },
+      {
+        "forms" : [
+          "praised"
+        ],
+        "note" : "Past of the verb \"praise\"; praise someone for + -ing: praised the city for sticking with its plans.",
+        "pos" : "verb",
+        "translation" : "said that someone did well"
+      },
+      {
+        "forms" : [
+          "singled"
+        ],
+        "note" : "Phrasal verb, past: the jury singled out = it chose these points above all the others.",
+        "pos" : "verb",
+        "translation" : "singled out: picked one thing to praise or mention"
+      },
+      {
+        "forms" : [
+          "climate"
+        ],
+        "note" : "Weather is today; climate is the pattern over decades.",
+        "pos" : "noun",
+        "translation" : "the usual weather of a place over many years"
+      },
+      {
+        "forms" : [
+          "billion"
+        ],
+        "note" : "No -s after a number: 61 billion litres, not 61 billions.",
+        "pos" : "number",
+        "translation" : "a thousand million (1,000,000,000)"
+      },
+      {
+        "forms" : [
+          "twenty-seven"
+        ],
+        "note" : "Numbers from 21 to 99 are written with a hyphen: twenty-seven.",
+        "pos" : "number",
+        "translation" : "27"
+      },
+      {
+        "forms" : [
+          "27"
+        ],
+        "note" : "Said \"twenty-seven\": 27 cities took part for the 2028 titles.",
+        "pos" : "number",
+        "translation" : "27"
+      },
+      {
+        "forms" : [
+          "61"
+        ],
+        "note" : "Said \"sixty-one\": 61 billion litres of water a year.",
+        "pos" : "number",
+        "translation" : "61"
+      },
+      {
+        "forms" : [
+          "105"
+        ],
+        "note" : "Said \"a hundred and five\": the water Zaragoza used each year in the 1980s, in billions of litres.",
+        "pos" : "number",
+        "translation" : "105"
+      },
+      {
+        "forms" : [
+          "1980s"
+        ],
+        "note" : "Say \"the nineteen-eighties\"; a decade is written with -s and no apostrophe.",
+        "pos" : "noun",
+        "translation" : "the years from 1980 to 1989"
+      },
+      {
+        "forms" : [
+          "2009"
+        ],
+        "note" : "Said \"two thousand and nine\": Zaragoza's first try for the Green Capital.",
+        "pos" : "number",
+        "translation" : "2009"
+      },
+      {
+        "forms" : [
+          "2011"
+        ],
+        "note" : "Said \"twenty eleven\": Zaragoza's second try.",
+        "pos" : "number",
+        "translation" : "2011"
+      },
+      {
+        "forms" : [
+          "2028"
+        ],
+        "note" : "Said \"twenty twenty-eight\": the year Zaragoza is European Green Capital.",
+        "pos" : "number",
+        "translation" : "2028"
+      },
+      {
+        "forms" : [
+          "5,608"
+        ],
+        "note" : "Said \"five thousand six hundred and eight\": Zaragoza's record number of new trees, in 2023.",
+        "pos" : "number",
+        "translation" : "5,608"
+      },
+      {
+        "forms" : [
+          "600,000"
+        ],
+        "note" : "Said \"six hundred thousand\": €600,000 is said \"six hundred thousand euros\".",
+        "pos" : "number",
+        "translation" : "600,000"
       }
     ],
     "french" : [
@@ -33440,9 +33661,9 @@
           "seule",
           "seuls"
         ],
-        "note" : "\"Seul\" (masc.) / \"seule\" (fem.).",
+        "note" : "\"Seul\" (masc.) / \"seule\" (fem.); before a noun: « une seule fois » = just once.",
         "pos" : "adjective",
-        "translation" : "alone, only"
+        "translation" : "alone, only; (une seule fois) a single, just one"
       },
       {
         "forms" : [
@@ -33650,9 +33871,9 @@
         "forms" : [
           "sur"
         ],
-        "note" : "Describes position.",
+        "note" : "Describes position; with numbers it means out of: « trois habitants sur quatre » = three people out of four.",
         "pos" : "preposition",
-        "translation" : "on"
+        "translation" : "on; (trois sur quatre) out of"
       },
       {
         "forms" : [
@@ -35114,9 +35335,9 @@
         "forms" : [
           "contre"
         ],
-        "note" : "In opposition to.",
+        "note" : "In opposition to; with figures it compares: « 61 milliards, contre 105 » = 61 billion, down from 105.",
         "pos" : "preposition",
-        "translation" : "against"
+        "translation" : "against; (with figures) compared with, down from"
       },
       {
         "forms" : [
@@ -36905,9 +37126,9 @@
         "forms" : [
           "n'en"
         ],
-        "note" : "Ne + en, part of a negative construction.",
+        "note" : "Ne + en, part of a negative construction; after a comparison the ne is not a no: « plus d'arbres qu'elle n'en coupe » = more trees than it cuts (of them).",
         "pos" : "other",
-        "translation" : "not any, none of it"
+        "translation" : "not any, none of it; (after a comparison) of them"
       },
       {
         "forms" : [
@@ -43595,9 +43816,9 @@
           "points"
         ],
         "gender" : "masculine",
-        "note" : "\"Le point central\" = the main point.",
+        "note" : "\"Le point central\" = the main point; « à quel point » = to what extent, how (well).",
         "pos" : "noun",
-        "translation" : "point"
+        "translation" : "point; (à quel point) how much, how well"
       },
       {
         "forms" : [
@@ -45646,9 +45867,9 @@
           "arrivée"
         ],
         "gender" : "feminine",
-        "note" : "Also past participle of \"arriver.\"",
+        "note" : "The noun « l'arrivée »; also the past participle of « arriver »: « elle n'est jamais arrivée » = it never got there.",
         "pos" : "noun",
-        "translation" : "arrival"
+        "translation" : "arrival; arrived"
       },
       {
         "forms" : [
@@ -48554,9 +48775,9 @@
           "rapporter",
           "rapporté"
         ],
-        "note" : "Infinitive and past participle.",
+        "note" : "Infinitive and past participle; « le titre a rapporté 600 000 euros » = the title brought in 600,000 euros.",
         "pos" : "verb",
-        "translation" : "to bring back; brought back"
+        "translation" : "to bring back; brought back; brought in (money)"
       },
       {
         "forms" : [
@@ -50615,9 +50836,9 @@
         "forms" : [
           "choisit"
         ],
-        "note" : "Choisir, passé simple, il/elle form.",
+        "note" : "Choisir, il/elle form: the present (« l'Europe choisit » = Europe chooses) and the written passé simple (chose).",
         "pos" : "verb",
-        "translation" : "chose"
+        "translation" : "chooses; chose"
       },
       {
         "forms" : [
@@ -60903,9 +61124,9 @@
           "coupe"
         ],
         "gender" : "feminine",
-        "note" : "The cup a team wins: « la Coupe du monde » = the World Cup, with a capital C; as a verb, « il coupe » means « he cuts ».",
+        "note" : "The cup a team wins: « la Coupe du monde » = the World Cup, with a capital C; as a verb, « il coupe » means « he cuts »: « elle coupe des arbres » = it cuts down trees.",
         "pos" : "noun",
-        "translation" : "cup"
+        "translation" : "cup; (il/elle coupe) cuts"
       },
       {
         "forms" : [
@@ -67142,6 +67363,321 @@
         "note" : "Tu imperative of se couper: « coupe-toi du monde » = cut yourself off from the world; te becomes toi after the verb.",
         "pos" : "verb",
         "translation" : "cut yourself off"
+      },
+      {
+        "forms" : [
+          "2028"
+        ],
+        "note" : "A year, read « deux mille vingt-huit »; « la Capitale verte pour 2028 » = the Green Capital for 2028, with pour for the year the title is for.",
+        "pos" : "number",
+        "translation" : "2028"
+      },
+      {
+        "forms" : [
+          "2009"
+        ],
+        "note" : "A year, read « deux mille neuf »; « en 2009 » = in 2009, with en and no article.",
+        "pos" : "number",
+        "translation" : "2009"
+      },
+      {
+        "forms" : [
+          "27"
+        ],
+        "note" : "Read « vingt-sept »; « 27 villes » = twenty-seven cities.",
+        "pos" : "number",
+        "translation" : "27, twenty-seven"
+      },
+      {
+        "forms" : [
+          "61"
+        ],
+        "note" : "Read « soixante et un », with et; « 61 milliards de litres » = 61 billion litres.",
+        "pos" : "number",
+        "translation" : "61, sixty-one"
+      },
+      {
+        "forms" : [
+          "105"
+        ],
+        "note" : "Read « cent cinq », with no « un » before cent; « 105 milliards » = 105 billion.",
+        "pos" : "number",
+        "translation" : "105, a hundred and five"
+      },
+      {
+        "forms" : [
+          "1980"
+        ],
+        "note" : "A year, read « mille neuf cent quatre-vingts »; « les années 1980 » = the 1980s, with années and no -s on the number.",
+        "pos" : "number",
+        "translation" : "1980"
+      },
+      {
+        "forms" : [
+          "600 000"
+        ],
+        "note" : "Read « six cent mille »: French writes a space, not a comma, between the thousands; cent takes no -s when mille follows.",
+        "pos" : "number",
+        "translation" : "600,000"
+      },
+      {
+        "forms" : [
+          "5 608"
+        ],
+        "note" : "Read « cinq mille six cent huit »: French writes a space, not a comma, between the thousands; mille never takes an -s.",
+        "pos" : "number",
+        "translation" : "5,608"
+      },
+      {
+        "forms" : [
+          "vingt-sept"
+        ],
+        "note" : "Twenty-seven, written out with a hyphen as French does for numbers under a hundred: « vingt-sept villes ».",
+        "pos" : "number",
+        "translation" : "twenty-seven"
+      },
+      {
+        "forms" : [
+          "saragosse"
+        ],
+        "gender" : "feminine",
+        "note" : "The French name for Zaragoza, the big Spanish city on the Èbre; used without an article: « à Saragosse ».",
+        "pos" : "noun",
+        "translation" : "Zaragoza"
+      },
+      {
+        "forms" : [
+          "guimarães"
+        ],
+        "gender" : "feminine",
+        "note" : "A town in northern Portugal; the name keeps its Portuguese spelling: « à Guimarães », with à for a town.",
+        "pos" : "noun",
+        "translation" : "Guimarães"
+      },
+      {
+        "forms" : [
+          "portugal"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le Portugal » is masculine, so « au Portugal » = in Portugal (à + le); compare « en Espagne » for a feminine country.",
+        "pos" : "noun",
+        "translation" : "Portugal"
+      },
+      {
+        "forms" : [
+          "d'espagne"
+        ],
+        "gender" : "feminine",
+        "note" : "De + Espagne, shortened before the vowel: « une grande ville d'Espagne » = a big city in Spain; no article after de with a feminine country.",
+        "pos" : "noun",
+        "translation" : "of Spain, from Spain"
+      },
+      {
+        "forms" : [
+          "espagnole"
+        ],
+        "note" : "Feminine of espagnol, agreeing with ville: « une ville espagnole »; adjectives of nationality take no capital letter in French.",
+        "pos" : "adjective",
+        "translation" : "Spanish"
+      },
+      {
+        "forms" : [
+          "l'èbre"
+        ],
+        "gender" : "masculine",
+        "note" : "L'Èbre, the river Ebro in Spain, masculine like most big rivers: « au bord de l'Èbre » = on the banks of the Ebro.",
+        "pos" : "noun",
+        "translation" : "the Ebro (river)"
+      },
+      {
+        "forms" : [
+          "capitale"
+        ],
+        "gender" : "feminine",
+        "note" : "La capitale, feminine; for money « le capital » is a different word.",
+        "pos" : "noun",
+        "translation" : "capital (city)"
+      },
+      {
+        "forms" : [
+          "commission"
+        ],
+        "gender" : "feminine",
+        "note" : "« La Commission européenne » = the European Commission, the EU body that gives the Green Capital title; feminine, like most words in -sion.",
+        "pos" : "noun",
+        "translation" : "commission"
+      },
+      {
+        "forms" : [
+          "cérémonie"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: « une cérémonie » = a formal event where a prize or title is given.",
+        "pos" : "noun",
+        "translation" : "ceremony"
+      },
+      {
+        "forms" : [
+          "essai"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un essai » = a try, from essayer; « au quatrième essai » = on the fourth try.",
+        "pos" : "noun",
+        "translation" : "try, attempt"
+      },
+      {
+        "forms" : [
+          "gagnante"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine of « le gagnant », because the winner here is a city, « la ville »: « la gagnante, c'est Saragosse ».",
+        "pos" : "noun",
+        "translation" : "winner (female)"
+      },
+      {
+        "forms" : [
+          "parc"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « un parc » = a park; « près d'un parc » = near a park.",
+        "pos" : "noun",
+        "translation" : "park"
+      },
+      {
+        "forms" : [
+          "parcs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le parc »: « les parcs » = the parks.",
+        "pos" : "noun",
+        "translation" : "parks"
+      },
+      {
+        "forms" : [
+          "litres"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le litre »; « 61 milliards de litres » = 61 billion litres, with de after a big number word like milliard.",
+        "pos" : "noun",
+        "translation" : "litres"
+      },
+      {
+        "forms" : [
+          "milliards"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un milliard » = a billion (a thousand million); it is a noun, so it takes -s and de: « 61 milliards de litres ».",
+        "pos" : "noun",
+        "translation" : "billions"
+      },
+      {
+        "forms" : [
+          "experts"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un expert », the same word as in English; « des experts » = some experts.",
+        "pos" : "noun",
+        "translation" : "experts"
+      },
+      {
+        "forms" : [
+          "domaines"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le domaine », here a field or area of work (air, water, waste); it can also mean an estate.",
+        "pos" : "noun",
+        "translation" : "areas, fields"
+      },
+      {
+        "forms" : [
+          "jury"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le jury » = the panel that picks a winner in a contest, not only in a court; masculine.",
+        "pos" : "noun",
+        "translation" : "jury, panel of judges"
+      },
+      {
+        "forms" : [
+          "climat"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « le climat »; « au climat » = à + le climat.",
+        "pos" : "noun",
+        "translation" : "climate"
+      },
+      {
+        "forms" : [
+          "clé"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une clé » = a key; « à la clé » = as the prize, what you get at the end: « 600 000 euros à la clé ».",
+        "pos" : "noun",
+        "translation" : "key"
+      },
+      {
+        "forms" : [
+          "habitent"
+        ],
+        "note" : "Habiter (to live somewhere), ils form, present: « les gens habitent près d'un parc » = people live near a park.",
+        "pos" : "verb",
+        "translation" : "live"
+      },
+      {
+        "forms" : [
+          "habitaient"
+        ],
+        "note" : "Habiter, imparfait, ils form: how things were at the time, the background of the story.",
+        "pos" : "verb",
+        "translation" : "lived, were living"
+      },
+      {
+        "forms" : [
+          "utilisait"
+        ],
+        "note" : "Utiliser (to use), imparfait, il/elle form: « elle utilisait 61 milliards de litres » = it was using 61 billion litres (at the time).",
+        "pos" : "verb",
+        "translation" : "used, was using"
+      },
+      {
+        "forms" : [
+          "plantait"
+        ],
+        "note" : "Planter, imparfait, il/elle form: with « chaque année » it is a habit, so French takes the imparfait, not the passé composé.",
+        "pos" : "verb",
+        "translation" : "planted, was planting"
+      },
+      {
+        "forms" : [
+          "abattait"
+        ],
+        "note" : "Abattre (to cut down a tree, to knock down), imparfait, il/elle form: « abattre un arbre » is the precise word for felling a tree.",
+        "pos" : "verb",
+        "translation" : "cut down, felled"
+      },
+      {
+        "forms" : [
+          "jugé"
+        ],
+        "note" : "Past participle of juger (to judge): « des experts ont jugé 27 villes » = experts judged 27 cities, passé composé with avoir.",
+        "pos" : "verb",
+        "translation" : "judged"
+      },
+      {
+        "forms" : [
+          "félicité"
+        ],
+        "note" : "Past participle of féliciter, passé composé with avoir: « le jury a félicité Saragosse d'être bien gérée »; féliciter takes de + infinitive for the reason.",
+        "pos" : "verb",
+        "translation" : "praised, congratulated"
+      },
+      {
+        "forms" : [
+          "gérée"
+        ],
+        "note" : "Past participle of gérer, feminine to agree with Saragosse (la ville): « bien gérée » = well run.",
+        "pos" : "verb",
+        "translation" : "run, managed"
       }
     ],
     "german" : [
@@ -70573,7 +71109,8 @@
       },
       {
         "forms" : [
-          "plan"
+          "plan",
+          "plänen"
         ],
         "gender" : "masculine",
         "note" : "A planned approach.",
@@ -72052,9 +72589,9 @@
           "versuch",
           "versuchen"
         ],
-        "note" : "Infinitive of versuchen.",
+        "note" : "Versuchen is the infinitive and „versuch!\" its du imperative; der Versuch = an attempt: „Zaragozas vierter Versuch\" = Zaragoza's fourth try.",
         "pos" : "verb",
-        "translation" : "to try"
+        "translation" : "to try; (der Versuch) try, attempt"
       },
       {
         "forms" : [
@@ -83659,7 +84196,8 @@
       {
         "forms" : [
           "wählen",
-          "wählst"
+          "wählst",
+          "wählt"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -83957,7 +84495,7 @@
         "forms" : [
           "2023"
         ],
-        "note" : "Das Jahr der UNESCO-Anerkennung.",
+        "note" : "Said zweitausenddreiundzwanzig.",
         "pos" : "number",
         "translation" : "2023"
       },
@@ -89207,7 +89745,8 @@
       },
       {
         "forms" : [
-          "festhalten"
+          "festhalten",
+          "festhält"
         ],
         "note" : "Infinitive — of a history book recording deeds.",
         "pos" : "verb",
@@ -89322,9 +89861,9 @@
         "forms" : [
           "fällt"
         ],
-        "note" : "Fallen, \"er/sie/es\" form — \"Sonnenlicht fällt darauf\" = sunlight falls on it.",
+        "note" : "Fallen, \"er/sie/es\" form — \"Sonnenlicht fällt darauf\" = sunlight falls on it; also fällen: „mehr Bäume, als sie fällt\" = more trees than it cuts down.",
         "pos" : "verb",
-        "translation" : "falls"
+        "translation" : "falls; (fällen) cuts down, fells (a tree)"
       },
       {
         "forms" : [
@@ -89373,9 +89912,9 @@
         "forms" : [
           "geführt"
         ],
-        "note" : "Past participle of führen — \"vom Instinkt geführt\" = guided by instinct.",
+        "note" : "Past participle of führen — \"vom Instinkt geführt\" = guided by instinct; „gut geführt\" (a city, a firm) = well run.",
         "pos" : "verb",
-        "translation" : "led, guided"
+        "translation" : "led, guided; run, managed"
       },
       {
         "forms" : [
@@ -91699,6 +92238,7 @@
       },
       {
         "forms" : [
+          "wohnen",
           "wohnt"
         ],
         "note" : "Wohnen, \"er/sie/es\" form.",
@@ -100653,9 +101193,9 @@
           "preise"
         ],
         "gender" : "masculine",
-        "note" : "Der Preis is both a price and a prize; „einen Preis nennen“ = to name a price.",
+        "note" : "Der Preis is both a price and a prize; „einen Preis nennen\" = to name a price, „einen Preis gewinnen\" = to win a prize.",
         "pos" : "noun",
-        "translation" : "price"
+        "translation" : "price; prize"
       },
       {
         "forms" : [
@@ -102874,7 +103414,7 @@
         "forms" : [
           "300"
         ],
-        "note" : "„Um 300 vor Christus“ = around 300 BC, when the Guodian slips were written.",
+        "note" : "Said dreihundert.",
         "pos" : "number",
         "translation" : "300"
       },
@@ -107314,6 +107854,295 @@
         "note" : "Present of grillen (to grill) with wir/sie/Sie: „sie grillen Hähnchen in einem heißen Ofen“ = they grill chicken in a hot oven.",
         "pos" : "verb",
         "translation" : "grill"
+      },
+      {
+        "forms" : [
+          "2028"
+        ],
+        "note" : "Said „zweitausendachtundzwanzig“: „die Grüne Hauptstadt für 2028“ = the Green Capital for 2028.",
+        "pos" : "number",
+        "translation" : "2028"
+      },
+      {
+        "forms" : [
+          "2009"
+        ],
+        "note" : "Said „zweitausendneun“; a bare year needs no „im“: „2009, 2011 und 2014“.",
+        "pos" : "number",
+        "translation" : "2009"
+      },
+      {
+        "forms" : [
+          "27"
+        ],
+        "note" : "Said „siebenundzwanzig“: German says the ones before the tens, joined by „und“.",
+        "pos" : "number",
+        "translation" : "27"
+      },
+      {
+        "forms" : [
+          "61"
+        ],
+        "note" : "Said „einundsechzig“: the ones come first, then „und“, then the tens.",
+        "pos" : "number",
+        "translation" : "61"
+      },
+      {
+        "forms" : [
+          "105"
+        ],
+        "note" : "Said „hundertfünf“ (or „einhundertfünf“), with no „und“ after hundert.",
+        "pos" : "number",
+        "translation" : "105"
+      },
+      {
+        "forms" : [
+          "1980ern"
+        ],
+        "note" : "„In den 1980ern“ = in the 1980s: die 1980er (Jahre) takes -n in the dative plural after „in den“; said „neunzehnhundertachtziger“.",
+        "pos" : "other",
+        "translation" : "the 1980s"
+      },
+      {
+        "forms" : [
+          "5.608"
+        ],
+        "note" : "Said „fünftausendsechshundertacht“: German groups thousands with a dot, not a comma.",
+        "pos" : "number",
+        "translation" : "5,608"
+      },
+      {
+        "forms" : [
+          "600.000"
+        ],
+        "note" : "Said „sechshunderttausend“: German groups thousands with a dot, so 600.000 Euro = €600,000.",
+        "pos" : "number",
+        "translation" : "600,000"
+      },
+      {
+        "forms" : [
+          "bereichen"
+        ],
+        "gender" : "masculine",
+        "note" : "Dative plural of der Bereich (area, field), with -en after „in“: „in sieben Bereichen“ = in seven areas.",
+        "pos" : "noun",
+        "translation" : "areas, fields"
+      },
+      {
+        "forms" : [
+          "bewertet"
+        ],
+        "note" : "Partizip II of bewerten (to judge, to rate), with no ge- because be- is an inseparable prefix: „haben 27 Städte bewertet“.",
+        "pos" : "verb",
+        "translation" : "judged, rated"
+      },
+      {
+        "forms" : [
+          "donnerstagabend"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Donnerstagabend = Donnerstag + Abend, one word: „am Donnerstagabend“ = on Thursday evening.",
+        "pos" : "noun",
+        "translation" : "Thursday evening"
+      },
+      {
+        "forms" : [
+          "ebro"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Ebro, Spain's longest river, which runs through Zaragoza; most rivers outside Germany are masculine: „am Ebro“ = on the Ebro.",
+        "pos" : "noun",
+        "translation" : "the Ebro (river)"
+      },
+      {
+        "forms" : [
+          "ernannt"
+        ],
+        "note" : "Partizip II of ernennen (to name, to appoint), with no ge- after the prefix er-: „jemanden zu etwas ernennen“ = to name someone something; „zur Grünen Hauptstadt ernannt“.",
+        "pos" : "verb",
+        "translation" : "named, appointed"
+      },
+      {
+        "forms" : [
+          "europas"
+        ],
+        "note" : "Genitive of Europa, with -s: „Grüne Hauptstadt Europas“ = European Green Capital (literally Green Capital of Europe).",
+        "pos" : "other",
+        "translation" : "Europe's, of Europe"
+      },
+      {
+        "forms" : [
+          "europäische"
+        ],
+        "note" : "Europäisch with -e after „die“: „die Europäische Kommission“; in a name the adjective is written with a capital.",
+        "pos" : "adjective",
+        "translation" : "European"
+      },
+      {
+        "forms" : [
+          "fachleute"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Fachmann (an expert): „Fachleute“ is the usual word for experts, women and men together.",
+        "pos" : "noun",
+        "translation" : "experts"
+      },
+      {
+        "forms" : [
+          "feier"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Feier, from feiern (to celebrate): a party or a formal ceremony; „bei einer Feier“ = at a ceremony.",
+        "pos" : "noun",
+        "translation" : "celebration, ceremony"
+      },
+      {
+        "forms" : [
+          "gefällt"
+        ],
+        "note" : "Partizip II of fällen (to cut down a tree): „mehr Bäume gepflanzt als gefällt“. Not to be confused with „es gefällt mir“ (I like it), from gefallen.",
+        "pos" : "verb",
+        "translation" : "cut down, felled"
+      },
+      {
+        "forms" : [
+          "gelobt"
+        ],
+        "note" : "Partizip II of loben (to praise): „Die Jury hat gelobt, dass …“ = the jury praised the fact that …",
+        "pos" : "verb",
+        "translation" : "praised"
+      },
+      {
+        "forms" : [
+          "gewinner"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Gewinner, from gewinnen (to win); „Der Gewinner ist …“ = the winner is …, said for a person or a city alike.",
+        "pos" : "noun",
+        "translation" : "winner"
+      },
+      {
+        "forms" : [
+          "guimarães"
+        ],
+        "gender" : "neuter",
+        "note" : "A city in northern Portugal; like most town names it is neuter and takes no article: „in Guimarães“.",
+        "pos" : "noun",
+        "translation" : "Guimarães (city in Portugal)"
+      },
+      {
+        "forms" : [
+          "hauptstadt"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Hauptstadt = Haupt (main) + Stadt (city).",
+        "pos" : "noun",
+        "translation" : "capital (city)"
+      },
+      {
+        "forms" : [
+          "hervorgehoben"
+        ],
+        "note" : "Partizip II of hervorheben (to highlight, to single out), with ge- between the particle hervor and the verb: hervor + ge + hoben.",
+        "pos" : "verb",
+        "translation" : "highlighted, singled out"
+      },
+      {
+        "forms" : [
+          "höchstens"
+        ],
+        "note" : "From hoch (high): „höchstens 300 Meter entfernt“ = no more than 300 metres away.",
+        "pos" : "adverb",
+        "translation" : "at most"
+      },
+      {
+        "forms" : [
+          "jury"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Jury, said the French way („schü-RIE“): the judges of a prize or a contest.",
+        "pos" : "noun",
+        "translation" : "jury, panel of judges"
+      },
+      {
+        "forms" : [
+          "klima"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Klima: the weather over many years, and the climate as a topic: „von Luft und Wasser bis Lärm und Klima“.",
+        "pos" : "noun",
+        "translation" : "climate"
+      },
+      {
+        "forms" : [
+          "kommission"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kommission; „die Europäische Kommission“ is the EU's executive in Brussels.",
+        "pos" : "noun",
+        "translation" : "commission"
+      },
+      {
+        "forms" : [
+          "milliarden"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Milliarde, the German for a (thousand million) billion; a German „Billion“ is a million million, an English trillion.",
+        "pos" : "noun",
+        "translation" : "billion(s)"
+      },
+      {
+        "forms" : [
+          "mitgemacht"
+        ],
+        "note" : "Partizip II of mitmachen (to take part), a separable verb, so ge- goes between mit and macht: „27 Städte haben mitgemacht“.",
+        "pos" : "verb",
+        "translation" : "taken part"
+      },
+      {
+        "forms" : [
+          "park",
+          "parks"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Park, plural die Parks (with -s, like many borrowed words): „nah an einem Park“ = near a park.",
+        "pos" : "noun",
+        "translation" : "park"
+      },
+      {
+        "forms" : [
+          "portugal"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Land Portugal; like most country names it takes no article: „in Portugal“.",
+        "pos" : "noun",
+        "translation" : "Portugal"
+      },
+      {
+        "forms" : [
+          "spanische"
+        ],
+        "note" : "Spanisch with -e after „die“: „die große spanische Stadt“ = the big Spanish city; adjectives of nationality are written small.",
+        "pos" : "adjective",
+        "translation" : "Spanish"
+      },
+      {
+        "forms" : [
+          "verbraucht"
+        ],
+        "note" : "Verbrauchen (to use up, to consume), er/sie/es form and Partizip II (no ge- after ver-): „im Jahr 61 Milliarden Liter Wasser verbraucht“.",
+        "pos" : "verb",
+        "translation" : "uses (up); used"
+      },
+      {
+        "forms" : [
+          "zaragoza",
+          "zaragozas"
+        ],
+        "gender" : "neuter",
+        "note" : "A big city in north-east Spain on the river Ebro; like other town names it is neuter („es“), and „Zaragozas“ with -s says whose: „Zaragozas erster Versuch“.",
+        "pos" : "noun",
+        "translation" : "Zaragoza; Zaragoza's"
       }
     ],
     "italian" : [
@@ -109389,9 +110218,9 @@
         "forms" : [
           "ci"
         ],
-        "note" : "A very flexible little word, also used in c'è.",
+        "note" : "A very flexible little word, also used in c'è; «ci prova» = tries (at it).",
         "pos" : "pronoun",
-        "translation" : "there / us / to us"
+        "translation" : "there / us / to us; (provarci) at it"
       },
       {
         "forms" : [
@@ -115068,6 +115897,7 @@
       },
       {
         "forms" : [
+          "piani",
           "piano"
         ],
         "gender" : "masculine",
@@ -115938,6 +116768,7 @@
       },
       {
         "forms" : [
+          "quarta",
           "quarto"
         ],
         "note" : "The ordinal (il quarto giro, the fourth round); un quarto = a quarter (di circa un quarto = by about a quarter).",
@@ -115962,6 +116793,7 @@
       },
       {
         "forms" : [
+          "quegli",
           "quel",
           "quella",
           "quelle",
@@ -119541,7 +120373,7 @@
         "forms" : [
           "2023"
         ],
-        "note" : "L'anno del riconoscimento UNESCO.",
+        "note" : "Said duemilaventitré.",
         "pos" : "number",
         "translation" : "2023"
       },
@@ -124807,9 +125639,9 @@
           "finale"
         ],
         "gender" : "masculine",
-        "note" : "The ending of a story; «nel finale» of a race = in the last laps.",
+        "note" : "The ending of a story; «nel finale» of a race = in the last laps; «essere in finale» = to be in the final of a contest.",
         "pos" : "noun",
-        "translation" : "ending; the closing stages"
+        "translation" : "ending; the closing stages; (in finale) in the final"
       },
       {
         "forms" : [
@@ -131643,9 +132475,9 @@
           "attendere",
           "attese"
         ],
-        "note" : "Passato remoto of attendere (to wait), a formal twin of aspettare: attese con angoscia = he waited in dread.",
+        "note" : "Attendere (to wait) is a formal twin of aspettare; «attese» is its passato remoto: attese con angoscia = he waited in dread; «si è fatto attendere» = it was a long time coming.",
         "pos" : "verb",
-        "translation" : "waited"
+        "translation" : "to wait; waited"
       },
       {
         "forms" : [
@@ -133772,6 +134604,7 @@
       {
         "forms" : [
           "gestirono",
+          "gestita",
           "gestito"
         ],
         "note" : "From gestire, to run a business: hanno gestito is the passato prossimo, gestirono the passato remoto (loro).",
@@ -135713,7 +136546,8 @@
       },
       {
         "forms" : [
-          "europa"
+          "europa",
+          "l'europa"
         ],
         "gender" : "feminine",
         "note" : "Feminine; it usually takes the article (l'Europa) but drops it after in: in tutta Europa = all over Europe.",
@@ -135890,6 +136724,7 @@
       },
       {
         "forms" : [
+          "litri",
           "litro"
         ],
         "gender" : "masculine",
@@ -137769,7 +138604,7 @@
         "forms" : [
           "2011"
         ],
-        "note" : "The year Atlantic bluefin tuna was listed Endangered; said duemilaundici.",
+        "note" : "Said duemilaundici.",
         "pos" : "number",
         "translation" : "2011"
       },
@@ -138139,7 +138974,8 @@
       },
       {
         "forms" : [
-          "tentativi"
+          "tentativi",
+          "tentativo"
         ],
         "gender" : "masculine",
         "note" : "Un tentativo, dei tentativi = attempts, tries; from tentare.",
@@ -140500,6 +141336,7 @@
       },
       {
         "forms" : [
+          "europea",
           "europee"
         ],
         "note" : "Feminine plural of europeo; «le regole europee» = the EU rules, the law all EU countries share.",
@@ -141184,6 +142021,311 @@
         "note" : "Past participle of risanare: ha risanato le paludi = he cleaned up the swamps, made the land healthy.",
         "pos" : "verb",
         "translation" : "made healthy, cleaned up"
+      },
+      {
+        "forms" : [
+          "8"
+        ],
+        "note" : "Read «otto»: «a 8 km» = eight kilometres away.",
+        "pos" : "number",
+        "translation" : "eight"
+      },
+      {
+        "forms" : [
+          "27"
+        ],
+        "note" : "Ventisette; numbers never change for gender: 27 città, 27 paesi.",
+        "pos" : "number",
+        "translation" : "27"
+      },
+      {
+        "forms" : [
+          "61"
+        ],
+        "note" : "Sessantuno; with miliardi, di comes before the noun: 61 miliardi di litri = 61 billion litres.",
+        "pos" : "number",
+        "translation" : "61"
+      },
+      {
+        "forms" : [
+          "105"
+        ],
+        "note" : "Centocinque, written as one word; here 105 miliardi (di litri), 105 billion litres.",
+        "pos" : "number",
+        "translation" : "105"
+      },
+      {
+        "forms" : [
+          "2009"
+        ],
+        "note" : "Duemilanove; years take the article: nel 2009 = in 2009.",
+        "pos" : "number",
+        "translation" : "2009"
+      },
+      {
+        "forms" : [
+          "2028"
+        ],
+        "note" : "Duemilaventotto; per il 2028 = for 2028, with the article before the year.",
+        "pos" : "number",
+        "translation" : "2028"
+      },
+      {
+        "forms" : [
+          "5.608"
+        ],
+        "note" : "Cinquemilaseicentotto; Italian marks thousands with a full stop, not a comma: 5.608 = 5,608.",
+        "pos" : "number",
+        "translation" : "5,608"
+      },
+      {
+        "forms" : [
+          "600.000"
+        ],
+        "note" : "Seicentomila; Italian marks thousands with a full stop, and euro never changes in the plural: 600.000 euro.",
+        "pos" : "number",
+        "translation" : "600,000"
+      },
+      {
+        "forms" : [
+          "ventisette"
+        ],
+        "note" : "27 written out: venti + sette, joined into one word.",
+        "pos" : "number",
+        "translation" : "twenty-seven"
+      },
+      {
+        "forms" : [
+          "saragozza"
+        ],
+        "gender" : "feminine",
+        "note" : "The Italian name of the Spanish city of Zaragoza, on the river Ebro; cities are feminine: Saragozza è stata nominata.",
+        "pos" : "noun",
+        "translation" : "Zaragoza"
+      },
+      {
+        "forms" : [
+          "guimarães"
+        ],
+        "gender" : "feminine",
+        "note" : "A city in northern Portugal, keeping its Portuguese spelling; a Guimarães = in Guimarães.",
+        "pos" : "noun",
+        "translation" : "Guimarães"
+      },
+      {
+        "forms" : [
+          "portogallo"
+        ],
+        "gender" : "masculine",
+        "note" : "The country, masculine: il Portogallo, but in Portogallo = in Portugal, with no article after in.",
+        "pos" : "noun",
+        "translation" : "Portugal"
+      },
+      {
+        "forms" : [
+          "ebro"
+        ],
+        "gender" : "masculine",
+        "note" : "The river that runs through Zaragoza; rivers are masculine: il fiume Ebro, sull'Ebro.",
+        "pos" : "noun",
+        "translation" : "Ebro"
+      },
+      {
+        "forms" : [
+          "spagnola"
+        ],
+        "note" : "Feminine of spagnolo, agreeing with città; adjectives of nationality are written in lower case.",
+        "pos" : "adjective",
+        "translation" : "Spanish"
+      },
+      {
+        "forms" : [
+          "capitale"
+        ],
+        "gender" : "feminine",
+        "note" : "La capitale, feminine for the city.",
+        "pos" : "noun",
+        "translation" : "capital (city)"
+      },
+      {
+        "forms" : [
+          "serata"
+        ],
+        "gender" : "feminine",
+        "note" : "La serata is the evening as a whole, with what happens in it (una serata felice); la sera is the time of day.",
+        "pos" : "noun",
+        "translation" : "evening"
+      },
+      {
+        "forms" : [
+          "abita",
+          "abitava",
+          "abitavano"
+        ],
+        "note" : "From abitare (to live somewhere): abita = lives, abitava/abitavano = lived (imperfetto, what was true at the time).",
+        "pos" : "verb",
+        "translation" : "lives; lived"
+      },
+      {
+        "forms" : [
+          "parchi",
+          "parco"
+        ],
+        "gender" : "masculine",
+        "note" : "Il parco, plural i parchi: the h keeps the hard k sound.",
+        "pos" : "noun",
+        "translation" : "park(s)"
+      },
+      {
+        "forms" : [
+          "miliardi"
+        ],
+        "gender" : "masculine",
+        "note" : "Un miliardo, due miliardi: in Italian a billion is a noun, so it takes di before what it counts: miliardi di litri.",
+        "pos" : "noun",
+        "translation" : "billion(s)"
+      },
+      {
+        "forms" : [
+          "piantava"
+        ],
+        "note" : "Imperfetto of piantare: what the city did every year, again and again.",
+        "pos" : "verb",
+        "translation" : "planted, used to plant"
+      },
+      {
+        "forms" : [
+          "tagliava"
+        ],
+        "note" : "Imperfetto of tagliare: a repeated action in the past, year after year.",
+        "pos" : "verb",
+        "translation" : "cut, used to cut"
+      },
+      {
+        "forms" : [
+          "abbatteva"
+        ],
+        "note" : "Imperfetto of abbattere (to cut down a tree, to knock down a building), a more precise word than tagliare.",
+        "pos" : "verb",
+        "translation" : "cut down, felled"
+      },
+      {
+        "forms" : [
+          "quanti"
+        ],
+        "note" : "Masculine plural of quanto; in a comparison più … di quanti ne = more … than: più alberi di quanti ne tagliava.",
+        "pos" : "other",
+        "translation" : "how many; as many as"
+      },
+      {
+        "forms" : [
+          "commissione"
+        ],
+        "gender" : "feminine",
+        "note" : "La Commissione europea = the European Commission; plural le commissioni, which in daily life also means errands.",
+        "pos" : "noun",
+        "translation" : "commission"
+      },
+      {
+        "forms" : [
+          "nominato"
+        ],
+        "note" : "Past participle of nominare: ha nominato Saragozza Capitale = named Zaragoza Capital, with no word for 'as'.",
+        "pos" : "verb",
+        "translation" : "named, appointed"
+      },
+      {
+        "forms" : [
+          "esperti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'esperto: « gli esperti della lingua » = language experts.",
+        "pos" : "noun",
+        "translation" : "experts"
+      },
+      {
+        "forms" : [
+          "valutato"
+        ],
+        "note" : "Past participle of valutare (to assess, to weigh up), with avere: hanno valutato 27 città.",
+        "pos" : "verb",
+        "translation" : "assessed, judged"
+      },
+      {
+        "forms" : [
+          "temi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il tema (a masculine noun in -a): su sette temi = on seven topics; temi is also 'you fear', from temere.",
+        "pos" : "noun",
+        "translation" : "topics, areas"
+      },
+      {
+        "forms" : [
+          "dall'aria"
+        ],
+        "note" : "Da + l'aria contracted; da … a = from … to: dall'aria ai parchi = from air to parks.",
+        "pos" : "other",
+        "translation" : "from the air"
+      },
+      {
+        "forms" : [
+          "dall'acqua"
+        ],
+        "note" : "Da + l'acqua contracted, before a vowel: dall'aria e dall'acqua = from air and water.",
+        "pos" : "other",
+        "translation" : "from the water"
+      },
+      {
+        "forms" : [
+          "giuria"
+        ],
+        "gender" : "feminine",
+        "note" : "La giuria: the group of judges who choose the winner of a prize.",
+        "pos" : "noun",
+        "translation" : "jury"
+      },
+      {
+        "forms" : [
+          "lodato"
+        ],
+        "note" : "Past participle of lodare (to praise), with avere: la giuria ha lodato Saragozza perché … = praised it because …",
+        "pos" : "verb",
+        "translation" : "praised"
+      },
+      {
+        "forms" : [
+          "ambiti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'ambito, a precise word for a field or area: in sette ambiti = in seven areas.",
+        "pos" : "noun",
+        "translation" : "areas, fields"
+      },
+      {
+        "forms" : [
+          "clima"
+        ],
+        "gender" : "masculine",
+        "note" : "Il clima, a masculine noun ending in -a (like il tema); the plural is i climi.",
+        "pos" : "noun",
+        "translation" : "climate"
+      },
+      {
+        "forms" : [
+          "sottolineato"
+        ],
+        "note" : "Past participle of sottolineare (literally to underline): ha sottolineato = pointed out, stressed.",
+        "pos" : "verb",
+        "translation" : "stressed, singled out"
+      },
+      {
+        "forms" : [
+          "valeva"
+        ],
+        "note" : "Imperfetto of valere (to be worth): il titolo valeva 600.000 euro = the title was worth €600,000.",
+        "pos" : "verb",
+        "translation" : "was worth"
       }
     ],
     "spanish" : [
@@ -142240,9 +143382,9 @@
           "cortas"
         ],
         "gender" : "feminine",
-        "note" : "Feminine form(s) of corto.",
+        "note" : "Feminine form(s) of corto; also forms of the verb cortar: «corta árboles» = it cuts down trees, «había cortado» = had cut.",
         "pos" : "adjective",
-        "translation" : "short"
+        "translation" : "short; (cortar) cuts, cut down"
       },
       {
         "forms" : [
@@ -143094,9 +144236,9 @@
           "final"
         ],
         "gender" : "masculine",
-        "note" : "As in \"al final\" (at the end).",
+        "note" : "As in \"al final\" (at the end); «la final» (feminine) is the final round of a contest.",
         "pos" : "noun",
-        "translation" : "end"
+        "translation" : "end; (la final) the final (of a contest)"
       },
       {
         "forms" : [
@@ -148158,9 +149300,9 @@
         "forms" : [
           "llevaba"
         ],
-        "note" : "Imperfect tense of llevar.",
+        "note" : "Imperfect tense of llevar; «los años que llevaba fiel a sus planes» = the years it had kept to its plans.",
         "pos" : "verb",
-        "translation" : "was carrying, wearing"
+        "translation" : "was carrying, wearing; (llevaba + time) had been (for)"
       },
       {
         "forms" : [
@@ -152250,9 +153392,9 @@
           "eligiera",
           "eligieron"
         ],
-        "note" : "Elegir, tú imperative.",
+        "note" : "Elegir: «elige» is the tú imperative (choose!) and the present él/ella form (Europa elige = Europe chooses).",
         "pos" : "verb",
-        "translation" : "choose!"
+        "translation" : "choose!; chooses"
       },
       {
         "forms" : [
@@ -155464,9 +156606,9 @@
           "vecinos"
         ],
         "gender" : "masculine",
-        "note" : "Plural of vecino.",
+        "note" : "Plural of vecino; in Spain «los vecinos» of a city are the people who live there.",
         "pos" : "noun",
-        "translation" : "neighbors"
+        "translation" : "neighbors; residents (of a town)"
       },
       {
         "forms" : [
@@ -155591,7 +156733,7 @@
         "forms" : [
           "2023"
         ],
-        "note" : "El año del reconocimiento de la UNESCO.",
+        "note" : "Read dos mil veintitrés.",
         "pos" : "number",
         "translation" : "2023"
       },
@@ -166883,9 +168025,9 @@
           "ganan",
           "ganó"
         ],
-        "note" : "Present of ganar: \"la música gana\" = the music wins; ganar is also to earn.",
+        "note" : "Forms of ganar: «la música gana» = the music wins; «ganó» = won (pretérito); ganar is also to earn.",
         "pos" : "verb",
-        "translation" : "wins"
+        "translation" : "wins; won"
       },
       {
         "forms" : [
@@ -172404,9 +173546,9 @@
         "forms" : [
           "80"
         ],
-        "note" : "Read \"ochenta\"; un 80 por ciento = 80 percent, with \"un\" before the figure as people say it.",
+        "note" : "Read \"ochenta\"; un 80 por ciento = 80 percent, with \"un\" before the figure as people say it; «los años 80» = the 1980s.",
         "pos" : "number",
-        "translation" : "eighty"
+        "translation" : "eighty; (los años 80) the eighties"
       },
       {
         "forms" : [
@@ -172979,7 +174121,7 @@
         "forms" : [
           "2011"
         ],
-        "note" : "The year Atlantic bluefin tuna was listed as Endangered.",
+        "note" : "Read dos mil once.",
         "pos" : "number",
         "translation" : "2011"
       },
@@ -175906,9 +177048,9 @@
         "forms" : [
           "presentaron"
         ],
-        "note" : "Pretérito of presentar, ellos form: «dos equipos presentaron…» = two teams presented…",
+        "note" : "Pretérito of presentar, ellos form: «dos equipos presentaron…» = two teams presented…; «se presentaron 27 ciudades» = 27 cities entered.",
         "pos" : "verb",
-        "translation" : "presented"
+        "translation" : "presented; (se presentaron) entered, took part"
       },
       {
         "forms" : [
@@ -176622,6 +177764,304 @@
         "note" : "Pretérito of sanear, to make healthy: saneó los pantanos = he drained the swamps.",
         "pos" : "verb",
         "translation" : "cleaned up, drained"
+      },
+      {
+        "forms" : [
+          "guimarães"
+        ],
+        "gender" : "masculine",
+        "note" : "A city in the north of Portugal; Spanish keeps the Portuguese spelling, with ã: «en Guimarães, Portugal».",
+        "pos" : "noun",
+        "translation" : "Guimarães"
+      },
+      {
+        "forms" : [
+          "portugal"
+        ],
+        "gender" : "masculine",
+        "note" : "The country next to Spain, written as in English and used with no article: «en Portugal».",
+        "pos" : "noun",
+        "translation" : "Portugal"
+      },
+      {
+        "forms" : [
+          "zaragoza"
+        ],
+        "gender" : "feminine",
+        "note" : "The big city in Aragón, on the river Ebro; a city name takes no article: «gana Zaragoza».",
+        "pos" : "noun",
+        "translation" : "Zaragoza"
+      },
+      {
+        "forms" : [
+          "capital"
+        ],
+        "gender" : "feminine",
+        "note" : "La capital, feminine for the city; «el capital» is money.",
+        "pos" : "noun",
+        "translation" : "capital (city)"
+      },
+      {
+        "forms" : [
+          "2028"
+        ],
+        "note" : "Read «dos mil veintiocho»: «su Capital Verde para 2028» = its Green Capital for 2028.",
+        "pos" : "number",
+        "translation" : "2028"
+      },
+      {
+        "forms" : [
+          "2009"
+        ],
+        "note" : "Read «dos mil nueve»: «los de 2009» = the ones from 2009.",
+        "pos" : "number",
+        "translation" : "2009"
+      },
+      {
+        "forms" : [
+          "intento"
+        ],
+        "gender" : "masculine",
+        "note" : "El intento, from intentar (to try): «el cuarto intento» = the fourth try.",
+        "pos" : "noun",
+        "translation" : "try, attempt"
+      },
+      {
+        "forms" : [
+          "aquellos"
+        ],
+        "note" : "Masculine plural of aquel: «en aquellos años» = in those years, back then, further away in time than esos.",
+        "pos" : "adjective",
+        "translation" : "those (back then)"
+      },
+      {
+        "forms" : [
+          "parque",
+          "parques"
+        ],
+        "gender" : "masculine",
+        "note" : "El parque; «cerca de un parque» = near a park.",
+        "pos" : "noun",
+        "translation" : "park"
+      },
+      {
+        "forms" : [
+          "27"
+        ],
+        "note" : "Read «veintisiete», one word like all numbers from 21 to 29: «27 ciudades».",
+        "pos" : "number",
+        "translation" : "27, twenty-seven"
+      },
+      {
+        "forms" : [
+          "61.000"
+        ],
+        "note" : "Read «sesenta y un mil»: «61.000 millones de litros» = 61 billion litres, since mil millones is a billion.",
+        "pos" : "number",
+        "translation" : "61,000"
+      },
+      {
+        "forms" : [
+          "105.000"
+        ],
+        "note" : "Read «ciento cinco mil»: «105.000 millones» = 105 billion; Spanish groups thousands with a dot.",
+        "pos" : "number",
+        "translation" : "105,000"
+      },
+      {
+        "forms" : [
+          "litros"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el litro: «millones de litros» = millions of litres, with de after millones.",
+        "pos" : "noun",
+        "translation" : "litres"
+      },
+      {
+        "forms" : [
+          "plantaba"
+        ],
+        "note" : "Imperfect of plantar for él/ella: it tells what kept happening year after year, «cada año plantaba más árboles».",
+        "pos" : "verb",
+        "translation" : "planted, used to plant"
+      },
+      {
+        "forms" : [
+          "contenta"
+        ],
+        "note" : "Feminine of contento, with estar: «la ciudad estaba muy contenta» agrees with la ciudad.",
+        "pos" : "adjective",
+        "translation" : "happy, pleased"
+      },
+      {
+        "forms" : [
+          "comisión"
+        ],
+        "gender" : "feminine",
+        "note" : "La Comisión Europea, the body that runs the EU's daily work; words in -ión are feminine.",
+        "pos" : "noun",
+        "translation" : "commission"
+      },
+      {
+        "forms" : [
+          "nombró"
+        ],
+        "note" : "Pretérito of nombrar: «nombró a Zaragoza Capital Verde» = named Zaragoza Green Capital, with a before the city.",
+        "pos" : "verb",
+        "translation" : "named, appointed"
+      },
+      {
+        "forms" : [
+          "española"
+        ],
+        "note" : "Feminine of español, for la ciudad; adjectives of nationality take no capital letter in Spanish.",
+        "pos" : "adjective",
+        "translation" : "Spanish"
+      },
+      {
+        "forms" : [
+          "orillas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la orilla: «a orillas del Ebro» = on the banks of the Ebro, the set way to say a city sits on a river.",
+        "pos" : "noun",
+        "translation" : "banks (of a river)"
+      },
+      {
+        "forms" : [
+          "ebro"
+        ],
+        "gender" : "masculine",
+        "note" : "The river that runs through Zaragoza; rivers take el: «el Ebro», «del Ebro».",
+        "pos" : "noun",
+        "translation" : "the Ebro"
+      },
+      {
+        "forms" : [
+          "expertos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el experto: « los expertos en la lengua » = language experts.",
+        "pos" : "noun",
+        "translation" : "experts"
+      },
+      {
+        "forms" : [
+          "analizaron"
+        ],
+        "note" : "Pretérito of analizar for ellos: «analizaron 27 ciudades» = they assessed 27 cities.",
+        "pos" : "verb",
+        "translation" : "looked closely at, assessed"
+      },
+      {
+        "forms" : [
+          "aspectos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el aspecto: «en siete aspectos» = on seven counts, in seven areas.",
+        "pos" : "noun",
+        "translation" : "aspects, areas"
+      },
+      {
+        "forms" : [
+          "residuos"
+        ],
+        "gender" : "masculine",
+        "note" : "Los residuos is the everyday word for rubbish a city collects and recycles; it is almost always plural.",
+        "pos" : "noun",
+        "translation" : "waste"
+      },
+      {
+        "forms" : [
+          "jurado"
+        ],
+        "gender" : "masculine",
+        "note" : "El jurado, the group that judges a prize or a contest, as in a court.",
+        "pos" : "noun",
+        "translation" : "jury"
+      },
+      {
+        "forms" : [
+          "elogió"
+        ],
+        "note" : "Pretérito of elogiar: «elogió a Zaragoza por estar…» = praised Zaragoza for being…, with por + infinitive.",
+        "pos" : "verb",
+        "translation" : "praised"
+      },
+      {
+        "forms" : [
+          "gestionada"
+        ],
+        "note" : "Participle of gestionar used as an adjective, feminine for la ciudad: «bien gestionada» = well run.",
+        "pos" : "adjective",
+        "translation" : "run, managed"
+      },
+      {
+        "forms" : [
+          "planes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el plan: «fiel a sus planes» = sticking with its plans.",
+        "pos" : "noun",
+        "translation" : "plans"
+      },
+      {
+        "forms" : [
+          "600.000"
+        ],
+        "note" : "Read «seiscientos mil»: «600.000 euros» = six hundred thousand euros.",
+        "pos" : "number",
+        "translation" : "600,000"
+      },
+      {
+        "forms" : [
+          "veintisiete"
+        ],
+        "note" : "Veinti- + siete in one word, like every number from 21 to 29.",
+        "pos" : "number",
+        "translation" : "twenty-seven"
+      },
+      {
+        "forms" : [
+          "clima"
+        ],
+        "gender" : "masculine",
+        "note" : "El clima is masculine although it ends in -a, like el problema.",
+        "pos" : "noun",
+        "translation" : "climate"
+      },
+      {
+        "forms" : [
+          "destacó"
+        ],
+        "note" : "Pretérito of destacar: «el jurado destacó lo bien gestionada que estaba» = the jury singled out how well run it was.",
+        "pos" : "verb",
+        "translation" : "singled out, highlighted"
+      },
+      {
+        "forms" : [
+          "talado"
+        ],
+        "note" : "Participle of talar, the precise verb for felling trees: «había talado» = had cut down.",
+        "pos" : "verb",
+        "translation" : "cut down (a tree)"
+      },
+      {
+        "forms" : [
+          "5.608"
+        ],
+        "note" : "Read «cinco mil seiscientos ocho»: «un récord de 5.608» = a record 5,608.",
+        "pos" : "number",
+        "translation" : "5,608"
+      },
+      {
+        "forms" : [
+          "finalista"
+        ],
+        "gender" : "masculine",
+        "note" : "One of the few left in the last round; same form for a man, a woman or a city: «la ciudad nunca era finalista» = the city was never in the final.",
+        "pos" : "noun",
+        "translation" : "finalist, in the final"
       }
     ]
   },
@@ -221661,6 +223101,591 @@
       "summary" : "Il butter chicken, si dice, è nato nel 1947 in un ristorante di Delhi da un po' di pollo avanzato e secco, e nel 2024 due famiglie sono finite in tribunale per stabilire quale dei due nonni l'ha inventato.",
       "title" : "Il pollo finito in tribunale",
       "translationGroup" : "butter-chicken"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "id" : "zaragozas-fourth-try",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To say something exists, English uses \"there is\" or \"there are\"; for the past, it's \"there was\" or \"there were\": there were three before.",
+              "example" : "There were three before, in 2009, 2011 and 2014.",
+              "title" : "There is / there are, and the past: there were"
+            },
+            {
+              "body" : "To compare, put \"more\" before the noun and \"than\" before the second part: more trees than it cuts down.",
+              "example" : "And every year, it plants more trees than it cuts down.",
+              "title" : "More … than: comparing two numbers"
+            },
+            {
+              "body" : "\"Is not\" usually becomes \"isn't\" when people talk: it isn't Zaragoza's first try. The 's after a name says whose: Zaragoza's try.",
+              "example" : "But it isn't Zaragoza's first try.",
+              "title" : "Isn't: the short negative of is"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's Thursday evening, 8 October 2026, in Guimarães, Portugal. And tonight, Europe chooses its Green Capital for 2028. The winner is Zaragoza, a big Spanish city.",
+            "But it isn't Zaragoza's first try. There were three before, in 2009, 2011 and 2014. Back then, the city was never in the final.",
+            "Why Zaragoza? The city says it uses a lot less water now. Most people live near a park, it says. And every year, it plants more trees than it cuts down.",
+            "So on try number four, Zaragoza wins. It's a happy night for the city. Three times no, and then, the fourth time, yes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "With a finished time like \"in the 1980s\", English uses the past simple: regular verbs add -ed (use → used, try → tried, name → named).",
+              "example" : "In the 1980s, it used 105 billion.",
+              "title" : "The past simple with a past time: it used"
+            },
+            {
+              "body" : "\"Never\" goes before the verb and means not at any time: it never reached the final, so it didn't get there even once.",
+              "example" : "The city tried in 2009, 2011 and 2014, but it never reached the final.",
+              "title" : "Never + past: not once"
+            },
+            {
+              "body" : "\"Less than\" before a number means under it: less than 300 metres is a short walk. \"More than\" works the same way for over.",
+              "example" : "Most people lived less than 300 metres from a park.",
+              "title" : "Less than with a number"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On Thursday evening, 8 October 2026, there was a ceremony in Guimarães, Portugal. And there, Europe named its Green Capital for 2028: Zaragoza, a big city in Spain.",
+            "It wasn't Zaragoza's first try. The city tried in 2009, 2011 and 2014, but it never reached the final. This time, 27 cities took part, and Zaragoza won.",
+            "So why Zaragoza? Here's what the city said. It used 61 billion litres of water a year. In the 1980s, it used 105 billion. Most people lived less than 300 metres from a park. And from 2021, Zaragoza planted more trees every year than it cut down.",
+            "The whole city was happy that night. Three times no, and then, on the fourth try, yes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle puts one past event before another: the three tries came first, then the win in 2026.",
+              "example" : "It had tried in 2009, 2011 and 2014, but never even made the final.",
+              "title" : "The past perfect: had tried"
+            },
+            {
+              "body" : "After \"said\", the verb usually moves one step into the past: the city says \"we use\" → the city said it used. It tells you what was true when they said it.",
+              "example" : "The city said it used 61 billion litres of water a year, down from 105 billion in the 1980s.",
+              "title" : "Reported speech: the city said it used"
+            },
+            {
+              "body" : "After \"praise someone for\", the verb takes -ing: praised Zaragoza for being well run and for sticking with its plans.",
+              "example" : "The jury praised Zaragoza for being well run and for sticking with its plans.",
+              "title" : "Praise someone for + -ing"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On Thursday evening, 8 October 2026, at a ceremony in Guimarães, Portugal, the European Commission named Zaragoza European Green Capital 2028.",
+            "It was the fourth try for this big Spanish city on the river Ebro. It had tried in 2009, 2011 and 2014, but never even made the final.",
+            "Experts judged 27 cities on seven things, from air and water to parks, waste and noise. The jury praised Zaragoza for being well run and for sticking with its plans.",
+            "The city said it used 61 billion litres of water a year, down from 105 billion in the 1980s. More than three in four people lived within 300 metres of a park. And since 2021, Zaragoza had planted more trees each year than it had cut down.",
+            "The title came with €600,000, and after three times no, a yes."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "If something was \"a long time coming\", it took a long time to arrive, and people had been waiting for it.",
+              "example" : "For the big Spanish city on the river Ebro, it was a long time coming.",
+              "title" : "A long time coming: an idiom"
+            },
+            {
+              "body" : "\"Not only X but Y\" adds a second, bigger point to the first: it reached the final, and on top of that it won.",
+              "example" : "This time it not only got there but won.",
+              "title" : "Not only … but: two things, the second stronger"
+            },
+            {
+              "body" : "An -ing clause can follow the main clause to add what went with it, with the same subject: it tried, and each time it never reached the final.",
+              "example" : "Zaragoza had tried in 2009, 2011 and 2014, never once reaching the final.",
+              "title" : "An -ing clause after a comma: never once reaching"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On Thursday evening, 8 October 2026, in Guimarães, Portugal, the European Commission named Zaragoza European Green Capital 2028. For the big Spanish city on the river Ebro, it was a long time coming.",
+            "Zaragoza had tried in 2009, 2011 and 2014, never once reaching the final. This time it not only got there but won.",
+            "Experts judged twenty-seven cities in seven areas, from air and water to noise and the climate. The jury singled out how well Zaragoza was run and how long it had stuck to its plans.",
+            "The city said it used 61 billion litres of water a year, down from 105 billion in the 1980s. More than three in four people lived within 300 metres of a park, and since 2021 Zaragoza had planted more trees each year than it had taken down, with a record 5,608 in 2023.",
+            "The title came with €600,000, but the real prize was simpler: after three times no, a yes."
+          ]
+        }
+      ],
+      "summary" : "Zaragoza tried three times to become Europe's Green Capital, and on 8 October 2026, on the fourth try, it finally won.",
+      "title" : "Zaragoza's Fourth Try",
+      "translationGroup" : "zaragozas-fourth-try"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "id" : "zaragozas-fourth-try-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Il y a (there is, there are) becomes il y avait in the past. En stands for the thing already named, here the tries: il y en avait trois = there were three of them.",
+              "example" : "Avant, il y en avait trois, en 2009, 2011 et 2014.",
+              "title" : "Il y en avait trois: there were three (of them)"
+            },
+            {
+              "body" : "Plus de + noun + que compares two amounts: plus d'arbres qu'elle n'en coupe. The small ne before the second verb is not a no; careful speech just puts it there after a comparison.",
+              "example" : "Et chaque année, elle plante plus d'arbres qu'elle n'en coupe.",
+              "title" : "Plus de … que: more … than"
+            },
+            {
+              "body" : "Ne … pas wraps the verb to say no; before a vowel, ne becomes n': ce n'est pas, la ville n'était pas. Même pas = not even.",
+              "example" : "Mais ce n'est pas le premier essai de Saragosse.",
+              "title" : "N'est pas: ne shortens before a vowel"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est jeudi soir, le 8 octobre 2026, à Guimarães, au Portugal. Et ce soir, l'Europe choisit sa Capitale verte pour 2028. La gagnante, c'est Saragosse, une grande ville d'Espagne.",
+            "Mais ce n'est pas le premier essai de Saragosse. Avant, il y en avait trois, en 2009, 2011 et 2014. Et les trois fois, la ville n'était même pas en finale.",
+            "Pourquoi Saragosse ? La ville dit qu'elle utilise beaucoup moins d'eau maintenant. Elle dit aussi que la plupart des gens habitent près d'un parc. Et chaque année, elle plante plus d'arbres qu'elle n'en coupe.",
+            "Alors, au quatrième essai, Saragosse gagne enfin. Pour la ville, c'est une très belle soirée. Trois fois non, et puis, la quatrième fois, oui."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Ne … jamais (never) wraps the helping verb, not the participle: elle n'est jamais arrivée. Arriver takes être, so the participle agrees with la ville: arrivée.",
+              "example" : "La ville a essayé en 2009, 2011 et 2014, mais elle n'est jamais arrivée en finale.",
+              "title" : "Ne … jamais with the passé composé"
+            },
+            {
+              "body" : "The imparfait (utilisait, habitaient, plantait) describes how things were at the time, the background; the passé composé (a choisi, a gagné) tells what happened that evening.",
+              "example" : "Elle utilisait 61 milliards de litres d'eau par an.",
+              "title" : "The imparfait for what was true then"
+            },
+            {
+              "body" : "C'est … qui picks out who did something: c'est Saragosse qui a gagné = Zaragoza is the one that won, out of all 27. The verb after qui agrees with the person picked out.",
+              "example" : "Cette fois, 27 villes ont participé, et c'est Saragosse qui a gagné.",
+              "title" : "C'est Saragosse qui: putting the spotlight on someone"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le jeudi 8 octobre 2026 au soir, il y a eu une cérémonie à Guimarães, au Portugal. Et là, l'Europe a choisi sa Capitale verte pour 2028 : Saragosse, une grande ville espagnole.",
+            "Ce n'était pas le premier essai de Saragosse. La ville a essayé en 2009, 2011 et 2014, mais elle n'est jamais arrivée en finale. Cette fois, 27 villes ont participé, et c'est Saragosse qui a gagné.",
+            "Alors, pourquoi Saragosse ? Voilà ce que la ville a dit. Elle utilisait 61 milliards de litres d'eau par an. Dans les années 1980, elle en utilisait 105 milliards. La plupart des gens habitaient à moins de 300 mètres d'un parc. Et depuis 2021, elle plantait chaque année plus d'arbres qu'elle n'en coupait.",
+            "Ce soir-là, toute la ville était heureuse. Trois fois non, et puis, au quatrième essai, oui."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avait + past participle puts one past event before another: the three tries came first, then the win in 2026. Déjà stresses that it happened earlier.",
+              "example" : "Elle avait déjà essayé en 2009, 2011 et 2014, sans même arriver en finale.",
+              "title" : "Plus-que-parfait: avait essayé"
+            },
+            {
+              "body" : "After a dit que, a present tense moves to the imparfait: the city says « nous utilisons » → la ville a dit qu'elle utilisait. It tells what was true when they said it.",
+              "example" : "La ville a dit qu'elle utilisait 61 milliards de litres d'eau par an, contre 105 milliards dans les années 1980.",
+              "title" : "Reported speech: la ville a dit qu'elle utilisait"
+            },
+            {
+              "body" : "Féliciter (to praise, to congratulate) takes de + infinitive for the reason: féliciter Saragosse d'être bien gérée. Garder le cap = to stay the course.",
+              "example" : "Le jury a félicité Saragosse d'être bien gérée et de garder le cap, année après année.",
+              "title" : "Féliciter quelqu'un de + infinitive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le jeudi 8 octobre 2026 au soir, la Commission européenne a nommé Saragosse Capitale verte de l'Europe 2028. Ça s'est passé pendant une cérémonie à Guimarães, au Portugal.",
+            "C'était le quatrième essai pour cette grande ville espagnole au bord de l'Èbre. Elle avait déjà essayé en 2009, 2011 et 2014, sans même arriver en finale.",
+            "Des experts ont jugé 27 villes dans sept domaines, comme l'air, l'eau, les parcs, les déchets et le bruit. Le jury a félicité Saragosse d'être bien gérée et de garder le cap, année après année.",
+            "La ville a dit qu'elle utilisait 61 milliards de litres d'eau par an, contre 105 milliards dans les années 1980. Plus de trois habitants sur quatre vivaient à moins de 300 mètres d'un parc. Et depuis 2021, elle plantait chaque année plus d'arbres qu'elle n'en abattait.",
+            "Avec le titre, Saragosse a gagné 600 000 euros, et après trois fois non, enfin un oui."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Se faire attendre says something took a long time to arrive while people waited for it: ce titre s'est fait attendre. In the passé composé, fait does not agree.",
+              "example" : "Pour cette grande ville espagnole au bord de l'Èbre, ce titre s'est fait attendre.",
+              "title" : "Se faire attendre: a long time coming"
+            },
+            {
+              "body" : "Non seulement X, mais (en plus) Y adds a second, bigger point to the first: it reached the final, and on top of that it won. En plus is the spoken touch.",
+              "example" : "Cette fois, non seulement elle y est arrivée, mais en plus elle a gagné.",
+              "title" : "Non seulement … mais en plus"
+            },
+            {
+              "body" : "A question can sit inside a sentence after a verb like remarquer or savoir, with normal word order and no question mark: à quel point = how much, depuis combien de temps = for how long.",
+              "example" : "Le jury a surtout remarqué à quel point Saragosse était bien gérée, et depuis combien de temps elle gardait le cap.",
+              "title" : "À quel point, depuis combien de temps: hidden questions"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le jeudi 8 octobre 2026 au soir, à Guimarães, au Portugal, la Commission européenne a nommé Saragosse Capitale verte de l'Europe 2028. Pour cette grande ville espagnole au bord de l'Èbre, ce titre s'est fait attendre.",
+            "Saragosse avait tenté sa chance en 2009, 2011 et 2014, sans atteindre une seule fois la finale. Cette fois, non seulement elle y est arrivée, mais en plus elle a gagné.",
+            "Des experts ont jugé vingt-sept villes dans sept domaines, de l'air et de l'eau jusqu'au bruit et au climat. Le jury a surtout remarqué à quel point Saragosse était bien gérée, et depuis combien de temps elle gardait le cap.",
+            "La ville a dit qu'elle utilisait 61 milliards de litres d'eau par an, contre 105 milliards dans les années 1980. Plus de trois habitants sur quatre vivaient à moins de 300 mètres d'un parc. Et depuis 2021, elle plantait chaque année plus d'arbres qu'elle n'en abattait, avec un record de 5 608 en 2023.",
+            "Le titre a rapporté 600 000 euros, mais la vraie récompense était plus simple : après trois fois non, un oui."
+          ]
+        }
+      ],
+      "summary" : "Saragosse a tenté trois fois de devenir Capitale verte de l'Europe, et le 8 octobre 2026, au quatrième essai, elle a enfin gagné.",
+      "title" : "Le quatrième essai de Saragosse",
+      "translationGroup" : "zaragozas-fourth-try"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "id" : "zaragozas-fourth-try-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Es gibt (there is, there are) becomes es gab in the past, and it stays gab even for more than one thing: es gab drei = there were three. After davor (before that) the verb comes second: davor gab es drei.",
+              "example" : "Davor gab es schon drei: 2009, 2011 und 2014.",
+              "title" : "Es gab: there was, there were"
+            },
+            {
+              "body" : "To compare, German puts mehr before the noun and als before the second part; after als the verb goes to the end: mehr Bäume, als sie fällt.",
+              "example" : "Und jedes Jahr pflanzt sie mehr Bäume, als sie fällt.",
+              "title" : "Mehr … als: more … than"
+            },
+            {
+              "body" : "To say whose, German adds -s to a name, with no apostrophe: Zaragozas erster Versuch = Zaragoza's first try.",
+              "example" : "Aber es ist nicht Zaragozas erster Versuch.",
+              "title" : "A name with -s: Zaragozas Versuch"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist Donnerstag, der 8. Oktober 2026, in Guimarães, Portugal. Und heute Abend wählt Europa seine Grüne Hauptstadt für 2028. Der Gewinner ist Zaragoza, eine große Stadt in Spanien.",
+            "Aber es ist nicht Zaragozas erster Versuch. Davor gab es schon drei: 2009, 2011 und 2014. Damals war die Stadt nie im Finale.",
+            "Warum Zaragoza? Die Stadt sagt, sie braucht jetzt viel weniger Wasser. Die meisten Menschen wohnen nah an einem Park, sagt sie. Und jedes Jahr pflanzt sie mehr Bäume, als sie fällt.",
+            "Beim vierten Versuch gewinnt Zaragoza also. Für die Stadt ist das ein schöner Abend. Dreimal nein, und dann, beim vierten Mal, ja."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the Perfekt with haben (hat versucht, hat gewonnen), but verbs of movement take sein: ist ins Finale gekommen = made it to the final.",
+              "example" : "Zaragoza hat es 2009, 2011 und 2014 versucht, ist aber nie ins Finale gekommen.",
+              "title" : "Perfekt with sein: ist gekommen"
+            },
+            {
+              "body" : "In a separable verb like mitmachen (to take part), the ge- of the participle goes between the particle and the verb: mit + ge + macht = mitgemacht.",
+              "example" : "Diesmal haben 27 Städte mitgemacht, und Zaragoza hat gewonnen.",
+              "title" : "Separable verbs in the Perfekt: mitgemacht"
+            },
+            {
+              "body" : "Weniger als before a number means under it: weniger als 300 Meter is a short walk. Mehr als works the same way for over.",
+              "example" : "Für die meisten Leute war ein Park weniger als 300 Meter entfernt.",
+              "title" : "Weniger als with a number"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am Donnerstagabend, dem 8. Oktober 2026, war in Guimarães, Portugal, eine Feier. Europa hat dort seine Grüne Hauptstadt für 2028 gewählt: die große spanische Stadt Zaragoza.",
+            "Es war nicht der erste Versuch. Zaragoza hat es 2009, 2011 und 2014 versucht, ist aber nie ins Finale gekommen. Diesmal haben 27 Städte mitgemacht, und Zaragoza hat gewonnen.",
+            "Warum Zaragoza? Die Stadt hat es so erklärt. Sie hat im Jahr 61 Milliarden Liter Wasser verbraucht. In den 1980ern waren es noch 105 Milliarden. Für die meisten Leute war ein Park weniger als 300 Meter entfernt. Seit 2021 hat Zaragoza jedes Jahr mehr Bäume gepflanzt als gefällt.",
+            "An diesem Abend hat sich die ganze Stadt gefreut. Dreimal nein, und dann, beim vierten Versuch, ja."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Hatte or war + past participle puts one past event before another: the three tries came first, then the win in 2026. Verbs that take sein in the Perfekt take war here: war gekommen.",
+              "example" : "2009, 2011 und 2014 hatte sie es versucht, war aber nicht mal ins Finale gekommen.",
+              "title" : "Plusquamperfekt: hatte versucht, war gekommen"
+            },
+            {
+              "body" : "Werden + past participle makes the passive, which says what is done to someone without naming who does it: Zaragoza wird gut geführt = Zaragoza is well run. After dass, wird goes to the very end.",
+              "example" : "Die Jury hat gelobt, dass Zaragoza gut geführt wird und an seinen Plänen festhält.",
+              "title" : "The passive with werden: gut geführt wird"
+            },
+            {
+              "body" : "After gesagt, dass the verb goes to the end. Spoken German reports in the plain indicative, not the Konjunktiv of newspapers, and here keeps the story's Perfekt: dass sie … verbraucht hat = that it used.",
+              "example" : "Die Stadt hat gesagt, dass sie im Jahr 61 Milliarden Liter Wasser verbraucht hat.",
+              "title" : "Reported speech: hat gesagt, dass …"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am Donnerstagabend, 8. Oktober 2026, war in Guimarães, Portugal, eine Feier. Da hat die Europäische Kommission Zaragoza zur Grünen Hauptstadt Europas 2028 ernannt.",
+            "Für die große spanische Stadt am Ebro war es der vierte Versuch. 2009, 2011 und 2014 hatte sie es versucht, war aber nicht mal ins Finale gekommen.",
+            "Fachleute haben 27 Städte nach sieben Punkten bewertet, von Luft und Wasser bis Parks, Müll und Lärm. Die Jury hat gelobt, dass Zaragoza gut geführt wird und an seinen Plänen festhält.",
+            "Die Stadt hat gesagt, dass sie im Jahr 61 Milliarden Liter Wasser verbraucht hat. In den 1980ern waren es 105 Milliarden. Bei mehr als drei von vier Menschen war ein Park höchstens 300 Meter entfernt. Seit 2021 hat Zaragoza jedes Jahr mehr Bäume gepflanzt als gefällt.",
+            "Der Titel hat 600.000 Euro gebracht, und nach dreimal Nein ein Ja."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Etwas lässt lange auf sich warten = it is a long time coming. In the Perfekt, lassen with another verb keeps its infinitive: hat … warten lassen, not hat … gelassen.",
+              "example" : "Für die große spanische Stadt am Ebro hat das lange auf sich warten lassen.",
+              "title" : "Auf sich warten lassen: a long time coming"
+            },
+            {
+              "body" : "Nicht nur X, sondern auch Y adds a second, stronger point to the first: it reached the final, and on top of that it won.",
+              "example" : "Diesmal hat es die Stadt nicht nur ins Finale geschafft, sondern auch gewonnen.",
+              "title" : "Nicht nur …, sondern auch: not only … but also"
+            },
+            {
+              "body" : "Ohne + zu + infinitive says what did not happen alongside the main verb, with the same subject: versucht, ohne je ins Finale zu kommen = tried, never once reaching the final.",
+              "example" : "Zaragoza hatte es 2009, 2011 und 2014 versucht, ohne je ins Finale zu kommen.",
+              "title" : "Ohne … zu: without doing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am Donnerstagabend, 8. Oktober 2026, hat die Europäische Kommission Zaragoza zur Grünen Hauptstadt Europas 2028 ernannt, in Guimarães, Portugal. Für die große spanische Stadt am Ebro hat das lange auf sich warten lassen.",
+            "Zaragoza hatte es 2009, 2011 und 2014 versucht, ohne je ins Finale zu kommen. Diesmal hat es die Stadt nicht nur ins Finale geschafft, sondern auch gewonnen.",
+            "Fachleute haben 27 Städte in sieben Bereichen bewertet, von Luft und Wasser bis Lärm und Klima. Die Jury hat hervorgehoben, wie gut Zaragoza geführt wird und wie lange es schon an seinen Plänen festhält.",
+            "Die Stadt hat gesagt, dass sie im Jahr 61 Milliarden Liter Wasser verbraucht hat, in den 1980ern noch 105. Bei mehr als drei von vier Menschen war ein Park höchstens 300 Meter entfernt. Seit 2021 hat Zaragoza jedes Jahr mehr Bäume gepflanzt als gefällt, 2023 sogar 5.608, ein Rekord.",
+            "Der Titel hat 600.000 Euro gebracht, aber der eigentliche Preis war einfacher: nach dreimal Nein ein Ja."
+          ]
+        }
+      ],
+      "summary" : "Dreimal hat Zaragoza versucht, Grüne Hauptstadt Europas zu werden, und am 8. Oktober 2026 hat es beim vierten Versuch endlich geklappt.",
+      "title" : "Zaragozas vierter Versuch",
+      "translationGroup" : "zaragozas-fourth-try"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "id" : "zaragozas-fourth-try-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Before a simple second part Spanish says más … que, but when the second part is a clause about the same noun, it uses de + el/la/los/las + que: más árboles de los que corta.",
+              "example" : "Y cada año la ciudad planta más árboles de los que corta.",
+              "title" : "Más … de los que: more than a whole clause"
+            },
+            {
+              "body" : "To pass on what someone says, put que after decir and then the plain sentence: la ciudad dice que usa = the city says it uses. Spanish never drops this que.",
+              "example" : "La ciudad dice que ahora usa mucha menos agua.",
+              "title" : "Dice que: telling what someone says"
+            },
+            {
+              "body" : "Era and eran are the imperfect of ser, the form for describing how things were back then; los de 2009 = the ones from 2009.",
+              "example" : "Los otros tres eran los de 2009, 2011 y 2014.",
+              "title" : "Era, eran: a look back with ser"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es jueves, 8 de octubre de 2026, y estamos en Guimarães, Portugal. Esta noche, Europa elige su Capital Verde para 2028. Y gana Zaragoza, una ciudad grande de España.",
+            "Pero no es el primer intento de Zaragoza. Los otros tres eran los de 2009, 2011 y 2014. En aquellos años, la ciudad nunca era finalista.",
+            "¿Por qué Zaragoza? La ciudad dice que ahora usa mucha menos agua. También dice que la mayoría de la gente vive cerca de un parque. Y cada año la ciudad planta más árboles de los que corta.",
+            "Así que en el intento número cuatro, Zaragoza gana. Es una noche muy feliz para la ciudad. Tres veces no, y luego, a la cuarta, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito tells what happened once (eligió, llegó, ganó); the imperfect describes the situation at that time (usaba, vivía, plantaba).",
+              "example" : "La mayoría de la gente vivía a menos de 300 metros de un parque.",
+              "title" : "Pretérito for events, imperfect for how things were"
+            },
+            {
+              "body" : "Nunca goes before the verb and needs no other no: nunca llegó = it never got there. Lo intentó uses lo for it, placed before the verb.",
+              "example" : "La ciudad lo intentó en 2009, 2011 y 2014, pero nunca llegó a la final.",
+              "title" : "Nunca + pretérito: not even once"
+            },
+            {
+              "body" : "Lo que means what in the middle of a sentence: esto es lo que contó = this is what it told. In a question, what is qué.",
+              "example" : "Pues esto es lo que contó la ciudad.",
+              "title" : "Lo que: what"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El jueves 8 de octubre de 2026 por la noche, hubo una ceremonia en Guimarães, Portugal. Y allí, Europa eligió su Capital Verde para 2028: Zaragoza, una ciudad grande de España.",
+            "No era el primer intento de Zaragoza. La ciudad lo intentó en 2009, 2011 y 2014, pero nunca llegó a la final. Esta vez se presentaron 27 ciudades, y ganó Zaragoza.",
+            "Entonces, ¿por qué Zaragoza? Pues esto es lo que contó la ciudad. Usaba 61.000 millones de litros de agua al año. En los años 80, usaba 105.000 millones. La mayoría de la gente vivía a menos de 300 metros de un parque. Y desde 2021, Zaragoza plantaba cada año más árboles de los que cortaba.",
+            "Esa noche, toda la ciudad estaba muy contenta. Tres veces no, y luego, a la cuarta, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + past participle puts one past event before another: the three tries came first, then the win in 2026. Ni siquiera = not even.",
+              "example" : "Ya lo había intentado en 2009, 2011 y 2014, pero ni siquiera había llegado a la final.",
+              "title" : "Pluscuamperfecto: había intentado"
+            },
+            {
+              "body" : "After dijo que, a present usa usually becomes the imperfect usaba: it tells you what was true when the city said it.",
+              "example" : "La ciudad dijo que usaba 61.000 millones de litros de agua al año, cuando en los años 80 eran 105.000 millones.",
+              "title" : "Reported speech: dijo que usaba"
+            },
+            {
+              "body" : "After por (for, because of) Spanish uses the infinitive where English uses -ing: por estar, por seguir. The a before Zaragoza marks who receives the praise.",
+              "example" : "El jurado elogió a Zaragoza por estar bien gestionada y por seguir fiel a sus planes.",
+              "title" : "Elogiar a alguien por + infinitive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El jueves 8 de octubre de 2026 por la noche, en una ceremonia en Guimarães, Portugal, la Comisión Europea nombró a Zaragoza Capital Verde Europea 2028.",
+            "Era el cuarto intento para esta gran ciudad española a orillas del Ebro. Ya lo había intentado en 2009, 2011 y 2014, pero ni siquiera había llegado a la final.",
+            "Los expertos analizaron 27 ciudades en siete aspectos, del aire y el agua a los parques, los residuos y el ruido. El jurado elogió a Zaragoza por estar bien gestionada y por seguir fiel a sus planes.",
+            "La ciudad dijo que usaba 61.000 millones de litros de agua al año, cuando en los años 80 eran 105.000 millones. Más de tres de cada cuatro vecinos vivían a menos de 300 metros de un parque. Y desde 2021, Zaragoza había plantado cada año más árboles de los que había cortado.",
+            "El título venía con 600.000 euros y, después de tres veces no, un sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "If something se hace esperar, it takes a long time to arrive and people have been waiting for it; the pretérito se hizo esperar looks back on that wait.",
+              "example" : "Para la gran ciudad del Ebro, la verdad es que el título se hizo esperar.",
+              "title" : "Hacerse esperar: a long time coming"
+            },
+            {
+              "body" : "No solo X, sino Y adds a second, stronger point; when Y is a clause with its own verb, Spanish uses sino que: no solo llegó, sino que ganó.",
+              "example" : "Esta vez no solo llegó, sino que ganó.",
+              "title" : "No solo … sino que: not only … but"
+            },
+            {
+              "body" : "Lo bien gestionada que estaba means how well run it was: lo + adverb or adjective + que turns a quality into the thing you talk about, and the adjective still agrees (gestionada, for la ciudad).",
+              "example" : "El jurado destacó lo bien gestionada que estaba Zaragoza y los años que llevaba fiel a sus planes.",
+              "title" : "Lo + adjective + que: how well, how much"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El jueves 8 de octubre de 2026 por la noche, en Guimarães, Portugal, la Comisión Europea nombró a Zaragoza Capital Verde Europea 2028. Para la gran ciudad del Ebro, la verdad es que el título se hizo esperar.",
+            "Zaragoza lo había intentado en 2009, 2011 y 2014, sin llegar ni una sola vez a la final. Esta vez no solo llegó, sino que ganó.",
+            "Los expertos analizaron veintisiete ciudades en siete áreas, desde el aire y el agua hasta el ruido y el clima. El jurado destacó lo bien gestionada que estaba Zaragoza y los años que llevaba fiel a sus planes.",
+            "La ciudad dijo que usaba 61.000 millones de litros de agua al año, cuando en los años 80 eran 105.000 millones. Más de tres de cada cuatro vecinos vivían a menos de 300 metros de un parque. Y desde 2021 Zaragoza había plantado cada año más árboles de los que había talado, con un récord de 5.608 en 2023.",
+            "El título venía con 600.000 euros, pero el premio de verdad era más sencillo: después de tres veces no, un sí."
+          ]
+        }
+      ],
+      "summary" : "Zaragoza intentó tres veces ser la Capital Verde de Europa, y el 8 de octubre de 2026, a la cuarta, por fin lo consiguió.",
+      "title" : "A la cuarta, la vencida",
+      "translationGroup" : "zaragozas-fourth-try"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-02",
+      "id" : "zaragozas-fourth-try-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "È and sono say what something is or when it is; for the background past they become era and erano: le altre tre volte erano nel 2009 = the other three times were in 2009.",
+              "example" : "Le altre tre volte erano nel 2009, nel 2011 e nel 2014.",
+              "title" : "Erano: they were, in the past"
+            },
+            {
+              "body" : "To compare, Italian puts più before the noun and di before the second part; before a verb, di becomes di quelli che: più alberi di quelli che taglia = more trees than it cuts down.",
+              "example" : "E ogni anno la città pianta più alberi di quelli che taglia.",
+              "title" : "Più … di: more … than"
+            },
+            {
+              "body" : "Provarci means to have a go at something; the little word ci goes right before the verb: Saragozza ci prova = Zaragoza has a go.",
+              "example" : "Ma non è la prima volta che Saragozza ci prova.",
+              "title" : "Ci prova: to have a go"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È giovedì sera, l'8 ottobre 2026, e siamo a Guimarães, in Portogallo. Stasera l'Europa sceglie la sua Capitale Verde per il 2028. E vince Saragozza, una grande città spagnola.",
+            "Ma non è la prima volta che Saragozza ci prova. Le altre tre volte erano nel 2009, nel 2011 e nel 2014. E in quegli anni la città non era mai in finale.",
+            "Perché proprio Saragozza? La città dice che adesso usa molta meno acqua. La maggior parte della gente, dice, abita vicino a un parco. E ogni anno la città pianta più alberi di quelli che taglia.",
+            "Così, al tentativo numero quattro, Saragozza vince. Ed è una serata felice per la città. Tre volte no, e poi, la quarta volta, sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement such as arrivare make the spoken past with essere, and the participle agrees with the subject: la città non è mai arrivata (feminine), but la città ha vinto with avere.",
+              "example" : "Ma non è mai arrivata in finale.",
+              "title" : "Passato prossimo with essere: è arrivata"
+            },
+            {
+              "body" : "The passato prossimo tells what happened (ha vinto); the imperfetto tells how things were and what kept happening year after year: usava, abitava, piantava, tagliava.",
+              "example" : "E dal 2021 Saragozza piantava ogni anno più alberi di quelli che tagliava.",
+              "title" : "The imperfetto for how things were"
+            },
+            {
+              "body" : "With an amount, ne stands for the thing already named, so you don't repeat it: ne usava 105 miliardi = it used 105 billion (litres of it); invece (instead) marks the contrast with the 61 billion.",
+              "example" : "Negli anni Ottanta, invece, ne usava 105 miliardi.",
+              "title" : "Ne with a number: of it"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Giovedì sera, l'8 ottobre 2026, c'è stata una cerimonia a Guimarães, in Portogallo. E lì l'Europa ha scelto la sua Capitale Verde per il 2028. Ha vinto Saragozza, una grande città della Spagna.",
+            "Non era il primo tentativo di Saragozza. La città ci ha provato nel 2009, nel 2011 e nel 2014. Ma non è mai arrivata in finale. Questa volta hanno partecipato 27 città, e ha vinto Saragozza.",
+            "Allora, perché Saragozza? Ecco cosa ha detto la città. Usava 61 miliardi di litri d'acqua all'anno. Negli anni Ottanta, invece, ne usava 105 miliardi. La maggior parte della gente abitava a meno di 300 metri da un parco. E dal 2021 Saragozza piantava ogni anno più alberi di quelli che tagliava.",
+            "Quella sera tutta la città era felice. Tre volte no, e poi, al quarto tentativo, sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Aveva or era + past participle puts an event before another past one: the three tries came first, then the win in 2026. With essere the participle agrees: era arrivata.",
+              "example" : "Ci aveva già provato nel 2009, nel 2011 e nel 2014, ma non era mai arrivata nemmeno in finale.",
+              "title" : "Trapassato prossimo: one past before another"
+            },
+            {
+              "body" : "After a past verb of saying, a fact that was true at that time goes into the imperfetto: the city says \"usiamo\" → la città ha detto che usava.",
+              "example" : "La città ha detto che usava 61 miliardi di litri d'acqua all'anno, mentre negli anni Ottanta ne usava 105 miliardi.",
+              "title" : "Ha detto che usava: reported speech"
+            },
+            {
+              "body" : "When the second part of a comparison is a whole clause, Italian says di quanti (or di quante) and adds ne: più alberi di quanti ne tagliava = more trees than it cut down.",
+              "example" : "E dal 2021 Saragozza piantava ogni anno più alberi di quanti ne tagliava.",
+              "title" : "Più … di quanti ne: comparing with a verb"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Giovedì sera, l'8 ottobre 2026, c'è stata una cerimonia a Guimarães, in Portogallo. Lì la Commissione europea ha nominato Saragozza Capitale Verde europea 2028.",
+            "Per questa grande città spagnola sul fiume Ebro era il quarto tentativo. Ci aveva già provato nel 2009, nel 2011 e nel 2014, ma non era mai arrivata nemmeno in finale.",
+            "Gli esperti hanno valutato 27 città su sette temi, dall'aria e dall'acqua ai parchi, ai rifiuti e al rumore. La giuria ha lodato Saragozza perché è ben gestita e perché rimane fedele ai suoi piani.",
+            "La città ha detto che usava 61 miliardi di litri d'acqua all'anno, mentre negli anni Ottanta ne usava 105 miliardi. Più di tre persone su quattro abitavano a meno di 300 metri da un parco. E dal 2021 Saragozza piantava ogni anno più alberi di quanti ne tagliava.",
+            "Con il titolo sono arrivati anche 600.000 euro e, dopo tre volte no, un sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Farsi attendere (literally \"to make oneself awaited\") says that something took a long time to arrive while people waited for it; in the past it takes essere: si è fatto attendere.",
+              "example" : "Per la grande città spagnola sul fiume Ebro, questo titolo si è fatto attendere parecchio.",
+              "title" : "Farsi attendere: a long time coming"
+            },
+            {
+              "body" : "Non solo X, ma anche Y adds a second, stronger point to the first: it reached the final, and on top of that it won.",
+              "example" : "Questa volta non solo ci è arrivata, ma ha anche vinto.",
+              "title" : "Non solo … ma anche: and on top of that"
+            },
+            {
+              "body" : "After a verb like sottolineare, a clause opened by quanto (how much, how well) often takes the congiuntivo; after a past verb it is the imperfect one: quanto fosse ben gestita, da quanto tempo portasse avanti.",
+              "example" : "La giuria ha sottolineato soprattutto quanto Saragozza fosse ben gestita e da quanto tempo portasse avanti i suoi piani.",
+              "title" : "Quanto + congiuntivo imperfetto: how well, how long"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Giovedì sera, l'8 ottobre 2026, a Guimarães, in Portogallo, la Commissione europea ha nominato Saragozza Capitale Verde europea 2028. Per la grande città spagnola sul fiume Ebro, questo titolo si è fatto attendere parecchio.",
+            "Saragozza ci aveva provato nel 2009, nel 2011 e nel 2014, senza arrivare nemmeno una volta in finale. Questa volta non solo ci è arrivata, ma ha anche vinto.",
+            "Gli esperti hanno valutato ventisette città in sette ambiti, dall'aria e dall'acqua fino al rumore e al clima. La giuria ha sottolineato soprattutto quanto Saragozza fosse ben gestita e da quanto tempo portasse avanti i suoi piani.",
+            "La città ha detto che usava 61 miliardi di litri d'acqua all'anno, contro i 105 miliardi degli anni Ottanta. Più di tre persone su quattro abitavano a meno di 300 metri da un parco. E dal 2021 Saragozza piantava ogni anno più alberi di quanti ne abbatteva, con un record di 5.608 nel 2023.",
+            "Con il titolo sono arrivati anche 600.000 euro, ma il vero premio era più semplice: dopo tre volte no, un sì."
+          ]
+        }
+      ],
+      "summary" : "Saragozza ci ha provato tre volte a diventare Capitale Verde d'Europa, e l'8 ottobre 2026, al quarto tentativo, ce l'ha fatta.",
+      "title" : "Il quarto tentativo di Saragozza",
+      "translationGroup" : "zaragozas-fourth-try"
     }
   ]
 }
