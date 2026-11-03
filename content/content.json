@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 26,
-  "generatedAt" : "2026-11-02",
+  "contentVersion" : 27,
+  "generatedAt" : "2026-11-03",
   "glossary" : {
     "english" : [
       {
@@ -89,9 +89,9 @@
           "actual",
           "actually"
         ],
-        "note" : "\"Actually\" is the adverb form.",
+        "note" : "\"Actually\" is the adverb: it actually tells you = it really does.",
         "pos" : "adjective",
-        "translation" : "real / in reality"
+        "translation" : "real (actual); really, in fact (actually)"
       },
       {
         "forms" : [
@@ -3458,9 +3458,9 @@
           "it's",
           "its"
         ],
-        "note" : "\"It's\" is short for \"it is,\" \"its\" is possessive (no apostrophe).",
+        "note" : "\"It's\" is short for \"it is\"; \"its\" (no apostrophe) means belonging to it: its last line.",
         "pos" : "other",
-        "translation" : "to be (it form) / it is not / it (subject/possessive)"
+        "translation" : "to be (it form) / it is not / it; its = belonging to it"
       },
       {
         "forms" : [
@@ -4165,7 +4165,7 @@
         ],
         "note" : "Used for uncountable things.",
         "pos" : "adjective",
-        "translation" : "a large amount"
+        "translation" : "a large amount; (says as much) says the same thing"
       },
       {
         "forms" : [
@@ -4268,7 +4268,7 @@
         ],
         "note" : "As in \"the next station.\"",
         "pos" : "adjective",
-        "translation" : "coming immediately after"
+        "translation" : "coming immediately after; (next to) beside"
       },
       {
         "forms" : [
@@ -4746,7 +4746,7 @@
         ],
         "note" : "\"Pieces\" is the plural.",
         "pos" : "noun",
-        "translation" : "a part of something"
+        "translation" : "a part of something; (a piece of music) one work"
       },
       {
         "forms" : [
@@ -6638,7 +6638,7 @@
         ],
         "note" : "One of the most common English prepositions.",
         "pos" : "preposition",
-        "translation" : "toward, in the direction of"
+        "translation" : "toward, in the direction of; before a verb: in order to (to celebrate)"
       },
       {
         "forms" : [
@@ -7220,7 +7220,7 @@
         ],
         "note" : "Past tense of \"go.\"",
         "pos" : "verb",
-        "translation" : "moved, traveled (past tense)"
+        "translation" : "moved, traveled (past tense); (went with) fitted, suited"
       },
       {
         "forms" : [
@@ -8722,7 +8722,7 @@
         ],
         "note" : "The past tense of \"come.\"",
         "pos" : "verb",
-        "translation" : "moved toward here"
+        "translation" : "moved toward here; (came with) was sold or given together with"
       },
       {
         "forms" : [
@@ -13206,7 +13206,7 @@
         ],
         "note" : "As in \"lit a fire.\"",
         "pos" : "noun",
-        "translation" : "flames and heat used for cooking"
+        "translation" : "flames and heat, for cooking or for warmth"
       },
       {
         "forms" : [
@@ -17338,7 +17338,7 @@
         ],
         "note" : "He/she/it form of \"bring.\"",
         "pos" : "verb",
-        "translation" : "carries something to a place"
+        "translation" : "carries something to a place; causes, gives (it brings joy)"
       },
       {
         "forms" : [
@@ -21157,7 +21157,7 @@
         ],
         "note" : "Prints is the present with he/she/it; printed the past simple: he printed it himself.",
         "pos" : "verb",
-        "translation" : "makes copies of a book"
+        "translation" : "made copies of a book or of music (past); prints = makes copies"
       },
       {
         "forms" : [
@@ -28756,6 +28756,211 @@
         "note" : "Said \"six hundred thousand\": €600,000 is said \"six hundred thousand euros\".",
         "pos" : "number",
         "translation" : "600,000"
+      },
+      {
+        "forms" : [
+          "1725"
+        ],
+        "note" : "The year these twelve concertos were printed in Amsterdam; say seventeen twenty-five.",
+        "pos" : "number",
+        "translation" : "1725"
+      },
+      {
+        "forms" : [
+          "amsterdam"
+        ],
+        "note" : "A big city in the Netherlands; say AM-ster-dam.",
+        "pos" : "noun",
+        "translation" : "Amsterdam (the capital of the Netherlands)"
+      },
+      {
+        "forms" : [
+          "antonio",
+          "vivaldi",
+          "vivaldi's"
+        ],
+        "note" : "Vivaldi, who died in 1741, wrote the Four Seasons; say vi-VAL-dee. Vivaldi's = of Vivaldi.",
+        "pos" : "noun",
+        "translation" : "Antonio Vivaldi (an Italian composer)"
+      },
+      {
+        "forms" : [
+          "cène",
+          "le",
+          "michel-charles"
+        ],
+        "note" : "The printer who published Vivaldi's twelve concertos in 1725; say mee-SHEL sharl luh SEN.",
+        "pos" : "noun",
+        "translation" : "Michel-Charles Le Cène (a music printer in Amsterdam)"
+      },
+      {
+        "forms" : [
+          "concertos"
+        ],
+        "note" : "The plural of concerto; say kon-CHAIR-toes.",
+        "pos" : "noun",
+        "translation" : "pieces of music for one or more solo instruments and a group of players"
+      },
+      {
+        "forms" : [
+          "violin"
+        ],
+        "note" : "A violin concerto puts the violin in front of the other players.",
+        "pos" : "noun",
+        "translation" : "a small string instrument played with a bow"
+      },
+      {
+        "forms" : [
+          "violas"
+        ],
+        "note" : "The plural of viola; say vee-OH-luhz.",
+        "pos" : "noun",
+        "translation" : "string instruments a little bigger and deeper than the violin"
+      },
+      {
+        "forms" : [
+          "goats"
+        ],
+        "note" : "The plural of goat.",
+        "pos" : "noun",
+        "translation" : "farm animals with horns, kept for milk and meat"
+      },
+      {
+        "forms" : [
+          "goatherd"
+        ],
+        "note" : "Herd here means to look after a group of animals; the \"h\" is said: GOTE-herd.",
+        "pos" : "noun",
+        "translation" : "a person who looks after goats"
+      },
+      {
+        "forms" : [
+          "ice"
+        ],
+        "note" : "Uncountable: on ice, not on an ice or on ices.",
+        "pos" : "noun",
+        "translation" : "frozen water"
+      },
+      {
+        "forms" : [
+          "seasons"
+        ],
+        "note" : "The plural of season.",
+        "pos" : "noun",
+        "translation" : "the four parts of the year: spring, summer, autumn and winter"
+      },
+      {
+        "forms" : [
+          "printer"
+        ],
+        "note" : "Today a printer is also the machine next to your computer.",
+        "pos" : "noun",
+        "translation" : "a person or business that prints books or music"
+      },
+      {
+        "forms" : [
+          "printing"
+        ],
+        "note" : "The -ing form after \"is\": she is printing = she's doing it now.",
+        "pos" : "verb",
+        "translation" : "making copies of a text or music on paper"
+      },
+      {
+        "forms" : [
+          "sonnet"
+        ],
+        "note" : "A form of poem with fixed rules for its lines and rhymes.",
+        "pos" : "noun",
+        "translation" : "a poem of fourteen lines"
+      },
+      {
+        "forms" : [
+          "matched"
+        ],
+        "note" : "Past participle of match: matched to the music = fitted to it.",
+        "pos" : "verb",
+        "translation" : "fitted together; put with the thing that goes with it"
+      },
+      {
+        "forms" : [
+          "hearing"
+        ],
+        "note" : "The -ing form of hear; what you're hearing = what you hear right now.",
+        "pos" : "verb",
+        "translation" : "noticing sound with your ears"
+      },
+      {
+        "forms" : [
+          "pleasure"
+        ],
+        "note" : "Own pleasure = something good that belongs to that one thing.",
+        "pos" : "noun",
+        "translation" : "a feeling of enjoyment, or something that gives it"
+      },
+      {
+        "forms" : [
+          "thanks"
+        ],
+        "note" : "\"Thanks to\" names a cause when the result is good; alone, \"thanks\" says you're grateful.",
+        "pos" : "preposition",
+        "translation" : "(thanks to) because of something good"
+      },
+      {
+        "forms" : [
+          "barks"
+        ],
+        "note" : "Bark + -s: the dog barks.",
+        "pos" : "verb",
+        "translation" : "makes the short loud sound of a dog"
+      },
+      {
+        "forms" : [
+          "crosses"
+        ],
+        "note" : "Cross + -es, because it ends in -s.",
+        "pos" : "verb",
+        "translation" : "goes from one side to the other"
+      },
+      {
+        "forms" : [
+          "dozes"
+        ],
+        "note" : "\"Doze off\" is what you do on the sofa without meaning to.",
+        "pos" : "verb",
+        "translation" : "(dozes off) falls into a light sleep"
+      },
+      {
+        "forms" : [
+          "rolls"
+        ],
+        "note" : "\"A storm rolls in\" is said of bad weather coming closer.",
+        "pos" : "verb",
+        "translation" : "(rolls in) arrives slowly, like clouds or a storm"
+      },
+      {
+        "forms" : [
+          "dance",
+          "dancing"
+        ],
+        "note" : "Dance loses its -e before -ing: dance, dancing.",
+        "pos" : "verb",
+        "translation" : "to move your body to music"
+      },
+      {
+        "forms" : [
+          "harvest"
+        ],
+        "note" : "Grapes, wheat and other crops all have a harvest, usually at the end of summer or in autumn.",
+        "pos" : "noun",
+        "translation" : "the time when farmers bring in the food they have grown"
+      },
+      {
+        "forms" : [
+          "celebrate"
+        ],
+        "note" : "You celebrate a birthday, a win or a good harvest.",
+        "pos" : "verb",
+        "translation" : "to do something special because of a happy event"
       }
     ],
     "french" : [
@@ -31213,7 +31418,7 @@
         ],
         "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact. At a till, « ça fait un euro vingt-cinq » = that comes to one euro twenty-five. Faire + infinitive = to have something done: « il a fait nettoyer les marais » = he had the marshes cleaned up.",
         "pos" : "verb",
-        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to; (faire + verb) to have something done"
+        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to; (il fait bon) it's nice and warm; (faire + verb) to have something done"
       },
       {
         "forms" : [
@@ -34227,7 +34432,7 @@
         ],
         "note" : "Direction (vers la mer = toward the sea) or an approximate time (vers 300 avant J.-C. = around 300 BC).",
         "pos" : "preposition",
-        "translation" : "toward; around (a time)"
+        "translation" : "toward; around (a time); (les vers) lines of a poem"
       },
       {
         "forms" : [
@@ -34636,7 +34841,7 @@
         ],
         "note" : "Aller (to go), imperfect tense.",
         "pos" : "verb",
-        "translation" : "were going, was going"
+        "translation" : "were going, was going; (allaient avec) went with, suited"
       },
       {
         "forms" : [
@@ -34943,7 +35148,7 @@
         "gender" : "masculine",
         "note" : "As in \"au bout d'un an\" (after a year).",
         "pos" : "noun",
-        "translation" : "end, bit"
+        "translation" : "end, bit; (bout à bout) end to end"
       },
       {
         "forms" : [
@@ -35518,7 +35723,7 @@
         "gender" : "masculine",
         "note" : "Plural of côté.",
         "pos" : "noun",
-        "translation" : "sides"
+        "translation" : "sides; (à ses côtés) beside him/her"
       },
       {
         "forms" : [
@@ -53678,7 +53883,7 @@
         "gender" : "feminine",
         "note" : "Plural of pièce.",
         "pos" : "noun",
-        "translation" : "coins"
+        "translation" : "coins; pieces (of music)"
       },
       {
         "forms" : [
@@ -61450,7 +61655,7 @@
         ],
         "note" : "Se lever = to get up; the reflexive « se » goes before the verb: « il se lève la nuit » = he gets up at night. Of the wind, « le vent se lève » = the wind picks up.",
         "pos" : "verb",
-        "translation" : "gets up (with se); (of the wind) picks up"
+        "translation" : "gets up (with se); (of the wind) picks up; (un orage se lève) a storm rolls in"
       },
       {
         "forms" : [
@@ -63946,7 +64151,7 @@
         ],
         "note" : "Imparfait of s'en sortir: « ils s'en sortaient mieux » = they did better.",
         "pos" : "verb",
-        "translation" : "managed, did (well)"
+        "translation" : "managed, did (well); (sortaient de l'ordinaire) were out of the ordinary"
       },
       {
         "forms" : [
@@ -67678,6 +67883,386 @@
         "note" : "Past participle of gérer, feminine to agree with Saragosse (la ville): « bien gérée » = well run.",
         "pos" : "verb",
         "translation" : "run, managed"
+      },
+      {
+        "forms" : [
+          "1725"
+        ],
+        "note" : "A year, read « mille sept cent vingt-cinq »; « en 1725 » = in 1725, with en and no article.",
+        "pos" : "number",
+        "translation" : "1725"
+      },
+      {
+        "forms" : [
+          "michel-charles"
+        ],
+        "gender" : "masculine",
+        "note" : "A hyphenated French first name, Michel-Charles Le Cène, the music printer in Amsterdam; the hyphen makes it one word.",
+        "pos" : "noun",
+        "translation" : "Michel-Charles"
+      },
+      {
+        "forms" : [
+          "cène"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of the surname Le Cène, the Amsterdam music printer; as a common word, la Cène is the Last Supper, but here it is only a name.",
+        "pos" : "noun",
+        "translation" : "Cène (surname)"
+      },
+      {
+        "forms" : [
+          "d'antonio"
+        ],
+        "gender" : "masculine",
+        "note" : "De + Antonio, shortened before the vowel: « la musique d'Antonio Vivaldi » = Antonio Vivaldi's music; French has no 's.",
+        "pos" : "noun",
+        "translation" : "of Antonio, by Antonio"
+      },
+      {
+        "forms" : [
+          "vivaldi"
+        ],
+        "gender" : "masculine",
+        "note" : "Antonio Vivaldi, the Italian composer; a surname takes no article: « la musique de Vivaldi ».",
+        "pos" : "noun",
+        "translation" : "Vivaldi"
+      },
+      {
+        "forms" : [
+          "amsterdam"
+        ],
+        "gender" : "masculine",
+        "note" : "The Dutch city; a city name takes no article and à for in: « à Amsterdam ».",
+        "pos" : "noun",
+        "translation" : "Amsterdam"
+      },
+      {
+        "forms" : [
+          "d'amsterdam"
+        ],
+        "gender" : "masculine",
+        "note" : "De + Amsterdam, shortened before the vowel: « un imprimeur d'Amsterdam » = an Amsterdam printer; French puts the place after the noun.",
+        "pos" : "noun",
+        "translation" : "of Amsterdam, from Amsterdam"
+      },
+      {
+        "forms" : [
+          "imprime"
+        ],
+        "note" : "Imprimer (to print), present, il/elle form; French has one present, so it covers both prints and is printing.",
+        "pos" : "verb",
+        "translation" : "prints, is printing"
+      },
+      {
+        "forms" : [
+          "imprimeur"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un imprimeur » = a person who prints books or music; the machine is « une imprimante ».",
+        "pos" : "noun",
+        "translation" : "printer (person)"
+      },
+      {
+        "forms" : [
+          "saison",
+          "saisons"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: « une saison »; « les quatre saisons » = the four seasons.",
+        "pos" : "noun",
+        "translation" : "season"
+      },
+      {
+        "forms" : [
+          "hiver",
+          "l'hiver"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine, with l' before the vowel: « l'hiver »; « en hiver » = in winter.",
+        "pos" : "noun",
+        "translation" : "winter"
+      },
+      {
+        "forms" : [
+          "l'automne"
+        ],
+        "gender" : "masculine",
+        "note" : "L' + automne, masculine; the m is silent: « l'automne amène les danses » = autumn brings dancing.",
+        "pos" : "noun",
+        "translation" : "autumn"
+      },
+      {
+        "forms" : [
+          "spéciaux"
+        ],
+        "note" : "Masculine plural of spécial: words in -al usually change to -aux in the plural.",
+        "pos" : "adjective",
+        "translation" : "special"
+      },
+      {
+        "forms" : [
+          "chèvres"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une chèvre »; a chevrier is a person who looks after goats.",
+        "pos" : "noun",
+        "translation" : "goats"
+      },
+      {
+        "forms" : [
+          "chevrier"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un chevrier » = a man who looks after goats, from chèvre (goat).",
+        "pos" : "noun",
+        "translation" : "goatherd"
+      },
+      {
+        "forms" : [
+          "aboie"
+        ],
+        "note" : "Aboyer (to bark), present, il/elle form: the y becomes i before a silent e.",
+        "pos" : "verb",
+        "translation" : "barks"
+      },
+      {
+        "forms" : [
+          "aboyer"
+        ],
+        "note" : "Infinitive; after entendre, French uses the infinitive: « entendre le chien aboyer » = to hear the dog bark.",
+        "pos" : "verb",
+        "translation" : "to bark"
+      },
+      {
+        "forms" : [
+          "altos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un alto »: in French the alto is the instrument, the viola, one size up from the violin.",
+        "pos" : "noun",
+        "translation" : "violas"
+      },
+      {
+        "forms" : [
+          "orage"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « un orage » = a storm with thunder and lightning; « une tempête » is mainly wind.",
+        "pos" : "noun",
+        "translation" : "storm, thunderstorm"
+      },
+      {
+        "forms" : [
+          "dansent"
+        ],
+        "note" : "Danser, present, ils/elles form: the -ent ending is silent, so it sounds like danse.",
+        "pos" : "verb",
+        "translation" : "dance"
+      },
+      {
+        "forms" : [
+          "danses"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « la danse »; « les danses et les chants » = dancing and singing, as French likes the nouns here.",
+        "pos" : "noun",
+        "translation" : "dances, dancing"
+      },
+      {
+        "forms" : [
+          "glace"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: « la glace » = ice; it also means ice cream and, in some uses, a mirror.",
+        "pos" : "noun",
+        "translation" : "ice"
+      },
+      {
+        "forms" : [
+          "concertos"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un concerto », a piece for a solo instrument with an orchestra; the word comes from Italian.",
+        "pos" : "noun",
+        "translation" : "concertos"
+      },
+      {
+        "forms" : [
+          "violon"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « un violon »; « un concerto pour violon » = a violin concerto, with pour and no article.",
+        "pos" : "noun",
+        "translation" : "violin"
+      },
+      {
+        "forms" : [
+          "sonnet"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « un sonnet » = a fourteen-line poem; the final t is silent.",
+        "pos" : "noun",
+        "translation" : "sonnet"
+      },
+      {
+        "forms" : [
+          "entends"
+        ],
+        "note" : "Entendre (to hear), present, je/tu form: the -ds is silent.",
+        "pos" : "verb",
+        "translation" : "hear"
+      },
+      {
+        "forms" : [
+          "entendais"
+        ],
+        "note" : "Entendre, imparfait, je/tu form: « ce que tu entendais » = what you were hearing.",
+        "pos" : "verb",
+        "translation" : "were hearing, heard"
+      },
+      {
+        "forms" : [
+          "écoutes"
+        ],
+        "note" : "Écouter (to listen), present, tu form: écouter takes no à: « tu écoutes la musique ».",
+        "pos" : "verb",
+        "translation" : "listen"
+      },
+      {
+        "forms" : [
+          "suivaient"
+        ],
+        "note" : "Suivre (to follow), imparfait, ils form: « les vers suivaient la musique » = the lines followed the music.",
+        "pos" : "verb",
+        "translation" : "followed, went along with"
+      },
+      {
+        "forms" : [
+          "collaient"
+        ],
+        "note" : "Coller (to stick), imparfait, ils form: spoken « coller à » means to fit something very closely.",
+        "pos" : "verb",
+        "translation" : "stuck to, matched closely"
+      },
+      {
+        "forms" : [
+          "écrits"
+        ],
+        "note" : "Past participle of écrire, masculine plural, agreeing with que (the first four) placed before it.",
+        "pos" : "verb",
+        "translation" : "written"
+      },
+      {
+        "forms" : [
+          "compositeur"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un compositeur » = a person who writes music.",
+        "pos" : "noun",
+        "translation" : "composer"
+      },
+      {
+        "forms" : [
+          "carrément"
+        ],
+        "note" : "Spoken French for going all the way: « la musique te dit carrément » = the music goes as far as telling you.",
+        "pos" : "adverb",
+        "translation" : "downright, actually"
+      },
+      {
+        "forms" : [
+          "l'ordinaire"
+        ],
+        "gender" : "masculine",
+        "note" : "L' + ordinaire: « sortir de l'ordinaire » = to be out of the ordinary, unusual.",
+        "pos" : "noun",
+        "translation" : "the ordinary"
+      },
+      {
+        "forms" : [
+          "l'oreille"
+        ],
+        "gender" : "feminine",
+        "note" : "L' + oreille, feminine; « tendre l'oreille » = to listen closely, literally to stretch out your ear.",
+        "pos" : "noun",
+        "translation" : "ear"
+      },
+      {
+        "forms" : [
+          "tends"
+        ],
+        "note" : "Tendre, imperative, tu form, and also the present tu form: « tends l'oreille » = listen closely.",
+        "pos" : "verb",
+        "translation" : "stretch out, hold out"
+      },
+      {
+        "forms" : [
+          "s'assoupit"
+        ],
+        "note" : "S'assoupir (to doze off), present, il/elle form: a reflexive verb for falling lightly asleep.",
+        "pos" : "verb",
+        "translation" : "dozes off"
+      },
+      {
+        "forms" : [
+          "amène"
+        ],
+        "note" : "Amener (to bring along), present, il/elle form: the e gets an accent when the ending is silent.",
+        "pos" : "verb",
+        "translation" : "brings"
+      },
+      {
+        "forms" : [
+          "fêter"
+        ],
+        "note" : "Infinitive: everyday word for celebrating something; « pour fêter » = in order to celebrate.",
+        "pos" : "verb",
+        "translation" : "to celebrate"
+      },
+      {
+        "forms" : [
+          "récolte"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: « la récolte » = the crops gathered in, or the gathering itself.",
+        "pos" : "noun",
+        "translation" : "harvest"
+      },
+      {
+        "forms" : [
+          "plaisir",
+          "plaisirs"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: « le plaisir »; « chaque saison a ses plaisirs » = every season has its own pleasures, as in the saying « chaque âge a ses plaisirs ».",
+        "pos" : "noun",
+        "translation" : "pleasure"
+      },
+      {
+        "forms" : [
+          "mets"
+        ],
+        "note" : "Mettre (to put), imperative, tu form: « mets tout ça bout à bout » = put it all together, end to end.",
+        "pos" : "verb",
+        "translation" : "put"
+      },
+      {
+        "forms" : [
+          "l'effet"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + effet, elided before the vowel: « l'effet est joli » = the effect is lovely, spoken for what something does to you.",
+        "pos" : "noun",
+        "translation" : "the effect"
+      },
+      {
+        "forms" : [
+          "s'aventure"
+        ],
+        "note" : "S'aventurer (to venture), present, il/elle form: « s'aventurer sur la glace » = to step out onto the ice, carefully, knowing it's risky.",
+        "pos" : "verb",
+        "translation" : "ventures (out)"
       }
     ],
     "german" : [
@@ -68142,7 +68727,8 @@
       },
       {
         "forms" : [
-          "bellen"
+          "bellen",
+          "bellt"
         ],
         "note" : "Infinitive — as in the proverb \"die Hunde bellen.\"",
         "pos" : "verb",
@@ -68596,7 +69182,7 @@
         ],
         "note" : "Feminine singular or plural definite article; after a comma it can also start a relative clause: „die Stücke, die keiner wollte“ = the pieces nobody wanted.",
         "pos" : "article",
-        "translation" : "the (feminine/plural); who, which (relative)"
+        "translation" : "the (feminine/plural); who, which (relative); they, those („Die sind besonders“)"
       },
       {
         "forms" : [
@@ -69821,9 +70407,9 @@
           "hundes"
         ],
         "gender" : "masculine",
-        "note" : "Plural of Hund.",
+        "note" : "Der Hund = the dog; die Hunde = the dogs.",
         "pos" : "noun",
-        "translation" : "dogs"
+        "translation" : "dog(s)"
       },
       {
         "forms" : [
@@ -72827,7 +73413,7 @@
         ],
         "note" : "With an adjective, werden = to get, to become: „die werden trocken“ = they get dry. It is also the helper for the future and the passive; „würde“ = would.",
         "pos" : "verb",
-        "translation" : "to become, to get; will; would"
+        "translation" : "to become, to get; will; would; (with a participle) is being done („es wird getanzt“ = there is dancing)"
       },
       {
         "forms" : [
@@ -73003,8 +73589,15 @@
         "forms" : [
           "zieht"
         ],
-        "note" : "Ziehen (to pull/move), \"er/sie/es\" form — \"zieht weiter\" (moves on).",
+        "note" : "Ziehen (to pull/move), \"er/sie/es\" form — \"zieht weiter\" (moves on). Separable: … auf = aufziehen, to gather, to roll in (of a storm); „Im Sommer zieht ein Sturm auf“ = in summer a storm rolls in.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to gather, to roll in (of a storm)",
+            "verb" : "aufziehen"
+          }
+        ],
         "translation" : "moves, pulls"
       },
       {
@@ -73763,7 +74356,7 @@
         ],
         "note" : "Particularly.",
         "pos" : "adverb",
-        "translation" : "especially"
+        "translation" : "especially; (sind besonders) special"
       },
       {
         "forms" : [
@@ -78103,7 +78696,7 @@
         ],
         "note" : "\"Die Hälfte dessen, was du trägst\" (half of what you carry).",
         "pos" : "pronoun",
-        "translation" : "of that, of what"
+        "translation" : "of that, of what; whose („ein Sonett, dessen Verse …“)"
       },
       {
         "forms" : [
@@ -78191,7 +78784,8 @@
       },
       {
         "forms" : [
-          "freude"
+          "freude",
+          "freuden"
         ],
         "gender" : "feminine",
         "note" : "\"Freude an etwas finden\" = to take pleasure in something.",
@@ -80303,7 +80897,7 @@
         ],
         "note" : "Erzählen = to tell; erzählt = tells („Man erzählt, dass …“ = people say that …), or the past participle told („hat ihm erzählt“); erzählten = told (they, preterite).",
         "pos" : "verb",
-        "translation" : "to tell; tells, told"
+        "translation" : "to tell; tells, told; (erzählen von) are about"
       },
       {
         "forms" : [
@@ -81329,10 +81923,12 @@
       },
       {
         "forms" : [
+          "hör",
           "hören",
+          "hörst",
           "hört"
         ],
-        "note" : "Hört is er/sie/es form. Separable: … ab = abhören, to listen to (the heart, with a stethoscope); … auf = aufhören, to stop; … zu = zuhören, to listen.",
+        "note" : "Hört is er/sie/es form. Separable: … ab = abhören, to listen to (the heart, with a stethoscope); … auf = aufhören, to stop; … zu = zuhören, to listen; … hin = hinhören, to listen closely; „Hör genau hin“ = listen closely.",
         "pos" : "verb",
         "separable" : [
           {
@@ -81344,6 +81940,11 @@
             "particle" : "auf",
             "translation" : "to stop",
             "verb" : "aufhören"
+          },
+          {
+            "particle" : "hin",
+            "translation" : "to listen closely",
+            "verb" : "hinhören"
           },
           {
             "particle" : "zu",
@@ -82527,6 +83128,7 @@
       },
       {
         "forms" : [
+          "gepasst",
           "passen",
           "passt"
         ],
@@ -83111,6 +83713,7 @@
       },
       {
         "forms" : [
+          "gesungen",
           "singen",
           "singt"
         ],
@@ -83275,7 +83878,7 @@
         "gender" : "neuter",
         "note" : "Plural of Stück.",
         "pos" : "noun",
-        "translation" : "pieces"
+        "translation" : "pieces; (Musikstücke) works of music"
       },
       {
         "forms" : [
@@ -83830,7 +84433,8 @@
       {
         "forms" : [
           "vogel",
-          "vögel"
+          "vögel",
+          "vögeln"
         ],
         "gender" : "masculine",
         "note" : "Vögel is the plural.",
@@ -88421,7 +89025,8 @@
       },
       {
         "forms" : [
-          "wunderbar"
+          "wunderbar",
+          "wunderbares"
         ],
         "note" : "Excellent.",
         "pos" : "adjective",
@@ -92265,7 +92870,8 @@
       {
         "forms" : [
           "wort",
-          "worten"
+          "worten",
+          "wörter"
         ],
         "gender" : "neuter",
         "note" : "\"Ein freundliches Wort\" = a kind word.",
@@ -94307,7 +94913,7 @@
         "gender" : "masculine",
         "note" : "Der Vers, die Verse.",
         "pos" : "noun",
-        "translation" : "verse"
+        "translation" : "verse; a line of a poem"
       },
       {
         "forms" : [
@@ -94812,7 +95418,7 @@
           "fangen",
           "fängt"
         ],
-        "note" : "Plural present of fangen (to catch). Separable: … an = anfangen, to begin; „so fangen die Probleme an“ = that is how the problems begin; „Er fängt um vier Uhr an“ = he starts at four.",
+        "note" : "He/she/it present of fangen (to catch). Separable: … an = anfangen, to begin; „so fangen die Probleme an“.",
         "pos" : "verb",
         "separable" : [
           {
@@ -103861,7 +104467,7 @@
         "gender" : "masculine",
         "note" : "Der Gefallen: „jemandem einen Gefallen tun“ = to do someone a favour (the verb gefallen means to please).",
         "pos" : "noun",
-        "translation" : "favour"
+        "translation" : "favour; fallen (aus dem Rahmen gefallen = out of the ordinary)"
       },
       {
         "forms" : [
@@ -104940,6 +105546,7 @@
       },
       {
         "forms" : [
+          "feiern",
           "feiert"
         ],
         "note" : "Feiern, er/sie/es form: „Niemand feiert“ = nobody celebrates.",
@@ -105157,7 +105764,7 @@
         ],
         "note" : "Partizip II of herauskommen, with sein: „dabei ist die kleinste Zahl herausgekommen“ = the result was the smallest number.",
         "pos" : "verb",
-        "translation" : "come out (as a result)"
+        "translation" : "come out (as a result); came out, was published"
       },
       {
         "forms" : [
@@ -108143,6 +108750,253 @@
         "note" : "A big city in north-east Spain on the river Ebro; like other town names it is neuter („es“), and „Zaragozas“ with -s says whose: „Zaragozas erster Versuch“.",
         "pos" : "noun",
         "translation" : "Zaragoza; Zaragoza's"
+      },
+      {
+        "forms" : [
+          "1725"
+        ],
+        "note" : "Said „siebzehnhundertfünfundzwanzig“: years before 2000 are said in hundreds, and a bare year needs no „im“.",
+        "pos" : "number",
+        "translation" : "1725"
+      },
+      {
+        "forms" : [
+          "amsterdam"
+        ],
+        "gender" : "neuter",
+        "note" : "The capital of the Netherlands; like other town names it is neuter.",
+        "pos" : "noun",
+        "translation" : "Amsterdam"
+      },
+      {
+        "forms" : [
+          "amsterdamer"
+        ],
+        "note" : "A town name + -er makes an adjective that never changes its ending: „der Amsterdamer Drucker“.",
+        "pos" : "adjective",
+        "translation" : "from Amsterdam, Amsterdam (adj.)"
+      },
+      {
+        "forms" : [
+          "antonio"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Antonio Vivaldi, the Italian composer.",
+        "pos" : "noun",
+        "translation" : "Antonio"
+      },
+      {
+        "forms" : [
+          "bratsche",
+          "bratschen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Bratsche, die Bratschen: a string instrument a little bigger and deeper than the violin.",
+        "pos" : "noun",
+        "translation" : "viola"
+      },
+      {
+        "forms" : [
+          "cène"
+        ],
+        "gender" : "masculine",
+        "note" : "Part of the surname of Michel-Charles Le Cène, a music printer in Amsterdam.",
+        "pos" : "noun",
+        "translation" : "Cène"
+      },
+      {
+        "forms" : [
+          "le"
+        ],
+        "note" : "French article, here part of the surname Le Cène; it is no German word.",
+        "pos" : "other",
+        "translation" : "Le"
+      },
+      {
+        "forms" : [
+          "michel-charles"
+        ],
+        "gender" : "masculine",
+        "note" : "First names of Michel-Charles Le Cène, a music printer in Amsterdam.",
+        "pos" : "noun",
+        "translation" : "Michel-Charles"
+      },
+      {
+        "forms" : [
+          "drucker"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Drucker: here a person who prints; today it usually means the machine by your computer.",
+        "pos" : "noun",
+        "translation" : "printer"
+      },
+      {
+        "forms" : [
+          "eis"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Eis: frozen water, and also ice cream: „übers Eis gehen“ = to walk on the ice.",
+        "pos" : "noun",
+        "translation" : "ice; ice cream"
+      },
+      {
+        "forms" : [
+          "ergibt"
+        ],
+        "note" : "Ergeben, er/sie/es form: „Zusammen ergibt das ein Jahr“ = together that makes a year.",
+        "pos" : "verb",
+        "translation" : "makes, comes to"
+      },
+      {
+        "forms" : [
+          "frühling"
+        ],
+        "gender" : "masculine",
+        "note" : "The season: „im Frühling“ = in spring.",
+        "pos" : "noun",
+        "translation" : "spring"
+      },
+      {
+        "forms" : [
+          "getanzt",
+          "tanzen"
+        ],
+        "note" : "Tanzen is the infinitive and the sie-plural form, getanzt the Partizip II: „Im Herbst tanzen die Leute“.",
+        "pos" : "verb",
+        "translation" : "to dance; danced"
+      },
+      {
+        "forms" : [
+          "hinhörst"
+        ],
+        "note" : "Hinhören, du form, joined because „wenn“ sends it to the end: „Wenn du genau hinhörst“.",
+        "pos" : "verb",
+        "translation" : "listen closely"
+      },
+      {
+        "forms" : [
+          "jahreszeit",
+          "jahreszeiten"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Jahreszeit, die Jahreszeiten: literally „time of the year“; spring, summer, autumn and winter.",
+        "pos" : "noun",
+        "translation" : "season"
+      },
+      {
+        "forms" : [
+          "nicken",
+          "nickt"
+        ],
+        "note" : "Nicken, er/sie/es form nickt. Separable: … ein = einnicken, to doze off; „dann nickt ein Ziegenhirt ein“ = then a goatherd dozes off.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ein",
+            "translation" : "to doze off",
+            "verb" : "einnicken"
+          }
+        ],
+        "translation" : "to nod; nods"
+      },
+      {
+        "forms" : [
+          "rahmen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Rahmen: „aus dem Rahmen fallen“ = to be out of the ordinary, literally to fall out of the frame.",
+        "pos" : "noun",
+        "translation" : "frame"
+      },
+      {
+        "forms" : [
+          "sonett"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Sonett: a poem of fourteen lines.",
+        "pos" : "noun",
+        "translation" : "sonnet"
+      },
+      {
+        "forms" : [
+          "ungewöhnlich"
+        ],
+        "note" : "Un- + gewöhnlich (usual), as in English un-.",
+        "pos" : "adjective",
+        "translation" : "unusual"
+      },
+      {
+        "forms" : [
+          "violinkonzert",
+          "violinkonzerte"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Violinkonzert, die Violinkonzerte: from die Violine (violin) + das Konzert.",
+        "pos" : "noun",
+        "translation" : "violin concerto"
+      },
+      {
+        "forms" : [
+          "vivaldi"
+        ],
+        "gender" : "masculine",
+        "note" : "Antonio Vivaldi, the Italian composer of the Four Seasons, „Die vier Jahreszeiten“.",
+        "pos" : "noun",
+        "translation" : "Vivaldi"
+      },
+      {
+        "forms" : [
+          "winter"
+        ],
+        "gender" : "masculine",
+        "note" : "The season: „im Winter“ = in winter.",
+        "pos" : "noun",
+        "translation" : "winter"
+      },
+      {
+        "forms" : [
+          "wintergedicht"
+        ],
+        "gender" : "neuter",
+        "note" : "Winter + Gedicht: the compound takes its gender from the last word, das Gedicht.",
+        "pos" : "noun",
+        "translation" : "winter poem"
+      },
+      {
+        "forms" : [
+          "wintersonett"
+        ],
+        "gender" : "neuter",
+        "note" : "Winter + Sonett: the compound takes its gender from the last word, das Sonett.",
+        "pos" : "noun",
+        "translation" : "winter sonnet"
+      },
+      {
+        "forms" : [
+          "ziege",
+          "ziegen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Ziege, die Ziegen.",
+        "pos" : "noun",
+        "translation" : "goat"
+      },
+      {
+        "forms" : [
+          "ziegenhirt"
+        ],
+        "gender" : "masculine",
+        "note" : "Ziege + Hirt (herdsman), with -n- between the two: der Ziegenhirt.",
+        "pos" : "noun",
+        "translation" : "goatherd"
+      },
+      {
+        "forms" : [
+          "geborgen"
+        ],
+        "note" : "Safe in a warm, cared-for way: „am Feuer bist du geborgen“ = by the fire you're safe and snug. Sicher is safe from danger; geborgen is safe and at home.",
+        "pos" : "adjective",
+        "translation" : "safe and snug, sheltered"
       }
     ],
     "italian" : [
@@ -109313,7 +110167,8 @@
       },
       {
         "forms" : [
-          "autunno"
+          "autunno",
+          "l'autunno"
         ],
         "gender" : "masculine",
         "note" : "The season.",
@@ -109549,6 +110404,7 @@
           "bei",
           "bel",
           "belli",
+          "bellissima",
           "bellissimo",
           "bello"
         ],
@@ -110680,7 +111536,7 @@
         "gender" : "masculine",
         "note" : "Concerto, plural concerti.",
         "pos" : "noun",
-        "translation" : "concert(s)"
+        "translation" : "concert(s); concerto(s), pieces for an instrument and orchestra"
       },
       {
         "forms" : [
@@ -112386,7 +113242,7 @@
         ],
         "note" : "From fare; also used for \"ago,\" as in \"cinquant'anni fa.\"",
         "pos" : "verb",
-        "translation" : "does / makes / ago"
+        "translation" : "does / makes / ago; (fa caldo) it is warm"
       },
       {
         "forms" : [
@@ -116868,7 +117724,7 @@
         ],
         "note" : "From raccogliere.",
         "pos" : "verb",
-        "translation" : "to collect / gather"
+        "translation" : "to collect / gather; (il raccolto) the harvest"
       },
       {
         "forms" : [
@@ -118023,6 +118879,8 @@
           "seguente",
           "seguite",
           "seguito",
+          "seguiva",
+          "seguivano",
           "seguì"
         ],
         "note" : "From seguire.",
@@ -118633,6 +119491,7 @@
       {
         "forms" : [
           "speciale",
+          "speciali",
           "specialmente"
         ],
         "note" : "Speciale (adjective), specialmente (adverb).",
@@ -119732,6 +120591,7 @@
       },
       {
         "forms" : [
+          "nell'ultimo",
           "ultimo",
           "un'ultima"
         ],
@@ -120104,7 +120964,7 @@
         ],
         "note" : "A directional preposition. Anche sostantivo: «il verso 246» = the verse.",
         "pos" : "preposition",
-        "translation" : "toward"
+        "translation" : "toward; (il verso) a line of a poem"
       },
       {
         "forms" : [
@@ -122998,7 +123858,7 @@
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
-        "translation" : "to speak"
+        "translation" : "to speak; (parlano di) they are about"
       },
       {
         "forms" : [
@@ -126430,7 +127290,7 @@
         ],
         "note" : "As in the title 'Il nostro comune amico,' Our Mutual Friend.",
         "pos" : "adjective",
-        "translation" : "common, mutual"
+        "translation" : "common, mutual; (fuori dal comune) out of the ordinary"
       },
       {
         "forms" : [
@@ -128016,7 +128876,7 @@
         ],
         "note" : "From sentire/sentirsi.",
         "pos" : "verb",
-        "translation" : "feels, will feel"
+        "translation" : "to feel; to hear (sentirai = you will hear)"
       },
       {
         "forms" : [
@@ -142326,6 +143186,268 @@
         "note" : "Imperfetto of valere (to be worth): il titolo valeva 600.000 euro = the title was worth €600,000.",
         "pos" : "verb",
         "translation" : "was worth"
+      },
+      {
+        "forms" : [
+          "1725"
+        ],
+        "note" : "Millesettecentoventicinque; years take the article: nel 1725 = in 1725.",
+        "pos" : "number",
+        "translation" : "1725"
+      },
+      {
+        "forms" : [
+          "amsterdam"
+        ],
+        "gender" : "feminine",
+        "note" : "The Dutch city; cities are feminine in Italian, and a becomes ad before a vowel: ad Amsterdam.",
+        "pos" : "noun",
+        "translation" : "Amsterdam"
+      },
+      {
+        "forms" : [
+          "michel-charles"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Michel-Charles Le Cène, the Amsterdam printer of Vivaldi's concertos.",
+        "pos" : "noun",
+        "translation" : "Michel-Charles"
+      },
+      {
+        "forms" : [
+          "cène"
+        ],
+        "gender" : "masculine",
+        "note" : "Surname of Michel-Charles Le Cène; the Le is part of the name, not the Italian article.",
+        "pos" : "noun",
+        "translation" : "Le Cène"
+      },
+      {
+        "forms" : [
+          "antonio"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of the composer Antonio Vivaldi.",
+        "pos" : "noun",
+        "translation" : "Antonio"
+      },
+      {
+        "forms" : [
+          "vivaldi"
+        ],
+        "gender" : "masculine",
+        "note" : "Antonio Vivaldi, the Venetian composer of Le quattro stagioni, The Four Seasons.",
+        "pos" : "noun",
+        "translation" : "Vivaldi"
+      },
+      {
+        "forms" : [
+          "stagione",
+          "stagioni"
+        ],
+        "gender" : "feminine",
+        "note" : "Stagione, plural stagioni: le quattro stagioni = the four seasons, also the name of Vivaldi's concertos.",
+        "pos" : "noun",
+        "translation" : "season(s)"
+      },
+      {
+        "forms" : [
+          "dell'inverno",
+          "inverno",
+          "l'inverno"
+        ],
+        "gender" : "masculine",
+        "note" : "L'inverno drops the vowel of the article; dell'inverno = of winter (di + l').",
+        "pos" : "noun",
+        "translation" : "winter"
+      },
+      {
+        "forms" : [
+          "estate"
+        ],
+        "gender" : "feminine",
+        "note" : "In estate = in summer; the noun is feminine: l'estate, una bella estate.",
+        "pos" : "noun",
+        "translation" : "summer"
+      },
+      {
+        "forms" : [
+          "temporale"
+        ],
+        "gender" : "masculine",
+        "note" : "A short storm with thunder and rain; c'è un temporale = there's a storm.",
+        "pos" : "noun",
+        "translation" : "storm, thunderstorm"
+      },
+      {
+        "forms" : [
+          "ghiaccio"
+        ],
+        "gender" : "masculine",
+        "note" : "Sul ghiaccio = on the ice; camminare sul ghiaccio = to walk on ice.",
+        "pos" : "noun",
+        "translation" : "ice"
+      },
+      {
+        "forms" : [
+          "viole"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of viola: here the instrument, a little bigger and deeper than the violin. Viola is also a flower.",
+        "pos" : "noun",
+        "translation" : "violas"
+      },
+      {
+        "forms" : [
+          "violino"
+        ],
+        "gender" : "masculine",
+        "note" : "Concerti per violino = violin concertos: per says which instrument the piece is for.",
+        "pos" : "noun",
+        "translation" : "violin"
+      },
+      {
+        "forms" : [
+          "capre"
+        ],
+        "gender" : "feminine",
+        "note" : "Capra, plural capre.",
+        "pos" : "noun",
+        "translation" : "goats"
+      },
+      {
+        "forms" : [
+          "capraio"
+        ],
+        "gender" : "masculine",
+        "note" : "Someone who looks after goats, from capra, goat.",
+        "pos" : "noun",
+        "translation" : "goatherd"
+      },
+      {
+        "forms" : [
+          "abbaia",
+          "abbaiare"
+        ],
+        "note" : "Abbaiare, what a dog does: il cane abbaia = the dog barks; sentire abbaiare = to hear barking.",
+        "pos" : "verb",
+        "translation" : "to bark"
+      },
+      {
+        "forms" : [
+          "balla"
+        ],
+        "note" : "From ballare, a regular -are verb: la gente balla = people dance; gente takes a singular verb.",
+        "pos" : "verb",
+        "translation" : "dances"
+      },
+      {
+        "forms" : [
+          "balli"
+        ],
+        "gender" : "masculine",
+        "note" : "Ballo, plural balli; balli e canti = dancing and singing.",
+        "pos" : "noun",
+        "translation" : "dances, dancing"
+      },
+      {
+        "forms" : [
+          "festeggiare"
+        ],
+        "note" : "A regular -are verb, used for parties, feasts and good news; here after per = in order to.",
+        "pos" : "verb",
+        "translation" : "to celebrate"
+      },
+      {
+        "forms" : [
+          "tipografo"
+        ],
+        "gender" : "masculine",
+        "note" : "A person who prints books and music; a printing machine is a stampante.",
+        "pos" : "noun",
+        "translation" : "printer"
+      },
+      {
+        "forms" : [
+          "sonetto"
+        ],
+        "gender" : "masculine",
+        "note" : "A poem of fourteen lines, a form Italian poets made famous.",
+        "pos" : "noun",
+        "translation" : "sonnet"
+      },
+      {
+        "forms" : [
+          "particolari"
+        ],
+        "note" : "Plural of particolare; un po' particolari is a soft way to say out of the ordinary.",
+        "pos" : "adjective",
+        "translation" : "unusual, a bit special"
+      },
+      {
+        "forms" : [
+          "stavi"
+        ],
+        "note" : "Imperfect of stare; stavi + gerund says what was going on: stavi ascoltando = you were listening.",
+        "pos" : "verb",
+        "translation" : "you were (doing)"
+      },
+      {
+        "forms" : [
+          "appisola"
+        ],
+        "note" : "From appisolarsi, to nod off for a short sleep: si appisola = he dozes off.",
+        "pos" : "verb",
+        "translation" : "dozes off"
+      },
+      {
+        "forms" : [
+          "ritrovi"
+        ],
+        "note" : "From ritrovarsi: ti ritrovi = you find you have, you end up with.",
+        "pos" : "verb",
+        "translation" : "you end up with"
+      },
+      {
+        "forms" : [
+          "quest'è"
+        ],
+        "note" : "Old poetic spelling of questo è, from Winter's sonnet; today you say questo è.",
+        "pos" : "other",
+        "translation" : "this is"
+      },
+      {
+        "forms" : [
+          "l"
+        ],
+        "note" : "Old poetic short form of il, written 'l after a vowel: 'l verno = il verno, the winter.",
+        "pos" : "article",
+        "translation" : "the"
+      },
+      {
+        "forms" : [
+          "verno"
+        ],
+        "gender" : "masculine",
+        "note" : "Old poetic word for inverno: people today say inverno.",
+        "pos" : "noun",
+        "translation" : "winter"
+      },
+      {
+        "forms" : [
+          "tal"
+        ],
+        "note" : "Short form of tale; in the sonnet ma tal, che = but such that.",
+        "pos" : "adjective",
+        "translation" : "such"
+      },
+      {
+        "forms" : [
+          "apporte"
+        ],
+        "note" : "Old poetic form from apportare, to bring; today you say porta.",
+        "pos" : "verb",
+        "translation" : "brings"
       }
     ],
     "spanish" : [
@@ -144819,7 +145941,7 @@
         ],
         "note" : "Indirect object pronouns. With usted, le = to you: \"le llega por correo\" = it reaches you by post; \"¿Qué le pongo?\" = what can I get you?",
         "pos" : "pronoun",
-        "translation" : "to him/her / to them; to you (formal usted)"
+        "translation" : "to him/her / to them; to you (formal usted); in French names: Le (Le Cène)"
       },
       {
         "forms" : [
@@ -145685,9 +146807,9 @@
           "perros"
         ],
         "gender" : "masculine",
-        "note" : "Plural of perro.",
+        "note" : "Perro = dog, perros = dogs.",
         "pos" : "noun",
-        "translation" : "dogs"
+        "translation" : "dog(s)"
       },
       {
         "forms" : [
@@ -152645,7 +153767,7 @@
         ],
         "note" : "Plural of concierto.",
         "pos" : "noun",
-        "translation" : "concerts"
+        "translation" : "concert(s); concerto(s), pieces for an instrument and orchestra"
       },
       {
         "forms" : [
@@ -154301,9 +155423,9 @@
           "juntas",
           "juntos"
         ],
-        "note" : "Juntas is feminine plural.",
+        "note" : "Juntas/juntos are feminine/masculine plural; «si las juntas» uses juntar, to put together.",
         "pos" : "adverb",
-        "translation" : "together"
+        "translation" : "together; (las juntas) you put them together"
       },
       {
         "forms" : [
@@ -157032,7 +158154,7 @@
         ],
         "note" : "Forms of \"arrancar.\"",
         "pos" : "verb",
-        "translation" : "tears off; tear off"
+        "translation" : "tears off; starts (arranca con = it begins with)"
       },
       {
         "forms" : [
@@ -159388,7 +160510,7 @@
         ],
         "note" : "Forms of \"oír.\"",
         "pos" : "verb",
-        "translation" : "heard; heard (past participle)"
+        "translation" : "to hear; heard (oyó, oído)"
       },
       {
         "forms" : [
@@ -162066,9 +163188,9 @@
           "corriente"
         ],
         "gender" : "feminine",
-        "note" : "Electrical current.",
+        "note" : "Electrical current; as an adjective, ordinary, usual.",
         "pos" : "noun",
-        "translation" : "current"
+        "translation" : "current; ordinary (lo corriente, salirse de lo corriente = to be out of the ordinary)"
       },
       {
         "forms" : [
@@ -162419,7 +163541,7 @@
         ],
         "note" : "Past participle of dormir.",
         "pos" : "verb",
-        "translation" : "slept"
+        "translation" : "slept; asleep (se queda dormido = falls asleep)"
       },
       {
         "forms" : [
@@ -162579,7 +163701,7 @@
         ],
         "note" : "Present and preterite of escuchar.",
         "pos" : "verb",
-        "translation" : "listens / listened"
+        "translation" : "listens / listened; listen! (to tú)"
       },
       {
         "forms" : [
@@ -163920,7 +165042,7 @@
         ],
         "note" : "Present of salir.",
         "pos" : "verb",
-        "translation" : "comes out"
+        "translation" : "comes out; (te sale) you get, it turns out"
       },
       {
         "forms" : [
@@ -164369,7 +165491,7 @@
         ],
         "note" : "Present of venir.",
         "pos" : "verb",
-        "translation" : "comes"
+        "translation" : "comes; (viene a decir) says, more or less"
       },
       {
         "forms" : [
@@ -165406,7 +166528,7 @@
         ],
         "note" : "«Que iban a morir».",
         "pos" : "verb",
-        "translation" : "were going (they)"
+        "translation" : "were going (they); (iban con) went with, suited"
       },
       {
         "forms" : [
@@ -169288,9 +170410,9 @@
           "estación"
         ],
         "gender" : "feminine",
-        "note" : "Here the railway station; estación also means season of the year.",
+        "note" : "La estación de tren = the railway station; las cuatro estaciones = the four seasons.",
         "pos" : "noun",
-        "translation" : "station"
+        "translation" : "station; season (of the year)"
       },
       {
         "forms" : [
@@ -178062,6 +179184,305 @@
         "note" : "One of the few left in the last round; same form for a man, a woman or a city: «la ciudad nunca era finalista» = the city was never in the final.",
         "pos" : "noun",
         "translation" : "finalist, in the final"
+      },
+      {
+        "forms" : [
+          "1725"
+        ],
+        "note" : "Read «mil setecientos veinticinco»: «en 1725» = in 1725, with en and no article.",
+        "pos" : "number",
+        "translation" : "1725"
+      },
+      {
+        "forms" : [
+          "michel-charles"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of Michel-Charles Le Cène, the printer in Amsterdam; a double French name, written with a hyphen.",
+        "pos" : "noun",
+        "translation" : "Michel-Charles"
+      },
+      {
+        "forms" : [
+          "cène"
+        ],
+        "gender" : "masculine",
+        "note" : "Surname of the printer Michel-Charles Le Cène; it is French, so it keeps its grave accent.",
+        "pos" : "noun",
+        "translation" : "Le Cène"
+      },
+      {
+        "forms" : [
+          "antonio"
+        ],
+        "gender" : "masculine",
+        "note" : "First name of the composer Antonio Vivaldi, the same in Spanish and Italian.",
+        "pos" : "noun",
+        "translation" : "Antonio"
+      },
+      {
+        "forms" : [
+          "vivaldi"
+        ],
+        "gender" : "masculine",
+        "note" : "Antonio Vivaldi, the Italian composer of Las cuatro estaciones.",
+        "pos" : "noun",
+        "translation" : "Vivaldi"
+      },
+      {
+        "forms" : [
+          "ámsterdam"
+        ],
+        "gender" : "masculine",
+        "note" : "The Dutch city; Spanish writes it with an accent on the first a, and a city name takes no article.",
+        "pos" : "noun",
+        "translation" : "Amsterdam"
+      },
+      {
+        "forms" : [
+          "piezas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la pieza: here works of music, «doce piezas» = twelve pieces.",
+        "pos" : "noun",
+        "translation" : "pieces (of music)"
+      },
+      {
+        "forms" : [
+          "estaciones"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la estación: «las cuatro estaciones» = the four seasons; the singular can also mean a station.",
+        "pos" : "noun",
+        "translation" : "seasons"
+      },
+      {
+        "forms" : [
+          "imprimiendo"
+        ],
+        "note" : "Gerund of imprimir, -ir verbs take -iendo: «está imprimiendo» = he is printing.",
+        "pos" : "verb",
+        "translation" : "printing"
+      },
+      {
+        "forms" : [
+          "especiales"
+        ],
+        "note" : "Plural of especial, the same for masculine and feminine: «son especiales».",
+        "pos" : "adjective",
+        "translation" : "special"
+      },
+      {
+        "forms" : [
+          "cabras"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la cabra: «un hombre con cabras» = a man with goats.",
+        "pos" : "noun",
+        "translation" : "goats"
+      },
+      {
+        "forms" : [
+          "cabrero"
+        ],
+        "gender" : "masculine",
+        "note" : "El cabrero looks after goats, from la cabra.",
+        "pos" : "noun",
+        "translation" : "goatherd"
+      },
+      {
+        "forms" : [
+          "ladra"
+        ],
+        "note" : "Present of ladrar for él/ella: «el perro ladra» = the dog barks.",
+        "pos" : "verb",
+        "translation" : "barks"
+      },
+      {
+        "forms" : [
+          "ladrar"
+        ],
+        "note" : "Infinitive; after oír the infinitive follows: «oír ladrar al perro» = to hear the dog bark.",
+        "pos" : "verb",
+        "translation" : "to bark"
+      },
+      {
+        "forms" : [
+          "violas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la viola, a string instrument a little larger than the violin.",
+        "pos" : "noun",
+        "translation" : "violas"
+      },
+      {
+        "forms" : [
+          "baila"
+        ],
+        "note" : "Present of bailar for él/ella; la gente takes a singular verb: «la gente baila» = people dance.",
+        "pos" : "verb",
+        "translation" : "dances"
+      },
+      {
+        "forms" : [
+          "bailes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el baile: «bailes y canciones» = dancing and singing.",
+        "pos" : "noun",
+        "translation" : "dances, dancing"
+      },
+      {
+        "forms" : [
+          "canciones"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la canción, which loses its accent in the plural.",
+        "pos" : "noun",
+        "translation" : "songs"
+      },
+      {
+        "forms" : [
+          "hielo"
+        ],
+        "gender" : "masculine",
+        "note" : "El hielo: «camina sobre el hielo» = walks on the ice.",
+        "pos" : "noun",
+        "translation" : "ice"
+      },
+      {
+        "forms" : [
+          "violín"
+        ],
+        "gender" : "masculine",
+        "note" : "El violín: «conciertos para violín» = violin concertos, with para and no article.",
+        "pos" : "noun",
+        "translation" : "violin"
+      },
+      {
+        "forms" : [
+          "oías"
+        ],
+        "note" : "Imperfect of oír for tú, for what was going on: «lo que oías» = what you were hearing.",
+        "pos" : "verb",
+        "translation" : "you heard, you were hearing"
+      },
+      {
+        "forms" : [
+          "escuchas"
+        ],
+        "note" : "Present of escuchar for tú: «si escuchas» = if you listen.",
+        "pos" : "verb",
+        "translation" : "you listen"
+      },
+      {
+        "forms" : [
+          "calentito"
+        ],
+        "note" : "Calentito is caliente with a cosy -ito, the word a friend uses: «se está calentito» = it's nice and warm.",
+        "pos" : "adjective",
+        "translation" : "nice and warm"
+      },
+      {
+        "forms" : [
+          "corrientes"
+        ],
+        "note" : "Plural of the adjective corriente: «no eran nada corrientes» = they weren't ordinary at all.",
+        "pos" : "adjective",
+        "translation" : "ordinary, usual"
+      },
+      {
+        "forms" : [
+          "impresor"
+        ],
+        "gender" : "masculine",
+        "note" : "El impresor prints books or music for a living, from imprimir.",
+        "pos" : "noun",
+        "translation" : "printer (person)"
+      },
+      {
+        "forms" : [
+          "soneto"
+        ],
+        "gender" : "masculine",
+        "note" : "El soneto, a poem of fourteen lines.",
+        "pos" : "noun",
+        "translation" : "sonnet"
+      },
+      {
+        "forms" : [
+          "encajaban"
+        ],
+        "note" : "Imperfect of encajar for ellos: «encajaban con la música» = they matched the music.",
+        "pos" : "verb",
+        "translation" : "fitted, matched"
+      },
+      {
+        "forms" : [
+          "oyendo"
+        ],
+        "note" : "Gerund of oír, with y: «lo que estás oyendo» = what you're hearing.",
+        "pos" : "verb",
+        "translation" : "hearing"
+      },
+      {
+        "forms" : [
+          "oirás"
+        ],
+        "note" : "Future of oír for tú: the future is built on the infinitive, oir- + -ás.",
+        "pos" : "verb",
+        "translation" : "you'll hear"
+      },
+      {
+        "forms" : [
+          "celebrar"
+        ],
+        "note" : "Infinitive, after para: «para celebrar la cosecha» = to celebrate the harvest.",
+        "pos" : "verb",
+        "translation" : "to celebrate"
+      },
+      {
+        "forms" : [
+          "cosecha"
+        ],
+        "gender" : "feminine",
+        "note" : "La cosecha, the crops gathered at the end of the summer and in autumn.",
+        "pos" : "noun",
+        "translation" : "harvest"
+      },
+      {
+        "forms" : [
+          "placer",
+          "placeres"
+        ],
+        "gender" : "masculine",
+        "note" : "El placer, masculine although it looks like a verb; plural placeres: «tiene sus placeres» = it has its pleasures.",
+        "pos" : "noun",
+        "translation" : "pleasure"
+      },
+      {
+        "forms" : [
+          "contaba"
+        ],
+        "note" : "Imperfect of contar: «según contaba Vivaldi» = as Vivaldi used to tell it.",
+        "pos" : "verb",
+        "translation" : "told, used to say"
+      },
+      {
+        "forms" : [
+          "salían"
+        ],
+        "note" : "Imperfect of salir: «se salían de lo corriente» = they were out of the ordinary.",
+        "pos" : "verb",
+        "translation" : "stood out, went beyond"
+      },
+      {
+        "forms" : [
+          "acerca"
+        ],
+        "note" : "Present of acercar, with se: «se acerca una tormenta» = a storm is coming, a storm rolls in.",
+        "pos" : "verb",
+        "translation" : "draws near"
       }
     ]
   },
@@ -223686,6 +225107,586 @@
       "summary" : "Saragozza ci ha provato tre volte a diventare Capitale Verde d'Europa, e l'8 ottobre 2026, al quarto tentativo, ce l'ha fatta.",
       "title" : "Il quarto tentativo di Saragozza",
       "translationGroup" : "zaragozas-fourth-try"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-03",
+      "id" : "but-it-brings-joy",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Use \"there's\" (there is) with one thing and \"there are\" with more than one: there's one poem, there are twelve pieces.",
+              "example" : "There are twelve pieces, and the first four are about the seasons.",
+              "title" : "There are and there's: saying something exists"
+            },
+            {
+              "body" : "English often puts \"can\" before \"hear\" and \"see\" to say what reaches you right now. The next verb stays in its base form: you can hear, not you can hears.",
+              "example" : "In spring, you can hear birds.",
+              "title" : "Can with hear: you can hear"
+            },
+            {
+              "body" : "In the present, the verb adds -s after he, she, it or someone: someone walks, the dog barks. After I, you, we and they, it has no -s.",
+              "example" : "Then the dog barks: that's the violas!",
+              "title" : "The present with he, she, it: -s"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's 1725, and Michel-Charles Le Cène is printing Antonio Vivaldi's music in Amsterdam. There are twelve pieces, and the first four are about the seasons.",
+            "They're special, because there's one poem for each season. So the words tell you what you can hear.",
+            "In spring, you can hear birds. A man with goats sleeps next to his dog. Then the dog barks: that's the violas! In summer, there's a storm. In autumn, people dance. In winter, someone walks on ice, but there's a warm fire too.",
+            "So every season has something good, even winter. The winter poem says: this is winter, but it brings joy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (print → printed); many common verbs have their own past form (come → came, tell → told, go → went).",
+              "example" : "They were the four seasons, and each one came with a poem.",
+              "title" : "The past simple: printed, came, told"
+            },
+            {
+              "body" : "\"So\" joins a cause to its result: the lines went with the music, and because of that, the music told you what you were hearing.",
+              "example" : "The lines went with the music, so the music actually told you what you were hearing!",
+              "title" : "So for a result"
+            },
+            {
+              "body" : "\"If\" with the present says what happens every time: if you listen, you can hear it. The same is true today, so the verb isn't in the past.",
+              "example" : "If you listen, you can hear the dog bark: that's the violas.",
+              "title" : "If + present, then can"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1725, in Amsterdam, Michel-Charles Le Cène printed twelve violin concertos by Antonio Vivaldi. The first four were a bit unusual.",
+            "They were the four seasons, and each one came with a poem. The lines went with the music, so the music actually told you what you were hearing!",
+            "Spring begins with birds. Then a goatherd sleeps next to his dog. If you listen, you can hear the dog bark: that's the violas. In summer, there's a storm. In autumn, people dance and sing. In winter, someone walks on ice, but it's warm by the fire.",
+            "So every season has something good, even the hard one. The winter poem says it: this is winter, but it brings joy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After \"said\", something earlier than the saying moves to the past perfect: \"I wrote them\" → he said he'd written them. 'd here is short for \"had\".",
+              "example" : "The first four, which he said he'd written earlier, were unusual.",
+              "title" : "Reported speech with the past perfect: he'd written"
+            },
+            {
+              "body" : "\"Whose\" joins a noun to what belongs to it, and it works for things as well as people: a sonnet whose lines = a sonnet, and its lines.",
+              "example" : "They were the four seasons, each with a sonnet whose lines matched the music.",
+              "title" : "Whose: the relative word for possession"
+            },
+            {
+              "body" : "\"Thanks to\" + a noun or pronoun names the cause when the result is a good one: thanks to them = because of them.",
+              "example" : "Nobody knows who wrote those poems, but thanks to them, the music actually tells you what you're hearing.",
+              "title" : "Thanks to: the cause of something good"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1725, an Amsterdam printer named Michel-Charles Le Cène published twelve violin concertos by Antonio Vivaldi. The first four, which he said he'd written earlier, were unusual.",
+            "They were the four seasons, each with a sonnet whose lines matched the music. Nobody knows who wrote those poems, but thanks to them, the music actually tells you what you're hearing.",
+            "Spring begins with birds, and then a goatherd sleeps beside his faithful dog. If you listen closely, you'll hear the dog bark: that's the violas. In summer there's a storm, and in autumn people dance and sing to celebrate the harvest. In winter someone walks on ice, but it's warm by the fire while it rains outside.",
+            "So every season, even the hard one, has its own pleasure. That's how the winter poem ends: this is winter, but it brings joy."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "An imperative followed by \"and\" can work like \"if\": listen closely and you can hear it = if you listen closely, you can hear it. It's common in speech.",
+              "example" : "Listen closely and you can hear that dog bark: that's the violas.",
+              "title" : "Imperative + and: listen and you can hear"
+            },
+            {
+              "body" : "When a relative clause needs a preposition, it can go before \"which\": a year in which every season has its pleasure. Everyday speech often uses \"where\" instead.",
+              "example" : "Put it together and you get a year in which every season, even the hard one, has its own pleasure.",
+              "title" : "In which: a preposition before the relative"
+            },
+            {
+              "body" : "\"To say as much\" means to say roughly what was just said, without repeating it. It points back to the idea before it.",
+              "example" : "The winter sonnet says as much in its last line: this is winter, but it brings joy.",
+              "title" : "Says as much: says the same thing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1725, an Amsterdam printer named Michel-Charles Le Cène published twelve violin concertos by Antonio Vivaldi. The first four, pieces he said he'd written earlier, were out of the ordinary.",
+            "They were the four seasons, each with a sonnet whose lines matched the music. Nobody knows who wrote those poems, but they do something lovely: the music actually tells you what you're hearing.",
+            "Spring opens with birds, then a goatherd dozes off with his faithful dog beside him. Listen closely and you can hear that dog bark: that's the violas. In summer a storm rolls in, and autumn brings dancing and singing to celebrate the harvest. In winter someone crosses the ice, but you're safe by the fire, with the rain outside.",
+            "Put it together and you get a year in which every season, even the hard one, has its own pleasure.",
+            "The winter sonnet says as much in its last line: this is winter, but it brings joy."
+          ]
+        }
+      ],
+      "summary" : "In 1725, twelve concertos came out in Amsterdam, and the first four had poems that tell you what you're hearing, right down to a barking dog.",
+      "title" : "But It Brings Joy",
+      "translationGroup" : "but-it-brings-joy"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-03",
+      "id" : "but-it-brings-joy-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Il y a never changes: it means both there is and there are, with one thing or with many: il y a un poème, il y a douze morceaux.",
+              "example" : "Il y a douze morceaux, et les quatre premiers parlent des saisons.",
+              "title" : "Il y a: there is, there are"
+            },
+            {
+              "body" : "Ce que joins two parts of a sentence and means what, the thing that: ce que tu entends = what you hear. In a question, French says qu'est-ce que instead.",
+              "example" : "Alors, les mots te disent ce que tu entends.",
+              "title" : "Ce que: what"
+            },
+            {
+              "body" : "Seasons take en: en été, en automne, en hiver. Printemps starts with a consonant, so it takes au: au printemps.",
+              "example" : "En automne, les gens dansent.",
+              "title" : "En été, en hiver, but au printemps"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en 1725, à Amsterdam, et Michel-Charles Le Cène imprime la musique d'Antonio Vivaldi. Il y a douze morceaux, et les quatre premiers parlent des saisons.",
+            "Ils sont spéciaux, parce qu'il y a un poème par saison. Alors, les mots te disent ce que tu entends.",
+            "Au printemps, tu entends des oiseaux. Un homme avec des chèvres dort près de son chien. Puis le chien aboie : ce sont les altos ! En été, il y a un orage. En automne, les gens dansent. En hiver, quelqu'un marche sur la glace, mais il y a un bon feu.",
+            "Alors, chaque saison a son bon côté, même l'hiver. Le poème de l'hiver dit : c'est l'hiver, mais il apporte la joie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passé composé tells the event (a imprimé); the imparfait describes how things were (étaient, avait).",
+              "example" : "En 1725, à Amsterdam, Michel-Charles Le Cène a imprimé douze concertos pour violon d'Antonio Vivaldi.",
+              "title" : "Passé composé and imparfait together"
+            },
+            {
+              "body" : "Si with the present says what happens every time: si tu écoutes, tu peux entendre. The music is still here, so the verbs stay in the present.",
+              "example" : "Si tu écoutes bien, tu peux entendre le chien aboyer : ce sont les altos.",
+              "title" : "Si + present, then the present"
+            },
+            {
+              "body" : "Il fait + adjective talks about the weather or the air around you: il fait bon = it's pleasantly warm. Il never means a person here.",
+              "example" : "En hiver, quelqu'un marche sur la glace, mais il fait bon près du feu.",
+              "title" : "Il fait bon: it's nice and warm"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1725, à Amsterdam, Michel-Charles Le Cène a imprimé douze concertos pour violon d'Antonio Vivaldi. Les quatre premiers étaient un peu spéciaux.",
+            "C'étaient les quatre saisons, et chacun avait son poème. Les vers allaient avec la musique, du coup, la musique te disait ce que tu entendais !",
+            "Le printemps commence avec des oiseaux. Puis un chevrier dort près de son chien. Si tu écoutes bien, tu peux entendre le chien aboyer : ce sont les altos. En été, il y a un orage. En automne, les gens dansent et chantent. En hiver, quelqu'un marche sur la glace, mais il fait bon près du feu.",
+            "Alors, chaque saison a quelque chose de bon, même la plus dure. Le poème de l'hiver le dit : c'est l'hiver, mais il apporte la joie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the subject is the same, French can skip the que clause: Vivaldi disait avoir écrits = Vivaldi said he had written. Écrits agrees with que, the quatre premiers, placed before it.",
+              "example" : "Les quatre premiers, que Vivaldi disait avoir écrits plus tôt, n'étaient pas comme les autres.",
+              "title" : "Dire + avoir + participle: disait avoir écrits"
+            },
+            {
+              "body" : "Dont joins a noun to what belongs to it: un sonnet dont les vers = a sonnet whose lines. After dont, the noun keeps its article.",
+              "example" : "C'étaient les quatre saisons, chacune avec un sonnet dont les vers suivaient la musique.",
+              "title" : "Dont: whose"
+            },
+            {
+              "body" : "Grâce à + a noun or a stressed pronoun names a good cause: grâce à eux = thanks to them. For a bad cause, French says à cause de.",
+              "example" : "Personne ne sait qui a écrit ces poèmes, mais grâce à eux, la musique te dit en fait ce que tu entends.",
+              "title" : "Grâce à: thanks to"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1725, un imprimeur d'Amsterdam, Michel-Charles Le Cène, a publié douze concertos pour violon d'Antonio Vivaldi. Les quatre premiers, que Vivaldi disait avoir écrits plus tôt, n'étaient pas comme les autres.",
+            "C'étaient les quatre saisons, chacune avec un sonnet dont les vers suivaient la musique. Personne ne sait qui a écrit ces poèmes, mais grâce à eux, la musique te dit en fait ce que tu entends.",
+            "Le printemps commence avec des oiseaux, puis un chevrier dort près de son chien fidèle. Si tu écoutes bien, tu entends le chien aboyer : ce sont les altos. En été, il y a un orage, et en automne, les gens dansent et chantent pour fêter la récolte. En hiver, quelqu'un marche sur la glace, mais il fait bon près du feu pendant qu'il pleut dehors.",
+            "Alors chaque saison, même la plus dure, a ses plaisirs. C'est comme ça que finit le poème de l'hiver : c'est l'hiver, mais il apporte la joie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "An imperative followed by et can work like si: tends l'oreille et tu peux entendre = if you listen closely, you can hear. It's common in speech.",
+              "example" : "Tends l'oreille et tu peux entendre ce chien aboyer : ce sont les altos.",
+              "title" : "Imperative + et: tends l'oreille et tu peux"
+            },
+            {
+              "body" : "French uses où, not quand, after a noun of time: une année où, le jour où. English would say in which or when.",
+              "example" : "Mets tout ça bout à bout et ça donne une année où chaque saison, même la plus dure, a ses plaisirs.",
+              "title" : "Où after a time word: une année où"
+            },
+            {
+              "body" : "Ne dit pas autre chose means says the very same thing, by denying it says anything different. It points back to the idea just before it.",
+              "example" : "Le sonnet de l'hiver ne dit pas autre chose dans son dernier vers : c'est l'hiver, mais il apporte la joie.",
+              "title" : "Ne pas dire autre chose: to say the same thing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1725, un imprimeur d'Amsterdam, Michel-Charles Le Cène, a publié douze concertos pour violon d'Antonio Vivaldi. Les quatre premiers, des pièces que le compositeur disait avoir écrites plus tôt, sortaient de l'ordinaire.",
+            "C'étaient les quatre saisons, chacune avec un sonnet dont les vers collaient à la musique. Personne ne sait qui a écrit ces poèmes, mais l'effet est joli : la musique te dit carrément ce que tu entends.",
+            "Le printemps s'ouvre sur des oiseaux, puis un chevrier s'assoupit, son chien fidèle à ses côtés. Tends l'oreille et tu peux entendre ce chien aboyer : ce sont les altos. En été, un orage se lève, et l'automne amène les danses et les chants pour fêter la récolte. En hiver, quelqu'un s'aventure sur la glace, mais toi, tu es à l'abri près du feu, avec la pluie dehors.",
+            "Mets tout ça bout à bout et ça donne une année où chaque saison, même la plus dure, a ses plaisirs.",
+            "Le sonnet de l'hiver ne dit pas autre chose dans son dernier vers : c'est l'hiver, mais il apporte la joie."
+          ]
+        }
+      ],
+      "summary" : "En 1725, douze concertos sont sortis à Amsterdam, et les quatre premiers avaient des poèmes qui te disent ce que tu entends, jusqu'au chien qui aboie.",
+      "title" : "Mais il apporte la joie",
+      "translationGroup" : "but-it-brings-joy"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-03",
+      "id" : "but-it-brings-joy-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "In a German sentence the verb stays in second place, even when something else opens it. After Dann or Im Herbst, the subject moves behind the verb: Dann bellt der Hund.",
+              "example" : "Im Herbst tanzen die Leute.",
+              "title" : "The verb comes second"
+            },
+            {
+              "body" : "Denn joins two main clauses, so the verb keeps its usual place after the subject. Weil would send it to the end.",
+              "example" : "Die sind besonders, denn jede Jahreszeit hat ein Gedicht.",
+              "title" : "Denn: because, verb stays second"
+            },
+            {
+              "body" : "With du, the verb ends in -st: du hörst. When the sentence opens with something else, du moves behind the verb: Im Frühling hörst du Vögel.",
+              "example" : "Im Frühling hörst du Vögel.",
+              "title" : "The du form: -st"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist 1725, und Michel-Charles Le Cène druckt in Amsterdam Musik von Antonio Vivaldi. Es sind zwölf Stücke, und die ersten vier erzählen von den Jahreszeiten.",
+            "Die sind besonders, denn jede Jahreszeit hat ein Gedicht. So sagen dir die Gedichte, was du hörst.",
+            "Im Frühling hörst du Vögel. Ein Mann mit Ziegen schläft neben seinem Hund. Dann bellt der Hund: Das sind die Bratschen! Im Sommer kommt ein Sturm. Im Herbst tanzen die Leute. Im Winter geht jemand übers Eis, aber das Feuer ist warm.",
+            "Also hat jede Jahreszeit etwas Gutes, auch der Winter. Das Wintergedicht sagt: Das ist der Winter, aber er bringt Freude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is haben + the past participle at the end of the clause. Regular verbs make it with ge- and -t: drucken → gedruckt, passen → gepasst.",
+              "example" : "1725 hat Michel-Charles Le Cène in Amsterdam zwölf Violinkonzerte von Antonio Vivaldi gedruckt.",
+              "title" : "Perfekt: hat gedruckt, haben gepasst"
+            },
+            {
+              "body" : "Anfangen (to begin) splits in a main clause: the verb stays second and an goes to the very end.",
+              "example" : "Der Frühling fängt mit Vögeln an.",
+              "title" : "Separable verbs: fängt … an"
+            },
+            {
+              "body" : "After wenn (if, when) the verb goes to the end of its clause, and the next clause starts with its verb: Wenn du zuhörst, hörst du …",
+              "example" : "Wenn du zuhörst, hörst du den Hund bellen: Das sind die Bratschen.",
+              "title" : "Wenn sends the verb to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1725 hat Michel-Charles Le Cène in Amsterdam zwölf Violinkonzerte von Antonio Vivaldi gedruckt. Die ersten vier waren ein bisschen ungewöhnlich.",
+            "Das waren die vier Jahreszeiten, und zu jeder gab es ein Gedicht. Die Verse haben zur Musik gepasst, also sagt dir die Musik eigentlich, was du gerade hörst!",
+            "Der Frühling fängt mit Vögeln an. Dann schläft ein Ziegenhirt neben seinem Hund. Wenn du zuhörst, hörst du den Hund bellen: Das sind die Bratschen. Im Sommer kommt ein Sturm. Im Herbst tanzen und singen die Leute. Im Winter geht jemand übers Eis, aber am Feuer ist es warm.",
+            "Also hat jede Jahreszeit etwas Gutes, auch die harte. Das Wintergedicht sagt es so: Das ist der Winter, aber er bringt Freude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Hatte + past participle puts one past event before another: the writing came before the saying. After dass, hatte goes to the very end.",
+              "example" : "Vivaldi hat gesagt, dass er die ersten vier früher geschrieben hatte.",
+              "title" : "Plusquamperfekt after dass: geschrieben hatte"
+            },
+            {
+              "body" : "Dessen is the relative word for whose after a masculine or neuter noun, here das Sonett. It doesn't change with the noun after it: dessen Verse = whose lines.",
+              "example" : "Das waren die Jahreszeiten, jede mit einem Sonett, dessen Verse zur Musik gepasst haben.",
+              "title" : "Dessen: whose"
+            },
+            {
+              "body" : "Um + zu + infinitive says what something is for, with the same subject as the main clause: sie tanzen, um die Ernte zu feiern = they dance to celebrate the harvest.",
+              "example" : "Im Sommer kommt ein Sturm, im Herbst tanzen und singen die Leute, um die Ernte zu feiern.",
+              "title" : "Um … zu: in order to"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1725 hat der Amsterdamer Drucker Michel-Charles Le Cène zwölf Violinkonzerte von Antonio Vivaldi herausgebracht. Vivaldi hat gesagt, dass er die ersten vier früher geschrieben hatte. Die waren ungewöhnlich.",
+            "Das waren die Jahreszeiten, jede mit einem Sonett, dessen Verse zur Musik gepasst haben. Wer die Gedichte geschrieben hat, weiß niemand, aber dank ihnen sagt dir die Musik, was du hörst.",
+            "Der Frühling fängt mit Vögeln an, dann schläft ein Ziegenhirt neben seinem treuen Hund. Wenn du genau hinhörst, hörst du den Hund bellen: Das sind die Bratschen. Im Sommer kommt ein Sturm, im Herbst tanzen und singen die Leute, um die Ernte zu feiern. Im Winter geht jemand übers Eis, aber am Feuer ist es warm, während es draußen regnet.",
+            "Jede Jahreszeit, auch die harte, hat ihre eigenen Freuden. So endet das Wintergedicht: Das ist der Winter, aber er bringt Freude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Aus dem Rahmen fallen means not fitting the usual pattern; literally, falling out of the frame. Fallen takes sein in the Perfekt: sind gefallen.",
+              "example" : "Die ersten vier, die Vivaldi nach eigenen Worten früher geschrieben hatte, sind aus dem Rahmen gefallen.",
+              "title" : "Aus dem Rahmen fallen: out of the ordinary"
+            },
+            {
+              "body" : "Wird + past participle can name an activity without saying who does it. Spoken German likes this for what's going on at a party or a festival: im Herbst wird getanzt = in autumn there's dancing.",
+              "example" : "Im Sommer zieht ein Sturm auf, und im Herbst wird getanzt und gesungen, um die Ernte zu feiern.",
+              "title" : "Passive with no subject: es wird getanzt"
+            },
+            {
+              "body" : "An imperative followed by dann can work like wenn: hör genau hin, dann hörst du es = if you listen closely, you'll hear it. It's common in speech.",
+              "example" : "Hör genau hin, dann hörst du diesen Hund bellen: Das sind die Bratschen.",
+              "title" : "Imperative + dann: hör hin, dann hörst du"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1725 hat ein Amsterdamer Drucker namens Michel-Charles Le Cène zwölf Violinkonzerte von Antonio Vivaldi herausgebracht. Die ersten vier, die Vivaldi nach eigenen Worten früher geschrieben hatte, sind aus dem Rahmen gefallen.",
+            "Das waren die vier Jahreszeiten, jede mit einem Sonett, dessen Verse zur Musik gepasst haben. Wer die Gedichte geschrieben hat, weiß niemand, aber sie schaffen etwas Wunderbares: Die Musik sagt dir, was du hörst.",
+            "Der Frühling beginnt mit Vögeln, dann nickt ein Ziegenhirt ein, seinen treuen Hund neben sich. Hör genau hin, dann hörst du diesen Hund bellen: Das sind die Bratschen. Im Sommer zieht ein Sturm auf, und im Herbst wird getanzt und gesungen, um die Ernte zu feiern. Im Winter geht jemand übers Eis, aber am Feuer bist du geborgen, während es draußen regnet.",
+            "Zusammen ergibt das ein Jahr, in dem jede Jahreszeit, auch die harte, ihre eigenen Freuden hat.",
+            "Genau das sagt das Wintersonett im letzten Vers: Das ist der Winter, aber er bringt Freude."
+          ]
+        }
+      ],
+      "summary" : "1725 sind in Amsterdam zwölf Konzerte herausgekommen, und zu den ersten vier gab es Gedichte, die dir sagen, was du gerade hörst, sogar einen bellenden Hund.",
+      "title" : "Aber er bringt Freude",
+      "translationGroup" : "but-it-brings-joy"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-03",
+      "id" : "but-it-brings-joy-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Hay is one word for both singular and plural, and it says that something exists: hay un poema, hay una tormenta.",
+              "example" : "En verano, hay una tormenta.",
+              "title" : "Hay: there is, there are"
+            },
+            {
+              "body" : "Poder is followed by the infinitive, with no word between them: puedes oír = you can hear. Only poder changes: puedo, puedes, puede.",
+              "example" : "En primavera, puedes oír pájaros.",
+              "title" : "Poder + infinitive: puedes oír"
+            },
+            {
+              "body" : "Estar + gerund says what is going on right now. -ar verbs take -ando, -er and -ir verbs take -iendo: imprimir → imprimiendo.",
+              "example" : "Estamos en 1725, y Michel-Charles Le Cène está imprimiendo la música de Antonio Vivaldi en Ámsterdam.",
+              "title" : "Estar + gerund: está imprimiendo"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en 1725, y Michel-Charles Le Cène está imprimiendo la música de Antonio Vivaldi en Ámsterdam. Son doce piezas, y las cuatro primeras hablan de las estaciones.",
+            "Son especiales, porque hay un poema para cada estación. Así que las palabras te dicen lo que puedes oír.",
+            "En primavera, puedes oír pájaros. Un hombre con cabras duerme junto a su perro. Entonces el perro ladra: ¡son las violas! En verano, hay una tormenta. En otoño, la gente baila. En invierno, alguien camina sobre el hielo, pero también hay un buen fuego.",
+            "Por eso cada estación tiene algo bueno, hasta el invierno. El poema del invierno lo dice: esto es el invierno, pero trae alegría."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito tells the event: imprimió, he printed. The imperfect describes how things were around it: eran, venía, iban.",
+              "example" : "Eran las cuatro estaciones, y cada una venía con un poema.",
+              "title" : "Pretérito and imperfect together"
+            },
+            {
+              "body" : "Así que joins a cause to its result, and the verb after it stays in the normal indicative: así que la música te decía…",
+              "example" : "Los versos iban con la música, ¡así que la música te decía de verdad lo que oías!",
+              "title" : "Así que: so, for a result"
+            },
+            {
+              "body" : "Si with the present says what happens every time: si escuchas, puedes oír. It is still true today, so the verbs are not in the past.",
+              "example" : "Si escuchas, puedes oír ladrar al perro: son las violas.",
+              "title" : "Si + present, then poder"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1725, en Ámsterdam, Michel-Charles Le Cène imprimió doce conciertos para violín de Antonio Vivaldi. Los cuatro primeros eran un poco diferentes.",
+            "Eran las cuatro estaciones, y cada una venía con un poema. Los versos iban con la música, ¡así que la música te decía de verdad lo que oías!",
+            "La primavera empieza con pájaros. Luego un cabrero duerme junto a su perro. Si escuchas, puedes oír ladrar al perro: son las violas. En verano hay una tormenta. En otoño la gente baila y canta. En invierno alguien camina sobre el hielo, pero junto al fuego se está calentito.",
+            "Así que cada estación tiene algo bueno, hasta la más dura. El poema del invierno lo dice: esto es el invierno, pero trae alegría."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After dijo que, something earlier than the saying goes into the pluscuamperfecto: «los escribí» → dijo que los había escrito.",
+              "example" : "Los cuatro primeros no eran nada corrientes, y Vivaldi dijo que los había escrito antes.",
+              "title" : "Reported speech: dijo que había escrito"
+            },
+            {
+              "body" : "Gracias a + a noun or pronoun names the cause when the result is a good one: gracias a ellos = thanks to them, with the stressed pronoun ellos.",
+              "example" : "Nadie sabe quién escribió esos poemas, pero gracias a ellos la música te dice de verdad lo que estás oyendo.",
+              "title" : "Gracias a: the cause of something good"
+            },
+            {
+              "body" : "Si takes the present and the result goes in the future: si escuchas…, oirás. Never the future after si: not «si escucharás».",
+              "example" : "Si escuchas con atención, oirás ladrar al perro: son las violas.",
+              "title" : "Si + present, then the future"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1725, un impresor de Ámsterdam llamado Michel-Charles Le Cène publicó doce conciertos para violín de Antonio Vivaldi. Los cuatro primeros no eran nada corrientes, y Vivaldi dijo que los había escrito antes.",
+            "Eran las cuatro estaciones, cada una con un soneto, y sus versos encajaban con la música. Nadie sabe quién escribió esos poemas, pero gracias a ellos la música te dice de verdad lo que estás oyendo.",
+            "La primavera empieza con pájaros, y luego un cabrero duerme junto a su fiel perro. Si escuchas con atención, oirás ladrar al perro: son las violas. En verano hay una tormenta, y en otoño la gente baila y canta para celebrar la cosecha. En invierno alguien camina sobre el hielo, pero junto al fuego se está calentito mientras fuera llueve.",
+            "Por eso cada estación, hasta la más dura, tiene sus placeres. Y así termina el poema del invierno: esto es el invierno, pero trae alegría."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "An imperative followed by y can work like si: escucha y oirás = if you listen, you'll hear. It's common in speech.",
+              "example" : "Escucha con atención y oirás ladrar a ese perro: son las violas.",
+              "title" : "Imperative + y: escucha y oirás"
+            },
+            {
+              "body" : "When a relative clause needs a preposition, it goes before el que, which agrees with the noun: un año en el que, una estación en la que.",
+              "example" : "Si lo juntas todo, te sale un año en el que cada estación, hasta la más dura, tiene sus placeres.",
+              "title" : "En el que: a preposition before the relative"
+            },
+            {
+              "body" : "Venir a + decir softens the verb: viene a decir lo mismo = it says more or less the same thing, in other words.",
+              "example" : "El soneto del invierno viene a decir lo mismo en su último verso: esto es el invierno, pero trae alegría.",
+              "title" : "Venir a decir: to say roughly"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1725, un impresor de Ámsterdam llamado Michel-Charles Le Cène publicó doce conciertos para violín de Antonio Vivaldi. Los cuatro primeros, que según Vivaldi ya tenía escritos de antes, se salían de lo corriente.",
+            "Eran las cuatro estaciones, cada una con un soneto que iba verso a verso con la música. Nadie sabe quién escribió esos poemas, pero consiguen algo precioso: la música te dice de verdad lo que estás oyendo.",
+            "La primavera arranca con pájaros, y luego un cabrero se queda dormido con su fiel perro al lado. Escucha con atención y oirás ladrar a ese perro: son las violas. En verano se acerca una tormenta, y el otoño trae bailes y canciones para celebrar la cosecha. En invierno alguien cruza el hielo, pero tú estás a salvo junto al fuego, con la lluvia ahí fuera.",
+            "Si lo juntas todo, te sale un año en el que cada estación, hasta la más dura, tiene sus placeres.",
+            "El soneto del invierno viene a decir lo mismo en su último verso: esto es el invierno, pero trae alegría."
+          ]
+        }
+      ],
+      "summary" : "En 1725 salieron en Ámsterdam doce conciertos, y los cuatro primeros traían poemas que te dicen lo que estás oyendo, hasta un perro que ladra.",
+      "title" : "Pero trae alegría",
+      "translationGroup" : "but-it-brings-joy"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-03",
+      "id" : "but-it-brings-joy-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "C'è (ci + è) says that one thing exists or is there; with more than one thing it becomes ci sono.",
+              "example" : "In estate c'è un temporale.",
+              "title" : "C'è: saying something exists"
+            },
+            {
+              "body" : "Potere is followed directly by an infinitive, with no word between them: puoi sentire = you can hear.",
+              "example" : "In primavera puoi sentire gli uccelli.",
+              "title" : "Potere + infinitive: puoi sentire"
+            },
+            {
+              "body" : "Italian normally keeps the article before a possessive: il suo cane. After a it joins up: a + il = al.",
+              "example" : "Un uomo con le capre dorme accanto al suo cane.",
+              "title" : "The article before suo: al suo cane"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo nel 1725, ad Amsterdam, e Michel-Charles Le Cène stampa la musica di Antonio Vivaldi. Sono dodici pezzi, e i primi quattro parlano delle stagioni.",
+            "Questi quattro sono speciali, perché c'è una poesia per ogni stagione. Così le parole ti dicono che cosa puoi sentire.",
+            "In primavera puoi sentire gli uccelli. Un uomo con le capre dorme accanto al suo cane. Poi il cane abbaia: sono le viole! In estate c'è un temporale. In autunno la gente balla. In inverno qualcuno cammina sul ghiaccio, ma c'è anche un bel fuoco caldo.",
+            "Quindi ogni stagione ha qualcosa di bello, anche l'inverno. La poesia dell'inverno lo dice: questo è l'inverno, ma porta gioia."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avere + past participle tells what happened once, and it's the past people use when they talk: stampare → ha stampato.",
+              "example" : "Nel 1725, ad Amsterdam, Michel-Charles Le Cène ha stampato dodici concerti per violino di Antonio Vivaldi.",
+              "title" : "Passato prossimo for the event: ha stampato"
+            },
+            {
+              "body" : "The imperfetto describes how things were, without telling an event: erano le quattro stagioni = they were the four seasons.",
+              "example" : "Erano le quattro stagioni, e ognuna aveva la sua poesia.",
+              "title" : "Imperfetto for description: erano, aveva"
+            },
+            {
+              "body" : "Se with the present says what happens each time, and the second verb stays in the present too: se ascolti, puoi sentire.",
+              "example" : "Se ascolti, puoi sentire abbaiare il cane: sono le viole.",
+              "title" : "Se + present: se ascolti"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1725, ad Amsterdam, Michel-Charles Le Cène ha stampato dodici concerti per violino di Antonio Vivaldi. I primi quattro erano un po' particolari.",
+            "Erano le quattro stagioni, e ognuna aveva la sua poesia. I versi seguivano la musica, quindi la musica ti diceva proprio che cosa stavi ascoltando!",
+            "La primavera comincia con gli uccelli. Poi un capraio dorme accanto al suo cane. Se ascolti, puoi sentire abbaiare il cane: sono le viole. In estate c'è un temporale. In autunno la gente balla e canta. In inverno qualcuno cammina sul ghiaccio, ma vicino al fuoco fa caldo.",
+            "Quindi ogni stagione ha qualcosa di bello, anche quella dura. La poesia dell'inverno lo dice: questo è l'inverno, ma porta gioia."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the same person says and does, Italian uses di + aver + past participle for something earlier than the saying: ha detto di aver scritto = he said he had written.",
+              "example" : "I primi quattro, che Vivaldi ha detto di aver scritto tempo prima, erano diversi dal solito.",
+              "title" : "Dire di + past infinitive: ha detto di aver scritto"
+            },
+            {
+              "body" : "Grazie a + a noun or pronoun names a good cause; after it, people use the stressed pronouns: grazie a loro = thanks to them.",
+              "example" : "Nessuno sa chi ha scritto quelle poesie, ma grazie a loro la musica ti dice proprio che cosa stai ascoltando.",
+              "title" : "Grazie a: the cause of something good"
+            },
+            {
+              "body" : "Si + a verb in the third person speaks of people in general, with no named subject: si sta al caldo = you're warm, it's warm there.",
+              "example" : "In inverno qualcuno cammina sul ghiaccio, ma vicino al fuoco si sta al caldo mentre fuori piove.",
+              "title" : "Si sta: the impersonal si"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1725 un tipografo di Amsterdam, Michel-Charles Le Cène, ha pubblicato dodici concerti per violino di Antonio Vivaldi. I primi quattro, che Vivaldi ha detto di aver scritto tempo prima, erano diversi dal solito.",
+            "Erano le quattro stagioni, ognuna con un sonetto che seguiva la musica verso per verso. Nessuno sa chi ha scritto quelle poesie, ma grazie a loro la musica ti dice proprio che cosa stai ascoltando.",
+            "La primavera comincia con gli uccelli, e poi un capraio dorme accanto al suo cane fedele. Se ascolti bene, sentirai abbaiare il cane: sono le viole. In estate c'è un temporale, e in autunno la gente balla e canta per festeggiare il raccolto. In inverno qualcuno cammina sul ghiaccio, ma vicino al fuoco si sta al caldo mentre fuori piove.",
+            "Quindi ogni stagione, anche quella dura, ha il suo piacere. Il sonetto dell'inverno finisce proprio così: «Quest'è 'l verno, ma tal, che gioia apporte», cioè questo è l'inverno, ma porta gioia."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For \"whose\", Italian puts the article, then cui, then the noun, and the article agrees with the noun: un sonetto i cui versi = a sonnet whose lines.",
+              "example" : "Erano le quattro stagioni, ognuna con un sonetto i cui versi seguivano la musica.",
+              "title" : "Il cui + noun: whose"
+            },
+            {
+              "body" : "After a negative like nessuno sa, an indirect question often takes the subjunctive: chi abbia scritto. In relaxed speech chi ha scritto is fine too.",
+              "example" : "Nessuno sa chi abbia scritto quelle poesie, ma fanno una cosa bellissima: la musica ti dice proprio che cosa stai ascoltando.",
+              "title" : "Subjunctive after nessuno sa chi"
+            },
+            {
+              "body" : "Spoken Italian often says the pronoun first and adds the noun at the end, which puts weight on it: lo senti abbaiare, quel cane.",
+              "example" : "Ascolta bene e lo senti abbaiare, quel cane: sono le viole.",
+              "title" : "Lo senti, quel cane: naming the object afterwards"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1725 un tipografo di Amsterdam, Michel-Charles Le Cène, ha pubblicato dodici concerti per violino di Antonio Vivaldi. I primi quattro, pezzi che Vivaldi ha detto di aver scritto tempo prima, erano fuori dal comune.",
+            "Erano le quattro stagioni, ognuna con un sonetto i cui versi seguivano la musica. Nessuno sa chi abbia scritto quelle poesie, ma fanno una cosa bellissima: la musica ti dice proprio che cosa stai ascoltando.",
+            "La primavera si apre con gli uccelli, poi un capraio si appisola con il suo cane fedele accanto. Ascolta bene e lo senti abbaiare, quel cane: sono le viole. In estate arriva un temporale, e l'autunno porta balli e canti per festeggiare il raccolto. In inverno qualcuno attraversa il ghiaccio, ma tu sei al sicuro vicino al fuoco, mentre fuori piove.",
+            "Metti tutto insieme e ti ritrovi un anno in cui ogni stagione, anche quella dura, ha il suo piacere.",
+            "Il sonetto dell'inverno lo dice nell'ultimo verso: «Quest'è 'l verno, ma tal, che gioia apporte», cioè questo è l'inverno, ma porta gioia."
+          ]
+        }
+      ],
+      "summary" : "Nel 1725, ad Amsterdam, sono usciti dodici concerti, e i primi quattro avevano poesie che ti dicono che cosa stai ascoltando, persino un cane che abbaia.",
+      "title" : "Ma porta gioia",
+      "translationGroup" : "but-it-brings-joy"
     }
   ]
 }
