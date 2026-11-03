@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 27,
-  "generatedAt" : "2026-11-03",
+  "contentVersion" : 28,
+  "generatedAt" : "2026-11-04",
   "glossary" : {
     "english" : [
       {
@@ -101,7 +101,7 @@
         ],
         "note" : "Used often in the recipes.",
         "pos" : "verb",
-        "translation" : "to put something in with something else"
+        "translation" : "to put something in with something else; (she added) said or wrote next"
       },
       {
         "forms" : [
@@ -2764,7 +2764,7 @@
         ],
         "note" : "One of the most flexible English verbs.",
         "pos" : "verb",
-        "translation" : "to obtain, to become"
+        "translation" : "to obtain, to become; (get up) to get out of bed"
       },
       {
         "forms" : [
@@ -2775,7 +2775,7 @@
         ],
         "note" : "Forms of \"give.\" \"Give up\" = stop having or doing something, go without: \"gives up bread and pasta\".",
         "pos" : "verb",
-        "translation" : "to hand something to someone; (give up) to go without"
+        "translation" : "to hand something to someone; (give up) to go without; (give a room five minutes) to spend time on"
       },
       {
         "forms" : [
@@ -3171,7 +3171,7 @@
         ],
         "note" : "A home.",
         "pos" : "noun",
-        "translation" : "a building people live in"
+        "translation" : "a building people live in; (house surgeon) a hospital's live-in doctor"
       },
       {
         "forms" : [
@@ -3518,7 +3518,7 @@
         ],
         "note" : "\"Kept\" is the past tense.",
         "pos" : "verb",
-        "translation" : "to continue having or doing"
+        "translation" : "to continue having or doing; to stay or make (keep warm, keep the air pure)"
       },
       {
         "forms" : [
@@ -5781,9 +5781,9 @@
         "forms" : [
           "shut"
         ],
-        "note" : "As in \"passes sealed shut.\"",
-        "pos" : "adjective",
-        "translation" : "closed"
+        "note" : "Shut is an adjective and a verb (shut, shut, shut): passes sealed shut; the doctors shut the windows.",
+        "pos" : "other",
+        "translation" : "closed; to close (shut the windows)"
       },
       {
         "forms" : [
@@ -14046,9 +14046,9 @@
           "patient",
           "patiently"
         ],
-        "note" : "Adverb form is \"patiently.\"",
+        "note" : "Adverb form is \"patiently\". As a noun, a patient is someone in a doctor's care.",
         "pos" : "adjective",
-        "translation" : "able to wait calmly; in a patient way"
+        "translation" : "able to wait calmly; in a patient way; (a patient) a sick person a doctor or nurse looks after"
       },
       {
         "forms" : [
@@ -15231,7 +15231,8 @@
       },
       {
         "forms" : [
-          "window"
+          "window",
+          "windows"
         ],
         "note" : "Lets in light.",
         "pos" : "noun",
@@ -18611,7 +18612,7 @@
         ],
         "note" : "Fresh bread is the wrong bread for this recipe.",
         "pos" : "adjective",
-        "translation" : "recently made; not old"
+        "translation" : "recently made; not old; (fresh air) clean, cool air from outside"
       },
       {
         "forms" : [
@@ -28961,6 +28962,144 @@
         "note" : "You celebrate a birthday, a win or a good harvest.",
         "pos" : "verb",
         "translation" : "to do something special because of a happy event"
+      },
+      {
+        "forms" : [
+          "1859"
+        ],
+        "note" : "Said \"eighteen fifty-nine\": the year Florence Nightingale's book on nursing came out in London.",
+        "pos" : "number",
+        "translation" : "1859"
+      },
+      {
+        "forms" : [
+          "florence",
+          "nightingale"
+        ],
+        "note" : "The nurse who wrote Notes on Nursing in London in 1859; a nightingale is also a small bird that sings at night.",
+        "pos" : "noun",
+        "translation" : "Florence Nightingale (an English nurse)"
+      },
+      {
+        "forms" : [
+          "crimean"
+        ],
+        "note" : "The Crimean War made Florence Nightingale famous before her book; say cry-MEE-un.",
+        "pos" : "adjective",
+        "translation" : "of the Crimea, a piece of land in the Black Sea"
+      },
+      {
+        "forms" : [
+          "backs"
+        ],
+        "note" : "Turn your back = turn away from something; behind someone's back = when they can't see what you do.",
+        "pos" : "noun",
+        "translation" : "the part of the body from the neck down to the bottom, behind you"
+      },
+      {
+        "forms" : [
+          "surgeon"
+        ],
+        "note" : "In Nightingale's time, a house surgeon was a junior doctor who lived at the hospital; say SUR-jun.",
+        "pos" : "noun",
+        "translation" : "a doctor who does operations"
+      },
+      {
+        "forms" : [
+          "rounds"
+        ],
+        "note" : "Doctors \"do their rounds\" or are \"on their rounds\": they go from bed to bed.",
+        "pos" : "noun",
+        "translation" : "(on their rounds) a doctor's regular visit to each patient on a ward"
+      },
+      {
+        "forms" : [
+          "caring"
+        ],
+        "note" : "The -ing form of care; care for someone = look after them, care about something = think it matters.",
+        "pos" : "verb",
+        "translation" : "(caring for) looking after someone who needs help"
+      },
+      {
+        "forms" : [
+          "pure"
+        ],
+        "note" : "Pure air, pure water: nothing bad in it; as pure as = just as clean as.",
+        "pos" : "adjective",
+        "translation" : "clean, with nothing else mixed in"
+      },
+      {
+        "forms" : [
+          "blankets"
+        ],
+        "note" : "Plural of blanket; you sleep under blankets to stay warm.",
+        "pos" : "noun",
+        "translation" : "warm covers for a bed"
+      },
+      {
+        "forms" : [
+          "chilling"
+        ],
+        "note" : "The -ing form of chill; without chilling them = without letting them get cold.",
+        "pos" : "verb",
+        "translation" : "making someone or something cold"
+      },
+      {
+        "forms" : [
+          "germans"
+        ],
+        "note" : "Plural of German; nationality words take a capital letter in English.",
+        "pos" : "noun",
+        "translation" : "people from Germany"
+      },
+      {
+        "forms" : [
+          "stoßlüften"
+        ],
+        "note" : "A German word: Stoß = a short push, lüften = to let air in; say SHTOHSS-lewf-ten.",
+        "pos" : "noun",
+        "translation" : "airing a room by opening the window wide for a few minutes (German)"
+      },
+      {
+        "forms" : [
+          "tilted",
+          "tilting"
+        ],
+        "note" : "Many windows in Germany can tilt: the top leans in and only a little air gets through.",
+        "pos" : "verb",
+        "translation" : "leaning to one side; (a window) opened just a little at the top"
+      },
+      {
+        "forms" : [
+          "slim"
+        ],
+        "note" : "Said of people and things: a slim book is a short one.",
+        "pos" : "adjective",
+        "translation" : "thin; (a book) with not many pages"
+      },
+      {
+        "forms" : [
+          "someone's"
+        ],
+        "note" : "Someone + 's: someone's health = the health of some person.",
+        "pos" : "pronoun",
+        "translation" : "belonging to a person, not named"
+      },
+      {
+        "forms" : [
+          "bathroom"
+        ],
+        "note" : "In British English a bathroom often has a toilet too; in American English, \"bathroom\" can also mean just the toilet.",
+        "pos" : "noun",
+        "translation" : "a room with a bath or shower and a washbasin"
+      },
+      {
+        "forms" : [
+          "hot-water"
+        ],
+        "note" : "Hot + water, joined with a hyphen before \"bottle\"; Nightingale herself just wrote \"hot bottles\".",
+        "pos" : "adjective",
+        "translation" : "(a hot-water bottle) a rubber bottle you fill with hot water to warm a bed"
       }
     ],
     "french" : [
@@ -29063,7 +29202,7 @@
         ],
         "note" : "From compter (to count). \"Ce qui compte\" = \"what matters.\"",
         "pos" : "verb",
-        "translation" : "matters, counts"
+        "translation" : "matters, counts; (compte cinq minutes) allow, reckon on"
       },
       {
         "forms" : [
@@ -29197,7 +29336,7 @@
         "gender" : "masculine",
         "note" : "Describes size. Agrees with the noun: grand (masc.) / grande (fem.).",
         "pos" : "adjective",
-        "translation" : "big, large"
+        "translation" : "big, large; (ouvre grand) wide open"
       },
       {
         "forms" : [
@@ -29465,7 +29604,7 @@
         "gender" : "masculine",
         "note" : "\"Tout le reste\" = \"all the rest\"; in the plural, \"les restes\" = leftovers, the food left over from a meal. « Reste » is also a form of rester (to stay, to remain): « la promenade reste aux femmes » = still belongs to the women; « il reste cinq baleines » = there are five whales left.",
         "pos" : "noun",
-        "translation" : "rest, remainder; (les restes) leftovers; (il reste) stays, remains"
+        "translation" : "rest, remainder; (les restes) leftovers; (il reste) stays, remains; (reste au chaud!) stay warm!"
       },
       {
         "forms" : [
@@ -30151,7 +30290,7 @@
         ],
         "note" : "A very common adverb; « bien plus difficile » = much more difficult.",
         "pos" : "adverb",
-        "translation" : "well; (bien plus) much"
+        "translation" : "well; (bien plus) much; (bien chaud) nice and warm"
       },
       {
         "forms" : [
@@ -31533,7 +31672,7 @@
         "gender" : "feminine",
         "note" : "As in \"une fois\" (one time) or \"plus d'une fois\" (more than once).",
         "pos" : "noun",
-        "translation" : "time(s)"
+        "translation" : "time(s); (une fois + noun) once"
       },
       {
         "forms" : [
@@ -32324,7 +32463,7 @@
         ],
         "note" : "Same form for masculine and feminine.",
         "pos" : "adjective",
-        "translation" : "sick"
+        "translation" : "sick; (le malade) a sick person, the patient"
       },
       {
         "forms" : [
@@ -32816,7 +32955,7 @@
         ],
         "note" : "\"Ouvert\" is the past participle, \"ouvrir\" the infinitive.",
         "pos" : "verb",
-        "translation" : "opened / to open"
+        "translation" : "opened / to open; opens; open! (to tu)"
       },
       {
         "forms" : [
@@ -32861,7 +33000,7 @@
         ],
         "note" : "\"Par-ci, par-là\" means \"here and there.\"",
         "pos" : "preposition",
-        "translation" : "by, through"
+        "translation" : "by, through; (par jour) a day, per day"
       },
       {
         "forms" : [
@@ -42027,7 +42166,7 @@
         ],
         "note" : "\"Dès le quatrième cycle\" = as early as the fourth round.",
         "pos" : "preposition",
-        "translation" : "from, as early as"
+        "translation" : "from, as early as; (dès que) as soon as"
       },
       {
         "forms" : [
@@ -42848,7 +42987,7 @@
         ],
         "note" : "\"L'horloge interne\" = the internal (body) clock.",
         "pos" : "adjective",
-        "translation" : "internal"
+        "translation" : "internal; (un interne) a junior hospital doctor, a house surgeon"
       },
       {
         "forms" : [
@@ -46906,7 +47045,7 @@
         "gender" : "masculine",
         "note" : "As in \"le dos d'une cuillère.\"",
         "pos" : "noun",
-        "translation" : "back"
+        "translation" : "back; (dans leur dos) behind their backs"
       },
       {
         "forms" : [
@@ -47974,7 +48113,7 @@
         ],
         "note" : "Forms of \"lever,\" used for dough and eyes.",
         "pos" : "verb",
-        "translation" : "raised; to raise; risen"
+        "translation" : "raised; to raise; risen; (au lever) on getting up"
       },
       {
         "forms" : [
@@ -51257,7 +51396,7 @@
         ],
         "note" : "Essayer, present tense.",
         "pos" : "verb",
-        "translation" : "tries"
+        "translation" : "tries; try! (to tu)"
       },
       {
         "forms" : [
@@ -67278,7 +67417,7 @@
         "gender" : "masculine",
         "note" : "Plural of « un bain »; « donner le bain » = to bath the baby.",
         "pos" : "noun",
-        "translation" : "baths"
+        "translation" : "baths; (la salle de bains) the bathroom"
       },
       {
         "forms" : [
@@ -68263,6 +68402,224 @@
         "note" : "S'aventurer (to venture), present, il/elle form: « s'aventurer sur la glace » = to step out onto the ice, carefully, knowing it's risky.",
         "pos" : "verb",
         "translation" : "ventures (out)"
+      },
+      {
+        "forms" : [
+          "1859"
+        ],
+        "note" : "A year, read « mille huit cent cinquante-neuf »; « en 1859 » = in 1859, with en and no article.",
+        "pos" : "number",
+        "translation" : "1859"
+      },
+      {
+        "forms" : [
+          "florence"
+        ],
+        "note" : "A first name here (Florence Nightingale); it is also the French name of the Italian city Firenze.",
+        "pos" : "noun",
+        "translation" : "Florence"
+      },
+      {
+        "forms" : [
+          "nightingale"
+        ],
+        "note" : "Florence Nightingale's surname, said the English way; French doesn't translate it.",
+        "pos" : "noun",
+        "translation" : "Nightingale"
+      },
+      {
+        "forms" : [
+          "crimée"
+        ],
+        "gender" : "feminine",
+        "note" : "« La guerre de Crimée » = the Crimean War (1853–1856); the name takes la.",
+        "pos" : "noun",
+        "translation" : "Crimea"
+      },
+      {
+        "forms" : [
+          "fenêtres"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une fenêtre »; « ouvrir grand les fenêtres » = to open the windows wide.",
+        "pos" : "noun",
+        "translation" : "windows"
+      },
+      {
+        "forms" : [
+          "fermées"
+        ],
+        "note" : "Feminine plural of fermé, agreeing with « fenêtres »: « les fenêtres sont fermées » = the windows are shut.",
+        "pos" : "adjective",
+        "translation" : "closed, shut"
+      },
+      {
+        "forms" : [
+          "fermaient",
+          "ferment"
+        ],
+        "note" : "Fermer (to close): « ils ferment » is the present, « ils fermaient » the imparfait for a habit, what they always did.",
+        "pos" : "verb",
+        "translation" : "close, shut; were closing, used to close"
+      },
+      {
+        "forms" : [
+          "ouvertes"
+        ],
+        "note" : "Feminine plural of ouvert: « des fenêtres ouvertes » = open windows.",
+        "pos" : "adjective",
+        "translation" : "open"
+      },
+      {
+        "forms" : [
+          "rouvrait"
+        ],
+        "note" : "Rouvrir (to open again), imparfait: re- + ouvrir, for something done again each time.",
+        "pos" : "verb",
+        "translation" : "opened again, used to reopen"
+      },
+      {
+        "forms" : [
+          "n'aie"
+        ],
+        "note" : "Ne + aie, the tu imperative of avoir; « n'aie jamais peur » = never be afraid, as French says « avoir peur » (to have fear).",
+        "pos" : "verb",
+        "translation" : "don't have; (n'aie pas peur) don't be afraid"
+      },
+      {
+        "forms" : [
+          "allemande",
+          "allemands"
+        ],
+        "note" : "« La méthode allemande » = the German way; as a noun for the people it takes a capital: « les Allemands ».",
+        "pos" : "adjective",
+        "translation" : "German; (les Allemands) the Germans"
+      },
+      {
+        "forms" : [
+          "chirurgien"
+        ],
+        "gender" : "masculine",
+        "note" : "A doctor who operates; the feminine is « chirurgienne ».",
+        "pos" : "noun",
+        "translation" : "surgeon"
+      },
+      {
+        "forms" : [
+          "intelligent"
+        ],
+        "note" : "Masculine form; the feminine is « intelligente », with the t then said aloud.",
+        "pos" : "adjective",
+        "translation" : "clever, intelligent"
+      },
+      {
+        "forms" : [
+          "pur"
+        ],
+        "note" : "« Un air pur » = clean, fresh air; the feminine is « pure ».",
+        "pos" : "adjective",
+        "translation" : "pure, clean"
+      },
+      {
+        "forms" : [
+          "couvertures"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une couverture » (blanket); it can also mean a book's cover.",
+        "pos" : "noun",
+        "translation" : "blankets"
+      },
+      {
+        "forms" : [
+          "bouillottes"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « une bouillotte », a rubber bottle you fill with hot water to warm a bed.",
+        "pos" : "noun",
+        "translation" : "hot-water bottles"
+      },
+      {
+        "forms" : [
+          "ajoutait-elle"
+        ],
+        "note" : "Ajouter (to add), imparfait, with the verb before elle after the words it reports, as in « dit-elle ».",
+        "pos" : "verb",
+        "translation" : "she added"
+      },
+      {
+        "forms" : [
+          "s'occupaient"
+        ],
+        "note" : "S'occuper de (to look after), imparfait for an ongoing task: « s'occuper d'un malade » = to look after a sick person.",
+        "pos" : "verb",
+        "translation" : "were looking after, took care of"
+      },
+      {
+        "forms" : [
+          "tournée"
+        ],
+        "gender" : "feminine",
+        "note" : "« Leur tournée » = their round of the patients; for a singer it is a tour. Not the feminine of tourné here.",
+        "pos" : "noun",
+        "translation" : "round (a doctor's ward round); tour"
+      },
+      {
+        "forms" : [
+          "basculée"
+        ],
+        "note" : "From basculer (to tip, tilt): « une fenêtre basculée » is open only at the top, tipped inwards.",
+        "pos" : "adjective",
+        "translation" : "tilted (a window)"
+      },
+      {
+        "forms" : [
+          "lèves"
+        ],
+        "note" : "Se lever (to get up), tu form: « quand tu te lèves » = when you get up; the accent comes back on è.",
+        "pos" : "verb",
+        "translation" : "get up; (tu te lèves) you get up"
+      },
+      {
+        "forms" : [
+          "stoßlüften"
+        ],
+        "gender" : "masculine",
+        "note" : "A German word kept as it is: open the window wide for a few minutes, then close it.",
+        "pos" : "noun",
+        "translation" : "Stoßlüften (German: airing a room in short bursts, window wide)"
+      },
+      {
+        "forms" : [
+          "chargées"
+        ],
+        "note" : "Feminine plural of chargé: « chargées de veiller sur » = whose job is to look after.",
+        "pos" : "adjective",
+        "translation" : "in charge of, tasked with"
+      },
+      {
+        "forms" : [
+          "d'hôpital"
+        ],
+        "gender" : "masculine",
+        "note" : "De + hôpital, shortened before the silent h: « une salle d'hôpital » = a hospital ward.",
+        "pos" : "noun",
+        "translation" : "hospital (as in « salle d'hôpital »)"
+      },
+      {
+        "forms" : [
+          "appellent"
+        ],
+        "note" : "Appeler (to call), ils form, with a double l: « ils appellent ça… » = they call it…",
+        "pos" : "verb",
+        "translation" : "call"
+      },
+      {
+        "forms" : [
+          "s'adressait"
+        ],
+        "note" : "S'adresser à (to be aimed at, to speak to), imparfait: « le livre s'adressait aux femmes » = the book was written for women.",
+        "pos" : "verb",
+        "translation" : "was meant for, was aimed at"
       }
     ],
     "german" : [
@@ -72615,9 +72972,9 @@
           "station"
         ],
         "gender" : "feminine",
-        "note" : "As in a train station.",
+        "note" : "As in a train station; in a hospital, die Station = the ward.",
         "pos" : "noun",
-        "translation" : "station"
+        "translation" : "station; (in a hospital) ward"
       },
       {
         "forms" : [
@@ -75978,13 +76335,18 @@
           "lass",
           "lassen"
         ],
-        "note" : "Forms of lassen; „lass!“ is the du imperative, and with an infinitive at the end it means let: „Lass 50 g Butter schmelzen“ = let 50 g of butter melt. Separable: … nieder = sich niederlassen, to settle down.",
+        "note" : "Forms of lassen; „lass!“ is the du imperative, and with an infinitive at the end it means let: „Lass 50 g Butter schmelzen“ = let 50 g of butter melt. Separable: … nieder = sich niederlassen, to settle down; … rein = reinlassen, to let in; „lass die Luft rein“ = let the air in.",
         "pos" : "verb",
         "separable" : [
           {
             "particle" : "nieder",
             "translation" : "to settle down",
             "verb" : "sich niederlassen"
+          },
+          {
+            "particle" : "rein",
+            "translation" : "to let in",
+            "verb" : "reinlassen"
           }
         ],
         "translation" : "to let, leave"
@@ -79023,8 +79385,15 @@
         "forms" : [
           "machst"
         ],
-        "note" : "Machen, \"du\" form.",
+        "note" : "Machen, \"du\" form. Separable: … auf = aufmachen, to open; „Im Winter machst du das Fenster weit auf“ = in winter you open the window wide.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "auf",
+            "translation" : "to open",
+            "verb" : "aufmachen"
+          }
+        ],
         "translation" : "do, make"
       },
       {
@@ -79732,7 +80101,8 @@
       },
       {
         "forms" : [
-          "atmen"
+          "atmen",
+          "atmet"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -81704,7 +82074,7 @@
             "verb" : "anhalten"
           }
         ],
-        "translation" : "hold!; to hold"
+        "translation" : "hold!; to hold; keep! (halte ihn warm = keep him warm); to keep (rein halten = keep pure)"
       },
       {
         "forms" : [
@@ -83281,7 +83651,7 @@
           "regeln"
         ],
         "gender" : "feminine",
-        "note" : "An official instruction.",
+        "note" : "A rule or instruction: „die erste Regel der Pflege“ = the first rule of nursing.",
         "pos" : "noun",
         "translation" : "rule"
       },
@@ -83779,7 +84149,7 @@
         ],
         "note" : "„Sich sorgen“ = to worry; also the plural noun die Sorgen, worries: „Sorgen machen“ = to worry, „das macht dir Sorgen“ = that worries you.",
         "pos" : "verb",
-        "translation" : "to worry; worries"
+        "translation" : "to worry; worries; (für jemanden sorgen) to take care of someone"
       },
       {
         "forms" : [
@@ -84605,7 +84975,7 @@
         ],
         "note" : "\"Weit auseinander\" = far apart.",
         "pos" : "adjective",
-        "translation" : "far"
+        "translation" : "far; (weit auf) wide open"
       },
       {
         "forms" : [
@@ -85758,7 +86128,7 @@
             "verb" : "abdecken"
           }
         ],
-        "translation" : "ceiling; to cover; covers"
+        "translation" : "ceiling; to cover; covers; (die Decken) blankets"
       },
       {
         "forms" : [
@@ -86177,7 +86547,8 @@
       },
       {
         "forms" : [
-          "fenster"
+          "fenster",
+          "fenstern"
         ],
         "gender" : "neuter",
         "note" : "An opening with glass.",
@@ -88308,6 +88679,7 @@
       {
         "forms" : [
           "gestimmt",
+          "stimmen",
           "stimmt",
           "stimmte"
         ],
@@ -91173,7 +91545,7 @@
         ],
         "note" : "Declined form of krank — \"einen kranken Rücken\" = a bad back.",
         "pos" : "adjective",
-        "translation" : "sick"
+        "translation" : "sick; (die Kranken) sick people, the patients"
       },
       {
         "forms" : [
@@ -91754,7 +92126,7 @@
         ],
         "note" : "Separable-prefix particle — \"holt die Mülltonnen rein\" = brings the trash cans in.",
         "pos" : "other",
-        "translation" : "in, inside"
+        "translation" : "in, inside; pure, clean (so rein wie …)"
       },
       {
         "forms" : [
@@ -106137,7 +106509,7 @@
         ],
         "note" : "Partizip II of kippen (to tip over), with „sein“: „der Tag ist ins Schlechte gekippt“ = the day tipped into a bad one.",
         "pos" : "verb",
-        "translation" : "tipped (over)"
+        "translation" : "tipped (over); (das Fenster gekippt) tilted, on the tilt"
       },
       {
         "forms" : [
@@ -106682,9 +107054,9 @@
         "forms" : [
           "frisch"
         ],
-        "note" : "Before a participle „frisch“ means only just: „frisch verheiratet“ = newly married.",
-        "pos" : "adverb",
-        "translation" : "freshly, newly"
+        "note" : "„Frische Luft“ = fresh air; before a participle „frisch“ means only just: „frisch verheiratet“ = newly married.",
+        "pos" : "adjective",
+        "translation" : "fresh; freshly, newly"
       },
       {
         "forms" : [
@@ -108997,6 +109369,223 @@
         "note" : "Safe in a warm, cared-for way: „am Feuer bist du geborgen“ = by the fire you're safe and snug. Sicher is safe from danger; geborgen is safe and at home.",
         "pos" : "adjective",
         "translation" : "safe and snug, sheltered"
+      },
+      {
+        "forms" : [
+          "1859"
+        ],
+        "note" : "A year, said „achtzehnhundertneunundfünfzig“; German puts the year alone, with no „in“: „1859 hat …“.",
+        "pos" : "number",
+        "translation" : "1859"
+      },
+      {
+        "forms" : [
+          "florence"
+        ],
+        "note" : "Florence Nightingale's first name; she was named after Florence in Italy, where she was born, which German calls Florenz.",
+        "pos" : "other",
+        "translation" : "Florence (a first name)"
+      },
+      {
+        "forms" : [
+          "nightingale"
+        ],
+        "note" : "Florence Nightingale, the English nurse; said as in English, „Neitingeil“.",
+        "pos" : "other",
+        "translation" : "Nightingale (a surname)"
+      },
+      {
+        "forms" : [
+          "netter"
+        ],
+        "note" : "Nett (nice, kind) with the -er ending after „ein“ before a masculine noun: „ein netter Arzt“.",
+        "pos" : "adjective",
+        "translation" : "nice, kind"
+      },
+      {
+        "forms" : [
+          "heimlich"
+        ],
+        "note" : "Without anyone seeing: „Ein netter Arzt macht sie heimlich wieder auf“ = a kind doctor opens them again on the quiet.",
+        "pos" : "adverb",
+        "translation" : "secretly, on the quiet"
+      },
+      {
+        "forms" : [
+          "stoßlüften"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Stoßlüften, from Stoß (a burst, a push) + lüften (to air): the window wide open for about five minutes, then shut again, instead of tilted for hours; it's what people in Germany do at home, above all in winter.",
+        "pos" : "noun",
+        "translation" : "airing a room with the window wide open for a few minutes"
+      },
+      {
+        "forms" : [
+          "hab"
+        ],
+        "note" : "The du imperative of haben (also habe): „Hab nie Angst vor offenen Fenstern“ = never be afraid of open windows; Angst haben = to be afraid.",
+        "pos" : "verb",
+        "translation" : "have! (du imperative)"
+      },
+      {
+        "forms" : [
+          "kranke"
+        ],
+        "gender" : "masculine",
+        "note" : "Krank (sick) used as a noun, with adjective endings: der Kranke (a sick man), die Kranke (a sick woman), Kranke (sick people): „Frauen, die zu Hause Kranke pflegen“.",
+        "pos" : "noun",
+        "translation" : "sick person; sick people"
+      },
+      {
+        "forms" : [
+          "kluger"
+        ],
+        "note" : "Klug (clever, wise) with the -er ending after „ein“ before a masculine noun: „ein netter, kluger Chirurg“.",
+        "pos" : "adjective",
+        "translation" : "clever"
+      },
+      {
+        "forms" : [
+          "chirurg"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Chirurg, die Chirurgen; the ch is said like a k or like the ch in „ich“, and the stress is on the second syllable.",
+        "pos" : "noun",
+        "translation" : "surgeon"
+      },
+      {
+        "forms" : [
+          "umgedreht"
+        ],
+        "note" : "Partizip II of sich umdrehen (to turn round), a separable verb, so ge- goes between um and dreht: „wenn sie sich umgedreht haben“ = when they turned their backs.",
+        "pos" : "verb",
+        "translation" : "turned round"
+      },
+      {
+        "forms" : [
+          "krimkrieg"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Krimkrieg, 1853–1856: die Krim (Crimea) + der Krieg (war); „durch den Krimkrieg berühmt“ = famous from the Crimean War.",
+        "pos" : "noun",
+        "translation" : "the Crimean War"
+      },
+      {
+        "forms" : [
+          "pflegen"
+        ],
+        "note" : "To look after someone who is sick or old: „Frauen, die zu Hause Kranke pflegen“ = women who care for sick people at home; die Pflege = care, nursing.",
+        "pos" : "verb",
+        "translation" : "to care for, to nurse"
+      },
+      {
+        "forms" : [
+          "wärmflasche",
+          "wärmflaschen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Wärmflasche, die Wärmflaschen: Wärme (warmth) + Flasche (bottle), the rubber bottle you fill with hot water and take to bed.",
+        "pos" : "noun",
+        "translation" : "hot-water bottle"
+      },
+      {
+        "forms" : [
+          "visite"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Visite is the doctors' round from bed to bed in a hospital: „bei der Visite“ = on their rounds; a visit from friends is der Besuch.",
+        "pos" : "noun",
+        "translation" : "ward round"
+      },
+      {
+        "forms" : [
+          "kippen"
+        ],
+        "note" : "„Das Fenster kippen“ = to open it on the tilt, top edge leaning in, as German windows do; „statt es stundenlang zu kippen“ = rather than tilting it for hours.",
+        "pos" : "verb",
+        "translation" : "to tilt (a window); to tip"
+      },
+      {
+        "forms" : [
+          "gibst"
+        ],
+        "note" : "Du form of geben, which turns e into i: du gibst = you give.",
+        "pos" : "verb",
+        "translation" : "give (du form)"
+      },
+      {
+        "forms" : [
+          "aufstehen"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Aufstehen, the verb aufstehen (to get up) used as a noun, so it takes a capital: „nach dem Aufstehen“ = after you get up.",
+        "pos" : "noun",
+        "translation" : "getting up"
+      },
+      {
+        "forms" : [
+          "schmales"
+        ],
+        "note" : "Schmal (narrow, slim) with the neuter ending after „ein“: „ein schmales Buch“ = a slim book.",
+        "pos" : "adjective",
+        "translation" : "slim, narrow"
+      },
+      {
+        "forms" : [
+          "friert"
+        ],
+        "note" : "Er/sie/es form of frieren; for a person it means to be cold: „ohne dass er friert“ = without him getting cold.",
+        "pos" : "verb",
+        "translation" : "feels cold, freezes"
+      },
+      {
+        "forms" : [
+          "assistenzarzt"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Assistenzarzt, a young doctor working and training on a hospital ward: the German word for the house surgeon of her day.",
+        "pos" : "noun",
+        "translation" : "junior hospital doctor"
+      },
+      {
+        "forms" : [
+          "aufgerissen"
+        ],
+        "note" : "Partizip II of aufreißen (to fling open), separable, with ge- between auf and rissen: „hat sie aufgerissen“ = flung them open.",
+        "pos" : "verb",
+        "translation" : "flung open"
+      },
+      {
+        "forms" : [
+          "bad"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Bad; in a flat it means the bathroom: „Küche und Bad“ = kitchen and bathroom.",
+        "pos" : "noun",
+        "translation" : "bathroom; bath"
+      },
+      {
+        "forms" : [
+          "pack"
+        ],
+        "note" : "Du imperative of packen (to pack). Separable: … ein = einpacken, to wrap up; „Pack dich warm ein“ = wrap up warm.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ein",
+            "translation" : "to wrap up",
+            "verb" : "einpacken"
+          }
+        ],
+        "translation" : "pack! (du imperative)"
+      },
+      {
+        "forms" : [
+          "lüfte"
+        ],
+        "note" : "Du imperative of lüften (to air a room), with -e kept after the t: „Lüfte das Schlafzimmer nach dem Aufstehen fünf bis zehn Minuten“ = air the bedroom for five to ten minutes after you get up.",
+        "pos" : "verb",
+        "translation" : "air (a room)! (du imperative)"
       }
     ],
     "italian" : [
@@ -109876,6 +110465,7 @@
       {
         "forms" : [
           "aperta",
+          "aperte",
           "aperto"
         ],
         "note" : "Past participle of aprire, used as an adjective (open) and after avere: hanno aperto = they opened.",
@@ -110528,7 +111118,8 @@
       },
       {
         "forms" : [
-          "borsa"
+          "borsa",
+          "borse"
         ],
         "gender" : "feminine",
         "note" : "As in a purse or handbag.",
@@ -114547,7 +115138,7 @@
         ],
         "note" : "Interno/interna, also \"interno\" as a noun for \"inside.\"",
         "pos" : "adjective",
-        "translation" : "internal"
+        "translation" : "internal; (un medico interno) a junior hospital doctor, a house surgeon"
       },
       {
         "forms" : [
@@ -120138,6 +120729,7 @@
         "forms" : [
           "tenendo",
           "tenere",
+          "tenerla",
           "tenerlo",
           "teneva",
           "tenne",
@@ -120218,7 +120810,8 @@
       },
       {
         "forms" : [
-          "tieni"
+          "tieni",
+          "tienilo"
         ],
         "note" : "Imperative of tenere.",
         "pos" : "verb",
@@ -120805,11 +121398,12 @@
       },
       {
         "forms" : [
-          "vale"
+          "vale",
+          "valgono"
         ],
         "note" : "From valere, \"vale la pena,\" it's worth it.",
         "pos" : "verb",
-        "translation" : "is worth"
+        "translation" : "is worth; holds, applies (vale ancora = it still holds)"
       },
       {
         "forms" : [
@@ -122676,7 +123270,8 @@
       },
       {
         "forms" : [
-          "finestra"
+          "finestra",
+          "finestre"
         ],
         "gender" : "feminine",
         "note" : "An opening with glass.",
@@ -124911,7 +125506,7 @@
         ],
         "note" : "From \"stare.\"",
         "pos" : "verb",
-        "translation" : "you are"
+        "translation" : "you are; (stai al caldo!) stay, keep (warm)!"
       },
       {
         "forms" : [
@@ -126360,7 +126955,8 @@
       },
       {
         "forms" : [
-          "coperta"
+          "coperta",
+          "coperte"
         ],
         "gender" : "feminine",
         "note" : "A blanket placed over mother and baby.",
@@ -127900,7 +128496,7 @@
         ],
         "note" : "Forms of cambiare: cambia = it changes; cambiato = changed.",
         "pos" : "verb",
-        "translation" : "changes; changed"
+        "translation" : "changes; changed; (cambia l'aria!) change, air (the room)!"
       },
       {
         "forms" : [
@@ -127963,6 +128559,8 @@
           "chiude",
           "chiudere",
           "chiudeva",
+          "chiudevano",
+          "chiudono",
           "chiuse",
           "chiuso"
         ],
@@ -128317,6 +128915,7 @@
           "girano",
           "girare",
           "girato",
+          "giravano",
           "girò"
         ],
         "note" : "From girare.",
@@ -135520,6 +136119,7 @@
         "forms" : [
           "racconta",
           "raccontano",
+          "raccontato",
           "raccontavano"
         ],
         "note" : "Present of raccontare, to tell a story: racconta = tells, raccontano = they tell; a quanto si racconta = as the story goes.",
@@ -143448,6 +144048,152 @@
         "note" : "Old poetic form from apportare, to bring; today you say porta.",
         "pos" : "verb",
         "translation" : "brings"
+      },
+      {
+        "forms" : [
+          "1859"
+        ],
+        "note" : "A year, read «milleottocentocinquantanove»; «nel 1859» = in 1859, with the article.",
+        "pos" : "number",
+        "translation" : "1859"
+      },
+      {
+        "forms" : [
+          "florence"
+        ],
+        "gender" : "feminine",
+        "note" : "First name of Florence Nightingale, the English nurse; the name stays in English, not Firenze.",
+        "pos" : "noun",
+        "translation" : "Florence"
+      },
+      {
+        "forms" : [
+          "nightingale"
+        ],
+        "gender" : "feminine",
+        "note" : "Florence Nightingale, the English nurse who wrote Notes on Nursing in 1859.",
+        "pos" : "noun",
+        "translation" : "Nightingale"
+      },
+      {
+        "forms" : [
+          "crimea"
+        ],
+        "gender" : "feminine",
+        "note" : "La guerra di Crimea = the Crimean War; Italian uses di + the place where English uses an adjective.",
+        "pos" : "noun",
+        "translation" : "Crimea"
+      },
+      {
+        "forms" : [
+          "aria"
+        ],
+        "gender" : "feminine",
+        "note" : "Aria fresca = fresh air; before a vowel the article shortens: l'aria.",
+        "pos" : "noun",
+        "translation" : "air"
+      },
+      {
+        "forms" : [
+          "riapriva"
+        ],
+        "note" : "Imperfetto of riaprire; the prefix ri- means again: aprire → riaprire = to open again.",
+        "pos" : "verb",
+        "translation" : "opened again"
+      },
+      {
+        "forms" : [
+          "chirurgo"
+        ],
+        "gender" : "masculine",
+        "note" : "Chirurgo, plural chirurghi: the h keeps the hard g sound.",
+        "pos" : "noun",
+        "translation" : "surgeon"
+      },
+      {
+        "forms" : [
+          "intelligente"
+        ],
+        "note" : "One form for both genders in the singular: un medico intelligente, una donna intelligente.",
+        "pos" : "adjective",
+        "translation" : "clever, intelligent"
+      },
+      {
+        "forms" : [
+          "tedeschi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of tedesco, here a noun: fai come i tedeschi = do as the Germans do; nationalities are written in lower case.",
+        "pos" : "noun",
+        "translation" : "Germans"
+      },
+      {
+        "forms" : [
+          "curano"
+        ],
+        "note" : "Present of curare, loro form: curare un malato = to look after a sick person.",
+        "pos" : "verb",
+        "translation" : "they look after, they care for"
+      },
+      {
+        "forms" : [
+          "ribalta"
+        ],
+        "gender" : "feminine",
+        "note" : "A ribalta = tilted, the window open only at the top; una finestra a ribalta is a tilt window.",
+        "pos" : "noun",
+        "translation" : "tilt (of a window)"
+      },
+      {
+        "forms" : [
+          "stoßlüften"
+        ],
+        "gender" : "masculine",
+        "note" : "A German word, said «stòss-lüften»: open the window wide for a few minutes, then close it.",
+        "pos" : "noun",
+        "translation" : "airing a room with the window wide open"
+      },
+      {
+        "forms" : [
+          "alzi"
+        ],
+        "note" : "Present of the reflexive alzarsi, tu form: ti alzi = you get up; the pronoun ti goes before the verb.",
+        "pos" : "verb",
+        "translation" : "you get up"
+      },
+      {
+        "forms" : [
+          "libretto"
+        ],
+        "gender" : "masculine",
+        "note" : "Libro + the suffix -etto, which makes things small: un libretto = a slim little book.",
+        "pos" : "noun",
+        "translation" : "little book"
+      },
+      {
+        "forms" : [
+          "reparto"
+        ],
+        "gender" : "masculine",
+        "note" : "In a hospital, a reparto is a ward or department: il reparto di chirurgia = the surgical ward.",
+        "pos" : "noun",
+        "translation" : "ward"
+      },
+      {
+        "forms" : [
+          "spalanca"
+        ],
+        "note" : "Tu imperative of spalancare, to open something all the way: spalanca la finestra = open the window wide.",
+        "pos" : "verb",
+        "translation" : "open wide"
+      },
+      {
+        "forms" : [
+          "occupano"
+        ],
+        "note" : "Present of occuparsi, loro form: si occupano della salute di qualcuno = they look after someone's health.",
+        "pos" : "verb",
+        "translation" : "they look after, they take care of"
       }
     ],
     "spanish" : [
@@ -144617,7 +145363,7 @@
         ],
         "note" : "Forms of dar across tenses.",
         "pos" : "verb",
-        "translation" : "to give"
+        "translation" : "to give; (darse la vuelta) to turn round, turn your back"
       },
       {
         "forms" : [
@@ -144702,7 +145448,7 @@
         ],
         "note" : "From dejar (to leave); dejar de + infinitive = to stop doing: deja de preocuparte = stop worrying.",
         "pos" : "verb",
-        "translation" : "leaves, was leaving, leaving; (dejar de + infinitive) stops, stop!"
+        "translation" : "leaves, was leaving, leaving; lets (deja entrar el aire = let the air in); (dejar de + infinitive) stops, stop!"
       },
       {
         "forms" : [
@@ -146005,7 +146751,7 @@
         ],
         "note" : "\"Lista\" (fem.) means \"list\" as a noun, or \"ready\" as an adjective; \"listo\" (masc.) means \"ready,\" and y listo ends a recipe: and that's it, done.",
         "pos" : "noun",
-        "translation" : "list / ready"
+        "translation" : "list / ready; (listo) clever"
       },
       {
         "forms" : [
@@ -147724,7 +148470,7 @@
         ],
         "note" : "Intensifies an adjective: \"tan seguros\" (so sure).",
         "pos" : "adverb",
-        "translation" : "so"
+        "translation" : "so; (tan … como) as … as"
       },
       {
         "forms" : [
@@ -150756,7 +151502,7 @@
         ],
         "note" : "Forms of pasar: pasar = to happen, to pass; pasan = they pass, go by (\"pasan los años\"); \"pasan el día\" = they spend the day; pase = pass (subjunctive).",
         "pos" : "verb",
-        "translation" : "to happen, pass; to spend (time)"
+        "translation" : "to happen, pass; to spend (time); (pasar frío) to be cold; (pasar visita) to do the rounds"
       },
       {
         "forms" : [
@@ -152890,7 +153636,7 @@
         ],
         "note" : "Abrir; abría is imperfect tense.",
         "pos" : "verb",
-        "translation" : "opens, was opening"
+        "translation" : "opens, was opening; open! (to tú)"
       },
       {
         "forms" : [
@@ -161881,7 +162627,7 @@
         "gender" : "feminine",
         "note" : "Verb forms included.",
         "pos" : "noun",
-        "translation" : "visit; to visit; visited"
+        "translation" : "visit; to visit; (pasar visita) the doctors' round"
       },
       {
         "forms" : [
@@ -163641,9 +164387,9 @@
           "enfermo",
           "enfermos"
         ],
-        "note" : "Feminine of enfermo.",
+        "note" : "Enfermo/enferma, enfermos; as a noun, a sick person.",
         "pos" : "adjective",
-        "translation" : "sick, ill"
+        "translation" : "sick, ill; (el enfermo) a sick person, the patient"
       },
       {
         "forms" : [
@@ -178591,9 +179337,9 @@
           "baños"
         ],
         "gender" : "masculine",
-        "note" : "Plural of el baño; here the baby's baths, not bathrooms.",
+        "note" : "El baño = the bath or the bathroom; los baños = the baths.",
         "pos" : "noun",
-        "translation" : "baths"
+        "translation" : "bath(s); bathroom"
       },
       {
         "forms" : [
@@ -179483,6 +180229,246 @@
         "note" : "Present of acercar, with se: «se acerca una tormenta» = a storm is coming, a storm rolls in.",
         "pos" : "verb",
         "translation" : "draws near"
+      },
+      {
+        "forms" : [
+          "1859"
+        ],
+        "note" : "A year, read «mil ochocientos cincuenta y nueve»; «en 1859» = in 1859.",
+        "pos" : "number",
+        "translation" : "1859"
+      },
+      {
+        "forms" : [
+          "respira"
+        ],
+        "note" : "Respirar, él/ella form; «se respira una calma increíble» = there is an amazing calm in the air.",
+        "pos" : "verb",
+        "translation" : "breathes; (se respira) you can feel"
+      },
+      {
+        "forms" : [
+          "florence"
+        ],
+        "note" : "Florence Nightingale's first name, kept in English: in Spanish it is never translated to «Florencia».",
+        "pos" : "noun",
+        "translation" : "Florence (first name)"
+      },
+      {
+        "forms" : [
+          "nightingale"
+        ],
+        "note" : "Florence Nightingale (1820–1910), the English nurse who wrote a book on nursing in London in 1859.",
+        "pos" : "noun",
+        "translation" : "Nightingale (surname)"
+      },
+      {
+        "forms" : [
+          "crimea"
+        ],
+        "gender" : "feminine",
+        "note" : "The peninsula on the Black Sea; «la guerra de Crimea» = the Crimean War (1853–1856), with de and no article.",
+        "pos" : "noun",
+        "translation" : "Crimea"
+      },
+      {
+        "forms" : [
+          "stoßlüften"
+        ],
+        "gender" : "masculine",
+        "note" : "A German word, kept as it is: open the window wide for a few minutes, then close it. «Los alemanes lo llaman Stoßlüften».",
+        "pos" : "noun",
+        "translation" : "Stoßlüften, airing a room in short bursts"
+      },
+      {
+        "forms" : [
+          "ventanas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la ventana: «las ventanas abiertas» = open windows.",
+        "pos" : "noun",
+        "translation" : "windows"
+      },
+      {
+        "forms" : [
+          "abiertas"
+        ],
+        "note" : "Feminine plural of abierto, from abrir: «nunca tengas miedo de las ventanas abiertas» = never be afraid of open windows.",
+        "pos" : "adjective",
+        "translation" : "open"
+      },
+      {
+        "forms" : [
+          "cerradas"
+        ],
+        "note" : "Feminine plural of cerrado, from cerrar: «tus ventanas están cerradas» = your windows are shut, with estar for a state.",
+        "pos" : "adjective",
+        "translation" : "shut, closed"
+      },
+      {
+        "forms" : [
+          "cierran"
+        ],
+        "note" : "Present of cerrar (e→ie), ellos form: «los médicos siempre cierran las ventanas» = the doctors always shut the windows.",
+        "pos" : "verb",
+        "translation" : "shut, close"
+      },
+      {
+        "forms" : [
+          "cerraban"
+        ],
+        "note" : "Imperfect of cerrar, for a habit: «los médicos siempre cerraban las ventanas» = the doctors always shut the windows.",
+        "pos" : "verb",
+        "translation" : "used to shut, always shut"
+      },
+      {
+        "forms" : [
+          "espaldas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la espalda (back); «a sus espaldas» = behind their backs, without them seeing.",
+        "pos" : "noun",
+        "translation" : "backs"
+      },
+      {
+        "forms" : [
+          "abrígate"
+        ],
+        "note" : "Tú imperative of abrigarse with te joined to the end: «abrígate bien» = wrap up well, keep warm.",
+        "pos" : "verb",
+        "translation" : "keep warm, wrap up"
+      },
+      {
+        "forms" : [
+          "abrígalo"
+        ],
+        "note" : "Tú imperative of abrigar with lo (him) joined to the end, so it takes a written accent: «abrígalo bien» = keep him well wrapped up.",
+        "pos" : "verb",
+        "translation" : "keep him warm, wrap him up"
+      },
+      {
+        "forms" : [
+          "calentita"
+        ],
+        "note" : "Feminine of calentito, caliente with a cosy -ito: «una cama calentita» = a nice warm bed.",
+        "pos" : "adjective",
+        "translation" : "nice and warm"
+      },
+      {
+        "forms" : [
+          "tenerlo"
+        ],
+        "note" : "Tener + lo; here tener means to keep something in a state: «hay que tenerlo tan fresco» = you have to keep it as fresh.",
+        "pos" : "verb",
+        "translation" : "to keep it, to have it"
+      },
+      {
+        "forms" : [
+          "tenerla"
+        ],
+        "note" : "Tener + la (the window): «nada de tenerla abatida durante horas» = no keeping it tilted for hours.",
+        "pos" : "verb",
+        "translation" : "keeping it, to keep it"
+      },
+      {
+        "forms" : [
+          "cirujano"
+        ],
+        "gender" : "masculine",
+        "note" : "A doctor who operates; feminine la cirujana: «un cirujano amable y listo» = a kind, clever surgeon.",
+        "pos" : "noun",
+        "translation" : "surgeon"
+      },
+      {
+        "forms" : [
+          "mantener"
+        ],
+        "note" : "Mantener (like tener) = to keep something as it is: «mantener el aire tan puro como el aire de fuera» = to keep the air as pure as the air outside.",
+        "pos" : "verb",
+        "translation" : "to keep"
+      },
+      {
+        "forms" : [
+          "puro"
+        ],
+        "note" : "Feminine pura; «el aire puro» = clean air: «tan puro como el aire de fuera» = as pure as the air outside.",
+        "pos" : "adjective",
+        "translation" : "pure, clean"
+      },
+      {
+        "forms" : [
+          "cuidaban"
+        ],
+        "note" : "Imperfect of cuidar: «mujeres que cuidaban a alguien enfermo» = women caring for someone sick, with a before a person.",
+        "pos" : "verb",
+        "translation" : "looked after, were caring for"
+      },
+      {
+        "forms" : [
+          "mantas"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la manta (blanket): «con mantas y bolsas de agua caliente» = with blankets and hot-water bottles.",
+        "pos" : "noun",
+        "translation" : "blankets"
+      },
+      {
+        "forms" : [
+          "abatida"
+        ],
+        "note" : "Of a window: tipped open at the top (a tilt-and-turn window), not opened wide: «dejarla abatida durante horas» = leave it tilted for hours.",
+        "pos" : "adjective",
+        "translation" : "tilted open"
+      },
+      {
+        "forms" : [
+          "ventila"
+        ],
+        "note" : "Tú imperative of ventilar, to let fresh air into a room: «ventila el dormitorio» = air the bedroom.",
+        "pos" : "verb",
+        "translation" : "air (it)!"
+      },
+      {
+        "forms" : [
+          "levantarte"
+        ],
+        "note" : "Levantarse with te joined to the end: «al levantarte» = when you get up.",
+        "pos" : "verb",
+        "translation" : "getting up, to get up"
+      },
+      {
+        "forms" : [
+          "librito"
+        ],
+        "gender" : "masculine",
+        "note" : "Libro with the small -ito: «publicó un librito» = she published a slim book.",
+        "pos" : "noun",
+        "translation" : "little book, slim book"
+      },
+      {
+        "forms" : [
+          "par"
+        ],
+        "gender" : "masculine",
+        "note" : "Un par = a couple; «abre la ventana de par en par» = open the window wide, all the way.",
+        "pos" : "noun",
+        "translation" : "pair, couple; (de par en par) wide open"
+      },
+      {
+        "forms" : [
+          "mantenerlo"
+        ],
+        "note" : "Mantener (to keep) with lo (it) joined to the end: «hay que mantenerlo tan fresco como el de fuera» = you have to keep it as fresh as the air outside.",
+        "pos" : "verb",
+        "translation" : "keep it, to keep it"
+      },
+      {
+        "forms" : [
+          "residente"
+        ],
+        "note" : "Same form for a man and a woman (el/la residente). In a hospital it is a young doctor in training: «un cirujano residente» = a house surgeon.",
+        "pos" : "noun",
+        "translation" : "resident; (in a hospital) junior doctor, house surgeon"
       }
     ]
   },
@@ -225687,6 +226673,596 @@
       "summary" : "Nel 1725, ad Amsterdam, sono usciti dodici concerti, e i primi quattro avevano poesie che ti dicono che cosa stai ascoltando, persino un cane che abbaia.",
       "title" : "Ma porta gioia",
       "translationGroup" : "but-it-brings-joy"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "id" : "open-the-window",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To talk about a time before now, A1 uses a few simple past forms: there was, it was. The rest of the story stays in the present.",
+              "example" : "But in 1859, in London, there was a book by Florence Nightingale.",
+              "title" : "There was: one look back"
+            },
+            {
+              "body" : "Put \"don't\" before the base verb to say \"don't do this\": don't leave it, don't shut it.",
+              "example" : "Do it two or three times a day. Don't leave it half open for hours.",
+              "title" : "Don't + verb: telling a friend what not to do"
+            },
+            {
+              "body" : "\"So\" joins a cause to what happens because of it: it's November, and because of that, the windows are shut.",
+              "example" : "It's November, so your windows are shut.",
+              "title" : "So for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's November, so your windows are shut. But in 1859, in London, there was a book by Florence Nightingale. It was for women with someone sick at home.",
+            "Her first rule is fresh air and a warm bed. In one hospital, she says, the doctors always shut the windows. But one kind doctor opens them behind their backs!",
+            "Today, try the German way. Open the window wide for about five minutes. Do it two or three times a day. Don't leave it half open for hours.",
+            "Her words are still true: never be afraid of open windows. Keep warm, then let the air in."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Must\" has no past form, so English uses \"had to\" for a rule in the past: the sick person had to stay warm.",
+              "example" : "But the sick person had to stay warm in bed.",
+              "title" : "Had to: the past of must"
+            },
+            {
+              "body" : "\"When\" joins two past actions where the second follows the first: when they turned their backs, he opened them.",
+              "example" : "But a kind, clever surgeon opened them again when they turned their backs.",
+              "title" : "When + past: one thing, then another"
+            },
+            {
+              "body" : "Use as + adjective + as to say two things are the same: as fresh as the air outside.",
+              "example" : "Her first rule was about air: keep it as fresh as the air outside.",
+              "title" : "As fresh as: saying two things are equal"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1859, Florence Nightingale wrote a small book in London. It was for women with someone sick at home.",
+            "Her first rule was about air: keep it as fresh as the air outside. But the sick person had to stay warm in bed.",
+            "In one hospital, she wrote, the doctors always closed the windows. But a kind, clever surgeon opened them again when they turned their backs.",
+            "In winter, try the German way: open the window wide for about five minutes. Do it two or three times a day. But don't leave a window half open for hours.",
+            "So her advice from 1859 is still true. Never be afraid of open windows: keep warm, then let the air in."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"The air a patient breathes\" means \"the air that a patient breathes\"; English often drops \"that\" when it is the object of the clause.",
+              "example" : "Her first rule was to keep the air a patient breathes as pure as the air outside. But keep them warm, she added, with blankets and hot-water bottles.",
+              "title" : "A relative clause without \"that\""
+            },
+            {
+              "body" : "\"Rather than\" + -ing gives the thing you don't do: open it wide rather than tilting it = instead of tilting it.",
+              "example" : "In winter, open the window wide for about five minutes, two or three times a day, rather than tilting it for hours.",
+              "title" : "Rather than + -ing"
+            },
+            {
+              "body" : "\"Whenever\" means \"every time\": whenever they turned their backs = each time they did it.",
+              "example" : "But a kind, clever surgeon opened them whenever they turned their backs.",
+              "title" : "Whenever: every time that"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In London in 1859, Florence Nightingale, already famous from the Crimean War, wrote a small book for women caring for someone sick at home.",
+            "Her first rule was to keep the air a patient breathes as pure as the air outside. But keep them warm, she added, with blankets and hot-water bottles.",
+            "In one hospital, she wrote, the doctors always shut the windows on their rounds. But a kind, clever surgeon opened them whenever they turned their backs.",
+            "Today, Germans have a word for it: Stoßlüften. In winter, open the window wide for about five minutes, two or three times a day, rather than tilting it for hours. Give the bedroom five to ten minutes after you get up.",
+            "It's advice from 1859, and it's still true: never be afraid of open windows. Keep warm, then let the air in."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"The moment\" + a clause works like \"as soon as\": the moment they turned their backs = right after they did.",
+              "example" : "A kind, clever house surgeon opened them the moment they turned their backs.",
+              "title" : "The moment: as soon as"
+            },
+            {
+              "body" : "\"By X she meant Y\" explains what someone wanted a word to say: by \"then\" she meant once the patient was warm.",
+              "example" : "Her line was \"Never be afraid of open windows then\", and by \"then\" she meant once the patient was warm in bed, with blankets and hot-water bottles.",
+              "title" : "Mean by: explaining a word"
+            },
+            {
+              "body" : "Speech often drops the verb when the meaning is clear: \"Advice from 1859 that's still true\" = this is advice from 1859 that's still true.",
+              "example" : "Advice from 1859 that's still true: never be afraid of open windows.",
+              "title" : "A phrase without a verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In London in 1859, Florence Nightingale, already famous from the Crimean War, published a slim book for women in charge of someone's health at home.",
+            "Its first rule was to keep the air a patient breathes as pure as the air outside, without chilling them. Her line was \"Never be afraid of open windows then\", and by \"then\" she meant once the patient was warm in bed, with blankets and hot-water bottles.",
+            "She wrote about a ward where the doctors always shut the windows on their rounds. A kind, clever house surgeon opened them the moment they turned their backs.",
+            "Germans call it Stoßlüften. In winter, open the window wide for about five minutes, two or three times a day, not tilted for hours. Give the bedroom five to ten minutes after you get up, and the kitchen and bathroom too.",
+            "Advice from 1859 that's still true: never be afraid of open windows. Keep warm, then let the air in."
+          ]
+        }
+      ],
+      "summary" : "In 1859, Florence Nightingale's very first rule for looking after the sick was about air, and it fits a cold November morning just as well.",
+      "title" : "Open the Window",
+      "translationGroup" : "open-the-window"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "id" : "open-the-window-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To talk about a time before now, A1 uses a few past forms such as il y avait (there was) and c'était (it was). The rest of the story stays in the present.",
+              "example" : "Mais en 1859, à Londres, il y avait un livre de Florence Nightingale.",
+              "title" : "Il y avait: one look back"
+            },
+            {
+              "body" : "To tell a friend not to do something, put ne before the verb and pas after it; an object pronoun like la goes right after ne: ne la laisse pas.",
+              "example" : "Mais ne la laisse pas à moitié ouverte pendant des heures.",
+              "title" : "Ne … pas with the imperative"
+            },
+            {
+              "body" : "Alors joins a cause to what follows from it, like so in English: it's November, so the windows are shut.",
+              "example" : "On est en novembre, alors tes fenêtres sont fermées.",
+              "title" : "Alors for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en novembre, alors tes fenêtres sont fermées. Mais en 1859, à Londres, il y avait un livre de Florence Nightingale. C'était un livre pour les femmes avec quelqu'un de malade à la maison.",
+            "Sa première règle, c'est l'air frais et un lit bien chaud. Elle parle aussi d'un hôpital où les médecins ferment toujours les fenêtres. Mais un médecin gentil les ouvre dans leur dos !",
+            "Aujourd'hui, essaie la méthode allemande. Ouvre grand la fenêtre pendant environ cinq minutes. Fais ça deux ou trois fois par jour. Mais ne la laisse pas à moitié ouverte pendant des heures.",
+            "Alors ce qu'elle dit est toujours vrai : n'aie jamais peur des fenêtres ouvertes. Reste au chaud, puis laisse entrer l'air."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Devait is the imparfait of devoir (must, to have to): it gives a rule that held back then, not one single event.",
+              "example" : "Mais le malade devait rester au chaud dans son lit.",
+              "title" : "Devait: a rule in the past"
+            },
+            {
+              "body" : "Something that happened again and again in the past takes the imparfait: les rouvrait = he opened them again each time. One single event would take the passé composé.",
+              "example" : "Mais un chirurgien gentil et intelligent les rouvrait quand ils avaient le dos tourné.",
+              "title" : "A habit in the imparfait"
+            },
+            {
+              "body" : "Aussi + adjective + que says two things are equal: aussi frais que l'air du dehors = as fresh as the air outside.",
+              "example" : "Sa première règle, c'était l'air : il fallait le garder aussi frais que l'air du dehors.",
+              "title" : "Aussi … que: as … as"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1859, à Londres, Florence Nightingale a écrit un petit livre. C'était pour les femmes qui avaient quelqu'un de malade à la maison.",
+            "Sa première règle, c'était l'air : il fallait le garder aussi frais que l'air du dehors. Mais le malade devait rester au chaud dans son lit.",
+            "Elle a aussi parlé d'un hôpital où les médecins fermaient toujours les fenêtres. Mais un chirurgien gentil et intelligent les rouvrait quand ils avaient le dos tourné.",
+            "En hiver, essaie la méthode allemande : ouvre grand la fenêtre pendant environ cinq minutes. Fais ça deux ou trois fois par jour. Mais ne laisse pas une fenêtre à moitié ouverte pendant des heures.",
+            "Alors son conseil de 1859 est toujours bon. N'aie jamais peur des fenêtres ouvertes : reste au chaud, puis laisse entrer l'air."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After the relative que, French often puts a short verb before a noun subject: l'air que respire le malade = the air the patient breathes. L'air que le malade respire means the same.",
+              "example" : "Sa première règle, c'était de garder l'air que respire le malade aussi pur que l'air du dehors.",
+              "title" : "Verb before subject after que: l'air que respire"
+            },
+            {
+              "body" : "Plutôt que de + infinitive names the thing you don't do: plutôt que de la laisser basculée = instead of leaving it tilted.",
+              "example" : "En hiver, ouvre grand la fenêtre environ cinq minutes, deux ou trois fois par jour, plutôt que de la laisser basculée des heures.",
+              "title" : "Plutôt que de + infinitive"
+            },
+            {
+              "body" : "Chaque fois que means every time that; with a repeated past action, both verbs go in the imparfait: les rouvrait chaque fois qu'ils avaient le dos tourné.",
+              "example" : "Mais un chirurgien gentil et intelligent les rouvrait chaque fois qu'ils avaient le dos tourné.",
+              "title" : "Chaque fois que: whenever"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "À Londres, en 1859, Florence Nightingale, déjà célèbre depuis la guerre de Crimée, a écrit un petit livre. C'était pour les femmes qui s'occupaient d'un malade à la maison.",
+            "Sa première règle, c'était de garder l'air que respire le malade aussi pur que l'air du dehors. Mais il faut garder le malade au chaud, ajoutait-elle, avec des couvertures et des bouillottes.",
+            "Elle parlait aussi d'un hôpital où les médecins fermaient toujours les fenêtres pendant leur tournée. Mais un chirurgien gentil et intelligent les rouvrait chaque fois qu'ils avaient le dos tourné.",
+            "Les Allemands ont même un mot pour ça : Stoßlüften. En hiver, ouvre grand la fenêtre environ cinq minutes, deux ou trois fois par jour, plutôt que de la laisser basculée des heures. Pour la chambre, compte cinq à dix minutes quand tu te lèves.",
+            "C'est un conseil de 1859, et il est toujours bon : n'aie jamais peur des fenêtres ouvertes. Reste au chaud, puis laisse entrer l'air."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Dès que + a clause means as soon as, the very moment: dès qu'ils avaient le dos tourné = the moment their backs were turned.",
+              "example" : "Un interne gentil et intelligent les rouvrait dès qu'ils avaient le dos tourné.",
+              "title" : "Dès que: the moment"
+            },
+            {
+              "body" : "Vouloir dire explains what someone meant by a word: par « alors », elle voulait dire = by \"then\" she meant. French has no single verb for to mean here.",
+              "example" : "Par « alors », elle voulait dire : une fois le malade au chaud dans son lit, avec des couvertures et des bouillottes.",
+              "title" : "Vouloir dire: to mean"
+            },
+            {
+              "body" : "Une fois followed by a noun and what is true of it means once that is the case, with no verb needed: une fois le malade au chaud = once the patient is warm.",
+              "example" : "Par « alors », elle voulait dire : une fois le malade au chaud dans son lit, avec des couvertures et des bouillottes.",
+              "title" : "Une fois + noun, with no verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "À Londres, en 1859, Florence Nightingale, déjà célèbre depuis la guerre de Crimée, a publié un livre tout mince. Il s'adressait aux femmes chargées de veiller sur la santé de quelqu'un chez elles.",
+            "Sa première règle, c'était de garder l'air que respire le malade aussi pur que l'air du dehors, sans qu'il ait froid. D'où sa phrase : « N'aie jamais peur des fenêtres ouvertes, alors. » Par « alors », elle voulait dire : une fois le malade au chaud dans son lit, avec des couvertures et des bouillottes.",
+            "Elle parlait aussi d'une salle d'hôpital où les médecins fermaient toujours les fenêtres pendant leur tournée. Un interne gentil et intelligent les rouvrait dès qu'ils avaient le dos tourné.",
+            "Les Allemands appellent ça le Stoßlüften. En hiver, ouvre grand la fenêtre environ cinq minutes, deux ou trois fois par jour, pas basculée des heures. Pour la chambre, compte cinq à dix minutes au lever, pareil pour la cuisine et la salle de bains.",
+            "Un conseil de 1859 qui tient toujours : n'aie jamais peur des fenêtres ouvertes. Reste au chaud, puis laisse entrer l'air."
+          ]
+        }
+      ],
+      "summary" : "En 1859, la toute première règle de Florence Nightingale pour soigner les malades parlait d'air, et elle marche tout aussi bien par un matin froid de novembre.",
+      "title" : "Ouvre la fenêtre",
+      "translationGroup" : "open-the-window"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "id" : "open-the-window-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To talk about a time before now, A1 uses a few past forms: es gab (there was), es war (it was). The rest of the story stays in the present.",
+              "example" : "1859 gab es in London ein Buch von Florence Nightingale.",
+              "title" : "Es gab, war: one look back"
+            },
+            {
+              "body" : "Aufmachen (to open) and zumachen (to close) split in a main clause: the verb stays second and the particle goes to the very end.",
+              "example" : "Aber ein netter Arzt macht sie heimlich wieder auf!",
+              "title" : "Separable verbs: macht … auf, machen … zu"
+            },
+            {
+              "body" : "To tell a friend what to do, use the du form without -st and without du: du machst → mach, du lässt → lass, du hast → hab. Add nicht to say what not to do.",
+              "example" : "Aber lass es nicht stundenlang halb offen.",
+              "title" : "The du imperative: mach, lass, hab"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist November, also sind deine Fenster geschlossen. 1859 gab es in London ein Buch von Florence Nightingale. Es war für Frauen mit Kranken zu Hause.",
+            "Ihre erste Regel ist frische Luft und ein warmes Bett. Sie erzählt von einem Krankenhaus. Dort machen die Ärzte immer die Fenster zu. Aber ein netter Arzt macht sie heimlich wieder auf!",
+            "Mach es heute wie wir: Stoßlüften! Mach das Fenster etwa fünf Minuten weit auf, zwei- oder dreimal am Tag. Aber lass es nicht stundenlang halb offen.",
+            "Ihre Worte stimmen heute noch: Hab nie Angst vor offenen Fenstern. Pack dich warm ein, dann lass die Luft rein."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For modal verbs, spoken German uses the simple past, not the Perfekt: müssen → musste. The other verb stays in the infinitive at the end.",
+              "example" : "Aber der Kranke musste warm im Bett bleiben.",
+              "title" : "Musste: the past of müssen"
+            },
+            {
+              "body" : "In the past, als is for one single time; wenn is for every time it happened. After wenn the verb goes to the end: wenn sie sich umgedreht haben.",
+              "example" : "Aber ein netter, kluger Chirurg hat die Fenster wieder aufgemacht, wenn sie sich umgedreht haben.",
+              "title" : "Wenn for something that happened again and again"
+            },
+            {
+              "body" : "So + adjective + wie says two things are the same: so frisch wie die Luft draußen = as fresh as the air outside.",
+              "example" : "Ihre erste Regel war: Die Luft soll so frisch sein wie die Luft draußen.",
+              "title" : "So … wie: as … as"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1859 hat Florence Nightingale in London ein kleines Buch geschrieben. Es war für Frauen mit einem Kranken zu Hause.",
+            "Ihre erste Regel war: Die Luft soll so frisch sein wie die Luft draußen. Aber der Kranke musste warm im Bett bleiben.",
+            "Sie hat auch von einem Krankenhaus erzählt: Da haben die Ärzte die Fenster immer zugemacht. Aber ein netter, kluger Chirurg hat die Fenster wieder aufgemacht, wenn sie sich umgedreht haben.",
+            "Mach es im Winter wie wir: Stoßlüften. Mach das Fenster etwa fünf Minuten weit auf, zweimal oder dreimal am Tag. Aber lass es nicht stundenlang halb offen.",
+            "Ihr Rat von 1859 stimmt heute noch: Hab nie Angst vor offenen Fenstern. Pack dich warm ein, dann lass die Luft rein."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Die, der, das can start a relative clause (who, that, which), and its verb moves to the end: die Luft, die ein Patient atmet = the air a patient breathes.",
+              "example" : "Ihre erste Regel war, die Luft, die ein Patient atmet, so rein zu halten wie die Luft draußen.",
+              "title" : "A relative clause sends the verb to the end"
+            },
+            {
+              "body" : "Statt + zu + infinitive gives the thing you don't do: statt es zu kippen = instead of tilting it. The infinitive goes at the end, with zu right before it.",
+              "example" : "Im Winter machst du das Fenster zwei-, dreimal am Tag etwa fünf Minuten weit auf, statt es stundenlang zu kippen.",
+              "title" : "Statt … zu: instead of doing"
+            },
+            {
+              "body" : "Jedes Mal, wenn means every time that; wenn sends its verb to the end of the clause.",
+              "example" : "Aber ein netter, kluger Chirurg hat sie jedes Mal aufgemacht, wenn sie sich umgedreht haben.",
+              "title" : "Jedes Mal, wenn: whenever"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1859 hat Florence Nightingale, die schon durch den Krimkrieg berühmt war, in London ein kleines Buch für Frauen geschrieben, die zu Hause Kranke pflegen.",
+            "Ihre erste Regel war, die Luft, die ein Patient atmet, so rein zu halten wie die Luft draußen. Aber halte ihn warm, schreibt sie, mit Decken und Wärmflaschen.",
+            "In einem Krankenhaus, erzählt sie, haben die Ärzte bei der Visite immer die Fenster zugemacht. Aber ein netter, kluger Chirurg hat sie jedes Mal aufgemacht, wenn sie sich umgedreht haben.",
+            "Wir sagen dazu Stoßlüften. Im Winter machst du das Fenster zwei-, dreimal am Tag etwa fünf Minuten weit auf, statt es stundenlang zu kippen. Lüfte das Schlafzimmer nach dem Aufstehen fünf bis zehn Minuten.",
+            "Ihr Rat ist von 1859 und stimmt heute noch: Hab nie Angst vor offenen Fenstern. Pack dich warm ein, dann lass die Luft rein."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Kaum + Plusquamperfekt (hatte + past participle) says one thing happened right after another: kaum hatten sie sich umgedreht = the moment they turned their backs. The verb comes straight after kaum.",
+              "example" : "Kaum hatten sie sich umgedreht, hat ein netter, kluger Assistenzarzt sie aufgerissen.",
+              "title" : "Kaum hatten sie …: hardly had they …"
+            },
+            {
+              "body" : "Mit X meint man Y explains what someone wants a word to say: mit „dann“ meint sie = by \"then\" she means.",
+              "example" : "Mit „dann“ meint sie: sobald der Patient warm im Bett liegt, mit Decken und Wärmflaschen.",
+              "title" : "Mit … meinen: to mean by"
+            },
+            {
+              "body" : "Ohne dass + a clause says what must not happen, with its verb at the end; use it when the subject changes: sie hält die Luft rein, ohne dass er friert.",
+              "example" : "Ihre erste Regel war, die Luft, die ein Patient atmet, so rein zu halten wie die Luft draußen, ohne dass er friert.",
+              "title" : "Ohne dass: without (a different subject)"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1859 hat Florence Nightingale, die schon seit dem Krimkrieg berühmt war, in London ein schmales Buch für Frauen herausgebracht, die zu Hause für die Gesundheit anderer sorgen.",
+            "Ihre erste Regel war, die Luft, die ein Patient atmet, so rein zu halten wie die Luft draußen, ohne dass er friert. Dazu ihr Satz: „Dann hab nie Angst vor offenen Fenstern“. Mit „dann“ meint sie: sobald der Patient warm im Bett liegt, mit Decken und Wärmflaschen.",
+            "Auf einer Station, schreibt sie, haben die Ärzte bei der Visite immer die Fenster zugemacht. Kaum hatten sie sich umgedreht, hat ein netter, kluger Assistenzarzt sie aufgerissen.",
+            "Bei uns heißt das Stoßlüften. Im Winter mach das Fenster zwei-, dreimal am Tag etwa fünf Minuten weit auf, nicht stundenlang gekippt. Das Schlafzimmer bekommt nach dem Aufstehen fünf bis zehn Minuten, Küche und Bad auch.",
+            "Ein Rat von 1859, der heute noch stimmt: Hab nie Angst vor offenen Fenstern. Pack dich warm ein, dann lass die Luft rein."
+          ]
+        }
+      ],
+      "summary" : "1859 war Florence Nightingales allererste Regel für die Pflege von Kranken frische Luft, und sie passt genauso gut zu einem kalten Novembermorgen.",
+      "title" : "Mach das Fenster auf",
+      "translationGroup" : "open-the-window"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "id" : "open-the-window-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To talk about a time before now, A1 uses a few simple past forms: había (there was), era (it was). The rest of the story stays in the present.",
+              "example" : "Pero en 1859, en Londres, había un libro de Florence Nightingale.",
+              "title" : "Había: one look back"
+            },
+            {
+              "body" : "A negative order to a friend is not the plain imperative: deja becomes no dejes, with the ending -es for -ar verbs. The pronoun goes before the verb: no la dejes.",
+              "example" : "Pero no la dejes medio abierta durante horas.",
+              "title" : "No + tú form: telling a friend what not to do"
+            },
+            {
+              "body" : "Así que joins a cause to what happens because of it: it's November, and because of that, the windows are shut.",
+              "example" : "Es noviembre, así que tienes las ventanas cerradas.",
+              "title" : "Así que for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es noviembre, así que tienes las ventanas cerradas. Pero en 1859, en Londres, había un libro de Florence Nightingale. Era para mujeres con alguien enfermo en casa.",
+            "Su primera regla es aire fresco y una cama calentita. En un hospital, dice ella, los médicos siempre cierran las ventanas. ¡Pero un médico amable las abre a sus espaldas!",
+            "Hoy, haz como los alemanes. Abre la ventana del todo unos cinco minutos. Hazlo dos o tres veces al día. Pero no la dejes medio abierta durante horas.",
+            "Sus palabras siguen siendo verdad: nunca tengas miedo de las ventanas abiertas. Abrígate bien y luego deja entrar el aire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Tener que + infinitive says something must be done; in the imperfect, tenía que, it was the rule back then: the sick person had to stay warm.",
+              "example" : "Pero el enfermo tenía que estar calentito en la cama.",
+              "title" : "Tenía que: had to"
+            },
+            {
+              "body" : "Something that happened again and again goes in the imperfect, not the pretérito: cerraban, volvía a abrir, se daban la vuelta. Escribió is one event, so it takes the pretérito.",
+              "example" : "En un hospital, escribió, los médicos siempre cerraban las ventanas.",
+              "title" : "The imperfect for a habit"
+            },
+            {
+              "body" : "Use tan + adjective + como to say two things are equal: tan fresco como el aire de fuera = as fresh as the air outside.",
+              "example" : "Su primera regla era sobre el aire: hay que mantenerlo tan fresco como el de fuera.",
+              "title" : "Tan … como: as … as"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1859, Florence Nightingale escribió un libro pequeño en Londres. Era para mujeres con alguien enfermo en casa.",
+            "Su primera regla era sobre el aire: hay que mantenerlo tan fresco como el de fuera. Pero el enfermo tenía que estar calentito en la cama.",
+            "En un hospital, escribió, los médicos siempre cerraban las ventanas. Pero un cirujano amable y listo las volvía a abrir cuando se daban la vuelta.",
+            "En invierno, haz como los alemanes: abre la ventana del todo unos cinco minutos. Hazlo dos o tres veces al día. Pero no dejes una ventana medio abierta durante horas.",
+            "Así que su consejo de 1859 sigue siendo verdad. Nunca tengas miedo de las ventanas abiertas: abrígate bien y luego deja entrar el aire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Cada vez que means \"every time that\"; with a habit in the past both verbs go in the imperfect: las abría cada vez que se daban la vuelta.",
+              "example" : "Pero un cirujano amable y listo las abría cada vez que se daban la vuelta.",
+              "title" : "Cada vez que: whenever"
+            },
+            {
+              "body" : "En vez de (instead of) is followed by the infinitive, never a conjugated verb, and a pronoun joins its end: en vez de dejarla = instead of leaving it.",
+              "example" : "En invierno, abre la ventana del todo unos cinco minutos, dos o tres veces al día, en vez de dejarla abatida durante horas.",
+              "title" : "En vez de + infinitive"
+            },
+            {
+              "body" : "Al + infinitive means \"when\" or \"as soon as\" for two things at the same moment: al levantarte = when you get up, al pasar visita = while doing their rounds.",
+              "example" : "Y ventila el dormitorio de cinco a diez minutos al levantarte.",
+              "title" : "Al + infinitive: when you do something"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En Londres, en 1859, Florence Nightingale ya era famosa por la guerra de Crimea. Ese año escribió un libro pequeño para mujeres que cuidaban a alguien enfermo en casa.",
+            "Su primera regla era mantener el aire que respira el enfermo tan puro como el de fuera. Pero abrígalo bien, añadía, con mantas y bolsas de agua caliente.",
+            "En un hospital, escribió, los médicos siempre cerraban las ventanas al pasar visita. Pero un cirujano amable y listo las abría cada vez que se daban la vuelta.",
+            "Hoy los alemanes tienen una palabra para esto: Stoßlüften. En invierno, abre la ventana del todo unos cinco minutos, dos o tres veces al día, en vez de dejarla abatida durante horas. Y ventila el dormitorio de cinco a diez minutos al levantarte.",
+            "Es un consejo de 1859, y sigue siendo verdad: nunca tengas miedo de las ventanas abiertas. Abrígate bien y luego deja entrar el aire."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "En cuanto + a clause means \"as soon as\", the very moment something happens; for a past habit it takes the imperfect: en cuanto se daban la vuelta.",
+              "example" : "Un cirujano residente amable y listo las abría en cuanto se daban la vuelta.",
+              "title" : "En cuanto: as soon as"
+            },
+            {
+              "body" : "Querer decir explains what someone wanted a word to say: con ese «entonces» quería decir… = by that \"then\" she meant…. It is the everyday way to say \"to mean\".",
+              "example" : "Y con ese «entonces» quería decir cuando el enfermo ya estaba calentito en la cama, con mantas y bolsas de agua caliente.",
+              "title" : "Querer decir: to mean"
+            },
+            {
+              "body" : "Sin + infinitive works when the subject is the same; when it changes, Spanish uses sin que + subjunctive: sin que pase frío = without him getting cold.",
+              "example" : "Su primera regla era mantener el aire que respira el enfermo tan puro como el de fuera, sin que pase frío.",
+              "title" : "Sin que + subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En Londres, en 1859, Florence Nightingale, ya famosa por la guerra de Crimea, publicó un librito para mujeres a cargo de la salud de alguien en casa.",
+            "Su primera regla era mantener el aire que respira el enfermo tan puro como el de fuera, sin que pase frío. Su frase era «Entonces nunca tengas miedo de las ventanas abiertas». Y con ese «entonces» quería decir cuando el enfermo ya estaba calentito en la cama, con mantas y bolsas de agua caliente.",
+            "Escribió sobre una sala de hospital donde los médicos cerraban siempre las ventanas al pasar visita. Un cirujano residente amable y listo las abría en cuanto se daban la vuelta.",
+            "Los alemanes lo llaman Stoßlüften. En invierno, abre la ventana de par en par unos cinco minutos, dos o tres veces al día, y nada de tenerla abatida durante horas. Ventila el dormitorio de cinco a diez minutos al levantarte, y también la cocina y el baño.",
+            "Un consejo de 1859 que sigue siendo verdad: nunca tengas miedo de las ventanas abiertas. Abrígate bien y luego deja entrar el aire."
+          ]
+        }
+      ],
+      "summary" : "En 1859, la primera regla de Florence Nightingale para cuidar a un enfermo trataba del aire, y sirve igual para una fría mañana de noviembre.",
+      "title" : "Abre la ventana",
+      "translationGroup" : "open-the-window"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "id" : "open-the-window-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To talk about a time before now, A1 uses a few imperfetto forms: c'era (there was), era (it was). The rest of the story stays in the present.",
+              "example" : "Ma nel 1859, a Londra, c'era un libro di Florence Nightingale.",
+              "title" : "C'era: one look back"
+            },
+            {
+              "body" : "The negative tu imperative is non + the infinitive, and a pronoun can join the end: non lasciare → non lasciarla = don't leave it.",
+              "example" : "Ma non lasciarla aperta a metà per ore.",
+              "title" : "Non + infinitive: telling a friend what not to do"
+            },
+            {
+              "body" : "Quindi joins a cause to what follows from it: it's November, and because of that, the windows are shut.",
+              "example" : "È novembre, quindi hai le finestre chiuse.",
+              "title" : "Quindi for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È novembre, quindi hai le finestre chiuse. Ma nel 1859, a Londra, c'era un libro di Florence Nightingale. Era un libro per le donne con una persona malata a casa.",
+            "La sua prima regola è semplice: aria fresca e un letto caldo. In un ospedale, racconta, i medici chiudono sempre le finestre. Ma un medico gentile le apre alle loro spalle!",
+            "Oggi fai come i tedeschi. Apri tutta la finestra per circa cinque minuti. Fallo due o tre volte al giorno. Ma non lasciarla aperta a metà per ore.",
+            "Le sue parole valgono ancora: non avere mai paura delle finestre aperte. Stai al caldo, poi fai entrare l'aria."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Dovere in the imperfetto (doveva) describes a rule that held back then: il malato doveva stare al caldo = the sick person had to stay warm.",
+              "example" : "Ma il malato doveva stare al caldo, a letto.",
+              "title" : "Doveva: the past of a rule"
+            },
+            {
+              "body" : "Something that happened again and again takes the imperfetto, not the passato prossimo: chiudevano sempre = they always used to shut.",
+              "example" : "Ma un chirurgo gentile e intelligente le riapriva quando loro giravano le spalle.",
+              "title" : "Imperfetto for a habit: chiudevano, riapriva"
+            },
+            {
+              "body" : "To say two things are equal, put come after the adjective: fresca come l'aria di fuori = as fresh as the air outside.",
+              "example" : "La sua prima regola parlava dell'aria: tenerla fresca come l'aria di fuori.",
+              "title" : "Come for comparison: fresca come"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1859, a Londra, Florence Nightingale ha scritto un piccolo libro. Era per le donne con una persona malata a casa.",
+            "La sua prima regola parlava dell'aria: tenerla fresca come l'aria di fuori. Ma il malato doveva stare al caldo, a letto.",
+            "In un ospedale, ha scritto, i medici chiudevano sempre le finestre. Ma un chirurgo gentile e intelligente le riapriva quando loro giravano le spalle.",
+            "In inverno fai come i tedeschi: apri tutta la finestra per circa cinque minuti. Fallo due o tre volte al giorno, ma non lasciare una finestra aperta a metà per ore.",
+            "Quindi il suo consiglio del 1859 vale ancora. Non avere mai paura delle finestre aperte: stai al caldo, poi fai entrare l'aria."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Italian never drops the relative pronoun the way English can: \"the air a patient breathes\" must be l'aria che il paziente respira.",
+              "example" : "La sua prima regola era tenere l'aria che il paziente respira pura come l'aria di fuori.",
+              "title" : "Che as an object: l'aria che il paziente respira"
+            },
+            {
+              "body" : "Invece di + an infinitive gives the thing you don't do: invece di lasciarla = instead of leaving it, with the pronoun joined to the end.",
+              "example" : "In inverno apri tutta la finestra per circa cinque minuti, due o tre volte al giorno, invece di lasciarla a ribalta per ore.",
+              "title" : "Invece di + infinitive"
+            },
+            {
+              "body" : "Ogni volta che means \"every time that\", and with a repeated past action both verbs take the imperfetto: le riapriva ogni volta che giravano le spalle.",
+              "example" : "Ma un chirurgo gentile e intelligente le riapriva ogni volta che giravano le spalle.",
+              "title" : "Ogni volta che: whenever"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "A Londra, nel 1859, Florence Nightingale era già famosa per la guerra di Crimea. Quell'anno ha scritto un piccolo libro per le donne che curano una persona malata a casa.",
+            "La sua prima regola era tenere l'aria che il paziente respira pura come l'aria di fuori. Però tienilo al caldo, aggiungeva, con coperte e borse dell'acqua calda.",
+            "In un ospedale, ha scritto, i medici chiudevano sempre le finestre durante il giro visite. Ma un chirurgo gentile e intelligente le riapriva ogni volta che giravano le spalle.",
+            "Oggi i tedeschi hanno una parola per questo: Stoßlüften. In inverno apri tutta la finestra per circa cinque minuti, due o tre volte al giorno, invece di lasciarla a ribalta per ore. E quando ti alzi, cambia l'aria in camera da letto per cinque o dieci minuti.",
+            "È un consiglio del 1859, e vale ancora: non avere mai paura delle finestre aperte. Stai al caldo, poi fai entrare l'aria."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Non appena + a verb means \"as soon as, the moment\": le riapriva non appena giravano le spalle = right after they turned.",
+              "example" : "Un medico interno gentile e intelligente le riapriva non appena gli altri giravano le spalle.",
+              "title" : "Non appena: the moment"
+            },
+            {
+              "body" : "Con X intendeva Y explains what someone wanted a word to say; in everyday speech voleva dire works the same way.",
+              "example" : "Con «allora» intendeva il momento in cui il paziente era al caldo a letto, con coperte e borse dell'acqua calda.",
+              "title" : "Intendere: what someone meant"
+            },
+            {
+              "body" : "Speech often drops the verb when the meaning is clear: un consiglio del 1859 che vale ancora = this is advice from 1859 that still holds.",
+              "example" : "Un consiglio del 1859 che vale ancora: non avere mai paura delle finestre aperte.",
+              "title" : "A phrase without a verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "A Londra nel 1859, Florence Nightingale, già famosa per la guerra di Crimea, ha pubblicato un libretto per le donne che a casa si occupano della salute di qualcuno.",
+            "La prima regola era tenere l'aria che il paziente respira pura come l'aria di fuori, senza fargli prendere freddo. Ha scritto: «Non avere mai paura delle finestre aperte, allora». Con «allora» intendeva il momento in cui il paziente era al caldo a letto, con coperte e borse dell'acqua calda.",
+            "Ha raccontato di un reparto dove i medici chiudevano sempre le finestre durante il giro visite. Un medico interno gentile e intelligente le riapriva non appena gli altri giravano le spalle.",
+            "I tedeschi lo chiamano Stoßlüften. In inverno spalanca la finestra per circa cinque minuti, due o tre volte al giorno, e non tenerla a ribalta per ore. Quando ti alzi, cambia l'aria in camera da letto per cinque o dieci minuti, e lo stesso vale per la cucina e il bagno.",
+            "Un consiglio del 1859 che vale ancora: non avere mai paura delle finestre aperte. Stai al caldo, poi fai entrare l'aria."
+          ]
+        }
+      ],
+      "summary" : "Nel 1859 la primissima regola di Florence Nightingale per curare i malati parlava d'aria, e va benissimo anche per una fredda mattina di novembre.",
+      "title" : "Apri la finestra",
+      "translationGroup" : "open-the-window"
     }
   ]
 }

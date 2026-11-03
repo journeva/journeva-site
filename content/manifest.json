@@ -1,9 +1,21 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 27,
-  "generatedAt" : "2026-11-03",
+  "contentVersion" : 28,
+  "generatedAt" : "2026-11-04",
   "imageBaseURL" : "images/",
   "newest" : [
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-04",
+      "titles" : {
+        "english" : "Open the Window",
+        "french" : "Ouvre la fenêtre",
+        "german" : "Mach das Fenster auf",
+        "italian" : "Apri la finestra",
+        "spanish" : "Abre la ventana"
+      },
+      "translationGroup" : "open-the-window"
+    },
     {
       "category" : "lifeLessons",
       "dateAdded" : "2026-11-03",
@@ -27,20 +39,8 @@
         "spanish" : "A la cuarta, la vencida"
       },
       "translationGroup" : "zaragozas-fourth-try"
-    },
-    {
-      "category" : "recipes",
-      "dateAdded" : "2026-10-30",
-      "titles" : {
-        "english" : "The Chicken That Went to Court",
-        "french" : "Le poulet qui a fini au tribunal",
-        "german" : "Das Hähnchen vor Gericht",
-        "italian" : "Il pollo finito in tribunale",
-        "spanish" : "El pollo que acabó en los tribunales"
-      },
-      "translationGroup" : "butter-chicken"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "f111fcdd3ec0675cdd59d3f305cfefe59a1bd95e6f7233c9b8741e5ce072badd"
+  "sha256" : "5b16eca2da099f02bb49656ecb1aa96c19a4efee96a5a6bb1c15dccb12efa345"
 }
