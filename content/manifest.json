@@ -1,9 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 28,
-  "generatedAt" : "2026-11-04",
+  "contentVersion" : 29,
+  "generatedAt" : "2026-11-05",
   "imageBaseURL" : "images/",
+  "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-05",
+      "titles" : {
+        "english" : "Live in Each Season",
+        "french" : "Vis chaque saison",
+        "german" : "Lebe jede Jahreszeit",
+        "italian" : "Vivi ogni stagione",
+        "spanish" : "Vive cada estación"
+      },
+      "translationGroup" : "live-in-each-season"
+    },
     {
       "category" : "health",
       "dateAdded" : "2026-11-04",
@@ -27,20 +40,8 @@
         "spanish" : "Pero trae alegría"
       },
       "translationGroup" : "but-it-brings-joy"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-02",
-      "titles" : {
-        "english" : "Zaragoza's Fourth Try",
-        "french" : "Le quatrième essai de Saragosse",
-        "german" : "Zaragozas vierter Versuch",
-        "italian" : "Il quarto tentativo di Saragozza",
-        "spanish" : "A la cuarta, la vencida"
-      },
-      "translationGroup" : "zaragozas-fourth-try"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "5b16eca2da099f02bb49656ecb1aa96c19a4efee96a5a6bb1c15dccb12efa345"
+  "sha256" : "1d0250aa20ed6a48611b679739e9abed4b4f02e0de752140b9cffeeb9420dc07"
 }
