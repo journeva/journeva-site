@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 29,
-  "generatedAt" : "2026-11-05",
+  "contentVersion" : 30,
+  "generatedAt" : "2026-11-06",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "titles" : {
+        "english" : "The Man Who Couldn't Sell It",
+        "french" : "L'homme qui n'a pas su le vendre",
+        "german" : "Der Mann, der es nicht verkaufen konnte",
+        "italian" : "L'uomo che non riusciva a venderlo",
+        "spanish" : "El hombre que no pudo venderlo"
+      },
+      "translationGroup" : "castagnaccio"
+    },
     {
       "category" : "bookQuotes",
       "dateAdded" : "2026-11-05",
@@ -28,20 +40,8 @@
         "spanish" : "Abre la ventana"
       },
       "translationGroup" : "open-the-window"
-    },
-    {
-      "category" : "lifeLessons",
-      "dateAdded" : "2026-11-03",
-      "titles" : {
-        "english" : "But It Brings Joy",
-        "french" : "Mais il apporte la joie",
-        "german" : "Aber er bringt Freude",
-        "italian" : "Ma porta gioia",
-        "spanish" : "Pero trae alegría"
-      },
-      "translationGroup" : "but-it-brings-joy"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "1d0250aa20ed6a48611b679739e9abed4b4f02e0de752140b9cffeeb9420dc07"
+  "sha256" : "66109d5ca0047a88589808b33af4e6d3c692a3aec7d63c3ab6afb59c3d642f2e"
 }

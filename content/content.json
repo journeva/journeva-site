@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 29,
-  "generatedAt" : "2026-11-05",
+  "contentVersion" : 30,
+  "generatedAt" : "2026-11-06",
   "glossary" : {
     "english" : [
       {
@@ -71425,6 +71425,15 @@
         "note" : "Mettre + le, tu imperative: « mets-le au four » = put it in the oven, bake it; the pronoun follows the verb with a hyphen.",
         "pos" : "verb",
         "translation" : "put it (imperative)"
+      },
+      {
+        "forms" : [
+          "écrivain"
+        ],
+        "gender" : "masculine",
+        "note" : "Un écrivain = a writer (of books); the feminine is une écrivaine.",
+        "pos" : "noun",
+        "translation" : "writer"
       }
     ],
     "german" : [
@@ -114146,6 +114155,15 @@
         "note" : "Die Backform = backen + Form, the tin a cake is baked in: „eine geölte Backform von 30 cm“ = an oiled 30 cm tin.",
         "pos" : "noun",
         "translation" : "baking tin, cake tin"
+      },
+      {
+        "forms" : [
+          "novemberluft"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Novemberluft = November + Luft (air): the air in November. A compound noun takes the gender of its last part: die Luft.",
+        "pos" : "noun",
+        "translation" : "November air"
       }
     ],
     "italian" : [
@@ -150486,6 +150504,24 @@
         "note" : "Feminine of venditore, a person who sells: una venditrice = a woman who sells things.",
         "pos" : "noun",
         "translation" : "seller (woman)"
+      },
+      {
+        "forms" : [
+          "vendi"
+        ],
+        "note" : "Present of vendere, tu form: perché non vendi? = why don't you sell?",
+        "pos" : "verb",
+        "translation" : "(you) sell"
+      },
+      {
+        "forms" : [
+          "periodi",
+          "periodo"
+        ],
+        "gender" : "masculine",
+        "note" : "In questo periodo = at this time of year, these days.",
+        "pos" : "noun",
+        "translation" : "period, time"
       }
     ],
     "spanish" : [
@@ -237639,27 +237675,27 @@
         {
           "grammar" : [
             {
-              "body" : "To talk about a time before now, A1 uses a few simple past forms: was, were, had. The rest of the story stays in the present.",
-              "example" : "Thoreau had a big journal about his walks and the plants.",
+              "body" : "To talk about a time before now, use a few simple past forms: was, were, had. The rest of the story stays in the present.",
+              "example" : "He had a big journal about his walks and the plants.",
               "title" : "Was, were, had: one look back"
             },
             {
               "body" : "Put \"don't\" before the base verb to say \"don't do this\". To say what to do, use the base verb alone: enjoy, try, taste.",
-              "example" : "Don't wait for summer.",
+              "example" : "Don't wait for summer: enjoy the season you're in.",
               "title" : "Don't + verb: telling a friend what not to do"
             },
             {
-              "body" : "\"So\" joins a reason to what follows from it: it's November, and because of that, live in November.",
-              "example" : "It's November now, so live in November too: breathe the air, taste the fruit.",
+              "body" : "\"So\" joins a reason to what follows from it: it's November now, and because of that, live in November.",
+              "example" : "So live in November too: breathe the air, taste the fruit.",
               "title" : "So for a result"
             }
           ],
           "level" : "A1",
           "paragraphs" : [
-            "It's November now, and August feels far away. But think back to 23 August 1853, near Concord, in America. That day, Henry Thoreau was out twice, and the dry fields were yellow.",
-            "Thoreau had a big journal about his walks and the plants. And his famous line from that day begins: “Live in each season as it passes.”",
-            "It's from one August day, but it works in every season. Don't wait for summer. Just enjoy the season you're in.",
-            "So try it this week, and taste some fruit that's in season. It's November now, so live in November too: breathe the air, taste the fruit."
+            "It's November now, and August feels far away. But think back to one day in August 1853. Near Concord, in America, Henry Thoreau was out twice. It was summer, and the dry fields were yellow.",
+            "He had a big journal about his walks and the plants. And his famous line from that day begins: “Live in each season as it passes.”",
+            "The line is from one August day, but it works all year. Don't wait for summer: enjoy the season you're in.",
+            "Try it this week, and taste some fruit in season. So live in November too: breathe the air, taste the fruit."
           ]
         },
         {
@@ -237757,27 +237793,27 @@
         {
           "grammar" : [
             {
-              "body" : "To talk about a time before now, A1 uses a few past forms: était (was), étaient (were), avait (had). The rest of the story stays in the present.",
-              "example" : "Ce jour-là, Henry Thoreau était dehors deux fois, et les champs secs étaient jaunes.",
-              "title" : "Était, étaient, avait: one look back"
+              "body" : "To talk about a time before now, A1 uses a few past forms: était (was), avait (had). French often tells a past day in the present, so the day in 1853 is in the present: il sort, il marche, il écrit. That is not a mistake.",
+              "example" : "Thoreau était un écrivain américain, et il avait un grand journal.",
+              "title" : "Était, avait: one look back"
             },
             {
-              "body" : "To tell a friend not to do something, put ne (n' before a vowel) before the verb and pas after it: n'attends pas. To say what to do, use the verb alone: profite, essaie, goûte.",
-              "example" : "N'attends pas l'été, profite juste de la saison où tu es.",
+              "body" : "To tell a friend not to do something, put ne (n' before a vowel) before the verb and pas after it: n'attends pas. To say what to do, use the verb alone: profite, vis, respire, goûte.",
+              "example" : "Alors n'attends pas l'été : profite de chaque saison.",
               "title" : "Ne … pas with the imperative"
             },
             {
               "body" : "Alors joins a cause to what follows from it, like so in English: it's November, so live November.",
-              "example" : "On est en novembre, alors vis aussi novembre : respire l'air, goûte le fruit.",
+              "example" : "On est en novembre, alors vis novembre : respire l'air, goûte le fruit.",
               "title" : "Alors for a result"
             }
           ],
           "level" : "A1",
           "paragraphs" : [
-            "On est en novembre, et août, c'est déjà loin. Mais revenons au 23 août 1853, près de Concord, en Amérique. Ce jour-là, Henry Thoreau était dehors deux fois, et les champs secs étaient jaunes.",
-            "Thoreau avait un grand journal sur ses promenades et sur les plantes. Et sa célèbre phrase de ce jour-là commence par : « Vis chaque saison pendant qu'elle passe. »",
-            "Elle vient d'un seul jour d'août, mais elle marche pour toutes les saisons. N'attends pas l'été, profite juste de la saison où tu es.",
-            "Essaie ça cette semaine : goûte des fruits de saison. On est en novembre, alors vis aussi novembre : respire l'air, goûte le fruit."
+            "Un jour d'août 1853, Henry Thoreau sort deux fois près de Concord. Il marche, et les champs secs sont tout jaunes.",
+            "Thoreau était un écrivain américain, et il avait un grand journal. Ce journal parle de ses longues promenades et des plantes.",
+            "Ce jour-là, il écrit une phrase célèbre. Elle commence par : « Vis chaque saison pendant qu'elle passe. » Cette phrase vient d'un jour d'août, mais elle marche toute l'année. Alors n'attends pas l'été : profite de chaque saison.",
+            "Cette semaine, tu peux goûter un fruit de saison. On est en novembre, alors vis novembre : respire l'air, goûte le fruit."
           ]
         },
         {
@@ -237875,27 +237911,27 @@
         {
           "grammar" : [
             {
-              "body" : "To talk about a time before now, A1 uses a few simple past forms: war (was), waren (were), hatte (had). The rest of the story stays in the present.",
-              "example" : "Thoreau hatte ein großes Tagebuch über seine Spaziergänge und die Pflanzen.",
+              "body" : "To look back at 1853 (damals, back then), A1 uses a few simple past forms: war (was), waren (were), hatte (had). Everything else stays in the present, even the line he wrote: sein Satz beginnt so.",
+              "example" : "Eines Tages war er zweimal draußen, und die trockenen Felder waren gelb.",
               "title" : "War, waren, hatte: one look back"
             },
             {
-              "body" : "The du imperative is the du form without -st and without du: du wartest → warte, du genießt → genieß. Put nicht after it to say what not to do.",
-              "example" : "Warte nicht auf den Sommer.",
+              "body" : "The du imperative is the verb stem, plus -e after -t or -d: warte, genieß, probier, leb (Lebe in the quote is the fuller, older form). Put nicht after it to say what not to do.",
+              "example" : "Also warte nicht auf den Sommer und genieß die Jahreszeit jetzt.",
               "title" : "Warte nicht: telling a friend what not to do"
             },
             {
-              "body" : "„Also“ (so) joins a reason to what follows from it: it's November, and because of that, live in November.",
-              "example" : "Es ist November, also leb auch im November: Atme die Luft, koste die Früchte.",
+              "body" : "„Also“ (so) joins a reason to what follows from it: it's November, so live in November. Careful: German also always means \"so\", never English \"also\" (that is auch).",
+              "example" : "Jetzt ist November, also leb im November!",
               "title" : "Also for a result"
             }
           ],
           "level" : "A1",
           "paragraphs" : [
-            "Jetzt ist November, und der August ist weit weg. Aber denk an den 23. August 1853, bei Concord in Amerika. An dem Tag war Henry Thoreau zweimal draußen, und die trockenen Felder waren gelb.",
-            "Thoreau hatte ein großes Tagebuch über seine Spaziergänge und die Pflanzen. Sein berühmter Satz von dem Tag beginnt so: „Lebe jede Jahreszeit, während sie vergeht.“",
-            "Der Satz ist aus dem August, aber er passt zu jeder Jahreszeit. Warte nicht auf den Sommer. Genieß einfach die Jahreszeit, die du hast.",
-            "Koste diese Woche Obst, das gerade Saison hat. Es ist November, also leb auch im November: Atme die Luft, koste die Früchte."
+            "Jetzt ist November, aber denk an den August 1853. Damals war Henry Thoreau aus Amerika bei Concord. Eines Tages war er zweimal draußen, und die trockenen Felder waren gelb.",
+            "Thoreau hatte ein großes Tagebuch über seine Spaziergänge und die Pflanzen. Und sein berühmter Satz von diesem Tag beginnt so: „Lebe jede Jahreszeit, während sie vergeht.“",
+            "Der Satz ist aus dem August, aber er passt zu jeder Jahreszeit. Also warte nicht auf den Sommer und genieß die Jahreszeit jetzt.",
+            "Im November gibt es gutes Obst. Probier es doch diese Woche! Jetzt ist November, also leb im November! Atme die Novemberluft und probier das Obst."
           ]
         },
         {
@@ -237993,27 +238029,27 @@
         {
           "grammar" : [
             {
-              "body" : "To talk about a time before now, A1 uses a few simple past forms such as tenía (he had). The rest of the story stays in the present, even for that day: sale, están.",
-              "example" : "Thoreau tenía un diario grande sobre sus paseos y las plantas.",
-              "title" : "Tenía: one look back"
+              "body" : "To talk about a time before now, A1 uses a few background past forms (the imperfect): era (was), tenía (had). The rest of the story stays in the present, even for that day in 1853: sale, está, escribe.",
+              "example" : "Thoreau era un escritor de Estados Unidos.",
+              "title" : "Era, tenía: one look back"
             },
             {
-              "body" : "A negative order to a friend is not the plain imperative: espera becomes no esperes, with the ending -es for -ar verbs. To say what to do, use the plain imperative: disfruta, come, prueba.",
-              "example" : "No esperes al verano.",
+              "body" : "A negative order to a friend is not the plain imperative: espera becomes no esperes, with the ending -es for -ar verbs. To say what to do, use the plain imperative: disfruta, prueba, vive.",
+              "example" : "Quiere decir: disfruta de cada estación y no esperes al verano.",
               "title" : "No + tú form: telling a friend what not to do"
             },
             {
-              "body" : "Así que joins a reason to what follows from it: it's November, and because of that, live in November.",
-              "example" : "Ya es noviembre, así que vive también noviembre: respira el aire, prueba la fruta.",
+              "body" : "Así que joins a reason to what follows from it, like so in English: it's November, and because of that, live in November.",
+              "example" : "Es noviembre, así que vive noviembre: respira el aire, prueba la fruta.",
               "title" : "Así que for a result"
             }
           ],
           "level" : "A1",
           "paragraphs" : [
-            "Ya es noviembre, y agosto queda muy lejos. Pero piensa en el 23 de agosto de 1853, cerca de Concord, en Estados Unidos. Ese día, Henry Thoreau sale dos veces, y los campos secos están amarillos.",
-            "Thoreau tenía un diario grande sobre sus paseos y las plantas. Y su frase famosa de ese día empieza así: «Vive cada estación mientras pasa».",
-            "La frase es de un día de agosto, pero sirve para todas las estaciones. No esperes al verano. Disfruta de la estación en la que estás.",
-            "Pruébalo esta semana y come fruta de temporada. Ya es noviembre, así que vive también noviembre: respira el aire, prueba la fruta."
+            "Un día de agosto de 1853, Henry Thoreau sale dos veces. Está cerca de Concord, y los campos secos están amarillos.",
+            "Thoreau era un escritor de Estados Unidos. También tenía un diario muy largo sobre sus paseos y las plantas.",
+            "Ese día, escribe en su diario una frase famosa. La frase empieza así: «Vive cada estación mientras pasa». Quiere decir: disfruta de cada estación y no esperes al verano. La frase es de agosto, pero sirve para todas las estaciones.",
+            "Esta semana, prueba una fruta de temporada. Ahora las manzanas son de temporada, por ejemplo. Es noviembre, así que vive noviembre: respira el aire, prueba la fruta."
           ]
         },
         {
@@ -238111,13 +238147,13 @@
         {
           "grammar" : [
             {
-              "body" : "Italian often tells a past story in the present to bring it close: quel giorno Thoreau esce = that day Thoreau goes out (went out).",
-              "example" : "Quel giorno Henry Thoreau esce due volte, e i campi secchi sono gialli.",
-              "title" : "The present for a story"
+              "body" : "To say what was true back then, A1 uses a few past forms: era (was), aveva (had). The rest stays in the present, even the day in 1853: esce, cammina, scrive.",
+              "example" : "Thoreau era uno scrittore americano, e aveva un grande diario.",
+              "title" : "Era, aveva: one look back"
             },
             {
               "body" : "The negative tu imperative is non + the infinitive: non aspettare = don't wait. To say what to do, use the tu imperative: goditi, assaggia, vivi.",
-              "example" : "Quindi non aspettare l'estate.",
+              "example" : "Vuol dire: goditi ogni stagione e non aspettare l'estate.",
               "title" : "Non + infinitive: telling a friend what not to do"
             },
             {
@@ -238128,10 +238164,10 @@
           ],
           "level" : "A1",
           "paragraphs" : [
-            "È già novembre, e agosto sembra proprio lontano. Ma pensa al 23 agosto 1853, vicino a Concord, in America. Quel giorno Henry Thoreau esce due volte, e i campi secchi sono gialli.",
-            "Thoreau ha un grande diario sulle sue passeggiate e sulle piante. E la sua frase famosa di quel giorno comincia così: «Vivi ogni stagione mentre passa».",
-            "È una frase di un giorno d'agosto, ma va bene per ogni stagione. Quindi non aspettare l'estate. Goditi la stagione di adesso, così com'è.",
-            "Allora prova questa settimana: assaggia un po' di frutta di stagione. È novembre, quindi vivi anche novembre: respira l'aria, gusta la frutta."
+            "Un giorno d'agosto del 1853, Henry Thoreau esce due volte. Cammina vicino a Concord, e i campi secchi sono tutti gialli.",
+            "Thoreau era uno scrittore americano, e aveva un grande diario. Nel diario parla spesso delle sue passeggiate e delle piante.",
+            "Quel giorno scrive nel diario una frase famosa. Comincia così: «Vivi ogni stagione mentre passa». Vuol dire: goditi ogni stagione e non aspettare l'estate. Viene da un giorno d'agosto, ma va bene per ogni stagione.",
+            "Allora prova questa settimana: assaggia un po' di frutta di stagione. In questo periodo le mele sono molto buone. È novembre, quindi vivi novembre: respira l'aria, gusta la frutta."
           ]
         },
         {
@@ -238219,6 +238255,586 @@
       "summary" : "In un giorno di fine agosto del 1853, Henry Thoreau ha scritto nel suo diario una frase che va bene anche per una mattina di novembre.",
       "title" : "Vivi ogni stagione",
       "translationGroup" : "live-in-each-season"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "id" : "castagnaccio",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe uses the base form of the verb with no subject: mix, add, pour, bake.",
+              "example" : "Mix 500 g of chestnut flour and a pinch of salt.",
+              "title" : "The imperative for a recipe"
+            },
+            {
+              "body" : "To talk about a time before now, A1 uses one past form here: there was. The rest of the story stays in the present.",
+              "example" : "In 1891, there was a new cookbook in Florence, by Pellegrino Artusi.",
+              "title" : "There was: one look back"
+            },
+            {
+              "body" : "\"Why not\" + the base verb suggests something: why not sell it? = I think you should sell it.",
+              "example" : "In it, he asks a food seller: why not sell chestnut cake?",
+              "title" : "Why not + verb: a friendly idea"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In 1891, there was a new cookbook in Florence, by Pellegrino Artusi. In it, he asks a food seller: why not sell chestnut cake?",
+            "It's too sweet, she says, and nobody wants it. So he says: give the children some first. It's like talking to a wall!",
+            "Mix 500 g of chestnut flour and a pinch of salt. Add 800 ml of cold water, then pine nuts. Pour into an oiled 30 cm tin. Bake at 180 degrees for about 40 minutes. No sugar, no egg!",
+            "Artusi loses the argument, but now anyone can make it. Too sweet? Bake it this autumn and taste it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (asked, wanted); many common verbs have their own form (write → wrote, lose → lost, win → won).",
+              "example" : "He lost the argument but won the cake: now anyone can make it.",
+              "title" : "The past simple: wrote, asked, won"
+            },
+            {
+              "body" : "\"Too\" before an adjective means more than is good: too sweet = so sweet that it's a problem.",
+              "example" : "Her answer: too sweet, and nobody wanted it.",
+              "title" : "Too + adjective: more than you want"
+            },
+            {
+              "body" : "\"Until\" + a clause says when to stop: bake until the top cracks.",
+              "example" : "Bake at 180 degrees for about 40 minutes, until the top cracks.",
+              "title" : "Until: up to the moment that"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1891, Pellegrino Artusi, a retired businessman in Florence, wrote a cookbook. In it, he asked a food seller: why not sell chestnut cake?",
+            "Her answer: too sweet, and nobody wanted it. So he tried again: give the children some first. It was like talking to a wall.",
+            "Mix 500 g of chestnut flour, a pinch of salt and 800 ml of cold water. Add pine nuts, pour into an oiled 30 cm tin and put two spoons of oil on top. Bake at 180 degrees for about 40 minutes, until the top cracks. No sugar, no egg!",
+            "He lost the argument but won the cake: now anyone can make it. Too sweet? Bake it this autumn and taste it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a past verb (said, asked) the reported words move one tense back: \"it's too sweet\" becomes she said it was too sweet.",
+              "example" : "It was too sweet, she said, and nobody would eat it.",
+              "title" : "Reported speech: she said it was"
+            },
+            {
+              "body" : "\"Suggest\" takes the -ing form, not to + verb: he suggested giving pieces, not he suggested to give.",
+              "example" : "He suggested giving pieces to the children first, but it was like talking to a wall.",
+              "title" : "Suggest + -ing"
+            },
+            {
+              "body" : "\"Describe asking\" = tell about the time you asked; the question that follows keeps statement word order: why she didn't sell, not why didn't she sell.",
+              "example" : "In it, he describes asking a food seller why she didn't sell a chestnut cake.",
+              "title" : "Describe + -ing, then a question word"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1891, Pellegrino Artusi, a retired businessman in Florence, paid for the first 1,000 copies of his cookbook himself.",
+            "In it, he describes asking a food seller why she didn't sell a chestnut cake. It was too sweet, she said, and nobody would eat it. He suggested giving pieces to the children first, but it was like talking to a wall.",
+            "Sift 500 g of chestnut flour with a pinch of salt, then slowly mix in 800 ml of cold water. Add pine nuts, pour into an oiled 30 cm tin and top with two spoons of oil. Artusi gives no temperature; try 180 degrees for about 40 minutes, until the top cracks. No sugar, no egg.",
+            "He lost the argument but won the cake: now anyone can make it. Too sweet? Bake it this autumn and decide for yourself."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Urge\" + person + to + verb means try hard to make them do it; \"recall\" + -ing means remember doing it.",
+              "example" : "In it, he recalls urging a food seller to sell chestnut cake.",
+              "title" : "Urge someone to: push hard for an idea"
+            },
+            {
+              "body" : "\"Far\" before \"too\" or a comparative makes it much stronger: far too sweet = much too sweet.",
+              "example" : "Far too sweet, she said; nobody would eat it.",
+              "title" : "Far too: making too stronger"
+            },
+            {
+              "body" : "\"Something takes some finding\" is an informal way to say it isn't easy to find; the -ing form works like a noun.",
+              "example" : "No sugar, no egg, though the flour takes some finding outside Italy.",
+              "title" : "Take some finding: hard to find"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1891, Pellegrino Artusi, a retired businessman in Florence, paid for the first 1,000 copies of his cookbook himself.",
+            "In it, he recalls urging a food seller to sell chestnut cake. Far too sweet, she said; nobody would eat it. He suggested giving the children a taste first, but it was like talking to a wall.",
+            "A joke book from the 1500s says a man from Lucca was \"the first to eat\" castagnaccio.",
+            "Sift 500 g of chestnut flour with a pinch of salt and slowly stir in 800 ml of cold water. Add pine nuts, pour into a thinly oiled 30 cm tin and drizzle with two spoons of oil. Artusi gives no temperature; try 180 degrees, about 40 minutes, until the top cracks. No sugar, no egg, though the flour takes some finding outside Italy.",
+            "He lost the argument but won the cake: now anyone can make it. Too sweet? Bake it this autumn and decide for yourself."
+          ]
+        }
+      ],
+      "summary" : "In his cookbook of 1891, Pellegrino Artusi tells how he tried to talk a food seller into selling a chestnut cake, and lost the argument; now anyone can bake it.",
+      "title" : "The Man Who Couldn't Sell It",
+      "translationGroup" : "castagnaccio"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "id" : "castagnaccio-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend uses the tu imperative: the tu present without « tu », and -er verbs drop the final -s: tu mélanges → mélange, tu ajoutes → ajoute.",
+              "example" : "Huile un moule de 30 cm et verse la pâte dedans.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "To talk about a time before now, A1 uses a few past forms such as il y avait (there was) and c'était (it was). The rest of the story stays in the present.",
+              "example" : "Plus tard, Artusi écrit : c'était comme parler à un mur !",
+              "title" : "C'était: one look back"
+            },
+            {
+              "body" : "Pourquoi ne pas + an infinitive is a friendly suggestion, like why not in English: pourquoi ne pas vendre = why not sell.",
+              "example" : "pourquoi ne pas vendre un gâteau aux châtaignes ?",
+              "title" : "Pourquoi ne pas + infinitive"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 1891, à Florence, Pellegrino Artusi écrit un livre de cuisine. Dans ce livre, il parle à une marchande. Il lui demande : pourquoi ne pas vendre un gâteau aux châtaignes ?",
+            "Elle répond : trop sucré, et personne n'en veut. Alors il propose : d'abord, des morceaux pour les enfants. Plus tard, Artusi écrit : c'était comme parler à un mur !",
+            "Mélange 500 g de farine de châtaigne et une pincée de sel. Ajoute 800 ml d'eau froide, puis des pignons. Huile un moule de 30 cm et verse la pâte dedans. Fais cuire à 180 degrés environ 40 minutes. Pas de sucre, pas d'œuf.",
+            "Artusi perd la bataille. Mais aujourd'hui, tout le monde peut faire ce gâteau. Trop sucré ? Mets-le au four cet automne et goûte-le !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avoir + a past participle: -er verbs end in -é (gagné, insisté), many others have their own form (écrire → écrit, perdre → perdu). With one subject, a can be said once for two verbs: il a perdu…, mais gagné.",
+              "example" : "Il a perdu la bataille, mais gagné le gâteau : aujourd'hui, tout le monde peut le faire.",
+              "title" : "The passé composé: a écrit, a perdu, a gagné"
+            },
+            {
+              "body" : "Trop before an adjective means more than is good: trop sucré = so sweet that it's a problem. Très sucré only means very sweet.",
+              "example" : "Sa réponse : trop sucré, et personne n'en voulait.",
+              "title" : "Trop + adjective: more than you want"
+            },
+            {
+              "body" : "Jusqu'à ce que + a clause says when to stop, and it takes the subjunctive; for craqueler the subjunctive looks like the present: que le dessus craquelle.",
+              "example" : "Fais cuire à 180 degrés environ 40 minutes, jusqu'à ce que le dessus craquelle.",
+              "title" : "Jusqu'à ce que: until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, un ancien homme d'affaires de Florence, a écrit un livre de cuisine. Dedans, il a demandé à une marchande : pourquoi ne pas vendre un gâteau aux châtaignes ?",
+            "Sa réponse : trop sucré, et personne n'en voulait. Alors il a insisté : d'abord, des morceaux pour les enfants. C'était comme parler à un mur.",
+            "Mélange 500 g de farine de châtaigne, une pincée de sel et 800 ml d'eau froide. Ajoute des pignons et verse dans un moule huilé de 30 cm. Mets deux cuillères d'huile dessus. Fais cuire à 180 degrés environ 40 minutes, jusqu'à ce que le dessus craquelle. Pas de sucre, pas d'œuf.",
+            "Il a perdu la bataille, mais gagné le gâteau : aujourd'hui, tout le monde peut le faire. Trop sucré ? Mets-le au four cet automne, et goûte-le."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Told after a past verb like a répondu, her words shift back a tense: « c'est trop sucré » becomes c'était, and « personne n'en mangera » becomes the conditional personne n'en mangerait.",
+              "example" : "C'était trop sucré, a-t-elle répondu, et personne n'en mangerait.",
+              "title" : "Reported speech: c'était, mangerait"
+            },
+            {
+              "body" : "Suggérer takes à before the person (here lui) and de before the infinitive: il lui a suggéré de donner = he suggested she give.",
+              "example" : "Il lui a suggéré de donner d'abord des morceaux aux enfants, mais c'était comme parler à un mur.",
+              "title" : "Suggérer à quelqu'un de + infinitive"
+            },
+            {
+              "body" : "A question reported after demander keeps statement word order and shifts its tense: pourquoi elle ne vendait pas, not pourquoi ne vendait-elle pas.",
+              "example" : "Dedans, il raconte qu'il a demandé à une marchande pourquoi elle ne vendait pas de gâteau aux châtaignes.",
+              "title" : "An indirect question with pourquoi"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, un ancien homme d'affaires de Florence, a payé lui-même les mille premiers exemplaires de son livre de cuisine.",
+            "Dedans, il raconte qu'il a demandé à une marchande pourquoi elle ne vendait pas de gâteau aux châtaignes. C'était trop sucré, a-t-elle répondu, et personne n'en mangerait. Il lui a suggéré de donner d'abord des morceaux aux enfants, mais c'était comme parler à un mur.",
+            "Tamise 500 g de farine de châtaigne avec une pincée de sel, puis incorpore petit à petit 800 ml d'eau froide. Ajoute des pignons, verse dans un moule huilé de 30 cm et arrose de deux cuillères d'huile. Artusi ne donne pas de température ; essaie 180 degrés, environ 40 minutes, jusqu'à ce que le dessus craquelle. Pas de sucre, pas d'œuf.",
+            "Il a perdu la bataille, mais gagné le gâteau : aujourd'hui, tout le monde peut le faire. Trop sucré ? Mets-le au four cet automne, et à toi de juger."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the subject is the same, French can follow raconter with avoir + past participle instead of a que clause: il raconte avoir poussé = he tells how he pushed. Pousser quelqu'un à + infinitive = to urge someone to.",
+              "example" : "Il y raconte avoir poussé une marchande à vendre du gâteau aux châtaignes.",
+              "title" : "Raconter + past infinitive: avoir poussé"
+            },
+            {
+              "body" : "Bien before trop makes it much stronger: bien trop sucré = far too sweet. Bien does the same before a comparative: bien meilleur.",
+              "example" : "Bien trop sucré, d'après elle : personne n'en mangerait.",
+              "title" : "Bien trop: far too"
+            },
+            {
+              "body" : "Faire + infinitive means getting someone to do something; with en and à it means give them some to taste: en faire goûter aux enfants = let the children try some.",
+              "example" : "Il lui a suggéré d'en faire goûter d'abord aux enfants, mais c'était comme parler à un mur.",
+              "title" : "Faire goûter: let someone taste"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, ancien homme d'affaires florentin, a payé lui-même les mille premiers exemplaires de son livre de cuisine.",
+            "Il y raconte avoir poussé une marchande à vendre du gâteau aux châtaignes. Bien trop sucré, d'après elle : personne n'en mangerait. Il lui a suggéré d'en faire goûter d'abord aux enfants, mais c'était comme parler à un mur.",
+            "Un livre de blagues des années 1500 prétend qu'un homme de Lucques a été « le premier à en manger ».",
+            "Tamise 500 g de farine de châtaigne avec une pincée de sel et incorpore petit à petit 800 ml d'eau froide. Ajoute des pignons, verse dans un moule de 30 cm légèrement huilé et arrose de deux cuillères d'huile. Artusi ne donne pas de température ; essaie 180 degrés, environ 40 minutes, jusqu'à ce que le dessus craquelle. Pas de sucre, pas d'œuf, mais hors d'Italie, cette farine, il faut la chercher.",
+            "Il a perdu la bataille, mais gagné le gâteau : aujourd'hui, tout le monde peut le faire. Trop sucré ? Mets-le au four cet automne, et à toi de juger."
+          ]
+        }
+      ],
+      "summary" : "Dans son livre de cuisine de 1891, Pellegrino Artusi raconte qu'il n'a pas pu convaincre une marchande de vendre un gâteau aux châtaignes ; aujourd'hui, tout le monde peut le faire.",
+      "title" : "L'homme qui n'a pas su le vendre",
+      "translationGroup" : "castagnaccio"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "id" : "castagnaccio-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend uses the du form without -st and without „du“, with the verb first: du mischst → misch!, du gießt → gieß!, du gibst → gib!",
+              "example" : "Gieß alles in eine geölte Backform von 30 cm.",
+              "title" : "The du imperative in a recipe: misch, gib, gieß, back"
+            },
+            {
+              "body" : "To talk about a time before now, A1 uses a few past forms: es gab (there was), es war (it was). The rest of the story stays in the present.",
+              "example" : "1891 gab es in Florenz ein Kochbuch von Pellegrino Artusi.",
+              "title" : "Es gab: one look back"
+            },
+            {
+              "body" : "In „dazugeben“ (to add) the little word „dazu“ splits off and goes to the end of the sentence: „gib Pinienkerne dazu“ = add pine nuts.",
+              "example" : "Dann gib Pinienkerne dazu.",
+              "title" : "Gib … dazu: a separable verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "1891 gab es in Florenz ein Kochbuch von Pellegrino Artusi. Darin fragt er eine Frau, die Essen verkauft: Warum nicht auch Kastanienkuchen?",
+            "Der ist zu süß, sagt sie, und keiner will ihn. Also sagt er: zuerst ein Stück für die Kinder. Aber da redet er gegen eine Wand.",
+            "Misch 500 g Kastanienmehl, eine Prise Salz und 800 ml kaltes Wasser. Dann gib Pinienkerne dazu. Gieß alles in eine geölte Backform von 30 cm. Back es bei 180 Grad etwa 40 Minuten. Ohne Zucker, ohne Ei!",
+            "Artusi verliert die Diskussion, aber heute kann jeder den Kuchen machen. Zu süß? Back ihn diesen Herbst und probier ihn!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with haben + Partizip II at the end: schreiben → hat geschrieben, fragen → hat gefragt, verlieren → hat verloren, gewinnen → hat gewonnen.",
+              "example" : "Er hat die Diskussion verloren, aber den Kuchen gewonnen: Heute kann ihn jeder machen.",
+              "title" : "Perfekt: hat geschrieben, hat verloren, hat gewonnen"
+            },
+            {
+              "body" : "„Zu“ before an adjective means more than is good: zu süß = so sweet that it's a problem. Without an adjective, „zu“ is a preposition (to).",
+              "example" : "Ihre Antwort: zu süß, und keiner wollte ihn.",
+              "title" : "Zu + adjective: more than you want"
+            },
+            {
+              "body" : "„Bis“ + a clause says when to stop, and it sends the verb to the end: bis es oben aufreißt = until it cracks on top.",
+              "example" : "Back es bei 180 Grad etwa 40 Minuten, bis es oben aufreißt.",
+              "title" : "Bis: until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1891 hat Pellegrino Artusi, ein Geschäftsmann im Ruhestand in Florenz, ein Kochbuch geschrieben. Darin hat er eine Händlerin gefragt: Warum nicht Kastanienkuchen?",
+            "Ihre Antwort: zu süß, und keiner wollte ihn. Also hat er es anders versucht: zuerst ein Stück für die Kinder. Aber da hat er gegen eine Wand geredet.",
+            "Misch 500 g Kastanienmehl, eine Prise Salz und 800 ml kaltes Wasser. Gib Pinienkerne dazu und gieß alles in eine geölte Backform von 30 cm. Dann gib zwei Löffel Öl drauf. Back es bei 180 Grad etwa 40 Minuten, bis es oben aufreißt. Ohne Zucker, ohne Ei!",
+            "Er hat die Diskussion verloren, aber den Kuchen gewonnen: Heute kann ihn jeder machen. Zu süß? Back ihn diesen Herbst und probier ihn!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A question inside a sentence starts with its question word (warum, wie, ob) and sends the verb to the end: „Warum verkauft sie keinen?“ becomes „…, warum sie keinen verkauft“.",
+              "example" : "Darin erzählt er, wie er eine Händlerin gefragt hat, warum sie keinen Kastanienkuchen verkauft.",
+              "title" : "Indirect questions: warum sie … verkauft"
+            },
+            {
+              "body" : "„Vorschlagen“ (to suggest) takes a clause with zu + infinitive at the end: er hat vorgeschlagen, den Kindern ein Stück zu geben = he suggested giving the children a piece.",
+              "example" : "Er hat vorgeschlagen, den Kindern zuerst ein Stück zu geben, aber da hat er gegen eine Wand geredet.",
+              "title" : "Vorschlagen, … zu + infinitive"
+            },
+            {
+              "body" : "In speech German often says „der“ or „den“ instead of „er“ or „ihn“ for something just named, here the cake; „würde“ + infinitive is the everyday way to say would.",
+              "example" : "Der ist zu süß, hat sie gesagt, den würde keiner essen.",
+              "title" : "Der, den: the pointing pronoun of speech"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1891 hat Pellegrino Artusi, ein Geschäftsmann im Ruhestand in Florenz, die ersten 1000 Exemplare seines Kochbuchs selbst bezahlt.",
+            "Darin erzählt er, wie er eine Händlerin gefragt hat, warum sie keinen Kastanienkuchen verkauft. Der ist zu süß, hat sie gesagt, den würde keiner essen. Er hat vorgeschlagen, den Kindern zuerst ein Stück zu geben, aber da hat er gegen eine Wand geredet.",
+            "Siebe 500 g Kastanienmehl mit einer Prise Salz und rühr langsam 800 ml kaltes Wasser unter. Gib Pinienkerne dazu, gieß alles in eine geölte Backform von 30 cm und gib zwei Löffel Öl drauf. Artusi nennt keine Temperatur; versuch's mit 180 Grad, etwa 40 Minuten, bis es oben aufreißt. Ohne Zucker, ohne Ei.",
+            "Er hat die Diskussion verloren, aber den Kuchen gewonnen: Heute kann ihn jeder machen. Zu süß? Back ihn diesen Herbst und entscheide selbst."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Zureden“ takes the person in the dative and the thing to do as zu + infinitive: einer Händlerin zureden, Kuchen zu verkaufen = to keep urging a food seller to sell cake.",
+              "example" : "Darin erzählt er, wie er einer Händlerin zugeredet hat, Kastanienkuchen zu verkaufen.",
+              "title" : "Jemandem zureden, etwas zu tun: to urge"
+            },
+            {
+              "body" : "„Lassen“ with a second infinitive at the end means to let or have someone do something: die Kinder probieren lassen = let the children have a taste.",
+              "example" : "Er hat vorgeschlagen, die Kinder zuerst probieren zu lassen, aber da hat er gegen eine Wand geredet.",
+              "title" : "Lassen + infinitive: let someone do it"
+            },
+            {
+              "body" : "„Nur“ at the head of a clause means the one snag is, and the verb comes straight after it; „erst mal finden müssen“ = to have to find it first, i.e. it takes some finding.",
+              "example" : "Ohne Zucker, ohne Ei, nur muss man das Mehl außerhalb Italiens erst mal finden.",
+              "title" : "Nur muss man …: the catch"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1891 hat Pellegrino Artusi, ein Geschäftsmann im Ruhestand in Florenz, die ersten 1000 Exemplare seines Kochbuchs selbst bezahlt.",
+            "Darin erzählt er, wie er einer Händlerin zugeredet hat, Kastanienkuchen zu verkaufen. Viel zu süß, hat sie gesagt, den würde keiner essen. Er hat vorgeschlagen, die Kinder zuerst probieren zu lassen, aber da hat er gegen eine Wand geredet.",
+            "Ein Witzbuch aus dem 16. Jahrhundert behauptet, ein Mann aus Lucca hat Castagnaccio „als Erster gegessen“.",
+            "Siebe 500 g Kastanienmehl mit einer Prise Salz und rühr langsam 800 ml kaltes Wasser unter. Gib Pinienkerne dazu, gieß alles in eine dünn geölte Backform von 30 cm und träufle zwei Löffel Öl darüber. Artusi nennt keine Temperatur; versuch's mit 180 Grad, etwa 40 Minuten, bis es oben aufreißt. Ohne Zucker, ohne Ei, nur muss man das Mehl außerhalb Italiens erst mal finden.",
+            "Er hat die Diskussion verloren, aber den Kuchen gewonnen: Heute kann ihn jeder machen. Zu süß? Back ihn diesen Herbst und entscheide selbst."
+          ]
+        }
+      ],
+      "summary" : "In seinem Kochbuch von 1891 erzählt Pellegrino Artusi, wie er vergeblich eine Händlerin überreden wollte, Kastanienkuchen zu verkaufen – heute kann ihn jeder backen.",
+      "title" : "Der Mann, der es nicht verkaufen konnte",
+      "translationGroup" : "castagnaccio"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "id" : "castagnaccio-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps for a friend use the tú imperative, which for most verbs looks like the él/ella present: mezcla, añade, echa, hornea. Poner is irregular: pon (put).",
+              "example" : "Pon aceite en un molde de 30 cm y echa la masa.",
+              "title" : "The tú imperative in a recipe"
+            },
+            {
+              "body" : "To talk about a time before now, A1 uses a few simple past forms: había (there was), era (it was). The rest of the story stays in the present.",
+              "example" : "En 1891, en Florencia, había un libro de cocina de Pellegrino Artusi.",
+              "title" : "Había: one look back"
+            },
+            {
+              "body" : "¿Por qué no + the infinitive suggests something without naming who does it: ¿por qué no vender? = why not sell it?",
+              "example" : "Y le pregunta: ¿por qué no vender pastel de castañas?",
+              "title" : "¿Por qué no + infinitive?: a friendly idea"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 1891, en Florencia, había un libro de cocina de Pellegrino Artusi. En él, Artusi habla con una vendedora. Y le pregunta: ¿por qué no vender pastel de castañas?",
+            "Es demasiado dulce, dice ella, y nadie lo quiere. Así que él dice: primero, unos trozos para los niños. ¡Pero es como hablar con la pared!",
+            "Mezcla 500 g de harina de castañas con una pizca de sal. Luego añade 800 ml de agua fría y unos piñones. Pon aceite en un molde de 30 cm y echa la masa. Hornea a 180 grados unos 40 minutos. ¡Sin azúcar y sin huevo!",
+            "Artusi pierde la discusión, pero hoy cualquiera puede hacerlo. ¿Demasiado dulce? Hornéalo este otoño y pruébalo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito tells events that happened once: -ar verbs end in -ó (preguntó, ganó), -er and -ir verbs in -ió (escribió, perdió). The written accent is part of the ending.",
+              "example" : "Artusi perdió la discusión, pero ganó el pastel: hoy cualquiera puede hacerlo.",
+              "title" : "The pretérito: escribió, preguntó, perdió"
+            },
+            {
+              "body" : "Demasiado before an adjective means more than is good: demasiado dulce = too sweet. It does not change for gender: la tarta es demasiado dulce.",
+              "example" : "Su respuesta: demasiado dulce, y nadie lo quería.",
+              "title" : "Demasiado + adjective: too"
+            },
+            {
+              "body" : "Hasta que says when to stop; for a moment still to come it takes the subjunctive: hasta que se agriete = until it cracks, not hasta que se agrieta.",
+              "example" : "Hornea a 180 grados unos 40 minutos, hasta que se agriete por encima.",
+              "title" : "Hasta que + subjunctive: until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, un comerciante jubilado de Florencia, escribió un libro de cocina. En él, le preguntó a una vendedora: ¿por qué no vender pastel de castañas?",
+            "Su respuesta: demasiado dulce, y nadie lo quería. Así que él lo intentó otra vez: primero, unos trozos para los niños. Pero era como hablar con la pared.",
+            "Mezcla 500 g de harina de castañas, una pizca de sal y 800 ml de agua fría. Añade unos piñones, unta con aceite un molde de 30 cm y echa la masa. Pon dos cucharadas de aceite encima. Hornea a 180 grados unos 40 minutos, hasta que se agriete por encima. ¡Sin azúcar y sin huevo!",
+            "Artusi perdió la discusión, pero ganó el pastel: hoy cualquiera puede hacerlo. ¿Demasiado dulce? Hornéalo este otoño y pruébalo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After dijo que, the present moves to the imperfect: «es demasiado dulce» becomes dijo que era demasiado dulce, and «nadie se lo va a comer» becomes nadie se lo iba a comer.",
+              "example" : "Ella le dijo que era demasiado dulce y que nadie se lo iba a comer.",
+              "title" : "Reported speech: le dijo que era"
+            },
+            {
+              "body" : "A question reported inside a sentence keeps its accent, por qué, and needs no question marks: le preguntó por qué no vendía = he asked her why she didn't sell.",
+              "example" : "En él cuenta que le preguntó a una vendedora por qué no vendía pastel de castañas.",
+              "title" : "Por qué in an indirect question"
+            },
+            {
+              "body" : "Proponer (to suggest) takes the infinitive when the idea is simply an action: le propuso darles = he suggested giving them, with les doubling a los niños as people do when they speak. Its pretérito is irregular: propuso, like puso.",
+              "example" : "Él le propuso darles primero unos trozos a los niños, pero fue como hablar con la pared.",
+              "title" : "Proponer + infinitive: to suggest doing"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, un comerciante jubilado de Florencia, pagó de su bolsillo los primeros 1000 ejemplares de su libro de cocina.",
+            "En él cuenta que le preguntó a una vendedora por qué no vendía pastel de castañas. Ella le dijo que era demasiado dulce y que nadie se lo iba a comer. Él le propuso darles primero unos trozos a los niños, pero fue como hablar con la pared.",
+            "Tamiza 500 g de harina de castañas con una pizca de sal y añade poco a poco 800 ml de agua fría. Echa unos piñones, vierte la masa en un molde de 30 cm untado con aceite y pon dos cucharadas de aceite encima. Artusi no dice la temperatura; prueba con 180 grados unos 40 minutos, hasta que se agriete por encima. Sin azúcar y sin huevo.",
+            "Artusi perdió la discusión, pero ganó el pastel: hoy cualquiera puede hacerlo. ¿Demasiado dulce? Hornéalo este otoño y decide tú."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When you push someone else to act, para que takes the subjunctive, and after a past verb the imperfect subjunctive: le insistió para que vendiera = he pressed her to sell.",
+              "example" : "En él recuerda cómo le insistió a una vendedora para que vendiera pastel de castañas.",
+              "title" : "Para que + imperfect subjunctive"
+            },
+            {
+              "body" : "De más after an adjective is the everyday way to say there is too much of it: dulce de más = far too sweet, like salado de más for food with too much salt.",
+              "example" : "Ella le contestó que era dulce de más y que nadie se lo comería.",
+              "title" : "Adjective + de más: far too"
+            },
+            {
+              "body" : "Ir + gerund describes an action done gradually: ve añadiendo el agua = keep adding the water bit by bit. In a recipe, ir is in the tú imperative, ve.",
+              "example" : "Tamiza 500 g de harina de castañas con una pizca de sal y ve añadiendo 800 ml de agua fría.",
+              "title" : "Ir + gerund: little by little"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1891, Pellegrino Artusi, un comerciante jubilado de Florencia, pagó de su bolsillo los primeros 1000 ejemplares de su libro de cocina.",
+            "En él recuerda cómo le insistió a una vendedora para que vendiera pastel de castañas. Ella le contestó que era dulce de más y que nadie se lo comería. Él le propuso dárselo a probar primero a los niños, pero fue como hablar con la pared.",
+            "Un libro de chistes del siglo XVI dice, en broma, que un hombre de Lucca fue «el primero en comer» castagnaccio.",
+            "Tamiza 500 g de harina de castañas con una pizca de sal y ve añadiendo 800 ml de agua fría. Echa piñones, vierte la masa en un molde de 30 cm untado con poco aceite y rocíala con dos cucharadas de aceite. Artusi no dice la temperatura; prueba con 180 grados, unos 40 minutos, hasta que se agriete por encima. Sin azúcar y sin huevo, aunque fuera de Italia cuesta lo suyo encontrar la harina.",
+            "Artusi perdió la discusión, pero ganó el pastel: hoy cualquiera puede hacerlo. ¿Demasiado dulce? Hornéalo este otoño y decide tú."
+          ]
+        }
+      ],
+      "summary" : "En su libro de cocina de 1891, Pellegrino Artusi cuenta cómo intentó convencer a una vendedora de que vendiera pastel de castañas y perdió la discusión; hoy cualquiera puede hacerlo en casa.",
+      "title" : "El hombre que no pudo venderlo",
+      "translationGroup" : "castagnaccio"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-06",
+      "id" : "castagnaccio-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian often tells a past event in the present to bring it close: nel 1891 esce un libro = in 1891 a book comes out. The whole A1 story stays in the present.",
+              "example" : "Nel 1891, a Firenze, esce un libro di cucina di Pellegrino Artusi.",
+              "title" : "Esce: the present for a story long ago"
+            },
+            {
+              "body" : "To ask a friend why they don't do something, use perché non + the tu form of the present: perché non vendi? = why don't you sell?",
+              "example" : "Vende da mangiare, e lui le chiede: perché non vendi il castagnaccio?",
+              "title" : "Perché non + present: why don't you...?"
+            },
+            {
+              "body" : "Recipe steps speak to a friend with the tu imperative: -are verbs end in -a (mescola, versa), -ere verbs in -i (ungi, cuoci, aggiungi), and -ire verbs too. A pronoun joins the end: cuocilo = bake it, assaggialo = taste it.",
+              "example" : "Ungi una teglia da 30 cm e versa tutto.",
+              "title" : "The tu imperative in a recipe"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nel 1891, a Firenze, esce un libro di cucina di Pellegrino Artusi. Nel libro Artusi parla con una donna. Vende da mangiare, e lui le chiede: perché non vendi il castagnaccio?",
+            "È troppo dolce, dice lei, e non lo vuole nessuno. Allora Artusi ha un'idea: dare prima un pezzo ai bambini. Ma è come parlare al muro!",
+            "Mescola 500 g di farina di castagne e un pizzico di sale. Poi aggiungi 800 ml di acqua fredda e i pinoli. Ungi una teglia da 30 cm e versa tutto. Cuoci in forno a 180 gradi per circa 40 minuti. Niente zucchero, niente uova!",
+            "Artusi perde la discussione, ma oggi tutti possono fare il castagnaccio. Troppo dolce? Cuocilo quest'autunno e assaggialo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avere + past participle; many common verbs have their own participle: perdere → perso, vincere → vinto, scrivere → scritto.",
+              "example" : "Ha perso la discussione, ma il castagnaccio ha vinto comunque: oggi lo può fare chiunque.",
+              "title" : "Passato prossimo: ha perso, ha vinto"
+            },
+            {
+              "body" : "Troppo before an adjective means more than is good: troppo dolce = so sweet that it's a problem. It never changes its ending here.",
+              "example" : "La sua risposta: troppo dolce, e nessuno lo voleva.",
+              "title" : "Troppo + adjective: more than you want"
+            },
+            {
+              "body" : "Finché + a verb says when to stop; Italian usually adds a non that does not make it negative: finché non si screpola = until it cracks.",
+              "example" : "Cuoci a 180 gradi per circa 40 minuti, finché la superficie non si screpola.",
+              "title" : "Finché non: until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1891 Pellegrino Artusi, un commerciante in pensione di Firenze, ha scritto un libro di cucina. Nel libro ha chiesto a una venditrice: perché non vendere il castagnaccio?",
+            "La sua risposta: troppo dolce, e nessuno lo voleva. Allora Artusi ha avuto un'altra idea: dare prima un pezzo ai bambini. Ma è stato come parlare al muro.",
+            "Mescola 500 g di farina di castagne, un pizzico di sale e 800 ml di acqua fredda. Aggiungi i pinoli, versa in una teglia da 30 cm unta e metti sopra due cucchiai d'olio. Cuoci a 180 gradi per circa 40 minuti, finché la superficie non si screpola. Niente zucchero, niente uova!",
+            "Ha perso la discussione, ma il castagnaccio ha vinto comunque: oggi lo può fare chiunque. Troppo dolce? Cuocilo quest'autunno e assaggialo."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When you report a past prediction, Italian uses the past conditional (avrebbe mangiato), not the simple conditional: she said nobody would eat it.",
+              "example" : "Era troppo dolce, ha detto lei, e nessuno l'avrebbe mangiato.",
+              "title" : "Reported speech: nessuno l'avrebbe mangiato"
+            },
+            {
+              "body" : "Suggerire takes di + infinitive (le ha suggerito di dare); ne joined to the end stands for \"of it\": darne un pezzo = give a piece of it.",
+              "example" : "Lui le ha suggerito di darne prima un pezzo ai bambini, ma è stato come parlare al muro.",
+              "title" : "Suggerire di + infinitive, and ne"
+            },
+            {
+              "body" : "Speech often puts the object first and picks it up with a pronoun; with le before avere the participle agrees with it: le ha pagate.",
+              "example" : "Le prime mille copie le ha pagate di tasca sua.",
+              "title" : "The topic first: le copie le ha pagate"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1891 Pellegrino Artusi, un commerciante in pensione di Firenze, ha pubblicato un libro di cucina. Le prime mille copie le ha pagate di tasca sua.",
+            "Nel libro racconta di aver chiesto a una donna che vendeva da mangiare perché non vendeva anche il castagnaccio. Era troppo dolce, ha detto lei, e nessuno l'avrebbe mangiato. Lui le ha suggerito di darne prima un pezzo ai bambini, ma è stato come parlare al muro.",
+            "Setaccia 500 g di farina di castagne con un pizzico di sale, poi aggiungi poco alla volta 800 ml di acqua fredda. Unisci i pinoli, versa in una teglia da 30 cm unta e metti sopra due cucchiai d'olio. Artusi non dà la temperatura; prova con 180 gradi per circa 40 minuti, finché la superficie non si screpola. Niente zucchero, niente uova.",
+            "Ha perso la discussione, ma il castagnaccio ha vinto comunque: oggi lo può fare chiunque. Troppo dolce? Cuocilo quest'autunno e decidi tu."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Insistere con qualcuno perché + the imperfect subjunctive means to press someone to do something: perché vendesse = that she should sell it.",
+              "example" : "Nel libro ricorda di aver insistito con una rivendugliola perché vendesse il castagnaccio.",
+              "title" : "Insistere perché + subjunctive"
+            },
+            {
+              "body" : "Fin (short for fino) before troppo makes it stronger: fin troppo dolce = far too sweet, much more than it should be.",
+              "example" : "Fin troppo dolce, ha risposto lei: nessuno l'avrebbe mangiato.",
+              "title" : "Fin troppo: making troppo stronger"
+            },
+            {
+              "body" : "Bisogna + infinitive means you have to; with the topic first and the pronoun joined to the end, la farina bisogna cercarla un po' = the flour takes some finding.",
+              "example" : "Niente zucchero né uova; fuori dall'Italia, però, la farina bisogna cercarla un po'.",
+              "title" : "Bisogna cercarla: hard to find"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1891 Pellegrino Artusi, un commerciante in pensione che viveva a Firenze, ha pubblicato il suo libro di cucina, pagandosi di tasca sua le prime mille copie.",
+            "Nel libro ricorda di aver insistito con una rivendugliola perché vendesse il castagnaccio. Fin troppo dolce, ha risposto lei: nessuno l'avrebbe mangiato. Lui le ha suggerito di farlo assaggiare prima ai bambini, ma è stato come parlare al muro.",
+            "Per scherzo, un libro satirico del Cinquecento dice che il primo a mangiare il castagnaccio è stato un uomo di Lucca.",
+            "Setaccia 500 g di farina di castagne con un pizzico di sale e incorpora poco alla volta 800 ml di acqua fredda. Unisci i pinoli, versa in una teglia da 30 cm leggermente unta e completa con due cucchiai d'olio a filo. Artusi non dà la temperatura; prova con 180 gradi, circa 40 minuti, finché la superficie non si screpola. Niente zucchero né uova; fuori dall'Italia, però, la farina bisogna cercarla un po'.",
+            "Ha perso la discussione, ma il castagnaccio ha vinto comunque: oggi lo può fare chiunque. Troppo dolce? Cuocilo quest'autunno e decidi tu."
+          ]
+        }
+      ],
+      "summary" : "Nel suo libro del 1891 Pellegrino Artusi racconta di aver provato a convincere una donna a vendere il castagnaccio, senza riuscirci; oggi però lo può fare chiunque.",
+      "title" : "L'uomo che non riusciva a venderlo",
+      "translationGroup" : "castagnaccio"
     }
   ]
 }
