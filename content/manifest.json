@@ -1,10 +1,34 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 30,
-  "generatedAt" : "2026-11-06",
+  "contentVersion" : 31,
+  "generatedAt" : "2026-11-09",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "titles" : {
+        "english" : "First Antonelli, Now Mercedes",
+        "french" : "D'abord Antonelli, maintenant Mercedes",
+        "german" : "Erst Antonelli, jetzt Mercedes",
+        "italian" : "Prima Antonelli, ora la Mercedes",
+        "spanish" : "Primero Antonelli, ahora Mercedes"
+      },
+      "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "titles" : {
+        "english" : "Where Our Words Came From",
+        "french" : "D'où viennent nos mots",
+        "german" : "Woher unsere Wörter kommen",
+        "italian" : "Da dove vengono le nostre parole",
+        "spanish" : "De dónde vienen nuestras palabras"
+      },
+      "translationGroup" : "where-our-words-came-from"
+    },
     {
       "category" : "recipes",
       "dateAdded" : "2026-11-06",
@@ -28,20 +52,8 @@
         "spanish" : "Vive cada estación"
       },
       "translationGroup" : "live-in-each-season"
-    },
-    {
-      "category" : "health",
-      "dateAdded" : "2026-11-04",
-      "titles" : {
-        "english" : "Open the Window",
-        "french" : "Ouvre la fenêtre",
-        "german" : "Mach das Fenster auf",
-        "italian" : "Apri la finestra",
-        "spanish" : "Abre la ventana"
-      },
-      "translationGroup" : "open-the-window"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "66109d5ca0047a88589808b33af4e6d3c692a3aec7d63c3ab6afb59c3d642f2e"
+  "sha256" : "f92e8c114452c8011ad2f1d68b9697c518583d639be77b9544601c32d8bced5a"
 }

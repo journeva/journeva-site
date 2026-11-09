@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 30,
-  "generatedAt" : "2026-11-06",
+  "contentVersion" : 31,
+  "generatedAt" : "2026-11-09",
   "glossary" : {
     "english" : [
       {
@@ -164,9 +164,9 @@
         "forms" : [
           "age"
         ],
-        "note" : "How old someone is.",
+        "note" : "How old someone is; with a capital, a time in history: \"the Viking Age\".",
         "pos" : "noun",
-        "translation" : "the number of years someone has lived"
+        "translation" : "the number of years someone has lived; a period of history"
       },
       {
         "forms" : [
@@ -375,9 +375,9 @@
         "forms" : [
           "appeared"
         ],
-        "note" : "Past tense of \"appear.\"",
+        "note" : "Past tense of \"appear\"; \"a language appeared\" = it began to exist.",
         "pos" : "verb",
-        "translation" : "seemed to be"
+        "translation" : "seemed to be; came into being, began to exist"
       },
       {
         "forms" : [
@@ -1908,6 +1908,7 @@
       },
       {
         "forms" : [
+          "driver",
           "drivers"
         ],
         "note" : "Plural of \"driver.\"",
@@ -5701,9 +5702,9 @@
         "forms" : [
           "settled"
         ],
-        "note" : "As in \"settled neatly into the gaps.\"",
+        "note" : "As in \"settled neatly into the gaps\"; \"settled in England\" = went to live there for good.",
         "pos" : "verb",
-        "translation" : "moved into a comfortable position"
+        "translation" : "moved into a comfortable position; went to live in a new place"
       },
       {
         "forms" : [
@@ -6115,9 +6116,9 @@
           "starting",
           "starts"
         ],
-        "note" : "Forms of \"start\"; \"start over\" = begin again from nothing.",
+        "note" : "Forms of \"start\"; \"start over\" = begin again from nothing; as a noun, \"the start of\" = the beginning of.",
         "pos" : "verb",
-        "translation" : "to begin"
+        "translation" : "to begin; the beginning"
       },
       {
         "forms" : [
@@ -14596,9 +14597,9 @@
         "forms" : [
           "shared"
         ],
-        "note" : "Also used as adjective; \"they shared a first name\" = both had the same first name.",
+        "note" : "Also used as adjective; \"they shared a first name\" = both had the same first name; \"shared two studies\" = made them public.",
         "pos" : "verb",
-        "translation" : "divided among people; had in common; past tense of share"
+        "translation" : "divided among people; had in common; made public; past tense of share"
       },
       {
         "forms" : [
@@ -21714,7 +21715,8 @@
       {
         "forms" : [
           "bull",
-          "bull's"
+          "bull's",
+          "bulls"
         ],
         "note" : "Red Bull is the name of Max Verstappen's racing team. \"Red Bull's\" = belonging to Red Bull.",
         "pos" : "noun",
@@ -21875,6 +21877,7 @@
       },
       {
         "forms" : [
+          "raining",
           "rains"
         ],
         "note" : "The verb is used with \"it\": it rains. \"It rains a lot\" = much rain falls.",
@@ -23505,7 +23508,8 @@
       },
       {
         "forms" : [
-          "champion"
+          "champion",
+          "champions"
         ],
         "note" : "The driver with the most points at the end of the season is the champion.",
         "pos" : "noun",
@@ -24184,9 +24188,9 @@
         "forms" : [
           "central"
         ],
-        "note" : "As in \"its central idea\": the idea in the middle of everything else.",
+        "note" : "As in \"its central idea\"; \"central Europe\" = the middle part of Europe.",
         "pos" : "adjective",
-        "translation" : "main, most important"
+        "translation" : "main, most important; in the middle of a place"
       },
       {
         "forms" : [
@@ -25915,7 +25919,8 @@
       },
       {
         "forms" : [
-          "trip"
+          "trip",
+          "trips"
         ],
         "note" : "\"A trip of a thousand li\" = a journey of a thousand li.",
         "pos" : "noun",
@@ -25931,7 +25936,8 @@
       },
       {
         "forms" : [
-          "language"
+          "language",
+          "languages"
         ],
         "note" : "\"Learning a language\": language takes a or the, like most nouns you can count.",
         "pos" : "noun",
@@ -27525,7 +27531,8 @@
       },
       {
         "forms" : [
-          "cousin"
+          "cousin",
+          "cousins"
         ],
         "note" : "The child of your aunt or uncle; Kundan Lal Jaggi was Gujral's cousin.",
         "pos" : "noun",
@@ -28046,9 +28053,9 @@
         "forms" : [
           "west"
         ],
-        "note" : "West Germany was the name people used for the Federal Republic of Germany before 1990.",
+        "note" : "West Germany was the name people used for the Federal Republic of Germany before 1990; after a verb, \"spread west\" = towards the west.",
         "pos" : "adjective",
-        "translation" : "in or of the western part"
+        "translation" : "in or of the western part; towards the west"
       },
       {
         "forms" : [
@@ -30259,6 +30266,248 @@
         "note" : "\"Like talking to a wall\" = the other person isn't listening at all.",
         "pos" : "noun",
         "translation" : "the vertical side of a room or building"
+      },
+      {
+        "forms" : [
+          "4,500"
+        ],
+        "note" : "Said \"four thousand five hundred\" (or \"four and a half thousand\"); English puts a comma after the thousands.",
+        "pos" : "number",
+        "translation" : "4,500"
+      },
+      {
+        "forms" : [
+          "4,000"
+        ],
+        "note" : "Said \"four thousand\": \"about 4,000 years ago\"; thousand takes no -s after a number.",
+        "pos" : "number",
+        "translation" : "4,000"
+      },
+      {
+        "forms" : [
+          "3,000"
+        ],
+        "note" : "Said \"three thousand\"; no -s on thousand after a number: three thousand years.",
+        "pos" : "number",
+        "translation" : "3,000"
+      },
+      {
+        "forms" : [
+          "712"
+        ],
+        "note" : "Said \"seven hundred and twelve\" in British English, \"seven hundred twelve\" in much American speech.",
+        "pos" : "number",
+        "translation" : "712"
+      },
+      {
+        "forms" : [
+          "dna"
+        ],
+        "note" : "Said letter by letter, D-N-A; usually with \"the\" when you mean someone's: the DNA of 4,500 people.",
+        "pos" : "noun",
+        "translation" : "the material in every living cell that carries what is passed from parents to children"
+      },
+      {
+        "forms" : [
+          "scandinavia"
+        ],
+        "note" : "Capitalised; no article: \"in Scandinavia\".",
+        "pos" : "noun",
+        "translation" : "Scandinavia, the north of Europe: Denmark, Norway and Sweden"
+      },
+      {
+        "forms" : [
+          "vikings"
+        ],
+        "note" : "Capitalised and usually with \"the\": \"before the Vikings\".",
+        "pos" : "noun",
+        "translation" : "the Vikings, sea-going people of Scandinavia in the Middle Ages"
+      },
+      {
+        "forms" : [
+          "viking"
+        ],
+        "note" : "Before a noun it works like an adjective: \"the Viking Age\", the time of the Vikings.",
+        "pos" : "adjective",
+        "translation" : "of the Vikings"
+      },
+      {
+        "forms" : [
+          "swedish"
+        ],
+        "note" : "Capitalised, like every language name in English: \"Swedish is spoken in Sweden\".",
+        "pos" : "adjective",
+        "translation" : "from Sweden; the language of Sweden"
+      },
+      {
+        "forms" : [
+          "celtic"
+        ],
+        "note" : "Capitalised; said \"KEL-tic\" for the languages. \"Celtic\" alone can name the language family.",
+        "pos" : "adjective",
+        "translation" : "of the Celts; the family of languages such as Irish, Welsh and Breton"
+      },
+      {
+        "forms" : [
+          "bones"
+        ],
+        "note" : "Plural of \"bone\": \"bones don't talk\" = a skeleton can't tell you what language the person spoke.",
+        "pos" : "noun",
+        "translation" : "the hard parts inside the body"
+      },
+      {
+        "forms" : [
+          "relatives"
+        ],
+        "note" : "\"Close relatives\" = near family, such as brothers, sisters and cousins.",
+        "pos" : "noun",
+        "translation" : "people in your family"
+      },
+      {
+        "forms" : [
+          "anglo-saxons"
+        ],
+        "note" : "One hyphenated word, capitalised on both parts; their language grew into English.",
+        "pos" : "noun",
+        "translation" : "the Anglo-Saxons, Germanic-speaking people who settled in England after Roman times"
+      },
+      {
+        "forms" : [
+          "baltic"
+        ],
+        "note" : "Usually with \"the\": \"from the Baltic\" = from the area around the Baltic Sea.",
+        "pos" : "noun",
+        "translation" : "the Baltic, the lands around the Baltic Sea"
+      },
+      {
+        "forms" : [
+          "norse"
+        ],
+        "note" : "\"Old Norse\" is the language of the Vikings, the parent of Danish, Swedish and Norwegian.",
+        "pos" : "adjective",
+        "translation" : "of old Scandinavia"
+      },
+      {
+        "forms" : [
+          "archaeology"
+        ],
+        "note" : "No article in general use; British spelling (American English also writes \"archeology\").",
+        "pos" : "noun",
+        "translation" : "the study of the past through old objects and places dug from the ground"
+      },
+      {
+        "forms" : [
+          "explanation"
+        ],
+        "note" : "Noun from \"explain\"; \"the simplest explanation\" = the easiest reason that fits the facts.",
+        "pos" : "noun",
+        "translation" : "a reason that makes something clear"
+      },
+      {
+        "forms" : [
+          "14.6"
+        ],
+        "note" : "Norris's winning margin in seconds; English writes decimals with a point and says \"point six\".",
+        "pos" : "number",
+        "translation" : "fourteen point six"
+      },
+      {
+        "forms" : [
+          "21st"
+        ],
+        "note" : "The ordinal of 21 written with figures: 21st, 22nd, 23rd, but 24th; Verstappen started 21st on the grid.",
+        "pos" : "number",
+        "translation" : "twenty-first"
+      },
+      {
+        "forms" : [
+          "hadjar"
+        ],
+        "note" : "Isack Hadjar, a French Formula 1 driver for Red Bull Racing, third in São Paulo in 2026.",
+        "pos" : "noun",
+        "translation" : "Hadjar"
+      },
+      {
+        "forms" : [
+          "isack"
+        ],
+        "note" : "The first name of Isack Hadjar, a French Formula 1 driver for Red Bull Racing.",
+        "pos" : "noun",
+        "translation" : "Isack"
+      },
+      {
+        "forms" : [
+          "las"
+        ],
+        "note" : "The first half of Las Vegas, a city in the US state of Nevada; \"las\" is Spanish for \"the\".",
+        "pos" : "noun",
+        "translation" : "Las (in \"Las Vegas\")"
+      },
+      {
+        "forms" : [
+          "paulo"
+        ],
+        "note" : "The second half of São Paulo, the biggest city in Brazil; Paulo is Portuguese for Paul.",
+        "pos" : "noun",
+        "translation" : "Paulo (in \"São Paulo\")"
+      },
+      {
+        "forms" : [
+          "podium"
+        ],
+        "note" : "The first three finishers stand on the podium after a race; \"on the podium\" = in the top three.",
+        "pos" : "noun",
+        "translation" : "the stand for the top three"
+      },
+      {
+        "forms" : [
+          "sebastian"
+        ],
+        "note" : "The first name of Sebastian Vettel, a German driver who was world champion four times, the first in 2010.",
+        "pos" : "noun",
+        "translation" : "Sebastian"
+      },
+      {
+        "forms" : [
+          "spin",
+          "spins",
+          "spun"
+        ],
+        "note" : "An irregular verb: spin, spun, spun; a car that spins usually loses places but can drive on.",
+        "pos" : "verb",
+        "translation" : "to turn round and round; in racing, to lose the car and turn round on the track"
+      },
+      {
+        "forms" : [
+          "são"
+        ],
+        "note" : "Portuguese for \"Saint\": São Paulo is Saint Paul; say it roughly \"sow\".",
+        "pos" : "noun",
+        "translation" : "São (in \"São Paulo\")"
+      },
+      {
+        "forms" : [
+          "teammate"
+        ],
+        "note" : "In Formula 1 each team has two cars, so each driver has one teammate.",
+        "pos" : "noun",
+        "translation" : "a person in the same team"
+      },
+      {
+        "forms" : [
+          "vegas"
+        ],
+        "note" : "The second half of Las Vegas, a city in Nevada, USA, where Formula 1 races at night.",
+        "pos" : "noun",
+        "translation" : "Vegas (in \"Las Vegas\")"
+      },
+      {
+        "forms" : [
+          "vettel's"
+        ],
+        "note" : "Sebastian Vettel's record: he was 23 when he won his first title in 2010, the youngest champion until Antonelli.",
+        "pos" : "noun",
+        "translation" : "Vettel's (belonging to Vettel)"
       }
     ],
     "french" : [
@@ -35356,6 +35605,7 @@
       },
       {
         "forms" : [
+          "suffi",
           "suffira",
           "suffirait",
           "suffit"
@@ -35844,7 +36094,8 @@
       },
       {
         "forms" : [
-          "voyage"
+          "voyage",
+          "voyages"
         ],
         "gender" : "masculine",
         "note" : "A journey.",
@@ -41223,6 +41474,7 @@
       },
       {
         "forms" : [
+          "nos",
           "notre"
         ],
         "note" : "The possessive for nous.",
@@ -49873,9 +50125,9 @@
           "parents"
         ],
         "gender" : "masculine",
-        "note" : "A mother or father.",
+        "note" : "A mother or father; in \"proches parents\" it means close relatives, family.",
         "pos" : "noun",
-        "translation" : "parent"
+        "translation" : "parent; (proches parents) close relatives"
       },
       {
         "forms" : [
@@ -50352,9 +50604,9 @@
           "remarqua-t-il",
           "remarque"
         ],
-        "note" : "Forms of \"remarquer.\"",
+        "note" : "Forms of \"remarquer\"; at the start of a sentence, \"Remarque, …\" is the spoken aside \"mind you\".",
         "pos" : "verb",
-        "translation" : "noticed; he noticed; notices"
+        "translation" : "noticed; he noticed; notices; (Remarque, …) mind you"
       },
       {
         "forms" : [
@@ -50949,7 +51201,8 @@
       },
       {
         "forms" : [
-          "sorti"
+          "sorti",
+          "sortis"
         ],
         "note" : "Past participle of sortir; « le magazine est sorti » = the magazine came out.",
         "pos" : "verb",
@@ -53853,7 +54106,8 @@
       },
       {
         "forms" : [
-          "affaire"
+          "affaire",
+          "l'affaire"
         ],
         "gender" : "feminine",
         "note" : "As in \"une tout autre affaire\" (a whole other matter).",
@@ -54225,9 +54479,9 @@
           "inconnu"
         ],
         "gender" : "masculine",
-        "note" : "Noun, used substantively.",
+        "note" : "Noun (un inconnu, a stranger) or adjective: \"un groupe inconnu\" = an unknown group.",
         "pos" : "noun",
-        "translation" : "stranger, unknown person"
+        "translation" : "stranger, unknown person; unknown"
       },
       {
         "forms" : [
@@ -57243,7 +57497,8 @@
       },
       {
         "forms" : [
-          "établi"
+          "établi",
+          "établis"
         ],
         "note" : "Participe passé de « établir ».",
         "pos" : "verb",
@@ -57610,7 +57865,8 @@
       },
       {
         "forms" : [
-          "langue"
+          "langue",
+          "langues"
         ],
         "gender" : "feminine",
         "note" : "« Passer la langue sur ses dents » = to run your tongue over your teeth; apprendre une langue = to learn a language.",
@@ -61555,7 +61811,8 @@
         "forms" : [
           "racontaient",
           "raconte",
-          "racontent"
+          "racontent",
+          "raconté"
         ],
         "note" : "Raconter (to tell a story), present; « on raconte que… » = people say that…, the story goes that…",
         "pos" : "verb",
@@ -64745,6 +65002,7 @@
       {
         "forms" : [
           "répandit",
+          "répandu",
           "répandue"
         ],
         "note" : "Se répandre (to spread): « s'est répandue » is the passé composé of speech, agreeing with « sa méthode »; « se répandit » is the passé simple, met only in written narration.",
@@ -67738,7 +67996,8 @@
       },
       {
         "forms" : [
-          "cousin"
+          "cousin",
+          "cousines"
         ],
         "gender" : "masculine",
         "note" : "« Son cousin » = his or her (male) cousin; a female cousin is « une cousine ».",
@@ -71434,6 +71693,404 @@
         "note" : "Un écrivain = a writer (of books); the feminine is une écrivaine.",
         "pos" : "noun",
         "translation" : "writer"
+      },
+      {
+        "forms" : [
+          "4 500"
+        ],
+        "note" : "Read « quatre mille cinq cents »: French writes a space, not a comma, between the thousands; « plus de 4 500 personnes » = more than 4,500 people.",
+        "pos" : "number",
+        "translation" : "4,500"
+      },
+      {
+        "forms" : [
+          "4 000"
+        ],
+        "note" : "Read « quatre mille »: mille never takes an -s; « il y a environ 4 000 ans » = about 4,000 years ago.",
+        "pos" : "number",
+        "translation" : "4,000"
+      },
+      {
+        "forms" : [
+          "3 000"
+        ],
+        "note" : "Read « trois mille », with no -s on mille and a space, not a comma, between the thousands.",
+        "pos" : "number",
+        "translation" : "3,000"
+      },
+      {
+        "forms" : [
+          "712"
+        ],
+        "note" : "Read « sept cent douze »; « dont 712 pour la première fois » = 712 of them for the first time.",
+        "pos" : "number",
+        "translation" : "712"
+      },
+      {
+        "forms" : [
+          "scandinavie"
+        ],
+        "gender" : "feminine",
+        "note" : "A feminine region, so « en Scandinavie » = in or to Scandinavia; « la Scandinavie avait » = Scandinavia had.",
+        "pos" : "noun",
+        "translation" : "Scandinavia"
+      },
+      {
+        "forms" : [
+          "baltique"
+        ],
+        "gender" : "feminine",
+        "note" : "Short for « la mer Baltique » and the lands around it; « depuis la Baltique » = from the Baltic.",
+        "pos" : "noun",
+        "translation" : "the Baltic"
+      },
+      {
+        "forms" : [
+          "l'allemagne"
+        ],
+        "gender" : "feminine",
+        "note" : "La + Allemagne, shortened before the vowel: « le nord de l'Allemagne » = northern Germany.",
+        "pos" : "noun",
+        "translation" : "Germany"
+      },
+      {
+        "forms" : [
+          "vikings"
+        ],
+        "gender" : "masculine",
+        "note" : "Written with a capital as a people: « avant les Vikings » = before the Vikings.",
+        "pos" : "noun",
+        "translation" : "Vikings"
+      },
+      {
+        "forms" : [
+          "viking"
+        ],
+        "note" : "As an adjective it takes no capital: « l'ère viking » = the Viking Age.",
+        "pos" : "adjective",
+        "translation" : "Viking (adjective)"
+      },
+      {
+        "forms" : [
+          "anglo-saxons"
+        ],
+        "gender" : "masculine",
+        "note" : "The people who settled in England in the early Middle Ages; one hyphenated word, both halves take the plural -s.",
+        "pos" : "noun",
+        "translation" : "Anglo-Saxons"
+      },
+      {
+        "forms" : [
+          "norrois"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le vieux norrois » = Old Norse, the language of the Vikings and the ancestor of Danish and Swedish.",
+        "pos" : "noun",
+        "translation" : "Norse"
+      },
+      {
+        "forms" : [
+          "d'europe"
+        ],
+        "gender" : "feminine",
+        "note" : "De + Europe, shortened before the vowel; « d'Europe centrale » = from central Europe, with no article after de.",
+        "pos" : "noun",
+        "translation" : "of Europe, from Europe"
+      },
+      {
+        "forms" : [
+          "l'anglais"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + anglais, shortened before the vowel; languages are masculine and take le: « l'anglais et l'allemand ».",
+        "pos" : "noun",
+        "translation" : "English (the language)"
+      },
+      {
+        "forms" : [
+          "l'allemand"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + allemand, shortened before the vowel; a language takes no capital in French: « le début de l'allemand ».",
+        "pos" : "noun",
+        "translation" : "German (the language)"
+      },
+      {
+        "forms" : [
+          "suédois"
+        ],
+        "note" : "Of Sweden; with le it is the language: « le suédois » = Swedish, with no capital letter.",
+        "pos" : "adjective",
+        "translation" : "Swedish"
+      },
+      {
+        "forms" : [
+          "celtique",
+          "celtiques"
+        ],
+        "note" : "« Les langues celtiques » = the Celtic languages; with le it names the language family: « le celtique » = Celtic.",
+        "pos" : "adjective",
+        "translation" : "Celtic"
+      },
+      {
+        "forms" : [
+          "l'adn"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + ADN (acide désoxyribonucléique), shortened before the vowel; said letter by letter, « a-dé-ène ».",
+        "pos" : "noun",
+        "translation" : "DNA"
+      },
+      {
+        "forms" : [
+          "os"
+        ],
+        "gender" : "masculine",
+        "note" : "The same spelling for one and many: « un os », « les os »; the -s is said in the singular and silent in the plural. « Les os ne parlent pas » = bones don't talk.",
+        "pos" : "noun",
+        "translation" : "bone, bones"
+      },
+      {
+        "forms" : [
+          "l'archéologie"
+        ],
+        "gender" : "feminine",
+        "note" : "La + archéologie, shortened before the vowel: the study of the past through what people left behind.",
+        "pos" : "noun",
+        "translation" : "archaeology"
+      },
+      {
+        "forms" : [
+          "l'ancêtre"
+        ],
+        "gender" : "masculine",
+        "note" : "Le + ancêtre, shortened before the vowel; it also works for languages: « l'ancêtre de l'anglais » = the language English grew out of.",
+        "pos" : "noun",
+        "translation" : "the ancestor"
+      },
+      {
+        "forms" : [
+          "l'ère"
+        ],
+        "gender" : "feminine",
+        "note" : "La + ère, shortened before the vowel: « l'ère viking » = the Viking Age.",
+        "pos" : "noun",
+        "translation" : "the era, the age"
+      },
+      {
+        "forms" : [
+          "l'explication"
+        ],
+        "gender" : "feminine",
+        "note" : "La + explication, shortened before the vowel: « l'explication la plus simple » = the simplest explanation.",
+        "pos" : "noun",
+        "translation" : "the explanation"
+      },
+      {
+        "forms" : [
+          "l'unanimité"
+        ],
+        "gender" : "feminine",
+        "note" : "La + unanimité; « ça ne fait pas l'unanimité » = not everyone agrees, a common spoken phrase.",
+        "pos" : "noun",
+        "translation" : "unanimity, agreement of everyone"
+      },
+      {
+        "forms" : [
+          "théâtre"
+        ],
+        "gender" : "masculine",
+        "note" : "« Coup de théâtre » = a sudden twist, like a surprise turn in a play.",
+        "pos" : "noun",
+        "translation" : "theatre"
+      },
+      {
+        "forms" : [
+          "d'autrefois"
+        ],
+        "note" : "De + autrefois, shortened before the vowel: « des personnes d'autrefois » = people from long ago.",
+        "pos" : "other",
+        "translation" : "from long ago, of old"
+      },
+      {
+        "forms" : [
+          "jusqu'ici"
+        ],
+        "note" : "Jusque + ici, shortened before the vowel: « un groupe inconnu jusqu'ici » = a group unknown until now.",
+        "pos" : "adverb",
+        "translation" : "until now, so far"
+      },
+      {
+        "forms" : [
+          "proches"
+        ],
+        "note" : "Plural of proche; « ils étaient proches parents » = they were close relatives, with parents meaning family members, not only mother and father.",
+        "pos" : "adjective",
+        "translation" : "close; (proches parents) close relatives"
+      },
+      {
+        "forms" : [
+          "dévoilé"
+        ],
+        "note" : "Past participle of dévoiler (to take the veil off): « ils ont dévoilé deux études » = they put out two studies.",
+        "pos" : "verb",
+        "translation" : "unveiled, revealed"
+      },
+      {
+        "forms" : [
+          "épluché"
+        ],
+        "note" : "Past participle of éplucher, to peel a vegetable; in speech also to go through something line by line: « ils avaient épluché l'ADN ».",
+        "pos" : "verb",
+        "translation" : "gone through carefully (literally peeled)"
+      },
+      {
+        "forms" : [
+          "14,6"
+        ],
+        "note" : "French writes decimals with a comma and says it « quatorze virgule six »: « 14,6 secondes d'avance » = a 14.6-second lead.",
+        "pos" : "number",
+        "translation" : "14.6"
+      },
+      {
+        "forms" : [
+          "21e"
+        ],
+        "note" : "Short for « vingt et unième »: French writes ordinals as the number plus a raised « e » (1er is the exception), « de la 21e à la deuxième place » = from 21st to second.",
+        "pos" : "number",
+        "translation" : "21st"
+      },
+      {
+        "forms" : [
+          "championne"
+        ],
+        "gender" : "feminine",
+        "note" : "The feminine of « champion »; a team or a brand like Mercedes is feminine in French (« l'écurie », « la marque »), so « Mercedes est championne ».",
+        "pos" : "noun",
+        "translation" : "champion (feminine)"
+      },
+      {
+        "forms" : [
+          "coéquipier"
+        ],
+        "gender" : "masculine",
+        "note" : "Someone on the same team (« co- » + « équipe »); a woman is « une coéquipière ».",
+        "pos" : "noun",
+        "translation" : "teammate"
+      },
+      {
+        "forms" : [
+          "danser"
+        ],
+        "note" : "Here in the idiom « ne pas savoir sur quel pied danser » (not know which foot to dance on) = not be able to make up your mind.",
+        "pos" : "verb",
+        "translation" : "to dance"
+      },
+      {
+        "forms" : [
+          "hadjar"
+        ],
+        "note" : "Isack Hadjar, the French driver for Red Bull, Max Verstappen's teammate in 2026.",
+        "pos" : "noun",
+        "translation" : "Hadjar"
+      },
+      {
+        "forms" : [
+          "isack"
+        ],
+        "note" : "Isack Hadjar, the French Formula 1 driver for Red Bull.",
+        "pos" : "noun",
+        "translation" : "Isack"
+      },
+      {
+        "forms" : [
+          "las"
+        ],
+        "note" : "Part of « Las Vegas », the city in the United States that hosts the next Formula 1 race; French keeps the name as it is.",
+        "pos" : "noun",
+        "translation" : "Las"
+      },
+      {
+        "forms" : [
+          "paulo"
+        ],
+        "note" : "Part of « São Paulo », the big city in Brazil where the São Paulo Grand Prix is raced.",
+        "pos" : "noun",
+        "translation" : "Paulo"
+      },
+      {
+        "forms" : [
+          "podium"
+        ],
+        "gender" : "masculine",
+        "note" : "The stand for the top three at the end of a race; « sur le podium » = in the top three.",
+        "pos" : "noun",
+        "translation" : "podium"
+      },
+      {
+        "forms" : [
+          "sebastian"
+        ],
+        "note" : "Sebastian Vettel, the German driver who became world champion in 2010 at 23, the youngest until Antonelli.",
+        "pos" : "noun",
+        "translation" : "Sebastian"
+      },
+      {
+        "forms" : [
+          "são"
+        ],
+        "note" : "Portuguese for « saint », the first word of « São Paulo », the Brazilian city; French keeps the Portuguese spelling.",
+        "pos" : "noun",
+        "translation" : "São"
+      },
+      {
+        "forms" : [
+          "séché"
+        ],
+        "note" : "Past participle of « sécher » (to dry), with avoir: « la piste a séché » = the track dried out.",
+        "pos" : "verb",
+        "translation" : "dried (out)"
+      },
+      {
+        "forms" : [
+          "tête-à-queue"
+        ],
+        "gender" : "masculine",
+        "note" : "Literally « head to tail »: a car turning round on itself; « faire un tête-à-queue » = to spin; the plural does not change.",
+        "pos" : "noun",
+        "translation" : "spin"
+      },
+      {
+        "forms" : [
+          "vegas"
+        ],
+        "note" : "Part of « Las Vegas », the US city that hosts the next race, from 20 to 22 November.",
+        "pos" : "noun",
+        "translation" : "Vegas"
+      },
+      {
+        "forms" : [
+          "vettel"
+        ],
+        "note" : "Sebastian Vettel, the German driver who held the record of youngest world champion from 2010.",
+        "pos" : "noun",
+        "translation" : "Vettel"
+      },
+      {
+        "forms" : [
+          "échappé"
+        ],
+        "note" : "Past participle of « s'échapper » (to break away), a reflexive verb, so it takes être: « il s'est échappé » = he pulled away from the others.",
+        "pos" : "verb",
+        "translation" : "got away, pulled away"
+      },
+      {
+        "forms" : [
+          "suffisant"
+        ],
+        "note" : "« C'était suffisant » = that was enough; the adjective of « suffire », feminine « suffisante ».",
+        "pos" : "adjective",
+        "translation" : "enough, sufficient"
       }
     ],
     "german" : [
@@ -73199,9 +73856,9 @@
         "forms" : [
           "gerade"
         ],
-        "note" : "Refers to the present moment.",
+        "note" : "Refers to the present moment; in a story about the past it means just then, right at that time.",
         "pos" : "adverb",
-        "translation" : "just, currently"
+        "translation" : "just, currently; just then"
       },
       {
         "forms" : [
@@ -76255,9 +76912,9 @@
           "untersuchen",
           "untersucht"
         ],
-        "note" : "Infinitive of untersuchen.",
+        "note" : "Infinitive „untersuchen“; „untersucht“ is the er/sie/es form and the participle (hat untersucht = examined).",
         "pos" : "verb",
-        "translation" : "to examine, study"
+        "translation" : "to examine, study; examined"
       },
       {
         "forms" : [
@@ -79709,7 +80366,7 @@
           "reden",
           "redete"
         ],
-        "note" : "Past tense of reden. Separable: … ein = sich einreden, to tell oneself.",
+        "note" : "Reden = to talk (sie reden, they talk); „redete“ is the past. Separable: … ein = sich einreden, to tell oneself.",
         "pos" : "verb",
         "separable" : [
           {
@@ -79718,7 +80375,7 @@
             "verb" : "sich einreden"
           }
         ],
-        "translation" : "talked, spoke"
+        "translation" : "to talk, speak; talked (redete)"
       },
       {
         "forms" : [
@@ -95440,7 +96097,8 @@
       },
       {
         "forms" : [
-          "studie"
+          "studie",
+          "studien"
         ],
         "gender" : "feminine",
         "note" : "A research study.",
@@ -95636,7 +96294,8 @@
       },
       {
         "forms" : [
-          "unser"
+          "unser",
+          "unsere"
         ],
         "note" : "Possessive — \"unser gemeinsamer Freund\" = our mutual friend.",
         "pos" : "pronoun",
@@ -99003,9 +99662,9 @@
           "gesprochen",
           "sprechen"
         ],
-        "note" : "Infinitive: „Unwahrheit sprechen“; the er/sie/es form is „spricht“.",
+        "note" : "Infinitive: „Unwahrheit sprechen“; the er/sie/es form is „spricht“, the participle „gesprochen“ (hat gesprochen = spoke).",
         "pos" : "verb",
-        "translation" : "to speak"
+        "translation" : "to speak; spoken"
       },
       {
         "forms" : [
@@ -107442,7 +108101,8 @@
       },
       {
         "forms" : [
-          "sprache"
+          "sprache",
+          "sprachen"
         ],
         "gender" : "feminine",
         "note" : "Die Sprache, plural die Sprachen: „eine Sprache lernen“ = to learn a language.",
@@ -108448,6 +109108,7 @@
       },
       {
         "forms" : [
+          "gereicht",
           "reicht"
         ],
         "note" : "Reichen, er/sie/es form: „Ein Stück Erde reicht“ = a patch of ground is enough; „Es reicht, wenn …“ = it's enough if …",
@@ -114164,6 +114825,464 @@
         "note" : "Die Novemberluft = November + Luft (air): the air in November. A compound noun takes the gender of its last part: die Luft.",
         "pos" : "noun",
         "translation" : "November air"
+      },
+      {
+        "forms" : [
+          "3.000"
+        ],
+        "note" : "Said „dreitausend“: German writes the thousands with a dot, 3.000 = 3,000.",
+        "pos" : "number",
+        "translation" : "3,000"
+      },
+      {
+        "forms" : [
+          "4.000"
+        ],
+        "note" : "Said „viertausend“: „vor etwa 4.000 Jahren“ = about 4,000 years ago, with a dot where English has a comma.",
+        "pos" : "number",
+        "translation" : "4,000"
+      },
+      {
+        "forms" : [
+          "4.500"
+        ],
+        "note" : "Said „viertausendfünfhundert“: German groups thousands with a dot, so 4.500 = 4,500.",
+        "pos" : "number",
+        "translation" : "4,500"
+      },
+      {
+        "forms" : [
+          "712"
+        ],
+        "note" : "Said „siebenhundertzwölf“: „712 davon“ = 712 of them.",
+        "pos" : "number",
+        "translation" : "712"
+      },
+      {
+        "forms" : [
+          "altnordisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Altnordisch = alt (old) + nordisch (Norse), the language of the Vikings; as a language name it is neuter and capitalised.",
+        "pos" : "noun",
+        "translation" : "Old Norse"
+      },
+      {
+        "forms" : [
+          "angelsachsen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Angelsachse, plural die Angelsachsen: the Germanic people who settled in England; „der Angelsachsen“ = of the Anglo-Saxons.",
+        "pos" : "noun",
+        "translation" : "Anglo-Saxons"
+      },
+      {
+        "forms" : [
+          "angenommen"
+        ],
+        "note" : "Partizip II of annehmen (to take on, to accept), separable, so ge- sits after an-; „Gestalt annehmen“ = to take shape.",
+        "pos" : "verb",
+        "translation" : "taken on"
+      },
+      {
+        "forms" : [
+          "archäologie"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Archäologie, the study of what people left in the ground; stress on the last syllable, „-lo-GIE“.",
+        "pos" : "noun",
+        "translation" : "archaeology"
+      },
+      {
+        "forms" : [
+          "ausgebreitet"
+        ],
+        "note" : "Partizip II of sich ausbreiten (to spread out), reflexive and separable, so ge- sits after aus-: „haben sich … ausgebreitet“.",
+        "pos" : "verb",
+        "translation" : "spread"
+      },
+      {
+        "forms" : [
+          "baltikum"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Baltikum, Estonia, Latvia and Lithuania together; unlike most place names it takes the article: „aus dem Baltikum“.",
+        "pos" : "noun",
+        "translation" : "the Baltic (states)"
+      },
+      {
+        "forms" : [
+          "besiedelt"
+        ],
+        "note" : "Partizip II of besiedeln (to settle a land), with no ge- because be- is an inseparable prefix: „die England besiedelt haben“ = who settled England.",
+        "pos" : "verb",
+        "translation" : "settled"
+      },
+      {
+        "forms" : [
+          "bisher"
+        ],
+        "note" : "Bisher = up to now: „eine bisher unbekannte Gruppe“ = a group nobody knew about until now.",
+        "pos" : "adverb",
+        "translation" : "until now, so far"
+      },
+      {
+        "forms" : [
+          "cousinen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Cousine (female cousin); die Sprache is feminine, so languages are Cousinen, not Cousins.",
+        "pos" : "noun",
+        "translation" : "(female) cousins"
+      },
+      {
+        "forms" : [
+          "dazugenommen"
+        ],
+        "note" : "Partizip II of dazunehmen (to take in as well, to add), separable, so ge- sits after dazu-: „hat … dazugenommen“.",
+        "pos" : "verb",
+        "translation" : "added"
+      },
+      {
+        "forms" : [
+          "dna"
+        ],
+        "gender" : "feminine",
+        "note" : "Die DNA (said „de-en-A“), the code in every cell; German also has the older short form DNS, but DNA is what most people say.",
+        "pos" : "noun",
+        "translation" : "DNA"
+      },
+      {
+        "forms" : [
+          "dänisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Dänisch, the language of Dänemark; languages are neuter and capitalised as nouns.",
+        "pos" : "noun",
+        "translation" : "Danish (the language)"
+      },
+      {
+        "forms" : [
+          "englisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Englisch, the language; like every language it is neuter and written with a capital: „auf Englisch“ = in English.",
+        "pos" : "noun",
+        "translation" : "English (the language)"
+      },
+      {
+        "forms" : [
+          "erklärung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Erklärung, from erklären (to explain); nouns in -ung are always feminine.",
+        "pos" : "noun",
+        "translation" : "explanation"
+      },
+      {
+        "forms" : [
+          "keltisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Keltisch, the Celtic languages as one group (Irish, Welsh, Breton …); used as a noun it is neuter and capitalised.",
+        "pos" : "noun",
+        "translation" : "Celtic (the languages)"
+      },
+      {
+        "forms" : [
+          "keltischen"
+        ],
+        "note" : "Keltisch with the ending -en after „die“ in the plural: „die keltischen Sprachen“ = the Celtic languages.",
+        "pos" : "adjective",
+        "translation" : "Celtic"
+      },
+      {
+        "forms" : [
+          "knochen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Knochen, the same in the plural: „Knochen reden nicht“ = bones don't talk.",
+        "pos" : "noun",
+        "translation" : "bone, bones"
+      },
+      {
+        "forms" : [
+          "mitteleuropa"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Mitteleuropa = Mitte (middle) + Europa, one word with no article: „aus Mitteleuropa“.",
+        "pos" : "noun",
+        "translation" : "central Europe"
+      },
+      {
+        "forms" : [
+          "norddeutschland"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Norddeutschland = Nord (north) + Deutschland, one word with no article: „aus Norddeutschland“ = from northern Germany.",
+        "pos" : "noun",
+        "translation" : "northern Germany"
+      },
+      {
+        "forms" : [
+          "schwedisch"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Schwedisch, the language of Schweden; as a noun it is neuter and written with a capital.",
+        "pos" : "noun",
+        "translation" : "Swedish (the language)"
+      },
+      {
+        "forms" : [
+          "skandinavien"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Skandinavien, Denmark, Norway and Sweden together; like most place names it is neuter and takes no article: „nach Skandinavien“.",
+        "pos" : "noun",
+        "translation" : "Scandinavia"
+      },
+      {
+        "forms" : [
+          "südschweden"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Südschweden = Süd (south) + Schweden, one word with no article: „nach Dänemark und Südschweden“.",
+        "pos" : "noun",
+        "translation" : "southern Sweden"
+      },
+      {
+        "forms" : [
+          "verrät"
+        ],
+        "note" : "Er/sie/es form of verraten (to give away, to betray), with an umlaut like „rät“ from raten: „verrät dir keine Sprache“ = doesn't tell you a language.",
+        "pos" : "verb",
+        "translation" : "gives away, tells"
+      },
+      {
+        "forms" : [
+          "verwandte"
+        ],
+        "gender" : "masculine",
+        "note" : "Die Verwandten (relatives) is an adjective used as a noun, so it drops the -n after an adjective with no article: „nahe Verwandte“ = close relatives.",
+        "pos" : "noun",
+        "translation" : "relatives"
+      },
+      {
+        "forms" : [
+          "westen"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Westen; the compass points are masculine, and „nach Westen“ (westward) needs no article.",
+        "pos" : "noun",
+        "translation" : "west"
+      },
+      {
+        "forms" : [
+          "wikinger",
+          "wikingern"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Wikinger, plural die Wikinger; after „vor den“ the dative plural adds -n: „vor den Wikingern“ = before the Vikings.",
+        "pos" : "noun",
+        "translation" : "Vikings"
+      },
+      {
+        "forms" : [
+          "wikingerzeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Wikingerzeit = Wikinger + Zeit, and the gender comes from the last part, die Zeit: „vor der Wikingerzeit“.",
+        "pos" : "noun",
+        "translation" : "Viking Age"
+      },
+      {
+        "forms" : [
+          "woher"
+        ],
+        "note" : "Woher asks where something comes from and opens the question, with the verb second: „Woher kommen unsere Sprachen?“",
+        "pos" : "adverb",
+        "translation" : "where from"
+      },
+      {
+        "forms" : [
+          "zustimmen"
+        ],
+        "note" : "Zustimmen (to agree), separable; at the end of a wenn-clause it stays in one piece: „auch wenn nicht alle zustimmen“ = though not everyone agrees.",
+        "pos" : "verb",
+        "translation" : "to agree"
+      },
+      {
+        "forms" : [
+          "14,6"
+        ],
+        "note" : "„14,6 Sekunden“ = 14.6 seconds, read vierzehn Komma sechs; German writes a decimal comma.",
+        "pos" : "number",
+        "translation" : "14.6"
+      },
+      {
+        "forms" : [
+          "21"
+        ],
+        "note" : "Read einundzwanzig, the ones before the tens; „von Platz 21“ = from 21st place on the grid.",
+        "pos" : "number",
+        "translation" : "21"
+      },
+      {
+        "forms" : [
+          "são"
+        ],
+        "gender" : "neuter",
+        "note" : "First word of São Paulo, the Brazilian city of the race; Portuguese for „saint“, the name stays Portuguese in German.",
+        "pos" : "noun",
+        "translation" : "São (in São Paulo)"
+      },
+      {
+        "forms" : [
+          "paulo"
+        ],
+        "gender" : "neuter",
+        "note" : "Second word of São Paulo, Brazil's biggest city; cities are neuter: „in São Paulo“, „der Große Preis von São Paulo“.",
+        "pos" : "noun",
+        "translation" : "Paulo (in São Paulo)"
+      },
+      {
+        "forms" : [
+          "vegas"
+        ],
+        "gender" : "neuter",
+        "note" : "Las Vegas, the US city of the next race, 20 to 22 November 2026; the name stays as in English.",
+        "pos" : "noun",
+        "translation" : "Vegas (in Las Vegas)"
+      },
+      {
+        "forms" : [
+          "isack"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Isack Hadjar, the Red Bull driver who is Max Verstappen's teammate.",
+        "pos" : "noun",
+        "translation" : "Isack (a first name)"
+      },
+      {
+        "forms" : [
+          "hadjar"
+        ],
+        "gender" : "masculine",
+        "note" : "Isack Hadjar, Red Bull driver and Max Verstappen's teammate; third in São Paulo on 8 November 2026.",
+        "pos" : "noun",
+        "translation" : "Hadjar"
+      },
+      {
+        "forms" : [
+          "sebastian"
+        ],
+        "gender" : "masculine",
+        "note" : "The first name of Sebastian Vettel, the German driver who won his first world title in 2010.",
+        "pos" : "noun",
+        "translation" : "Sebastian (a first name)"
+      },
+      {
+        "forms" : [
+          "vettel"
+        ],
+        "gender" : "masculine",
+        "note" : "Sebastian Vettel, the German driver who held the record as youngest world champion, from 2010, until Antonelli in 2026.",
+        "pos" : "noun",
+        "translation" : "Vettel"
+      },
+      {
+        "forms" : [
+          "fahrer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Fahrer, from fahren (to drive); the plural is also die Fahrer: „erst der Fahrer, jetzt das Team“.",
+        "pos" : "noun",
+        "translation" : "driver"
+      },
+      {
+        "forms" : [
+          "teamkollege"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Teamkollege = Team + Kollege (colleague): the other driver in the same team; „sein Teamkollege“.",
+        "pos" : "noun",
+        "translation" : "teammate"
+      },
+      {
+        "forms" : [
+          "teamtitel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Teamtitel: in Formula 1 the title for the best team, the constructors' championship; „den Teamtitel gewinnen“.",
+        "pos" : "noun",
+        "translation" : "team title (constructors' title)"
+      },
+      {
+        "forms" : [
+          "teamweltmeister"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Teamweltmeister: the team that wins the constructors' title; like Weltmeister, no article after sein: „Mercedes ist Teamweltmeister“.",
+        "pos" : "noun",
+        "translation" : "team world champion"
+      },
+      {
+        "forms" : [
+          "konstrukteursweltmeister"
+        ],
+        "gender" : "masculine",
+        "note" : "Konstrukteur (constructor, the team that builds the car) + s + Weltmeister: the press word for the team champion in Formula 1.",
+        "pos" : "noun",
+        "translation" : "constructors' world champion"
+      },
+      {
+        "forms" : [
+          "podium"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Podium: the stand for the first three; „aufs Podium“ = auf das Podium, onto the podium.",
+        "pos" : "noun",
+        "translation" : "podium"
+      },
+      {
+        "forms" : [
+          "frischgebackener"
+        ],
+        "note" : "Frischgebacken, literally „freshly baked“: a spoken way to say someone has only just become something, „ein frischgebackener Weltmeister“.",
+        "pos" : "adjective",
+        "translation" : "brand-new, freshly made"
+      },
+      {
+        "forms" : [
+          "angereist"
+        ],
+        "note" : "Partizip II of anreisen (to arrive, travel to an event), with sein: „ist als Weltmeister angereist“ = came as champion.",
+        "pos" : "verb",
+        "translation" : "arrived, travelled in"
+      },
+      {
+        "forms" : [
+          "davongefahren"
+        ],
+        "note" : "Partizip II of davonfahren (to drive off, pull away from the others), with sein: „ist davongefahren“.",
+        "pos" : "verb",
+        "translation" : "driven away, pulled away"
+      },
+      {
+        "forms" : [
+          "geschnappt"
+        ],
+        "note" : "Partizip II of schnappen; spoken „sich jemanden schnappen“ = to grab someone, in racing to pass him: „hat sich Norris geschnappt“.",
+        "pos" : "verb",
+        "translation" : "grabbed, snatched"
+      },
+      {
+        "forms" : [
+          "vorgekämpft"
+        ],
+        "note" : "Partizip II of sich vorkämpfen (to fight one's way forward), with haben: „hat sich von Platz 21 auf zwei vorgekämpft“.",
+        "pos" : "verb",
+        "translation" : "fought his way forward"
       }
     ],
     "italian" : [
@@ -115542,7 +116661,8 @@
       },
       {
         "forms" : [
-          "basta"
+          "basta",
+          "bastato"
         ],
         "note" : "From bastare, \"to be enough.\"",
         "pos" : "verb",
@@ -117427,6 +118547,7 @@
           "decide",
           "decidere",
           "deciderlo",
+          "decideva",
           "decidono",
           "decisa",
           "decise",
@@ -119310,6 +120431,7 @@
           "imparando",
           "imparano",
           "imparare",
+          "impari",
           "imparo"
         ],
         "note" : "From imparare.",
@@ -121100,6 +122222,7 @@
       },
       {
         "forms" : [
+          "nostre",
           "nostro"
         ],
         "note" : "Possessive adjective.",
@@ -126155,6 +127278,7 @@
       },
       {
         "forms" : [
+          "viaggi",
           "viaggiando",
           "viaggiano",
           "viaggiato",
@@ -126219,6 +127343,7 @@
       },
       {
         "forms" : [
+          "vissute",
           "vissuto"
         ],
         "note" : "Past participle of vivere.",
@@ -129034,6 +130159,7 @@
           "parlano",
           "parlare",
           "parlarne",
+          "parlasse",
           "parlatene",
           "parlava"
         ],
@@ -132374,6 +133500,7 @@
       },
       {
         "forms" : [
+          "studi",
           "studio"
         ],
         "gender" : "masculine",
@@ -133655,9 +134782,11 @@
         "forms" : [
           "nacque",
           "nasce",
+          "nasceva",
           "nascevano",
           "nascono",
           "nata",
+          "nati",
           "nato"
         ],
         "note" : "From nascere.",
@@ -136087,6 +137216,7 @@
       },
       {
         "forms" : [
+          "stabiliti",
           "stabilito"
         ],
         "note" : "Participio di «stabilire».",
@@ -136787,7 +137917,8 @@
       },
       {
         "forms" : [
-          "lingua"
+          "lingua",
+          "lingue"
         ],
         "gender" : "feminine",
         "note" : "«Passando la lingua sui denti» = running your tongue over your teeth; una lingua straniera = a foreign language.",
@@ -138969,7 +140100,8 @@
       },
       {
         "forms" : [
-          "bagnata"
+          "bagnata",
+          "bagnato"
         ],
         "note" : "Feminine of bagnato; it agrees with la pista: pista bagnata = wet track.",
         "pos" : "adjective",
@@ -141214,6 +142346,7 @@
       },
       {
         "forms" : [
+          "servite",
           "serviti"
         ],
         "note" : "Past participle of servire, which also means to be needed: sono serviti quindici anni = it took fifteen years (fifteen years were needed).",
@@ -142594,6 +143727,7 @@
       },
       {
         "forms" : [
+          "dall'europa",
           "europa",
           "l'europa"
         ],
@@ -145560,7 +146694,8 @@
       },
       {
         "forms" : [
-          "compagni"
+          "compagni",
+          "compagno"
         ],
         "gender" : "masculine",
         "note" : "Compagni (di scuola, di corso) = classmates; the singular is compagno.",
@@ -146863,6 +147998,7 @@
       },
       {
         "forms" : [
+          "cugine",
           "cugino"
         ],
         "gender" : "masculine",
@@ -149191,7 +150327,8 @@
       },
       {
         "forms" : [
-          "trasferita"
+          "trasferita",
+          "trasferite"
         ],
         "note" : "Past participle of trasferirsi (to move), feminine, with essere: „mi sono trasferita“ (a man: trasferito).",
         "pos" : "verb",
@@ -149507,6 +150644,7 @@
       },
       {
         "forms" : [
+          "dell'epoca",
           "l'epoca"
         ],
         "gender" : "feminine",
@@ -150522,6 +151660,302 @@
         "note" : "In questo periodo = at this time of year, these days.",
         "pos" : "noun",
         "translation" : "period, time"
+      },
+      {
+        "forms" : [
+          "712"
+        ],
+        "note" : "Settecentododici, written as one word: e per 712 era la prima volta = and for 712 it was the first time.",
+        "pos" : "number",
+        "translation" : "712"
+      },
+      {
+        "forms" : [
+          "3.000"
+        ],
+        "note" : "Tremila; Italian marks thousands with a full stop, not a comma: 3.000 anni fa = 3,000 years ago.",
+        "pos" : "number",
+        "translation" : "3,000"
+      },
+      {
+        "forms" : [
+          "4.000"
+        ],
+        "note" : "Quattromila; Italian marks thousands with a full stop: 4.000 anni fa = 4,000 years ago.",
+        "pos" : "number",
+        "translation" : "4,000"
+      },
+      {
+        "forms" : [
+          "4.500"
+        ],
+        "note" : "Quattromilacinquecento; Italian marks thousands with a full stop, not a comma: 4.500 = 4,500.",
+        "pos" : "number",
+        "translation" : "4,500"
+      },
+      {
+        "forms" : [
+          "dna"
+        ],
+        "gender" : "masculine",
+        "note" : "Said «di-enne-a» and masculine, il DNA; Italian keeps the English letters (the full name is acido desossiribonucleico).",
+        "pos" : "noun",
+        "translation" : "DNA"
+      },
+      {
+        "forms" : [
+          "scandinavia"
+        ],
+        "gender" : "feminine",
+        "note" : "The region of Denmark, Sweden and Norway; feminine, la Scandinavia, but in Scandinavia with no article after in.",
+        "pos" : "noun",
+        "translation" : "Scandinavia"
+      },
+      {
+        "forms" : [
+          "baltico"
+        ],
+        "gender" : "masculine",
+        "note" : "Il Baltico is the Baltic Sea and the lands around it; dal Baltico = from the Baltic (da + il).",
+        "pos" : "noun",
+        "translation" : "the Baltic"
+      },
+      {
+        "forms" : [
+          "vichinghi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il vichingo; the -go ending becomes -ghi to keep the hard g sound: prima dei vichinghi = before the Vikings.",
+        "pos" : "noun",
+        "translation" : "Vikings"
+      },
+      {
+        "forms" : [
+          "vichinga"
+        ],
+        "note" : "Feminine of vichingo, agreeing with epoca: l'epoca vichinga = the Viking Age.",
+        "pos" : "adjective",
+        "translation" : "Viking"
+      },
+      {
+        "forms" : [
+          "norreno"
+        ],
+        "gender" : "masculine",
+        "note" : "Il norreno is the language of the Vikings, from which Danish, Swedish and Norwegian grew; like all language names it is masculine.",
+        "pos" : "noun",
+        "translation" : "Old Norse"
+      },
+      {
+        "forms" : [
+          "anglosassoni"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of anglosassone (anglo + sassone, Saxon), the Germanic peoples who settled in England; written lower case in Italian.",
+        "pos" : "noun",
+        "translation" : "Anglo-Saxons"
+      },
+      {
+        "forms" : [
+          "dell'inglese",
+          "l'inglese"
+        ],
+        "gender" : "masculine",
+        "note" : "Language names are masculine and take the article, which drops its vowel before inglese: l'inglese, dell'inglese = of English.",
+        "pos" : "noun",
+        "translation" : "English (the language)"
+      },
+      {
+        "forms" : [
+          "svedese"
+        ],
+        "note" : "Swedish, the same for masculine and feminine; as a language name it needs no capital letter: lo svedese.",
+        "pos" : "adjective",
+        "translation" : "Swedish"
+      },
+      {
+        "forms" : [
+          "celtiche"
+        ],
+        "note" : "Feminine plural of celtico, agreeing with lingue: le lingue celtiche = the Celtic languages; -co becomes -che to keep the hard c.",
+        "pos" : "adjective",
+        "translation" : "Celtic"
+      },
+      {
+        "forms" : [
+          "ossa"
+        ],
+        "gender" : "feminine",
+        "note" : "Irregular plural of l'osso (bone), feminine in the plural: le ossa non parlano = bones don't talk.",
+        "pos" : "noun",
+        "translation" : "bones"
+      },
+      {
+        "forms" : [
+          "parenti"
+        ],
+        "gender" : "masculine",
+        "note" : "I parenti are relatives in general, not parents (i genitori): parenti stretti = close relatives.",
+        "pos" : "noun",
+        "translation" : "relatives"
+      },
+      {
+        "forms" : [
+          "l'archeologia"
+        ],
+        "gender" : "feminine",
+        "note" : "La + archeologia, the article shortened before the vowel; the people who do it are gli archeologi.",
+        "pos" : "noun",
+        "translation" : "archaeology"
+      },
+      {
+        "forms" : [
+          "spostamento"
+        ],
+        "gender" : "masculine",
+        "note" : "From spostare (to move): uno spostamento verso ovest = a move west; lo before s + consonant.",
+        "pos" : "noun",
+        "translation" : "move, shift"
+      },
+      {
+        "forms" : [
+          "setaccio"
+        ],
+        "gender" : "masculine",
+        "note" : "Literally a kitchen sieve; passare al setaccio = to go through something carefully, piece by piece.",
+        "pos" : "noun",
+        "translation" : "sieve"
+      },
+      {
+        "forms" : [
+          "intendiamoci"
+        ],
+        "note" : "Intendiamo + ci (let's understand each other), a spoken aside that limits what was just said.",
+        "pos" : "interjection",
+        "translation" : "mind you, let's be clear"
+      },
+      {
+        "forms" : [
+          "nell'autunno"
+        ],
+        "note" : "Contraction in + l'autunno: «nell'autunno del 2026» = in autumn 2026.",
+        "pos" : "other",
+        "translation" : "in the autumn"
+      },
+      {
+        "forms" : [
+          "14,6"
+        ],
+        "note" : "Read \"quattordici virgola sei\"; Italian writes a comma where English has a decimal point: 14,6 secondi davanti a Verstappen = 14.6 seconds ahead of Verstappen.",
+        "pos" : "number",
+        "translation" : "14.6"
+      },
+      {
+        "forms" : [
+          "ventunesimo"
+        ],
+        "note" : "The ordinal of ventuno: compound ordinals drop the last vowel and add -esimo, so è partito ventunesimo = he started twenty-first.",
+        "pos" : "number",
+        "translation" : "twenty-first"
+      },
+      {
+        "forms" : [
+          "paolo"
+        ],
+        "note" : "Italian says San Paolo for the Brazilian city of São Paulo, where the race was: a San Paolo = in São Paulo.",
+        "pos" : "noun",
+        "translation" : "Paolo (in: San Paolo, São Paulo)"
+      },
+      {
+        "forms" : [
+          "las"
+        ],
+        "note" : "First part of the city name Las Vegas, in the United States, where the next race is: a Las Vegas = in Las Vegas.",
+        "pos" : "noun",
+        "translation" : "Las (in: Las Vegas)"
+      },
+      {
+        "forms" : [
+          "vegas"
+        ],
+        "note" : "Las Vegas, the US city of the next Grand Prix, from 20 to 22 November; Italian keeps the name as it is.",
+        "pos" : "noun",
+        "translation" : "Vegas (in: Las Vegas)"
+      },
+      {
+        "forms" : [
+          "isack"
+        ],
+        "note" : "First name of Isack Hadjar, the Red Bull driver who was third in São Paulo, Max Verstappen's teammate.",
+        "pos" : "noun",
+        "translation" : "Isack"
+      },
+      {
+        "forms" : [
+          "hadjar"
+        ],
+        "note" : "Isack Hadjar, Formula 1 driver for Red Bull and Verstappen's teammate; third in São Paulo on 8 November 2026.",
+        "pos" : "noun",
+        "translation" : "Hadjar"
+      },
+      {
+        "forms" : [
+          "sebastian"
+        ],
+        "note" : "First name of Sebastian Vettel, the German driver who became world champion in 2010.",
+        "pos" : "noun",
+        "translation" : "Sebastian"
+      },
+      {
+        "forms" : [
+          "vettel"
+        ],
+        "note" : "Sebastian Vettel, world champion in 2010; il record di Vettel = Vettel's record as the youngest champion, which Antonelli beat.",
+        "pos" : "noun",
+        "translation" : "Vettel"
+      },
+      {
+        "forms" : [
+          "testacoda"
+        ],
+        "gender" : "masculine",
+        "note" : "Literally \"head-tail\", the car turning round on itself; it never changes in the plural, and people say andare in testacoda = to spin.",
+        "pos" : "noun",
+        "translation" : "spin (of a car)"
+      },
+      {
+        "forms" : [
+          "podio"
+        ],
+        "gender" : "masculine",
+        "note" : "The top three places of a race: sul podio = on the podium, i.e. among the first three.",
+        "pos" : "noun",
+        "translation" : "podium"
+      },
+      {
+        "forms" : [
+          "largo"
+        ],
+        "gender" : "masculine",
+        "note" : "Prendere il largo is \"to head out to sea\"; in a race it means to pull away from the others: ha preso il largo = he pulled away.",
+        "pos" : "noun",
+        "translation" : "the open sea (in: prendere il largo, to pull away)"
+      },
+      {
+        "forms" : [
+          "asciugata"
+        ],
+        "note" : "Past participle of asciugarsi, to dry out; with essere it agrees with the subject: la pista si è asciugata = the track dried out.",
+        "pos" : "verb",
+        "translation" : "dried (out)"
+      },
+      {
+        "forms" : [
+          "asciutto"
+        ],
+        "note" : "The opposite of bagnato (wet); in racing talk, asciutto a metà = dry in the middle of the race.",
+        "pos" : "adjective",
+        "translation" : "dry"
       }
     ],
     "spanish" : [
@@ -150792,6 +152226,7 @@
           "aprende",
           "aprenden",
           "aprender",
+          "aprendes",
           "aprendiendo",
           "aprendió",
           "aprendo",
@@ -152742,7 +154177,8 @@
       },
       {
         "forms" : [
-          "hueso"
+          "hueso",
+          "huesos"
         ],
         "gender" : "masculine",
         "note" : "Here, the pit of an avocado.",
@@ -155253,7 +156689,8 @@
       },
       {
         "forms" : [
-          "viaje"
+          "viaje",
+          "viajes"
         ],
         "gender" : "masculine",
         "note" : "A journey.",
@@ -155793,6 +157230,7 @@
       {
         "forms" : [
           "basta",
+          "bastado",
           "bastó"
         ],
         "note" : "Present tense of bastar.",
@@ -156047,6 +157485,7 @@
       },
       {
         "forms" : [
+          "compañero",
           "compañeros"
         ],
         "gender" : "masculine",
@@ -159599,7 +161038,8 @@
       },
       {
         "forms" : [
-          "nuestro"
+          "nuestro",
+          "nuestros"
         ],
         "note" : "The possessive for nosotros.",
         "pos" : "other",
@@ -161216,7 +162656,8 @@
         "forms" : [
           "decide",
           "deciden",
-          "decidir"
+          "decidir",
+          "decidirse"
         ],
         "note" : "Decidir, ellos/ellas form.",
         "pos" : "verb",
@@ -166636,6 +168077,8 @@
       },
       {
         "forms" : [
+          "hablaba",
+          "hablaban",
           "hablar"
         ],
         "note" : "Infinitive.",
@@ -170829,7 +172272,8 @@
       },
       {
         "forms" : [
-          "estudio"
+          "estudio",
+          "estudios"
         ],
         "gender" : "masculine",
         "note" : "As in a research study.",
@@ -173014,7 +174458,8 @@
       },
       {
         "forms" : [
-          "cercana"
+          "cercana",
+          "cercanos"
         ],
         "note" : "«Su prima cercana».",
         "pos" : "adjective",
@@ -173652,7 +175097,8 @@
       },
       {
         "forms" : [
-          "inglesa"
+          "inglesa",
+          "inglés"
         ],
         "note" : "«Una versión inglesa».",
         "pos" : "adjective",
@@ -174056,7 +175502,8 @@
       {
         "forms" : [
           "prima",
-          "primo"
+          "primo",
+          "primos"
         ],
         "gender" : "feminine",
         "note" : "«Su prima hermana» = its first cousin, a very close relative; the masculine primo is a male cousin: su primo = his cousin.",
@@ -177214,6 +178661,7 @@
       },
       {
         "forms" : [
+          "remontado",
           "remontó"
         ],
         "note" : "Pretérito indefinido of remontar: to make up lost places, to come back from behind.",
@@ -182099,7 +183547,8 @@
       },
       {
         "forms" : [
-          "idioma"
+          "idioma",
+          "idiomas"
         ],
         "gender" : "masculine",
         "note" : "Masculine even though it ends in -a: un idioma, aprender un idioma = to learn a language.",
@@ -184863,7 +186312,8 @@
       },
       {
         "forms" : [
-          "secaban"
+          "secaban",
+          "secó"
         ],
         "note" : "Imperfect of secarse (to dry out), for what kept happening: se secaban = they kept drying out; secar without se means to dry something.",
         "pos" : "verb",
@@ -186158,6 +187608,7 @@
       },
       {
         "forms" : [
+          "analizado",
           "analizaron"
         ],
         "note" : "Pretérito of analizar for ellos: «analizaron 27 ciudades» = they assessed 27 cities.",
@@ -188351,6 +189802,260 @@
         "note" : "Roman numeral read «dieciséis»; Spanish writes centuries in Roman numerals: «el siglo XVI» = the 16th century, the 1500s.",
         "pos" : "number",
         "translation" : "16th (century)"
+      },
+      {
+        "forms" : [
+          "4.500"
+        ],
+        "note" : "Read «cuatro mil quinientos»: Spanish marks thousands with a dot, so «más de 4.500 personas» = more than 4,500 people.",
+        "pos" : "number",
+        "translation" : "4,500"
+      },
+      {
+        "forms" : [
+          "4.000"
+        ],
+        "note" : "Read «cuatro mil»: «hace unos 4.000 años» = about 4,000 years ago; mil never takes un in front.",
+        "pos" : "number",
+        "translation" : "4,000"
+      },
+      {
+        "forms" : [
+          "3.000"
+        ],
+        "note" : "Read «tres mil»: «hace unos 3.000 años» = about 3,000 years ago.",
+        "pos" : "number",
+        "translation" : "3,000"
+      },
+      {
+        "forms" : [
+          "712"
+        ],
+        "note" : "Read «setecientos doce»: «712 de ellas» = 712 of them, feminine because it counts personas.",
+        "pos" : "number",
+        "translation" : "712"
+      },
+      {
+        "forms" : [
+          "adn"
+        ],
+        "gender" : "masculine",
+        "note" : "El ADN, short for ácido desoxirribonucleico; Spanish puts the letters in its own order and reads them «a-de-ene».",
+        "pos" : "noun",
+        "translation" : "DNA"
+      },
+      {
+        "forms" : [
+          "escandinavia"
+        ],
+        "gender" : "feminine",
+        "note" : "The north of Europe around Denmark, Norway and Sweden; a place name with no article: «en Escandinavia».",
+        "pos" : "noun",
+        "translation" : "Scandinavia"
+      },
+      {
+        "forms" : [
+          "vikinga",
+          "vikingos"
+        ],
+        "gender" : "masculine",
+        "note" : "Los vikingos = the Vikings, with a small letter in Spanish; as an adjective it agrees: «la época vikinga» = the Viking Age.",
+        "pos" : "noun",
+        "translation" : "Viking(s)"
+      },
+      {
+        "forms" : [
+          "sueco"
+        ],
+        "note" : "Sueco, like inglés and danés, is also the name of the language (el sueco) and takes no capital letter in Spanish.",
+        "pos" : "adjective",
+        "translation" : "Swedish"
+      },
+      {
+        "forms" : [
+          "celta",
+          "celtas"
+        ],
+        "note" : "Celta has one form for masculine and feminine: «los idiomas celtas»; «el celta» on its own means the Celtic language.",
+        "pos" : "adjective",
+        "translation" : "Celtic"
+      },
+      {
+        "forms" : [
+          "parientes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of el pariente, any family member; it is a false friend, since parents are los padres.",
+        "pos" : "noun",
+        "translation" : "relatives"
+      },
+      {
+        "forms" : [
+          "anglosajones"
+        ],
+        "gender" : "masculine",
+        "note" : "Los anglosajones, the Germanic peoples who settled in England; the singular is anglosajón, with an accent.",
+        "pos" : "noun",
+        "translation" : "Anglo-Saxons"
+      },
+      {
+        "forms" : [
+          "báltico"
+        ],
+        "gender" : "masculine",
+        "note" : "«El Báltico» is the region around the Baltic Sea (el mar Báltico); «del Báltico» = from the Baltic.",
+        "pos" : "noun",
+        "translation" : "the Baltic"
+      },
+      {
+        "forms" : [
+          "nórdico"
+        ],
+        "note" : "«El nórdico antiguo» = Old Norse, the language of the Vikings; the adjective comes after the noun in Spanish.",
+        "pos" : "adjective",
+        "translation" : "Norse, Nordic"
+      },
+      {
+        "forms" : [
+          "arqueología"
+        ],
+        "gender" : "feminine",
+        "note" : "La arqueología, the study of old things found in the ground; the accent on the í keeps the stress there.",
+        "pos" : "noun",
+        "translation" : "archaeology"
+      },
+      {
+        "forms" : [
+          "oeste"
+        ],
+        "gender" : "masculine",
+        "note" : "El oeste; «al oeste» = westward, to the west, like al norte or al sur.",
+        "pos" : "noun",
+        "translation" : "west"
+      },
+      {
+        "forms" : [
+          "explicación"
+        ],
+        "gender" : "feminine",
+        "note" : "La explicación, from explicar; like every noun in -ción it is feminine and loses the accent in the plural (explicaciones).",
+        "pos" : "noun",
+        "translation" : "explanation"
+      },
+      {
+        "forms" : [
+          "asentaron"
+        ],
+        "note" : "Pretérito of asentarse for ellos: «se asentaron en Inglaterra» = they settled in England, reflexive like quedarse.",
+        "pos" : "verb",
+        "translation" : "settled"
+      },
+      {
+        "forms" : [
+          "14,6"
+        ],
+        "note" : "Read \"catorce coma seis\": Spanish writes the decimal with a comma; \"14,6 segundos por delante\" = 14.6 seconds ahead.",
+        "pos" : "number",
+        "translation" : "14.6"
+      },
+      {
+        "forms" : [
+          "21"
+        ],
+        "note" : "Read \"veintiuno\", written as one word; \"desde el puesto 21\" = from 21st place on the grid.",
+        "pos" : "number",
+        "translation" : "twenty-one"
+      },
+      {
+        "forms" : [
+          "são"
+        ],
+        "note" : "Portuguese for \"saint\"; Spanish keeps the Brazilian spelling of São Paulo, the city in Brazil where the race took place.",
+        "pos" : "noun",
+        "translation" : "São (in \"São Paulo\")"
+      },
+      {
+        "forms" : [
+          "paulo"
+        ],
+        "note" : "São Paulo, the biggest city in Brazil; the Formula 1 race there is the Gran Premio de São Paulo.",
+        "pos" : "noun",
+        "translation" : "Paulo (in \"São Paulo\")"
+      },
+      {
+        "forms" : [
+          "vegas"
+        ],
+        "note" : "Las Vegas, the city in the United States where the next race is, from 20 to 22 November 2026; in Spanish \"las vegas\" means \"the meadows\".",
+        "pos" : "noun",
+        "translation" : "Vegas (in \"Las Vegas\")"
+      },
+      {
+        "forms" : [
+          "isack"
+        ],
+        "note" : "Isack Hadjar, a French driver for Red Bull and Max Verstappen's teammate.",
+        "pos" : "noun",
+        "translation" : "Isack"
+      },
+      {
+        "forms" : [
+          "hadjar"
+        ],
+        "note" : "Isack Hadjar, the Red Bull driver who finished third in São Paulo on 8 November 2026.",
+        "pos" : "noun",
+        "translation" : "Hadjar"
+      },
+      {
+        "forms" : [
+          "sebastian"
+        ],
+        "note" : "Sebastian Vettel, the German driver who was the youngest Formula 1 world champion until 2026.",
+        "pos" : "noun",
+        "translation" : "Sebastian"
+      },
+      {
+        "forms" : [
+          "vettel"
+        ],
+        "note" : "Sebastian Vettel, four times Formula 1 world champion; his first title, in 2010, was the record for the youngest champion.",
+        "pos" : "noun",
+        "translation" : "Vettel"
+      },
+      {
+        "forms" : [
+          "trompo"
+        ],
+        "gender" : "masculine",
+        "note" : "A trompo is a spinning top; \"hacer un trompo\" = to spin, when a car turns round on the track, the usual phrase in Spanish motor racing.",
+        "pos" : "noun",
+        "translation" : "spin (of a car)"
+      },
+      {
+        "forms" : [
+          "podio"
+        ],
+        "gender" : "masculine",
+        "note" : "The stand for the first three of a race; \"en el podio\" = among the top three.",
+        "pos" : "noun",
+        "translation" : "podium"
+      },
+      {
+        "forms" : [
+          "constructores"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of constructor; \"el título de constructores\" is the Formula 1 team title, won with the points of both a team's drivers.",
+        "pos" : "noun",
+        "translation" : "constructors (in \"título de constructores\")"
+      },
+      {
+        "forms" : [
+          "mandar"
+        ],
+        "note" : "Mandar means to be in charge; in sport \"volver a mandar\" = to be in the lead again.",
+        "pos" : "verb",
+        "translation" : "to lead, be in front (in a race)"
       }
     ]
   },
@@ -238835,6 +240540,1176 @@
       "summary" : "Nel suo libro del 1891 Pellegrino Artusi racconta di aver provato a convincere una donna a vendere il castagnaccio, senza riuscirci; oggi però lo può fare chiunque.",
       "title" : "L'uomo che non riusciva a venderlo",
       "translationGroup" : "castagnaccio"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "where-our-words-came-from",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"There is / there are\" says something exists; for the past it becomes \"there was / there were\": there were new people, 4,000 years ago.",
+              "example" : "About 4,000 years ago, there were new people in Scandinavia.",
+              "title" : "There were: the past of there are"
+            },
+            {
+              "body" : "A question in the present puts \"do\" (or \"does\") before the subject, and \"from\" stays at the end: where do our languages come from?",
+              "example" : "So where do our languages come from?",
+              "title" : "Questions with do: where do … come from?"
+            },
+            {
+              "body" : "In speech, \"do not\" becomes \"don't\" and \"cannot\" becomes \"can't\"; the verb after them has no -s: bones don't talk, DNA can't tell.",
+              "example" : "But bones don't talk, so DNA can't tell us their language.",
+              "title" : "Don't and can't: short negatives"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's November 2026. Scientists look at the DNA of over 4,500 people from long ago. So where do our languages come from?",
+            "And the DNA shows long trips. About 4,000 years ago, there were new people in Scandinavia. Maybe their language was the start of English and German. Then, before the Vikings, there were people from northern Germany in Denmark.",
+            "But bones don't talk, so DNA can't tell us their language. The scientists also need old words.",
+            "So English, German, Danish and Swedish are cousins. Celtic languages probably come from central Europe. And every new word is at the end of a long trip."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Many common verbs have their own past form instead of -ed: come → came, tell → told, can → could.",
+              "example" : "The DNA told a story of long trips.",
+              "title" : "Irregular past: came, told"
+            },
+            {
+              "body" : "\"Ago\" comes after the amount of time and counts back from today: 4,000 years ago. It goes with the past simple.",
+              "example" : "About 4,000 years ago, new people came to Scandinavia.",
+              "title" : "Ago: counting back from now"
+            },
+            {
+              "body" : "\"Maybe\" at the start of a sentence shows it's possible but not certain; the rest of the sentence stays normal.",
+              "example" : "Maybe their language was the start of English and German.",
+              "title" : "Maybe: saying you aren't sure"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In autumn 2026, scientists shared two studies. They looked at the DNA of over 4,500 people from long ago.",
+            "The DNA told a story of long trips. About 4,000 years ago, new people came to Scandinavia. Maybe their language was the start of English and German.",
+            "Then came a surprise: before the Vikings, people from northern Germany moved to Denmark and southern Sweden. They were close relatives of the Anglo-Saxons in England.",
+            "But bones don't talk, so DNA can't tell you their language. The team also looked at old words.",
+            "So English, German, Danish and Swedish are cousins. Celtic languages probably came from central Europe. Every word you learn is at the end of a long trip."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle puts one past action before another: they read the DNA first, then shared the studies.",
+              "example" : "They had read the DNA of more than 4,500 people from long ago.",
+              "title" : "The past perfect: had read"
+            },
+            {
+              "body" : "\"May have been\" says something was possibly true in the past, but nobody can be sure: their language may have been the start.",
+              "example" : "Their language may have been the start of English and German.",
+              "title" : "May have + past participle: a guess about the past"
+            },
+            {
+              "body" : "When the noun is the object, English can drop \"who\" or \"that\": a group (that) nobody knew about. The preposition stays at the end.",
+              "example" : "About 4,000 years ago, a group nobody knew about moved into Scandinavia, probably from the Baltic.",
+              "title" : "A relative clause without who or that"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In autumn 2026, scientists shared two studies in Nature. They had read the DNA of more than 4,500 people from long ago.",
+            "About 4,000 years ago, a group nobody knew about moved into Scandinavia, probably from the Baltic. Their language may have been the start of English and German.",
+            "Then came the surprise. Centuries before the Viking Age, people from northern Germany moved into Denmark and southern Sweden, just as Old Norse, the Vikings' language, appeared. They were close relatives of the Anglo-Saxons in England.",
+            "But bones don't talk, so DNA can't tell you what language someone spoke. The team also needed archaeology and old words.",
+            "Celtic probably spread west from central Europe about 3,000 years ago. English, German, Danish and Swedish are cousins, and every word you learn is at the end of a long trip."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After \"then\" or \"first\", a story can put \"came\" before its subject for effect: then came the twist, first came a group.",
+              "example" : "First came a group nobody had known about.",
+              "title" : "Then came …: the verb before the subject"
+            },
+            {
+              "body" : "\"Just as\" ties two things to the same moment; the past continuous (was taking shape) shows the second was still going on.",
+              "example" : "Then came the twist: centuries before the Viking Age, people from northern Germany moved into Denmark and southern Sweden, just as Old Norse was taking shape.",
+              "title" : "Just as + a continuous past: at the same moment"
+            },
+            {
+              "body" : "\"Mind you\" adds a point that limits what came before, like \"but remember\". It belongs to speech and relaxed writing.",
+              "example" : "Mind you, bones don't talk: DNA can't tell you what language anyone spoke, so the team added archaeology and old words.",
+              "title" : "Mind you: a spoken aside"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In autumn 2026, scientists put out two studies in Nature. They'd gone through the DNA of over 4,500 people from long ago, 712 of them for the first time.",
+            "First came a group nobody had known about. About 4,000 years ago they reached Scandinavia, probably from the Baltic, and may have brought the language English and German grew out of.",
+            "Then came the twist: centuries before the Viking Age, people from northern Germany moved into Denmark and southern Sweden, just as Old Norse was taking shape. They were close relatives of the Anglo-Saxons who settled in England.",
+            "Mind you, bones don't talk: DNA can't tell you what language anyone spoke, so the team added archaeology and old words.",
+            "The simplest explanation for Celtic is a move west from central Europe about 3,000 years ago, though not everyone agrees. English, German, Danish and Swedish, then, are cousins, and every word you learn is at the end of a long trip."
+          ]
+        }
+      ],
+      "summary" : "In November 2026, the DNA of more than 4,500 people from long ago gave new clues to how English and German travelled across Europe, and held a surprise about the Vikings.",
+      "title" : "Where Our Words Came From",
+      "translationGroup" : "where-our-words-came-from"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "where-our-words-came-from-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Il y a + a length of time means \"ago\": il y a 4 000 ans = 4,000 years ago. For how things were back then, avoir becomes avait (it had), the imparfait.",
+              "example" : "Il y a environ 4 000 ans, la Scandinavie avait de nouveaux habitants.",
+              "title" : "Il y a + time: ago, and avait for back then"
+            },
+            {
+              "body" : "D'où (de + où) means \"from where\"; in this question the verb comes before its subject: d'où viennent nos langues ? = where do our languages come from?",
+              "example" : "Alors, d'où viennent nos langues ?",
+              "title" : "D'où viennent … ? Asking where from"
+            },
+            {
+              "body" : "To say no, ne goes before the verb and pas after it: les os ne parlent pas. Rien (nothing) can take the place of pas, and after pouvoir the next verb stays in the infinitive: ne peut rien dire.",
+              "example" : "Mais les os ne parlent pas.",
+              "title" : "Ne … pas wraps the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en novembre 2026. Des scientifiques étudient l'ADN de plus de 4 500 personnes d'autrefois. Alors, d'où viennent nos langues ?",
+            "Et l'ADN raconte de longs voyages. Il y a environ 4 000 ans, la Scandinavie avait de nouveaux habitants. Leur langue était peut-être le début de l'anglais et de l'allemand. Avant les Vikings, le Danemark avait des habitants du nord de l'Allemagne.",
+            "Mais les os ne parlent pas. Du coup, l'ADN ne peut rien dire sur leur langue. Les scientifiques ont aussi besoin de vieux mots.",
+            "Donc l'anglais, l'allemand, le danois et le suédois sont des langues cousines. Les langues celtiques viennent probablement du centre de l'Europe. Et chaque mot est au bout d'un long voyage."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement like arriver and venir take être in the passé composé, and the participle agrees with the subject: de nouveaux habitants sont arrivés, les langues celtiques sont venues.",
+              "example" : "Il y a environ 4 000 ans, de nouveaux habitants sont arrivés en Scandinavie.",
+              "title" : "Passé composé with être: sont arrivés"
+            },
+            {
+              "body" : "The passé composé tells what happened (des gens ont quitté le nord de l'Allemagne); the imparfait (étaient, parlait) describes how things were, the background.",
+              "example" : "Ils étaient proches parents des Anglo-Saxons d'Angleterre.",
+              "title" : "The imparfait for what was true then"
+            },
+            {
+              "body" : "Peut-être (maybe) usually goes right after the verb: était peut-être. At the start of a sentence, spoken French adds que: peut-être que leur langue était…",
+              "example" : "Leur langue était peut-être le début de l'anglais et de l'allemand.",
+              "title" : "Peut-être: saying you aren't sure"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "À l'automne 2026, des scientifiques ont présenté deux études. Ils ont regardé l'ADN de plus de 4 500 personnes d'autrefois.",
+            "L'ADN a raconté de longs voyages. Il y a environ 4 000 ans, de nouveaux habitants sont arrivés en Scandinavie. Leur langue était peut-être le début de l'anglais et de l'allemand.",
+            "Puis, surprise : avant les Vikings, des gens ont quitté le nord de l'Allemagne. Direction le Danemark et le sud de la Suède. Ils étaient proches parents des Anglo-Saxons d'Angleterre.",
+            "Mais les os ne parlent pas. Donc l'ADN ne peut pas te dire ce qu'on parlait. L'équipe a aussi étudié de vieux mots.",
+            "L'anglais, l'allemand, le danois et le suédois sont des langues cousines. Les langues celtiques sont probablement venues du centre de l'Europe. Et chaque mot que tu apprends est au bout d'un long voyage."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avait/avaient + past participle puts one past action before another: first they read the DNA, then they presented the studies.",
+              "example" : "Ils avaient lu l'ADN de plus de 4 500 personnes d'autrefois.",
+              "title" : "The plus-que-parfait: avaient lu"
+            },
+            {
+              "body" : "Falloir (to be needed) only has an il form: il faut in the present, il a fallu in the passé composé, and what was needed follows straight after: il a fallu l'archéologie.",
+              "example" : "Il a aussi fallu l'archéologie et de vieux mots.",
+              "title" : "Il a fallu: falloir in the past"
+            },
+            {
+              "body" : "Peut-être with the passé composé says something was possibly true, but nobody can be sure: sa langue a peut-être été l'ancêtre = its language may have been the ancestor.",
+              "example" : "Sa langue a peut-être été l'ancêtre de l'anglais et de l'allemand.",
+              "title" : "A peut-être été: a guess about the past"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "À l'automne 2026, des scientifiques ont présenté deux études dans Nature. Ils avaient lu l'ADN de plus de 4 500 personnes d'autrefois.",
+            "Il y a environ 4 000 ans, un groupe inconnu jusqu'ici est arrivé en Scandinavie, probablement depuis la Baltique. Sa langue a peut-être été l'ancêtre de l'anglais et de l'allemand.",
+            "Surprise : des siècles avant l'ère viking, des gens du nord de l'Allemagne se sont installés au Danemark et dans le sud de la Suède. Pile quand le vieux norrois, la langue des Vikings, est apparu. Ils étaient proches parents des Anglo-Saxons d'Angleterre.",
+            "Mais les os ne parlent pas, donc l'ADN ne peut pas dire ce qu'on parlait. Il a aussi fallu l'archéologie et de vieux mots.",
+            "Le celtique s'est probablement répandu d'Europe centrale vers l'ouest, il y a environ 3 000 ans. L'anglais, l'allemand, le danois et le suédois sont des langues cousines, et chaque mot que tu apprends est au bout d'un long voyage."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Entendre parler de quelque chose = to hear of it; because the verb takes de, the relative pronoun is dont: un groupe dont personne n'avait entendu parler = a group nobody had heard of.",
+              "example" : "D'abord, il y a environ 4 000 ans, un groupe dont personne n'avait entendu parler est arrivé en Scandinavie, probablement depuis la Baltique.",
+              "title" : "Dont with entendre parler de"
+            },
+            {
+              "body" : "Pile (spoken for exactly, right) + quand ties the move to a moment; the imparfait prenait forme shows Old Norse was still taking shape then, not finished.",
+              "example" : "Pile quand le vieux norrois prenait forme.",
+              "title" : "Pile quand + imparfait: right as it was happening"
+            },
+            {
+              "body" : "Remarque, at the start of a sentence, adds a point that limits what came before, like \"mind you\"; it is the tu form, so it suits talk between friends.",
+              "example" : "Remarque, les os ne parlent pas : l'ADN ne peut pas dire ce qu'on parlait, alors l'équipe a ajouté l'archéologie et de vieux mots.",
+              "title" : "Remarque: a spoken aside"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "À l'automne 2026, des scientifiques ont dévoilé deux études dans Nature. Ils avaient épluché l'ADN de plus de 4 500 personnes d'autrefois, dont 712 pour la première fois.",
+            "D'abord, il y a environ 4 000 ans, un groupe dont personne n'avait entendu parler est arrivé en Scandinavie, probablement depuis la Baltique. Il a peut-être apporté la langue d'où sont sortis l'anglais et l'allemand.",
+            "Coup de théâtre : des siècles avant l'ère viking, des gens du nord de l'Allemagne se sont installés au Danemark et dans le sud de la Suède. Pile quand le vieux norrois prenait forme. Ils étaient proches parents des Anglo-Saxons établis en Angleterre.",
+            "Remarque, les os ne parlent pas : l'ADN ne peut pas dire ce qu'on parlait, alors l'équipe a ajouté l'archéologie et de vieux mots.",
+            "L'explication la plus simple pour le celtique : un départ vers l'ouest depuis l'Europe centrale il y a environ 3 000 ans, même si ça ne fait pas l'unanimité. L'anglais, l'allemand, le danois et le suédois sont donc des langues cousines, et chaque mot que tu apprends est au bout d'un long voyage."
+          ]
+        }
+      ],
+      "summary" : "En novembre 2026, l'ADN de plus de 4 500 personnes d'autrefois a raconté le long voyage de nos langues, avec une surprise sur les Vikings.",
+      "title" : "D'où viennent nos mots",
+      "translationGroup" : "where-our-words-came-from"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "where-our-words-came-from-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Es gibt (there is, there are) becomes es gab in the past, and it stays gab even for many people. After a time phrase the verb comes second: vor etwa 4.000 Jahren gab es …",
+              "example" : "Vor etwa 4.000 Jahren gab es neue Leute in Skandinavien.",
+              "title" : "Es gab: there was, there were"
+            },
+            {
+              "body" : "Anschauen (to look at) splits in a main clause: schauen goes in second place and an goes to the very end. With sich it means to take a good look at something.",
+              "example" : "Forscher schauen sich die DNA von über 4.500 Menschen von früher an.",
+              "title" : "Separable verbs: schauen … an"
+            },
+            {
+              "body" : "Nicht says no to a verb (Knochen reden nicht); kein says no to a noun and takes the noun's ending: keine Sprache = no language.",
+              "example" : "Aber Knochen reden nicht, also hört man in der DNA keine Sprache.",
+              "title" : "Nicht or kein: two kinds of no"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist November 2026. Forscher schauen sich die DNA von über 4.500 Menschen von früher an. Also, woher kommen eigentlich unsere Sprachen?",
+            "Die DNA erzählt von langen Reisen. Vor etwa 4.000 Jahren gab es neue Leute in Skandinavien. Vielleicht war ihre Sprache der Anfang von Englisch und Deutsch. Dann, vor den Wikingern, gab es in Dänemark Leute aus Norddeutschland.",
+            "Aber Knochen reden nicht, also hört man in der DNA keine Sprache. Darum brauchen die Forscher auch alte Wörter.",
+            "Englisch, Deutsch, Dänisch und Schwedisch sind also Cousinen. Die keltischen Sprachen kommen wahrscheinlich aus Mitteleuropa. Und jedes neue Wort steht am Ende einer langen Reise."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the Perfekt with haben (haben präsentiert, hat erzählt), but verbs of movement from one place to another take sein: sind gekommen, sind gezogen.",
+              "example" : "Vor etwa 4.000 Jahren sind neue Menschen nach Skandinavien gekommen.",
+              "title" : "Perfekt with sein: sind gekommen, sind gezogen"
+            },
+            {
+              "body" : "In a separable verb like anschauen (to look at), the ge- of the participle goes between the particle and the verb: an + ge + schaut = angeschaut.",
+              "example" : "Das Team hat sich auch alte Wörter angeschaut.",
+              "title" : "Separable verbs in the Perfekt: angeschaut"
+            },
+            {
+              "body" : "German says ago with vor before the time, and the noun takes the dative: vor etwa 4.000 Jahren = about 4,000 years ago, with -n on Jahren.",
+              "example" : "Vor etwa 4.000 Jahren sind neue Menschen nach Skandinavien gekommen.",
+              "title" : "Vor + a time: ago"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im Herbst 2026 haben Forscher zwei Studien präsentiert. Sie haben sich die DNA von über 4.500 Menschen von früher angeschaut.",
+            "Die DNA hat von langen Reisen erzählt. Vor etwa 4.000 Jahren sind neue Menschen nach Skandinavien gekommen. Vielleicht war ihre Sprache der Anfang von Englisch und Deutsch.",
+            "Dann die Überraschung: Noch vor den Wikingern sind Leute aus Norddeutschland nach Dänemark und Südschweden gezogen. Sie waren nahe Verwandte der Angelsachsen in England.",
+            "Aber Knochen reden nicht, also verrät dir die DNA ihre Sprache nicht. Das Team hat sich auch alte Wörter angeschaut.",
+            "Englisch, Deutsch, Dänisch und Schwedisch sind also Cousinen. Die keltischen Sprachen sind wahrscheinlich aus Mitteleuropa gekommen. Jedes Wort, das du lernst, steht am Ende einer langen Reise."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Hatte or hatten + past participle puts one past event before another: first the team read the DNA, then it presented the studies.",
+              "example" : "Sie hatten die DNA von mehr als 4.500 Menschen von früher gelesen.",
+              "title" : "Plusquamperfekt: hatten gelesen"
+            },
+            {
+              "body" : "Könnte + past participle + sein (or haben) makes a careful guess about the past: it is possible, but nobody can be sure.",
+              "example" : "Ihre Sprache könnte der Anfang von Englisch und Deutsch gewesen sein.",
+              "title" : "Könnte … gewesen sein: may have been"
+            },
+            {
+              "body" : "A question inside a sentence keeps its question word (welche, was, wo) but sends the verb to the end: welche Sprache jemand gesprochen hat.",
+              "example" : "Aber Knochen reden nicht, also sagt die DNA nicht, welche Sprache jemand gesprochen hat.",
+              "title" : "Indirect questions: welche Sprache … gesprochen hat"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im Herbst 2026 haben Forscher in Nature zwei Studien präsentiert. Sie hatten die DNA von mehr als 4.500 Menschen von früher gelesen.",
+            "Vor etwa 4.000 Jahren ist eine bisher unbekannte Gruppe nach Skandinavien gezogen, wahrscheinlich aus dem Baltikum. Ihre Sprache könnte der Anfang von Englisch und Deutsch gewesen sein.",
+            "Dann die Überraschung. Jahrhunderte vor der Wikingerzeit sind Menschen aus Norddeutschland nach Dänemark und Südschweden gezogen, genau als Altnordisch entstanden ist, die Sprache der Wikinger. Sie waren nahe Verwandte der Angelsachsen in England.",
+            "Aber Knochen reden nicht, also sagt die DNA nicht, welche Sprache jemand gesprochen hat. Das Team hat auch Archäologie und alte Wörter gebraucht.",
+            "Die keltischen Sprachen haben sich wahrscheinlich vor etwa 3.000 Jahren von Mitteleuropa nach Westen ausgebreitet. Englisch, Deutsch, Dänisch und Schwedisch sind Cousinen, und jedes Wort, das du lernst, steht am Ende einer langen Reise."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When the relative pronoun follows a preposition, both open the clause and the verb goes to the end: die Sprache, aus der Englisch und Deutsch entstanden sind = the language English and German grew out of.",
+              "example" : "Vor etwa 4.000 Jahren ist sie nach Skandinavien gekommen, wahrscheinlich aus dem Baltikum, und hat vielleicht die Sprache mitgebracht, aus der Englisch und Deutsch entstanden sind.",
+              "title" : "Aus der … entstanden sind: preposition + relative"
+            },
+            {
+              "body" : "German has no -ing form; gerade marks an action that was still going on at that moment: als Altnordisch gerade Gestalt angenommen hat = just as Old Norse was taking shape.",
+              "example" : "Dann die eigentliche Überraschung: Jahrhunderte vor der Wikingerzeit sind Menschen aus Norddeutschland nach Dänemark und Südschweden gezogen, als Altnordisch gerade Gestalt angenommen hat.",
+              "title" : "Gerade: something still in progress"
+            },
+            {
+              "body" : "Nur at the start, followed by the verb, adds a limit to what came before, like mind you; halt says it's just how things are: Knochen reden halt nicht.",
+              "example" : "Nur reden Knochen halt nicht: DNA verrät nicht, welche Sprache jemand gesprochen hat, also hat das Team Archäologie und alte Wörter dazugenommen.",
+              "title" : "Nur … halt: a spoken mind you"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im Herbst 2026 haben Forscher zwei Studien in Nature präsentiert. Sie hatten die DNA von über 4.500 Menschen von früher untersucht, 712 davon zum ersten Mal.",
+            "Zuerst ist eine Gruppe aufgetaucht, von der bisher keiner gewusst hat. Vor etwa 4.000 Jahren ist sie nach Skandinavien gekommen, wahrscheinlich aus dem Baltikum, und hat vielleicht die Sprache mitgebracht, aus der Englisch und Deutsch entstanden sind.",
+            "Dann die eigentliche Überraschung: Jahrhunderte vor der Wikingerzeit sind Menschen aus Norddeutschland nach Dänemark und Südschweden gezogen, als Altnordisch gerade Gestalt angenommen hat. Sie waren nahe Verwandte der Angelsachsen, die England besiedelt haben.",
+            "Nur reden Knochen halt nicht: DNA verrät nicht, welche Sprache jemand gesprochen hat, also hat das Team Archäologie und alte Wörter dazugenommen.",
+            "Die einfachste Erklärung für Keltisch: Vor etwa 3.000 Jahren sind Menschen von Mitteleuropa nach Westen gezogen, auch wenn nicht alle zustimmen. Englisch, Deutsch, Dänisch und Schwedisch sind also Cousinen, und jedes Wort, das du lernst, steht am Ende einer langen Reise."
+          ]
+        }
+      ],
+      "summary" : "Knochen reden nicht, aber die DNA von über 4.500 Menschen von früher verrät einiges darüber, wie Deutsch und Englisch durch Europa gereist sind, mit einer Überraschung aus der Zeit vor den Wikingern.",
+      "title" : "Woher unsere Wörter kommen",
+      "translationGroup" : "where-our-words-came-from"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "where-our-words-came-from-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Había is the past of hay and never changes for the plural: había gente nueva = there were new people. Gente itself is singular in Spanish.",
+              "example" : "Hace unos 4.000 años, había gente nueva en Escandinavia.",
+              "title" : "Había: there was, there were"
+            },
+            {
+              "body" : "Spanish puts de at the front of the question, never at the end: ¿de dónde vienen? = where do they come from? Dónde takes an accent in a question.",
+              "example" : "Entonces, ¿de dónde vienen nuestros idiomas?",
+              "title" : "¿De dónde…?: where … from?"
+            },
+            {
+              "body" : "To make a sentence negative, put no just before the verb, and before a small pronoun like nos if there is one: no hablan, no nos puede decir.",
+              "example" : "Por eso el ADN no nos puede decir su idioma.",
+              "title" : "No goes right before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es noviembre de 2026. Unos científicos estudian el ADN de más de 4.500 personas. Y son personas de hace mucho, mucho tiempo. Entonces, ¿de dónde vienen nuestros idiomas?",
+            "Y el ADN muestra viajes largos. Hace unos 4.000 años, había gente nueva en Escandinavia. Quizás su idioma era el principio del inglés y del alemán. Antes de los vikingos, había gente del norte de Alemania en Dinamarca.",
+            "Pero, claro, los huesos no hablan. Por eso el ADN no nos puede decir su idioma. Los científicos también necesitan palabras antiguas.",
+            "Entonces, el inglés, el alemán, el danés y el sueco son primos. Los idiomas celtas vienen probablemente del centro de Europa. Y cada palabra está al final de un largo viaje."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events: llegó (it came), contó (it told), vino (it came, from venir). Gente is singular, so it takes llegó, not llegaron.",
+              "example" : "Hace unos 4.000 años, llegó gente nueva a Escandinavia.",
+              "title" : "Pretérito for events: llegó, contó, vino"
+            },
+            {
+              "body" : "The imperfect describes people and situations in the past rather than events: eran parientes = they were relatives. The event next to it takes the pretérito (se fue).",
+              "example" : "Eran parientes cercanos de los anglosajones de Inglaterra.",
+              "title" : "Eran: describing how things were"
+            },
+            {
+              "body" : "Fijarse is reflexive and takes en before the thing you look at: se fijó en palabras = it looked closely at words. Without se, fijar means to fix.",
+              "example" : "El equipo también se fijó en palabras antiguas.",
+              "title" : "Fijarse en: to look closely at"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En otoño de 2026, unos científicos presentaron dos estudios. Analizaron el ADN de más de 4.500 personas de hace mucho tiempo.",
+            "El ADN contó una historia de viajes largos. Hace unos 4.000 años, llegó gente nueva a Escandinavia. Quizás su idioma fue el principio del inglés y del alemán.",
+            "Luego vino la sorpresa. Antes de los vikingos, gente del norte de Alemania se fue a Dinamarca y al sur de Suecia. Eran parientes cercanos de los anglosajones de Inglaterra.",
+            "Pero, claro, los huesos no hablan. Así que el ADN no te puede decir qué idioma hablaban. El equipo también se fijó en palabras antiguas.",
+            "El inglés, el alemán, el danés y el sueco son primos. Los idiomas celtas probablemente vinieron del centro de Europa. Cada palabra que aprendes está al final de un largo viaje."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había / habían + past participle puts one past action before another: first they read the DNA, then they presented the studies.",
+              "example" : "Habían leído el ADN de más de 4.500 personas de hace mucho tiempo.",
+              "title" : "Pluscuamperfecto: habían leído"
+            },
+            {
+              "body" : "Saber de algo becomes un grupo del que nadie sabía nada = a group nobody knew anything about; Spanish puts the preposition before que, never at the end.",
+              "example" : "Hace unos 4.000 años, un grupo del que nadie sabía nada llegó a Escandinavia, probablemente del Báltico.",
+              "title" : "Del que: a relative after a preposition"
+            },
+            {
+              "body" : "The pretérito of poder + infinitive can say that something was possible but is not certain: pudo ser = it may have been.",
+              "example" : "Su idioma pudo ser el principio del inglés y del alemán.",
+              "title" : "Pudo ser: a guess about the past"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En otoño de 2026, unos científicos presentaron dos estudios en Nature. Habían leído el ADN de más de 4.500 personas de hace mucho tiempo.",
+            "Hace unos 4.000 años, un grupo del que nadie sabía nada llegó a Escandinavia, probablemente del Báltico. Su idioma pudo ser el principio del inglés y del alemán.",
+            "Luego vino la sorpresa. Siglos antes de la época vikinga, gente del norte de Alemania se fue a Dinamarca y al sur de Suecia. Fue justo cuando apareció el nórdico antiguo, el idioma de los vikingos. Eran parientes cercanos de los anglosajones de Inglaterra.",
+            "Pero los huesos no hablan, así que el ADN no te dice qué idioma se hablaba. El equipo también necesitó arqueología y palabras antiguas.",
+            "El celta probablemente se extendió al oeste desde el centro de Europa hace unos 3.000 años. El inglés, el alemán, el danés y el sueco son primos, y cada palabra que aprendes está al final de un largo viaje."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect of estar + gerund shows something still going on when another event happened: Old Norse was taking shape just as the newcomers arrived.",
+              "example" : "Siglos antes de la época vikinga, gente del norte de Alemania se fue a Dinamarca y al sur de Suecia, justo cuando el nórdico antiguo estaba tomando forma.",
+              "title" : "Estaba tomando forma: in progress at that moment"
+            },
+            {
+              "body" : "Nacer de algo (to be born from something) keeps its de in front of the relative: el idioma del que nacieron = the language they grew out of; de + el becomes del.",
+              "example" : "Hace unos 4.000 años entró en Escandinavia, probablemente del Báltico, y quizá trajo el idioma del que nacieron el inglés y el alemán.",
+              "title" : "Del que: the preposition comes before the relative"
+            },
+            {
+              "body" : "Eso sí adds a point that limits what came before, like mind you; after a negative, nadie means anyone: qué idioma hablaba nadie = what language anyone spoke.",
+              "example" : "Eso sí, los huesos no hablan: el ADN no te dice qué idioma hablaba nadie, así que el equipo añadió arqueología y palabras antiguas.",
+              "title" : "Eso sí: a spoken aside"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En otoño de 2026, unos científicos presentaron dos estudios en Nature. Habían analizado el ADN de más de 4.500 personas de hace mucho tiempo, 712 de ellas por primera vez.",
+            "Primero apareció un grupo del que nadie había oído hablar. Hace unos 4.000 años entró en Escandinavia, probablemente del Báltico, y quizá trajo el idioma del que nacieron el inglés y el alemán.",
+            "Luego vino lo mejor. Siglos antes de la época vikinga, gente del norte de Alemania se fue a Dinamarca y al sur de Suecia, justo cuando el nórdico antiguo estaba tomando forma. Eran parientes cercanos de los anglosajones que se asentaron en Inglaterra.",
+            "Eso sí, los huesos no hablan: el ADN no te dice qué idioma hablaba nadie, así que el equipo añadió arqueología y palabras antiguas.",
+            "Para el celta, la explicación más sencilla es un viaje al oeste desde el centro de Europa hace unos 3.000 años, aunque no todos están de acuerdo. Así que el inglés, el alemán, el danés y el sueco son primos, y cada palabra que aprendes está al final de un largo viaje."
+          ]
+        }
+      ],
+      "summary" : "El ADN de más de 4.500 personas de hace mucho tiempo cuenta cómo viajaron el inglés y el alemán por Europa, y guarda una sorpresa sobre los vikingos.",
+      "title" : "De dónde vienen nuestras palabras",
+      "translationGroup" : "where-our-words-came-from"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "where-our-words-came-from-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "C'è and ci sono say that something exists; for the look back they become c'era and c'erano: c'erano persone nuove = there were new people.",
+              "example" : "Circa 4.000 anni fa, c'erano persone nuove in Scandinavia.",
+              "title" : "C'erano: there were, in the past"
+            },
+            {
+              "body" : "Italian puts da dove (from where) at the start of the question, and the subject usually comes after the verb: da dove vengono le nostre lingue? = where do our languages come from?",
+              "example" : "Allora, da dove vengono le nostre lingue?",
+              "title" : "Da dove vengono? Asking where from"
+            },
+            {
+              "body" : "Italian makes a verb negative by putting non just before it, with no helper like don't: le ossa non parlano = bones don't talk; a little word like ci goes in between: non ci dice = doesn't tell us.",
+              "example" : "Così il DNA non ci dice la loro lingua.",
+              "title" : "Non right before the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo a novembre 2026. Alcuni scienziati studiano il DNA di più di 4.500 persone. Sono tutte persone di tanto tempo fa. Allora, da dove vengono le nostre lingue?",
+            "E il DNA mostra lunghi viaggi. Circa 4.000 anni fa, c'erano persone nuove in Scandinavia. Forse la loro lingua era l'inizio dell'inglese e del tedesco. Poi, prima dei vichinghi, c'erano persone dalla Germania del nord in Danimarca.",
+            "Ma le ossa non parlano. Così il DNA non ci dice la loro lingua. Gli scienziati hanno bisogno anche delle parole antiche.",
+            "Quindi inglese, tedesco, danese e svedese sono lingue cugine. Le lingue celtiche vengono probabilmente dall'Europa centrale. E ogni parola arriva alla fine di un lungo viaggio."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement such as arrivare make the spoken past with essere, and the participle agrees with the subject: persone (feminine plural) → sono arrivate, una sorpresa → c'è stata.",
+              "example" : "Prima dei vichinghi, dalla Germania del nord sono arrivate persone in Danimarca e nella Svezia del sud.",
+              "title" : "Passato prossimo with essere: sono arrivate"
+            },
+            {
+              "body" : "Fa goes after the amount of time and counts back from today, like English ago: 4.000 anni fa = 4,000 years ago. It goes with a past tense.",
+              "example" : "Circa 4.000 anni fa, sono arrivate persone nuove in Scandinavia.",
+              "title" : "Fa: counting back from now"
+            },
+            {
+              "body" : "Forse (maybe) shows that something is possible but not certain; the rest of the sentence stays normal, here with era, the imperfetto for a background fact.",
+              "example" : "Forse la loro lingua era l'inizio dell'inglese e del tedesco.",
+              "title" : "Forse: saying you aren't sure"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nell'autunno del 2026, alcuni scienziati hanno presentato due studi. Hanno esaminato il DNA di più di 4.500 persone di tanto tempo fa.",
+            "Il DNA ha raccontato una storia di lunghi viaggi. Circa 4.000 anni fa, sono arrivate persone nuove in Scandinavia. Forse la loro lingua era l'inizio dell'inglese e del tedesco.",
+            "Poi, però, c'è stata una sorpresa. Prima dei vichinghi, dalla Germania del nord sono arrivate persone in Danimarca e nella Svezia del sud. Erano parenti stretti degli anglosassoni in Inghilterra.",
+            "Ma le ossa non parlano, quindi il DNA non può dirti la loro lingua. I ricercatori hanno guardato anche le parole antiche.",
+            "Quindi inglese, tedesco, danese e svedese sono lingue cugine. Le lingue celtiche, invece, sono arrivate probabilmente dall'Europa centrale. E ogni parola che impari arriva alla fine di un lungo viaggio."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Aveva or avevano + past participle puts one past action before another: first they read the DNA, then they presented the studies.",
+              "example" : "Avevano letto il DNA di più di 4.500 persone vissute tanto tempo fa.",
+              "title" : "Trapassato prossimo: avevano letto"
+            },
+            {
+              "body" : "Potrebbe (could, may) + essere stato/stata says something was possibly true in the past, but nobody can be sure; stata agrees with la lingua.",
+              "example" : "La sua lingua potrebbe essere stata l'inizio dell'inglese e del tedesco.",
+              "title" : "Potrebbe essere stata: a guess about the past"
+            },
+            {
+              "body" : "After a preposition, Italian uses cui instead of che: sapere di qualcosa (to know about something) → un gruppo di cui nessuno sapeva niente = a group nobody knew about.",
+              "example" : "Circa 4.000 anni fa, un gruppo di cui nessuno sapeva niente è arrivato in Scandinavia, probabilmente dal Baltico.",
+              "title" : "Di cui: a relative after a preposition"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nell'autunno del 2026, alcuni scienziati hanno presentato due studi su Nature. Avevano letto il DNA di più di 4.500 persone vissute tanto tempo fa.",
+            "Circa 4.000 anni fa, un gruppo di cui nessuno sapeva niente è arrivato in Scandinavia, probabilmente dal Baltico. La sua lingua potrebbe essere stata l'inizio dell'inglese e del tedesco.",
+            "Poi è arrivata la sorpresa. Secoli prima dell'epoca vichinga, dalla Germania del nord si sono trasferite persone in Danimarca e nella Svezia del sud. È successo proprio quando nasceva il norreno, la lingua dei vichinghi. Erano parenti stretti degli anglosassoni in Inghilterra.",
+            "Ma le ossa non parlano, quindi il DNA non può dirti che lingua parlava una persona. Ai ricercatori sono servite anche l'archeologia e le parole antiche.",
+            "Le lingue celtiche, probabilmente, si sono diffuse verso ovest dall'Europa centrale circa 3.000 anni fa. Inglese, tedesco, danese e svedese sono lingue cugine, e ogni parola che impari arriva alla fine di un lungo viaggio."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When something new enters a story, Italian often puts the verb first and the subject after it: prima è arrivato un gruppo = first came a group, poi è arrivato il colpo di scena.",
+              "example" : "Prima è arrivato un gruppo di cui nessuno aveva mai saputo niente.",
+              "title" : "Prima è arrivato un gruppo: verb before subject"
+            },
+            {
+              "body" : "Proprio mentre (just as) ties two things to the same moment; the imperfetto prendeva forma shows the second was still going on when the first happened.",
+              "example" : "Secoli prima dell'epoca vichinga, dalla Germania del nord si sono trasferite persone in Danimarca e nella Svezia del sud, proprio mentre prendeva forma il norreno.",
+              "title" : "Mentre + imperfetto: while it was happening"
+            },
+            {
+              "body" : "Intendiamoci (let's be clear, mind you) adds a point that limits what came before; it belongs to speech and relaxed writing. In the same sentence, che lingua parlasse takes the congiuntivo, as careful speech does after an indirect question; parlava would also be fine out loud.",
+              "example" : "Intendiamoci, le ossa non parlano: il DNA non può dirti che lingua parlasse qualcuno, quindi i ricercatori hanno aggiunto l'archeologia e le parole antiche.",
+              "title" : "Intendiamoci: a spoken aside"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nell'autunno del 2026, alcuni scienziati hanno presentato due studi su Nature. Avevano passato al setaccio il DNA di oltre 4.500 persone vissute tanto tempo fa, e per 712 era la prima volta.",
+            "Prima è arrivato un gruppo di cui nessuno aveva mai saputo niente. Circa 4.000 anni fa ha raggiunto la Scandinavia, probabilmente dal Baltico, e potrebbe aver portato la lingua da cui sono nati l'inglese e il tedesco.",
+            "Poi è arrivato il colpo di scena. Secoli prima dell'epoca vichinga, dalla Germania del nord si sono trasferite persone in Danimarca e nella Svezia del sud, proprio mentre prendeva forma il norreno. Erano parenti stretti degli anglosassoni che si sono stabiliti in Inghilterra.",
+            "Intendiamoci, le ossa non parlano: il DNA non può dirti che lingua parlasse qualcuno, quindi i ricercatori hanno aggiunto l'archeologia e le parole antiche.",
+            "Per le lingue celtiche, la spiegazione più semplice è uno spostamento verso ovest dall'Europa centrale, circa 3.000 anni fa, anche se non tutti sono d'accordo. Inglese, tedesco, danese e svedese, insomma, sono lingue cugine, e ogni parola che impari arriva alla fine di un lungo viaggio."
+          ]
+        }
+      ],
+      "summary" : "Il DNA di più di 4.500 persone vissute tanto tempo fa racconta come l'inglese e il tedesco sono arrivati fino a noi, e nasconde anche una sorpresa sui vichinghi.",
+      "title" : "Da dove vengono le nostre parole",
+      "translationGroup" : "where-our-words-came-from"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "weekend-sport-2026-11-08",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but one look back to last week uses \"was\": his big day was one week ago. \"Ago\" goes after the time.",
+              "example" : "His big day was one week ago in Mexico City.",
+              "title" : "Was: one look back"
+            },
+            {
+              "body" : "Places in a race use ordinal numbers: first, second, third, then -th: fourth, fifth.",
+              "example" : "Antonelli is fifth, and George Russell is fourth.",
+              "title" : "Ordinal numbers for places"
+            },
+            {
+              "body" : "\"So\" joins a cause to its result: first the reason, then \"so\" and what follows from it.",
+              "example" : "He is only 20, so he is the youngest champion ever.",
+              "title" : "So for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's Sunday, 8 November, and it's raining in São Paulo, in Brazil. Kimi Antonelli from Mercedes is the new world champion.",
+            "His big day was one week ago in Mexico City. He was third, and that was enough. He is only 20, so he is the youngest champion ever.",
+            "Today he starts second and takes the lead. But then he spins, and Lando Norris wins for McLaren. Max Verstappen is second, and Isack Hadjar is third.",
+            "Antonelli is fifth, and George Russell is fourth. So Mercedes wins the title too! First the driver, now the team. Next is Las Vegas, from 20 to 22 November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed: started, finished. Irregular verbs change: win → won, spin → spun, take → took.",
+              "example" : "But then he spun, and Lando Norris went back in front.",
+              "title" : "Simple past: started, finished, won"
+            },
+            {
+              "body" : "Facts that are still true stay in the present inside a past story: he is 20, he is the youngest champion. What happened on the day takes the past.",
+              "example" : "At 20, he is the youngest champion ever.",
+              "title" : "Is for now, was for then"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On Sunday, 8 November 2026, Formula 1 had a wet race in São Paulo, Brazil.",
+            "Kimi Antonelli was already the new world champion. The week before, he finished third in Mexico City, and that was enough. At 20, he is the youngest champion ever.",
+            "Antonelli started second for Mercedes and took the lead. But then he spun, and Lando Norris went back in front.",
+            "Norris won for McLaren, 14.6 seconds ahead of Max Verstappen. Verstappen started 21st and still finished second! His teammate Isack Hadjar was third.",
+            "Antonelli finished fifth and George Russell fourth, so Mercedes won the team title too. First the driver, now the team! Next is Las Vegas, from 20 to 22 November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Had + past participle goes one step further back: Mexico City came a week before the race in São Paulo.",
+              "example" : "Kimi Antonelli arrived as the new world champion: a week earlier, third place in Mexico City had been enough.",
+              "title" : "Had been: the past before the past"
+            },
+            {
+              "body" : "\"Who\" adds information about a person; the commas around it show that the sentence works without it.",
+              "example" : "He started second for Mercedes and led until he spun, so Lando Norris, who had started from pole, was back in front.",
+              "title" : "Who for more about a person"
+            },
+            {
+              "body" : "\"Still\" before the verb means \"even so\": after the spin you might expect less, but he finished fifth anyway.",
+              "example" : "Antonelli still finished fifth, with George Russell fourth, and that was enough: Mercedes won the team title too, their ninth.",
+              "title" : "Still: even so"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On Sunday, 8 November 2026, the São Paulo Grand Prix in Brazil started wet, then dried out, and then the rain came back.",
+            "Kimi Antonelli arrived as the new world champion: a week earlier, third place in Mexico City had been enough. At 20, he's the youngest champion ever, and Italy's first since 1953.",
+            "He started second for Mercedes and led until he spun, so Lando Norris, who had started from pole, was back in front.",
+            "Norris won for McLaren, 14.6 seconds ahead of Max Verstappen, who came all the way from 21st to second for Red Bull. His teammate Isack Hadjar was third.",
+            "Antonelli still finished fifth, with George Russell fourth, and that was enough: Mercedes won the team title too, their ninth. First the driver, now the team, and next up is Las Vegas, 20 to 22 November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "To \"make up your mind\" is to decide; saying the weather \"couldn't make up its mind\" means it kept changing.",
+              "example" : "So, Sunday, 8 November 2026, São Paulo, and the weather couldn't make up its mind: wet at the start, dry in the middle, rain again at the end.",
+              "title" : "Make up your mind: a spoken idiom"
+            },
+            {
+              "body" : "\"Who'd\" here is \"who had\": the climb from 21st happened before the finish the sentence describes, so it takes had + past participle.",
+              "example" : "Norris brought it home for McLaren, 14.6 seconds clear of Max Verstappen, who'd climbed from 21st to second.",
+              "title" : "Who'd climbed: the past perfect in a relative clause"
+            },
+            {
+              "body" : "British English often treats a team as a group of people and uses a plural verb: Mercedes are champions, not Mercedes is.",
+              "example" : "Antonelli still finished fifth, with George Russell fourth, and that sealed it: Mercedes are team champions too, for the ninth time.",
+              "title" : "Team names with a plural verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "So, Sunday, 8 November 2026, São Paulo, and the weather couldn't make up its mind: wet at the start, dry in the middle, rain again at the end.",
+            "Kimi Antonelli turned up as the brand-new world champion: third place in Mexico City a week earlier had been enough. At 20 he's the youngest champion ever, beating Sebastian Vettel's record from 2010, and Italy's first since Alberto Ascari in 1953.",
+            "He started second, passed Lando Norris off the line and led, but then he spun, and Norris, who'd started on pole, was back in front.",
+            "Norris brought it home for McLaren, 14.6 seconds clear of Max Verstappen, who'd climbed from 21st to second. Isack Hadjar made it two Red Bulls on the podium.",
+            "Antonelli still finished fifth, with George Russell fourth, and that sealed it: Mercedes are team champions too, for the ninth time. First the driver, now the team, and next it's Las Vegas, 20 to 22 November."
+          ]
+        }
+      ],
+      "summary" : "A week after Kimi Antonelli became world champion, he spun out of the lead in São Paulo, and his team still won a title of its own.",
+      "title" : "First Antonelli, Now Mercedes",
+      "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "weekend-sport-2026-11-08-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but one look back to last week uses the imparfait \"c'était\" (it was). \"Il y a une semaine\" means \"a week ago\".",
+              "example" : "Son grand jour, c'était il y a une semaine, à Mexico.",
+              "title" : "C'était: one look back"
+            },
+            {
+              "body" : "Places in a race add -ième to the number and drop a final -e: quatre → quatrième; cinq takes a u: cinquième. Only \"premier\" is irregular.",
+              "example" : "Antonelli est cinquième, et George Russell est quatrième.",
+              "title" : "Ordinal numbers: troisième, quatrième, cinquième"
+            },
+            {
+              "body" : "French gives age with avoir (to have) and the word \"ans\" (years): \"il a 20 ans\", never \"il est 20\".",
+              "example" : "Il a seulement 20 ans.",
+              "title" : "Avoir for age: il a 20 ans"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est dimanche 8 novembre, et il pleut à São Paulo, au Brésil. Kimi Antonelli, de Mercedes, est le nouveau champion du monde.",
+            "Son grand jour, c'était il y a une semaine, à Mexico. Il était troisième, et c'était suffisant. Il a seulement 20 ans. Alors c'est le plus jeune champion de l'histoire !",
+            "Aujourd'hui, il part deuxième, et il passe vite en tête. Mais ensuite, il fait un tête-à-queue. Et Lando Norris gagne pour McLaren. Max Verstappen est deuxième, et Isack Hadjar est troisième.",
+            "Antonelli est cinquième, et George Russell est quatrième. Du coup, Mercedes est championne, elle aussi ! D'abord le pilote, maintenant l'équipe. La prochaine course, c'est à Las Vegas, du 20 au 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Partir is a verb of movement, so it takes être: il est parti. Most verbs, like prendre, take avoir: il a pris.",
+              "example" : "Antonelli est parti deuxième pour Mercedes et il a pris la tête.",
+              "title" : "Passé composé with être or avoir"
+            },
+            {
+              "body" : "Inside a story in the past, a fact that is still true today stays in the present: he is 20, he is the youngest champion.",
+              "example" : "À 20 ans, c'est le plus jeune champion de l'histoire.",
+              "title" : "Present for what is still true"
+            },
+            {
+              "body" : "\"Quand même\" after the verb means \"still, all the same\": you would expect less from 21st place, but he finished second anyway.",
+              "example" : "Verstappen est parti 21e, et il a quand même fini deuxième !",
+              "title" : "Quand même: still, even so"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Dimanche 8 novembre 2026, la Formule 1 était à São Paulo, au Brésil, et il pleuvait.",
+            "Kimi Antonelli est arrivé en nouveau champion du monde. La semaine d'avant, il a fini troisième à Mexico, et ça a suffi. À 20 ans, c'est le plus jeune champion de l'histoire.",
+            "Antonelli est parti deuxième pour Mercedes et il a pris la tête. Mais ensuite, il a fait un tête-à-queue, et Lando Norris est repassé devant.",
+            "Norris a gagné pour McLaren, avec 14,6 secondes d'avance sur Max Verstappen. Verstappen est parti 21e, et il a quand même fini deuxième ! Son coéquipier, Isack Hadjar, a fini troisième.",
+            "Antonelli a fini cinquième et George Russell quatrième, alors l'équipe Mercedes est championne, elle aussi. D'abord le pilote, maintenant l'équipe ! La prochaine course, c'est à Las Vegas, du 20 au 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Avait suffi\" (imparfait of avoir + past participle) goes one step further back: Mexico City came a week before the race in São Paulo.",
+              "example" : "Kimi Antonelli est arrivé en nouveau champion du monde : une semaine plus tôt, une troisième place à Mexico lui avait suffi.",
+              "title" : "Plus-que-parfait: the past before the past"
+            },
+            {
+              "body" : "\"Qui\" adds information about a person and is the subject of its own verb; the commas show that the sentence works without it.",
+              "example" : "Du coup, Lando Norris, qui était parti de la pole, est repassé devant.",
+              "title" : "Qui for more about a person"
+            },
+            {
+              "body" : "\"Jusqu'à\" (until, up to) marks the point where something stops; before a noun it needs no \"que\": jusqu'à son tête-à-queue = until his spin.",
+              "example" : "Il est parti deuxième pour Mercedes et il a mené jusqu'à son tête-à-queue.",
+              "title" : "Jusqu'à: until"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Dimanche 8 novembre 2026, le Grand Prix de São Paulo, au Brésil, a commencé sous la pluie. Puis la piste a séché, et la pluie est revenue !",
+            "Kimi Antonelli est arrivé en nouveau champion du monde : une semaine plus tôt, une troisième place à Mexico lui avait suffi. À 20 ans, c'est le plus jeune champion de l'histoire, et le premier Italien depuis 1953.",
+            "Il est parti deuxième pour Mercedes et il a mené jusqu'à son tête-à-queue. Du coup, Lando Norris, qui était parti de la pole, est repassé devant.",
+            "Norris a gagné pour McLaren, 14,6 secondes devant Max Verstappen, qui est remonté de la 21e à la deuxième place. Son coéquipier chez Red Bull, Isack Hadjar, a fini troisième.",
+            "Antonelli a quand même fini cinquième, George Russell quatrième, et ça a suffi : Mercedes a aussi gagné le titre constructeurs, son neuvième. D'abord le pilote, maintenant l'équipe, et ensuite, direction Las Vegas, du 20 au 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Literally \"not to know which foot to dance on\", it means not being able to make up your mind; said of the weather, it kept changing.",
+              "example" : "Alors, dimanche 8 novembre 2026, São Paulo, et la météo ne savait pas sur quel pied danser.",
+              "title" : "Ne pas savoir sur quel pied danser: an idiom"
+            },
+            {
+              "body" : "\"Lui avait suffi\" (had been enough) takes the imparfait of avoir + past participle, because Mexico City came before the São Paulo race the story tells.",
+              "example" : "Kimi Antonelli est arrivé en champion du monde tout neuf : sa troisième place à Mexico, une semaine plus tôt, lui avait suffi.",
+              "title" : "Plus-que-parfait for the week before"
+            },
+            {
+              "body" : "\"L'affaire est dans le sac\" is the spoken way to say a result is settled, like the English \"it's in the bag\"; here in the imparfait, for how things stood.",
+              "example" : "Antonelli a quand même fini cinquième, George Russell quatrième, et l'affaire était dans le sac : Mercedes est championne des constructeurs, elle aussi, pour la neuvième fois.",
+              "title" : "L'affaire est dans le sac: it's in the bag"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Alors, dimanche 8 novembre 2026, São Paulo, et la météo ne savait pas sur quel pied danser. Pluie au départ, piste sèche au milieu, et rebelote à la fin.",
+            "Kimi Antonelli est arrivé en champion du monde tout neuf : sa troisième place à Mexico, une semaine plus tôt, lui avait suffi. À 20 ans, c'est le plus jeune champion de l'histoire, plus jeune que Sebastian Vettel en 2010. Et c'est le premier Italien sacré depuis Alberto Ascari, en 1953.",
+            "Parti deuxième, il a doublé Lando Norris dès le départ, puis il s'est échappé. Mais là, tête-à-queue, et Norris, qui était parti en pole, est repassé devant.",
+            "Norris l'a emporté pour McLaren, 14,6 secondes devant Max Verstappen, qui est remonté de la 21e à la deuxième place. Avec Isack Hadjar troisième, ça fait deux Red Bull sur le podium.",
+            "Antonelli a quand même fini cinquième, George Russell quatrième, et l'affaire était dans le sac : Mercedes est championne des constructeurs, elle aussi, pour la neuvième fois. D'abord le pilote, maintenant l'équipe, et ensuite, direction Las Vegas, du 20 au 22 novembre."
+          ]
+        }
+      ],
+      "summary" : "Une semaine après son titre mondial, Kimi Antonelli menait à São Paulo quand il a fait un tête-à-queue, et son équipe a quand même décroché un titre bien à elle.",
+      "title" : "D'abord Antonelli, maintenant Mercedes",
+      "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "weekend-sport-2026-11-08-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to last week uses \"war\", the simple past of sein. \"Vor einer Woche\" = a week ago: German puts \"vor\" before the time, with the dative.",
+              "example" : "Sein großer Tag war vor einer Woche in Mexiko-Stadt.",
+              "title" : "War: one look back"
+            },
+            {
+              "body" : "For a place in a race German uses the ordinal as a noun, with a capital letter and no article: \"ist Fünfter\" = is fifth.",
+              "example" : "Antonelli ist Fünfter, und George Russell ist Vierter.",
+              "title" : "Zweiter, Fünfter: places in a race"
+            },
+            {
+              "body" : "\"Also\" means \"so, therefore\", not English \"also\". After a comma it starts a new main clause, and the verb comes right after it: \"also ist er\".",
+              "example" : "Er ist erst 20, also ist er der jüngste Weltmeister überhaupt.",
+              "title" : "Also for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist Sonntag, der 8. November, und es regnet in Brasilien. Kimi Antonelli von Mercedes fährt in São Paulo und ist schon Weltmeister.",
+            "Sein großer Tag war vor einer Woche in Mexiko-Stadt. Er war Dritter, und das war genug. Er ist erst 20, also ist er der jüngste Weltmeister überhaupt.",
+            "Er startet als Zweiter und ist schnell vorn. Aber dann dreht er sich, und Lando Norris gewinnt für McLaren. Max Verstappen ist Zweiter und Isack Hadjar Dritter.",
+            "Antonelli ist Fünfter, und George Russell ist Vierter. Also ist auch Mercedes Weltmeister! Erst der Fahrer, jetzt das Team. Dann kommt Las Vegas, vom 20. bis 22. November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with the Perfekt: the helper in second place, the participle at the end. Movement and change (starten, fahren, werden) take sein; \"war\" stays in the simple past even in speech.",
+              "example" : "Antonelli ist für Mercedes als Zweiter gestartet und war schnell vorn.",
+              "title" : "Perfekt with sein or haben"
+            },
+            {
+              "body" : "\"Sich drehen\" (to spin) needs the reflexive pronoun, and reflexive verbs always take haben in the Perfekt: \"er hat sich gedreht\".",
+              "example" : "Aber dann hat er sich gedreht, und Lando Norris war wieder vorn.",
+              "title" : "Sich drehen: a reflexive verb in the Perfekt"
+            },
+            {
+              "body" : "Facts that are still true stay in the present inside a past story: he is 20, he is the youngest champion.",
+              "example" : "Mit 20 ist er der jüngste Weltmeister aller Zeiten.",
+              "title" : "Ist for now, Perfekt for then"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am Sonntag, dem 8. November 2026, ist die Formel 1 in São Paulo in Brasilien im Regen gefahren.",
+            "Kimi Antonelli war schon Weltmeister. Eine Woche vorher war er in Mexiko-Stadt Dritter, das hat gereicht. Mit 20 ist er der jüngste Weltmeister aller Zeiten.",
+            "Antonelli ist für Mercedes als Zweiter gestartet und war schnell vorn. Aber dann hat er sich gedreht, und Lando Norris war wieder vorn.",
+            "Norris hat für McLaren gewonnen, 14,6 Sekunden vor Max Verstappen. Verstappen ist von Platz 21 auf zwei gefahren! Sein Teamkollege Isack Hadjar war Dritter.",
+            "Antonelli ist Fünfter geworden und George Russell Vierter. Also hat Mercedes auch den Teamtitel gewonnen. Erst der Fahrer, jetzt das Team! Dann kommt Las Vegas, vom 20. bis 22. November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Hatte\" + Partizip II goes one step further back than the Perfekt: Mexico City came a week before the race in São Paulo.",
+              "example" : "Kimi Antonelli war schon Weltmeister: Platz drei in Mexiko-Stadt hatte eine Woche vorher gereicht.",
+              "title" : "Plusquamperfekt: hatte … gereicht"
+            },
+            {
+              "body" : "A relative clause starts with der/die/das, agreeing with the noun it describes (Norris → der), and sends its verb to the end; commas close it off on both sides.",
+              "example" : "Damit lag Lando Norris, der von der Pole kam, wieder vorn.",
+              "title" : "Der, die, das as relative pronouns"
+            },
+            {
+              "body" : "\"Bis\" as a conjunction (until) starts a subordinate clause, so its verb goes to the end: \"bis er sich gedreht hat\".",
+              "example" : "Er ist für Mercedes als Zweiter gestartet und hat geführt, bis er sich gedreht hat.",
+              "title" : "Bis: until, with the verb at the end"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am Sonntag, dem 8. November 2026, war der Große Preis von São Paulo in Brasilien erst nass, dann trocken, dann wieder nass.",
+            "Kimi Antonelli war schon Weltmeister: Platz drei in Mexiko-Stadt hatte eine Woche vorher gereicht. Mit 20 ist er der jüngste Weltmeister aller Zeiten, der erste Italiener seit 1953.",
+            "Er ist für Mercedes als Zweiter gestartet und hat geführt, bis er sich gedreht hat. Damit lag Lando Norris, der von der Pole kam, wieder vorn.",
+            "Norris hat für McLaren gewonnen, 14,6 Sekunden vor Max Verstappen, der sich für Red Bull sogar von Platz 21 auf zwei vorgekämpft hat. Sein Teamkollege Isack Hadjar war Dritter.",
+            "Antonelli ist trotzdem Fünfter geworden, George Russell Vierter, und das hat gereicht: Mercedes ist auch Teamweltmeister, zum neunten Mal. Erst der Fahrer, jetzt das Team! Dann geht's nach Las Vegas, vom 20. bis 22. November."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Sich entscheiden\" is to make up your mind; saying the weather \"konnte sich nicht entscheiden\" means it kept changing. Modals like können tell the past in the simple past even in speech.",
+              "example" : "Also, Sonntag, 8. November 2026, São Paulo, und das Wetter konnte sich einfach nicht entscheiden: erst nass, dann trocken, dann wieder Regen.",
+              "title" : "Sich nicht entscheiden können: a spoken idiom"
+            },
+            {
+              "body" : "\"Hatte … gereicht\" places Mexico City one step before the São Paulo race, which the story tells in the Perfekt (\"ist angereist\").",
+              "example" : "Kimi Antonelli ist als frischgebackener Weltmeister angereist: Platz drei in Mexiko-Stadt hatte eine Woche vorher gereicht.",
+              "title" : "Plusquamperfekt for the week before"
+            },
+            {
+              "body" : "\"Den Sieg nach Hause fahren\" (literally: to drive the win home) means to finish the job and win safely; German sports talk uses it with every kind of race.",
+              "example" : "Norris hat den Sieg für McLaren nach Hause gefahren, 14,6 Sekunden vor Max Verstappen, der sich von Platz 21 auf zwei vorgekämpft hat.",
+              "title" : "Den Sieg nach Hause fahren: a sports idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Also, Sonntag, 8. November 2026, São Paulo, und das Wetter konnte sich einfach nicht entscheiden: erst nass, dann trocken, dann wieder Regen.",
+            "Kimi Antonelli ist als frischgebackener Weltmeister angereist: Platz drei in Mexiko-Stadt hatte eine Woche vorher gereicht. Mit 20 ist er der jüngste Weltmeister aller Zeiten, jünger als Sebastian Vettel 2010, und der erste Italiener seit Alberto Ascari 1953.",
+            "Er ist als Zweiter gestartet, hat sich gleich Lando Norris geschnappt und ist davongefahren. Aber dann hat er sich gedreht, und Norris, der von der Pole kam, lag wieder vorn.",
+            "Norris hat den Sieg für McLaren nach Hause gefahren, 14,6 Sekunden vor Max Verstappen, der sich von Platz 21 auf zwei vorgekämpft hat. Isack Hadjar hat als Dritter den zweiten Red Bull aufs Podium gebracht.",
+            "Antonelli ist trotzdem Fünfter geworden, George Russell Vierter, und damit war's klar: Mercedes ist zum neunten Mal Konstrukteursweltmeister. Erst der Fahrer, jetzt das Team, und weiter geht's in Las Vegas, vom 20. bis 22. November."
+          ]
+        }
+      ],
+      "summary" : "Eine Woche nach seinem WM-Titel hat sich Kimi Antonelli in São Paulo aus der Führung gedreht, und sein Team hat trotzdem einen eigenen Titel geholt.",
+      "title" : "Erst Antonelli, jetzt Mercedes",
+      "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "weekend-sport-2026-11-08-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to last week uses \"había\" (there was), the past background form of \"hay\". \"Hace\" + time means \"ago\" and goes before the time: hace una semana.",
+              "example" : "Hace una semana había carrera en Ciudad de México.",
+              "title" : "Había: one look back"
+            },
+            {
+              "body" : "Places in a race use ordinal numbers with \"ser\": primero, segundo, tercero, cuarto, quinto. No article is needed: es quinto = he is fifth.",
+              "example" : "Antonelli es quinto, y George Russell es cuarto.",
+              "title" : "Ordinal numbers for places"
+            },
+            {
+              "body" : "\"Por eso\" (that's why) opens a sentence that follows from the one before: first the reason, then \"por eso\" and the result.",
+              "example" : "Por eso es el campeón más joven de la historia.",
+              "title" : "Por eso for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es domingo, 8 de noviembre, y llueve en São Paulo, en Brasil. Kimi Antonelli, de Mercedes, ya es el nuevo campeón del mundo.",
+            "Hace una semana había carrera en Ciudad de México. Antonelli era tercero, y eso era suficiente. Solo tiene 20 años. Por eso es el campeón más joven de la historia.",
+            "Hoy Antonelli sale segundo y pronto va primero. Pero hace un trompo, y Lando Norris gana con McLaren. Max Verstappen es segundo, e Isack Hadjar es tercero.",
+            "Antonelli es quinto, y George Russell es cuarto. ¡Así que Mercedes también es campeón! Primero el piloto, ahora el equipo. La próxima carrera es en Las Vegas, del 20 al 22 de noviembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Finished events take the pretérito indefinido. For él/ella, -ar verbs end in -ó (terminó, ganó) and -er/-ir verbs in -ió (salió, volvió); some verbs are irregular: hacer → hizo, ser → fue.",
+              "example" : "Pero luego hizo un trompo, y Lando Norris volvió a ponerse delante.",
+              "title" : "Pretérito indefinido: salió, hizo, ganó"
+            },
+            {
+              "body" : "Inside a story in the past, a fact that is still true now stays in the present: he is 20, he is the youngest champion.",
+              "example" : "Con 20 años es el campeón más joven de la historia.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El domingo 8 de noviembre de 2026 hubo carrera de Fórmula 1 en São Paulo, Brasil, y con lluvia.",
+            "Kimi Antonelli llegaba ya como campeón del mundo. Una semana antes terminó tercero en Ciudad de México, y con eso le bastó. Con 20 años es el campeón más joven de la historia.",
+            "Antonelli salió segundo con Mercedes y enseguida se puso primero. Pero luego hizo un trompo, y Lando Norris volvió a ponerse delante.",
+            "Norris ganó con McLaren, 14,6 segundos por delante de Max Verstappen. ¡Verstappen salió desde el puesto 21 y aun así terminó segundo! Su compañero de equipo, Isack Hadjar, fue tercero.",
+            "Antonelli terminó quinto y George Russell cuarto, así que Mercedes también ganó el título por equipos. ¡Primero el piloto, ahora el equipo! La próxima es Las Vegas, del 20 al 22 de noviembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pluscuamperfecto (había + participle) goes one step further back: Mexico City came a week before the race in São Paulo. \"Le bastó con\" + infinitive = it was enough for him to.",
+              "example" : "Kimi Antonelli llegaba ya como campeón del mundo: una semana antes, en Ciudad de México, le había bastado con ser tercero.",
+              "title" : "Había bastado: the past before the past"
+            },
+            {
+              "body" : "\"Que\" adds information about a person; the commas around it show that the sentence works without it. Spanish uses \"que\" here, not \"quien\", in everyday speech.",
+              "example" : "Y ahí Lando Norris, que había salido desde la pole, volvió a ponerse delante.",
+              "title" : "Que for more about a person"
+            },
+            {
+              "body" : "\"Aun así\" (without an accent on aun) means \"even so\": after the spin you might expect less, but he finished fifth anyway.",
+              "example" : "Aun así, Antonelli acabó quinto, con George Russell cuarto, y eso bastó: Mercedes también ganó el título de constructores, y ya van nueve.",
+              "title" : "Aun así: even so"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El Gran Premio de São Paulo, en Brasil, fue el domingo 8 de noviembre de 2026. Empezó en mojado, luego se secó y al final volvió la lluvia.",
+            "Kimi Antonelli llegaba ya como campeón del mundo: una semana antes, en Ciudad de México, le había bastado con ser tercero. Con 20 años es el campeón más joven de la historia, y el primer italiano desde 1953.",
+            "Salió segundo con Mercedes e iba primero hasta que hizo un trompo. Y ahí Lando Norris, que había salido desde la pole, volvió a ponerse delante.",
+            "Norris ganó con McLaren, 14,6 segundos por delante de Max Verstappen, que remontó del puesto 21 al segundo con Red Bull. Su compañero, Isack Hadjar, terminó tercero.",
+            "Aun así, Antonelli acabó quinto, con George Russell cuarto, y eso bastó: Mercedes también ganó el título de constructores, y ya van nueve. Primero el piloto, ahora el equipo, y la próxima es Las Vegas, del 20 al 22 de noviembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Sin\" + infinitive means \"without doing\"; \"el tiempo sin decidirse\" says the weather couldn't make up its mind and kept changing. \"Pues mira\" opens the story the way \"so, look\" does.",
+              "example" : "Pues mira, domingo 8 de noviembre de 2026 en São Paulo, y el tiempo sin decidirse: mojado al principio, seco a media carrera y otra vez lluvia al final.",
+              "title" : "Sin decidirse: sin + infinitive"
+            },
+            {
+              "body" : "The climb from 21st happened before the finish the sentence describes, so the relative clause takes the pluscuamperfecto (había + participle).",
+              "example" : "Norris ganó con McLaren, 14,6 segundos por delante de Max Verstappen, que había remontado del puesto 21 al segundo.",
+              "title" : "Que había remontado: pluperfect in a relative clause"
+            },
+            {
+              "body" : "\"Quedar (todo) atado\" means something is sealed, with nothing left to decide, like English \"wrapped up\".",
+              "example" : "Aun así, Antonelli terminó quinto, con George Russell cuarto, y con eso quedó todo atado: Mercedes también es campeón de constructores, por novena vez.",
+              "title" : "Quedar todo atado: a spoken idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Pues mira, domingo 8 de noviembre de 2026 en São Paulo, y el tiempo sin decidirse: mojado al principio, seco a media carrera y otra vez lluvia al final.",
+            "Kimi Antonelli llegaba siendo ya campeón del mundo: una semana antes, en Ciudad de México, le había bastado con ser tercero. Con 20 años es el campeón más joven de la historia, un récord que era de Sebastian Vettel desde 2010. Y encima es el primer italiano desde Alberto Ascari, en 1953.",
+            "Salió segundo, adelantó a Lando Norris en la salida y empezó a abrir hueco. Pero entonces hizo un trompo, y Norris, que había salido desde la pole, volvió a mandar.",
+            "Norris ganó con McLaren, 14,6 segundos por delante de Max Verstappen, que había remontado del puesto 21 al segundo. Isack Hadjar, tercero, puso el segundo Red Bull en el podio.",
+            "Aun así, Antonelli terminó quinto, con George Russell cuarto, y con eso quedó todo atado: Mercedes también es campeón de constructores, por novena vez. Primero el piloto, ahora el equipo, y lo próximo es Las Vegas, del 20 al 22 de noviembre."
+          ]
+        }
+      ],
+      "summary" : "Una semana después de ser campeón del mundo, Kimi Antonelli hizo un trompo cuando iba primero en São Paulo, y aun así su equipo se llevó su propio título.",
+      "title" : "Primero Antonelli, ahora Mercedes",
+      "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-09",
+      "id" : "weekend-sport-2026-11-08-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to last week uses \"era\", the imperfect of essere: era terzo = he was third. \"Fa\" goes after the time, like English \"ago\": una settimana fa.",
+              "example" : "Il suo grande giorno era una settimana fa, a Città del Messico.",
+              "title" : "Era: one look back"
+            },
+            {
+              "body" : "Places in a race use ordinal numbers, which work like adjectives after essere: primo, secondo, terzo, quarto, quinto.",
+              "example" : "Antonelli è quinto, e George Russell è quarto.",
+              "title" : "Ordinal numbers for places"
+            },
+            {
+              "body" : "\"Quindi\" (so) joins a cause to its result: first the reason, then \"quindi\" and what follows from it.",
+              "example" : "Ha solo 20 anni, quindi è il campione più giovane di sempre.",
+              "title" : "Quindi for a result"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È domenica 8 novembre, e piove a San Paolo, in Brasile. Kimi Antonelli della Mercedes è il nuovo campione del mondo.",
+            "Il suo grande giorno era una settimana fa, a Città del Messico. Lì era terzo, ed era abbastanza. Ha solo 20 anni, quindi è il campione più giovane di sempre.",
+            "Oggi parte secondo e presto è davanti a tutti. Poi però va in testacoda, e Lando Norris vince con la McLaren. Max Verstappen è secondo, e Isack Hadjar è terzo.",
+            "Antonelli è quinto, e George Russell è quarto. Quindi anche la Mercedes è campione! Prima il pilota, ora la squadra. La prossima gara è a Las Vegas, dal 20 al 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is essere or avere plus a past participle. Verbs of movement (partire, arrivare, tornare, andare) take essere and agree with the subject; most others take avere: ha vinto, ha corso.",
+              "example" : "È partito secondo con la Mercedes ed è passato in testa.",
+              "title" : "Passato prossimo: è partito, ha vinto"
+            },
+            {
+              "body" : "Facts that are still true stay in the present inside a past story: a 20 anni è il campione più giovane. A background state on the day takes the imperfect: era lì.",
+              "example" : "A 20 anni è il campione più giovane di sempre.",
+              "title" : "È for now, era for then"
+            },
+            {
+              "body" : "At the end of a sentence, \"lo stesso\" means \"anyway, all the same\": the result came even though the start was bad.",
+              "example" : "Verstappen è partito ventunesimo, ma è arrivato secondo lo stesso!",
+              "title" : "Lo stesso: anyway"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Domenica 8 novembre 2026 la Formula 1 ha corso sotto la pioggia a San Paolo, in Brasile.",
+            "Kimi Antonelli era lì da nuovo campione del mondo. Una settimana prima è arrivato terzo a Città del Messico, e gli è bastato. A 20 anni è il campione più giovane di sempre.",
+            "È partito secondo con la Mercedes ed è passato in testa. Ma poi è andato in testacoda, e Lando Norris è tornato davanti.",
+            "Norris ha vinto con la McLaren, 14,6 secondi davanti a Max Verstappen. Verstappen è partito ventunesimo, ma è arrivato secondo lo stesso! Il suo compagno di squadra, Isack Hadjar, è arrivato terzo.",
+            "Antonelli è arrivato quinto e George Russell quarto, quindi anche la Mercedes è campione. Prima il pilota, ora la squadra! Prossima tappa: Las Vegas, dal 20 al 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect of essere or avere plus a past participle goes one step further back: Mexico City came a week before the race in São Paulo.",
+              "example" : "Kimi Antonelli era già il nuovo campione del mondo: una settimana prima, a Città del Messico, gli era bastato il terzo posto.",
+              "title" : "Trapassato prossimo: gli era bastato"
+            },
+            {
+              "body" : "\"Che\" adds information about a person or thing; between commas, the sentence works without it.",
+              "example" : "Così Lando Norris, che era partito dalla pole, è tornato davanti.",
+              "title" : "Che for more about a person"
+            },
+            {
+              "body" : "\"Finché non\" means \"until\"; the \"non\" here does not make the sentence negative, it is simply how Italian says it.",
+              "example" : "È partito secondo con la Mercedes ed è stato primo finché non è andato in testacoda.",
+              "title" : "Finché non: until"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Domenica 8 novembre 2026 il Gran Premio di San Paolo, in Brasile, è cominciato sul bagnato. Poi la pista si è asciugata, ma è tornata la pioggia.",
+            "Kimi Antonelli era già il nuovo campione del mondo: una settimana prima, a Città del Messico, gli era bastato il terzo posto. A 20 anni è il campione più giovane di sempre, e il primo italiano dal 1953.",
+            "È partito secondo con la Mercedes ed è stato primo finché non è andato in testacoda. Così Lando Norris, che era partito dalla pole, è tornato davanti.",
+            "Norris ha vinto con la McLaren, 14,6 secondi davanti a Max Verstappen, che con la Red Bull è risalito addirittura dal ventunesimo al secondo posto. Terzo Isack Hadjar, con l'altra Red Bull.",
+            "Antonelli è arrivato comunque quinto, con George Russell quarto, ed è bastato: anche la Mercedes ha vinto il titolo costruttori, il nono. Prima il pilota, adesso la squadra. Prossima tappa: Las Vegas, dal 20 al 22 novembre."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Non decidersi\" is to be unable to make up your mind; said of the weather, it means it kept changing.",
+              "example" : "Allora, domenica 8 novembre 2026, San Paolo, e il tempo proprio non si decideva: bagnato alla partenza, asciutto a metà, di nuovo pioggia nel finale.",
+              "title" : "Non si decideva: a spoken idiom"
+            },
+            {
+              "body" : "The trapassato prossimo (the imperfect of avere or essere plus a participle) puts Mexico City one step further back than the São Paulo race told in the passato prossimo. Bastare takes essere and the person in the dative: gli era bastato = it had been enough for him.",
+              "example" : "Kimi Antonelli è arrivato fresco di titolo: a Città del Messico, una settimana prima, gli era bastato il terzo posto.",
+              "title" : "Gli era bastato: the pluperfect for the week before"
+            },
+            {
+              "body" : "\"Tanto è bastato\" is a compact spoken way of saying \"that was all it took\"; \"tanto\" stands for what was just said.",
+              "example" : "Antonelli ha chiuso comunque quinto, con George Russell quarto, e tanto è bastato: la Mercedes ha vinto anche il titolo costruttori, per la nona volta.",
+              "title" : "Tanto è bastato: that was enough"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Allora, domenica 8 novembre 2026, San Paolo, e il tempo proprio non si decideva: bagnato alla partenza, asciutto a metà, di nuovo pioggia nel finale.",
+            "Kimi Antonelli è arrivato fresco di titolo: a Città del Messico, una settimana prima, gli era bastato il terzo posto. A 20 anni è il campione più giovane di sempre: ha battuto il record di Sebastian Vettel del 2010. E soprattutto è il primo italiano dai tempi di Alberto Ascari, nel 1953.",
+            "È partito secondo, al via ha passato Lando Norris e ha preso il largo. Poi però è andato in testacoda, e Norris, partito dalla pole, si è ritrovato davanti.",
+            "Norris l'ha portata a casa per la McLaren, con 14,6 secondi su Max Verstappen, che è risalito dal ventunesimo al secondo posto. E Isack Hadjar ha messo anche l'altra Red Bull sul podio.",
+            "Antonelli ha chiuso comunque quinto, con George Russell quarto, e tanto è bastato: la Mercedes ha vinto anche il titolo costruttori, per la nona volta. Prima il pilota, adesso la squadra, e la prossima è Las Vegas, dal 20 al 22 novembre."
+          ]
+        }
+      ],
+      "summary" : "Una settimana dopo essere diventato campione del mondo, Kimi Antonelli ha perso il comando a San Paolo con un testacoda, ma la sua Mercedes si è presa lo stesso un titolo tutto suo.",
+      "title" : "Prima Antonelli, ora la Mercedes",
+      "translationGroup" : "weekend-sport-2026-11-08"
     }
   ]
 }
