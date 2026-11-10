@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 31,
-  "generatedAt" : "2026-11-09",
+  "contentVersion" : 32,
+  "generatedAt" : "2026-11-10",
   "glossary" : {
     "english" : [
       {
@@ -8830,7 +8830,8 @@
       {
         "forms" : [
           "choose",
-          "chooses"
+          "chooses",
+          "choosing"
         ],
         "note" : "Past tense is \"chose.\"",
         "pos" : "verb",
@@ -14546,6 +14547,7 @@
       },
       {
         "forms" : [
+          "send",
           "sends"
         ],
         "note" : "\"Send\" + -s.",
@@ -16778,7 +16780,8 @@
       },
       {
         "forms" : [
-          "winter"
+          "winter",
+          "winter's"
         ],
         "note" : "As in \"winter Sundays.\"",
         "pos" : "noun",
@@ -21034,6 +21037,7 @@
       {
         "forms" : [
           "wear",
+          "wearing",
           "wears",
           "wore"
         ],
@@ -26177,6 +26181,7 @@
       },
       {
         "forms" : [
+          "laugh",
           "laughing",
           "laughs"
         ],
@@ -26386,7 +26391,8 @@
       },
       {
         "forms" : [
-          "hit"
+          "hit",
+          "hits"
         ],
         "note" : "Irregular: hit, hit, hit. \"It hit her\" means she suddenly understood something.",
         "pos" : "verb",
@@ -26875,6 +26881,7 @@
       },
       {
         "forms" : [
+          "touch",
           "touched"
         ],
         "note" : "\"He hadn't touched the jar\" = he hadn't taken any money out of it.",
@@ -28451,7 +28458,8 @@
       },
       {
         "forms" : [
-          "february"
+          "february",
+          "february's"
         ],
         "note" : "Written with a capital F: February.",
         "pos" : "noun",
@@ -30508,6 +30516,401 @@
         "note" : "Sebastian Vettel's record: he was 23 when he won his first title in 2010, the youngest champion until Antonelli.",
         "pos" : "noun",
         "translation" : "Vettel's (belonging to Vettel)"
+      },
+      {
+        "forms" : [
+          "1,700"
+        ],
+        "note" : "Said \"one thousand seven hundred\" or, in relaxed speech, \"seventeen hundred\": almost 1,700 years ago.",
+        "pos" : "number",
+        "translation" : "1,700"
+      },
+      {
+        "forms" : [
+          "371"
+        ],
+        "note" : "A year, said \"three seventy-one\"; years have no comma: in 371.",
+        "pos" : "number",
+        "translation" : "371"
+      },
+      {
+        "forms" : [
+          "397"
+        ],
+        "note" : "A year, said \"three ninety-seven\"; with a date, the day comes first in British English: 11 November 397.",
+        "pos" : "number",
+        "translation" : "397"
+      },
+      {
+        "forms" : [
+          "1900"
+        ],
+        "note" : "A year, said \"nineteen hundred\": around 1900 means a few years before or after.",
+        "pos" : "number",
+        "translation" : "1900"
+      },
+      {
+        "forms" : [
+          "amiens"
+        ],
+        "note" : "Capitalised, said roughly \"AM-yan\" as in French.",
+        "pos" : "noun",
+        "translation" : "Amiens, a city in northern France"
+      },
+      {
+        "forms" : [
+          "tours"
+        ],
+        "note" : "Capitalised, said \"toor\" as in French; here it is a place, not the plural of \"tour\".",
+        "pos" : "noun",
+        "translation" : "Tours, a city in western France"
+      },
+      {
+        "forms" : [
+          "austria"
+        ],
+        "note" : "A country in central Europe, south of Germany; no article: \"in Austria\".",
+        "pos" : "noun",
+        "translation" : "Austria"
+      },
+      {
+        "forms" : [
+          "switzerland"
+        ],
+        "note" : "A country in central Europe; no article: \"in Switzerland\".",
+        "pos" : "noun",
+        "translation" : "Switzerland"
+      },
+      {
+        "forms" : [
+          "martin",
+          "martin's"
+        ],
+        "note" : "\"Martin's\" with an apostrophe means \"of Martin\": Saint Martin's Day is Martin's day.",
+        "pos" : "noun",
+        "translation" : "Martin, a man's name"
+      },
+      {
+        "forms" : [
+          "saint"
+        ],
+        "note" : "Before a name it is capitalised and often written \"St.\": Saint Martin, St. Martin.",
+        "pos" : "noun",
+        "translation" : "a holy person honoured by the Church"
+      },
+      {
+        "forms" : [
+          "jesus"
+        ],
+        "note" : "Capitalised, with no article: \"he dreamed of Jesus\".",
+        "pos" : "noun",
+        "translation" : "Jesus, the central figure of Christianity"
+      },
+      {
+        "forms" : [
+          "bishop"
+        ],
+        "note" : "Often with no article before \"of\" + a place: \"he became bishop of Tours\".",
+        "pos" : "noun",
+        "translation" : "a senior priest who leads the Church in a city or region"
+      },
+      {
+        "forms" : [
+          "soldier"
+        ],
+        "note" : "\"A Roman soldier\" = a soldier in the army of ancient Rome.",
+        "pos" : "noun",
+        "translation" : "a person in an army"
+      },
+      {
+        "forms" : [
+          "cloak"
+        ],
+        "note" : "Soldiers and travellers once wore a cloak over their other clothes to keep warm.",
+        "pos" : "noun",
+        "translation" : "a long, loose coat with no sleeves"
+      },
+      {
+        "forms" : [
+          "clothes"
+        ],
+        "note" : "Always plural, with no singular form: \"his clothes are old\"; said like \"close\".",
+        "pos" : "noun",
+        "translation" : "the things you wear, like shirts and coats"
+      },
+      {
+        "forms" : [
+          "gate"
+        ],
+        "note" : "\"The city gate\" = the way in through the old city wall.",
+        "pos" : "noun",
+        "translation" : "a door in a wall or fence, for example into a city"
+      },
+      {
+        "forms" : [
+          "sword"
+        ],
+        "note" : "The w is silent: said \"sord\".",
+        "pos" : "noun",
+        "translation" : "a long metal weapon with a sharp blade"
+      },
+      {
+        "forms" : [
+          "lantern",
+          "lanterns"
+        ],
+        "note" : "Children's lanterns are usually made of paper, with a small light inside.",
+        "pos" : "noun",
+        "translation" : "a lamp with a cover around the light, often carried"
+      },
+      {
+        "forms" : [
+          "buried"
+        ],
+        "note" : "Past of \"bury\", said like \"berry\": \"people buried him\", \"he was buried\".",
+        "pos" : "verb",
+        "translation" : "put a dead person in the ground"
+      },
+      {
+        "forms" : [
+          "bury"
+        ],
+        "note" : "Said like \"berry\": \"people bury him on 11 November\"; the past is \"buried\".",
+        "pos" : "verb",
+        "translation" : "to put a dead person in the ground"
+      },
+      {
+        "forms" : [
+          "dreamed"
+        ],
+        "note" : "Past of \"dream\"; British English also says \"dreamt\". \"Dream of\" + a person: he dreamed of Jesus.",
+        "pos" : "verb",
+        "translation" : "saw pictures and stories in your sleep"
+      },
+      {
+        "forms" : [
+          "glow"
+        ],
+        "note" : "Present: \"the lanterns glow\"; it is quieter than \"shine\", like a candle in the dark.",
+        "pos" : "verb",
+        "translation" : "to give a soft, warm light"
+      },
+      {
+        "forms" : [
+          "freezing"
+        ],
+        "note" : "Stronger than \"cold\": \"a freezing winter\"; people also say \"I'm freezing\".",
+        "pos" : "adjective",
+        "translation" : "very, very cold"
+      },
+      {
+        "forms" : [
+          "brutal"
+        ],
+        "note" : "Of weather, it means extremely hard to bear: \"a brutal winter\".",
+        "pos" : "adjective",
+        "translation" : "very hard and cruel"
+      },
+      {
+        "forms" : [
+          "imagine"
+        ],
+        "note" : "\"Imagine it\" invites the listener to see a scene: \"imagine it: cold fingers…\".",
+        "pos" : "verb",
+        "translation" : "to make a picture of something in your mind"
+      },
+      {
+        "forms" : [
+          "flu"
+        ],
+        "note" : "Short for \"influenza\"; people say \"flu\" or \"the flu\": \"flu season\", \"I've got the flu\".",
+        "pos" : "noun",
+        "translation" : "a common illness from a virus, with fever, cough and aches"
+      },
+      {
+        "forms" : [
+          "istanbul"
+        ],
+        "note" : "Said \"iss-tan-BOOL\"; a place name, so always with a capital letter.",
+        "pos" : "noun",
+        "translation" : "the biggest city in Türkiye"
+      },
+      {
+        "forms" : [
+          "cough",
+          "coughs"
+        ],
+        "note" : "Both a verb (\"cough into your elbow\") and a noun (\"the cough lingers\"); the \"gh\" sounds like f: \"koff\".",
+        "pos" : "verb",
+        "translation" : "to push air out of your throat with a sudden noise; the noise or illness itself"
+      },
+      {
+        "forms" : [
+          "sneezes"
+        ],
+        "note" : "A sneeze is often a surprise; people say \"bless you\" after one.",
+        "pos" : "noun",
+        "translation" : "sudden bursts of air out of the nose"
+      },
+      {
+        "forms" : [
+          "elbow"
+        ],
+        "note" : "\"Cough into your elbow\" = into the inside of your bent arm, not into your hands.",
+        "pos" : "noun",
+        "translation" : "the middle joint of the arm, where it bends"
+      },
+      {
+        "forms" : [
+          "soap"
+        ],
+        "note" : "Usually with no \"a\": \"warm water and soap\"; a single piece is \"a bar of soap\".",
+        "pos" : "noun",
+        "translation" : "what you use with water to wash"
+      },
+      {
+        "forms" : [
+          "soapy"
+        ],
+        "note" : "-y turns a noun into an adjective: soap → soapy, like rain → rainy.",
+        "pos" : "adjective",
+        "translation" : "full of soap"
+      },
+      {
+        "forms" : [
+          "pharmacist"
+        ],
+        "note" : "Said \"FAR-ma-sist\"; you find one at a pharmacy (a chemist's).",
+        "pos" : "noun",
+        "translation" : "a person trained to give out medicines and advice in a chemist's"
+      },
+      {
+        "forms" : [
+          "labs"
+        ],
+        "note" : "Short for \"laboratories\", and far more common in speech: \"labs all over the world\".",
+        "pos" : "noun",
+        "translation" : "rooms or places for scientific work"
+      },
+      {
+        "forms" : [
+          "samples"
+        ],
+        "note" : "In medicine, a sample is a little of something (from a nose, say) that a lab looks at.",
+        "pos" : "noun",
+        "translation" : "small amounts taken to be tested"
+      },
+      {
+        "forms" : [
+          "tissue"
+        ],
+        "note" : "\"A tissue\" is used once and thrown away; that is why it is better than a cloth one for a cold.",
+        "pos" : "noun",
+        "translation" : "a soft paper handkerchief"
+      },
+      {
+        "forms" : [
+          "sofa"
+        ],
+        "note" : "Also called a couch; \"stay on the sofa\" = rest at home.",
+        "pos" : "noun",
+        "translation" : "a long soft seat for two or more people"
+      },
+      {
+        "forms" : [
+          "illness"
+        ],
+        "note" : "\"A long-term illness\" is one that lasts for months or years.",
+        "pos" : "noun",
+        "translation" : "a disease, a time of being ill"
+      },
+      {
+        "forms" : [
+          "long-term"
+        ],
+        "note" : "Used before a noun, with a hyphen: \"a long-term illness\"; the opposite is \"short-term\".",
+        "pos" : "adjective",
+        "translation" : "lasting a long time"
+      },
+      {
+        "forms" : [
+          "136"
+        ],
+        "note" : "Said \"a hundred and thirty-six\" in British English, \"one hundred thirty-six\" in much American speech.",
+        "pos" : "number",
+        "translation" : "136"
+      },
+      {
+        "forms" : [
+          "166"
+        ],
+        "note" : "Said \"a hundred and sixty-six\" (or \"one hundred sixty-six\").",
+        "pos" : "number",
+        "translation" : "166"
+      },
+      {
+        "forms" : [
+          "hemisphere"
+        ],
+        "note" : "\"Once per hemisphere\" = once for the north and once for the south; said \"HEM-i-sfeer\".",
+        "pos" : "noun",
+        "translation" : "one half of the earth, north or south of the equator"
+      },
+      {
+        "forms" : [
+          "institutions"
+        ],
+        "note" : "A broad word for official places that do one kind of work.",
+        "pos" : "noun",
+        "translation" : "large organisations, like labs, hospitals or universities"
+      },
+      {
+        "forms" : [
+          "network"
+        ],
+        "note" : "\"A network of labs\" share what they find with each other.",
+        "pos" : "noun",
+        "translation" : "a group of people or places connected and working together"
+      },
+      {
+        "forms" : [
+          "dating"
+        ],
+        "note" : "\"Dating back to 1952\" = it started in 1952 and still goes on; not the \"going out with someone\" meaning here.",
+        "pos" : "verb",
+        "translation" : "having its beginning in a certain time"
+      },
+      {
+        "forms" : [
+          "lingers"
+        ],
+        "note" : "Used for things that are slow to go: \"the cough lingers\", \"a smell lingers\".",
+        "pos" : "verb",
+        "translation" : "stays longer than expected"
+      },
+      {
+        "forms" : [
+          "unsure"
+        ],
+        "note" : "Used after a verb: \"if you're unsure\" = if you're not sure.",
+        "pos" : "adjective",
+        "translation" : "not certain"
+      },
+      {
+        "forms" : [
+          "awful"
+        ],
+        "note" : "Everyday speech for how you feel when you're ill: \"you feel awful\"; said \"AW-ful\".",
+        "pos" : "adjective",
+        "translation" : "very bad, very unpleasant"
+      },
+      {
+        "forms" : [
+          "year-round"
+        ],
+        "note" : "With a hyphen: \"labs send samples year-round\" = in every month, not only in winter.",
+        "pos" : "adverb",
+        "translation" : "all through the year"
       }
     ],
     "french" : [
@@ -30923,9 +31326,9 @@
           "pleins"
         ],
         "gender" : "masculine",
-        "note" : "Describes something with no space left.",
+        "note" : "Describes something with no space left; « en plein hiver » = in the middle of winter.",
         "pos" : "adjective",
-        "translation" : "full"
+        "translation" : "full; (en plein + noun) in the middle of"
       },
       {
         "forms" : [
@@ -31264,9 +31667,9 @@
           "aide"
         ],
         "gender" : "feminine",
-        "note" : "Assistance given to someone.",
+        "note" : "Assistance given to someone; also the verb aider: « ça aide » = it helps.",
         "pos" : "noun",
-        "translation" : "help"
+        "translation" : "help; (il aide, ça aide) helps"
       },
       {
         "forms" : [
@@ -31871,6 +32274,7 @@
       },
       {
         "forms" : [
+          "centaine",
           "centaines"
         ],
         "gender" : "feminine",
@@ -31998,7 +32402,7 @@
           "chemin"
         ],
         "gender" : "masculine",
-        "note" : "A road or track.",
+        "note" : "A road or track; « passer son chemin » = to walk on by.",
         "pos" : "noun",
         "translation" : "path, way"
       },
@@ -32965,9 +33369,9 @@
           "faites",
           "faits"
         ],
-        "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact. At a till, « ça fait un euro vingt-cinq » = that comes to one euro twenty-five. Faire + infinitive = to have something done: « il a fait nettoyer les marais » = he had the marshes cleaned up.",
+        "note" : "One of the most common French verbs, many forms across tenses; en fait (in speech) = actually, in fact. At a till, « ça fait un euro vingt-cinq » = that comes to one euro twenty-five; with an adjective, « ça fait paresseux » = it seems lazy. Faire + infinitive = to have something done: « il a fait nettoyer les marais » = he had the marshes cleaned up.",
         "pos" : "verb",
-        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to; (il fait bon) it's nice and warm; (faire + verb) to have something done"
+        "translation" : "to do, to make; (en fait) actually, in fact; (ça fait) that comes to; it seems; (il fait bon) it's nice and warm; (faire + verb) to have something done"
       },
       {
         "forms" : [
@@ -33905,6 +34309,7 @@
       {
         "forms" : [
           "marche",
+          "marchent",
           "marcher",
           "marches"
         ],
@@ -34657,9 +35062,9 @@
           "plat"
         ],
         "gender" : "masculine",
-        "note" : "Can be a noun (dish) or adjective (flat).",
+        "note" : "Can be a noun (dish) or adjective (flat); « ça te met à plat » = it wipes you out.",
         "pos" : "noun",
-        "translation" : "dish, flat"
+        "translation" : "dish, flat; (à plat) worn out"
       },
       {
         "forms" : [
@@ -34710,9 +35115,9 @@
           "porte"
         ],
         "gender" : "feminine",
-        "note" : "As in \"juste une porte\" (just a door).",
+        "note" : "As in \"juste une porte\" (just a door); « la porte de la ville » = the city gate.",
         "pos" : "noun",
-        "translation" : "door"
+        "translation" : "door; (city) gate"
       },
       {
         "forms" : [
@@ -36006,6 +36411,7 @@
       {
         "forms" : [
           "vieille",
+          "vieilles",
           "vieux"
         ],
         "note" : "\"Vieux\" (masc.) / \"vieille\" (fem.).",
@@ -36813,9 +37219,9 @@
           "cesseront",
           "cessé"
         ],
-        "note" : "Forms of cesser across tenses.",
+        "note" : "Forms of cesser across tenses; « sans cesse » = all the time, nonstop.",
         "pos" : "verb",
-        "translation" : "to stop, will stop, stopped"
+        "translation" : "to stop, will stop, stopped; (sans cesse) all the time"
       },
       {
         "forms" : [
@@ -37173,7 +37579,8 @@
       {
         "forms" : [
           "coupait",
-          "couper"
+          "couper",
+          "coupé"
         ],
         "note" : "Forms of couper.",
         "pos" : "verb",
@@ -37556,9 +37963,9 @@
           "doutaient",
           "doute"
         ],
-        "note" : "\"Doutaient\" is the imperfect of douter; \"doute\" the present or the noun.",
+        "note" : "\"Doutaient\" is the imperfect of douter; \"doute\" the present or the noun: « dans le doute » = if you're unsure.",
         "pos" : "verb",
-        "translation" : "doubted, doubt"
+        "translation" : "doubted, doubt; (dans le doute) if unsure"
       },
       {
         "forms" : [
@@ -37662,12 +38069,13 @@
       },
       {
         "forms" : [
+          "défilent",
           "défiler",
           "défilé"
         ],
-        "note" : "Infinitive of défiler.",
+        "note" : "Infinitive of défiler; « le défilé » is also the noun: a parade, a procession (« le défilé de lanternes »).",
         "pos" : "verb",
-        "translation" : "to parade, scroll by"
+        "translation" : "to parade, scroll by; (le défilé) parade, procession"
       },
       {
         "forms" : [
@@ -39051,6 +39459,7 @@
       },
       {
         "forms" : [
+          "parcourent",
           "parcourir",
           "parcourt"
         ],
@@ -40046,9 +40455,9 @@
           "rêve",
           "rêvé"
         ],
-        "note" : "Imperfect tense of rêver.",
+        "note" : "Imperfect tense of rêver (rêvait); rêvé = dreamed (« il avait rêvé »).",
         "pos" : "verb",
-        "translation" : "was dreaming"
+        "translation" : "was dreaming; dreamed"
       },
       {
         "forms" : [
@@ -45930,9 +46339,9 @@
         "forms" : [
           "remet"
         ],
-        "note" : "Remettre, il/elle form.",
+        "note" : "Remettre, il/elle form; « on s'en remet » = you get over it, you recover.",
         "pos" : "verb",
-        "translation" : "resets, puts back"
+        "translation" : "resets, puts back; (s'en remettre) gets over it"
       },
       {
         "forms" : [
@@ -46111,6 +46520,7 @@
       },
       {
         "forms" : [
+          "rient",
           "rire"
         ],
         "note" : "Infinitive.",
@@ -46817,9 +47227,9 @@
           "tendu"
         ],
         "gender" : "masculine",
-        "note" : "Past participle of tendre.",
+        "note" : "Past participle of tendre; « il lui a tendu la moitié » = he held out half to him.",
         "pos" : "adjective",
-        "translation" : "stretched, tense"
+        "translation" : "stretched, tense; held out, handed"
       },
       {
         "forms" : [
@@ -46935,7 +47345,7 @@
           "traîne",
           "traînent"
         ],
-        "note" : "Traîner, ils/elles form.",
+        "note" : "Traîner: il/elle traîne, ils/elles traînent; « la toux traîne » = the cough lingers.",
         "pos" : "verb",
         "translation" : "linger, drag on"
       },
@@ -47387,9 +47797,9 @@
         "forms" : [
           "a-t-il"
         ],
-        "note" : "Forme interrogative inversée.",
+        "note" : "Forme interrogative inversée; after something someone said, « a-t-il raconté » = he said, he told.",
         "pos" : "pronoun",
-        "translation" : "has he"
+        "translation" : "has he; (after a quote) he said"
       },
       {
         "forms" : [
@@ -47936,7 +48346,8 @@
       },
       {
         "forms" : [
-          "chanson"
+          "chanson",
+          "chansons"
         ],
         "gender" : "feminine",
         "note" : "A piece of music with words.",
@@ -48632,7 +49043,8 @@
       },
       {
         "forms" : [
-          "envoie"
+          "envoie",
+          "envoient"
         ],
         "note" : "From \"envoyer.\"",
         "pos" : "verb",
@@ -48940,7 +49352,8 @@
       {
         "forms" : [
           "gelé",
-          "gelée"
+          "gelée",
+          "gelés"
         ],
         "note" : "Feminine of \"gelé.\"",
         "pos" : "adjective",
@@ -49724,9 +50137,9 @@
         "forms" : [
           "met"
         ],
-        "note" : "\"Mettre\" third person.",
+        "note" : "\"Mettre\" third person; « il met deux semaines à agir » = it takes two weeks to work; « ça te met KO / à plat » = it knocks you out, wipes you out.",
         "pos" : "verb",
-        "translation" : "puts"
+        "translation" : "puts; (mettre du temps à) takes; (mettre KO) knocks out"
       },
       {
         "forms" : [
@@ -50612,9 +51025,9 @@
         "forms" : [
           "remplit"
         ],
-        "note" : "Past tense of \"remplir.\"",
+        "note" : "Present of « remplir »; « se remplit » = fills up.",
         "pos" : "verb",
-        "translation" : "filled"
+        "translation" : "fills"
       },
       {
         "forms" : [
@@ -52313,9 +52726,9 @@
           "romain"
         ],
         "gender" : "masculine",
-        "note" : "\"Un Romain\" = a Roman man.",
+        "note" : "\"Un Romain\" = a Roman man; as an adjective: « un soldat romain » = a Roman soldier.",
         "pos" : "noun",
-        "translation" : "a Roman (person)"
+        "translation" : "Roman; a Roman (person)"
       },
       {
         "forms" : [
@@ -53197,9 +53610,9 @@
           "passaient",
           "passent"
         ],
-        "note" : "Forms of passer: passer du temps = to spend time; passer à la margarine = to switch to margarine.",
+        "note" : "Forms of passer: passer du temps = to spend time; « les gens passent » = people walk past; passer à la margarine = to switch to margarine.",
         "pos" : "verb",
-        "translation" : "to spend, pass (time); (passer à) to switch to"
+        "translation" : "to spend, pass (time); to go past; (passer à) to switch to"
       },
       {
         "forms" : [
@@ -53630,9 +54043,9 @@
         "forms" : [
           "tombe"
         ],
-        "note" : "Tomber, present tense: il tombe = he falls; as a noun, une tombe = a grave, a tomb (une petite tombe).",
+        "note" : "Tomber, present tense: il tombe = he falls; « la grippe te tombe dessus » = flu hits you; as a noun, une tombe = a grave, a tomb (une petite tombe).",
         "pos" : "verb",
-        "translation" : "falls; (une tombe) a grave, a tomb"
+        "translation" : "falls; (tomber dessus) hits; (une tombe) a grave, a tomb"
       },
       {
         "forms" : [
@@ -56394,6 +56807,7 @@
         "forms" : [
           "jetait",
           "jette",
+          "jettes",
           "jeté"
         ],
         "note" : "« Jeter » : le « t » double au présent (« jette »).",
@@ -56537,7 +56951,8 @@
       },
       {
         "forms" : [
-          "laboratoire"
+          "laboratoire",
+          "laboratoires"
         ],
         "gender" : "masculine",
         "note" : "Souvent « labo ».",
@@ -57341,9 +57756,9 @@
           "tours"
         ],
         "gender" : "feminine",
-        "note" : "« Les horloges dans les tours » ; « le tour » = the turn.",
+        "note" : "« Les horloges dans les tours » ; « le tour » = the turn; with a capital, Tours, a city on the Loire: « évêque de Tours ».",
         "pos" : "noun",
-        "translation" : "towers"
+        "translation" : "towers; Tours (city in France)"
       },
       {
         "forms" : [
@@ -57371,9 +57786,9 @@
           "transmettre",
           "transmise"
         ],
-        "note" : "Présent de « transmettre ».",
+        "note" : "Présent de « transmettre »; « la grippe se transmet » = flu spreads.",
         "pos" : "verb",
-        "translation" : "transmit (they)"
+        "translation" : "transmits; (se transmettre) spreads"
       },
       {
         "forms" : [
@@ -63722,9 +64137,9 @@
           "suisse"
         ],
         "gender" : "masculine",
-        "note" : "« Le suisse allemand » = Swiss German, the German spoken in Switzerland; names of languages are lowercase in French.",
+        "note" : "« Le suisse allemand » = Swiss German, the German spoken in Switzerland; « la Suisse » = Switzerland (« en Suisse », « de Suisse »).",
         "pos" : "noun",
-        "translation" : "Swiss (German)"
+        "translation" : "Swiss (German); Switzerland"
       },
       {
         "forms" : [
@@ -66668,6 +67083,7 @@
       {
         "forms" : [
           "brille",
+          "brillent",
           "briller"
         ],
         "note" : "« Chercher à briller » = to try to stand out, to show off.",
@@ -71980,6 +72396,7 @@
       },
       {
         "forms" : [
+          "danse",
           "danser"
         ],
         "note" : "Here in the idiom « ne pas savoir sur quel pied danser » (not know which foot to dance on) = not be able to make up your mind.",
@@ -72091,6 +72508,445 @@
         "note" : "« C'était suffisant » = that was enough; the adjective of « suffire », feminine « suffisante ».",
         "pos" : "adjective",
         "translation" : "enough, sufficient"
+      },
+      {
+        "forms" : [
+          "1 700"
+        ],
+        "note" : "Read « mille sept cents »: French writes a space, not a comma, between the thousands; « il y a presque 1 700 ans » = almost 1,700 years ago.",
+        "pos" : "number",
+        "translation" : "1,700"
+      },
+      {
+        "forms" : [
+          "371"
+        ],
+        "note" : "Read « trois cent soixante et onze »; « en 371 » = in 371.",
+        "pos" : "number",
+        "translation" : "371"
+      },
+      {
+        "forms" : [
+          "397"
+        ],
+        "note" : "Read « trois cent quatre-vingt-dix-sept »; « le 11 novembre 397 » puts the day first, then the month, then the year.",
+        "pos" : "number",
+        "translation" : "397"
+      },
+      {
+        "forms" : [
+          "1900"
+        ],
+        "note" : "Read « mille neuf cents » (or « dix-neuf cents »); « vers 1900 » = around 1900.",
+        "pos" : "number",
+        "translation" : "1900"
+      },
+      {
+        "forms" : [
+          "amiens"
+        ],
+        "gender" : "masculine",
+        "note" : "A city in northern France; the final s is silent: « à Amiens » = in Amiens.",
+        "pos" : "noun",
+        "translation" : "Amiens"
+      },
+      {
+        "forms" : [
+          "d'amiens"
+        ],
+        "gender" : "masculine",
+        "note" : "De + Amiens, shortened before the vowel: « la porte d'Amiens » = the gate of Amiens.",
+        "pos" : "noun",
+        "translation" : "of Amiens"
+      },
+      {
+        "forms" : [
+          "martin"
+        ],
+        "gender" : "masculine",
+        "note" : "A first name; « saint Martin » = Saint Martin, with a small s for the saint himself.",
+        "pos" : "noun",
+        "translation" : "Martin"
+      },
+      {
+        "forms" : [
+          "saint-martin"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine because it is short for « la fête de saint Martin »: « c'est la Saint-Martin » = it's St. Martin's Day.",
+        "pos" : "noun",
+        "translation" : "St. Martin's Day (11 November)"
+      },
+      {
+        "forms" : [
+          "jésus"
+        ],
+        "gender" : "masculine",
+        "note" : "The final s is silent: « Jésus » sounds like « jé-zu ».",
+        "pos" : "noun",
+        "translation" : "Jesus"
+      },
+      {
+        "forms" : [
+          "d'allemagne"
+        ],
+        "gender" : "feminine",
+        "note" : "De + Allemagne, shortened before the vowel: « les enfants d'Allemagne » = the children of Germany.",
+        "pos" : "noun",
+        "translation" : "of Germany, from Germany"
+      },
+      {
+        "forms" : [
+          "d'autriche"
+        ],
+        "gender" : "feminine",
+        "note" : "De + Autriche, shortened before the vowel; « l'Autriche » = Austria, « en Autriche » = in Austria.",
+        "pos" : "noun",
+        "translation" : "of Austria, from Austria"
+      },
+      {
+        "forms" : [
+          "soldat"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un soldat romain » = a Roman soldier; the adjective of nationality comes after the noun.",
+        "pos" : "noun",
+        "translation" : "soldier"
+      },
+      {
+        "forms" : [
+          "évêque"
+        ],
+        "gender" : "masculine",
+        "note" : "No article after devenir: « il devient évêque de Tours » = he becomes bishop of Tours.",
+        "pos" : "noun",
+        "translation" : "bishop"
+      },
+      {
+        "forms" : [
+          "épée"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: « son épée » uses son, not sa, because the noun starts with a vowel.",
+        "pos" : "noun",
+        "translation" : "sword"
+      },
+      {
+        "forms" : [
+          "d'épée"
+        ],
+        "gender" : "feminine",
+        "note" : "De + épée, shortened before the vowel: « d'un coup d'épée » = with one stroke of the sword.",
+        "pos" : "noun",
+        "translation" : "of a sword"
+      },
+      {
+        "forms" : [
+          "lanterne",
+          "lanternes"
+        ],
+        "gender" : "feminine",
+        "note" : "« Une lanterne » = a lantern; « marcher avec des lanternes » = to walk with lanterns.",
+        "pos" : "noun",
+        "translation" : "lantern, lanterns"
+      },
+      {
+        "forms" : [
+          "vêtements"
+        ],
+        "gender" : "masculine",
+        "note" : "Usually plural: « il n'a presque pas de vêtements » = he has almost no clothes, with de after the negation.",
+        "pos" : "noun",
+        "translation" : "clothes"
+      },
+      {
+        "forms" : [
+          "glacial"
+        ],
+        "note" : "Stronger than froid: « un hiver glacial » = a freezing winter.",
+        "pos" : "adjective",
+        "translation" : "freezing, icy"
+      },
+      {
+        "forms" : [
+          "vêtu"
+        ],
+        "note" : "Vêtu de + clothing: « vêtu de cette moitié » = wearing that half.",
+        "pos" : "adjective",
+        "translation" : "dressed (in), wearing"
+      },
+      {
+        "forms" : [
+          "enterré"
+        ],
+        "note" : "Past participle of enterrer: « on l'a enterré » = people buried him; « il a été enterré » = he was buried.",
+        "pos" : "verb",
+        "translation" : "buried"
+      },
+      {
+        "forms" : [
+          "l'enterre"
+        ],
+        "note" : "Le + enterre (enterrer, present), shortened before the vowel: « on l'enterre » = people bury him.",
+        "pos" : "verb",
+        "translation" : "bury him"
+      },
+      {
+        "forms" : [
+          "imagine"
+        ],
+        "note" : "Imaginer in the tu imperative, which has no -s for -er verbs: « imagine ! » = just imagine!",
+        "pos" : "verb",
+        "translation" : "imagine"
+      },
+      {
+        "forms" : [
+          "136"
+        ],
+        "note" : "Read « cent trente-six »; « des laboratoires de 136 pays » = labs in 136 countries.",
+        "pos" : "number",
+        "translation" : "136"
+      },
+      {
+        "forms" : [
+          "166"
+        ],
+        "note" : "Read « cent soixante-six »; « 166 institutions dans 136 pays » = 166 institutions in 136 countries.",
+        "pos" : "number",
+        "translation" : "166"
+      },
+      {
+        "forms" : [
+          "istanbul"
+        ],
+        "gender" : "masculine",
+        "note" : "The largest city in Türkiye, spelled the same as in English; « à Istanbul » = in Istanbul, with à for a city.",
+        "pos" : "noun",
+        "translation" : "Istanbul"
+      },
+      {
+        "forms" : [
+          "grippe"
+        ],
+        "gender" : "feminine",
+        "note" : "Always with the article in French: « la grippe », « la saison de la grippe » = flu season; « avoir la grippe » = to have flu.",
+        "pos" : "noun",
+        "translation" : "flu, influenza"
+      },
+      {
+        "forms" : [
+          "toux"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun; the verb is tousser: « la toux traîne » = the cough lingers. The final x is silent.",
+        "pos" : "noun",
+        "translation" : "cough"
+      },
+      {
+        "forms" : [
+          "éternuements"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of éternuement, from the verb éternuer (to sneeze); the e after nu and the final -s are silent: « é-ter-nu-man ».",
+        "pos" : "noun",
+        "translation" : "sneezes, sneezing"
+      },
+      {
+        "forms" : [
+          "coude"
+        ],
+        "gender" : "masculine",
+        "note" : "« Tousse dans ton coude » = cough into your elbow, with dans for into.",
+        "pos" : "noun",
+        "translation" : "elbow"
+      },
+      {
+        "forms" : [
+          "mouchoir"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un mouchoir en papier » is a paper tissue; in speech just « un mouchoir ».",
+        "pos" : "noun",
+        "translation" : "tissue, handkerchief"
+      },
+      {
+        "forms" : [
+          "savon"
+        ],
+        "gender" : "masculine",
+        "note" : "« À l'eau et au savon » = with soap and water: French uses à for what you wash with.",
+        "pos" : "noun",
+        "translation" : "soap"
+      },
+      {
+        "forms" : [
+          "savonneuse"
+        ],
+        "note" : "Feminine of savonneux, from savon (soap): « l'eau chaude savonneuse » = warm, soapy water.",
+        "pos" : "adjective",
+        "translation" : "soapy"
+      },
+      {
+        "forms" : [
+          "canapé"
+        ],
+        "gender" : "masculine",
+        "note" : "« Reste sur le canapé » = stay on the sofa, with sur for on.",
+        "pos" : "noun",
+        "translation" : "sofa, couch"
+      },
+      {
+        "forms" : [
+          "pharmacien"
+        ],
+        "gender" : "masculine",
+        "note" : "The feminine is pharmacienne; « demande à ton pharmacien » = ask your pharmacist, with à after demander.",
+        "pos" : "noun",
+        "translation" : "pharmacist"
+      },
+      {
+        "forms" : [
+          "échantillons"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of échantillon; « envoyer des échantillons » = to send samples, for a lab or a shop.",
+        "pos" : "noun",
+        "translation" : "samples"
+      },
+      {
+        "forms" : [
+          "institutions"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of institution; here labs and research centres: « 166 institutions dans 136 pays ».",
+        "pos" : "noun",
+        "translation" : "institutions"
+      },
+      {
+        "forms" : [
+          "réseau"
+        ],
+        "gender" : "masculine",
+        "note" : "The plural is réseaux, with -x; « un réseau qui remonte à 1952 » = a network dating back to 1952.",
+        "pos" : "noun",
+        "translation" : "network"
+      },
+      {
+        "forms" : [
+          "hémisphère"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine despite the -e ending: « une fois par hémisphère » = once for each half of the world. The h is silent.",
+        "pos" : "noun",
+        "translation" : "hemisphere"
+      },
+      {
+        "forms" : [
+          "soignants"
+        ],
+        "gender" : "masculine",
+        "note" : "From soigner (to care for); « les soignants » covers doctors, nurses and carers in one everyday word.",
+        "pos" : "noun",
+        "translation" : "health workers, carers"
+      },
+      {
+        "forms" : [
+          "seniors"
+        ],
+        "gender" : "masculine",
+        "note" : "An everyday word in France for people over about 60; the final s is silent: « sé-nior ».",
+        "pos" : "noun",
+        "translation" : "older people, seniors"
+      },
+      {
+        "forms" : [
+          "tout-petits"
+        ],
+        "gender" : "masculine",
+        "note" : "One hyphenated word: « les tout-petits » = babies and toddlers; tout stays the same in the plural.",
+        "pos" : "noun",
+        "translation" : "toddlers, very young children"
+      },
+      {
+        "forms" : [
+          "chroniques"
+        ],
+        "note" : "Plural of chronique; « les malades chroniques » = people with a long-term illness.",
+        "pos" : "adjective",
+        "translation" : "chronic, long-term"
+      },
+      {
+        "forms" : [
+          "lointain"
+        ],
+        "note" : "Stronger than loin and used before or after a noun: « un hiver encore lointain » = a winter still far away.",
+        "pos" : "adjective",
+        "translation" : "distant, far away"
+      },
+      {
+        "forms" : [
+          "ko"
+        ],
+        "note" : "Written KO and said « ka-o », from boxing: « la grippe te met KO » = flu knocks you flat, in everyday speech.",
+        "pos" : "adjective",
+        "translation" : "knocked out, wiped out (KO)"
+      },
+      {
+        "forms" : [
+          "tousse"
+        ],
+        "note" : "Tousser in the tu imperative, with no -s for an -er verb: « tousse dans ton coude » = cough into your elbow.",
+        "pos" : "verb",
+        "translation" : "cough (tu imperative); coughs"
+      },
+      {
+        "forms" : [
+          "touche"
+        ],
+        "note" : "Toucher in the tu imperative: « ne touche pas ton visage » = don't touch your face; « pas touche ! » is the spoken hands off!",
+        "pos" : "verb",
+        "translation" : "touch (tu imperative); touches"
+      },
+      {
+        "forms" : [
+          "lave-toi"
+        ],
+        "note" : "Se laver in the tu imperative, with toi after a hyphen: « lave-toi les mains » = wash your hands, with les, not tes.",
+        "pos" : "verb",
+        "translation" : "wash (yourself)"
+      },
+      {
+        "forms" : [
+          "sèche-les"
+        ],
+        "note" : "Sécher in the tu imperative, with the object les after a hyphen: « sèche-les » = dry them; the accent changes to è.",
+        "pos" : "verb",
+        "translation" : "dry them"
+      },
+      {
+        "forms" : [
+          "l'attrape"
+        ],
+        "note" : "Le + attrape (attraper, present), shortened before the vowel: « on l'attrape » = you catch it, people catch it.",
+        "pos" : "verb",
+        "translation" : "catch it"
+      },
+      {
+        "forms" : [
+          "réunis",
+          "réunissent"
+        ],
+        "note" : "Se réunir: « ils se réunissent » = they meet, present; « ils se sont réunis » = they met, passé composé with être and a plural -s.",
+        "pos" : "verb",
+        "translation" : "meet, gather; met"
+      },
+      {
+        "forms" : [
+          "remonte"
+        ],
+        "note" : "Remonter à + a date: « un réseau qui remonte à 1952 » = a network dating back to 1952.",
+        "pos" : "verb",
+        "translation" : "goes back, dates back"
       }
     ],
     "german" : [
@@ -72584,7 +73440,7 @@
           "berge"
         ],
         "gender" : "masculine",
-        "note" : "\"Berge\" is the plural.",
+        "note" : "\"Berge\" is the plural; „über den Berg sein“ = to be over the worst.",
         "pos" : "noun",
         "translation" : "mountain(s)"
       },
@@ -72679,10 +73535,11 @@
       },
       {
         "forms" : [
+          "bleib",
           "bleiben",
           "bleibt"
         ],
-        "note" : "\"Bleiben\" infinitive, \"bleibt\" er/sie/es form.",
+        "note" : "\"Bleiben\" infinitive, \"bleibt\" er/sie/es form; „stehen bleiben“ = to stop: „er bleibt stehen“ = he stops.",
         "pos" : "verb",
         "translation" : "to stay, remain"
       },
@@ -73324,9 +74181,9 @@
           "erster",
           "erstes"
         ],
-        "note" : "\"Erst\" alone can also mean \"only just.\"",
+        "note" : "\"Erst\" alone can also mean \"only just\", \"only\" or \"not until\": „erst seit 100 Jahren“ = only for 100 years.",
         "pos" : "adjective",
-        "translation" : "first, only just"
+        "translation" : "first; only (just), not until"
       },
       {
         "forms" : [
@@ -74106,8 +74963,15 @@
           "hatten",
           "hattest"
         ],
-        "note" : "Haben (to have), past tense.",
+        "note" : "Haben (to have), past tense. Separable: … an = anhaben, to have on, to wear; „hatte fast nichts an“ = had almost nothing on.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "an",
+            "translation" : "to have on, to wear",
+            "verb" : "anhaben"
+          }
+        ],
         "translation" : "had"
       },
       {
@@ -77166,9 +78030,9 @@
         "forms" : [
           "was"
         ],
-        "note" : "Used to ask about or refer to a thing.",
+        "note" : "Used to ask about or refer to a thing; in speech also short for „etwas“: „Ist sie was für dich?“ = is it something for you?",
         "pos" : "pronoun",
-        "translation" : "what"
+        "translation" : "what; (spoken) something"
       },
       {
         "forms" : [
@@ -77574,7 +78438,8 @@
       },
       {
         "forms" : [
-          "ältere"
+          "ältere",
+          "älteren"
         ],
         "note" : "Comparative of alt, case-inflected.",
         "pos" : "adjective",
@@ -79370,8 +80235,15 @@
         "forms" : [
           "hat"
         ],
-        "note" : "Present tense of haben.",
+        "note" : "Present tense of haben. Separable: … an = anhaben, to have on, to wear; „hat fast nichts an“ = has almost nothing on.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "an",
+            "translation" : "to have on, to wear",
+            "verb" : "anhaben"
+          }
+        ],
         "translation" : "has"
       },
       {
@@ -80258,12 +81130,13 @@
       },
       {
         "forms" : [
-          "probe"
+          "probe",
+          "proben"
         ],
         "gender" : "feminine",
-        "note" : "As in \"auf die Probe stellen\" (to put to the test).",
+        "note" : "As in \"auf die Probe stellen\" (to put to the test); also a sample sent to a lab: „Proben schicken“.",
         "pos" : "noun",
-        "translation" : "test, trial"
+        "translation" : "test, trial; sample"
       },
       {
         "forms" : [
@@ -80783,8 +81656,15 @@
           "steckt",
           "steckte"
         ],
-        "note" : "Present tense of stecken.",
+        "note" : "Present tense of stecken. Separable: … an = anstecken, to infect, to be catching; „Grippe steckt beim Husten an“ = flu spreads when people cough.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "an",
+            "translation" : "to infect, to be catching",
+            "verb" : "anstecken"
+          }
+        ],
         "translation" : "is (hidden) in, sticks"
       },
       {
@@ -80808,8 +81688,15 @@
           "stellen",
           "stellt"
         ],
-        "note" : "Infinitive of stellen.",
+        "note" : "Form of stellen (also the du-imperative: „stell!“). Separable: … vor = sich vorstellen, to imagine; „Stell dir vor“ = imagine.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "vor",
+            "translation" : "to imagine (sich vorstellen)",
+            "verb" : "vorstellen"
+          }
+        ],
         "translation" : "to put, place"
       },
       {
@@ -81454,6 +82341,7 @@
       {
         "forms" : [
           "warm",
+          "warmem",
           "warmen"
         ],
         "note" : "Case-inflected forms of warm.",
@@ -82831,7 +83719,8 @@
       {
         "forms" : [
           "licht",
-          "lichter"
+          "lichter",
+          "lichtern"
         ],
         "gender" : "neuter",
         "note" : "\"Im warmen Licht\" (in the warm light).",
@@ -88648,9 +89537,9 @@
           "wählst",
           "wählt"
         ],
-        "note" : "Infinitive.",
+        "note" : "Infinitive; „auswählen“ = to pick out, select.",
         "pos" : "verb",
-        "translation" : "to choose"
+        "translation" : "to choose; to vote"
       },
       {
         "forms" : [
@@ -90004,11 +90893,12 @@
       },
       {
         "forms" : [
+          "fass",
           "fassen"
         ],
-        "note" : "As in \"in Worte fassen.\"",
+        "note" : "As in \"in Worte fassen\" (to put into words); „fass dir nicht ins Gesicht“ = don't touch your face.",
         "pos" : "verb",
-        "translation" : "to put into words"
+        "translation" : "to take hold of, touch; to put into words"
       },
       {
         "forms" : [
@@ -90219,7 +91109,7 @@
         "forms" : [
           "gedrückt"
         ],
-        "note" : "Past participle of \"drücken.\"",
+        "note" : "Past participle of \"drücken\"; „in die Hand gedrückt“ = pressed into his hand, handed.",
         "pos" : "adjective",
         "translation" : "pressed"
       },
@@ -90279,11 +91169,19 @@
       {
         "forms" : [
           "gehören",
+          "gehörst",
           "gehört",
           "gehörte"
         ],
-        "note" : "Forms of \"gehören.\"",
+        "note" : "Forms of \"gehören.\" Separable: … dazu = dazugehören, to belong (to a group); „Gehörst du dazu?“ = are you one of them?",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "dazu",
+            "translation" : "to belong (to a group)",
+            "verb" : "dazugehören"
+          }
+        ],
         "translation" : "to belong; belongs; belonged"
       },
       {
@@ -90869,7 +91767,8 @@
       {
         "forms" : [
           "kalte",
-          "kalten"
+          "kalten",
+          "kalter"
         ],
         "note" : "Declined form of \"kalt.\"",
         "pos" : "adjective",
@@ -91142,7 +92041,8 @@
       },
       {
         "forms" : [
-          "lied"
+          "lied",
+          "lieder"
         ],
         "gender" : "neuter",
         "note" : "A piece of music with words.",
@@ -91910,6 +92810,7 @@
       },
       {
         "forms" : [
+          "schicken",
           "schickt"
         ],
         "note" : "From \"schicken.\"",
@@ -92917,9 +93818,9 @@
           "zieh",
           "ziehen"
         ],
-        "note" : "As in \"sich in den Fels ziehen.\"",
+        "note" : "As in \"sich in den Fels ziehen\"; „Kinder ziehen durch die Straßen“ = children march through the streets.",
         "pos" : "verb",
-        "translation" : "to pull, extend"
+        "translation" : "to pull, extend; to move, march (through)"
       },
       {
         "forms" : [
@@ -93481,6 +94382,7 @@
         "forms" : [
           "arm",
           "armen",
+          "armer",
           "armes",
           "ärmsten"
         ],
@@ -94072,7 +94974,7 @@
           "empfahl",
           "empfohlen"
         ],
-        "note" : "Preterite of empfehlen.",
+        "note" : "Empfahl is the preterite of empfehlen; empfohlen is the participle: „Empfohlen wird sie …“ = it is recommended …",
         "pos" : "verb",
         "translation" : "recommended"
       },
@@ -98033,7 +98935,8 @@
       },
       {
         "forms" : [
-          "labor"
+          "labor",
+          "labore"
         ],
         "gender" : "neuter",
         "note" : "Kurz für Laboratorium.",
@@ -109037,9 +109940,9 @@
         "forms" : [
           "ausgerechnet"
         ],
-        "note" : "Stresses that it was this time of all times: „ausgerechnet bei seinem 250. Grand Prix“.",
+        "note" : "Stresses that it was this one of all: „ausgerechnet bei seinem 250. Grand Prix“; „warum ausgerechnet Laternen?“ = why lanterns, of all things?",
         "pos" : "adverb",
-        "translation" : "of all (times)"
+        "translation" : "of all (times, things)"
       },
       {
         "forms" : [
@@ -110866,9 +111769,9 @@
         "forms" : [
           "geht's"
         ],
-        "note" : "Spoken short form of „geht es“: „Am 1. November geht's nach Mexiko-Stadt“ = on 1 November it's off to Mexico City.",
+        "note" : "Spoken short form of „geht es“: „Am 1. November geht's nach Mexiko-Stadt“ = on 1 November it's off to Mexico City; „dir geht's mies“ = you feel awful, „den meisten geht's besser“ = most people feel better.",
         "pos" : "verb",
-        "translation" : "it goes, it's off (to)"
+        "translation" : "it goes, it's off (to); (es geht dir …) you feel …"
       },
       {
         "forms" : [
@@ -114322,6 +115225,7 @@
       },
       {
         "forms" : [
+          "treffen",
           "trifft"
         ],
         "note" : "Treffen, er/sie/es form, with e → i: „wo Colombo auf den Ozean trifft“ = where Colombo meets the ocean.",
@@ -115283,6 +116187,536 @@
         "note" : "Partizip II of sich vorkämpfen (to fight one's way forward), with haben: „hat sich von Platz 21 auf zwei vorgekämpft“.",
         "pos" : "verb",
         "translation" : "fought his way forward"
+      },
+      {
+        "forms" : [
+          "1.700"
+        ],
+        "note" : "Said „siebzehnhundert“ or „eintausendsiebenhundert“: German writes the thousands with a dot, so „vor fast 1.700 Jahren“ = almost 1,700 years ago.",
+        "pos" : "number",
+        "translation" : "1,700"
+      },
+      {
+        "forms" : [
+          "371"
+        ],
+        "note" : "The year Martin became bishop of Tours, said „dreihunderteinundsiebzig“; a year needs no „im Jahr“: „371 ist er Bischof geworden“.",
+        "pos" : "number",
+        "translation" : "371"
+      },
+      {
+        "forms" : [
+          "397"
+        ],
+        "note" : "The year Martin died, said „dreihundertsiebenundneunzig“: „am 11. November 397“ = on 11 November 397.",
+        "pos" : "number",
+        "translation" : "397"
+      },
+      {
+        "forms" : [
+          "1900"
+        ],
+        "note" : "Said „neunzehnhundert“: German reads years in hundreds; „seit etwa 1900“ = since about 1900.",
+        "pos" : "number",
+        "translation" : "1900"
+      },
+      {
+        "forms" : [
+          "amiens"
+        ],
+        "note" : "A city in northern France, said the French way: „am Stadttor von Amiens“ = at the city gate of Amiens.",
+        "pos" : "other",
+        "translation" : "Amiens"
+      },
+      {
+        "forms" : [
+          "tours"
+        ],
+        "note" : "A city in western France, said the French way without the s: „Bischof von Tours“ = bishop of Tours.",
+        "pos" : "other",
+        "translation" : "Tours"
+      },
+      {
+        "forms" : [
+          "martin"
+        ],
+        "note" : "A man's name; the saint is called Sankt Martin in German, and his day is der Martinstag.",
+        "pos" : "other",
+        "translation" : "Martin"
+      },
+      {
+        "forms" : [
+          "jesus"
+        ],
+        "note" : "The name, said „Jesus“ with a German J like an English y: „von Jesus geträumt“ = dreamed of Jesus.",
+        "pos" : "other",
+        "translation" : "Jesus"
+      },
+      {
+        "forms" : [
+          "österreich"
+        ],
+        "note" : "The country, used without an article: „in Österreich“ = in Austria.",
+        "pos" : "other",
+        "translation" : "Austria"
+      },
+      {
+        "forms" : [
+          "schweiz"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Schweiz always takes the article, unlike most countries: „in der Schweiz“ = in Switzerland.",
+        "pos" : "noun",
+        "translation" : "Switzerland"
+      },
+      {
+        "forms" : [
+          "stadttor"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Stadttor = Stadt (town) + Tor (gate): old towns had walls, and you came in through a gate; „am Stadttor“ = at the city gate.",
+        "pos" : "noun",
+        "translation" : "city gate"
+      },
+      {
+        "forms" : [
+          "eiskalten"
+        ],
+        "note" : "Eiskalt = eis (ice) + kalt (cold), much stronger than kalt; -en after „einem“: „in einem eiskalten Winter“.",
+        "pos" : "adjective",
+        "translation" : "freezing, ice-cold"
+      },
+      {
+        "forms" : [
+          "bitterkalten"
+        ],
+        "note" : "Bitterkalt = bitter + kalt, as cold as it gets; -en after „einem“: „in einem bitterkalten Winter“.",
+        "pos" : "adjective",
+        "translation" : "bitterly cold"
+      },
+      {
+        "forms" : [
+          "römischer"
+        ],
+        "note" : "Römisch (from Rom, Rome) with -er after ein before a masculine noun: „ein junger römischer Soldat“ = a young Roman soldier.",
+        "pos" : "adjective",
+        "translation" : "Roman"
+      },
+      {
+        "forms" : [
+          "soldat"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Soldat, plural die Soldaten; like other jobs it takes no article after sein or werden: „er ist Soldat“.",
+        "pos" : "noun",
+        "translation" : "soldier"
+      },
+      {
+        "forms" : [
+          "mantel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Mantel is any long coat; in the Martin story it is his soldier's cloak, and „den Mantel teilen“ is the picture every German child knows.",
+        "pos" : "noun",
+        "translation" : "coat, cloak"
+      },
+      {
+        "forms" : [
+          "mantelhälfte"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Mantelhälfte = Mantel + Hälfte; the compound takes the gender of its last part, die Hälfte.",
+        "pos" : "noun",
+        "translation" : "half of the cloak"
+      },
+      {
+        "forms" : [
+          "schwert"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Schwert, plural die Schwerter: „mit seinem Schwert“ = with his sword.",
+        "pos" : "noun",
+        "translation" : "sword"
+      },
+      {
+        "forms" : [
+          "lachen"
+        ],
+        "note" : "Lachen = to laugh; „ein paar Leute lachen“ = a few people laugh, the plural form looks like the infinitive.",
+        "pos" : "verb",
+        "translation" : "to laugh; (they) laugh"
+      },
+      {
+        "forms" : [
+          "bischof"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Bischof leads the church in a city or region; no article after werden: „Martin wird Bischof von Tours“.",
+        "pos" : "noun",
+        "translation" : "bishop"
+      },
+      {
+        "forms" : [
+          "begraben",
+          "begräbt"
+        ],
+        "note" : "Begraben = to bury, with an umlaut in „man begräbt“; the past participle looks like the infinitive: „hat man ihn begraben“, „ist begraben worden“.",
+        "pos" : "verb",
+        "translation" : "to bury; buried"
+      },
+      {
+        "forms" : [
+          "martinstag"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Martinstag = Martin + s + Tag, on 11 November, the day Martin was buried; the s glues the two words together.",
+        "pos" : "noun",
+        "translation" : "St. Martin's Day"
+      },
+      {
+        "forms" : [
+          "laterne",
+          "laternen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Laterne, plural die Laternen; on Martinstag children carry paper lanterns with a small light inside on a stick.",
+        "pos" : "noun",
+        "translation" : "lantern"
+      },
+      {
+        "forms" : [
+          "laternenumzug",
+          "laternenumzüge"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Laternenumzug = Laternen + Umzug, plural die Laternenumzüge: children walk through the streets with lanterns on St. Martin's Day; also called Martinsumzug or Martinszug.",
+        "pos" : "noun",
+        "translation" : "lantern procession"
+      },
+      {
+        "forms" : [
+          "umzug",
+          "umzüge"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Umzug, plural die Umzüge, is a procession through the streets (Laternenumzug, Karnevalsumzug); the same word also means moving house.",
+        "pos" : "noun",
+        "translation" : "procession, parade"
+      },
+      {
+        "forms" : [
+          "geträumt"
+        ],
+        "note" : "Partizip II of träumen; you dream „von“ someone or something: „er hat von Jesus geträumt“ = he dreamed of Jesus.",
+        "pos" : "verb",
+        "translation" : "dreamed"
+      },
+      {
+        "forms" : [
+          "anhatte"
+        ],
+        "note" : "Anhaben (to have on, to wear), past tense; at the end of a clause the particle joins the verb again: „der fast nichts anhatte“ = who had almost nothing on.",
+        "pos" : "verb",
+        "translation" : "had on, was wearing"
+      },
+      {
+        "forms" : [
+          "vorbeigelaufen"
+        ],
+        "note" : "Partizip II of vorbeilaufen with sein: „sind an ihm vorbeigelaufen“ = walked past him; in everyday German laufen often just means to walk.",
+        "pos" : "verb",
+        "translation" : "walked past"
+      },
+      {
+        "forms" : [
+          "schaukelnde"
+        ],
+        "note" : "Schaukeln (to swing) + d makes a present participle, used like an adjective: „eine schaukelnde Laterne“ = a swinging lantern.",
+        "pos" : "adjective",
+        "translation" : "swinging, swaying"
+      },
+      {
+        "forms" : [
+          "martinsfeuer"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Martinsfeuer is the big fire that often ends the lantern walk on 11 November.",
+        "pos" : "noun",
+        "translation" : "St. Martin's bonfire"
+      },
+      {
+        "forms" : [
+          "grippe"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Grippe (influenza); in everyday talk the article often drops: „Grippe macht richtig krank“ = flu makes you really ill.",
+        "pos" : "noun",
+        "translation" : "flu"
+      },
+      {
+        "forms" : [
+          "grippezeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Grippe + Zeit: „Es ist November, also ist Grippezeit“ = it's November, so it's flu season.",
+        "pos" : "noun",
+        "translation" : "flu season"
+      },
+      {
+        "forms" : [
+          "grippeexperten"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Grippeexperte (Grippe + Experte); masculine nouns in -e add -n in every form except the nominative singular.",
+        "pos" : "noun",
+        "translation" : "flu experts"
+      },
+      {
+        "forms" : [
+          "experten"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Experte; masculine nouns in -e add -n: „die Experten“ = the experts.",
+        "pos" : "noun",
+        "translation" : "experts"
+      },
+      {
+        "forms" : [
+          "istanbul"
+        ],
+        "gender" : "neuter",
+        "note" : "The largest city in Türkiye; German uses the same name: „in Istanbul“.",
+        "pos" : "noun",
+        "translation" : "Istanbul"
+      },
+      {
+        "forms" : [
+          "grippevirus"
+        ],
+        "gender" : "neuter",
+        "note" : "Grippe + Virus: das Grippevirus; doctors say das Virus, in everyday talk you also hear der Virus.",
+        "pos" : "noun",
+        "translation" : "flu virus"
+      },
+      {
+        "forms" : [
+          "huste"
+        ],
+        "note" : "Du imperative of husten (to cough): „Huste in die Armbeuge“ = cough into your elbow.",
+        "pos" : "verb",
+        "translation" : "cough (imperative)"
+      },
+      {
+        "forms" : [
+          "husten"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Husten is the cough itself („der Husten bleibt“); „beim Husten“ uses the verb as a noun = when you cough.",
+        "pos" : "noun",
+        "translation" : "cough; coughing"
+      },
+      {
+        "forms" : [
+          "niesen"
+        ],
+        "gender" : "neuter",
+        "note" : "The verb niesen (to sneeze) used as a noun, das Niesen: „beim Niesen“ = when you sneeze.",
+        "pos" : "noun",
+        "translation" : "sneezing"
+      },
+      {
+        "forms" : [
+          "seife"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Seife: „mit warmem Wasser und Seife“ = with warm water and soap.",
+        "pos" : "noun",
+        "translation" : "soap"
+      },
+      {
+        "forms" : [
+          "seifenwasser"
+        ],
+        "gender" : "neuter",
+        "note" : "Seife + n + Wasser: „mit warmem Seifenwasser“ = in warm, soapy water.",
+        "pos" : "noun",
+        "translation" : "soapy water"
+      },
+      {
+        "forms" : [
+          "armbeuge"
+        ],
+        "gender" : "feminine",
+        "note" : "„In die Armbeuge husten“ is how German says cough into your elbow.",
+        "pos" : "noun",
+        "translation" : "crook of the arm, inside of the elbow"
+      },
+      {
+        "forms" : [
+          "apotheke"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Apotheke; „frag deine Apotheke“ = ask at your pharmacy, i.e. ask the pharmacist.",
+        "pos" : "noun",
+        "translation" : "pharmacy"
+      },
+      {
+        "forms" : [
+          "ausgewählt"
+        ],
+        "note" : "Partizip II of auswählen (to choose, select), with ge- between the two parts: „haben … ausgewählt“ = chose.",
+        "pos" : "verb",
+        "translation" : "chosen, picked"
+      },
+      {
+        "forms" : [
+          "auswählen"
+        ],
+        "note" : "Auswählen, separable; after a modal it stays in one piece at the end: „Also mussten sie einen neuen Impfstoff auswählen“ = so they had to choose a new vaccine.",
+        "pos" : "verb",
+        "translation" : "to choose, select"
+      },
+      {
+        "forms" : [
+          "erdhälfte"
+        ],
+        "gender" : "feminine",
+        "note" : "Erde + Hälfte: „einmal pro Erdhälfte“ = once for each half of the world, north and south.",
+        "pos" : "noun",
+        "translation" : "half of the world, hemisphere"
+      },
+      {
+        "forms" : [
+          "136"
+        ],
+        "note" : "Said hundertsechsunddreißig: „in 136 Ländern“ = in 136 countries.",
+        "pos" : "number",
+        "translation" : "136"
+      },
+      {
+        "forms" : [
+          "laufend"
+        ],
+        "note" : "From laufen (to run): „schicken laufend Proben“ = keep sending samples, all year round.",
+        "pos" : "adverb",
+        "translation" : "all the time, continuously"
+      },
+      {
+        "forms" : [
+          "mies"
+        ],
+        "note" : "Colloquial: „dir geht's richtig mies“ = you feel really awful.",
+        "pos" : "adjective",
+        "translation" : "lousy, awful"
+      },
+      {
+        "forms" : [
+          "trockne"
+        ],
+        "note" : "Du imperative of trocknen (to dry). Separable: … ab = abtrocknen, to dry (off); „trockne sie ab“ = dry them.",
+        "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "ab",
+            "translation" : "to dry (off)",
+            "verb" : "abtrocknen"
+          }
+        ],
+        "translation" : "dry (imperative)"
+      },
+      {
+        "forms" : [
+          "taschentuch"
+        ],
+        "gender" : "neuter",
+        "note" : "Tasche (pocket) + Tuch (cloth): today usually a paper tissue.",
+        "pos" : "noun",
+        "translation" : "tissue, handkerchief"
+      },
+      {
+        "forms" : [
+          "sofa"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Sofa: „Ab aufs Sofa“ = off to the sofa.",
+        "pos" : "noun",
+        "translation" : "sofa"
+      },
+      {
+        "forms" : [
+          "medizinischem"
+        ],
+        "note" : "Medizinisch with -em in the dative before a neuter noun: „medizinischem Personal“ = (to) medical staff, i.e. health workers.",
+        "pos" : "adjective",
+        "translation" : "medical"
+      },
+      {
+        "forms" : [
+          "personal"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Personal is a collective noun with no plural, like staff: „medizinisches Personal“ = health workers.",
+        "pos" : "noun",
+        "translation" : "staff"
+      },
+      {
+        "forms" : [
+          "chronisch"
+        ],
+        "note" : "„Chronisch Kranke“ = people with a chronic, long-term illness.",
+        "pos" : "adverb",
+        "translation" : "chronically, chronic"
+      },
+      {
+        "forms" : [
+          "166"
+        ],
+        "note" : "Said hundertsechsundsechzig: „166 Institute“ = 166 institutions.",
+        "pos" : "number",
+        "translation" : "166"
+      },
+      {
+        "forms" : [
+          "institute"
+        ],
+        "gender" : "neuter",
+        "note" : "Plural of das Institut: „166 Institute in 136 Ländern“.",
+        "pos" : "noun",
+        "translation" : "institutes, institutions"
+      },
+      {
+        "forms" : [
+          "netz"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Netz: „ein Netz, das es seit 1952 gibt“ = a network that has existed since 1952.",
+        "pos" : "noun",
+        "translation" : "net, network"
+      },
+      {
+        "forms" : [
+          "halbkugel"
+        ],
+        "gender" : "feminine",
+        "note" : "Halb + Kugel (ball): „einmal pro Halbkugel“ = once per hemisphere, the northern and the southern half of the earth.",
+        "pos" : "noun",
+        "translation" : "hemisphere"
+      },
+      {
+        "forms" : [
+          "heiterem"
+        ],
+        "note" : "„Aus heiterem Himmel“ = out of the blue (literally, out of a clear sky).",
+        "pos" : "adjective",
+        "translation" : "clear, bright"
+      },
+      {
+        "forms" : [
+          "wegwirfst"
+        ],
+        "note" : "Wegwerfen, the du form; at the end of a clause the particle stays joined: „ein Taschentuch, das du wegwirfst“ = a tissue you throw away.",
+        "pos" : "verb",
+        "translation" : "throw away"
       }
     ],
     "italian" : [
@@ -116490,6 +117924,7 @@
         "forms" : [
           "aver",
           "avere",
+          "averlo",
           "averne"
         ],
         "note" : "\"Aver\" is the truncated form used before a consonant.",
@@ -121225,9 +122660,9 @@
           "lavarsi",
           "lavati"
         ],
-        "note" : "Infinitive of lavare.",
+        "note" : "Forms of lavare / lavarsi: lavano = they wash; lavati = wash (yourself)! (tu imperative): «lavati le mani» = wash your hands.",
         "pos" : "verb",
-        "translation" : "to wash"
+        "translation" : "to wash; wash (yourself)!"
       },
       {
         "forms" : [
@@ -123293,9 +124728,9 @@
         "forms" : [
           "porta"
         ],
-        "note" : "Porta as noun \"door,\" or verb form of portare.",
+        "note" : "Porta as noun \"door\" (\"la porta della città\" = the city gate), or verb form of portare.",
         "pos" : "other",
-        "translation" : "door / brings"
+        "translation" : "door, gate / brings"
       },
       {
         "forms" : [
@@ -124282,9 +125717,9 @@
           "restava",
           "restavano"
         ],
-        "note" : "From restare.",
+        "note" : "From restare: resta = (he/she) stays; also the tu imperative «resta a casa» = stay at home.",
         "pos" : "verb",
-        "translation" : "remains"
+        "translation" : "remains, stays; stay!"
       },
       {
         "forms" : [
@@ -126280,9 +127715,9 @@
           "tagliarlo",
           "tagliato"
         ],
-        "note" : "From tagliare.",
+        "note" : "From tagliare: taglia = cuts, tagliato = cut (past participle).",
         "pos" : "verb",
-        "translation" : "cuts"
+        "translation" : "cuts; cut"
       },
       {
         "forms" : [
@@ -128045,7 +129480,8 @@
       },
       {
         "forms" : [
-          "canzone"
+          "canzone",
+          "canzoni"
         ],
         "gender" : "feminine",
         "note" : "A piece of music with words.",
@@ -128748,7 +130184,8 @@
       },
       {
         "forms" : [
-          "dritta"
+          "dritta",
+          "dritto"
         ],
         "note" : "Feminine of \"dritto.\"",
         "pos" : "adjective",
@@ -129668,7 +131105,8 @@
       },
       {
         "forms" : [
-          "manda"
+          "manda",
+          "mandano"
         ],
         "note" : "From \"mandare.\"",
         "pos" : "verb",
@@ -129795,9 +131233,9 @@
         "forms" : [
           "mette"
         ],
-        "note" : "From \"mettere.\"",
+        "note" : "From \"mettere\"; «ci mette due settimane» = it takes two weeks.",
         "pos" : "verb",
-        "translation" : "puts"
+        "translation" : "puts; (metterci) takes (time)"
       },
       {
         "forms" : [
@@ -130562,7 +132000,7 @@
           "protetto",
           "protezione"
         ],
-        "note" : "Noun form is feminine.",
+        "note" : "Noun form (protezione) is feminine: «la protezione migliore» = the best protection.",
         "pos" : "verb",
         "translation" : "protects; protective; protected; protection"
       },
@@ -130767,7 +132205,9 @@
       {
         "forms" : [
           "ride",
-          "ridere"
+          "ridere",
+          "rideva",
+          "ridevano"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -133784,6 +135224,7 @@
       },
       {
         "forms" : [
+          "pigri",
           "pigro"
         ],
         "note" : "Masculine singular of pigro.",
@@ -133805,9 +135246,9 @@
           "poveri",
           "povero"
         ],
-        "note" : "As in 'non era povero,' he wasn't poor.",
+        "note" : "As in 'non era povero,' he wasn't poor; \"un povero\" = a poor man.",
         "pos" : "adjective",
-        "translation" : "poor"
+        "translation" : "poor; a poor man"
       },
       {
         "forms" : [
@@ -134340,6 +135781,7 @@
           "conosceva",
           "conoscevano",
           "conosci",
+          "conosciamo",
           "conosco",
           "conoscono"
         ],
@@ -134557,9 +135999,9 @@
         "forms" : [
           "festa"
         ],
-        "note" : "As in 'fatto festa,' to celebrate.",
-        "pos" : "verb",
-        "translation" : "celebrated"
+        "note" : "\"La sua festa\" = his (saint's) day; \"fare festa\" = to celebrate.",
+        "pos" : "noun",
+        "translation" : "party, celebration; (saint's) feast day"
       },
       {
         "forms" : [
@@ -134631,9 +136073,9 @@
           "giravano",
           "girò"
         ],
-        "note" : "From girare.",
+        "note" : "From girare; \"girano per le strade\" = they go around the streets.",
         "pos" : "verb",
-        "translation" : "turns, to turn"
+        "translation" : "turns, to turn; to go around"
       },
       {
         "forms" : [
@@ -135328,9 +136770,9 @@
           "tirato",
           "tirava"
         ],
-        "note" : "From tirare.",
+        "note" : "From tirare; \"tirare dritto\" = to keep going, walk straight past.",
         "pos" : "verb",
-        "translation" : "pulled, was pulling"
+        "translation" : "pulled, was pulling; (tirare dritto) kept going"
       },
       {
         "forms" : [
@@ -135368,6 +136810,7 @@
       },
       {
         "forms" : [
+          "escono",
           "uscire",
           "uscita",
           "uscito",
@@ -135770,7 +137213,8 @@
         "forms" : [
           "butta",
           "buttato",
-          "buttavano"
+          "buttavano",
+          "butti"
         ],
         "note" : "«Buttare via» = to throw away.",
         "pos" : "verb",
@@ -136537,6 +137981,7 @@
       },
       {
         "forms" : [
+          "laboratori",
           "laboratorio"
         ],
         "gender" : "masculine",
@@ -136967,9 +138412,9 @@
           "rimette",
           "rimise"
         ],
-        "note" : "«Rimise il libro nella borsa».",
+        "note" : "«Rimise il libro nella borsa»; «si rimette in piedi» = gets back on their feet, recovers.",
         "pos" : "verb",
-        "translation" : "puts back; put back"
+        "translation" : "puts back; put back; (rimettersi) recovers"
       },
       {
         "forms" : [
@@ -137380,9 +138825,9 @@
           "trasmettere",
           "trasmettono"
         ],
-        "note" : "Presente.",
+        "note" : "Presente: trasmette = transmits; «si trasmette» = it spreads (from person to person).",
         "pos" : "verb",
-        "translation" : "transmit (they)"
+        "translation" : "transmit; (trasmettersi) to spread"
       },
       {
         "forms" : [
@@ -139271,6 +140716,7 @@
       {
         "forms" : [
           "indossato",
+          "indossava",
           "indossò"
         ],
         "note" : "Indossare = to wear (clothes, a pad): ha indossato is the passato prossimo, indossò the passato remoto of written narration.",
@@ -139729,7 +141175,8 @@
       },
       {
         "forms" : [
-          "vergognava"
+          "vergognava",
+          "vergognavano"
         ],
         "note" : "Imperfetto of vergognarsi (reflexive), to feel shame; se ne vergognava = she was ashamed of it. The noun is la vergogna.",
         "pos" : "verb",
@@ -139811,7 +141258,7 @@
           "cani"
         ],
         "gender" : "masculine",
-        "note" : "Plurale: cane, cani; \"cane\" è maschile e il plurale cambia la vocale finale.",
+        "note" : "Plurale: cane, cani; \"cane\" è maschile e il plurale cambia la vocale finale. «Stare da cani» = to feel awful.",
         "pos" : "noun",
         "translation" : "dog"
       },
@@ -141024,12 +142471,13 @@
       {
         "forms" : [
           "guarire",
+          "guarisce",
           "guarito",
           "guarì"
         ],
-        "note" : "From guarire, to cure: ha guarito (passato prossimo), guarì (passato remoto, lui/lei).",
+        "note" : "From guarire, to cure, or (with no object) to get better, recover: ha guarito (passato prossimo), guarì (passato remoto, lui/lei).",
         "pos" : "verb",
-        "translation" : "cured, healed"
+        "translation" : "cured, healed; to get better"
       },
       {
         "forms" : [
@@ -143028,9 +144476,9 @@
           "reti"
         ],
         "gender" : "feminine",
-        "note" : "The net, and in football the goal that ends in it: andare in rete = to score; the plural is reti.",
+        "note" : "The net, and in football the goal that ends in it: andare in rete = to score; also a network (una rete di laboratori); the plural is reti.",
         "pos" : "noun",
-        "translation" : "goal; net"
+        "translation" : "goal; net; network"
       },
       {
         "forms" : [
@@ -150455,7 +151903,8 @@
       },
       {
         "forms" : [
-          "brilla"
+          "brilla",
+          "brillano"
         ],
         "note" : "Present of brillare: « brilla di mosaico » = it shines with mosaic (brillare di + noun).",
         "pos" : "verb",
@@ -151956,6 +153405,439 @@
         "note" : "The opposite of bagnato (wet); in racing talk, asciutto a metà = dry in the middle of the race.",
         "pos" : "adjective",
         "translation" : "dry"
+      },
+      {
+        "forms" : [
+          "1.700"
+        ],
+        "note" : "Millesettecento; Italian marks thousands with a full stop: quasi 1.700 anni fa = almost 1,700 years ago.",
+        "pos" : "number",
+        "translation" : "1,700"
+      },
+      {
+        "forms" : [
+          "371"
+        ],
+        "note" : "Trecentosettantuno; years take the article: nel 371 = in 371.",
+        "pos" : "number",
+        "translation" : "371"
+      },
+      {
+        "forms" : [
+          "397"
+        ],
+        "note" : "Trecentonovantasette; nel 397 = in 397, l'11 novembre 397 = on 11 November 397.",
+        "pos" : "number",
+        "translation" : "397"
+      },
+      {
+        "forms" : [
+          "1900"
+        ],
+        "note" : "Millenovecento; intorno al 1900 = around 1900, with the article al before a year.",
+        "pos" : "number",
+        "translation" : "1900"
+      },
+      {
+        "forms" : [
+          "amiens"
+        ],
+        "gender" : "feminine",
+        "note" : "A city in northern France, said «ami-àn»; ad Amiens = in Amiens, with ad before the vowel.",
+        "pos" : "noun",
+        "translation" : "Amiens"
+      },
+      {
+        "forms" : [
+          "tours"
+        ],
+        "gender" : "feminine",
+        "note" : "A city on the Loire in France, said «tur»; vescovo di Tours = bishop of Tours.",
+        "pos" : "noun",
+        "translation" : "Tours"
+      },
+      {
+        "forms" : [
+          "martino"
+        ],
+        "gender" : "masculine",
+        "note" : "The Italian form of Martin; the saint is san Martino, and his day is la festa di San Martino.",
+        "pos" : "noun",
+        "translation" : "Martin"
+      },
+      {
+        "forms" : [
+          "gesù"
+        ],
+        "gender" : "masculine",
+        "note" : "Gesù, with the accent on the last syllable; it takes no article.",
+        "pos" : "noun",
+        "translation" : "Jesus"
+      },
+      {
+        "forms" : [
+          "austria"
+        ],
+        "gender" : "feminine",
+        "note" : "The country; in Austria = in Austria, with no article after in.",
+        "pos" : "noun",
+        "translation" : "Austria"
+      },
+      {
+        "forms" : [
+          "svizzera"
+        ],
+        "gender" : "feminine",
+        "note" : "The country, la Svizzera; in Svizzera = in Switzerland, with no article after in.",
+        "pos" : "noun",
+        "translation" : "Switzerland"
+      },
+      {
+        "forms" : [
+          "soldato"
+        ],
+        "gender" : "masculine",
+        "note" : "Un soldato romano = a Roman soldier; plural soldati.",
+        "pos" : "noun",
+        "translation" : "soldier"
+      },
+      {
+        "forms" : [
+          "mantello"
+        ],
+        "gender" : "masculine",
+        "note" : "A long loose coat with no sleeves, worn over the shoulders; mezzo mantello = half a cloak.",
+        "pos" : "noun",
+        "translation" : "cloak"
+      },
+      {
+        "forms" : [
+          "spada"
+        ],
+        "gender" : "feminine",
+        "note" : "La spada; con la spada = with his sword, where Italian uses the article instead of his.",
+        "pos" : "noun",
+        "translation" : "sword"
+      },
+      {
+        "forms" : [
+          "vescovo"
+        ],
+        "gender" : "masculine",
+        "note" : "A bishop of the church; no article when saying what someone becomes: è diventato vescovo.",
+        "pos" : "noun",
+        "translation" : "bishop"
+      },
+      {
+        "forms" : [
+          "lanterna",
+          "lanterne"
+        ],
+        "gender" : "feminine",
+        "note" : "A light in a holder you carry, here made of paper; plural le lanterne.",
+        "pos" : "noun",
+        "translation" : "lantern"
+      },
+      {
+        "forms" : [
+          "sfilata"
+        ],
+        "gender" : "feminine",
+        "note" : "From sfilare, to walk past in a line; la sfilata delle lanterne = the lantern walk.",
+        "pos" : "noun",
+        "translation" : "procession, parade"
+      },
+      {
+        "forms" : [
+          "centinaio"
+        ],
+        "gender" : "masculine",
+        "note" : "Un centinaio di = about a hundred, a round number people say; the plural is irregular, le centinaia (hundreds).",
+        "pos" : "noun",
+        "translation" : "about a hundred"
+      },
+      {
+        "forms" : [
+          "falò"
+        ],
+        "gender" : "masculine",
+        "note" : "A big fire lit outdoors; invariable, il falò, i falò.",
+        "pos" : "noun",
+        "translation" : "bonfire"
+      },
+      {
+        "forms" : [
+          "lupi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of lupo; un inverno da lupi = a bitterly cold winter, literally a winter for wolves.",
+        "pos" : "noun",
+        "translation" : "wolves"
+      },
+      {
+        "forms" : [
+          "durissimo"
+        ],
+        "note" : "Duro + -issimo, the ending that means very: un inverno durissimo = a really hard winter.",
+        "pos" : "adjective",
+        "translation" : "very hard, very harsh"
+      },
+      {
+        "forms" : [
+          "gelido"
+        ],
+        "note" : "From gelo, frost: un inverno gelido = a freezing winter.",
+        "pos" : "adjective",
+        "translation" : "freezing, icy"
+      },
+      {
+        "forms" : [
+          "sepolto",
+          "seppelliscono"
+        ],
+        "note" : "From seppellire: lo seppelliscono = they bury him; the past participle is irregular, sepolto (è stato sepolto = he was buried).",
+        "pos" : "verb",
+        "translation" : "to bury; buried"
+      },
+      {
+        "forms" : [
+          "sfoderato"
+        ],
+        "note" : "Past participle of sfoderare, to pull a sword out of its sheath: ha sfoderato la spada = he drew his sword.",
+        "pos" : "verb",
+        "translation" : "drew (a sword)"
+      },
+      {
+        "forms" : [
+          "dondola"
+        ],
+        "note" : "From dondolare, to swing gently back and forth: una lanterna che ti dondola in mano = a lantern swinging in your hand.",
+        "pos" : "verb",
+        "translation" : "swings"
+      },
+      {
+        "forms" : [
+          "indosso"
+        ],
+        "note" : "Con indosso = wearing: Gesù con indosso quella metà = Jesus wearing that half.",
+        "pos" : "adverb",
+        "translation" : "on (wearing)"
+      },
+      {
+        "forms" : [
+          "tiravano"
+        ],
+        "note" : "Imperfetto, they form of tirare (to pull); tirare dritto = to walk straight on without stopping: tutti tiravano dritto = everybody walked straight past.",
+        "pos" : "verb",
+        "translation" : "kept going (tirare dritto)"
+      },
+      {
+        "forms" : [
+          "136"
+        ],
+        "note" : "Centotrentasei; laboratori di 136 paesi = labs in 136 countries.",
+        "pos" : "number",
+        "translation" : "136"
+      },
+      {
+        "forms" : [
+          "166"
+        ],
+        "note" : "Centosessantasei; da 166 istituti = from 166 institutions.",
+        "pos" : "number",
+        "translation" : "166"
+      },
+      {
+        "forms" : [
+          "istanbul"
+        ],
+        "gender" : "feminine",
+        "note" : "The largest city in Türkiye, written the same in Italian; a Istanbul = in Istanbul, with a before a city.",
+        "pos" : "noun",
+        "translation" : "Istanbul"
+      },
+      {
+        "forms" : [
+          "dell'influenza",
+          "l'influenza"
+        ],
+        "gender" : "feminine",
+        "note" : "La + influenza, the article shortened before the vowel; la stagione dell'influenza (di + l') = flu season.",
+        "pos" : "noun",
+        "translation" : "flu, influenza"
+      },
+      {
+        "forms" : [
+          "quest'inverno"
+        ],
+        "note" : "Questo + inverno, shortened before the vowel the way people say it: il vaccino di quest'inverno = this winter's vaccine.",
+        "pos" : "other",
+        "translation" : "this winter"
+      },
+      {
+        "forms" : [
+          "pigrizia"
+        ],
+        "gender" : "feminine",
+        "note" : "From pigro (lazy): sembra pigrizia = it looks like laziness, it feels lazy.",
+        "pos" : "noun",
+        "translation" : "laziness"
+      },
+      {
+        "forms" : [
+          "tosse"
+        ],
+        "gender" : "feminine",
+        "note" : "La tosse, the noun; the verb is tossire (tossisci = cough!).",
+        "pos" : "noun",
+        "translation" : "cough"
+      },
+      {
+        "forms" : [
+          "tossisci"
+        ],
+        "note" : "Tu imperative of tossire, an -isc- verb like finire: tossisci nel gomito = cough into your elbow.",
+        "pos" : "verb",
+        "translation" : "cough!"
+      },
+      {
+        "forms" : [
+          "gomito"
+        ],
+        "gender" : "masculine",
+        "note" : "Il gomito; nel gomito (in + il) = into your elbow, where Italian uses the article instead of your.",
+        "pos" : "noun",
+        "translation" : "elbow"
+      },
+      {
+        "forms" : [
+          "sapone"
+        ],
+        "gender" : "masculine",
+        "note" : "Il sapone; acqua calda e sapone = warm water and soap, with no article in the pair.",
+        "pos" : "noun",
+        "translation" : "soap"
+      },
+      {
+        "forms" : [
+          "toccarti"
+        ],
+        "note" : "Toccare + ti, the infinitive with the pronoun on the end: non toccarti la faccia = don't touch your face; the negative tu imperative is non + infinitive.",
+        "pos" : "verb",
+        "translation" : "touch (yourself); non toccarti = don't touch"
+      },
+      {
+        "forms" : [
+          "farmacista"
+        ],
+        "gender" : "masculine",
+        "note" : "The same word for a man or a woman: il farmacista, la farmacista; al farmacista = to the pharmacist (a + il).",
+        "pos" : "noun",
+        "translation" : "pharmacist"
+      },
+      {
+        "forms" : [
+          "campioni"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of il campione in its sense of a sample sent to a lab; the same word also means a champion.",
+        "pos" : "noun",
+        "translation" : "samples"
+      },
+      {
+        "forms" : [
+          "riuniscono",
+          "riuniti"
+        ],
+        "note" : "From riunirsi, to meet, to get together, an -isc- verb: si riuniscono = they meet; si sono riuniti = they met, with essere because the verb is reflexive.",
+        "pos" : "verb",
+        "translation" : "met, meet (riunirsi)"
+      },
+      {
+        "forms" : [
+          "starnuti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of lo starnuto (a sneeze); the verb is starnutire.",
+        "pos" : "noun",
+        "translation" : "sneezes"
+      },
+      {
+        "forms" : [
+          "asciugale"
+        ],
+        "note" : "Asciuga (tu imperative of asciugare, to dry) + le (them, the hands): asciugale bene = dry them well.",
+        "pos" : "verb",
+        "translation" : "dry them!"
+      },
+      {
+        "forms" : [
+          "fazzoletto"
+        ],
+        "gender" : "masculine",
+        "note" : "Il fazzoletto is a handkerchief or, today mostly, a paper tissue (fazzoletto di carta).",
+        "pos" : "noun",
+        "translation" : "tissue, handkerchief"
+      },
+      {
+        "forms" : [
+          "divano"
+        ],
+        "gender" : "masculine",
+        "note" : "Il divano; resta sul divano (su + il) = stay on the sofa.",
+        "pos" : "noun",
+        "translation" : "sofa"
+      },
+      {
+        "forms" : [
+          "consigliano",
+          "consigliato"
+        ],
+        "note" : "From consigliare (to advise, to recommend): lo consigliano = they recommend it, with an impersonal they; è consigliato = it is recommended.",
+        "pos" : "verb",
+        "translation" : "to recommend"
+      },
+      {
+        "forms" : [
+          "cronica"
+        ],
+        "note" : "Feminine of cronico, agreeing with malattia: una malattia cronica = a long-term illness.",
+        "pos" : "adjective",
+        "translation" : "chronic, long-term"
+      },
+      {
+        "forms" : [
+          "sanitari"
+        ],
+        "note" : "Masculine plural of sanitario (to do with health care): gli operatori sanitari = health workers.",
+        "pos" : "adjective",
+        "translation" : "health (care)"
+      },
+      {
+        "forms" : [
+          "emisfero"
+        ],
+        "gender" : "masculine",
+        "note" : "Half of the Earth, north or south: una per emisfero = one for each hemisphere.",
+        "pos" : "noun",
+        "translation" : "hemisphere"
+      },
+      {
+        "forms" : [
+          "istituti"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of l'istituto, here research centres and labs: da 166 istituti = from 166 institutions.",
+        "pos" : "noun",
+        "translation" : "institutions, institutes"
+      },
+      {
+        "forms" : [
+          "trascina"
+        ],
+        "note" : "Present of trascinare (to drag); trascinarsi = to drag on: la tosse si trascina = the cough lingers.",
+        "pos" : "verb",
+        "translation" : "drags on"
       }
     ],
     "spanish" : [
@@ -153421,9 +155303,9 @@
           "dudan",
           "dudas"
         ],
-        "note" : "Forms of dudar across persons and tenses.",
+        "note" : "Forms of dudar across persons and tenses; «dudas» is also the noun: «¿tienes dudas?» = are you unsure?",
         "pos" : "verb",
-        "translation" : "to doubt"
+        "translation" : "to doubt; doubts"
       },
       {
         "forms" : [
@@ -153579,7 +155461,8 @@
       },
       {
         "forms" : [
-          "encuentra"
+          "encuentra",
+          "encuentras"
         ],
         "note" : "Encontrar (to find), \"él/ella\" form. \"Se encuentra\" = is (somewhere); \"se encuentra con\" = meets, comes across.",
         "pos" : "verb",
@@ -154418,7 +156301,7 @@
           "larga",
           "largo"
         ],
-        "note" : "\"Larga\" (fem.) / \"largo\" (masc.).",
+        "note" : "\"Larga\" (fem.) / \"largo\" (masc.); \"pasar de largo\" = to walk straight past.",
         "pos" : "adjective",
         "translation" : "long"
       },
@@ -154438,7 +156321,8 @@
           "lavan",
           "lavar",
           "lavarse",
-          "lavó"
+          "lavó",
+          "lávate"
         ],
         "note" : "Infinitive of lavar.",
         "pos" : "verb",
@@ -154541,6 +156425,7 @@
         "forms" : [
           "llenaban",
           "llenan",
+          "llenando",
           "llenarla",
           "llenaron",
           "lleno",
@@ -155227,9 +157112,9 @@
           "pasaron",
           "pasó"
         ],
-        "note" : "From pasar (to happen, pass).",
+        "note" : "From pasar (to happen, pass); \"pasaron de largo\" = they walked straight past.",
         "pos" : "verb",
-        "translation" : "was happening, happened"
+        "translation" : "happened; passed (by)"
       },
       {
         "forms" : [
@@ -155432,9 +157317,9 @@
           "ponen",
           "ponían"
         ],
-        "note" : "From poner (to put).",
+        "note" : "From poner (to put); «se ponen bien» = they get better.",
         "pos" : "verb",
-        "translation" : "put, were putting"
+        "translation" : "put, were putting; (ponerse bien) get better"
       },
       {
         "forms" : [
@@ -155577,9 +157462,9 @@
           "puerta"
         ],
         "gender" : "feminine",
-        "note" : "As in \"solo una puerta\" (just a door).",
+        "note" : "As in \"solo una puerta\" (just a door); \"la puerta de la ciudad\" = the city gate.",
         "pos" : "noun",
-        "translation" : "door"
+        "translation" : "door; (city) gate"
       },
       {
         "forms" : [
@@ -155633,7 +157518,7 @@
           "quedan",
           "quedará"
         ],
-        "note" : "From quedar(se) (to remain, stay); with an adjective it often means to end up that way: lo que no se vendía se quedaba seco = whatever didn't sell went dry, but se quedaba despierto = he stayed awake.",
+        "note" : "From quedar(se) (to remain, stay); with an adjective it often means to end up that way: lo que no se vendía se quedaba seco = whatever didn't sell went dry, but se quedaba despierto = he stayed awake; «quedar lejos» = to be far off.",
         "pos" : "verb",
         "translation" : "to remain, stay; to end up, turn out"
       },
@@ -156009,6 +157894,7 @@
       },
       {
         "forms" : [
+          "sentir",
           "sentirse",
           "sentía",
           "sentían"
@@ -158550,7 +160436,8 @@
       },
       {
         "forms" : [
-          "haberla"
+          "haberla",
+          "haberlo"
         ],
         "note" : "Infinitive haber with attached pronoun.",
         "pos" : "verb",
@@ -159603,7 +161490,8 @@
       {
         "forms" : [
           "quedarse",
-          "quedársela"
+          "quedársela",
+          "quédate"
         ],
         "note" : "Reflexive infinitive of quedar.",
         "pos" : "verb",
@@ -159746,7 +161634,8 @@
       },
       {
         "forms" : [
-          "recorre"
+          "recorre",
+          "recorren"
         ],
         "note" : "Present tense of recorrer.",
         "pos" : "verb",
@@ -163031,12 +164920,13 @@
           "elige",
           "eligen",
           "eliges",
+          "eligiendo",
           "eligiera",
           "eligieron"
         ],
-        "note" : "Elegir: «elige» is the tú imperative (choose!) and the present él/ella form (Europa elige = Europe chooses).",
+        "note" : "Elegir: «elige» is the tú imperative (choose!) and the present él/ella form (Europa elige = Europe chooses); «eligieron» = they chose, «eligiendo» = choosing.",
         "pos" : "verb",
-        "translation" : "choose!; chooses"
+        "translation" : "choose!; chooses; chose"
       },
       {
         "forms" : [
@@ -165494,7 +167384,8 @@
         "forms" : [
           "reír",
           "reírse",
-          "ríe"
+          "ríe",
+          "ríen"
         ],
         "note" : "Reflexive infinitive of reír.",
         "pos" : "verb",
@@ -167972,7 +169863,8 @@
       },
       {
         "forms" : [
-          "fuerza"
+          "fuerza",
+          "fuerzas"
         ],
         "gender" : "feminine",
         "note" : "Power.",
@@ -171643,6 +173535,7 @@
       {
         "forms" : [
           "conoce",
+          "conocemos",
           "conocer",
           "conocerlo",
           "conoces",
@@ -172967,7 +174860,7 @@
         "forms" : [
           "oscuro"
         ],
-        "note" : "Dark in color.",
+        "note" : "Dark in color; \"está oscuro\" = it's dark (no light).",
         "pos" : "adjective",
         "translation" : "dark"
       },
@@ -173483,9 +175376,9 @@
           "recomendó",
           "recomienda"
         ],
-        "note" : "Preterite of recomendar.",
+        "note" : "Recomendar: «recomendó» = recommended; «recomienda» = recommends; «se recomienda» = it is recommended.",
         "pos" : "verb",
-        "translation" : "recommended"
+        "translation" : "recommended; recommends"
       },
       {
         "forms" : [
@@ -173534,9 +175427,9 @@
           "romano"
         ],
         "gender" : "masculine",
-        "note" : "A person from Rome, ancient or otherwise.",
+        "note" : "A person from Rome, ancient or otherwise; as an adjective: \"un soldado romano\" = a Roman soldier.",
         "pos" : "noun",
-        "translation" : "a Roman (person)"
+        "translation" : "Roman; a Roman (person)"
       },
       {
         "forms" : [
@@ -173565,7 +175458,8 @@
       },
       {
         "forms" : [
-          "sale"
+          "sale",
+          "salen"
         ],
         "note" : "Present of salir.",
         "pos" : "verb",
@@ -175166,7 +177060,8 @@
       },
       {
         "forms" : [
-          "laboratorio"
+          "laboratorio",
+          "laboratorios"
         ],
         "gender" : "masculine",
         "note" : "«Su laboratorio».",
@@ -177391,9 +179286,9 @@
           "capa"
         ],
         "gender" : "feminine",
-        "note" : "\"La capa interior del útero\" = the inner layer (lining) of the womb; capa can also mean a cape.",
+        "note" : "\"Su capa de soldado\" = his soldier's cloak; \"la capa interior del útero\" = the inner layer (lining) of the womb.",
         "pos" : "noun",
-        "translation" : "layer, lining"
+        "translation" : "cape, cloak; layer, lining"
       },
       {
         "forms" : [
@@ -177639,7 +179534,8 @@
         "forms" : [
           "toca",
           "tocar",
-          "tocó"
+          "tocó",
+          "toques"
         ],
         "note" : "Tocar is to touch (\"no toca el pan\" = doesn't touch bread), but with music it means to play: \"toca la guitarra\" (present), \"tocó una guitarra\" (indefinido).",
         "pos" : "verb",
@@ -178655,9 +180551,9 @@
           "red"
         ],
         "gender" : "masculine",
-        "note" : "Red Bull is the name of Max Verstappen's racing team; the English name is not translated.",
+        "note" : "«La red» = the network (or a net); in \"Red Bull\", Max Verstappen's racing team, the English name is not translated.",
         "pos" : "noun",
-        "translation" : "Red (in \"Red Bull\")"
+        "translation" : "network; Red (in \"Red Bull\")"
       },
       {
         "forms" : [
@@ -179025,12 +180921,13 @@
       {
         "forms" : [
           "manda",
+          "mandan",
           "mandaron",
           "mandó"
         ],
-        "note" : "Pretérito indefinido of mandar: to send, to tell someone to do something, and with an infinitive to have something done (mandó sacar = had it taken out).",
+        "note" : "Mandar: to send (mandan = they send), to tell someone to do something, and with an infinitive to have something done (mandó sacar = had it taken out).",
         "pos" : "verb",
-        "translation" : "sent; told to; had (something) done"
+        "translation" : "sends; sent; told to; had (something) done"
       },
       {
         "forms" : [
@@ -184950,7 +186847,8 @@
       },
       {
         "forms" : [
-          "helada"
+          "helada",
+          "helado"
         ],
         "note" : "Feminine of helado; una isla helada = a frozen island.",
         "pos" : "adjective",
@@ -185965,7 +187863,8 @@
       },
       {
         "forms" : [
-          "vago"
+          "vago",
+          "vagos"
         ],
         "gender" : "masculine",
         "note" : "Sentirse un vago = to feel like a lazybones; as an adjective vago also means lazy.",
@@ -186313,11 +188212,12 @@
       {
         "forms" : [
           "secaban",
-          "secó"
+          "secó",
+          "sécatelas"
         ],
-        "note" : "Imperfect of secarse (to dry out), for what kept happening: se secaban = they kept drying out; secar without se means to dry something.",
+        "note" : "Imperfect of secarse (to dry out), for what kept happening: se secaban = they kept drying out; secar without se means to dry something: «sécatelas» = dry them.",
         "pos" : "verb",
-        "translation" : "dry out, get dry"
+        "translation" : "dry; dry out, get dry"
       },
       {
         "forms" : [
@@ -188805,7 +190705,8 @@
       },
       {
         "forms" : [
-          "brilla"
+          "brilla",
+          "brillan"
         ],
         "note" : "Present of brillar, él/ella form: « brilla con más de 6.000 metros cuadrados de mosaico ».",
         "pos" : "verb",
@@ -189502,11 +191403,13 @@
       },
       {
         "forms" : [
-          "reunió"
+          "reunieron",
+          "reunió",
+          "reúnen"
         ],
-        "note" : "Preterite of reunir: «reunió esas notas en tablas» = he pulled those notes together into charts.",
+        "note" : "Preterite of reunir: «reunió esas notas en tablas» = he pulled those notes together into charts; reunirse = to meet: «se reunieron» = they met.",
         "pos" : "verb",
-        "translation" : "gathered, pulled together"
+        "translation" : "gathered, pulled together; met"
       },
       {
         "forms" : [
@@ -190056,6 +191959,407 @@
         "note" : "Mandar means to be in charge; in sport \"volver a mandar\" = to be in the lead again.",
         "pos" : "verb",
         "translation" : "to lead, be in front (in a race)"
+      },
+      {
+        "forms" : [
+          "1.700"
+        ],
+        "note" : "Read «mil setecientos»: Spanish marks thousands with a dot, so «hace casi 1.700 años» = almost 1,700 years ago.",
+        "pos" : "number",
+        "translation" : "1,700"
+      },
+      {
+        "forms" : [
+          "371"
+        ],
+        "note" : "Read «trescientos setenta y uno»; with an old year Spanish usually adds el año: «en el año 371» = in 371.",
+        "pos" : "number",
+        "translation" : "371"
+      },
+      {
+        "forms" : [
+          "397"
+        ],
+        "note" : "Read «trescientos noventa y siete»; in a date the year follows de: «el 11 de noviembre de 397».",
+        "pos" : "number",
+        "translation" : "397"
+      },
+      {
+        "forms" : [
+          "1900"
+        ],
+        "note" : "Read «mil novecientos»: years take no dot in Spanish, and «hacia 1900» = around 1900.",
+        "pos" : "number",
+        "translation" : "1900"
+      },
+      {
+        "forms" : [
+          "martín"
+        ],
+        "note" : "San Martín, the Roman soldier who became bishop of Tours; Spanish writes the name with an accent on the í.",
+        "pos" : "other",
+        "translation" : "Martin (a man's name)"
+      },
+      {
+        "forms" : [
+          "jesús"
+        ],
+        "note" : "The name keeps its accent on the ú; in Spain Jesús is also a common first name.",
+        "pos" : "other",
+        "translation" : "Jesus"
+      },
+      {
+        "forms" : [
+          "amiens"
+        ],
+        "note" : "A city in the north of France; Spanish keeps the French name: «en Amiens».",
+        "pos" : "other",
+        "translation" : "Amiens"
+      },
+      {
+        "forms" : [
+          "tours"
+        ],
+        "note" : "A city on the Loire in France; Spanish keeps the French name: «obispo de Tours».",
+        "pos" : "other",
+        "translation" : "Tours"
+      },
+      {
+        "forms" : [
+          "austria"
+        ],
+        "gender" : "feminine",
+        "note" : "The country, with no article: «en Austria»; the people are austriacos.",
+        "pos" : "noun",
+        "translation" : "Austria"
+      },
+      {
+        "forms" : [
+          "suiza"
+        ],
+        "gender" : "feminine",
+        "note" : "The country, with no article: «en Suiza»; the adjective is suizo, suiza.",
+        "pos" : "noun",
+        "translation" : "Switzerland"
+      },
+      {
+        "forms" : [
+          "soldado"
+        ],
+        "gender" : "masculine",
+        "note" : "El soldado; the adjective comes after it: «un soldado romano» = a Roman soldier.",
+        "pos" : "noun",
+        "translation" : "soldier"
+      },
+      {
+        "forms" : [
+          "espada"
+        ],
+        "gender" : "feminine",
+        "note" : "La espada; «con su espada» = with his sword.",
+        "pos" : "noun",
+        "translation" : "sword"
+      },
+      {
+        "forms" : [
+          "ropa"
+        ],
+        "gender" : "feminine",
+        "note" : "La ropa is singular in Spanish but means clothes: «casi sin ropa» = with almost no clothes.",
+        "pos" : "noun",
+        "translation" : "clothes"
+      },
+      {
+        "forms" : [
+          "obispo"
+        ],
+        "gender" : "masculine",
+        "note" : "El obispo; after ser or convertirse en there is no article: «se convierte en obispo» = he becomes a bishop.",
+        "pos" : "noun",
+        "translation" : "bishop"
+      },
+      {
+        "forms" : [
+          "enterraron",
+          "entierran"
+        ],
+        "note" : "Enterrar (e→ie in the stressed syllable): «lo entierran» = they bury him, «lo enterraron» = they buried him, the ellos form for people in general.",
+        "pos" : "verb",
+        "translation" : "bury, buried"
+      },
+      {
+        "forms" : [
+          "farolillo",
+          "farolillos"
+        ],
+        "gender" : "masculine",
+        "note" : "El farolillo, the diminutive of farol: a small lantern, the kind children carry or hang at a fiesta.",
+        "pos" : "noun",
+        "translation" : "(paper) lantern"
+      },
+      {
+        "forms" : [
+          "desfile"
+        ],
+        "gender" : "masculine",
+        "note" : "El desfile, from desfilar; «el desfile de farolillos» = the lantern walk.",
+        "pos" : "noun",
+        "translation" : "parade, procession"
+      },
+      {
+        "forms" : [
+          "lucecitas"
+        ],
+        "gender" : "feminine",
+        "note" : "Diminutive of luz (luces → lucecitas); -cito/-cita makes a word small and warm.",
+        "pos" : "noun",
+        "translation" : "little lights"
+      },
+      {
+        "forms" : [
+          "hoguera"
+        ],
+        "gender" : "feminine",
+        "note" : "La hoguera, a big fire outdoors: «una gran hoguera al final» = a big fire at the end.",
+        "pos" : "noun",
+        "translation" : "bonfire"
+      },
+      {
+        "forms" : [
+          "brutal"
+        ],
+        "note" : "One form for masculine and feminine; in speech it often just means very hard or extreme: «un invierno brutal».",
+        "pos" : "adjective",
+        "translation" : "brutal, terrible"
+      },
+      {
+        "forms" : [
+          "vestido"
+        ],
+        "note" : "Participle of vestir used as an adjective: «vestido con esa mitad» = wearing that half; el vestido (a dress) is the noun.",
+        "pos" : "adjective",
+        "translation" : "dressed, wearing"
+      },
+      {
+        "forms" : [
+          "soñó"
+        ],
+        "note" : "Pretérito of soñar for él; Spanish dreams con, never de: «soñó con Jesús» = he dreamed of Jesus.",
+        "pos" : "verb",
+        "translation" : "dreamed"
+      },
+      {
+        "forms" : [
+          "cortó"
+        ],
+        "note" : "Pretérito of cortar for él: «la cortó en dos» = he cut it in two.",
+        "pos" : "verb",
+        "translation" : "cut (past)"
+      },
+      {
+        "forms" : [
+          "balanceándose"
+        ],
+        "note" : "Gerund of balancearse with se attached, so it takes a written accent: «el farolillo balanceándose en la mano» = the lantern swinging in your hand.",
+        "pos" : "verb",
+        "translation" : "swinging"
+      },
+      {
+        "forms" : [
+          "imagínatelo"
+        ],
+        "note" : "Tú imperative of imaginarse with te and lo attached; the accent keeps the stress on the gi: imagina + te + lo.",
+        "pos" : "verb",
+        "translation" : "imagine it"
+      },
+      {
+        "forms" : [
+          "136"
+        ],
+        "note" : "Read «ciento treinta y seis»: ciento before tens and units, with y only between the tens and the units.",
+        "pos" : "number",
+        "translation" : "136"
+      },
+      {
+        "forms" : [
+          "166"
+        ],
+        "note" : "Read «ciento sesenta y seis»: «166 instituciones» = 166 institutions.",
+        "pos" : "number",
+        "translation" : "166"
+      },
+      {
+        "forms" : [
+          "estambul"
+        ],
+        "note" : "The Turkish city has its own Spanish name: «en Estambul».",
+        "pos" : "other",
+        "translation" : "Istanbul"
+      },
+      {
+        "forms" : [
+          "gripe"
+        ],
+        "gender" : "feminine",
+        "note" : "La gripe, the everyday word for influenza; «tener gripe» = to have the flu, with no article.",
+        "pos" : "noun",
+        "translation" : "flu"
+      },
+      {
+        "forms" : [
+          "reunión"
+        ],
+        "gender" : "feminine",
+        "note" : "From reunirse, to meet; the accent goes in the singular only: la reunión, las reuniones.",
+        "pos" : "noun",
+        "translation" : "meeting"
+      },
+      {
+        "forms" : [
+          "fatal"
+        ],
+        "note" : "In everyday Spain Spanish, «sentirse fatal» or «estar fatal» = to feel awful; it rarely means deadly in speech.",
+        "pos" : "adverb",
+        "translation" : "awful, terrible (feeling)"
+      },
+      {
+        "forms" : [
+          "contagia"
+        ],
+        "note" : "Contagiarse, él form: «la gripe se contagia» = flu spreads (from person to person).",
+        "pos" : "verb",
+        "translation" : "spreads, is passed on"
+      },
+      {
+        "forms" : [
+          "tose",
+          "toser"
+        ],
+        "note" : "Toser, to cough: «tose en el codo» (tú imperative) = cough into your elbow; «al toser» = when coughing.",
+        "pos" : "verb",
+        "translation" : "cough; to cough"
+      },
+      {
+        "forms" : [
+          "tos"
+        ],
+        "gender" : "feminine",
+        "note" : "The noun is feminine: la tos; the verb is toser.",
+        "pos" : "noun",
+        "translation" : "cough"
+      },
+      {
+        "forms" : [
+          "codo"
+        ],
+        "gender" : "masculine",
+        "note" : "Spanish coughs «en el codo», with the article instead of your: into your elbow.",
+        "pos" : "noun",
+        "translation" : "elbow"
+      },
+      {
+        "forms" : [
+          "jabón"
+        ],
+        "gender" : "masculine",
+        "note" : "«Agua y jabón» = soap and water, in the opposite order to English.",
+        "pos" : "noun",
+        "translation" : "soap"
+      },
+      {
+        "forms" : [
+          "tibia"
+        ],
+        "note" : "Feminine of tibio, agreeing with agua: «agua tibia» = warm water (agua is feminine even though it takes el).",
+        "pos" : "adjective",
+        "translation" : "lukewarm, warm"
+      },
+      {
+        "forms" : [
+          "farmacéutico"
+        ],
+        "gender" : "masculine",
+        "note" : "The person who works in la farmacia; the woman is la farmacéutica.",
+        "pos" : "noun",
+        "translation" : "pharmacist"
+      },
+      {
+        "forms" : [
+          "muestras"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la muestra, a sample sent to a lab; the same word also means show (from mostrar).",
+        "pos" : "noun",
+        "translation" : "samples"
+      },
+      {
+        "forms" : [
+          "estornudar"
+        ],
+        "note" : "«Al estornudar» = when you sneeze: al + infinitive says when something happens.",
+        "pos" : "verb",
+        "translation" : "to sneeze"
+      },
+      {
+        "forms" : [
+          "pañuelo"
+        ],
+        "gender" : "masculine",
+        "note" : "Un pañuelo (de papel) = a tissue; «de usar y tirar» = disposable, use and throw away.",
+        "pos" : "noun",
+        "translation" : "tissue, handkerchief"
+      },
+      {
+        "forms" : [
+          "sofá"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine despite the -a: el sofá, plural los sofás.",
+        "pos" : "noun",
+        "translation" : "sofa"
+      },
+      {
+        "forms" : [
+          "sanitarios"
+        ],
+        "gender" : "masculine",
+        "note" : "In Spain, «los sanitarios» = doctors, nurses and other health staff; the masculine plural covers women too.",
+        "pos" : "noun",
+        "translation" : "health workers"
+      },
+      {
+        "forms" : [
+          "crónica"
+        ],
+        "note" : "Feminine of crónico, agreeing with enfermedad: «una enfermedad crónica» = a long-term illness.",
+        "pos" : "adjective",
+        "translation" : "chronic, long-term"
+      },
+      {
+        "forms" : [
+          "hemisferio"
+        ],
+        "gender" : "masculine",
+        "note" : "«Una por hemisferio» = one for each hemisphere (north and south).",
+        "pos" : "noun",
+        "translation" : "hemisphere"
+      },
+      {
+        "forms" : [
+          "instituciones"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la institución; the written accent drops in the plural.",
+        "pos" : "noun",
+        "translation" : "institutions"
+      },
+      {
+        "forms" : [
+          "recuperan"
+        ],
+        "note" : "Recuperarse, ellos form of the present: «casi todos se recuperan en una semana» = almost everyone recovers within a week.",
+        "pos" : "verb",
+        "translation" : "(they) recover"
       }
     ]
   },
@@ -241710,6 +244014,596 @@
       "summary" : "Una settimana dopo essere diventato campione del mondo, Kimi Antonelli ha perso il comando a San Paolo con un testacoda, ma la sua Mercedes si è presa lo stesso un titolo tutto suo.",
       "title" : "Prima Antonelli, ora la Mercedes",
       "translationGroup" : "weekend-sport-2026-11-08"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-10",
+      "id" : "martins-lantern",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "English often tells an old story in the present to make it feel close; with he, she and it the verb adds -s: Martin cuts, gives, stops.",
+              "example" : "So he cuts it in two with his sword.",
+              "title" : "The present for a story: he cuts, he gives"
+            },
+            {
+              "body" : "\"But\" joins two ideas that go in different directions: most people walk past, one person stops.",
+              "example" : "People walk past, but a young Roman soldier stops.",
+              "title" : "But: one thing against another"
+            },
+            {
+              "body" : "\"Nobody\" means \"no person\"; the verb takes -s and there is no extra \"not\": nobody knows, never nobody doesn't know.",
+              "example" : "Nobody knows, but it all starts with half a cloak.",
+              "title" : "Nobody: no person"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's a cold winter in Amiens, almost 1,700 years ago. At the city gate, a poor man has almost no clothes. People walk past, but a young Roman soldier stops.",
+            "His name is Martin, and he only has his cloak. So he cuts it in two with his sword. He gives half to the man. Some people laugh.",
+            "Later, Martin becomes bishop of Tours. People bury him on 11 November, so that's his day.",
+            "On this day, children in Germany and Austria walk with lanterns. It's dark, but every child has a light. Why lanterns? Nobody knows, but it all starts with half a cloak."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Many common verbs have their own past form: have → had, give → gave, become → became; \"cut\" looks the same in the present and the past.",
+              "example" : "He gave half to the man, and some people laughed.",
+              "title" : "The past simple: had, cut, gave"
+            },
+            {
+              "body" : "\"Ago\" comes after the amount of time and counts back from today: almost 1,700 years ago. It goes with the past simple.",
+              "example" : "Almost 1,700 years ago, in a hard winter, a young Roman soldier called Martin was in Amiens.",
+              "title" : "Ago: counting back from now"
+            },
+            {
+              "body" : "\"As we know it\" after a noun means \"in the form people know now\": the walk existed in other forms before.",
+              "example" : "The walk as we know it is only about 100 years old.",
+              "title" : "As we know it: the way it is today"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Almost 1,700 years ago, in a hard winter, a young Roman soldier called Martin was in Amiens. A poor man at the gate had almost no clothes, but everybody walked past.",
+            "Martin only had his cloak, so he cut it in two with his sword. He gave half to the man, and some people laughed.",
+            "In 371, he became bishop of Tours. He died in 397, and people buried him on 11 November. That's his day now.",
+            "Children in Germany and Austria walk with lanterns on that day. It's cold, but the lanterns glow. Why lanterns? Nobody knows. The walk as we know it is only about 100 years old.",
+            "One man, half a cloak, and thousands of small lights."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"While\" can join two different reactions to the same moment, like \"but at the same time\": some laughed, while others felt ashamed.",
+              "example" : "Some laughed, while others felt ashamed.",
+              "title" : "While for a contrast"
+            },
+            {
+              "body" : "\"Was\" + past participle puts the focus on what happened to someone, not on who did it: he was buried, instead of people buried him.",
+              "example" : "He became bishop of Tours in 371 and was buried on 11 November 397.",
+              "title" : "The passive: was buried"
+            },
+            {
+              "body" : "After \"dream of\" or \"see\", a person can be followed by an -ing form that shows what they are doing: Jesus wearing that half.",
+              "example" : "That night, Martin later said, he dreamed of Jesus wearing that half.",
+              "title" : "Dream of someone + -ing"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Almost 1,700 years ago, in a freezing winter, a young Roman soldier called Martin was in Amiens. At the gate, a poor man had almost no clothes, but everyone walked past.",
+            "All Martin had was his cloak, so he cut it in two with his sword and gave the man half. Some laughed, while others felt ashamed.",
+            "That night, Martin later said, he dreamed of Jesus wearing that half. He became bishop of Tours in 371 and was buried on 11 November 397. That's his day now.",
+            "Children in Germany and Austria walk with lanterns on 11 November, singing old songs. It's cold, but the lanterns glow. Nobody knows exactly why it's lanterns. The walk as we know it is only about 100 years old.",
+            "One man, half a cloak, and every November the dark is full of small lights."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"All (that) he had left was …\" puts the focus on the only thing still there; it sounds stronger than \"he only had …\".",
+              "example" : "All Martin had left was his cloak, so he pulled out his sword, cut it in two and handed the man half.",
+              "title" : "All he had left was …: the one thing remaining"
+            },
+            {
+              "body" : "\"Went on to become\" tells what a person did later in life, after the moment the story is about.",
+              "example" : "He went on to become bishop of Tours in 371 and was buried on 11 November 397, his day ever since.",
+              "title" : "Go on to + verb: what someone did next"
+            },
+            {
+              "body" : "A storyteller can use the imperative \"imagine it\" and then simply list what you would see and feel, with no main verb.",
+              "example" : "Imagine it: cold fingers, a lantern swinging in your hand, old songs, a big fire at the end.",
+              "title" : "Imagine it: inviting the listener in"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Almost 1,700 years ago, in a brutal winter, a young Roman soldier called Martin was at the gate of Amiens. People walked straight past a poor man with almost no clothes.",
+            "All Martin had left was his cloak, so he pulled out his sword, cut it in two and handed the man half. Some laughed; others felt ashamed they hadn't helped.",
+            "That night, Martin later said, he dreamed of Jesus wearing that very half. He went on to become bishop of Tours in 371 and was buried on 11 November 397, his day ever since.",
+            "On 11 November, children in Germany, Austria and Switzerland walk the streets with lanterns. Imagine it: cold fingers, a lantern swinging in your hand, old songs, a big fire at the end. Why lanterns? Nobody knows for sure, but the walk as we know it only began around 1900.",
+            "One man, half a cloak, and every November the dark fills up with small lights."
+          ]
+        }
+      ],
+      "summary" : "Almost 1,700 years ago, a young soldier cut his cloak in two at a city gate, and today, every 11 November, children walk through the dark with lanterns on his day.",
+      "title" : "Lanterns for Martin",
+      "translationGroup" : "martins-lantern"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-10",
+      "id" : "martins-lantern-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Ne before the verb and que before the thing mean \"only\": il n'a que son manteau = he only has his cloak. It sounds more natural than seulement in speech.",
+              "example" : "Il s'appelle Martin, et il n'a que son manteau.",
+              "title" : "Ne … que: only"
+            },
+            {
+              "body" : "On takes the il form of the verb and stands for people in general: on l'enterre = people bury him; on ne sait pas = nobody knows, we don't know.",
+              "example" : "On ne sait pas, mais tout commence avec la moitié d'un manteau.",
+              "title" : "On: people, someone, we"
+            },
+            {
+              "body" : "French uses il fait for the weather and the light: il fait froid (it's cold), il fait nuit (it's dark), never il est nuit.",
+              "example" : "Il fait nuit, mais chaque enfant a sa lumière.",
+              "title" : "Il fait nuit, il fait froid: weather with faire"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "C'est un hiver froid, il y a presque 1 700 ans. À la porte d'Amiens, il y a un pauvre homme. Il n'a presque pas de vêtements. Les gens passent, mais un jeune soldat romain s'arrête.",
+            "Il s'appelle Martin, et il n'a que son manteau. Alors il le coupe en deux avec son épée. Il donne la moitié à l'homme, et des gens rient.",
+            "Plus tard, Martin devient évêque de Tours. On l'enterre un 11 novembre, alors le 11 novembre, c'est la Saint-Martin.",
+            "Ce jour-là, les enfants d'Allemagne et d'Autriche marchent avec des lanternes. Il fait nuit, mais chaque enfant a sa lumière. Pourquoi des lanternes ? On ne sait pas, mais tout commence avec la moitié d'un manteau."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avoir + past participle tells the events: il a coupé, il a donné. Some participles are short and irregular: rire → ri, so des gens ont ri = some people laughed.",
+              "example" : "Il en a donné la moitié à l'homme, et des gens ont ri.",
+              "title" : "Passé composé for what happened: a coupé, ont ri"
+            },
+            {
+              "body" : "The imparfait describes what was going on around the events: tout le monde passait = everybody was walking past, while the passé composé tells what Martin did.",
+              "example" : "À la porte, un pauvre homme n'avait presque pas de vêtements, mais tout le monde passait à côté.",
+              "title" : "The imparfait for the scene: passait, avait"
+            },
+            {
+              "body" : "Devenir and mourir take être in the passé composé, not avoir: il est devenu évêque, il est mort en 397.",
+              "example" : "Il est mort en 397, et on l'a enterré le 11 novembre.",
+              "title" : "Être verbs: il est devenu, il est mort"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Il y a presque 1 700 ans, l'hiver était très dur. Un jeune soldat romain appelé Martin était à Amiens. À la porte, un pauvre homme n'avait presque pas de vêtements, mais tout le monde passait à côté.",
+            "Martin n'avait que son manteau, alors il l'a coupé en deux avec son épée. Il en a donné la moitié à l'homme, et des gens ont ri.",
+            "En 371, il est devenu évêque de Tours. Il est mort en 397, et on l'a enterré le 11 novembre. Depuis, c'est la Saint-Martin.",
+            "Ce jour-là, les enfants d'Allemagne et d'Autriche marchent avec des lanternes. Il fait froid, mais les lanternes brillent. Pourquoi des lanternes ? Personne ne sait. Le défilé comme on le connaît n'a qu'une centaine d'années.",
+            "Un homme, la moitié d'un manteau, et des milliers de petites lumières."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Tout ce que + clause, then c'est or c'était, puts the focus on the one thing at the end: tout ce que Martin avait, c'était son manteau.",
+              "example" : "Tout ce que Martin avait, c'était son manteau.",
+              "title" : "Tout ce que …, c'était …: all he had was"
+            },
+            {
+              "body" : "When a story reports what someone said later, the earlier event goes one step back: Martin a raconté qu'il avait rêvé = Martin said he had dreamed.",
+              "example" : "Martin a raconté que cette nuit-là, il avait rêvé de Jésus qui portait cette moitié.",
+              "title" : "The plus-que-parfait after a past verb"
+            },
+            {
+              "body" : "En + the -ant form (the gérondif) shows an action happening at the same time as the main verb: ils défilent en chantant = they walk along singing.",
+              "example" : "Ce jour-là, les enfants d'Allemagne et d'Autriche défilent avec des lanternes en chantant de vieilles chansons.",
+              "title" : "En chantant: doing two things at once"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il y a presque 1 700 ans, par un hiver glacial, un jeune soldat romain, Martin, était à Amiens. À la porte, un pauvre homme n'avait presque rien sur le dos, mais chacun passait son chemin.",
+            "Tout ce que Martin avait, c'était son manteau. Il l'a coupé en deux avec son épée et en a donné la moitié à l'homme. Certains ont ri, d'autres ont eu honte.",
+            "Martin a raconté que cette nuit-là, il avait rêvé de Jésus qui portait cette moitié. Il est devenu évêque de Tours en 371 et a été enterré le 11 novembre 397. Depuis, chaque 11 novembre, c'est la Saint-Martin.",
+            "Ce jour-là, les enfants d'Allemagne et d'Autriche défilent avec des lanternes en chantant de vieilles chansons. Il fait froid, mais les lanternes brillent. Pourquoi des lanternes ? Personne ne sait exactement. Le défilé tel qu'on le connaît n'a qu'une centaine d'années.",
+            "Un homme, la moitié d'un manteau, et chaque novembre, une nuit pleine de petites lumières."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "De ne pas l'avoir aidé uses the past infinitive (avoir + participle) for something that came before the feeling; ne pas goes together in front of the infinitive.",
+              "example" : "Certains ont ri, d'autres ont eu honte de ne pas l'avoir aidé.",
+              "title" : "Avoir honte de + past infinitive"
+            },
+            {
+              "body" : "When the speaker is added after what was said, French swaps verb and subject and links them with -t- between two vowels: a-t-il raconté = he said, he told.",
+              "example" : "Cette nuit-là, il a rêvé de Jésus vêtu de cette moitié, a-t-il raconté plus tard.",
+              "title" : "A-t-il raconté: who said it, added at the end"
+            },
+            {
+              "body" : "The tu imperative imagine invites the listener in; then the speaker just lists what you would feel, with no verb, like a picture.",
+              "example" : "Imagine : les doigts gelés, une lanterne qui danse dans ta main, de vieilles chansons, un grand feu pour finir.",
+              "title" : "Imagine: talking straight to you"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il y a presque 1 700 ans, par un hiver terrible, un jeune soldat romain, Martin, était à la porte d'Amiens. Les gens passaient sans s'arrêter devant un pauvre homme qui n'avait presque rien sur le dos.",
+            "Il ne restait à Martin que son manteau, alors il l'a coupé en deux d'un coup d'épée et en a tendu la moitié à l'homme. Certains ont ri, d'autres ont eu honte de ne pas l'avoir aidé.",
+            "Cette nuit-là, il a rêvé de Jésus vêtu de cette moitié, a-t-il raconté plus tard. Il est devenu évêque de Tours en 371 et a été enterré le 11 novembre 397. Depuis, chaque 11 novembre, c'est la Saint-Martin.",
+            "Ce jour-là, les enfants d'Allemagne, d'Autriche et de Suisse parcourent les rues avec des lanternes. Imagine : les doigts gelés, une lanterne qui danse dans ta main, de vieilles chansons, un grand feu pour finir. Pourquoi des lanternes ? Personne ne sait vraiment, mais le défilé tel qu'on le connaît n'est apparu que vers 1900.",
+            "Un homme, la moitié d'un manteau, et chaque novembre, la nuit se remplit de petites lumières."
+          ]
+        }
+      ],
+      "summary" : "Il y a presque 1 700 ans, un jeune soldat a coupé son manteau en deux à la porte d'une ville, et aujourd'hui, chaque 11 novembre, des enfants marchent dans la nuit avec des lanternes pour lui.",
+      "title" : "Des lanternes pour Martin",
+      "translationGroup" : "martins-lantern"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-10",
+      "id" : "martins-lantern-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Weitergehen (to walk on) splits in a main clause: gehen takes second place and weiter goes to the end. Anhaben works the same way: ein armer Mann hat fast nichts an = a poor man has almost nothing on.",
+              "example" : "Die Leute gehen einfach weiter, aber ein junger römischer Soldat bleibt stehen.",
+              "title" : "Separable verbs: gehen … weiter"
+            },
+            {
+              "body" : "German says what someone becomes or is without an article: Martin wird Bischof, not ein Bischof. The same goes for Soldat, Lehrer or Ärztin.",
+              "example" : "Später wird Martin Bischof von Tours.",
+              "title" : "No article before a job: Bischof von Tours"
+            },
+            {
+              "body" : "Any part of the sentence can come first, but the verb always stays in second place: Eine Hälfte gibt er dem Mann, Das weiß keiner. Putting the object first gives it weight.",
+              "example" : "Eine Hälfte gibt er dem Mann.",
+              "title" : "Verb second: Eine Hälfte gibt er dem Mann"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist ein kalter Winter in Amiens, vor fast 1.700 Jahren. Am Stadttor hat ein armer Mann fast nichts an. Die Leute gehen einfach weiter, aber ein junger römischer Soldat bleibt stehen.",
+            "Er heißt Martin und hat nur seinen Mantel. Also teilt er ihn mit seinem Schwert. Eine Hälfte gibt er dem Mann. Ein paar Leute lachen.",
+            "Später wird Martin Bischof von Tours. Man begräbt ihn am 11. November, darum ist das sein Tag.",
+            "Am Martinstag gehen Kinder in Deutschland und Österreich mit Laternen. Es ist dunkel, aber jedes Kind hat ein Licht. Warum Laternen? Das weiß keiner, aber alles beginnt mit einem halben Mantel."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs make the Perfekt with haben (hat geteilt, haben gelacht), but verbs of moving or changing state take sein: sind vorbeigegangen, ist gestorben, ist geworden.",
+              "example" : "Er ist 397 gestorben, und man hat ihn am 11. November begraben.",
+              "title" : "Perfekt with sein: vorbeigegangen, gestorben"
+            },
+            {
+              "body" : "In speech German tells events in the Perfekt (hat geteilt), but for sein and haben it uses the short past forms war and hatte, which set the scene.",
+              "example" : "Martin hatte nur seinen Mantel, also hat er ihn mit dem Schwert geteilt.",
+              "title" : "War and hatte next to the Perfekt"
+            },
+            {
+              "body" : "Erst before a time or a number says it is shorter or later than expected: erst seit etwa 100 Jahren = only for about 100 years. Nur would sound neutral; erst adds a touch of surprise.",
+              "example" : "Laternenumzüge wie heute gibt es erst seit etwa 100 Jahren.",
+              "title" : "Erst: only, less than you might think"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Vor fast 1.700 Jahren, in einem harten Winter, war ein junger römischer Soldat namens Martin in Amiens. Am Stadttor hatte ein armer Mann fast nichts an, aber alle sind vorbeigegangen.",
+            "Martin hatte nur seinen Mantel, also hat er ihn mit dem Schwert geteilt. Eine Hälfte hat er dem Mann gegeben, und ein paar Leute haben gelacht.",
+            "371 ist er Bischof von Tours geworden. Er ist 397 gestorben, und man hat ihn am 11. November begraben. Das ist heute sein Tag.",
+            "Da gehen Kinder in Deutschland und Österreich mit Laternen. Es ist kalt, aber die Laternen leuchten. Warum Laternen? Das weiß keiner. Laternenumzüge wie heute gibt es erst seit etwa 100 Jahren.",
+            "Ein Mann, ein halber Mantel und Tausende kleine Lichter."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Some German verbs always need a reflexive pronoun: sich schämen (to feel ashamed). In the Perfekt the sich stays right after haben: andere haben sich geschämt.",
+              "example" : "Manche haben gelacht, andere haben sich geschämt.",
+              "title" : "Reflexive verbs: sich schämen"
+            },
+            {
+              "body" : "After dass (that) the finite verb moves to the end of the clause; in the Perfekt that means the participle first, then hat: dass er nachts von Jesus geträumt hat.",
+              "example" : "Später hat Martin erzählt, dass er nachts von Jesus geträumt hat, der diese Hälfte anhatte.",
+              "title" : "Dass sends the verb to the end"
+            },
+            {
+              "body" : "The passive puts the focus on what happened, not on who did it. In the Perfekt it is sein + participle + worden (not geworden): er ist begraben worden = he was buried.",
+              "example" : "371 ist er Bischof von Tours geworden und am 11. November 397 begraben worden.",
+              "title" : "The passive in the Perfekt: ist begraben worden"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Vor fast 1.700 Jahren, in einem eiskalten Winter, war ein junger römischer Soldat namens Martin in Amiens. Am Stadttor hatte ein armer Mann fast nichts an, doch alle sind vorbeigegangen.",
+            "Martin hatte nur seinen Mantel, also hat er ihn mit dem Schwert geteilt und dem Mann die Hälfte gegeben. Manche haben gelacht, andere haben sich geschämt.",
+            "Später hat Martin erzählt, dass er nachts von Jesus geträumt hat, der diese Hälfte anhatte. 371 ist er Bischof von Tours geworden und am 11. November 397 begraben worden. Das ist heute sein Tag.",
+            "Da gehen Kinder in Deutschland und Österreich mit Laternen und singen alte Lieder. Es ist kalt, aber die Laternen leuchten. Warum ausgerechnet Laternen, weiß keiner genau. Laternenumzüge wie heute gibt es erst seit etwa 100 Jahren.",
+            "Ein Mann, ein halber Mantel. Und jeden November ist die Dunkelheit voller kleiner Lichter."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In a main clause anhaben splits (er hat fast nichts an), but in a clause with the verb at the end the particle joins the verb again: der fast nichts anhatte.",
+              "example" : "Alle sind an einem armen Mann vorbeigelaufen, der fast nichts anhatte.",
+              "title" : "Separable verbs join up in a relative clause"
+            },
+            {
+              "body" : "Hatte or hatten + participle puts one past event before another: first the others did nothing, then they felt ashamed of it.",
+              "example" : "Manche haben gelacht, andere haben sich geschämt, weil sie nicht geholfen hatten.",
+              "title" : "Plusquamperfekt: nicht geholfen hatten"
+            },
+            {
+              "body" : "Ausgerechnet stresses that a choice is surprising or hard to explain, like of all things in English: warum ausgerechnet Laternen = why lanterns, of all things.",
+              "example" : "Warum ausgerechnet Laternen?",
+              "title" : "Ausgerechnet: of all things"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Vor fast 1.700 Jahren, in einem bitterkalten Winter, war ein junger römischer Soldat namens Martin am Stadttor von Amiens. Alle sind an einem armen Mann vorbeigelaufen, der fast nichts anhatte.",
+            "Martin hatte nur noch seinen Mantel. Also hat er sein Schwert gezogen, den Mantel geteilt und dem Mann eine Hälfte in die Hand gedrückt. Manche haben gelacht, andere haben sich geschämt, weil sie nicht geholfen hatten.",
+            "Martin hat später erzählt, dass er nachts von Jesus in genau dieser Mantelhälfte geträumt hat. 371 ist er Bischof von Tours geworden und am 11. November 397 begraben worden, seitdem ist das sein Tag.",
+            "Da ziehen Kinder in Deutschland, Österreich und der Schweiz mit Laternen durch die Straßen. Stell dir vor: kalte Finger, eine schaukelnde Laterne, alte Lieder, am Ende ein großes Martinsfeuer. Warum ausgerechnet Laternen? Genau weiß das keiner. Umzüge wie heute gibt es erst seit etwa 1900.",
+            "Ein Mann, ein halber Mantel. Und jeden November füllt sich die Dunkelheit mit kleinen Lichtern."
+          ]
+        }
+      ],
+      "summary" : "Vor fast 1.700 Jahren hat ein junger Soldat am Stadttor von Amiens seinen Mantel geteilt, und heute laufen Kinder jedes Jahr am 11. November mit Laternen durch die Dunkelheit.",
+      "title" : "Laternen für Sankt Martin",
+      "translationGroup" : "martins-lantern"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-10",
+      "id" : "martins-lantern-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish gives a name with the reflexive verb llamarse: se llama Martín = his name is Martin (literally, he calls himself Martin); me llamo, te llamas work the same way.",
+              "example" : "Se llama Martín y solo tiene su capa.",
+              "title" : "Se llama: saying someone's name"
+            },
+            {
+              "body" : "Así que starts the result of what came before, like English so: he only has his cloak, así que he cuts it. It can also open a new sentence when you tell a story.",
+              "example" : "Así que la corta en dos con su espada.",
+              "title" : "Así que: so, as a result"
+            },
+            {
+              "body" : "When nadie comes before the verb, Spanish needs no other negative: nadie lo sabe = nobody knows it. After the verb it takes no: no lo sabe nadie.",
+              "example" : "Nadie lo sabe, pero todo empieza con media capa.",
+              "title" : "Nadie: no one, with no extra no"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es un invierno muy frío en Amiens, hace casi 1.700 años. En la puerta de la ciudad hay un pobre casi sin ropa. La gente pasa de largo, pero un joven soldado romano se detiene.",
+            "Se llama Martín y solo tiene su capa. Así que la corta en dos con su espada. Le da la mitad al hombre. Algunas personas se ríen.",
+            "Más tarde, Martín se convierte en obispo de Tours. Lo entierran el 11 de noviembre, así que ese es su día.",
+            "Ese día, los niños de Alemania y Austria salen con farolillos. Está oscuro, pero cada niño lleva una luz. ¿Por qué farolillos? Nadie lo sabe, pero todo empieza con media capa."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (tenía) describes how things were; the pretérito (cortó) tells what happened next. Together they make the backbone of a story in the past.",
+              "example" : "Martín solo tenía su capa, así que la cortó en dos con su espada.",
+              "title" : "Tenía, cortó: background and event"
+            },
+            {
+              "body" : "Hace + an amount of time counts back from today and goes at the front: hace casi 1.700 años = almost 1,700 years ago. It never changes form.",
+              "example" : "Hace casi 1.700 años, Martín, un joven soldado romano, estaba en Amiens.",
+              "title" : "Hace + time: ago"
+            },
+            {
+              "body" : "The ellos form with no subject means people in general, where English often uses a passive: lo enterraron = he was buried (literally, they buried him).",
+              "example" : "Murió en 397, y lo enterraron el 11 de noviembre.",
+              "title" : "Lo enterraron: they, meaning people"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Hace casi 1.700 años, Martín, un joven soldado romano, estaba en Amiens. Era un invierno muy duro. En la puerta de la ciudad había un hombre pobre casi sin ropa, pero todos pasaron de largo.",
+            "Martín solo tenía su capa, así que la cortó en dos con su espada. Le dio la mitad al hombre, y algunos se rieron.",
+            "En el año 371 se convirtió en obispo de Tours. Murió en 397, y lo enterraron el 11 de noviembre. Desde entonces, ese es su día.",
+            "Ese día, los niños de Alemania y Austria salen con farolillos. Hace frío, pero los farolillos brillan. ¿Por qué farolillos? Nadie lo sabe. El desfile tal como lo conocemos solo tiene unos 100 años.",
+            "Un hombre, media capa y miles de lucecitas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Lo único que + verb + es/era puts the focus on the one thing there is: lo único que tenía era su capa = all he had was his cloak.",
+              "example" : "Lo único que tenía Martín era su capa.",
+              "title" : "Lo único que…: the only thing"
+            },
+            {
+              "body" : "Unos and otros split a group into two parts that react differently; they need no noun after them when the group is clear. With dar vergüenza the person takes a: a otros les dio vergüenza = others felt ashamed.",
+              "example" : "Unos se rieron y a otros les dio vergüenza.",
+              "title" : "Unos…, otros…: some…, others…"
+            },
+            {
+              "body" : "Spanish dreams con someone or something, never de: soñó con Jesús = he dreamed of Jesus. Según contó él mismo marks it as his own account.",
+              "example" : "Esa noche, según contó él mismo después, soñó con Jesús vestido con esa mitad.",
+              "title" : "Soñar con: to dream of"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Hace casi 1.700 años, en un invierno helado, un joven soldado romano llamado Martín estaba en Amiens. En la puerta de la ciudad había un hombre pobre casi sin ropa, pero todos pasaron de largo.",
+            "Lo único que tenía Martín era su capa. Así que la cortó en dos con su espada y le dio la mitad al hombre. Unos se rieron y a otros les dio vergüenza.",
+            "Esa noche, según contó él mismo después, soñó con Jesús vestido con esa mitad. Se convirtió en obispo de Tours en el año 371 y lo enterraron el 11 de noviembre de 397. Desde entonces, ese es su día.",
+            "El 11 de noviembre, los niños de Alemania y Austria salen con farolillos, cantando canciones antiguas. Hace frío, pero los farolillos brillan. Nadie sabe muy bien por qué farolillos. El desfile tal como lo conocemos solo tiene unos 100 años.",
+            "Un hombre, media capa, y cada noviembre la noche está llena de lucecitas."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Quedar works like gustar: the thing left is the subject and the person goes in front with a: a Martín solo le quedaba la capa = all Martin had left was his cloak.",
+              "example" : "A Martín solo le quedaba la capa, así que sacó la espada, cortó la capa en dos y le dio la mitad al hombre.",
+              "title" : "Le quedaba: what someone had left"
+            },
+            {
+              "body" : "Acabó siendo tells where a life led later on, like English went on to be or ended up as; con los años sets the long stretch of time.",
+              "example" : "Con los años acabó siendo obispo de Tours, en el 371, y lo enterraron el 11 de noviembre de 397.",
+              "title" : "Acabar + gerund: what someone ended up doing"
+            },
+            {
+              "body" : "Pronouns join the end of a positive imperative, and the verb keeps its stress with a written accent: imagina + te + lo = imagínatelo. A list with no verb then paints the scene.",
+              "example" : "Imagínatelo: los dedos fríos, el farolillo balanceándose en la mano, canciones antiguas y una gran hoguera al final.",
+              "title" : "Imagínatelo: tú imperative with pronouns attached"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Hace casi 1.700 años, en un invierno brutal, un joven soldado romano llamado Martín estaba en la puerta de Amiens. La gente pasaba de largo junto a un hombre pobre casi sin ropa.",
+            "A Martín solo le quedaba la capa, así que sacó la espada, cortó la capa en dos y le dio la mitad al hombre. Unos se rieron, y a otros les dio vergüenza no haberlo ayudado.",
+            "Esa noche, según contó él mismo más tarde, soñó con Jesús vestido con esa misma mitad. Con los años acabó siendo obispo de Tours, en el 371, y lo enterraron el 11 de noviembre de 397. Desde entonces, ese día es suyo.",
+            "El 11 de noviembre, los niños de Alemania, Austria y Suiza recorren las calles con farolillos. Imagínatelo: los dedos fríos, el farolillo balanceándose en la mano, canciones antiguas y una gran hoguera al final. ¿Por qué farolillos? Nadie lo sabe con certeza, pero el desfile tal como lo conocemos empezó hacia 1900.",
+            "Un hombre, media capa, y cada noviembre la noche se va llenando de lucecitas."
+          ]
+        }
+      ],
+      "summary" : "Hace casi 1.700 años, un joven soldado partió su capa en dos a las puertas de una ciudad, y hoy, cada 11 de noviembre, los niños llenan la noche de farolillos en su día.",
+      "title" : "Farolillos para san Martín",
+      "translationGroup" : "martins-lantern"
+    },
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-10",
+      "id" : "martins-lantern-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian gives a name with chiamarsi (to be called): si chiama Martino = his name is Martin, literally he calls himself Martin.",
+              "example" : "Si chiama Martino e ha solo il suo mantello.",
+              "title" : "Si chiama: saying someone's name"
+            },
+            {
+              "body" : "Ma (but) joins two ideas that go in different directions: people walk past, one person stops.",
+              "example" : "La gente passa, ma un giovane soldato romano si ferma.",
+              "title" : "Ma: one thing against another"
+            },
+            {
+              "body" : "When nessuno (nobody) comes before the verb, Italian adds no non: nessuno lo sa = nobody knows (it); the little word lo goes right before the verb.",
+              "example" : "Nessuno lo sa, ma tutto comincia con mezzo mantello.",
+              "title" : "Nessuno before the verb: no extra non"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È un inverno molto freddo ad Amiens, quasi 1.700 anni fa. Alla porta della città c'è un povero, quasi senza vestiti. La gente passa, ma un giovane soldato romano si ferma.",
+            "Si chiama Martino e ha solo il suo mantello. Allora lo taglia in due con la spada. Dà metà del mantello al povero. E qualcuno ride.",
+            "Più tardi, Martino diventa vescovo di Tours. Lo seppelliscono l'11 novembre, quindi è il suo giorno.",
+            "Quel giorno, in Germania e Austria, i bambini escono con le lanterne. È buio, ma ogni bambino ha una luce. Perché proprio le lanterne? Nessuno lo sa, ma tutto comincia con mezzo mantello."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto (aveva) describes how things were; the passato prossimo (ha tagliato) tells what happened. With lo before avere, the participle agrees: l'ha tagliato, the cloak.",
+              "example" : "Martino aveva solo il suo mantello, quindi l'ha tagliato in due con la spada.",
+              "title" : "Aveva and l'ha tagliato: background and event"
+            },
+            {
+              "body" : "Fa goes after the amount of time and counts back from today, like English ago: quasi 1.700 anni fa = almost 1,700 years ago.",
+              "example" : "Era un inverno durissimo, quasi 1.700 anni fa.",
+              "title" : "Fa: counting back from now"
+            },
+            {
+              "body" : "Mettersi a + infinitive means to start doing something, often suddenly: qualcuno si è messo a ridere = someone started laughing. It takes essere in the passato prossimo.",
+              "example" : "Ha dato metà del mantello al povero, e qualcuno si è messo a ridere.",
+              "title" : "Mettersi a + infinitive: starting to do something"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Era un inverno durissimo, quasi 1.700 anni fa. Un giovane soldato romano di nome Martino era ad Amiens. Alla porta della città c'era un povero quasi senza vestiti, ma tutti tiravano dritto.",
+            "Martino aveva solo il suo mantello, quindi l'ha tagliato in due con la spada. Ha dato metà del mantello al povero, e qualcuno si è messo a ridere.",
+            "Nel 371, Martino è diventato vescovo di Tours. È morto nel 397, e l'hanno sepolto l'11 novembre. E da allora quel giorno è la sua festa.",
+            "In Germania e in Austria, quel giorno i bambini escono con le lanterne. Fa freddo, ma le lanterne brillano. Perché proprio le lanterne? Nessuno lo sa. La sfilata delle lanterne, come la conosciamo oggi, ha solo un centinaio di anni.",
+            "Un uomo, mezzo mantello, e migliaia di piccole luci."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Mentre usually means while, at the same time; here it sets two reactions to the same moment against each other, like whereas. The imperfetto (ridevano, si vergognavano) describes how people reacted, not a single event.",
+              "example" : "Alcuni ridevano, mentre altri si vergognavano.",
+              "title" : "Mentre for a contrast"
+            },
+            {
+              "body" : "Essere + past participle puts the focus on what happened to someone, not on who did it: è stato sepolto = he was buried; the participle agrees with the subject.",
+              "example" : "Poi è diventato vescovo di Tours nel 371 ed è stato sepolto l'11 novembre 397.",
+              "title" : "The passive with essere: è stato sepolto"
+            },
+            {
+              "body" : "Che joins a second clause to a noun, like who or that: Gesù che indossava quella metà = Jesus wearing that half; the imperfetto shows what he was doing in the dream.",
+              "example" : "Quella notte, come ha raccontato poi lui stesso, Martino ha sognato Gesù che indossava quella metà.",
+              "title" : "Che after a noun: Gesù che indossava"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Quasi 1.700 anni fa, in un inverno gelido, un giovane soldato romano di nome Martino era ad Amiens. Alla porta della città c'era un povero quasi senza vestiti, ma tutti tiravano dritto.",
+            "Martino non aveva altro che il mantello, così l'ha tagliato in due con la spada e ne ha dato metà al povero. Alcuni ridevano, mentre altri si vergognavano.",
+            "Quella notte, come ha raccontato poi lui stesso, Martino ha sognato Gesù che indossava quella metà. Poi è diventato vescovo di Tours nel 371 ed è stato sepolto l'11 novembre 397. Da allora, l'11 novembre è il suo giorno.",
+            "Quel giorno, in Germania e in Austria, i bambini girano per le strade con le lanterne, cantando vecchie canzoni. Fa freddo, ma le lanterne brillano. Nessuno sa di preciso perché proprio le lanterne. La sfilata, come la conosciamo oggi, ha solo un centinaio di anni.",
+            "Un uomo, mezzo mantello, e ogni novembre il buio si riempie di piccole luci."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Rimanere a qualcuno means to be left to someone: a Martino era rimasto solo il mantello = all Martin had left was his cloak. The trapassato prossimo puts it before the cut.",
+              "example" : "A Martino era rimasto solo il mantello: così ha sfoderato la spada, l'ha tagliato in due e ne ha dato metà al povero.",
+              "title" : "Era rimasto: what was left to someone"
+            },
+            {
+              "body" : "The past conditional can look forward from a past moment: come avrebbe raccontato = as he would later tell, something that came after that night.",
+              "example" : "Quella notte, come avrebbe raccontato Martino stesso, ha sognato Gesù con indosso proprio quella metà.",
+              "title" : "Come avrebbe raccontato: the future seen from the past"
+            },
+            {
+              "body" : "A storyteller can use the tu imperative immagina (imagine) and then just list what you would see and feel, with no main verb.",
+              "example" : "Immagina: le dita fredde, una lanterna che ti dondola in mano, vecchie canzoni, un grande falò alla fine.",
+              "title" : "Immagina: inviting the listener in"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Quasi 1.700 anni fa, in un inverno da lupi, un giovane soldato romano di nome Martino era alla porta di Amiens. La gente tirava dritto davanti a un povero quasi senza vestiti.",
+            "A Martino era rimasto solo il mantello: così ha sfoderato la spada, l'ha tagliato in due e ne ha dato metà al povero. C'era chi rideva e chi si vergognava di non averlo aiutato.",
+            "Quella notte, come avrebbe raccontato Martino stesso, ha sognato Gesù con indosso proprio quella metà. Poi, nel 371, è diventato vescovo di Tours ed è stato sepolto l'11 novembre 397: da allora, quel giorno è il suo.",
+            "L'11 novembre, in Germania, Austria e Svizzera, i bambini girano per le strade con le lanterne. Immagina: le dita fredde, una lanterna che ti dondola in mano, vecchie canzoni, un grande falò alla fine. Perché proprio le lanterne? Nessuno lo sa con certezza, ma la sfilata come la conosciamo oggi è nata solo intorno al 1900.",
+            "Un uomo, mezzo mantello, e ogni novembre il buio si accende di piccole luci."
+          ]
+        }
+      ],
+      "summary" : "Quasi 1.700 anni fa, un giovane soldato ha tagliato in due il suo mantello alla porta di una città, e oggi, ogni 11 novembre, i bambini girano al buio con le lanterne per la sua festa.",
+      "title" : "Le lanterne di san Martino",
+      "translationGroup" : "martins-lantern"
     }
   ]
 }
