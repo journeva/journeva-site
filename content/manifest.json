@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 32,
-  "generatedAt" : "2026-11-10",
+  "contentVersion" : 33,
+  "generatedAt" : "2026-11-11",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "titles" : {
+        "english" : "The February Choice",
+        "french" : "Le choix de février",
+        "german" : "Im Februar ausgewählt",
+        "italian" : "La scelta di febbraio",
+        "spanish" : "Una vacuna elegida en febrero"
+      },
+      "translationGroup" : "the-february-choice"
+    },
     {
       "category" : "lifeLessons",
       "dateAdded" : "2026-11-10",
@@ -40,20 +52,8 @@
         "spanish" : "De dónde vienen nuestras palabras"
       },
       "translationGroup" : "where-our-words-came-from"
-    },
-    {
-      "category" : "recipes",
-      "dateAdded" : "2026-11-06",
-      "titles" : {
-        "english" : "The Man Who Couldn't Sell It",
-        "french" : "L'homme qui n'a pas su le vendre",
-        "german" : "Der Mann, der es nicht verkaufen konnte",
-        "italian" : "L'uomo che non riusciva a venderlo",
-        "spanish" : "El hombre que no pudo venderlo"
-      },
-      "translationGroup" : "castagnaccio"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "819b6de42c1cf545337cda9df6e9ff27cf74b15b2181a9c45b96266f0ee8127f"
+  "sha256" : "567853904b59064b40125315ecccb1fcdd08f47b2ae7275dadea88ec1e73b3e9"
 }

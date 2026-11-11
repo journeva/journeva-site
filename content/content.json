@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 32,
-  "generatedAt" : "2026-11-10",
+  "contentVersion" : 33,
+  "generatedAt" : "2026-11-11",
   "glossary" : {
     "english" : [
       {
@@ -244604,6 +244604,596 @@
       "summary" : "Quasi 1.700 anni fa, un giovane soldato ha tagliato in due il suo mantello alla porta di una città, e oggi, ogni 11 novembre, i bambini girano al buio con le lanterne per la sua festa.",
       "title" : "Le lanterne di san Martino",
       "translationGroup" : "martins-lantern"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "id" : "the-february-choice",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at February, A1 uses was/were (and had to); the rest of the story stays in the present: it's November, it's flu season.",
+              "example" : "In February, flu experts were in Istanbul for four days.",
+              "title" : "Were: one look back"
+            },
+            {
+              "body" : "\"Had to\" is the past of \"have to\": back in February, choosing a new vaccine was their job, and there was no way around it.",
+              "example" : "So they had to choose a new vaccine for this winter.",
+              "title" : "Had to: something people needed to do"
+            },
+            {
+              "body" : "For a tip to a friend, use the base verb with no \"you\": wash, cough. Put \"don't\" in front to say what not to do.",
+              "example" : "Cough into your elbow, and don't touch your face.",
+              "title" : "Tips with the imperative: wash, cough, don't touch"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's November, so it's flu season. In February, flu experts were in Istanbul for four days. The virus keeps changing. So they had to choose a new vaccine for this winter.",
+            "Flu makes you feel really ill. But most people are better in a week. Flu spreads in coughs and on hands.",
+            "So wash your hands with warm water and soap. Cough into your elbow, and don't touch your face. If you're ill, stay home. It feels lazy, but it helps.",
+            "The vaccine is the best protection. Is it right for you? Ask your doctor or pharmacist. And February's choice is in this winter's vaccine."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Some common verbs have their own past form: meet → met, choose → chose. The past simple tells a finished event at a known time, here February 2026.",
+              "example" : "In February 2026, flu experts met in Istanbul for four days.",
+              "title" : "The past simple: met, chose"
+            },
+            {
+              "body" : "\"Keep\" + -ing says something goes on and on without stopping: the virus keeps changing.",
+              "example" : "The flu virus keeps changing, so the vaccine changes too.",
+              "title" : "Keep + -ing: again and again"
+            },
+            {
+              "body" : "\"It takes about two weeks to work\" says how much time passes before something happens.",
+              "example" : "The vaccine is the best protection, and it takes about two weeks to work.",
+              "title" : "It takes + time + to: how long something needs"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In February 2026, flu experts met in Istanbul for four days. In the middle of winter, they chose the vaccine for this winter.",
+            "The flu virus keeps changing, so the vaccine changes too. Labs everywhere send samples all year.",
+            "Flu makes you feel really ill. But most people are better in a week. Flu spreads in coughs and on hands.",
+            "So wash your hands with warm water and soap. Cough into your elbow, and don't touch your face. When you're ill, stay home. It feels lazy, but it helps.",
+            "The vaccine is the best protection, and it takes about two weeks to work. Is it right for you? Ask your doctor or pharmacist. February's choice is in this winter's vaccine."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After \"spend\" + a length of time, English uses the -ing form for what people did in that time: spent four days choosing.",
+              "example" : "In February 2026, flu experts spent four days in Istanbul choosing next winter's vaccine: this one.",
+              "title" : "Spend time + -ing"
+            },
+            {
+              "body" : "\"Even if\" admits something and says it doesn't change the advice: staying on the sofa may feel lazy, and you still do it.",
+              "example" : "If you're ill, stay on the sofa, even if it feels lazy.",
+              "title" : "Even if: it's true, but it changes nothing"
+            },
+            {
+              "body" : "\"Within\" + a time means \"in less than that time\": within a week = in a week or sooner.",
+              "example" : "Flu hits suddenly and you feel awful, but most people recover within a week.",
+              "title" : "Within a week: before a week is over"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In February 2026, flu experts spent four days in Istanbul choosing next winter's vaccine: this one.",
+            "The virus keeps changing, so they meet twice a year, once for each half of the world. Labs in 136 countries send samples year-round.",
+            "Flu hits suddenly and you feel awful, but most people recover within a week. It spreads through coughs, sneezes and hands.",
+            "Wash your hands in warm, soapy water and dry them. Cough into your elbow or a tissue. Don't touch your face. If you're ill, stay on the sofa, even if it feels lazy.",
+            "The vaccine is the best protection. It's recommended for older people, pregnant women, young children, health workers and anyone with a long-term illness. One of them, or not sure? Ask your doctor or pharmacist. It takes about two weeks to work, and February's choice is inside."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"However lazy it feels\" means \"no matter how lazy it feels\": the feeling is real, but the advice stands.",
+              "example" : "If you're ill, stay on the sofa, however lazy it feels.",
+              "title" : "However + adjective: no matter how"
+            },
+            {
+              "body" : "\"A network dating back to 1952\" adds a description after the main clause; \"dating back to\" = which dates back to.",
+              "example" : "Samples flow in year-round from 166 institutions in 136 countries, a network dating back to 1952.",
+              "title" : "A noun phrase with an -ing participle"
+            },
+            {
+              "body" : "\"Still,\" opening a sentence means \"even so\": flu feels terrible, and yet most people are over it within a week. \"Be over it\" = have got better.",
+              "example" : "Still, most people are over it within a week, even if the cough lingers.",
+              "title" : "Still at the start: \"and yet\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In February 2026, flu experts spent four days in Istanbul choosing the vaccine for a winter months away: this one.",
+            "The virus keeps changing, so they meet twice a year, once per hemisphere. Samples flow in year-round from 166 institutions in 136 countries, a network dating back to 1952.",
+            "Flu hits out of nowhere and you feel terrible. Still, most people are over it within a week, even if the cough lingers. It spreads through coughs, sneezes and hands.",
+            "Wash your hands in warm, soapy water, dry them, and cough into your elbow or a tissue you throw away. Fingers off your face. If you're ill, stay on the sofa, however lazy it feels.",
+            "The vaccine is the best protection. It's recommended for pregnant women, young children, older people, health workers and anyone with a long-term illness. If that's you, or you're unsure, ask your doctor or pharmacist. It takes about two weeks to work, and February's choice is inside."
+          ]
+        }
+      ],
+      "summary" : "In February 2026, deep in one winter, flu experts in Istanbul made a choice for the next, and it's in this winter's vaccine.",
+      "title" : "The February Choice",
+      "translationGroup" : "the-february-choice"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "id" : "the-february-choice-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at February, A1 uses the imparfait étaient (they were) and devaient (they had to); the rest of the story stays in the present: on est en novembre.",
+              "example" : "En février, des experts étaient quatre jours à Istanbul.",
+              "title" : "Étaient: one look back"
+            },
+            {
+              "body" : "Devaient + an infinitive says what people had to do back then: ils devaient choisir = they had to choose. The second verb stays in the infinitive.",
+              "example" : "Donc ils devaient choisir un nouveau vaccin pour cet hiver.",
+              "title" : "Devoir + infinitive: had to"
+            },
+            {
+              "body" : "A tip to a friend uses the tu form with no tu, and -er verbs drop their -s: tousse, touche. For don't, put ne … pas around the verb; a reflexive verb adds -toi: lave-toi.",
+              "example" : "Tousse dans ton coude, et ne touche pas ton visage.",
+              "title" : "Tips with the tu imperative: tousse, ne touche pas"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en novembre, c'est la saison de la grippe. En février, des experts étaient quatre jours à Istanbul. Le virus change tout le temps. Donc ils devaient choisir un nouveau vaccin pour cet hiver.",
+            "La grippe te rend vraiment malade. Mais en général, on va mieux en une semaine. On l'attrape par la toux et les mains.",
+            "Alors lave-toi les mains à l'eau chaude et au savon. Tousse dans ton coude, et ne touche pas ton visage. Si tu es malade, reste chez toi. Ça fait paresseux, mais ça aide.",
+            "Le vaccin, c'est la meilleure protection. C'est pour toi ? Demande à ton médecin ou à ton pharmacien. Et le choix de février est dans le vaccin de cet hiver."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Reflexive verbs take être in the passé composé, so the participle agrees with the subject: des experts se sont réunis, with -s for the plural.",
+              "example" : "En février 2026, des experts de la grippe se sont réunis quatre jours à Istanbul.",
+              "title" : "Se réunir in the passé composé: être and agreement"
+            },
+            {
+              "body" : "On (people, you) takes the il form of the verb, and the object pronoun le, shortened to l' before a vowel, goes in front of the verb: on l'attrape = you catch it.",
+              "example" : "On l'attrape par la toux et les mains.",
+              "title" : "On l'attrape: on and an object pronoun"
+            },
+            {
+              "body" : "Mettre + a length of time + à + infinitive says how long something needs: il met deux semaines à agir = it takes two weeks to work.",
+              "example" : "Il met environ deux semaines à agir.",
+              "title" : "Mettre + time + à: how long something takes"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En février 2026, des experts de la grippe se sont réunis quatre jours à Istanbul. En plein hiver, ils ont choisi le vaccin de cet hiver.",
+            "Le virus change tout le temps, alors le vaccin change aussi. Partout, des laboratoires envoient des échantillons toute l'année.",
+            "La grippe te rend vraiment malade. Mais en général, on va mieux en une semaine. On l'attrape par la toux et les mains.",
+            "Alors lave-toi les mains à l'eau chaude et au savon. Tousse dans ton coude, et ne touche pas ton visage. Quand tu es malade, reste chez toi. Ça fait paresseux, mais ça aide.",
+            "Le vaccin, c'est la meilleure protection. Il met environ deux semaines à agir. C'est pour toi ? Demande à ton médecin ou à ton pharmacien. Le choix de février est dans le vaccin de cet hiver."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Passer + a length of time + à + infinitive says what people did during that time: ils ont passé quatre jours à choisir = they spent four days choosing.",
+              "example" : "En février 2026, des experts de la grippe ont passé quatre jours à Istanbul à choisir le vaccin de l'hiver suivant : cet hiver.",
+              "title" : "Passer du temps à + infinitive"
+            },
+            {
+              "body" : "Même si (even if) admits something and keeps the advice: staying on the sofa may look lazy, and you stay there anyway. It takes the indicative, never the subjunctive.",
+              "example" : "Si tu es malade, reste sur le canapé, même si ça fait paresseux.",
+              "title" : "Même si: it's true, but it changes nothing"
+            },
+            {
+              "body" : "Se remettre de means to recover from; en replaces de la grippe, so on s'en remet = you get over it, people get over it.",
+              "example" : "Mais en général, on s'en remet en une semaine.",
+              "title" : "S'en remettre: to get over it"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En février 2026, des experts de la grippe ont passé quatre jours à Istanbul à choisir le vaccin de l'hiver suivant : cet hiver.",
+            "Le virus change sans arrêt, alors ils se réunissent deux fois par an, une par hémisphère. Des laboratoires de 136 pays envoient des échantillons toute l'année.",
+            "La grippe te tombe dessus et te met KO. Mais en général, on s'en remet en une semaine. On l'attrape par la toux, les éternuements et les mains.",
+            "Lave-toi les mains à l'eau chaude et au savon, puis sèche-les. Tousse dans ton coude ou un mouchoir. Pas touche au visage. Si tu es malade, reste sur le canapé, même si ça fait paresseux.",
+            "Le vaccin reste la meilleure protection. On le conseille aux seniors, aux femmes enceintes, aux tout-petits, aux soignants et aux malades chroniques. Demande à ton médecin ou à ton pharmacien si c'est pour toi. Il met environ deux semaines à agir, et le choix de février est dedans."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Aussi paresseux que ça puisse paraître means however lazy it may look: the feeling is admitted, the advice stands, and the verb after que goes into the subjunctive (puisse).",
+              "example" : "Si tu es malade, reste sur le canapé, aussi paresseux que ça puisse paraître.",
+              "title" : "Aussi + adjective + que + subjunctive: however"
+            },
+            {
+              "body" : "Remonter à + a date says how far back something goes: un réseau qui remonte à 1952 = a network dating back to 1952. The relative qui adds the description after the noun.",
+              "example" : "Toute l'année, 166 institutions dans 136 pays envoient des échantillons, un réseau qui remonte à 1952.",
+              "title" : "Remonter à: dating back to"
+            },
+            {
+              "body" : "Pourtant opening a sentence means even so: flu knocks you flat, and yet you usually get over it within a week.",
+              "example" : "Pourtant, en général, on s'en remet en une semaine, même si la toux traîne.",
+              "title" : "Pourtant at the start: and yet"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En février 2026, des experts de la grippe ont passé quatre jours à Istanbul à choisir le vaccin d'un hiver encore lointain : cet hiver.",
+            "Le virus change sans cesse, alors ils se réunissent deux fois par an, une par hémisphère. Toute l'année, 166 institutions dans 136 pays envoient des échantillons, un réseau qui remonte à 1952.",
+            "La grippe te tombe dessus et te met à plat. Pourtant, en général, on s'en remet en une semaine, même si la toux traîne. Elle se transmet par la toux, les éternuements et les mains.",
+            "Lave-toi les mains à l'eau chaude savonneuse, sèche-les, et tousse dans ton coude ou dans un mouchoir que tu jettes. Pas touche au visage. Si tu es malade, reste sur le canapé, aussi paresseux que ça puisse paraître.",
+            "Le vaccin reste la meilleure protection. On le conseille aux femmes enceintes, aux tout-petits, aux personnes âgées, aux soignants et aux malades chroniques. Si c'est ton cas ou dans le doute, demande à ton médecin ou à ton pharmacien. Il met environ deux semaines à faire effet, et le choix de février est dedans."
+          ]
+        }
+      ],
+      "summary" : "En février 2026, en plein hiver, des experts de la grippe ont fait un choix à Istanbul pour l'hiver suivant, et on le retrouve dans le vaccin de cet hiver.",
+      "title" : "Le choix de février",
+      "translationGroup" : "the-february-choice"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "id" : "the-february-choice-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at February, the A1 uses only waren (were) and mussten (had to); everything else stays in the present: Es ist November, also ist Grippezeit.",
+              "example" : "Im Februar waren Grippeexperten vier Tage in Istanbul.",
+              "title" : "Waren and mussten: one look back"
+            },
+            {
+              "body" : "Anstecken (to infect, to be catching) splits in a main clause: steckt takes second place and an goes to the end. Sich anfühlen works the same way: Das fühlt sich faul an.",
+              "example" : "Grippe steckt beim Husten und über die Hände an.",
+              "title" : "Separable verbs: steckt … an"
+            },
+            {
+              "body" : "For a tip to a friend, German drops du and the -st ending: du hustest → huste, du fasst → fass. Nicht goes before the part you are saying no to.",
+              "example" : "Huste in die Armbeuge und fass dir nicht ins Gesicht.",
+              "title" : "The du imperative: wasch, huste, fass"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist November, also ist Grippezeit. Im Februar waren Grippeexperten vier Tage in Istanbul. Das Virus ändert sich ständig. Also mussten sie einen neuen Impfstoff für diesen Winter auswählen.",
+            "Grippe macht richtig krank, aber nach einer Woche geht's den meisten besser. Grippe steckt beim Husten und über die Hände an.",
+            "Wasch dir die Hände mit warmem Wasser und Seife. Huste in die Armbeuge und fass dir nicht ins Gesicht. Krank? Bleib zu Hause. Das fühlt sich faul an, aber es hilft.",
+            "Die Impfung schützt am besten, aber ist sie was für dich? Frag deinen Arzt oder deine Apotheke. Der Impfstoff jetzt ist der vom Februar."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In the Perfekt of auswählen, ge- goes between the particle and the verb: ausgewählt. Haben takes second place and the participle goes to the end.",
+              "example" : "Dort haben sie den Impfstoff für diesen Winter ausgewählt.",
+              "title" : "Perfekt of a separable verb: ausgewählt"
+            },
+            {
+              "body" : "Also gives the result and auch says the same goes for something else. Spoken German often leaves out the repeated verb: also auch der Impfstoff = so the vaccine changes too.",
+              "example" : "Das Grippevirus ändert sich ständig, also auch der Impfstoff.",
+              "title" : "Also auch: so … too"
+            },
+            {
+              "body" : "Nach with a length of time says how long until something happens: nach etwa zwei Wochen = after about two weeks.",
+              "example" : "Die Impfung schützt am besten und wirkt nach etwa zwei Wochen.",
+              "title" : "Nach + a time: after how long"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im Februar 2026, mitten im Winter, waren Grippeexperten vier Tage in Istanbul. Dort haben sie den Impfstoff für diesen Winter ausgewählt.",
+            "Das Grippevirus ändert sich ständig, also auch der Impfstoff. Labore weltweit schicken das ganze Jahr Proben.",
+            "Grippe macht richtig krank, aber nach einer Woche geht's den meisten besser. Grippe steckt beim Husten und über die Hände an.",
+            "Wasch dir die Hände mit warmem Wasser und Seife. Huste in die Armbeuge und fass dir nicht ins Gesicht. Krank? Dann bleib zu Hause. Das fühlt sich faul an, aber es hilft.",
+            "Die Impfung schützt am besten und wirkt nach etwa zwei Wochen. Ist sie was für dich? Frag deinen Arzt oder deine Apotheke. Diesen Impfstoff haben die Experten im Februar ausgewählt."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Deshalb (that's why, so) fills the first place, so the verb follows at once: deshalb treffen sie sich. After und or aber the word order would not change.",
+              "example" : "Das Virus verändert sich ständig, deshalb treffen sie sich zweimal im Jahr, einmal pro Erdhälfte.",
+              "title" : "Deshalb: the verb comes straight after"
+            },
+            {
+              "body" : "Auch wenn admits something and says it changes nothing. Like wenn, it sends the verb to the end: auch wenn es sich faul anfühlt.",
+              "example" : "Krank? Bleib auf dem Sofa, auch wenn es sich faul anfühlt.",
+              "title" : "Auch wenn: even if"
+            },
+            {
+              "body" : "Innerhalb takes the genitive: innerhalb einer Woche = within a week, so in a week or sooner.",
+              "example" : "Grippe kommt plötzlich, dir geht's richtig mies, doch die meisten sind innerhalb einer Woche wieder gesund.",
+              "title" : "Innerhalb + genitive: within a week"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im Februar 2026 haben Grippeexperten vier Tage in Istanbul den Impfstoff für den nächsten Winter ausgewählt: diesen hier.",
+            "Das Virus verändert sich ständig, deshalb treffen sie sich zweimal im Jahr, einmal pro Erdhälfte. Labore in 136 Ländern schicken laufend Proben.",
+            "Grippe kommt plötzlich, dir geht's richtig mies, doch die meisten sind innerhalb einer Woche wieder gesund. Grippe verbreitet sich über Husten, Niesen und Hände.",
+            "Wasch dir die Hände mit warmem Seifenwasser und trockne sie ab. Huste in die Armbeuge oder ein Taschentuch. Hände weg vom Gesicht. Krank? Bleib auf dem Sofa, auch wenn es sich faul anfühlt.",
+            "Die Impfung schützt am besten, wirkt nach etwa zwei Wochen und wird Älteren, Schwangeren, kleinen Kindern, medizinischem Personal und chronisch Kranken empfohlen. Gehörst du dazu oder bist du unsicher? Frag deinen Arzt oder deine Apotheke. Im Impfstoff steckt, was im Februar ausgewählt wurde."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "So + adjective + auch, with the verb at the end, means however or no matter how: so faul sich das auch anfühlt = however lazy it feels. The advice still stands.",
+              "example" : "Krank? Ab aufs Sofa, so faul sich das auch anfühlt.",
+              "title" : "So … auch: however lazy it feels"
+            },
+            {
+              "body" : "Putting the participle first gives it weight, and werden still takes second place: Empfohlen wird sie … = it is recommended for … The people it is recommended to are in the dative.",
+              "example" : "Empfohlen wird sie Schwangeren, kleinen Kindern, Älteren, medizinischem Personal und chronisch Kranken.",
+              "title" : "Fronting the participle: Empfohlen wird sie"
+            },
+            {
+              "body" : "Trotzdem (even so) fills the first place, so the verb comes next: Trotzdem sind die meisten … Über den Berg sein = to be over the worst.",
+              "example" : "Trotzdem sind die meisten innerhalb einer Woche über den Berg, auch wenn der Husten bleibt.",
+              "title" : "Trotzdem at the start: and yet"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im Februar 2026 haben Grippeexperten vier Tage in Istanbul den Impfstoff für einen Winter ausgewählt, der Monate weg war: diesen hier.",
+            "Das Virus verändert sich ständig, also treffen sie sich zweimal im Jahr, einmal pro Halbkugel. 166 Institute in 136 Ländern schicken laufend Proben, ein Netz, das es seit 1952 gibt.",
+            "Grippe erwischt dich voll, aus heiterem Himmel. Trotzdem sind die meisten innerhalb einer Woche über den Berg, auch wenn der Husten bleibt. Grippe verbreitet sich über Husten, Niesen und Hände.",
+            "Wasch dir die Hände mit warmem Seifenwasser, trockne sie gut und huste in die Armbeuge oder ein Taschentuch, das du wegwirfst. Finger weg vom Gesicht! Krank? Ab aufs Sofa, so faul sich das auch anfühlt.",
+            "Die Impfung schützt am besten und wirkt nach etwa zwei Wochen. Empfohlen wird sie Schwangeren, kleinen Kindern, Älteren, medizinischem Personal und chronisch Kranken. Betrifft dich das, oder bist du unsicher? Frag deinen Arzt oder deine Apotheke. Im Impfstoff steckt, was im Februar ausgewählt wurde."
+          ]
+        }
+      ],
+      "summary" : "Im Februar 2026, mitten im Winter, haben Grippeexperten in Istanbul schon den Impfstoff für den nächsten Winter ausgewählt: für diesen hier.",
+      "title" : "Im Februar ausgewählt",
+      "translationGroup" : "the-february-choice"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "id" : "the-february-choice-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at February, A1 uses a few background forms (había, era, tenían que); tener que + infinitive says what people had to do. The rest stays in the present: es noviembre.",
+              "example" : "Por eso tenían que elegir una vacuna nueva para este invierno.",
+              "title" : "Tenían que: one look back"
+            },
+            {
+              "body" : "The positive tú imperative looks like the él form of the present (tose, lava), with any pronoun attached (lávate); to say don't, use no + the subjunctive, with the pronoun in front: no te toques.",
+              "example" : "Tose en el codo y no te toques la cara.",
+              "title" : "Tips to a friend: tose, no te toques"
+            },
+            {
+              "body" : "Hacer + infinitive means to make someone do or feel something; the person goes in front as a pronoun: te hace sentir fatal = it makes you feel awful.",
+              "example" : "La gripe te hace sentir fatal.",
+              "title" : "Te hace sentir: it makes you feel"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es noviembre, así que es temporada de gripe. En febrero había una reunión de expertos en gripe en Estambul. Era de cuatro días. El virus cambia todo el rato. Por eso tenían que elegir una vacuna nueva para este invierno.",
+            "La gripe te hace sentir fatal. Pero en una semana casi todos están bien. La gripe se contagia al toser y con las manos.",
+            "Así que lávate las manos con agua tibia y jabón. Tose en el codo y no te toques la cara. Si te encuentras mal, quédate en casa. Parece cosa de vagos, pero ayuda.",
+            "La vacuna es la mejor protección. ¿Es para ti? Pregúntale a tu médico o farmacéutico. Y la vacuna de este invierno es la de febrero."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events at a known time, here February 2026; elegir changes its stem in the ellos form: eligieron.",
+              "example" : "En febrero de 2026, unos expertos en gripe se reunieron cuatro días en Estambul.",
+              "title" : "Se reunieron, eligieron: the pretérito indefinido"
+            },
+            {
+              "body" : "Tardar + time + en + infinitive says how long something needs before it happens: tarda unas dos semanas en hacer efecto = it takes about two weeks to work.",
+              "example" : "La vacuna es la mejor protección, y tarda unas dos semanas en hacer efecto.",
+              "title" : "Tardar en: how long something takes"
+            },
+            {
+              "body" : "Contagiarse with se says that something spreads without saying who passes it on, where English uses a plain verb: se contagia = it spreads.",
+              "example" : "Se contagia al toser y también con las manos.",
+              "title" : "Se contagia: se with no person named"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En febrero de 2026, unos expertos en gripe se reunieron cuatro días en Estambul. En pleno invierno, eligieron la vacuna para este invierno.",
+            "El virus cambia todo el rato, así que la vacuna también cambia. Los laboratorios de todo el mundo mandan muestras todo el año.",
+            "La gripe te deja fatal, pero casi todos se ponen bien en una semana. Se contagia al toser y también con las manos.",
+            "Así que lávate las manos con agua tibia y jabón. Tose en el codo y no te toques la cara. Si te encuentras mal, quédate en casa. Parece cosa de vagos, pero ayuda.",
+            "La vacuna es la mejor protección, y tarda unas dos semanas en hacer efecto. ¿Es para ti? Pregúntale a tu médico o farmacéutico. La vacuna de este invierno es la que eligieron en febrero."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Pasar + a length of time + gerund says what people did during that time: pasaron cuatro días eligiendo = they spent four days choosing.",
+              "example" : "En febrero de 2026, unos expertos en gripe pasaron cuatro días en Estambul eligiendo la vacuna del invierno siguiente, que es este.",
+              "title" : "Pasar tiempo + gerund: spending time doing"
+            },
+            {
+              "body" : "No parar de + infinitive says something goes on and on without a break: el virus no para de cambiar = the virus keeps changing.",
+              "example" : "Como el virus no para de cambiar, se reúnen dos veces al año, una por cada mitad del mundo.",
+              "title" : "No parar de + infinitive: to keep doing"
+            },
+            {
+              "body" : "Aunque with the subjunctive admits something without letting it change the advice: aunque parezca cosa de vagos = even if it seems lazy. With the indicative it states a plain fact (although).",
+              "example" : "Si te encuentras mal, quédate en el sofá, aunque parezca cosa de vagos.",
+              "title" : "Aunque + subjunctive: even if"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En febrero de 2026, unos expertos en gripe pasaron cuatro días en Estambul eligiendo la vacuna del invierno siguiente, que es este.",
+            "Como el virus no para de cambiar, se reúnen dos veces al año, una por cada mitad del mundo. Laboratorios de 136 países mandan muestras todo el año.",
+            "La gripe llega de repente y te sientes fatal, pero casi todos se recuperan en una semana. Se contagia al toser, al estornudar y por las manos.",
+            "Lávate las manos con agua tibia y jabón, y sécatelas. Tose en el codo o en un pañuelo. No te toques la cara. Si te encuentras mal, quédate en el sofá, aunque parezca cosa de vagos.",
+            "La vacuna es la mejor protección. Se recomienda a mayores, embarazadas, niños pequeños, sanitarios y cualquiera con una enfermedad crónica. ¿Es tu caso o tienes dudas? Pregúntale a tu médico o farmacéutico. Tarda unas dos semanas en hacer efecto, y lleva dentro lo que se eligió en febrero."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Por mucho que + subjunctive grants the feeling and keeps the advice: por mucho que parezca cosa de vagos = however lazy it seems to you.",
+              "example" : "Si te encuentras mal, quédate en el sofá, por mucho que parezca cosa de vagos.",
+              "title" : "Por mucho que + subjunctive: however much"
+            },
+            {
+              "body" : "Aun así (no accent on aun, meaning even) opens a sentence that goes against what came before: flu leaves you drained, and even so most people recover within a week.",
+              "example" : "Aun así, casi todos se recuperan en una semana, aunque la tos dure más.",
+              "title" : "Aun así: still, even so"
+            },
+            {
+              "body" : "Spanish uses the present with desde for something that started in the past and still goes on, where English says has been working: funciona desde 1952.",
+              "example" : "Todo el año llegan muestras de 166 instituciones de 136 países, una red que funciona desde 1952.",
+              "title" : "Desde + year with the present: since"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En febrero de 2026, unos expertos en gripe pasaron cuatro días en Estambul eligiendo la vacuna para un invierno que aún quedaba lejos: este.",
+            "Como el virus no para de cambiar, se reúnen dos veces al año, una por hemisferio. Todo el año llegan muestras de 166 instituciones de 136 países, una red que funciona desde 1952.",
+            "La gripe aparece de la nada y te deja sin fuerzas. Aun así, casi todos se recuperan en una semana, aunque la tos dure más. Se contagia al toser, al estornudar y por las manos.",
+            "Lávate las manos con agua tibia y jabón, sécatelas y tose en el codo o en un pañuelo de usar y tirar. Las manos, lejos de la cara. Si te encuentras mal, quédate en el sofá, por mucho que parezca cosa de vagos.",
+            "La vacuna es la mejor protección. Se recomienda a embarazadas, niños pequeños, mayores, sanitarios y cualquiera con una enfermedad crónica. Si es tu caso, o tienes dudas, pregúntale a tu médico o farmacéutico. Tarda unas dos semanas en hacer efecto, y lleva dentro lo que se eligió en febrero."
+          ]
+        }
+      ],
+      "summary" : "En febrero de 2026, en pleno invierno, unos expertos en gripe se reunieron en Estambul para elegir la vacuna del invierno siguiente: la de este.",
+      "title" : "Una vacuna elegida en febrero",
+      "translationGroup" : "the-february-choice"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-11",
+      "id" : "the-february-choice-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at February, A1 uses the imperfetto erano (they were) and dovevano (they had to); the rest of the story stays in the present: è novembre, it's November.",
+              "example" : "A febbraio, gli esperti dell'influenza erano a Istanbul per quattro giorni.",
+              "title" : "Erano: one look back"
+            },
+            {
+              "body" : "Dovere + infinitive says something must be done; dovevano scegliere = they had to choose, a job with no way around it.",
+              "example" : "E così dovevano scegliere un vaccino nuovo per questo inverno.",
+              "title" : "Dovevano + infinitive: what people had to do"
+            },
+            {
+              "body" : "A tip to a friend uses the tu imperative: tossisci (cough), lavati (wash yourself). To say don't, Italian uses non + the infinitive: non toccarti = don't touch (yourself).",
+              "example" : "Tossisci nel gomito, e non toccarti la faccia.",
+              "title" : "Tips to a friend: tossisci, non toccarti"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È novembre, quindi è la stagione dell'influenza. A febbraio, gli esperti dell'influenza erano a Istanbul per quattro giorni. Il virus continua a cambiare. E così dovevano scegliere un vaccino nuovo per questo inverno.",
+            "L'influenza ti fa stare davvero male. Ma la maggior parte delle persone sta meglio in una settimana. L'influenza passa da una persona all'altra con la tosse e le mani.",
+            "Quindi lavati le mani con acqua calda e sapone. Tossisci nel gomito, e non toccarti la faccia. Se stai male, resta a casa. Sembra pigrizia, ma aiuta.",
+            "Il vaccino è la protezione migliore. Va bene per te? Chiedi al tuo medico o al farmacista. E la scelta di febbraio adesso è nel vaccino di quest'inverno."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto (era) sets the scene, how things were; the passato prossimo (hanno scelto) tells what happened. Già (already) sits between avere and the participle.",
+              "example" : "Era pieno inverno, ma hanno già scelto il vaccino per quest'inverno.",
+              "title" : "Era and hanno scelto: background and event"
+            },
+            {
+              "body" : "Reflexive verbs like riunirsi (to meet, to get together) form the passato prossimo with essere, and the participle agrees: gli esperti si sono riuniti.",
+              "example" : "A febbraio del 2026, gli esperti dell'influenza si sono riuniti a Istanbul per quattro giorni.",
+              "title" : "Si sono riuniti: reflexive verbs take essere"
+            },
+            {
+              "body" : "Continuare a + infinitive says something goes on without stopping: il virus continua a cambiare = the virus keeps changing.",
+              "example" : "Il virus dell'influenza continua a cambiare, quindi anche il vaccino cambia.",
+              "title" : "Continua a + infinitive: on and on"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "A febbraio del 2026, gli esperti dell'influenza si sono riuniti a Istanbul per quattro giorni. Era pieno inverno, ma hanno già scelto il vaccino per quest'inverno.",
+            "Il virus dell'influenza continua a cambiare, quindi anche il vaccino cambia. I laboratori di tutto il mondo mandano campioni tutto l'anno.",
+            "L'influenza ti fa stare davvero male. Ma la maggior parte delle persone sta meglio in una settimana. L'influenza passa da una persona all'altra con la tosse e con le mani.",
+            "Quindi lavati le mani con acqua calda e sapone. Tossisci nel gomito, e non toccarti la faccia. Quando stai male, resta a casa. Sembra pigrizia, ma aiuta.",
+            "Il vaccino è la protezione migliore, e funziona dopo circa due settimane. Va bene per te? Chiedi al tuo medico o al farmacista. La scelta di febbraio è nel vaccino di quest'inverno."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Passare (to spend) + a length of time + a + infinitive says what people did in that time: hanno passato quattro giorni a scegliere = they spent four days choosing.",
+              "example" : "A febbraio 2026, gli esperti dell'influenza hanno passato quattro giorni a Istanbul a scegliere il vaccino dell'inverno dopo: questo.",
+              "title" : "Passare + time + a + infinitive"
+            },
+            {
+              "body" : "Anche se (even if, even though) admits something and keeps the advice: staying on the sofa may feel lazy, and you still do it. It takes the ordinary indicative.",
+              "example" : "Se stai male, resta sul divano, anche se ti sembra pigrizia.",
+              "title" : "Anche se: true, but it changes nothing"
+            },
+            {
+              "body" : "Metterci + time + a + infinitive says how long something needs: il vaccino ci mette circa due settimane a fare effetto = the vaccine takes about two weeks to work.",
+              "example" : "Il vaccino ci mette circa due settimane a fare effetto, e dentro c'è la scelta di febbraio.",
+              "title" : "Metterci: how long something takes"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "A febbraio 2026, gli esperti dell'influenza hanno passato quattro giorni a Istanbul a scegliere il vaccino dell'inverno dopo: questo.",
+            "Il virus continua a cambiare, per questo si riuniscono due volte l'anno, una per ogni metà del mondo. I laboratori di 136 paesi mandano campioni tutto l'anno.",
+            "L'influenza arriva all'improvviso e stai malissimo, ma la maggior parte delle persone guarisce entro una settimana. Si trasmette con la tosse, gli starnuti e le mani.",
+            "Lavati le mani con acqua calda e sapone, e asciugale bene. Tossisci nel gomito o in un fazzoletto. Non toccarti la faccia. Se stai male, resta sul divano, anche se ti sembra pigrizia.",
+            "Il vaccino è la protezione migliore. Lo consigliano ad anziani, donne incinte, bambini piccoli, operatori sanitari e a chi ha una malattia cronica. Sei tra questi, o hai dubbi? Chiedi al tuo medico o al farmacista. Il vaccino ci mette circa due settimane a fare effetto, e dentro c'è la scelta di febbraio."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Per quanto takes the congiuntivo and means however much: per quanto ti sembri una cosa da pigri = however lazy it seems to you; the feeling is real, the advice stands.",
+              "example" : "Se stai male, resta sul divano, per quanto ti sembri una cosa da pigri.",
+              "title" : "Per quanto + subjunctive: no matter how"
+            },
+            {
+              "body" : "A past participle can describe a noun on its own, without che è: una rete nata nel 1952 = a network born in 1952, one that dates back to 1952.",
+              "example" : "I campioni arrivano tutto l'anno da 166 istituti in 136 paesi, una rete nata nel 1952.",
+              "title" : "Una rete nata nel 1952: a participle after a noun"
+            },
+            {
+              "body" : "Eppure opens a sentence that goes against what came before, like and yet or still: flu feels terrible, and yet most people get back on their feet within a week.",
+              "example" : "Eppure la maggior parte delle persone si rimette in piedi entro una settimana, anche se la tosse si trascina.",
+              "title" : "Eppure: and yet"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "A febbraio 2026, gli esperti dell'influenza hanno passato quattro giorni a Istanbul a scegliere il vaccino per un inverno ancora lontano: questo.",
+            "Il virus continua a cambiare, per questo si riuniscono due volte l'anno, una per emisfero. I campioni arrivano tutto l'anno da 166 istituti in 136 paesi, una rete nata nel 1952.",
+            "L'influenza arriva di colpo e stai da cani. Eppure la maggior parte delle persone si rimette in piedi entro una settimana, anche se la tosse si trascina. Si trasmette con la tosse, gli starnuti e le mani.",
+            "Lavati le mani con acqua calda e sapone, asciugale e tossisci nel gomito o in un fazzoletto che butti via. Giù le mani dalla faccia. Se stai male, resta sul divano, per quanto ti sembri una cosa da pigri.",
+            "Il vaccino è la protezione migliore. È consigliato alle donne incinte, ai bambini piccoli, agli anziani, agli operatori sanitari e a chi ha una malattia cronica. Se sei tra questi, o hai dubbi, chiedi al tuo medico o al farmacista. Il vaccino fa effetto dopo circa due settimane, e dentro c'è la scelta di febbraio."
+          ]
+        }
+      ],
+      "summary" : "A febbraio 2026, in pieno inverno, gli esperti dell'influenza, a Istanbul, hanno fatto una scelta per l'inverno dopo, e adesso quella scelta è nel vaccino di quest'inverno.",
+      "title" : "La scelta di febbraio",
+      "translationGroup" : "the-february-choice"
     }
   ]
 }
