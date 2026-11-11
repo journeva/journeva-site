@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 33,
-  "generatedAt" : "2026-11-11",
+  "contentVersion" : 34,
+  "generatedAt" : "2026-11-12",
   "glossary" : {
     "english" : [
       {
@@ -1690,9 +1690,9 @@
         "forms" : [
           "dedicated"
         ],
-        "note" : "As in \"lanes dedicated entirely to bicycles.\"",
+        "note" : "As in \"lanes dedicated entirely to bicycles\"; also the past of \"dedicate\": \"she dedicated it to the queen\" (offered her text to her as an honour).",
         "pos" : "adjective",
-        "translation" : "used only for one purpose"
+        "translation" : "used only for one purpose; (verb) offered as an honour"
       },
       {
         "forms" : [
@@ -8244,9 +8244,9 @@
         "forms" : [
           "adopted"
         ],
-        "note" : "Past tense of \"adopt.\"",
+        "note" : "Past tense of \"adopt.\" As in \"the Assembly adopted the Declaration\" (voted it in).",
         "pos" : "verb",
-        "translation" : "started using"
+        "translation" : "started using; formally accepted (a law or text)"
       },
       {
         "forms" : [
@@ -24781,7 +24781,8 @@
       },
       {
         "forms" : [
-          "revolution"
+          "revolution",
+          "revolution's"
         ],
         "note" : "A fight to change a country's rulers or system completely.",
         "pos" : "noun",
@@ -30911,6 +30912,152 @@
         "note" : "With a hyphen: \"labs send samples year-round\" = in every month, not only in winter.",
         "pos" : "adverb",
         "translation" : "all through the year"
+      },
+      {
+        "forms" : [
+          "olympe"
+        ],
+        "note" : "A woman's name, said \"o-LIMP\"; she is Olympe de Gouges, a writer in Paris in 1791.",
+        "pos" : "other",
+        "translation" : "a French first name (Olympe de Gouges)"
+      },
+      {
+        "forms" : [
+          "gouges"
+        ],
+        "note" : "Said \"GOOZH\": the s is silent, as often at the end of French words.",
+        "pos" : "other",
+        "translation" : "part of the name Olympe de Gouges"
+      },
+      {
+        "forms" : [
+          "1791"
+        ],
+        "note" : "Years are said in pairs: \"seventeen ninety-one\".",
+        "pos" : "number",
+        "translation" : "the year seventeen ninety-one"
+      },
+      {
+        "forms" : [
+          "1789"
+        ],
+        "note" : "Said \"seventeen eighty-nine\": the year the French Revolution began.",
+        "pos" : "number",
+        "translation" : "the year seventeen eighty-nine"
+      },
+      {
+        "forms" : [
+          "1944"
+        ],
+        "note" : "Said \"nineteen forty-four\", not \"one thousand nine hundred…\".",
+        "pos" : "number",
+        "translation" : "the year nineteen forty-four"
+      },
+      {
+        "forms" : [
+          "1945"
+        ],
+        "note" : "Said \"nineteen forty-five\".",
+        "pos" : "number",
+        "translation" : "the year nineteen forty-five"
+      },
+      {
+        "forms" : [
+          "rights"
+        ],
+        "note" : "Usually plural in this sense: \"equal in rights\", \"women's rights\"; not the same word as the adjective \"right\" (correct).",
+        "pos" : "noun",
+        "translation" : "things the law says every person may have or do"
+      },
+      {
+        "forms" : [
+          "equal"
+        ],
+        "note" : "\"Equal to\" + a person: \"equal to man in rights\" = with the same rights as men.",
+        "pos" : "adjective",
+        "translation" : "the same in value or status"
+      },
+      {
+        "forms" : [
+          "vote",
+          "voted"
+        ],
+        "note" : "As a verb, \"they voted\"; as a noun with \"the\", \"get the vote\" = get the right to vote.",
+        "pos" : "verb",
+        "translation" : "to choose in an election; (noun) the right to do this"
+      },
+      {
+        "forms" : [
+          "playwright"
+        ],
+        "note" : "Spelled -wright (an old word for a maker, as in shipwright), never -write; said like \"play-right\".",
+        "pos" : "noun",
+        "translation" : "a person who writes plays for the theatre"
+      },
+      {
+        "forms" : [
+          "bold"
+        ],
+        "note" : "\"Do something bold\" = do something daring that other people don't dare to do.",
+        "pos" : "adjective",
+        "translation" : "brave and ready to take a risk"
+      },
+      {
+        "forms" : [
+          "declaration"
+        ],
+        "note" : "From the verb \"declare\"; here the name of the famous 1789 text, the Declaration of the Rights of Man, with a capital D.",
+        "pos" : "noun",
+        "translation" : "an official statement"
+      },
+      {
+        "forms" : [
+          "article",
+          "articles"
+        ],
+        "note" : "\"Article 1\" is the first numbered part; the same word also means a piece in a newspaper.",
+        "pos" : "noun",
+        "translation" : "one numbered part of a law or official text"
+      },
+      {
+        "forms" : [
+          "national"
+        ],
+        "note" : "\"The National Assembly\" was the French parliament of the Revolution.",
+        "pos" : "adjective",
+        "translation" : "of a whole country"
+      },
+      {
+        "forms" : [
+          "assembly"
+        ],
+        "note" : "\"The National Assembly\": in France the name is still used for the parliament's main chamber.",
+        "pos" : "noun",
+        "translation" : "a group of people chosen to make laws"
+      },
+      {
+        "forms" : [
+          "wherever"
+        ],
+        "note" : "\"Wherever it said 'man'\" = in every place where the text said 'man'.",
+        "pos" : "conjunction",
+        "translation" : "in every place where; every time that"
+      },
+      {
+        "forms" : [
+          "attack"
+        ],
+        "note" : "Here in words, not with weapons: \"it doesn't attack men\" = it isn't against men.",
+        "pos" : "verb",
+        "translation" : "to fight against; to say bad things about"
+      },
+      {
+        "forms" : [
+          "montauban"
+        ],
+        "note" : "Said \"mon-toh-BAHN\" with a nasal on; Olympe de Gouges came from there.",
+        "pos" : "other",
+        "translation" : "a town in south-west France"
       }
     ],
     "french" : [
@@ -33075,9 +33222,9 @@
           "donné",
           "donnée"
         ],
-        "note" : "From donner (to give).",
+        "note" : "From donner (to give). « Ça donne… » = that comes out as…",
         "pos" : "verb",
-        "translation" : "gives / given"
+        "translation" : "gives / given; (ça donne) that comes out as"
       },
       {
         "forms" : [
@@ -34835,7 +34982,8 @@
       },
       {
         "forms" : [
-          "pareil"
+          "pareil",
+          "pareils"
         ],
         "gender" : "masculine",
         "note" : "Masculine form.",
@@ -39416,7 +39564,8 @@
       },
       {
         "forms" : [
-          "obtenir"
+          "obtenir",
+          "obtiennent"
         ],
         "note" : "Infinitive of obtenir.",
         "pos" : "verb",
@@ -39628,7 +39777,8 @@
       {
         "forms" : [
           "placez",
-          "placé"
+          "placé",
+          "plaçant"
         ],
         "note" : "\"Placez\" is the \"vous\" command form; \"placé\" the past participle.",
         "pos" : "verb",
@@ -41558,9 +41708,9 @@
           "côté"
         ],
         "gender" : "masculine",
-        "note" : "\"De ton côté du chemin\" (on your side of the path).",
+        "note" : "\"De ton côté du chemin\" (on your side of the path). « Laisser de côté » = to leave out.",
         "pos" : "noun",
-        "translation" : "side"
+        "translation" : "side; (laisser de côté) to leave out"
       },
       {
         "forms" : [
@@ -44202,6 +44352,7 @@
           "entrent",
           "entrer",
           "entré",
+          "entrée",
           "entrés"
         ],
         "note" : "Entrer = to enter; ils entrent = they enter; entré = entered (ils sont entrés).",
@@ -44983,9 +45134,9 @@
         "forms" : [
           "l'homme"
         ],
-        "note" : "L' + homme.",
+        "note" : "L' + homme. In « les droits de l'homme », l'homme means people in general, but the word is also simply « man ».",
         "pos" : "noun",
-        "translation" : "the man"
+        "translation" : "the man; (les droits de l'homme) human beings"
       },
       {
         "forms" : [
@@ -47675,6 +47826,7 @@
       },
       {
         "forms" : [
+          "égale",
           "égaux"
         ],
         "note" : "Masculine plural of égal.",
@@ -50985,7 +51137,8 @@
         "forms" : [
           "recopie",
           "recopient",
-          "recopier"
+          "recopier",
+          "recopié"
         ],
         "note" : "Forms of \"recopier.\"",
         "pos" : "verb",
@@ -51201,9 +51354,9 @@
           "réclame",
           "réclamer"
         ],
-        "note" : "Infinitive.",
+        "note" : "Réclamer (infinitive); « il réclame » = it demands.",
         "pos" : "verb",
-        "translation" : "to claim, demand"
+        "translation" : "claims, demands; to claim, to demand"
       },
       {
         "forms" : [
@@ -54141,7 +54294,8 @@
           "écouta",
           "écoute",
           "écouter",
-          "écouté"
+          "écouté",
+          "écoutée"
         ],
         "note" : "Forms of écouter.",
         "pos" : "verb",
@@ -55469,9 +55623,9 @@
           "écrivaines"
         ],
         "gender" : "feminine",
-        "note" : "Feminine plural of écrivain.",
+        "note" : "Feminine of écrivain: une écrivaine, des écrivaines.",
         "pos" : "noun",
-        "translation" : "writers"
+        "translation" : "writer (a woman); writers"
       },
       {
         "forms" : [
@@ -59434,7 +59588,8 @@
       },
       {
         "forms" : [
-          "ennemi"
+          "ennemi",
+          "l'ennemi"
         ],
         "gender" : "masculine",
         "note" : "« Son vieil ennemi » = its old enemy; feminine « ennemie ».",
@@ -72947,6 +73102,197 @@
         "note" : "Remonter à + a date: « un réseau qui remonte à 1952 » = a network dating back to 1952.",
         "pos" : "verb",
         "translation" : "goes back, dates back"
+      },
+      {
+        "forms" : [
+          "1789"
+        ],
+        "note" : "Read « mille sept cent quatre-vingt-neuf »; the year of the Revolution's Déclaration des droits de l'homme et du citoyen.",
+        "pos" : "number",
+        "translation" : "1789"
+      },
+      {
+        "forms" : [
+          "1791"
+        ],
+        "note" : "Read « mille sept cent quatre-vingt-onze »; « en septembre 1791 » = in September 1791, month first, then the year.",
+        "pos" : "number",
+        "translation" : "1791"
+      },
+      {
+        "forms" : [
+          "1944"
+        ],
+        "note" : "Read « mille neuf cent quarante-quatre »; the year French women got the right to vote.",
+        "pos" : "number",
+        "translation" : "1944"
+      },
+      {
+        "forms" : [
+          "1945"
+        ],
+        "note" : "Read « mille neuf cent quarante-cinq »; « en 1945 » = in 1945, with en before a year.",
+        "pos" : "number",
+        "translation" : "1945"
+      },
+      {
+        "forms" : [
+          "olympe"
+        ],
+        "gender" : "feminine",
+        "note" : "A woman's first name, as in Olympe de Gouges; the final e is silent.",
+        "pos" : "noun",
+        "translation" : "Olympe"
+      },
+      {
+        "forms" : [
+          "d'olympe"
+        ],
+        "gender" : "feminine",
+        "note" : "De + Olympe, shortened before the vowel: « un texte d'Olympe de Gouges » = a text by Olympe de Gouges.",
+        "pos" : "noun",
+        "translation" : "of Olympe"
+      },
+      {
+        "forms" : [
+          "gouges"
+        ],
+        "gender" : "feminine",
+        "note" : "Part of the name Olympe de Gouges; the final s is silent.",
+        "pos" : "noun",
+        "translation" : "Gouges (surname)"
+      },
+      {
+        "forms" : [
+          "montauban"
+        ],
+        "gender" : "masculine",
+        "note" : "A town in south-west France: « née à Montauban » = born in Montauban.",
+        "pos" : "noun",
+        "translation" : "Montauban"
+      },
+      {
+        "forms" : [
+          "droits"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le droit », a right: « égaux en droits » = equal in rights; « le droit de vote » = the right to vote.",
+        "pos" : "noun",
+        "translation" : "rights"
+      },
+      {
+        "forms" : [
+          "vote"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le droit de vote » = the right to vote; a noun here, though « il vote » is also the verb.",
+        "pos" : "noun",
+        "translation" : "vote"
+      },
+      {
+        "forms" : [
+          "votent",
+          "voter",
+          "voté"
+        ],
+        "note" : "« Elles ont voté » is the passé composé; « pour qu'elles votent » is the subjunctive after pour que.",
+        "pos" : "verb",
+        "translation" : "to vote"
+      },
+      {
+        "forms" : [
+          "françaises"
+        ],
+        "gender" : "feminine",
+        "note" : "With a capital, « les Françaises » are French women; the adjective française stays lower case.",
+        "pos" : "noun",
+        "translation" : "French women"
+      },
+      {
+        "forms" : [
+          "article",
+          "articles"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le premier article » = the first article; a declaration or a law is made of articles.",
+        "pos" : "noun",
+        "translation" : "article (of a law or text)"
+      },
+      {
+        "forms" : [
+          "autrice"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine of auteur: « autrice de théâtre » = playwright; no article before a job after a comma.",
+        "pos" : "noun",
+        "translation" : "author, writer (woman)"
+      },
+      {
+        "forms" : [
+          "brochure"
+        ],
+        "gender" : "feminine",
+        "note" : "A short printed text, a few pages long: « elle a publié une brochure ».",
+        "pos" : "noun",
+        "translation" : "pamphlet, booklet"
+      },
+      {
+        "forms" : [
+          "dédié"
+        ],
+        "note" : "Past participle of dédier: « elle l'a dédié à la reine » = she dedicated it to the queen.",
+        "pos" : "verb",
+        "translation" : "dedicated"
+      },
+      {
+        "forms" : [
+          "reine"
+        ],
+        "gender" : "feminine",
+        "note" : "« La reine » = the queen; in 1791, Marie-Antoinette.",
+        "pos" : "noun",
+        "translation" : "queen"
+      },
+      {
+        "forms" : [
+          "parisienne"
+        ],
+        "note" : "Feminine of parisien; as an adjective it stays lower case: « une autrice parisienne ».",
+        "pos" : "adjective",
+        "translation" : "from Paris, Parisian"
+      },
+      {
+        "forms" : [
+          "l'assemblée"
+        ],
+        "gender" : "feminine",
+        "note" : "L' + assemblée: « l'Assemblée nationale » = the National Assembly, France's parliament.",
+        "pos" : "noun",
+        "translation" : "the assembly"
+      },
+      {
+        "forms" : [
+          "nationale"
+        ],
+        "note" : "Feminine of national, after the noun: « l'Assemblée nationale ».",
+        "pos" : "adjective",
+        "translation" : "national"
+      },
+      {
+        "forms" : [
+          "proclamé"
+        ],
+        "note" : "Past participle of proclamer; « avait proclamé » is the plus-que-parfait, a past before another past.",
+        "pos" : "verb",
+        "translation" : "proclaimed, declared"
+      },
+      {
+        "forms" : [
+          "n'attaque"
+        ],
+        "note" : "Ne + attaque, shortened before the vowel: « il n'attaque pas les hommes » = it doesn't attack men.",
+        "pos" : "verb",
+        "translation" : "doesn't attack"
       }
     ],
     "german" : [
@@ -72972,7 +73318,7 @@
         ],
         "note" : "Often part of a separable verb, like \"abbrechen\" (to break off). At the end of a clause, „ab“ is usually the detached half of a separable verb (abhören, abdecken, abhängen …): the meaning is on the verb's card.",
         "pos" : "preposition",
-        "translation" : "off, from"
+        "translation" : "off, from; (ab 1944) from … on"
       },
       {
         "forms" : [
@@ -73768,6 +74114,7 @@
       {
         "forms" : [
           "dasselbe",
+          "derselbe",
           "dieselbe",
           "dieselben"
         ],
@@ -76746,7 +77093,8 @@
       {
         "forms" : [
           "satz",
-          "satzes"
+          "satzes",
+          "sätze"
         ],
         "gender" : "masculine",
         "note" : "\"Satzes\" is the genitive form.",
@@ -77052,6 +77400,7 @@
       {
         "forms" : [
           "sei",
+          "seien",
           "sein",
           "seine",
           "seinen"
@@ -80928,6 +81277,7 @@
         "forms" : [
           "mutig",
           "mutiger",
+          "mutiges",
           "mutigste"
         ],
         "note" : "\"Mutiger\" is the comparative of mutig.",
@@ -82433,11 +82783,12 @@
       },
       {
         "forms" : [
+          "gewidmet",
           "widmen"
         ],
-        "note" : "Infinitive of sich widmen.",
+        "note" : "Infinitive of sich widmen; without sich: jemandem etwas widmen = to dedicate something to someone (gewidmet).",
         "pos" : "verb",
-        "translation" : "to devote (oneself)"
+        "translation" : "to devote (oneself); to dedicate (a text to someone)"
       },
       {
         "forms" : [
@@ -89638,6 +89989,7 @@
       },
       {
         "forms" : [
+          "zugehört",
           "zuhörst",
           "zuhört"
         ],
@@ -90978,6 +91330,7 @@
       },
       {
         "forms" : [
+          "französisch",
           "französischen",
           "französischer",
           "französisches"
@@ -95190,9 +95543,9 @@
           "fragten",
           "gefragt"
         ],
-        "note" : "Fragen: present \"er/sie/es\" form, preterite plural, and past participle.",
+        "note" : "Fragen: present \"er/sie/es\" form, preterite plural, and past participle. „Sie hat sich gefragt“ = she wondered.",
         "pos" : "verb",
-        "translation" : "asks, asked"
+        "translation" : "asks, asked; (sich fragen) to wonder"
       },
       {
         "forms" : [
@@ -101258,7 +101611,8 @@
       },
       {
         "forms" : [
-          "feind"
+          "feind",
+          "feinde"
         ],
         "gender" : "masculine",
         "note" : "Der Feind, plural Feinde: „ein alter Feind“ = an old enemy.",
@@ -107319,7 +107673,7 @@
         "forms" : [
           "de"
         ],
-        "note" : "The French word for „of“, here only as part of the name Porte de Versailles.",
+        "note" : "The French word for „of“, as in names: Porte de Versailles, Olympe de Gouges.",
         "pos" : "preposition",
         "translation" : "of (French)"
       },
@@ -115879,9 +116233,9 @@
           "erklärung"
         ],
         "gender" : "feminine",
-        "note" : "Die Erklärung, from erklären (to explain); nouns in -ung are always feminine.",
+        "note" : "Die Erklärung, from erklären (to explain); nouns in -ung are always feminine. Also a declaration: die Erklärung der Menschen- und Bürgerrechte.",
         "pos" : "noun",
-        "translation" : "explanation"
+        "translation" : "explanation; declaration"
       },
       {
         "forms" : [
@@ -116717,6 +117071,154 @@
         "note" : "Wegwerfen, the du form; at the end of a clause the particle stays joined: „ein Taschentuch, das du wegwirfst“ = a tissue you throw away.",
         "pos" : "verb",
         "translation" : "throw away"
+      },
+      {
+        "forms" : [
+          "1789"
+        ],
+        "note" : "Said „siebzehnhundertneunundachtzig“: the year of the Erklärung der Menschen- und Bürgerrechte in revolutionary France.",
+        "pos" : "number",
+        "translation" : "1789"
+      },
+      {
+        "forms" : [
+          "1791"
+        ],
+        "note" : "Said „siebzehnhunderteinundneunzig“: German reads years in hundreds; „im September 1791“ = in September 1791.",
+        "pos" : "number",
+        "translation" : "1791"
+      },
+      {
+        "forms" : [
+          "1944"
+        ],
+        "note" : "Said „neunzehnhundertvierundvierzig“: „erst 1944“ = only in 1944, not before.",
+        "pos" : "number",
+        "translation" : "1944"
+      },
+      {
+        "forms" : [
+          "olympe",
+          "olympes"
+        ],
+        "note" : "A French woman's first name, said the French way: Olympe de Gouges, a playwright in Paris in the 1790s. Olympes Text = Olympe's text (a name takes -s, no apostrophe).",
+        "pos" : "other",
+        "translation" : "Olympe"
+      },
+      {
+        "forms" : [
+          "gouges"
+        ],
+        "note" : "Part of the name Olympe de Gouges, said the French way, roughly „guhsch“.",
+        "pos" : "other",
+        "translation" : "Gouges"
+      },
+      {
+        "forms" : [
+          "rechte",
+          "rechten"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Recht (a right), plural die Rechte; „gleich an Rechten“ = equal in rights, with the dative plural Rechten.",
+        "pos" : "noun",
+        "translation" : "rights"
+      },
+      {
+        "forms" : [
+          "abgeschrieben"
+        ],
+        "note" : "Partizip II of abschreiben (to copy out), with ge- after the particle: „Sie hat den Text abgeschrieben“ = she copied the text.",
+        "pos" : "verb",
+        "translation" : "copied"
+      },
+      {
+        "forms" : [
+          "theaterautorin"
+        ],
+        "gender" : "feminine",
+        "note" : "Theater + Autorin: a woman who writes plays; another word is Dramatikerin.",
+        "pos" : "noun",
+        "translation" : "playwright (female)"
+      },
+      {
+        "forms" : [
+          "bürgerrechte"
+        ],
+        "gender" : "neuter",
+        "note" : "Bürger (citizen) + Rechte: „die Erklärung der Menschen- und Bürgerrechte“ = the Declaration of the Rights of Man and of the Citizen; „Menschen-“ shares the ending -rechte.",
+        "pos" : "noun",
+        "translation" : "civil rights, rights of the citizen"
+      },
+      {
+        "forms" : [
+          "wahlrecht"
+        ],
+        "gender" : "neuter",
+        "note" : "Wahl (vote) + Recht (right): „das Wahlrecht bekommen“ = to get the vote.",
+        "pos" : "noun",
+        "translation" : "the right to vote"
+      },
+      {
+        "forms" : [
+          "artikel",
+          "artikeln"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Artikel, plural die Artikel, dative plural Artikeln: „in allen 17 Artikeln“ = in all 17 articles; it is also the grammar word for der, die, das.",
+        "pos" : "noun",
+        "translation" : "article (of a law or declaration)"
+      },
+      {
+        "forms" : [
+          "französinnen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Französin (a Frenchwoman), plural die Französinnen; a Frenchman is der Franzose.",
+        "pos" : "noun",
+        "translation" : "Frenchwomen"
+      },
+      {
+        "forms" : [
+          "durchgegangen"
+        ],
+        "note" : "Partizip II of durchgehen, with sein: „Sie ist alle 17 Artikel durchgegangen“ = she went through all 17 articles.",
+        "pos" : "verb",
+        "translation" : "gone through"
+      },
+      {
+        "forms" : [
+          "königin"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Königin, der König with -in: „der Königin“ = to the queen (dative).",
+        "pos" : "noun",
+        "translation" : "queen"
+      },
+      {
+        "forms" : [
+          "l'homme"
+        ],
+        "note" : "French for both „der Mann“ and „der Mensch“: the title of the 1789 Declaration says l'homme, which German renders as Menschenrechte.",
+        "pos" : "other",
+        "translation" : "man; human being (French)"
+      },
+      {
+        "forms" : [
+          "nationalversammlung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Nationalversammlung: the elected assembly of revolutionary France from 1789.",
+        "pos" : "noun",
+        "translation" : "National Assembly"
+      },
+      {
+        "forms" : [
+          "kopie"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kopie, plural die Kopien: „eine Kopie, aber mit der Frau drin“ = a copy, but with the woman in it.",
+        "pos" : "noun",
+        "translation" : "copy"
       }
     ],
     "italian" : [
@@ -118765,6 +119267,7 @@
           "chiedeva",
           "chiedimi",
           "chiedo",
+          "chiesta",
           "chiesto"
         ],
         "note" : "From chiedere, \"to ask.\"",
@@ -118945,7 +119448,7 @@
           "cittadine",
           "cittadino"
         ],
-        "note" : "As in \"quartiere cittadino,\" city neighborhood.",
+        "note" : "As in \"quartiere cittadino,\" city neighborhood. As a noun, il cittadino = the citizen: «i diritti dell'uomo e del cittadino».",
         "pos" : "adjective",
         "translation" : "city (adjective) / citizen"
       },
@@ -120013,7 +120516,8 @@
       {
         "forms" : [
           "dedicarti",
-          "dedicate"
+          "dedicate",
+          "dedicato"
         ],
         "note" : "From dedicare/dedicarsi.",
         "pos" : "verb",
@@ -121410,7 +121914,8 @@
       },
       {
         "forms" : [
-          "frase"
+          "frase",
+          "frasi"
         ],
         "gender" : "feminine",
         "note" : "A unit of writing.",
@@ -123953,7 +124458,8 @@
       },
       {
         "forms" : [
-          "ottenere"
+          "ottenere",
+          "ottenuto"
         ],
         "note" : "Infinitive of ottenere.",
         "pos" : "verb",
@@ -135548,6 +136054,7 @@
         "forms" : [
           "ascolta",
           "ascoltare",
+          "ascoltata",
           "ascoltato",
           "ascolti",
           "ascoltò"
@@ -135645,6 +136152,7 @@
         "forms" : [
           "cambia",
           "cambiano",
+          "cambiata",
           "cambiati",
           "cambiato"
         ],
@@ -146566,6 +147074,7 @@
       },
       {
         "forms" : [
+          "copiata",
           "copiato"
         ],
         "note" : "Past participle of copiare, to copy; aveva copiato l'idea = had copied the idea.",
@@ -153838,6 +154347,189 @@
         "note" : "Present of trascinare (to drag); trascinarsi = to drag on: la tosse si trascina = the cough lingers.",
         "pos" : "verb",
         "translation" : "drags on"
+      },
+      {
+        "forms" : [
+          "olympe"
+        ],
+        "gender" : "feminine",
+        "note" : "A French woman's first name, said «olàmp»; Olympe de Gouges is the name she wrote under.",
+        "pos" : "noun",
+        "translation" : "Olympe (a first name)"
+      },
+      {
+        "forms" : [
+          "gouges"
+        ],
+        "gender" : "feminine",
+        "note" : "The surname in Olympe de Gouges, said «guj»; de here is French for di, part of the name.",
+        "pos" : "noun",
+        "translation" : "Gouges (a surname)"
+      },
+      {
+        "forms" : [
+          "montauban"
+        ],
+        "gender" : "feminine",
+        "note" : "A town in south-west France, said «montobàn»; like most cities it is feminine: di Montauban = from Montauban.",
+        "pos" : "noun",
+        "translation" : "Montauban"
+      },
+      {
+        "forms" : [
+          "1789"
+        ],
+        "note" : "Millesettecentottantanove, the year of the French Revolution: del 1789 = from 1789.",
+        "pos" : "number",
+        "translation" : "1789"
+      },
+      {
+        "forms" : [
+          "1791"
+        ],
+        "note" : "Millesettecentonovantuno; nel settembre 1791 = in September 1791.",
+        "pos" : "number",
+        "translation" : "1791"
+      },
+      {
+        "forms" : [
+          "1944"
+        ],
+        "note" : "Millenovecentoquarantaquattro; solo nel 1944 = only in 1944, dal 1944 = since 1944.",
+        "pos" : "number",
+        "translation" : "1944"
+      },
+      {
+        "forms" : [
+          "1945"
+        ],
+        "note" : "Millenovecentoquarantacinque; nel 1945 = in 1945.",
+        "pos" : "number",
+        "translation" : "1945"
+      },
+      {
+        "forms" : [
+          "diritti",
+          "diritto"
+        ],
+        "gender" : "masculine",
+        "note" : "Il diritto, plural i diritti: uguali nei diritti = equal in rights; il diritto di voto = the right to vote.",
+        "pos" : "noun",
+        "translation" : "right(s)"
+      },
+      {
+        "forms" : [
+          "voto"
+        ],
+        "gender" : "masculine",
+        "note" : "Il voto; il diritto di voto = the right to vote, the vote.",
+        "pos" : "noun",
+        "translation" : "vote"
+      },
+      {
+        "forms" : [
+          "votano",
+          "votare",
+          "votato"
+        ],
+        "note" : "Forms of votare (to vote): votano = they vote, possono votare = they can vote, hanno votato = they voted (passato prossimo with avere).",
+        "pos" : "verb",
+        "translation" : "vote; voted"
+      },
+      {
+        "forms" : [
+          "drammaturga"
+        ],
+        "gender" : "feminine",
+        "note" : "Someone who writes plays; the masculine is il drammaturgo: una drammaturga = a (woman) playwright.",
+        "pos" : "noun",
+        "translation" : "playwright (a woman)"
+      },
+      {
+        "forms" : [
+          "dichiarazione"
+        ],
+        "gender" : "feminine",
+        "note" : "La Dichiarazione dei diritti dell'uomo e del cittadino = the Declaration of the Rights of Man and of the Citizen (1789).",
+        "pos" : "noun",
+        "translation" : "declaration"
+      },
+      {
+        "forms" : [
+          "dell'uomo"
+        ],
+        "note" : "Di + l'uomo, the article drops its vowel: i diritti dell'uomo = the rights of man; uomo here also means human being.",
+        "pos" : "other",
+        "translation" : "of man, of the man"
+      },
+      {
+        "forms" : [
+          "regina"
+        ],
+        "gender" : "feminine",
+        "note" : "La regina; the king is il re: alla regina = to the queen.",
+        "pos" : "noun",
+        "translation" : "queen"
+      },
+      {
+        "forms" : [
+          "l'assemblea"
+        ],
+        "gender" : "feminine",
+        "note" : "La + assemblea, the article drops its vowel: l'Assemblea nazionale = the National Assembly of the Revolution.",
+        "pos" : "noun",
+        "translation" : "the assembly"
+      },
+      {
+        "forms" : [
+          "nazionale"
+        ],
+        "note" : "Same form for masculine and feminine: l'Assemblea nazionale = the National Assembly.",
+        "pos" : "adjective",
+        "translation" : "national"
+      },
+      {
+        "forms" : [
+          "approvato"
+        ],
+        "note" : "Participle of approvare: aveva approvato = had adopted (trapassato prossimo), said of a law or a text voted through.",
+        "pos" : "verb",
+        "translation" : "approved, adopted"
+      },
+      {
+        "forms" : [
+          "articoli",
+          "articolo"
+        ],
+        "gender" : "masculine",
+        "note" : "One numbered part of a law or declaration (also a newspaper article): articolo per articolo = article by article.",
+        "pos" : "noun",
+        "translation" : "article(s)"
+      },
+      {
+        "forms" : [
+          "domandata"
+        ],
+        "note" : "Feminine participle of domandarsi (to wonder), with essere: si è domandata = she wondered.",
+        "pos" : "verb",
+        "translation" : "wondered, asked herself"
+      },
+      {
+        "forms" : [
+          "retta"
+        ],
+        "gender" : "feminine",
+        "note" : "Used in dare retta a qualcuno = to listen to someone, take their advice: nessuno le ha dato retta = nobody listened to her.",
+        "pos" : "noun",
+        "translation" : "heed, attention"
+      },
+      {
+        "forms" : [
+          "riscritta"
+        ],
+        "note" : "Feminine participle of riscrivere (ri- = again + scrivere): l'ha riscritta = she rewrote it, agreeing with la.",
+        "pos" : "verb",
+        "translation" : "rewritten"
       }
     ],
     "spanish" : [
@@ -155783,7 +156475,8 @@
       },
       {
         "forms" : [
-          "frase"
+          "frase",
+          "frases"
         ],
         "gender" : "feminine",
         "note" : "A written or spoken sentence — here, a famous line.",
@@ -156277,7 +156970,7 @@
         ],
         "note" : "\"La/las\" (fem. sing./plural article), \"lo/los\" (masc. article or object pronoun).",
         "pos" : "article",
-        "translation" : "the / it, them"
+        "translation" : "the / it, them, her"
       },
       {
         "forms" : [
@@ -157334,9 +158027,9 @@
         "forms" : [
           "preguntó"
         ],
-        "note" : "Preguntar (to ask), past tense.",
+        "note" : "Preguntar (to ask), past tense. «Se preguntó» = she wondered (asked herself).",
         "pos" : "verb",
-        "translation" : "asked"
+        "translation" : "asked; (se preguntó) wondered"
       },
       {
         "forms" : [
@@ -157905,6 +158598,7 @@
       },
       {
         "forms" : [
+          "sean",
           "ser",
           "sería"
         ],
@@ -164583,9 +165277,9 @@
         "forms" : [
           "dedicó"
         ],
-        "note" : "Past tense of dedicar.",
+        "note" : "Past tense of dedicar. As in «se lo dedicó a la reina» (she dedicated it to the queen).",
         "pos" : "verb",
-        "translation" : "devoted"
+        "translation" : "devoted; dedicated (a text to someone)"
       },
       {
         "forms" : [
@@ -166724,6 +167418,7 @@
       {
         "forms" : [
           "permanece",
+          "permanecen",
           "permanecido",
           "permanecía"
         ],
@@ -166924,7 +167619,7 @@
         ],
         "note" : "Preguntaba is the imperfect tense of preguntar.",
         "pos" : "noun",
-        "translation" : "question, asks; was asking"
+        "translation" : "question, asks; was asking; (se preguntaba) wondered"
       },
       {
         "forms" : [
@@ -169810,6 +170505,7 @@
       },
       {
         "forms" : [
+          "francesas",
           "franceses",
           "francés"
         ],
@@ -176485,12 +177181,13 @@
           "conseguido",
           "conseguir",
           "conseguía",
+          "consiguieran",
           "consiguieron",
           "consiguió"
         ],
         "note" : "«Haya conseguido sentarse».",
         "pos" : "verb",
-        "translation" : "managed; to manage, to get"
+        "translation" : "got, managed; to get, to manage"
       },
       {
         "forms" : [
@@ -182555,9 +183252,9 @@
         "forms" : [
           "hubo"
         ],
-        "note" : "Pretérito indefinido of haber, the past of \"hay\" for an event; like \"hay\" it has one form: no hubo ningún milagro = there was no miracle.",
+        "note" : "Pretérito indefinido of haber, the past of \"hay\" for an event; like \"hay\" it has one form: no hubo ningún milagro = there was no miracle. «Hubo que esperar» = people had to wait.",
         "pos" : "verb",
-        "translation" : "there was, there were"
+        "translation" : "there was, there were; (hubo que) one had to"
       },
       {
         "forms" : [
@@ -185734,6 +186431,7 @@
       },
       {
         "forms" : [
+          "ataca",
           "atacar"
         ],
         "note" : "Atacar un problema = to tackle a problem, an everyday figurative use.",
@@ -192360,6 +193058,177 @@
         "note" : "Recuperarse, ellos form of the present: «casi todos se recuperan en una semana» = almost everyone recovers within a week.",
         "pos" : "verb",
         "translation" : "(they) recover"
+      },
+      {
+        "forms" : [
+          "olympe"
+        ],
+        "note" : "Olympe de Gouges, a playwright in Paris during the French Revolution; Spanish keeps the French name.",
+        "pos" : "other",
+        "translation" : "Olympe (a woman's first name)"
+      },
+      {
+        "forms" : [
+          "gouges"
+        ],
+        "note" : "Olympe de Gouges: Spanish keeps the French surname and says it the French way.",
+        "pos" : "other",
+        "translation" : "Gouges (a surname)"
+      },
+      {
+        "forms" : [
+          "montauban"
+        ],
+        "note" : "A town in the south-west of France; Spanish keeps the French name: «de Montauban».",
+        "pos" : "other",
+        "translation" : "Montauban"
+      },
+      {
+        "forms" : [
+          "1789"
+        ],
+        "note" : "Read «mil setecientos ochenta y nueve»: the year of the Declaration of the Rights of Man.",
+        "pos" : "number",
+        "translation" : "1789"
+      },
+      {
+        "forms" : [
+          "1791"
+        ],
+        "note" : "Read «mil setecientos noventa y uno»: years take no dot in Spanish, «en septiembre de 1791».",
+        "pos" : "number",
+        "translation" : "1791"
+      },
+      {
+        "forms" : [
+          "1944"
+        ],
+        "note" : "Read «mil novecientos cuarenta y cuatro»: «hasta 1944» = until 1944.",
+        "pos" : "number",
+        "translation" : "1944"
+      },
+      {
+        "forms" : [
+          "1945"
+        ],
+        "note" : "Read «mil novecientos cuarenta y cinco»: «en 1945» = in 1945.",
+        "pos" : "number",
+        "translation" : "1945"
+      },
+      {
+        "forms" : [
+          "derecho",
+          "derechos"
+        ],
+        "gender" : "masculine",
+        "note" : "«Los derechos» are rights; «el derecho al voto» = the right to vote.",
+        "pos" : "noun",
+        "translation" : "right (something you are entitled to)"
+      },
+      {
+        "forms" : [
+          "dramaturga"
+        ],
+        "gender" : "feminine",
+        "note" : "Someone who writes plays; masculine «dramaturgo».",
+        "pos" : "noun",
+        "translation" : "playwright (woman)"
+      },
+      {
+        "forms" : [
+          "declaración"
+        ],
+        "gender" : "feminine",
+        "note" : "«La Declaración de los Derechos del Hombre y del Ciudadano» (1789) = the Declaration of the Rights of Man and of the Citizen.",
+        "pos" : "noun",
+        "translation" : "declaration"
+      },
+      {
+        "forms" : [
+          "ciudadano"
+        ],
+        "gender" : "masculine",
+        "note" : "«Del Ciudadano»: del = de + el; the feminine is «ciudadana».",
+        "pos" : "noun",
+        "translation" : "citizen"
+      },
+      {
+        "forms" : [
+          "artículo",
+          "artículos"
+        ],
+        "gender" : "masculine",
+        "note" : "«Su primer artículo» = its first article; also an article in a newspaper.",
+        "pos" : "noun",
+        "translation" : "article (of a law or declaration)"
+      },
+      {
+        "forms" : [
+          "asamblea"
+        ],
+        "gender" : "feminine",
+        "note" : "«La Asamblea Nacional» = the National Assembly, the parliament of revolutionary France.",
+        "pos" : "noun",
+        "translation" : "assembly"
+      },
+      {
+        "forms" : [
+          "nacional"
+        ],
+        "note" : "Same form for masculine and feminine: «la Asamblea Nacional».",
+        "pos" : "adjective",
+        "translation" : "national"
+      },
+      {
+        "forms" : [
+          "aprobado"
+        ],
+        "note" : "Participle of aprobar after haber: «había aprobado» = had passed (a law, a text).",
+        "pos" : "verb",
+        "translation" : "passed, approved"
+      },
+      {
+        "forms" : [
+          "copió"
+        ],
+        "note" : "Copiar, pretérito indefinido, él/ella form: «lo copió» = she copied it.",
+        "pos" : "verb",
+        "translation" : "copied"
+      },
+      {
+        "forms" : [
+          "repasó"
+        ],
+        "note" : "Repasar, pretérito indefinido: «repasó los 17 artículos» = she went through all 17 articles.",
+        "pos" : "verb",
+        "translation" : "went through, went over"
+      },
+      {
+        "forms" : [
+          "votar",
+          "votaron"
+        ],
+        "note" : "«No podían votar» = they couldn't vote; votaron is the pretérito indefinido, ellas form.",
+        "pos" : "verb",
+        "translation" : "to vote; they voted"
+      },
+      {
+        "forms" : [
+          "voto"
+        ],
+        "gender" : "masculine",
+        "note" : "«El voto» often means the right to vote: «conseguir el voto» = to get the vote.",
+        "pos" : "noun",
+        "translation" : "vote"
+      },
+      {
+        "forms" : [
+          "reina"
+        ],
+        "gender" : "feminine",
+        "note" : "«La reina» here is Marie-Antoinette, queen of France in 1791.",
+        "pos" : "noun",
+        "translation" : "queen"
       }
     ]
   },
@@ -245194,6 +246063,596 @@
       "summary" : "A febbraio 2026, in pieno inverno, gli esperti dell'influenza, a Istanbul, hanno fatto una scelta per l'inverno dopo, e adesso quella scelta è nel vaccino di quest'inverno.",
       "title" : "La scelta di febbraio",
       "translationGroup" : "the-february-choice"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "id" : "born-free-and-equal",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 1789 and 1791, A1 uses was and had (France had a famous text); the rest of the story stays in the present: people still read her text today.",
+              "example" : "Back in 1791, she was a writer in Paris.",
+              "title" : "Was and had: one look back"
+            },
+            {
+              "body" : "With he, she or it, English says no with \"doesn't\" (does not) and the base verb: it doesn't mean, not it doesn't means.",
+              "example" : "That doesn't mean women and men are the same.",
+              "title" : "Doesn't + verb: the present negative"
+            },
+            {
+              "body" : "\"Only … from 1944\" says when it started, and that it came late: before 1944, no vote. \"Had\" is the past of \"have\"; \"the vote\" = the right to vote.",
+              "example" : "But French women only had the vote from 1944.",
+              "title" : "Only … from + a year: not before then"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "People in France still read a text by Olympe de Gouges. Back in 1791, she was a writer in Paris.",
+            "In 1789, France had a famous text about rights. It says men are born free and equal in rights. But what about women?",
+            "So her text is a copy, but with \"woman\" in it. Her first line: \"Woman is born free.\" That doesn't mean women and men are the same. They just have the same rights.",
+            "But French women only had the vote from 1944. Today, people read the two lines side by side. One new word, and half of France is in the sentence."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Some common verbs have their own past form: do → did, put → put, get → got. The past simple tells finished events at a known time, here 1791.",
+              "example" : "In September 1791, in Paris, a playwright called Olympe de Gouges did something bold.",
+              "title" : "The past simple: did, put, got"
+            },
+            {
+              "body" : "A text from 1789 still exists, so English tells what it says in the present: it says, not it said.",
+              "example" : "It says men are born and remain free and equal in rights.",
+              "title" : "The present for what a text says"
+            },
+            {
+              "body" : "\"Only\" before a date says it came late: French women got the vote, but not before 1944.",
+              "example" : "Almost nobody listened, and French women only had the vote from 1944.",
+              "title" : "Only + a time: later than you'd expect"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In September 1791, in Paris, a playwright called Olympe de Gouges did something bold.",
+            "She answered the 1789 Declaration of the Rights of Man. It says men are born and remain free and equal in rights. So she copied it and put \"woman\" in. Her first line is: \"Woman is born free and remains equal to man in rights.\"",
+            "That doesn't mean women and men are the same, and men aren't the enemy. It's just about the same rights.",
+            "Almost nobody listened, and French women only had the vote from 1944. Today, people read her line next to the 1789 one and hear the difference.",
+            "Born free: one new word, and half the country stepped into the sentence."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Wherever\" means \"every time and in every place that\": she didn't change one line, she changed them all.",
+              "example" : "She copied all 17 articles, and wherever it said \"man\", she added \"woman\".",
+              "title" : "Wherever: in every place where"
+            },
+            {
+              "body" : "Inside a sentence, a question keeps statement word order: \"Who did that leave out?\" becomes \"she asked who that left out\". \"Leave out\" = not include.",
+              "example" : "It's about the same rights: the 1789 text said \"men\", and she asked who that left out.",
+              "title" : "An indirect question: who that left out"
+            },
+            {
+              "body" : "\"Even\" before the verb marks the surprising part: a pamphlet about women's rights, and she dedicated it to the queen herself.",
+              "example" : "She even dedicated it to the queen.",
+              "title" : "Even: more than you'd expect"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In September 1791, Olympe de Gouges, a Paris playwright, answered the Revolution's most famous text.",
+            "The 1789 Declaration of the Rights of Man says men are born and remain free and equal in rights. She copied all 17 articles, and wherever it said \"man\", she added \"woman\". Hers begins: \"Woman is born free and remains equal to man in rights.\"",
+            "That doesn't mean women and men are the same, or that men are the enemy. It's about the same rights: the 1789 text said \"men\", and she asked who that left out. She even dedicated it to the queen.",
+            "Almost nobody listened. French women only had the vote from 1944, and first voted in 1945. Today, people read both lines side by side and hear the difference.",
+            "Born free: one word changed, and half the country stepped into the sentence."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Whose\" joins two sentences and shows possession: the Declaration, whose first article says… = the Declaration; its first article says…. It works for things as well as people.",
+              "example" : "On 26 August 1789, the National Assembly had adopted the Declaration of the Rights of Man, whose first article says men are born and remain free and equal in rights.",
+              "title" : "Whose: a relative pronoun for \"its\" or \"his/her\""
+            },
+            {
+              "body" : "\"It took until 1944 for French women to get the vote\" stresses the long wait; the people come after \"for\", the action after \"to\".",
+              "example" : "Hardly anyone listened: it took until 1944 for French women to get the vote, and they first voted in 1945.",
+              "title" : "It took until … for … to: how long something waited"
+            },
+            {
+              "body" : "Starting with \"What … is\" puts the key idea at the end, where it lands hardest: what it asks for is the same rights = it asks for the same rights.",
+              "example" : "What it asks for is the same rights: the 1789 text said \"men\", and she wondered who that left out.",
+              "title" : "What it asks for is…: a cleft sentence"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In September 1791, Olympe de Gouges, a playwright from Montauban living in Paris, answered the Revolution's most famous text.",
+            "On 26 August 1789, the National Assembly had adopted the Declaration of the Rights of Man, whose first article says men are born and remain free and equal in rights. She went through all 17 articles, putting a woman beside every man. Hers opens with: \"Woman is born free and remains equal to man in rights.\"",
+            "It doesn't claim women and men are the same, or attack men. What it asks for is the same rights: the 1789 text said \"men\", and she wondered who that left out. She even dedicated it to the queen.",
+            "Hardly anyone listened: it took until 1944 for French women to get the vote, and they first voted in 1945. Today, people read both lines together and hear the difference.",
+            "Born free: one word changed, a woman added, and half the country stepped into the sentence."
+          ]
+        }
+      ],
+      "summary" : "In September 1791, a playwright in Paris took the most famous line of the French Revolution and added just one word.",
+      "title" : "Born Free and Equal",
+      "translationGroup" : "born-free-and-equal"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "id" : "born-free-and-equal-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 1791, 1789 and before 1944, A1 uses the imparfait: était (was), avait (had), pouvaient (could); the rest of the story stays in the present: on lit encore son texte.",
+              "example" : "En 1791, elle était écrivaine à Paris.",
+              "title" : "Était, avait, pouvaient: one look back"
+            },
+            {
+              "body" : "French adjectives take the gender and number of their noun: most add -s in the plural (libres), and -al becomes -aux (égal → égaux). Her line is in the feminine singular, la Femme, and libre is the same for both genders: la Femme naît libre.",
+              "example" : "Il dit que les hommes naissent libres et égaux en droits.",
+              "title" : "Égal → égaux: adjectives agree"
+            },
+            {
+              "body" : "French says no with two words around the conjugated verb: ça ne veut pas dire = that doesn't mean. With a modal, the infinitive comes after pas: ne pouvaient pas voter.",
+              "example" : "Ça ne veut pas dire que femmes et hommes sont pareils.",
+              "title" : "Ne … pas around the verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En France, on lit encore un texte d'Olympe de Gouges. En 1791, elle était écrivaine à Paris.",
+            "En 1789, la France avait un texte célèbre sur les droits. Il dit que les hommes naissent libres et égaux en droits. Mais les femmes, alors ?",
+            "Donc son texte est une copie, mais avec le mot « femme » dedans. Sa première phrase, c'est « La Femme naît libre ». Ça ne veut pas dire que femmes et hommes sont pareils. Ils ont juste les mêmes droits.",
+            "Mais les Françaises ne pouvaient pas voter avant 1944. Aujourd'hui, on lit les deux phrases ensemble. Un mot change, et la moitié du pays est dans la phrase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait describes the background, what she usually did (elle écrivait pour le théâtre); the passé composé tells the one thing that happened (en septembre 1791, elle a publié une brochure).",
+              "example" : "Olympe de Gouges écrivait pour le théâtre à Paris.",
+              "title" : "Imparfait for background, passé composé for events"
+            },
+            {
+              "body" : "With avoir, the participle agrees with a direct object that comes before the verb: l' stands for Olympe de Gouges, so écouté takes -e: écoutée. You see it, but you don't hear it.",
+              "example" : "Presque personne ne l'a écoutée.",
+              "title" : "L'a écoutée: agreement with the pronoun before"
+            },
+            {
+              "body" : "Dû is the participle of devoir: ont dû + infinitive = had to. Pour + infinitive then says what for: pour avoir le droit de vote.",
+              "example" : "Les Françaises ont dû attendre 1944 pour avoir le droit de vote.",
+              "title" : "Ont dû attendre: had to wait"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Olympe de Gouges écrivait pour le théâtre à Paris. En septembre 1791, elle a publié une brochure.",
+            "Elle a répondu à la Déclaration des droits de l'homme de 1789. Ce texte dit que les hommes naissent et restent libres et égaux en droits. Alors elle l'a recopié avec la femme en plus. Sa première phrase : « La Femme naît libre et demeure égale à l'homme en droits. »",
+            "Ça ne veut pas dire que femmes et hommes sont pareils. Et les hommes ne sont pas l'ennemi. Elle voulait juste les mêmes droits.",
+            "Presque personne ne l'a écoutée. Les Françaises ont dû attendre 1944 pour avoir le droit de vote. Aujourd'hui, on lit les deux phrases ensemble, et on entend la différence.",
+            "Née libre : un mot changé, et la moitié du pays est entrée dans la phrase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Partout où means in every place where: she didn't change one line, she changed every line that said l'homme. Où is the relative for a place, even a place in a text.",
+              "example" : "Dans les 17 articles, partout où il y avait « l'homme », elle a ajouté « la femme ».",
+              "title" : "Partout où: wherever"
+            },
+            {
+              "body" : "In everyday French the question word can simply go where the answer would be, at the end: ça laissait qui de côté ? = who did that leave out? Laisser de côté = to leave out.",
+              "example" : "Elle voulait les mêmes droits : « les hommes », ça laissait qui de côté ?",
+              "title" : "Ça laissait qui de côté ? A spoken question"
+            },
+            {
+              "body" : "Ne … que around the verb means only, and here later than you'd think: elles n'ont eu le droit de vote qu'en 1944 = they only got the vote in 1944, not before.",
+              "example" : "Les Françaises n'ont eu le droit de vote qu'en 1944, et n'ont voté qu'en 1945.",
+              "title" : "Ne … que: only, and later than you'd think"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En septembre 1791, Olympe de Gouges, autrice de théâtre parisienne, a répondu au grand texte de la Révolution.",
+            "La Déclaration des droits de l'homme de 1789 dit que les hommes naissent et restent libres et égaux en droits. Dans les 17 articles, partout où il y avait « l'homme », elle a ajouté « la femme ». Ça donne : « La Femme naît libre et demeure égale à l'homme en droits. »",
+            "Ça ne veut pas dire que femmes et hommes sont pareils, ni que les hommes sont l'ennemi. Elle voulait les mêmes droits : « les hommes », ça laissait qui de côté ? Elle l'a même dédié à la reine.",
+            "Presque personne ne l'a écoutée. Les Françaises n'ont eu le droit de vote qu'en 1944, et n'ont voté qu'en 1945. Aujourd'hui, on lit les deux phrases ensemble et on entend la différence.",
+            "Née libre : un mot changé, et la moitié du pays est entrée dans la phrase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Demeurer is a written, legal word for rester (to remain), and égale agrees with la Femme; égale à l'homme = equal to man. Set it beside the 1789 line, les hommes naissent et demeurent libres et égaux, and you hear exactly what she changed.",
+              "example" : "Son premier article : « La Femme naît libre et demeure égale à l'homme en droits. »",
+              "title" : "Demeurer égale à: the quote's own grammar"
+            },
+            {
+              "body" : "Prétendre means to claim, not to pretend. After a denied claim, the verb after que usually goes into the subjunctive, because the idea is rejected: ne prétend pas que … soient pareils.",
+              "example" : "Son texte ne prétend pas que femmes et hommes soient pareils, et n'attaque pas les hommes.",
+              "title" : "Ne pas prétendre que + subjunctive"
+            },
+            {
+              "body" : "Il a fallu attendre + a date stresses a long wait; pour que always takes the subjunctive: pour que les Françaises obtiennent, pour qu'elles votent.",
+              "example" : "Il a fallu attendre 1944 pour que les Françaises obtiennent le droit de vote, et 1945 pour qu'elles votent enfin.",
+              "title" : "Il a fallu attendre … pour que + subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En septembre 1791, Olympe de Gouges, autrice de théâtre née à Montauban et installée à Paris, a répondu au texte le plus célèbre de la Révolution.",
+            "Le 26 août 1789, l'Assemblée nationale avait proclamé que les hommes naissent et demeurent libres et égaux en droits. Elle a repris cette Déclaration des droits de l'homme article par article, en plaçant une femme à côté de chaque homme. Son premier article : « La Femme naît libre et demeure égale à l'homme en droits. »",
+            "Son texte ne prétend pas que femmes et hommes soient pareils, et n'attaque pas les hommes. Ce qu'il réclame, ce sont les mêmes droits : « les hommes », ça laissait qui de côté ? Elle l'a même dédié à la reine.",
+            "Presque personne ne l'a écoutée. Il a fallu attendre 1944 pour que les Françaises obtiennent le droit de vote, et 1945 pour qu'elles votent enfin. Aujourd'hui, on lit les deux phrases côte à côte, et la différence saute aux yeux.",
+            "Née libre : un mot changé, une femme ajoutée, et la moitié du pays est entrée dans la phrase."
+          ]
+        }
+      ],
+      "summary" : "En septembre 1791, à Paris, une autrice a repris la phrase la plus célèbre de la Révolution et n'y a changé qu'un mot, mais quel mot !",
+      "title" : "Née libre et égale",
+      "translationGroup" : "born-free-and-equal"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "id" : "born-free-and-equal-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A1 tells the story in the present (people read her text today); to look back at 1789 and 1791 it uses war, hatte and konnten, the past of sein, haben and können.",
+              "example" : "Sie war 1791 Autorin in Paris, und der Text ist von damals.",
+              "title" : "War, hatte, konnten: one look back"
+            },
+            {
+              "body" : "Das heißt = that means; with nicht it says what a sentence does not mean. Nicht comes after the verb heißt.",
+              "example" : "Das heißt nicht: Frauen und Männer sind dasselbe.",
+              "title" : "Das heißt nicht: what something doesn't mean"
+            },
+            {
+              "body" : "Erst before a time says it came late: erst ab 1944 = only from 1944 on, not earlier. Ab marks the start of something that goes on (the right to vote). German uses erst here, not nur.",
+              "example" : "Aber Frauen in Frankreich konnten erst ab 1944 wählen.",
+              "title" : "Erst ab + a year: not before then"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In Frankreich liest man noch heute einen Text von Olympe de Gouges. Sie war 1791 Autorin in Paris, und der Text ist von damals.",
+            "1789 hatte Frankreich einen berühmten Text über Rechte. Da steht: Männer sind frei und gleich an Rechten. Aber was ist mit den Frauen?",
+            "Also ist Olympes Text eine Kopie, aber mit der Frau drin. Ihr erster Satz: „Die Frau wird frei geboren.“ Das heißt nicht: Frauen und Männer sind dasselbe. Sie haben einfach die gleichen Rechte.",
+            "Aber Frauen in Frankreich konnten erst ab 1944 wählen. Heute liest man beide Sätze nebeneinander. Ein Wort mehr, und halb Frankreich steht mit im Satz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells finished events with haben + the past participle at the end: sie hat gemacht, sie hat geantwortet, sie hat bekommen.",
+              "example" : "Im September 1791 hat Olympe de Gouges, eine Theaterautorin in Paris, etwas Mutiges gemacht.",
+              "title" : "The Perfekt: hat … gemacht"
+            },
+            {
+              "body" : "In the Perfekt, ge- goes between the particle and the verb: zuhören → zugehört, abschreiben → abgeschrieben, dazuschreiben → dazugeschrieben.",
+              "example" : "Fast niemand hat zugehört: Frauen in Frankreich durften erst ab 1944 wählen.",
+              "title" : "Separable verbs in the Perfekt: zugehört"
+            },
+            {
+              "body" : "After dass (that) the verb goes last: Frauen und Männer sind dasselbe → dass Frauen und Männer dasselbe sind.",
+              "example" : "Das heißt nicht, dass Frauen und Männer dasselbe sind.",
+              "title" : "Dass sends the verb to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im September 1791 hat Olympe de Gouges, eine Theaterautorin in Paris, etwas Mutiges gemacht.",
+            "Sie hat auf die Erklärung der Menschen- und Bürgerrechte von 1789 geantwortet. Da steht: Männer kommen frei und gleich an Rechten zur Welt und bleiben es. Also hat sie den Text abgeschrieben und die Frau dazugeschrieben. Ihr erster Satz: „Die Frau wird frei geboren und bleibt dem Mann an Rechten gleich.“",
+            "Das heißt nicht, dass Frauen und Männer dasselbe sind. Gegen Männer ist sie auch nicht. Es geht nur um gleiche Rechte.",
+            "Fast niemand hat zugehört: Frauen in Frankreich durften erst ab 1944 wählen. Heute liest man beide Sätze nebeneinander und hört den Unterschied.",
+            "Frei geboren: ein Wort mehr, und halb Frankreich steht mit im Satz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Inside a sentence, a question word starts a clause with the verb at the end: Wer fehlt da? → sie fragt, wer da fehlt.",
+              "example" : "Es geht um gleiche Rechte: Wo „Männer“ steht, fragt sie, wer da eigentlich fehlt.",
+              "title" : "An indirect question: wer da fehlt"
+            },
+            {
+              "body" : "Verbs of movement take sein in the Perfekt, even in a figurative sense: durchgehen (to go through) → sie ist durchgegangen.",
+              "example" : "Sie ist alle 17 Artikel durchgegangen und hat überall die Frau dazugeschrieben.",
+              "title" : "Sein in the Perfekt: ist durchgegangen"
+            },
+            {
+              "body" : "Sogar marks the surprising part: a text about women's rights, and she dedicated it to the queen herself.",
+              "example" : "Sie hat ihren Text sogar der Königin gewidmet.",
+              "title" : "Sogar: even"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im September 1791 hat Olympe de Gouges, eine Theaterautorin in Paris, auf den berühmtesten Text der Revolution geantwortet.",
+            "Die Erklärung der Menschen- und Bürgerrechte von 1789 sagt: Männer werden frei und gleich an Rechten geboren. Auf Französisch: „l'homme“, Mann und Mensch zugleich. Sie ist alle 17 Artikel durchgegangen und hat überall die Frau dazugeschrieben. Ihr erster Satz: „Die Frau wird frei geboren und bleibt dem Mann an Rechten gleich.“",
+            "Das heißt nicht, dass Frauen und Männer dasselbe sind, und gegen Männer ist sie auch nicht. Es geht um gleiche Rechte: Wo „Männer“ steht, fragt sie, wer da eigentlich fehlt. Sie hat ihren Text sogar der Königin gewidmet.",
+            "Kaum jemand hat zugehört: Französinnen haben erst 1944 das Wahlrecht bekommen. Heute liest man beide Sätze nebeneinander und hört den Unterschied.",
+            "Frei geboren: ein Wort mehr, und halb Frankreich steht mit im Satz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Gleich (equal) takes the dative for the one you are equal to, and an + dative for the respect: dem Mann an Rechten gleich = equal to man in rights.",
+              "example" : "Ihre Erklärung stellt in allen 17 Artikeln neben jeden Mann eine Frau und beginnt so: „Die Frau wird frei geboren und bleibt dem Mann an Rechten gleich.“",
+              "title" : "Gleich + dative: dem Mann gleich"
+            },
+            {
+              "body" : "To report a claim without making it your own, German uses the Konjunktiv I: seien instead of sind. Sie behauptet nicht, Männer seien Feinde = she doesn't claim that men are enemies.",
+              "example" : "Sie behauptet nicht, Frauen und Männer seien dasselbe oder Männer seien Feinde.",
+              "title" : "Konjunktiv I for a claim: seien"
+            },
+            {
+              "body" : "Es hat bis 1944 gedauert, bis … stresses the long wait: the time goes after the first bis, the event in the bis clause with its verb at the end.",
+              "example" : "Zugehört hat ihr kaum jemand: Es hat bis 1944 gedauert, bis Frauen in Frankreich wählen durften.",
+              "title" : "Es hat gedauert, bis …: how long it took"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im September 1791 hat Olympe de Gouges, eine Theaterautorin in Paris, auf den berühmtesten Text der Revolution geantwortet.",
+            "Am 26. August 1789 hatte die Nationalversammlung die Erklärung der Menschen- und Bürgerrechte beschlossen: Die Männer werden frei und gleich an Rechten geboren und bleiben es. Auf Französisch steht da „l'homme“: Mann und Mensch in einem. Ihre Erklärung stellt in allen 17 Artikeln neben jeden Mann eine Frau und beginnt so: „Die Frau wird frei geboren und bleibt dem Mann an Rechten gleich.“",
+            "Sie behauptet nicht, Frauen und Männer seien dasselbe oder Männer seien Feinde. Was sie verlangt, sind die gleichen Rechte: Wo „Männer“ steht, hat sie sich gefragt, wer da eigentlich fehlt. Gewidmet hat sie das Ganze sogar der Königin.",
+            "Zugehört hat ihr kaum jemand: Es hat bis 1944 gedauert, bis Frauen in Frankreich wählen durften. Heute liest man beide Sätze nebeneinander und hört den Unterschied.",
+            "Frei geboren: ein Wort mehr, eine Frau mehr, und halb Frankreich steht mit im Satz."
+          ]
+        }
+      ],
+      "summary" : "Im September 1791 hat eine Theaterautorin in Paris den berühmtesten Satz der Revolution genommen und nur ein Wort ergänzt: die Frau.",
+      "title" : "Frei und gleich geboren",
+      "translationGroup" : "born-free-and-equal"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "id" : "born-free-and-equal-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 1789 and 1791, A1 uses a few background forms of the imperfect (era, tenía, podían); the rest of the story stays in the present: la gente todavía lee su texto.",
+              "example" : "En 1791, ella era escritora en París y tenía una idea valiente.",
+              "title" : "Era, tenía, podían: one look back"
+            },
+            {
+              "body" : "Adjectives agree with the noun, so los hombres takes libres and iguales; and y (and) becomes e before a word starting with an i sound: libres e iguales.",
+              "example" : "En ese texto, los hombres nacen libres e iguales en derechos.",
+              "title" : "Libres e iguales: y becomes e"
+            },
+            {
+              "body" : "After a preposition like de, Spanish uses the infinitive where English uses -ing: habla de tener los mismos derechos = it talks about having the same rights.",
+              "example" : "Habla de tener los mismos derechos.",
+              "title" : "Habla de tener: de + infinitive"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En Francia, la gente todavía lee un texto de Olympe de Gouges. En 1791, ella era escritora en París y tenía una idea valiente.",
+            "Desde 1789, Francia tiene un texto famoso sobre los derechos. En ese texto, los hombres nacen libres e iguales en derechos. ¿Y las mujeres?",
+            "Así que su texto es una copia, pero con la palabra «mujer». Su primera frase es: «La mujer nace libre». No habla de ser lo mismo que los hombres. Habla de tener los mismos derechos.",
+            "Pero las mujeres francesas no podían votar hasta 1944. Hoy, la gente lee las dos frases juntas. Una palabra más, y media Francia entra en la frase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events at a known time, here September 1791; hacer has its own form: hizo.",
+              "example" : "En septiembre de 1791, en París, una dramaturga llamada Olympe de Gouges hizo algo muy valiente.",
+              "title" : "Hizo, respondió, copió: the pretérito indefinido"
+            },
+            {
+              "body" : "After a denied statement like no quiere decir que (it doesn't mean that), Spanish uses the subjunctive: sean, not son.",
+              "example" : "Eso no quiere decir que mujeres y hombres sean lo mismo.",
+              "title" : "No quiere decir que + subjunctive"
+            },
+            {
+              "body" : "No + verb + hasta + a time says when something finally happened: no consiguieron el voto hasta 1944 = they only got the vote in 1944.",
+              "example" : "La verdad, casi nadie la escuchó, y las francesas no consiguieron el voto hasta 1944.",
+              "title" : "No … hasta: not until"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En septiembre de 1791, en París, una dramaturga llamada Olympe de Gouges hizo algo muy valiente.",
+            "Respondió a la Declaración de los Derechos del Hombre y del Ciudadano de 1789. Ese texto dice que los hombres nacen y permanecen libres e iguales en derechos. Así que lo copió, pero añadió a la mujer. Su primera frase es: «La mujer nace libre y permanece igual al hombre en derechos.»",
+            "Eso no quiere decir que mujeres y hombres sean lo mismo. Y los hombres tampoco son el enemigo. Se trata solo de tener los mismos derechos.",
+            "La verdad, casi nadie la escuchó, y las francesas no consiguieron el voto hasta 1944. Hoy, la gente lee su frase junto a la de 1789 y nota la diferencia.",
+            "La mujer nace libre: una palabra más, y medio país entró en la frase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Donde decía «hombre» = where (the text) said \"man\": decir also tells what a text says. The imperfect añadía shows she did it again and again, in every article.",
+              "example" : "Ella copió sus 17 artículos, y donde decía «hombre», añadía «mujer».",
+              "title" : "Donde decía: wherever it said"
+            },
+            {
+              "body" : "A question inside a sentence keeps its accent on the question word: ¿A quién deja fuera? becomes se preguntó a quién dejaba fuera. Dejar fuera = to leave out.",
+              "example" : "Habla de los mismos derechos: el texto de 1789 hablaba de «hombres», y ella se preguntó a quién dejaba fuera.",
+              "title" : "A quién dejaba fuera: an indirect question"
+            },
+            {
+              "body" : "With two object pronouns, le (to her) turns into se before lo (it): se lo dedicó a la reina, never le lo. Hasta here means even.",
+              "example" : "Y hasta se lo dedicó a la reina.",
+              "title" : "Se lo dedicó: le becomes se before lo"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En septiembre de 1791, Olympe de Gouges, una dramaturga de París, respondió al texto más famoso de la Revolución.",
+            "La Declaración de los Derechos del Hombre y del Ciudadano de 1789 dice que los hombres nacen y permanecen libres e iguales en derechos. Ella copió sus 17 artículos, y donde decía «hombre», añadía «mujer». Su texto empieza así: «La mujer nace libre y permanece igual al hombre en derechos.»",
+            "No significa que mujeres y hombres sean lo mismo, ni que los hombres sean el enemigo. Habla de los mismos derechos: el texto de 1789 hablaba de «hombres», y ella se preguntó a quién dejaba fuera. Y hasta se lo dedicó a la reina.",
+            "Casi nadie la escuchó. Las francesas no consiguieron el voto hasta 1944, y votaron por primera vez en 1945. Hoy, la gente lee las dos frases juntas y nota la diferencia.",
+            "La mujer nace libre: con una sola palabra, medio país entró en la frase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + participle (the pluscuamperfecto) places an action before another past one: the Declaration was already passed in 1789 when she answered it in 1791.",
+              "example" : "El 26 de agosto de 1789, la Asamblea Nacional había aprobado la Declaración de los Derechos del Hombre y del Ciudadano.",
+              "title" : "Había aprobado: the pluperfect"
+            },
+            {
+              "body" : "Hubo que esperar a + a date stresses the long wait; para que takes the subjunctive, here the imperfect subjunctive because the sentence is in the past: consiguieran.",
+              "example" : "Casi nadie la escuchó: hubo que esperar a 1944 para que las francesas consiguieran el voto, y votaron por primera vez en 1945.",
+              "title" : "Hubo que esperar a … para que + subjunctive"
+            },
+            {
+              "body" : "Lo que … puts the key idea at the end, where it lands hardest: lo que pide son los mismos derechos = it asks for the same rights. Ser agrees with the plural that follows: son, not es.",
+              "example" : "Lo que pide son los mismos derechos: el texto de 1789 hablaba de «hombres», y ella se preguntaba a quién dejaba fuera.",
+              "title" : "Lo que pide son…: a cleft sentence"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En septiembre de 1791, Olympe de Gouges, una dramaturga de Montauban que vivía en París, contestó al texto más famoso de la Revolución.",
+            "El 26 de agosto de 1789, la Asamblea Nacional había aprobado la Declaración de los Derechos del Hombre y del Ciudadano. Su primer artículo dice que los hombres nacen y permanecen libres e iguales en derechos. Ella repasó los 17 artículos y puso a una mujer al lado de cada hombre. Su texto arranca así: «La mujer nace libre y permanece igual al hombre en derechos.»",
+            "No dice que mujeres y hombres sean lo mismo, ni ataca a los hombres. Lo que pide son los mismos derechos: el texto de 1789 hablaba de «hombres», y ella se preguntaba a quién dejaba fuera. Y hasta se lo dedicó a la reina.",
+            "Casi nadie la escuchó: hubo que esperar a 1944 para que las francesas consiguieran el voto, y votaron por primera vez en 1945. Hoy, la gente lee las dos frases juntas y nota la diferencia.",
+            "Nace libre: una palabra distinta, una mujer más, y medio país entró en la frase."
+          ]
+        }
+      ],
+      "summary" : "En septiembre de 1791, una dramaturga de París cogió la frase más famosa de la Revolución francesa y le añadió una sola palabra.",
+      "title" : "La mujer nace libre",
+      "translationGroup" : "born-free-and-equal"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "id" : "born-free-and-equal-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 1789 and 1791, A1 uses the imperfetto era (she was) and aveva (it had); the rest of the story stays in the present: la gente legge, people read.",
+              "example" : "Nel 1791, era una scrittrice a Parigi.",
+              "title" : "Era and aveva: one look back"
+            },
+            {
+              "body" : "Italian says no with non right before the verb: non vuol dire = it doesn't mean. Vuol is the short, spoken form of vuole, and voler dire means to mean.",
+              "example" : "Questo non vuol dire che donne e uomini sono la stessa cosa.",
+              "title" : "Non vuol dire: no goes before the verb"
+            },
+            {
+              "body" : "For something that started then and still goes on, Italian uses the present + da: possono votare dal 1944 = they have been able to vote since 1944. Solo says it came late.",
+              "example" : "Ma in Francia le donne possono votare solo dal 1944.",
+              "title" : "Solo dal 1944: the present with da"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In Francia la gente legge ancora un testo di Olympe de Gouges. Nel 1791, era una scrittrice a Parigi.",
+            "Nel 1789, la Francia aveva già un testo famoso sui diritti. Quel testo dice che gli uomini nascono liberi e uguali nei diritti. E le donne?",
+            "Così il testo di Olympe è una copia, ma con «donna» dentro. La sua prima frase è: «La donna nasce libera». Questo non vuol dire che donne e uomini sono la stessa cosa. Vuol dire solo che hanno gli stessi diritti.",
+            "Ma in Francia le donne possono votare solo dal 1944. Oggi la gente legge le due frasi insieme, e sente la differenza. Basta una parola nuova, e metà della Francia entra nella frase."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto (era) paints the background, when and where; the passato prossimo (ha fatto, ha risposto) tells what happened next.",
+              "example" : "Era il settembre del 1791, a Parigi.",
+              "title" : "Era: the imperfetto sets the scene"
+            },
+            {
+              "body" : "Lo (it) goes before the verb and drops its vowel before ha: l'ha copiato = she copied it, with lo standing for quel testo. Ci ha messo = she put (in it).",
+              "example" : "Allora l'ha copiato riga per riga, e ci ha messo la donna.",
+              "title" : "L'ha copiato: lo shrinks to l' before ha"
+            },
+            {
+              "body" : "Solo before a date says it came late: French women got the vote, but not before 1944.",
+              "example" : "Le donne francesi hanno avuto il diritto di voto solo nel 1944.",
+              "title" : "Solo + a year: later than you'd expect"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Era il settembre del 1791, a Parigi. Una drammaturga di nome Olympe de Gouges ha fatto una cosa coraggiosa.",
+            "Ha risposto alla Dichiarazione dei diritti dell'uomo e del cittadino del 1789. Quel testo dice che gli uomini nascono e restano liberi e uguali nei diritti. Allora l'ha copiato riga per riga, e ci ha messo la donna. La sua prima frase è: «La donna nasce libera e resta uguale all'uomo nei diritti.»",
+            "Non vuol dire che donne e uomini sono la stessa cosa. E gli uomini non sono il nemico. Si tratta solo degli stessi diritti.",
+            "Quasi nessuno l'ha ascoltata. Le donne francesi hanno avuto il diritto di voto solo nel 1944. Oggi la gente legge le due frasi insieme e sente la differenza.",
+            "Nata libera: una parola nuova, e dentro la frase c'è metà del paese."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Ogni volta che (every time that) repeats the action for each case: she didn't change one line, she changed them all. The verb after it is an ordinary indicative.",
+              "example" : "Lei ha copiato i 17 articoli, e ogni volta che c'era «uomo» ha aggiunto «donna».",
+              "title" : "Ogni volta che: every time"
+            },
+            {
+              "body" : "Inside a sentence, a question keeps its question word and needs no question mark: «Chi resta fuori?» becomes si è domandata chi restava fuori. Restare fuori = to be left out.",
+              "example" : "Chiede gli stessi diritti: il testo del 1789 diceva «uomini», e lei si è domandata chi restava fuori.",
+              "title" : "Chi restava fuori: an indirect question"
+            },
+            {
+              "body" : "Perfino (or addirittura) marks the surprising part, and in the passato prossimo it sits between avere and the participle: l'ha perfino dedicato = she even dedicated it.",
+              "example" : "L'ha perfino dedicato alla regina.",
+              "title" : "Perfino: even"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel settembre 1791, Olympe de Gouges, una drammaturga che viveva a Parigi, ha risposto al testo più famoso della Rivoluzione.",
+            "La Dichiarazione dei diritti dell'uomo e del cittadino del 1789 dice che gli uomini nascono e restano liberi e uguali nei diritti. Lei ha copiato i 17 articoli, e ogni volta che c'era «uomo» ha aggiunto «donna». Il suo testo comincia così: «La donna nasce libera e resta uguale all'uomo nei diritti.»",
+            "Non vuol dire che donne e uomini sono la stessa cosa, né che gli uomini sono il nemico. Chiede gli stessi diritti: il testo del 1789 diceva «uomini», e lei si è domandata chi restava fuori. L'ha perfino dedicato alla regina.",
+            "Quasi nessuno l'ha ascoltata. Le francesi hanno ottenuto il diritto di voto solo nel 1944, e hanno votato la prima volta nel 1945. Oggi la gente legge le due frasi insieme e sente la differenza.",
+            "Nata libera: una parola cambiata, e dentro la frase c'è metà del paese."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The trapassato prossimo (imperfetto of avere or essere + participle) sets one past event before another: the Declaration came in 1789, two years before her answer in 1791.",
+              "example" : "Il 26 agosto 1789 l'Assemblea nazionale aveva approvato la Dichiarazione dei diritti dell'uomo e del cittadino.",
+              "title" : "Aveva approvato: the trapassato prossimo"
+            },
+            {
+              "body" : "The gerund (-ando, -endo) tells how something was done, with the same subject as the main verb: she went through the articles by putting a woman beside every man.",
+              "example" : "Lei l'ha riscritta articolo per articolo, tutti e 17, mettendo una donna accanto a ogni uomo.",
+              "title" : "Mettendo: the gerund says how"
+            },
+            {
+              "body" : "Starting with quello che … puts the key idea at the end, where it lands hardest; the verb agrees with what follows: quello che chiede sono gli stessi diritti = it asks for the same rights.",
+              "example" : "Quello che chiede sono gli stessi diritti: il testo del 1789 diceva «uomini», e lei si è domandata chi restasse fuori.",
+              "title" : "Quello che chiede sono…: a cleft sentence"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel settembre 1791, Olympe de Gouges, una drammaturga di Montauban che viveva a Parigi, ha risposto al testo più famoso della Rivoluzione.",
+            "Il 26 agosto 1789 l'Assemblea nazionale aveva approvato la Dichiarazione dei diritti dell'uomo e del cittadino. Il primo articolo dice che gli uomini nascono e restano liberi e uguali nei diritti. Lei l'ha riscritta articolo per articolo, tutti e 17, mettendo una donna accanto a ogni uomo. Il suo testo si apre così: «La donna nasce libera e resta uguale all'uomo nei diritti.»",
+            "Non dice che donne e uomini siano la stessa cosa, e non è contro gli uomini. Quello che chiede sono gli stessi diritti: il testo del 1789 diceva «uomini», e lei si è domandata chi restasse fuori. L'ha perfino dedicato alla regina.",
+            "Quasi nessuno le ha dato retta. Le francesi hanno dovuto aspettare il 1944 per il diritto di voto, e hanno votato per la prima volta nel 1945. Oggi si leggono le due frasi insieme, e la differenza si sente.",
+            "Nata libera: una parola cambiata, una donna in più, e dentro la frase c'è metà del paese."
+          ]
+        }
+      ],
+      "summary" : "Nel settembre del 1791, a Parigi, una drammaturga ha preso la frase più famosa della Rivoluzione francese e ci ha aggiunto una parola sola.",
+      "title" : "Nata libera e uguale",
+      "translationGroup" : "born-free-and-equal"
     }
   ]
 }

@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 33,
-  "generatedAt" : "2026-11-11",
+  "contentVersion" : 34,
+  "generatedAt" : "2026-11-12",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-12",
+      "titles" : {
+        "english" : "Born Free and Equal",
+        "french" : "Née libre et égale",
+        "german" : "Frei und gleich geboren",
+        "italian" : "Nata libera e uguale",
+        "spanish" : "La mujer nace libre"
+      },
+      "translationGroup" : "born-free-and-equal"
+    },
     {
       "category" : "health",
       "dateAdded" : "2026-11-11",
@@ -28,32 +40,8 @@
         "spanish" : "Farolillos para san Martín"
       },
       "translationGroup" : "martins-lantern"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-09",
-      "titles" : {
-        "english" : "First Antonelli, Now Mercedes",
-        "french" : "D'abord Antonelli, maintenant Mercedes",
-        "german" : "Erst Antonelli, jetzt Mercedes",
-        "italian" : "Prima Antonelli, ora la Mercedes",
-        "spanish" : "Primero Antonelli, ahora Mercedes"
-      },
-      "translationGroup" : "weekend-sport-2026-11-08"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-09",
-      "titles" : {
-        "english" : "Where Our Words Came From",
-        "french" : "D'où viennent nos mots",
-        "german" : "Woher unsere Wörter kommen",
-        "italian" : "Da dove vengono le nostre parole",
-        "spanish" : "De dónde vienen nuestras palabras"
-      },
-      "translationGroup" : "where-our-words-came-from"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "567853904b59064b40125315ecccb1fcdd08f47b2ae7275dadea88ec1e73b3e9"
+  "sha256" : "f3cd3c75828ae4769579bf9490bc4e2bc35fd96c2a20c337afa89e193e778961"
 }
