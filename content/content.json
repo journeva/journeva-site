@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 34,
-  "generatedAt" : "2026-11-12",
+  "contentVersion" : 35,
+  "generatedAt" : "2026-11-13",
   "glossary" : {
     "english" : [
       {
@@ -2899,7 +2899,7 @@
         ],
         "note" : "Forms of \"grow.\"",
         "pos" : "verb",
-        "translation" : "to increase in size"
+        "translation" : "to increase in size; to raise plants (grow coffee)"
       },
       {
         "forms" : [
@@ -6814,7 +6814,7 @@
         ],
         "note" : "As in \"turn back.\"",
         "pos" : "verb",
-        "translation" : "to change direction; to make become (turning the fields yellow); (turns out to) proves to"
+        "translation" : "to change direction; to make become (turning the fields yellow); (turns out to) proves to; (turn to) start using"
       },
       {
         "forms" : [
@@ -7103,9 +7103,9 @@
           "warm",
           "warmly"
         ],
-        "note" : "\"Warmly\" is the adverb form.",
+        "note" : "\"Warmly\" is the adverb form. Also a verb: \"Warm the pot\" = heat it a little.",
         "pos" : "adjective",
-        "translation" : "having a comfortable temperature"
+        "translation" : "having a comfortable temperature; (verb) to make warm"
       },
       {
         "forms" : [
@@ -8608,7 +8608,8 @@
       {
         "forms" : [
           "boil",
-          "boiled"
+          "boiled",
+          "boiling"
         ],
         "note" : "\"Do not let it boil\" = keep it below that point.",
         "pos" : "verb",
@@ -9139,7 +9140,7 @@
         ],
         "note" : "The opposite of \"bright.\"",
         "pos" : "adjective",
-        "translation" : "without light"
+        "translation" : "without light; deep in colour (dark leaves)"
       },
       {
         "forms" : [
@@ -9793,7 +9794,7 @@
         ],
         "note" : "\"Growth\" is the noun form.",
         "pos" : "verb",
-        "translation" : "becomes bigger; the process of growing"
+        "translation" : "becomes bigger; raises (plants); the process of growing"
       },
       {
         "forms" : [
@@ -18523,6 +18524,7 @@
       },
       {
         "forms" : [
+          "district",
           "districts"
         ],
         "note" : "Plural of \"district\".",
@@ -21063,7 +21065,8 @@
       },
       {
         "forms" : [
-          "cleared"
+          "cleared",
+          "clears"
         ],
         "note" : "Past simple of clear as a verb: the antibiotics cleared the infection.",
         "pos" : "verb",
@@ -31058,6 +31061,192 @@
         "note" : "Said \"mon-toh-BAHN\" with a nasal on; Olympe de Gouges came from there.",
         "pos" : "other",
         "translation" : "a town in south-west France"
+      },
+      {
+        "forms" : [
+          "1867"
+        ],
+        "note" : "Said \"eighteen sixty-seven\": English reads most years as two pairs of numbers.",
+        "pos" : "number",
+        "translation" : "1867"
+      },
+      {
+        "forms" : [
+          "1852"
+        ],
+        "note" : "Said \"eighteen fifty-two\"; \"in 1852\" takes in, like every year.",
+        "pos" : "number",
+        "translation" : "1852"
+      },
+      {
+        "forms" : [
+          "1870s"
+        ],
+        "note" : "Said \"the eighteen-seventies\"; \"in the 1870s\" means some time in that decade, without saying the exact year.",
+        "pos" : "number",
+        "translation" : "the years from 1870 to 1879"
+      },
+      {
+        "forms" : [
+          "19"
+        ],
+        "note" : "Said \"nineteen\": \"19 acres\".",
+        "pos" : "number",
+        "translation" : "19"
+      },
+      {
+        "forms" : [
+          "nineteen"
+        ],
+        "note" : "Written in letters at the start of a sentence: \"Nineteen acres, and now a cup in your hands.\"",
+        "pos" : "number",
+        "translation" : "the number 19"
+      },
+      {
+        "forms" : [
+          "200"
+        ],
+        "note" : "Said \"two hundred\"; no -s on hundred after a number: 200 ml = two hundred millilitres.",
+        "pos" : "number",
+        "translation" : "200"
+      },
+      {
+        "forms" : [
+          "acre",
+          "acres"
+        ],
+        "note" : "Still used for land in Britain and the US; 19 acres is about 8 hectares.",
+        "pos" : "noun",
+        "translation" : "a measure of land, about 4,000 square metres"
+      },
+      {
+        "forms" : [
+          "freshly"
+        ],
+        "note" : "Before a past participle: freshly boiled water = water that has only just boiled.",
+        "pos" : "adverb",
+        "translation" : "just now, a moment ago"
+      },
+      {
+        "forms" : [
+          "ceylon"
+        ],
+        "note" : "The name the island had when tea came; tea from there is still sold as \"Ceylon tea\".",
+        "pos" : "other",
+        "translation" : "Ceylon, the old name of Sri Lanka"
+      },
+      {
+        "forms" : [
+          "lanka"
+        ],
+        "note" : "Part of Sri Lanka, the island country south of India.",
+        "pos" : "other",
+        "translation" : "Lanka"
+      },
+      {
+        "forms" : [
+          "kandy"
+        ],
+        "note" : "A city in the hills in the middle of Sri Lanka.",
+        "pos" : "other",
+        "translation" : "Kandy"
+      },
+      {
+        "forms" : [
+          "loolecondera"
+        ],
+        "note" : "An estate near Kandy where James Taylor planted his tea field in 1867.",
+        "pos" : "other",
+        "translation" : "Loolecondera"
+      },
+      {
+        "forms" : [
+          "taylor"
+        ],
+        "note" : "A family name; here James Taylor, the Scot who planted tea at Loolecondera.",
+        "pos" : "other",
+        "translation" : "Taylor"
+      },
+      {
+        "forms" : [
+          "scot"
+        ],
+        "note" : "\"A Scot\" is a person; the adjective is \"Scottish\" (a Scottish town).",
+        "pos" : "noun",
+        "translation" : "a person from Scotland"
+      },
+      {
+        "forms" : [
+          "tamil"
+        ],
+        "note" : "Always with a capital letter: Tamil workers, the Tamil language.",
+        "pos" : "other",
+        "translation" : "Tamil, of a people and language of South India and Sri Lanka"
+      },
+      {
+        "forms" : [
+          "estate",
+          "estates"
+        ],
+        "note" : "A tea or coffee estate is a big farm on a hillside; \"estates\" is the plural.",
+        "pos" : "noun",
+        "translation" : "a large farm or piece of land owned by one person or company"
+      },
+      {
+        "forms" : [
+          "planters"
+        ],
+        "note" : "From \"plant\": the people who ran the tea and coffee estates.",
+        "pos" : "noun",
+        "translation" : "people who own or run a large farm growing tea, coffee and so on"
+      },
+      {
+        "forms" : [
+          "rust"
+        ],
+        "note" : "\"Coffee rust\" is the leaf disease that ruined Ceylon's coffee from 1869.",
+        "pos" : "noun",
+        "translation" : "a red-brown coat on old iron; also a plant disease that leaves rusty spots on leaves"
+      },
+      {
+        "forms" : [
+          "struck"
+        ],
+        "note" : "Irregular: strike, struck, struck; used for illness and bad luck too: the disease struck the leaves.",
+        "pos" : "verb",
+        "translation" : "hit, often suddenly (past of strike)"
+      },
+      {
+        "forms" : [
+          "swirl"
+        ],
+        "note" : "Swirl hot water around the pot = move it in circles so it warms all sides.",
+        "pos" : "verb",
+        "translation" : "to move a liquid round and round"
+      },
+      {
+        "forms" : [
+          "unfurl"
+        ],
+        "note" : "Used for flags, sails and leaves: the dry tea leaves unfurl in hot water.",
+        "pos" : "verb",
+        "translation" : "to open out slowly from a roll"
+      },
+      {
+        "forms" : [
+          "red-brown"
+        ],
+        "note" : "Two colours joined with a hyphen make one colour word: red-brown, blue-green.",
+        "pos" : "adjective",
+        "translation" : "a colour between red and brown"
+      },
+      {
+        "forms" : [
+          "teaspoon"
+        ],
+        "note" : "In recipes, \"1 teaspoon\" is a measure, smaller than a tablespoon.",
+        "pos" : "noun",
+        "translation" : "a small spoon; as a measure, about 5 ml (or about 2 g of tea leaves)"
       }
     ],
     "french" : [
@@ -33510,6 +33699,7 @@
       {
         "forms" : [
           "faire",
+          "faisais",
           "faisait",
           "fait",
           "faite",
@@ -36269,7 +36459,7 @@
         "gender" : "masculine",
         "note" : "Same form singular and plural.",
         "pos" : "noun",
-        "translation" : "time, weather"
+        "translation" : "time, weather; (le temps que) while, long enough for"
       },
       {
         "forms" : [
@@ -36613,7 +36803,8 @@
       },
       {
         "forms" : [
-          "voir"
+          "voir",
+          "vois"
         ],
         "note" : "Infinitive of voir.",
         "pos" : "verb",
@@ -41237,7 +41428,7 @@
         ],
         "note" : "Present tense of venir.",
         "pos" : "verb",
-        "translation" : "comes"
+        "translation" : "comes; (vient de + infinitive) has just"
       },
       {
         "forms" : [
@@ -42670,7 +42861,8 @@
       },
       {
         "forms" : [
-          "apparu"
+          "apparu",
+          "apparue"
         ],
         "note" : "Past participle of apparaître.",
         "pos" : "verb",
@@ -45740,7 +45932,8 @@
       },
       {
         "forms" : [
-          "noir"
+          "noir",
+          "noires"
         ],
         "gender" : "masculine",
         "note" : "\"Se réveillait dans le noir\" = woke up in the dark.",
@@ -46325,6 +46518,7 @@
       {
         "forms" : [
           "préparaient",
+          "prépare",
           "préparent",
           "préparer",
           "préparé"
@@ -47570,7 +47764,7 @@
         ],
         "note" : "Tuer; tuées is feminine plural past participle.",
         "pos" : "verb",
-        "translation" : "killed"
+        "translation" : "kills; killed"
       },
       {
         "forms" : [
@@ -48251,6 +48445,7 @@
           "attend",
           "attendit",
           "attendre",
+          "attends",
           "attendu",
           "attente",
           "n'attendit"
@@ -57682,7 +57877,9 @@
       },
       {
         "forms" : [
-          "s'ouvre"
+          "s'ouvre",
+          "s'ouvrent",
+          "s'ouvrir"
         ],
         "note" : "« Son premier vers s'ouvre ainsi ».",
         "pos" : "verb",
@@ -69630,6 +69827,7 @@
       },
       {
         "forms" : [
+          "cultive",
           "cultiver"
         ],
         "note" : "Cultiver un jardin = to tend a garden; « il faut cultiver notre jardin » = we must cultivate our garden.",
@@ -73293,6 +73491,280 @@
         "note" : "Ne + attaque, shortened before the vowel: « il n'attaque pas les hommes » = it doesn't attack men.",
         "pos" : "verb",
         "translation" : "doesn't attack"
+      },
+      {
+        "forms" : [
+          "1852"
+        ],
+        "note" : "Read « mille huit cent cinquante-deux »: the year James Taylor arrived in Ceylon.",
+        "pos" : "number",
+        "translation" : "1852"
+      },
+      {
+        "forms" : [
+          "1867"
+        ],
+        "note" : "Read « mille huit cent soixante-sept »; « en 1867 » = in 1867, with en before a year.",
+        "pos" : "number",
+        "translation" : "1867"
+      },
+      {
+        "forms" : [
+          "1870"
+        ],
+        "note" : "Read « mille huit cent soixante-dix »; « dans les années 1870 » = in the 1870s, and années takes no s on the number.",
+        "pos" : "number",
+        "translation" : "1870"
+      },
+      {
+        "forms" : [
+          "19"
+        ],
+        "note" : "Read « dix-neuf »; « un champ de 19 acres » = a 19-acre field.",
+        "pos" : "number",
+        "translation" : "19, nineteen"
+      },
+      {
+        "forms" : [
+          "200"
+        ],
+        "note" : "Read « deux cents »: cent takes an -s when multiplied and nothing follows, so « 200 ml » = « deux cents millilitres ».",
+        "pos" : "number",
+        "translation" : "200, two hundred"
+      },
+      {
+        "forms" : [
+          "dix-neuf"
+        ],
+        "note" : "Written out with a hyphen, as all French numbers under one hundred are (dix-sept, dix-huit, dix-neuf).",
+        "pos" : "number",
+        "translation" : "nineteen"
+      },
+      {
+        "forms" : [
+          "acres"
+        ],
+        "gender" : "feminine",
+        "note" : "An old British land unit, about 0.4 hectares; French uses it only for English-speaking places, « 19 acres » ≈ 8 hectares.",
+        "pos" : "noun",
+        "translation" : "acres"
+      },
+      {
+        "forms" : [
+          "hectares"
+        ],
+        "gender" : "masculine",
+        "note" : "The metric land unit French uses: « un hectare » = 10,000 m², about the size of a football pitch and a half.",
+        "pos" : "noun",
+        "translation" : "hectares"
+      },
+      {
+        "forms" : [
+          "amenés"
+        ],
+        "note" : "Past participle of amener (to bring someone along), agreeing with ouvriers: « des ouvriers amenés du sud de l'Inde » = workers brought from South India.",
+        "pos" : "verb",
+        "translation" : "brought (here)"
+      },
+      {
+        "forms" : [
+          "bouillante"
+        ],
+        "note" : "Feminine of bouillant, agreeing with eau: « de l'eau bouillante » = boiling water.",
+        "pos" : "adjective",
+        "translation" : "boiling"
+      },
+      {
+        "forms" : [
+          "caféier"
+        ],
+        "gender" : "masculine",
+        "note" : "The plant that gives coffee, as opposed to café, the drink or the bean: « la rouille du caféier » = coffee rust.",
+        "pos" : "noun",
+        "translation" : "coffee plant"
+      },
+      {
+        "forms" : [
+          "ceylan"
+        ],
+        "gender" : "masculine",
+        "note" : "The old name of Sri Lanka; without an article for the island, « à Ceylan » = in Ceylon, and tea from there is still sold as « thé de Ceylan ».",
+        "pos" : "noun",
+        "translation" : "Ceylon"
+      },
+      {
+        "forms" : [
+          "défriché"
+        ],
+        "note" : "Past participle of défricher: to clear wild land of trees and bushes so it can be farmed.",
+        "pos" : "verb",
+        "translation" : "cleared (land)"
+      },
+      {
+        "forms" : [
+          "déroulent"
+        ],
+        "note" : "Present of se dérouler (« les feuilles se déroulent » = the leaves unfurl); it also means to take place: « tout se déroule bien ».",
+        "pos" : "verb",
+        "translation" : "unroll, unfurl"
+      },
+      {
+        "forms" : [
+          "enlève-les"
+        ],
+        "note" : "Tu imperative of enlever + les, joined by a hyphen: « enlève-les » = take them out; the pronoun follows the verb in a positive command.",
+        "pos" : "verb",
+        "translation" : "take them out (to tu)"
+      },
+      {
+        "forms" : [
+          "fais-toi"
+        ],
+        "note" : "Tu imperative of se faire: « fais-toi un thé » = make yourself a tea; in a positive command te becomes toi and comes after the verb.",
+        "pos" : "verb",
+        "translation" : "make yourself (to tu)"
+      },
+      {
+        "forms" : [
+          "infuser"
+        ],
+        "note" : "« Laisse infuser 3 à 5 minutes » = let it steep for 3 to 5 minutes; « une infusion » is a herbal tea.",
+        "pos" : "verb",
+        "translation" : "to brew, to steep"
+      },
+      {
+        "forms" : [
+          "james"
+        ],
+        "note" : "An English first name; French readers say it the English way.",
+        "pos" : "other",
+        "translation" : "James"
+      },
+      {
+        "forms" : [
+          "taylor"
+        ],
+        "note" : "A Scottish surname, said the English way.",
+        "pos" : "other",
+        "translation" : "Taylor"
+      },
+      {
+        "forms" : [
+          "kandy"
+        ],
+        "gender" : "feminine",
+        "note" : "A city in the hills of central Sri Lanka; « près de Kandy » = near Kandy.",
+        "pos" : "noun",
+        "translation" : "Kandy"
+      },
+      {
+        "forms" : [
+          "lanka"
+        ],
+        "note" : "Part of Sri Lanka, the island's name today; French uses it with le: « le Sri Lanka ».",
+        "pos" : "other",
+        "translation" : "Lanka"
+      },
+      {
+        "forms" : [
+          "loolecondera"
+        ],
+        "note" : "The name of the estate near Kandy where James Taylor planted the first tea field in Ceylon.",
+        "pos" : "other",
+        "translation" : "Loolecondera"
+      },
+      {
+        "forms" : [
+          "l'actuel"
+        ],
+        "note" : "Le + actuel before the vowel: « l'actuel Sri Lanka » = today's Sri Lanka. Actuel means current, never actual (= réel).",
+        "pos" : "adjective",
+        "translation" : "today's, present-day"
+      },
+      {
+        "forms" : [
+          "ouvriers"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of ouvrier, someone who does manual work for a wage: on a farm, a building site, in a factory.",
+        "pos" : "noun",
+        "translation" : "workers"
+      },
+      {
+        "forms" : [
+          "plants"
+        ],
+        "gender" : "masculine",
+        "note" : "Un plant is a single crop plant in a field (« des plants de café, de tomates »); une plante is a plant in general.",
+        "pos" : "noun",
+        "translation" : "plants (young or crop plants)"
+      },
+      {
+        "forms" : [
+          "rouge-brun"
+        ],
+        "note" : "Two colour words joined by a hyphen make one colour, and the compound doesn't change: « le thé devient rouge-brun ».",
+        "pos" : "adjective",
+        "translation" : "red-brown"
+      },
+      {
+        "forms" : [
+          "rouille"
+        ],
+        "gender" : "feminine",
+        "note" : "Rust on metal, and the name of fungal plant diseases that leave rust-coloured spots: « la rouille du caféier » = coffee rust.",
+        "pos" : "noun",
+        "translation" : "rust"
+      },
+      {
+        "forms" : [
+          "tamouls"
+        ],
+        "note" : "Masculine plural of tamoul: the people and the language of southern India and northern Sri Lanka; « des ouvriers tamouls » = Tamil workers.",
+        "pos" : "adjective",
+        "translation" : "Tamil"
+      },
+      {
+        "forms" : [
+          "théière"
+        ],
+        "gender" : "feminine",
+        "note" : "From thé + -ière, the ending for a container (soupière, cafetière): « chauffe la théière » = warm the teapot.",
+        "pos" : "noun",
+        "translation" : "teapot"
+      },
+      {
+        "forms" : [
+          "vide-la"
+        ],
+        "note" : "Tu imperative of vider + la: « vide-la » = empty it; la is the teapot (la théière), placed after the verb with a hyphen.",
+        "pos" : "verb",
+        "translation" : "empty it (to tu)"
+      },
+      {
+        "forms" : [
+          "vire"
+        ],
+        "note" : "Present of virer; « virer au rouge » = to turn red, for a colour that slowly changes.",
+        "pos" : "verb",
+        "translation" : "turns (colour)"
+      },
+      {
+        "forms" : [
+          "ébouillante"
+        ],
+        "note" : "Tu imperative of ébouillanter: to rinse with boiling water, as you do with a teapot before making tea.",
+        "pos" : "verb",
+        "translation" : "scald (to tu)"
+      },
+      {
+        "forms" : [
+          "écossais"
+        ],
+        "gender" : "masculine",
+        "note" : "« Un Écossais » = a Scot (capital for the person), « écossais » = Scottish; from l'Écosse, Scotland.",
+        "pos" : "noun",
+        "translation" : "Scottish, a Scot"
       }
     ],
     "german" : [
@@ -73642,16 +74114,21 @@
           "baute",
           "bauten"
         ],
-        "note" : "Forms of bauen across tenses. „Bauten“ is also the noun, plural of der Bau = buildings: „normannische Bauten“ = Norman buildings. Separable: … auf = aufbauen, to build up; „Er baut sie wieder auf“ = he builds it up again, he rebuilds it.",
+        "note" : "Forms of bauen across tenses. „Bauten“ is also the noun, plural of der Bau = buildings: „normannische Bauten“ = Norman buildings. Separable: … auf = aufbauen, to build up; „Er baut sie wieder auf“ = he builds it up again, he rebuilds it; … an = anbauen, to grow (a crop); „baut Kaffee an“ = grows coffee.",
         "pos" : "verb",
         "separable" : [
+          {
+            "particle" : "an",
+            "translation" : "to grow (a crop)",
+            "verb" : "anbauen"
+          },
           {
             "particle" : "auf",
             "translation" : "to build up, rebuild",
             "verb" : "aufbauen"
           }
         ],
-        "translation" : "to build; (die Bauten) buildings"
+        "translation" : "to build; (die Bauten) buildings; (baut … an) grows (a crop)"
       },
       {
         "forms" : [
@@ -85635,7 +86112,8 @@
       {
         "forms" : [
           "dunkel",
-          "dunkeln"
+          "dunkeln",
+          "dunkle"
         ],
         "note" : "\"Im Dunkeln\" = in the dark.",
         "pos" : "adjective",
@@ -85823,6 +86301,7 @@
       {
         "forms" : [
           "entscheiden",
+          "entscheidest",
           "entscheidet",
           "entscheidung"
         ],
@@ -86614,7 +87093,7 @@
           "gieß",
           "gießen"
         ],
-        "note" : "Infinitive. Separable: … dazu = dazugießen, to pour in, to add (a liquid); „Gießen Sie etwas Wein dazu“ = pour in a little wine; … ein = eingießen, to pour (in).",
+        "note" : "Infinitive. Separable: … dazu = dazugießen, to pour in, to add (a liquid); „Gießen Sie etwas Wein dazu“ = pour in a little wine; … ein = eingießen, to pour (in); … weg = weggießen, to pour away; „gieß es weg“ = pour it away.",
         "pos" : "verb",
         "separable" : [
           {
@@ -86626,6 +87105,11 @@
             "particle" : "ein",
             "translation" : "to pour (in)",
             "verb" : "eingießen"
+          },
+          {
+            "particle" : "weg",
+            "translation" : "to pour away",
+            "verb" : "weggießen"
           }
         ],
         "translation" : "to pour"
@@ -91540,6 +92024,7 @@
       {
         "forms" : [
           "gekocht",
+          "gekochtes",
           "gekühlt"
         ],
         "note" : "Past participles: gekocht = cooked, boiled (kochen: „man hat das Getreide gekocht“ = they boiled the grain); gekühlt = cooled (kühlen).",
@@ -92457,11 +92942,12 @@
       },
       {
         "forms" : [
-          "mag"
+          "mag",
+          "magst"
         ],
         "note" : "From \"mögen.\"",
         "pos" : "verb",
-        "translation" : "likes"
+        "translation" : "likes; (wenn du magst) if you like"
       },
       {
         "forms" : [
@@ -93065,6 +93551,7 @@
       },
       {
         "forms" : [
+          "riech",
           "riechen",
           "riecht"
         ],
@@ -94173,7 +94660,7 @@
         ],
         "note" : "As in \"sich in den Fels ziehen\"; „Kinder ziehen durch die Straßen“ = children march through the streets.",
         "pos" : "verb",
-        "translation" : "to pull, extend; to move, march (through)"
+        "translation" : "to pull, extend; to move, march (through); (Tee ziehen lassen) to steep, to brew"
       },
       {
         "forms" : [
@@ -95864,16 +96351,21 @@
         "forms" : [
           "gib"
         ],
-        "note" : "Imperative of geben. Separable: … dazu = dazugeben, to add; „Gib drei Löffel Wasser dazu“ = add three spoons of water.",
+        "note" : "Imperative of geben. Separable: … dazu = dazugeben, to add; „Gib drei Löffel Wasser dazu“ = add three spoons of water; … hinein = hineingeben, to put in; „gib Blätter und Wasser hinein“ = put leaves and water in.",
         "pos" : "other",
         "separable" : [
           {
             "particle" : "dazu",
             "translation" : "to add",
             "verb" : "dazugeben"
+          },
+          {
+            "particle" : "hinein",
+            "translation" : "to put in",
+            "verb" : "hineingeben"
           }
         ],
-        "translation" : "give"
+        "translation" : "give; (… hinein) put in"
       },
       {
         "forms" : [
@@ -98966,7 +99458,8 @@
       },
       {
         "forms" : [
-          "heiß"
+          "heiß",
+          "heißem"
         ],
         "note" : "„Zu heiß\".",
         "pos" : "adjective",
@@ -100800,8 +101293,15 @@
         "forms" : [
           "nimm"
         ],
-        "note" : "Du-imperative of nehmen, with the vowel change e → i: „Nimm nicht, was dir nicht gehört“.",
+        "note" : "Du-imperative of nehmen, with the vowel change e → i: „Nimm nicht, was dir nicht gehört“. Separable: … heraus = herausnehmen, to take out; „nimm die Blätter heraus“ = take the leaves out.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "heraus",
+            "translation" : "to take out",
+            "verb" : "herausnehmen"
+          }
+        ],
         "translation" : "take (imperative)"
       },
       {
@@ -101345,8 +101845,15 @@
           "schwenk",
           "schwenken"
         ],
-        "note" : "In cooking: to toss pasta in the pan so the sauce coats it.",
+        "note" : "In cooking: to toss pasta in the pan so the sauce coats it. Separable: … aus = ausschwenken, to rinse by swirling; „schwenk die Teekanne mit heißem Wasser aus“ = swirl hot water round the teapot.",
         "pos" : "verb",
+        "separable" : [
+          {
+            "particle" : "aus",
+            "translation" : "to rinse by swirling",
+            "verb" : "ausschwenken"
+          }
+        ],
         "translation" : "to toss, to swirl"
       },
       {
@@ -117219,6 +117726,278 @@
         "note" : "Die Kopie, plural die Kopien: „eine Kopie, aber mit der Frau drin“ = a copy, but with the woman in it.",
         "pos" : "noun",
         "translation" : "copy"
+      },
+      {
+        "forms" : [
+          "1867"
+        ],
+        "note" : "A year, said „achtzehnhundertsiebenundsechzig“; German gives a year alone, without „in“: „1867 pflanzt er Tee“.",
+        "pos" : "number",
+        "translation" : "1867"
+      },
+      {
+        "forms" : [
+          "1852"
+        ],
+        "note" : "A year, said „achtzehnhundertzweiundfünfzig“; no „in“ before a year on its own: „1852 ist er hergekommen“.",
+        "pos" : "number",
+        "translation" : "1852"
+      },
+      {
+        "forms" : [
+          "19"
+        ],
+        "note" : "Neunzehn: „19 Acres“ = nineteen acres, a little under 8 hectares.",
+        "pos" : "number",
+        "translation" : "19"
+      },
+      {
+        "forms" : [
+          "200"
+        ],
+        "note" : "Zweihundert: „200 ml“ is read „zweihundert Milliliter“, about one cup.",
+        "pos" : "number",
+        "translation" : "200"
+      },
+      {
+        "forms" : [
+          "1870ern"
+        ],
+        "note" : "„In den 1870ern“ (said „achtzehnhundertsiebziger Jahren“ or „achtzehnhundertsiebzigern“) = in the 1870s; the -ern ending is the dative plural of the decade.",
+        "pos" : "number",
+        "translation" : "the 1870s"
+      },
+      {
+        "forms" : [
+          "acres"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Acre, plural die Acres: an English measure of land, a little under half a hectare; Germans usually say Hektar instead.",
+        "pos" : "noun",
+        "translation" : "acres"
+      },
+      {
+        "forms" : [
+          "hektar"
+        ],
+        "gender" : "masculine",
+        "note" : "Der or das Hektar (10,000 m²), unchanged in the plural after a number: „fast 8 Hektar“ = almost 8 hectares.",
+        "pos" : "noun",
+        "translation" : "hectare(s)"
+      },
+      {
+        "forms" : [
+          "ceylon"
+        ],
+        "gender" : "neuter",
+        "note" : "The old name of Sri Lanka, said „Zeilon“; the island's tea is still sold as Ceylon-Tee.",
+        "pos" : "noun",
+        "translation" : "Ceylon"
+      },
+      {
+        "forms" : [
+          "lanka"
+        ],
+        "gender" : "neuter",
+        "note" : "Part of Sri Lanka, the island south of India; „Sri“ is an old word of respect.",
+        "pos" : "noun",
+        "translation" : "Lanka (in Sri Lanka)"
+      },
+      {
+        "forms" : [
+          "kandy"
+        ],
+        "gender" : "neuter",
+        "note" : "A city in the hills of central Sri Lanka, an old royal capital.",
+        "pos" : "noun",
+        "translation" : "Kandy"
+      },
+      {
+        "forms" : [
+          "loolecondera"
+        ],
+        "gender" : "neuter",
+        "note" : "A plantation near Kandy where the first tea field of Ceylon was planted in 1867.",
+        "pos" : "noun",
+        "translation" : "Loolecondera"
+      },
+      {
+        "forms" : [
+          "taylor"
+        ],
+        "note" : "Surname of James Taylor, the Scottish planter who planted Ceylon's first tea field.",
+        "pos" : "noun",
+        "translation" : "Taylor"
+      },
+      {
+        "forms" : [
+          "schotte"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Schotte, a man from Schottland; a woman is die Schottin.",
+        "pos" : "noun",
+        "translation" : "Scot, Scotsman"
+      },
+      {
+        "forms" : [
+          "teekanne"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Teekanne = der Tee + die Kanne (pot, jug): „mach die Teekanne warm“ = warm the teapot.",
+        "pos" : "noun",
+        "translation" : "teapot"
+      },
+      {
+        "forms" : [
+          "teelöffel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Teelöffel, the same in the plural; in recipes often written TL: „1 Teelöffel Blätter“.",
+        "pos" : "noun",
+        "translation" : "teaspoon"
+      },
+      {
+        "forms" : [
+          "kaffeepflanzen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Kaffeepflanze = der Kaffee + die Pflanze (plant).",
+        "pos" : "noun",
+        "translation" : "coffee plants"
+      },
+      {
+        "forms" : [
+          "kaffeerost"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Kaffeerost: a fungus disease that turns coffee leaves orange and makes them fall; der Rost = rust.",
+        "pos" : "noun",
+        "translation" : "coffee rust"
+      },
+      {
+        "forms" : [
+          "blattkrankheit"
+        ],
+        "gender" : "feminine",
+        "note" : "Das Blatt (leaf) + die Krankheit (disease): „eine Blattkrankheit namens Kaffeerost“.",
+        "pos" : "noun",
+        "translation" : "leaf disease"
+      },
+      {
+        "forms" : [
+          "kaffeegebiet",
+          "kaffeegebiete"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Kaffeegebiet, plural die Kaffeegebiete: der Kaffee + das Gebiet (area, region).",
+        "pos" : "noun",
+        "translation" : "coffee-growing area(s)"
+      },
+      {
+        "forms" : [
+          "pflanzer"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Pflanzer, the same in the plural: someone who runs a plantation.",
+        "pos" : "noun",
+        "translation" : "planters"
+      },
+      {
+        "forms" : [
+          "arbeiter"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Arbeiter, the same in the plural; a woman is die Arbeiterin. From arbeiten (to work).",
+        "pos" : "noun",
+        "translation" : "worker(s)"
+      },
+      {
+        "forms" : [
+          "tamilische"
+        ],
+        "note" : "Case-inflected form of tamilisch: „tamilische Arbeiter“ = Tamil workers, from the Tamil people of South India and Sri Lanka.",
+        "pos" : "adjective",
+        "translation" : "Tamil"
+      },
+      {
+        "forms" : [
+          "gerodet"
+        ],
+        "note" : "Partizip II of roden, to clear land of trees and bushes so it can be farmed: „er hat fast 8 Hektar gerodet“.",
+        "pos" : "verb",
+        "translation" : "cleared (land)"
+      },
+      {
+        "forms" : [
+          "hergekommen"
+        ],
+        "note" : "Partizip II of herkommen (to come here), with sein; ge- sits after her-: „er ist hergekommen“.",
+        "pos" : "verb",
+        "translation" : "come here"
+      },
+      {
+        "forms" : [
+          "kaputt"
+        ],
+        "note" : "Spoken: „kaputt machen“ = to break, to ruin: „die Krankheit hat den Kaffee kaputt gemacht“.",
+        "pos" : "adjective",
+        "translation" : "broken, ruined"
+      },
+      {
+        "forms" : [
+          "befallen"
+        ],
+        "note" : "Partizip II of befallen (same form), used for diseases and pests: „der Kaffeerost hat die Blätter befallen“.",
+        "pos" : "verb",
+        "translation" : "attacked, infested"
+      },
+      {
+        "forms" : [
+          "entfalten"
+        ],
+        "note" : "Sich entfalten = to unfold slowly: „während sich die Blätter entfalten“ = as the leaves unfurl.",
+        "pos" : "verb",
+        "translation" : "unfold, open out"
+      },
+      {
+        "forms" : [
+          "färbt"
+        ],
+        "note" : "From färben; reflexive „sich rotbraun färben“ = to turn red-brown.",
+        "pos" : "verb",
+        "translation" : "colours, dyes; (sich färben) turns (a colour)"
+      },
+      {
+        "forms" : [
+          "rotbraun"
+        ],
+        "note" : "Rot (red) + braun (brown): the colour of well-brewed black tea.",
+        "pos" : "adjective",
+        "translation" : "red-brown"
+      },
+      {
+        "forms" : [
+          "kochendes"
+        ],
+        "note" : "Present participle of kochen used as an adjective, here with das Wasser: „kochendes Wasser“ = boiling water.",
+        "pos" : "adjective",
+        "translation" : "boiling"
+      },
+      {
+        "forms" : [
+          "dazukommen"
+        ],
+        "note" : "Separable verb written as one word at the end of a clause: „ob Milch und Zucker dazukommen“ = whether milk and sugar go in.",
+        "pos" : "verb",
+        "translation" : "to be added, to join"
+      },
+      {
+        "forms" : [
+          "wär's"
+        ],
+        "note" : "Spoken short form of „wäre es“ (Konjunktiv II of sein): „Wie wär's mit Tee?“ = how about some tea?",
+        "pos" : "other",
+        "translation" : "would it be"
       }
     ],
     "italian" : [
@@ -117405,6 +118184,7 @@
       {
         "forms" : [
           "all'india",
+          "dall'india",
           "dell'india",
           "india",
           "l'india"
@@ -118735,6 +119515,7 @@
       {
         "forms" : [
           "bollire",
+          "bollita",
           "bollito",
           "bollore"
         ],
@@ -122147,7 +122928,7 @@
         "gender" : "masculine",
         "note" : "As in \"nel giro di,\" within (a period of time).",
         "pos" : "noun",
-        "translation" : "turn / round"
+        "translation" : "turn / round; (nel giro di) within"
       },
       {
         "forms" : [
@@ -124986,7 +125767,7 @@
         ],
         "note" : "Piacere (noun/verb, \"to like\"), piacevole (adjective).",
         "pos" : "other",
-        "translation" : "pleasure / pleasant(ly)"
+        "translation" : "pleasure / pleasant(ly); (a piacere) as you like"
       },
       {
         "forms" : [
@@ -125011,7 +125792,7 @@
         ],
         "note" : "Piantare (verb), pianta/piantagione (noun).",
         "pos" : "other",
-        "translation" : "plant(s) / to plant"
+        "translation" : "plant(s) / to plant; (piantagione) plantation"
       },
       {
         "forms" : [
@@ -125258,6 +126039,7 @@
           "portasse",
           "portata",
           "portate",
+          "portati",
           "portato",
           "portava",
           "portino",
@@ -128520,6 +129302,7 @@
           "toglie",
           "togliere",
           "toglierlo",
+          "toglile",
           "togliti"
         ],
         "note" : "Imperative of togliere.",
@@ -128528,6 +129311,7 @@
       },
       {
         "forms" : [
+          "tolta",
           "tolto"
         ],
         "note" : "Past participle of togliere.",
@@ -128773,7 +129557,7 @@
         ],
         "note" : "Tutto/tutta/tutti/tutte; tutti e due (tutte e due) = both.",
         "pos" : "other",
-        "translation" : "all / every"
+        "translation" : "all / every; (pronoun) everyone"
       },
       {
         "forms" : [
@@ -130143,6 +130927,8 @@
       },
       {
         "forms" : [
+          "coltiva",
+          "coltivano",
           "coltivare",
           "coltivato",
           "coltivo",
@@ -132105,7 +132891,8 @@
           "parlarne",
           "parlasse",
           "parlatene",
-          "parlava"
+          "parlava",
+          "parliamo"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -133517,7 +134304,7 @@
         ],
         "note" : "From \"andare.\"",
         "pos" : "verb",
-        "translation" : "goes"
+        "translation" : "goes; (ti va?) do you fancy"
       },
       {
         "forms" : [
@@ -133544,7 +134331,7 @@
         ],
         "note" : "Forms of \"vedere.\"",
         "pos" : "verb",
-        "translation" : "sees; to see her; you see"
+        "translation" : "sees; to see her; you see; (vedi tu) it's up to you"
       },
       {
         "forms" : [
@@ -136783,6 +137570,7 @@
           "passano",
           "passata",
           "passate",
+          "passati",
           "passato",
           "passi",
           "passiamo",
@@ -136790,7 +137578,7 @@
         ],
         "note" : "From passare.",
         "pos" : "verb",
-        "translation" : "passes, spent"
+        "translation" : "passes, spent; (passare a) to switch to"
       },
       {
         "forms" : [
@@ -137091,6 +137879,7 @@
       {
         "forms" : [
           "scura",
+          "scure",
           "scuro"
         ],
         "note" : "Masculine singular of scuro.",
@@ -137263,7 +138052,7 @@
         ],
         "note" : "From tenere.",
         "pos" : "verb",
-        "translation" : "to keep, holds, held, will keep"
+        "translation" : "to keep, holds, held, will keep; (la tenuta) the estate"
       },
       {
         "forms" : [
@@ -146909,6 +147698,7 @@
       },
       {
         "forms" : [
+          "diffusa",
           "diffuse",
           "diffuso"
         ],
@@ -154530,6 +155320,282 @@
         "note" : "Feminine participle of riscrivere (ri- = again + scrivere): l'ha riscritta = she rewrote it, agreeing with la.",
         "pos" : "verb",
         "translation" : "rewritten"
+      },
+      {
+        "forms" : [
+          "1852"
+        ],
+        "note" : "Milleottocentocinquantadue; a year takes the article in Italian: nel 1852 = in 1852.",
+        "pos" : "number",
+        "translation" : "1852"
+      },
+      {
+        "forms" : [
+          "1867"
+        ],
+        "note" : "Milleottocentosessantasette; Italian says è il 1867 (it's 1867) and nel 1867 (in 1867), always with the article.",
+        "pos" : "number",
+        "translation" : "1867"
+      },
+      {
+        "forms" : [
+          "19"
+        ],
+        "note" : "Diciannove: 19 acri = 19 acres.",
+        "pos" : "number",
+        "translation" : "19"
+      },
+      {
+        "forms" : [
+          "200"
+        ],
+        "note" : "Duecento, one word: 200 ml = duecento millilitri, about one cup.",
+        "pos" : "number",
+        "translation" : "200"
+      },
+      {
+        "forms" : [
+          "diciannove"
+        ],
+        "note" : "Written as one word, like all Italian numbers: diciannove acri = nineteen acres.",
+        "pos" : "number",
+        "translation" : "nineteen"
+      },
+      {
+        "forms" : [
+          "acri"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of acro, an English unit of land (about 0.4 hectares); Italians normally measure land in ettari.",
+        "pos" : "noun",
+        "translation" : "acres"
+      },
+      {
+        "forms" : [
+          "ettari"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of ettaro, the usual Italian unit for land: 8 ettari = 8 hectares, about 19 acres.",
+        "pos" : "noun",
+        "translation" : "hectares"
+      },
+      {
+        "forms" : [
+          "ceylon"
+        ],
+        "gender" : "feminine",
+        "note" : "The old name of Sri Lanka; tea from the island is still sold as tè di Ceylon.",
+        "pos" : "noun",
+        "translation" : "Ceylon"
+      },
+      {
+        "forms" : [
+          "lanka"
+        ],
+        "gender" : "masculine",
+        "note" : "Second half of Sri Lanka, the island's name today; Italian says lo Sri Lanka, but no article after si chiama.",
+        "pos" : "noun",
+        "translation" : "Lanka (in Sri Lanka)"
+      },
+      {
+        "forms" : [
+          "kandy"
+        ],
+        "note" : "A city in the hills of central Sri Lanka; vicino a Kandy = near Kandy.",
+        "pos" : "noun",
+        "translation" : "Kandy"
+      },
+      {
+        "forms" : [
+          "loolecondera"
+        ],
+        "note" : "The estate near Kandy where James Taylor planted his tea field in 1867.",
+        "pos" : "noun",
+        "translation" : "Loolecondera"
+      },
+      {
+        "forms" : [
+          "james"
+        ],
+        "note" : "An English first name, said as in English; here James Taylor, the Scottish planter.",
+        "pos" : "noun",
+        "translation" : "James"
+      },
+      {
+        "forms" : [
+          "taylor"
+        ],
+        "note" : "A surname, said as in English: James Taylor.",
+        "pos" : "noun",
+        "translation" : "Taylor"
+      },
+      {
+        "forms" : [
+          "tamil"
+        ],
+        "note" : "The same in the singular and plural: lavoratori tamil = Tamil workers, from South India and Sri Lanka.",
+        "pos" : "adjective",
+        "translation" : "Tamil"
+      },
+      {
+        "forms" : [
+          "scozzese"
+        ],
+        "gender" : "masculine",
+        "note" : "Same form for a man or a woman: uno scozzese, una scozzese; also an adjective, il whisky scozzese.",
+        "pos" : "noun",
+        "translation" : "Scottish; a Scot"
+      },
+      {
+        "forms" : [
+          "teiera"
+        ],
+        "gender" : "feminine",
+        "note" : "From tè + -iera, the ending for a container (zuccheriera = sugar bowl): scalda la teiera = warm the pot.",
+        "pos" : "noun",
+        "translation" : "teapot"
+      },
+      {
+        "forms" : [
+          "cucchiaino"
+        ],
+        "gender" : "masculine",
+        "note" : "A small cucchiaio (spoon): -ino makes things small; 1 cucchiaino = about 2 g of tea leaves.",
+        "pos" : "noun",
+        "translation" : "teaspoon"
+      },
+      {
+        "forms" : [
+          "piantatori"
+        ],
+        "gender" : "masculine",
+        "note" : "People who ran the coffee and tea estates; from piantare (to plant) + -tore, the ending for someone who does something.",
+        "pos" : "noun",
+        "translation" : "planters"
+      },
+      {
+        "forms" : [
+          "ruggine"
+        ],
+        "gender" : "feminine",
+        "note" : "La ruggine is rust on iron, and la ruggine del caffè is coffee rust, a fungus that kills the leaves; feminine though it ends in -e.",
+        "pos" : "noun",
+        "translation" : "rust"
+      },
+      {
+        "forms" : [
+          "infusione"
+        ],
+        "gender" : "feminine",
+        "note" : "Lasciare in infusione = to let steep (tea or herbs in hot water); feminine, like most nouns in -ione.",
+        "pos" : "noun",
+        "translation" : "infusion, steeping"
+      },
+      {
+        "forms" : [
+          "l'isola",
+          "sull'isola"
+        ],
+        "gender" : "feminine",
+        "note" : "L'isola = the island; su + l'isola = sull'isola, on the island: è arrivato sull'isola = he came to the island.",
+        "pos" : "noun",
+        "translation" : "the island"
+      },
+      {
+        "forms" : [
+          "dell'ottocento"
+        ],
+        "note" : "L'Ottocento (the 1800s) is the nineteenth century: gli anni Settanta dell'Ottocento = the 1870s.",
+        "pos" : "other",
+        "translation" : "of the nineteenth century"
+      },
+      {
+        "forms" : [
+          "bollente"
+        ],
+        "note" : "Acqua bollente = boiling water; the same form for masculine and feminine.",
+        "pos" : "adjective",
+        "translation" : "boiling hot"
+      },
+      {
+        "forms" : [
+          "bruno"
+        ],
+        "note" : "A warmer, more literary word than marrone: rosso bruno = red-brown, the colour of strong tea.",
+        "pos" : "adjective",
+        "translation" : "brown, dark brown"
+      },
+      {
+        "forms" : [
+          "vuotala"
+        ],
+        "note" : "Vuota (tu imperative of vuotare, to empty) + la (it, the teapot): the pronoun joins the end of the imperative.",
+        "pos" : "verb",
+        "translation" : "empty it"
+      },
+      {
+        "forms" : [
+          "svuotala"
+        ],
+        "note" : "Svuota + la: svuotare is a stronger vuotare, to empty out completely; the pronoun joins the end of the imperative.",
+        "pos" : "verb",
+        "translation" : "empty it (out)"
+      },
+      {
+        "forms" : [
+          "scurisce"
+        ],
+        "note" : "Si scurisce = gets darker, from scuro (dark); scurire takes -isc- in the present: scurisce, scuriscono.",
+        "pos" : "verb",
+        "translation" : "darkens"
+      },
+      {
+        "forms" : [
+          "distendono"
+        ],
+        "note" : "Si distendono = (they) open out, unfurl; reflexive, like the leaves opening in hot water.",
+        "pos" : "verb",
+        "translation" : "stretch out, unfurl"
+      },
+      {
+        "forms" : [
+          "esageri"
+        ],
+        "note" : "Tu form of esagerare (to exaggerate, to overdo it): se esageri = if you overdo it; spoken and friendly.",
+        "pos" : "verb",
+        "translation" : "you overdo it"
+      },
+      {
+        "forms" : [
+          "disboscato"
+        ],
+        "note" : "Participle of disboscare, to clear the trees from land: dis- (removing) + bosco (wood); ha disboscato = he cleared.",
+        "pos" : "verb",
+        "translation" : "cleared (of forest)"
+      },
+      {
+        "forms" : [
+          "attaccato"
+        ],
+        "note" : "Participle of attaccare in the sense to attack (a disease, an army): la ruggine ha attaccato le foglie = the rust struck the leaves.",
+        "pos" : "verb",
+        "translation" : "attacked, struck"
+      },
+      {
+        "forms" : [
+          "piace"
+        ],
+        "note" : "Italian turns like around: se ti piace = if it pleases you, if you like it; the thing liked is the subject.",
+        "pos" : "verb",
+        "translation" : "pleases; (ti piace) you like"
+      },
+      {
+        "forms" : [
+          "dici"
+        ],
+        "note" : "Che ne dici di una tazza? = what do you say to a cup? a friendly way to offer something; dici is the tu form of dire.",
+        "pos" : "verb",
+        "translation" : "you say; (che ne dici di) how about"
       }
     ],
     "spanish" : [
@@ -157070,11 +158136,12 @@
           "limpian",
           "limpiar",
           "limpiarla",
-          "limpio"
+          "limpio",
+          "limpió"
         ],
         "note" : "Forms of limpiar.",
         "pos" : "verb",
-        "translation" : "to clean"
+        "translation" : "to clean; to clear (land)"
       },
       {
         "forms" : [
@@ -159906,7 +160973,7 @@
         ],
         "note" : "Cambiar = to change; cambia = he/she changes; cambió / cambiaron = changed (past).",
         "pos" : "verb",
-        "translation" : "to change; changes; changed"
+        "translation" : "to change; changes; changed; (cambiar X por Y) to swap X for Y"
       },
       {
         "forms" : [
@@ -162949,7 +164016,7 @@
         ],
         "note" : "\"Unos\" is the plural, meaning \"some.\"",
         "pos" : "other",
-        "translation" : "one, some"
+        "translation" : "one, some; (before a number) about"
       },
       {
         "forms" : [
@@ -166227,8 +167294,10 @@
       },
       {
         "forms" : [
+          "hervida",
           "hervir",
-          "hierve"
+          "hierve",
+          "hirviendo"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -166807,7 +167876,8 @@
           "mataba",
           "mataban",
           "matado",
-          "matan"
+          "matan",
+          "mató"
         ],
         "note" : "Matar, imperfect and past participle.",
         "pos" : "verb",
@@ -167594,7 +168664,7 @@
         ],
         "note" : "Poner, in various forms: pone = puts, pongo = I put, ponlas = put them!, ponía = was putting. At a counter, \"¿Qué le pongo?\" = what can I get you?",
         "pos" : "verb",
-        "translation" : "puts; I put; put them!; was putting; (¿Qué le pongo?) what can I get you?; (ponía amarillos) was turning (yellow)"
+        "translation" : "puts; I put; put them!; was putting; (¿Qué le pongo?) what can I get you?; (ponía amarillos) was turning (yellow); (se pone) turns, gets"
       },
       {
         "forms" : [
@@ -169834,6 +170904,7 @@
       },
       {
         "forms" : [
+          "cultiva",
           "cultivan",
           "cultivar",
           "cultivaron",
@@ -178793,7 +179864,8 @@
           "moverlas",
           "movía",
           "mueva",
-          "mueve"
+          "mueve",
+          "muévela"
         ],
         "note" : "Present of mover, o→ue: \"ningún cepillo lo mueve\".",
         "pos" : "verb",
@@ -182684,6 +183756,7 @@
       },
       {
         "forms" : [
+          "extendido",
           "extendió",
           "extiende"
         ],
@@ -186432,7 +187505,8 @@
       {
         "forms" : [
           "ataca",
-          "atacar"
+          "atacar",
+          "atacó"
         ],
         "note" : "Atacar un problema = to tackle a problem, an everyday figurative use.",
         "pos" : "verb",
@@ -188136,7 +189210,7 @@
         ],
         "note" : "Acabar + adjective = to end up (acabó reunido); acabarse = to come to an end; acabar con = to ruin (acabó con su salud).",
         "pos" : "verb",
-        "translation" : "to end, to be over; ended up"
+        "translation" : "to end, to be over; ended up; (acabar de + infinitive) to have just"
       },
       {
         "forms" : [
@@ -191209,7 +192283,8 @@
       },
       {
         "forms" : [
-          "traído"
+          "traído",
+          "traídos"
         ],
         "note" : "Past participle of traer (to bring): „he traído“ = I've brought.",
         "pos" : "verb",
@@ -193229,6 +194304,248 @@
         "note" : "«La reina» here is Marie-Antoinette, queen of France in 1791.",
         "pos" : "noun",
         "translation" : "queen"
+      },
+      {
+        "forms" : [
+          "1867"
+        ],
+        "note" : "Read «mil ochocientos sesenta y siete»: the year James Taylor planted his first tea field in Ceylon.",
+        "pos" : "number",
+        "translation" : "1867"
+      },
+      {
+        "forms" : [
+          "1852"
+        ],
+        "note" : "Read «mil ochocientos cincuenta y dos»: the year James Taylor arrived in Ceylon.",
+        "pos" : "number",
+        "translation" : "1852"
+      },
+      {
+        "forms" : [
+          "1870"
+        ],
+        "note" : "Read «mil ochocientos setenta»; «la década de 1870» = the 1870s.",
+        "pos" : "number",
+        "translation" : "1870"
+      },
+      {
+        "forms" : [
+          "19"
+        ],
+        "note" : "Read «diecinueve», written as one word.",
+        "pos" : "number",
+        "translation" : "nineteen"
+      },
+      {
+        "forms" : [
+          "200"
+        ],
+        "note" : "Read «doscientos»; before a feminine noun it becomes «doscientas»: 200 personas.",
+        "pos" : "number",
+        "translation" : "two hundred"
+      },
+      {
+        "forms" : [
+          "diecinueve"
+        ],
+        "note" : "Written as one word, like all the numbers from 16 to 29: dieciséis, diecisiete, dieciocho.",
+        "pos" : "number",
+        "translation" : "nineteen"
+      },
+      {
+        "forms" : [
+          "acres"
+        ],
+        "gender" : "masculine",
+        "note" : "An old English measure of land; Spanish usually says hectáreas, and 19 acres are about 8 hectares.",
+        "pos" : "noun",
+        "translation" : "acres"
+      },
+      {
+        "forms" : [
+          "hectáreas"
+        ],
+        "gender" : "feminine",
+        "note" : "The usual measure of land in Spain: one hectárea is 10,000 square metres.",
+        "pos" : "noun",
+        "translation" : "hectares"
+      },
+      {
+        "forms" : [
+          "ceilán"
+        ],
+        "gender" : "masculine",
+        "note" : "The old name of Sri Lanka; tea from the island is still sold as «té de Ceilán».",
+        "pos" : "noun",
+        "translation" : "Ceylon"
+      },
+      {
+        "forms" : [
+          "kandy"
+        ],
+        "note" : "A city in the hills of central Sri Lanka.",
+        "pos" : "other",
+        "translation" : "Kandy"
+      },
+      {
+        "forms" : [
+          "lanka"
+        ],
+        "note" : "Part of Sri Lanka, the island country south of India; Spanish keeps the name.",
+        "pos" : "other",
+        "translation" : "Lanka"
+      },
+      {
+        "forms" : [
+          "james"
+        ],
+        "note" : "James Taylor, the Scot who planted the first tea field in Ceylon; Spanish keeps the English name.",
+        "pos" : "other",
+        "translation" : "James (a man's first name)"
+      },
+      {
+        "forms" : [
+          "taylor"
+        ],
+        "note" : "James Taylor: Spanish keeps the English surname and says it the English way.",
+        "pos" : "other",
+        "translation" : "Taylor (a surname)"
+      },
+      {
+        "forms" : [
+          "loolecondera"
+        ],
+        "note" : "The estate near Kandy where James Taylor planted tea in 1867.",
+        "pos" : "other",
+        "translation" : "Loolecondera"
+      },
+      {
+        "forms" : [
+          "escocés"
+        ],
+        "gender" : "masculine",
+        "note" : "Someone from Escocia (Scotland); the feminine is escocesa and the plural escoceses.",
+        "pos" : "noun",
+        "translation" : "Scot; Scottish"
+      },
+      {
+        "forms" : [
+          "tetera"
+        ],
+        "gender" : "feminine",
+        "note" : "From té (tea) + -era, the ending for a container: cafetera, azucarera.",
+        "pos" : "noun",
+        "translation" : "teapot"
+      },
+      {
+        "forms" : [
+          "cucharadita"
+        ],
+        "gender" : "feminine",
+        "note" : "A small cucharada; «una cucharadita» is the usual recipe measure, about 2 g of tea leaves.",
+        "pos" : "noun",
+        "translation" : "teaspoon (spoonful)"
+      },
+      {
+        "forms" : [
+          "vacíala"
+        ],
+        "note" : "Vaciar in the tú imperative + la (it, here the teapot); the accent keeps the stress on -cí-.",
+        "pos" : "verb",
+        "translation" : "empty it! (tú command)"
+      },
+      {
+        "forms" : [
+          "apetece"
+        ],
+        "note" : "Apetecer works like gustar: «¿te apetece una taza?» = do you feel like a cup?, literally does a cup appeal to you?",
+        "pos" : "verb",
+        "translation" : "feel like, fancy"
+      },
+      {
+        "forms" : [
+          "finca",
+          "fincas"
+        ],
+        "gender" : "feminine",
+        "note" : "A piece of farmland with its house; in Ceylon, «las fincas» were the coffee and tea estates.",
+        "pos" : "noun",
+        "translation" : "estate, farm"
+      },
+      {
+        "forms" : [
+          "plantadores"
+        ],
+        "gender" : "masculine",
+        "note" : "The owners or managers of a plantation; singular plantador.",
+        "pos" : "noun",
+        "translation" : "planters"
+      },
+      {
+        "forms" : [
+          "roya"
+        ],
+        "gender" : "feminine",
+        "note" : "A fungus that spots leaves orange; «la roya del café» ruined the coffee of Ceylon from 1869.",
+        "pos" : "noun",
+        "translation" : "rust (plant disease)"
+      },
+      {
+        "forms" : [
+          "cafeteras"
+        ],
+        "note" : "Adjective of café, agreeing with zonas: «zonas cafeteras» = coffee districts; as a noun, una cafetera is a coffee pot.",
+        "pos" : "adjective",
+        "translation" : "coffee-growing"
+      },
+      {
+        "forms" : [
+          "tamiles"
+        ],
+        "note" : "Plural of tamil, the people and language of southern India and northern Sri Lanka; used here as a noun: «trabajaban tamiles».",
+        "pos" : "adjective",
+        "translation" : "Tamil (people)"
+      },
+      {
+        "forms" : [
+          "reposar"
+        ],
+        "note" : "«Dejar reposar» is how Spanish recipes say let it stand: déjalo reposar 3 minutos.",
+        "pos" : "verb",
+        "translation" : "to rest, to brew (tea)"
+      },
+      {
+        "forms" : [
+          "desbrozó"
+        ],
+        "note" : "Desbrozar, pretérito indefinido: to clear land of bushes and weeds before planting.",
+        "pos" : "verb",
+        "translation" : "cleared (of scrub)"
+      },
+      {
+        "forms" : [
+          "despliegan"
+        ],
+        "note" : "Desplegar, ellos form of the present; e → ie in stressed syllables: despliegan, but desplegar.",
+        "pos" : "verb",
+        "translation" : "unfold, unfurl"
+      },
+      {
+        "forms" : [
+          "rojizo"
+        ],
+        "note" : "Rojo + -izo, «a bit red»: «un marrón rojizo» = a red-brown.",
+        "pos" : "adjective",
+        "translation" : "reddish"
+      },
+      {
+        "forms" : [
+          "descuidas"
+        ],
+        "note" : "Descuidarse, tú form of the present: «si te descuidas» = if you aren't careful, if you let your attention slip.",
+        "pos" : "verb",
+        "translation" : "(you) aren't careful"
       }
     ]
   },
@@ -246653,6 +247970,596 @@
       "summary" : "Nel settembre del 1791, a Parigi, una drammaturga ha preso la frase più famosa della Rivoluzione francese e ci ha aggiunto una parola sola.",
       "title" : "Nata libera e uguale",
       "translationGroup" : "born-free-and-equal"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "id" : "nineteen-acres",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe gives each step with the base form of the verb and no subject: warm, add, wait, take. Between friends it sounds helpful, not bossy.",
+              "example" : "Warm the pot with hot water, then pour it away.",
+              "title" : "The imperative for a recipe"
+            },
+            {
+              "body" : "A story can start with \"It's\" + a year and then stay in the present, as if you are there: he clears, he plants. It makes the scene feel close.",
+              "example" : "It's 1867, on a hill near Kandy, in Ceylon.",
+              "title" : "It's 1867: telling the past in the present"
+            },
+            {
+              "body" : "\"Like\" before a noun or pronoun means \"the same as\": like everyone here = James does what everyone here does. It isn't the verb like (I like tea).",
+              "example" : "Like everyone here, James grows coffee, but the tea is something new.",
+              "title" : "Like + a noun: the same as"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's 1867, on a hill near Kandy, in Ceylon. Ceylon is today's Sri Lanka. A Scot called James Taylor clears 19 acres and plants tea.",
+            "Like everyone here, James grows coffee, but the tea is something new. Then the coffee plants get sick and die. So the farmers plant tea too.",
+            "Now make a cup. Warm the pot with hot water, then pour it away. Add 1 teaspoon of dark leaves and 200 ml of boiling water. Wait 3 to 5 minutes and smell the tea. Take the leaves out, and add milk if you like.",
+            "Nineteen acres, and now a cup in your hands."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (cleared, planted, killed), but many common ones have their own past form: come → came, go → went.",
+              "example" : "In the 1870s, the first Ceylon tea went to London.",
+              "title" : "The past simple: came, went, killed"
+            },
+            {
+              "body" : "\"To\" + the base verb says why someone did something: he came to grow coffee = he came because he wanted to grow coffee.",
+              "example" : "He came to the island in 1852, at about 17, to grow coffee like everyone else.",
+              "title" : "To + verb for a reason"
+            },
+            {
+              "body" : "\"Per\" means \"for each\": 1 teaspoon per 200 ml = one teaspoon for every 200 ml of water. You hear it in recipes and prices.",
+              "example" : "Add 1 teaspoon of leaves per 200 ml of boiling water.",
+              "title" : "Per: for each"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1867, a Scot called James Taylor cleared 19 acres near Kandy and planted tea. That was Ceylon, today's Sri Lanka.",
+            "He came to the island in 1852, at about 17, to grow coffee like everyone else.",
+            "But then a leaf disease killed the coffee, so the planters switched to tea. In the 1870s, the first Ceylon tea went to London.",
+            "Want a cup? Warm the pot with hot water, then pour it away. Add 1 teaspoon of leaves per 200 ml of boiling water. Wait 3 to 5 minutes and smell the tea as the dark leaves open. Take them out, and add milk or sugar if you like.",
+            "Nineteen acres, and now a cup in your hands."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle (here shortened to he'd) shows that something happened before another past moment: he arrived in 1852, long before the tea field of 1867.",
+              "example" : "He'd arrived in 1852, at about 17, to grow coffee like everyone else.",
+              "title" : "The past perfect: he'd arrived"
+            },
+            {
+              "body" : "A past participle can follow a noun to describe it: workers brought from South India = workers who were brought from South India.",
+              "example" : "The planters turned to tea, and the work on the estates was done by Tamil workers brought from South India.",
+              "title" : "Brought from: a short passive after a noun"
+            },
+            {
+              "body" : "In speech, \"any longer and\" + a result means \"if you wait longer, this happens\": any longer and it turns bitter.",
+              "example" : "Wait 3 to 5 minutes while the leaves open: any longer and it's bitter.",
+              "title" : "Any longer and…: a warning in two parts"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1867, on the Loolecondera estate near Kandy, a Scot called James Taylor cleared 19 acres and planted tea. That was Ceylon, today's Sri Lanka.",
+            "He'd arrived in 1852, at about 17, to grow coffee like everyone else.",
+            "From 1869, a leaf disease called coffee rust spread to every coffee district. The planters turned to tea, and the work on the estates was done by Tamil workers brought from South India. The first Ceylon tea went to London in the 1870s.",
+            "Want a cup? Warm the pot with hot water, then pour it away. Add 1 teaspoon of leaves per 200 ml of freshly boiled water. Wait 3 to 5 minutes while the leaves open: any longer and it's bitter. Take them out, and add milk or sugar to taste.",
+            "Nineteen acres, and now a cup in your hands."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\", which is what…\" refers back to the whole idea before it, not one noun: growing coffee was what almost everyone there did.",
+              "example" : "He'd arrived in 1852, at about 17, to grow coffee, which is what practically everyone did.",
+              "title" : "Which is what: commenting on a whole clause"
+            },
+            {
+              "body" : "\"Within a few years it had reached\" looks at the end point from the past: by then, the disease was already everywhere.",
+              "example" : "In 1869, coffee rust struck the leaves, and within a few years it had reached every coffee district.",
+              "title" : "Had reached: the past perfect for a finished spread"
+            },
+            {
+              "body" : "\"As\" joins two actions that happen at the same time: you wait, and meanwhile the leaves unfurl (open slowly) and the colour gets darker.",
+              "example" : "Give it 3 to 5 minutes as the leaves unfurl and the colour deepens to red-brown; any longer and it turns bitter.",
+              "title" : "As: two things happening at once"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1867, on the Loolecondera estate near Kandy, a Scot called James Taylor cleared 19 acres and planted tea. This was Ceylon, now Sri Lanka.",
+            "He'd arrived in 1852, at about 17, to grow coffee, which is what practically everyone did.",
+            "In 1869, coffee rust struck the leaves, and within a few years it had reached every coffee district. The planters turned to tea, and the work on the estates was done by Tamil workers brought from South India. The first Ceylon tea got to London in the 1870s.",
+            "How about a cup? Swirl hot water around the pot, then pour it out. Use 1 teaspoon of leaves per 200 ml of water just off the boil. Give it 3 to 5 minutes as the leaves unfurl and the colour deepens to red-brown; any longer and it turns bitter. Take the leaves out; milk and sugar are up to you.",
+            "Nineteen acres, and now a cup in your hands."
+          ]
+        }
+      ],
+      "summary" : "In 1867, on a hill in Ceylon where everyone grew coffee, a Scot cleared nineteen acres and planted tea instead.",
+      "title" : "Nineteen Acres",
+      "translationGroup" : "nineteen-acres"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "id" : "nineteen-acres-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend uses the tu imperative: the tu present without « tu », and -er verbs drop the final -s: tu chauffes → chauffe. An object pronoun goes after the verb with a hyphen: vide-la = empty it.",
+              "example" : "Chauffe la théière avec de l'eau chaude, puis vide-la.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "« On est en » + a year puts you inside the scene, and the story can then stay in the present: il prépare, il plante. « On est » is the everyday way to say « nous sommes » here.",
+              "example" : "On est en 1867, sur une colline près de Kandy, à Ceylan.",
+              "title" : "On est en 1867: a story told in the present"
+            },
+            {
+              "body" : "Tout le monde means everyone, not the whole world, and it takes a singular verb: tout le monde cultive, never tout le monde cultivent.",
+              "example" : "Tout le monde cultive du café, donc le thé, c'est tout nouveau.",
+              "title" : "Tout le monde: everyone, with a singular verb"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en 1867, sur une colline près de Kandy, à Ceylan. Aujourd'hui, c'est le Sri Lanka. Un Écossais, James Taylor, prépare un champ de 19 acres. Et il plante du thé, pas du café !",
+            "Tout le monde cultive du café, donc le thé, c'est tout nouveau. Puis une maladie tue les plants de café. Alors tous les planteurs passent au thé.",
+            "Fais-toi un thé ! Chauffe la théière avec de l'eau chaude, puis vide-la. Mets 1 cuillère à café de thé pour 200 ml d'eau bouillante. Attends 3 à 5 minutes : le thé sent bon. Enlève les feuilles et ajoute du lait si tu veux.",
+            "Dix-neuf acres, et maintenant une tasse dans tes mains."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passé composé tells what happened once (il est arrivé, il a planté); the imparfait describes the background, what everyone around him did (tout le monde faisait pareil).",
+              "example" : "Là-bas, tout le monde faisait pareil.",
+              "title" : "Passé composé for events, imparfait for background"
+            },
+            {
+              "body" : "Y replaces a place already named (here, the field) and goes before the verb, before avoir in the passé composé: il y a planté du thé = he planted tea there. It is not the il y a of « there is ».",
+              "example" : "Puis il y a planté du thé.",
+              "title" : "Y: there, before the verb"
+            },
+            {
+              "body" : "Arriver, partir and passer (to move on to) form the passé composé with être, and the participle agrees with the subject: les planteurs sont passés, le thé est parti.",
+              "example" : "Mais une maladie des feuilles a tué le café, alors les planteurs sont passés au thé.",
+              "title" : "Sont passés: verbs of movement take être"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1867, un Écossais, James Taylor, a préparé un champ de 19 acres près de Kandy. Puis il y a planté du thé. C'était à Ceylan, aujourd'hui le Sri Lanka.",
+            "Il est arrivé en 1852, vers 17 ans, pour cultiver du café. Là-bas, tout le monde faisait pareil.",
+            "Mais une maladie des feuilles a tué le café, alors les planteurs sont passés au thé. Dans les années 1870, le premier thé de Ceylan est parti pour Londres.",
+            "Envie d'une tasse ? Chauffe la théière avec de l'eau chaude, puis vide-la. Mets 1 cuillère à café de thé pour 200 ml d'eau bouillante. Attends 3 à 5 minutes : les feuilles s'ouvrent, et le thé sent bon. Enlève-les, puis ajoute du lait ou du sucre si tu veux.",
+            "Dix-neuf acres, et maintenant une tasse dans tes mains."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait of avoir or être + a past participle tells what had happened before another past moment: he arrived in 1852, long before the tea field of 1867.",
+              "example" : "Il était arrivé en 1852, vers 17 ans, pour cultiver du café, comme tout le monde.",
+              "title" : "The plus-que-parfait: il était arrivé"
+            },
+            {
+              "body" : "« Ce sont X qui … » stresses who did something: ce sont des ouvriers tamouls qui travaillaient = it was Tamil workers who did the work. The past participle amenés, right after the noun, describes them: brought from South India.",
+              "example" : "Les planteurs sont passés au thé, et dans les plantations, ce sont des ouvriers tamouls amenés du sud de l'Inde qui travaillaient.",
+              "title" : "Ce sont … qui: putting the doers in the spotlight"
+            },
+            {
+              "body" : "Venir de + an infinitive says something has only just happened: de l'eau qui vient de bouillir = water that has just boiled.",
+              "example" : "Mets 1 cuillère à café de thé pour 200 ml d'eau qui vient de bouillir.",
+              "title" : "Venir de + infinitive: just done"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1867, sur le domaine de Loolecondera, près de Kandy, un Écossais, James Taylor, a défriché 19 acres, environ 8 hectares. Il y a planté du thé. C'était à Ceylan, l'actuel Sri Lanka.",
+            "Il était arrivé en 1852, vers 17 ans, pour cultiver du café, comme tout le monde.",
+            "Dès 1869, une maladie des feuilles appelée la rouille du caféier s'est répandue dans toutes les régions de café. Les planteurs sont passés au thé, et dans les plantations, ce sont des ouvriers tamouls amenés du sud de l'Inde qui travaillaient. Le premier thé de Ceylan est parti pour Londres dans les années 1870.",
+            "Une tasse ? Chauffe la théière avec de l'eau chaude, puis vide-la. Mets 1 cuillère à café de thé pour 200 ml d'eau qui vient de bouillir. Laisse les feuilles s'ouvrir 3 à 5 minutes, pas plus, sinon c'est amer. Enlève-les, puis lait ou sucre, à ton goût.",
+            "Dix-neuf acres, et maintenant une tasse dans tes mains."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a comma, « ce que » sums up the whole idea before it, not one noun: growing coffee was what almost everyone did. The subject often comes after the verb here: ce que faisait tout le monde.",
+              "example" : "Il était arrivé en 1852, vers 17 ans, pour cultiver du café, ce que faisait presque tout le monde.",
+              "title" : "Ce que: which is what"
+            },
+            {
+              "body" : "« En quelques années, elle avait atteint » looks back from the end of those years: by then, the disease had already reached every coffee district. Est apparue tells the start; avait atteint, what was already true later.",
+              "example" : "En 1869, la rouille du caféier est apparue sur les feuilles, et en quelques années, elle avait atteint toutes les régions de café.",
+              "title" : "Avait atteint: the plus-que-parfait for an end point"
+            },
+            {
+              "body" : "« Et si » + the imparfait is a friendly suggestion, not a past: et si tu te faisais une tasse ? = how about making yourself a cup?",
+              "example" : "Et si tu te faisais une tasse ?",
+              "title" : "Et si tu …? A suggestion with the imparfait"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1867, sur le domaine de Loolecondera, près de Kandy, un Écossais, James Taylor, a défriché 19 acres, environ 8 hectares, pour y planter du thé. On était à Ceylan, l'actuel Sri Lanka.",
+            "Il était arrivé en 1852, vers 17 ans, pour cultiver du café, ce que faisait presque tout le monde.",
+            "En 1869, la rouille du caféier est apparue sur les feuilles, et en quelques années, elle avait atteint toutes les régions de café. Les planteurs sont passés au thé, et dans les plantations, ce sont des ouvriers tamouls amenés du sud de l'Inde qui travaillaient. Le premier thé de Ceylan est arrivé à Londres dans les années 1870.",
+            "Et si tu te faisais une tasse ? Ébouillante la théière, puis vide-la. Compte 1 cuillère à café de thé pour 200 ml d'eau qui vient de bouillir. Laisse infuser 3 à 5 minutes, le temps que les feuilles se déroulent et que la couleur vire au rouge-brun : au-delà, le thé devient amer. Retire les feuilles ; lait et sucre, c'est toi qui vois.",
+            "Dix-neuf acres, et maintenant une tasse dans tes mains."
+          ]
+        }
+      ],
+      "summary" : "En 1867, sur une colline de Ceylan où tout le monde cultivait du café, un Écossais a planté du thé à la place.",
+      "title" : "Dix-neuf acres",
+      "translationGroup" : "nineteen-acres"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "id" : "nineteen-acres-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe told to a friend puts the verb first, without „du“ and without -st: du machst → mach!, du gibst → gib!, du nimmst → nimm!, du wartest → warte!",
+              "example" : "Und gib Milch dazu, wenn du magst.",
+              "title" : "The du imperative in a recipe: mach, gib, nimm"
+            },
+            {
+              "body" : "In „weggießen“ (to pour away) the part „weg“ splits off and goes to the end of the clause: gieß es weg = pour it away. The same happens in nimm … heraus (take out) and gib … dazu (add).",
+              "example" : "Jetzt mach die Teekanne mit heißem Wasser warm und gieß es weg.",
+              "title" : "Gieß es weg: the little word goes to the end"
+            },
+            {
+              "body" : "A story can start with „Es ist“ + a year and then stay in the present, as if you were there: er pflanzt, die Kaffeepflanzen sterben. It makes the scene feel close.",
+              "example" : "Es ist 1867, auf einem Hügel bei Kandy in Ceylon, heute Sri Lanka.",
+              "title" : "Es ist 1867: the past told in the present"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist 1867, auf einem Hügel bei Kandy in Ceylon, heute Sri Lanka. Und dort pflanzt James Taylor aus Schottland auf fast 8 Hektar Tee.",
+            "Wie alle hier baut James Kaffee an. Aber Tee ist für ihn neu. Dann werden die Kaffeepflanzen krank und sterben. Also pflanzen bald alle Tee.",
+            "Jetzt mach die Teekanne mit heißem Wasser warm und gieß es weg. Gib 1 Teelöffel dunkle Blätter und 200 ml kochendes Wasser hinein. Warte 3 bis 5 Minuten und riech mal am Tee. Nimm die Blätter heraus. Und gib Milch dazu, wenn du magst.",
+            "Fast 8 Hektar, und jetzt eine Tasse in deinen Händen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement or change make the Perfekt with sein, not haben: er ist hergekommen, sie sind umgestiegen, der Tee ist angekommen. Most other verbs take haben: er hat gepflanzt.",
+              "example" : "Er ist 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, wie alle.",
+              "title" : "The Perfekt with sein: ist hergekommen, sind umgestiegen"
+            },
+            {
+              "body" : "„Um“ + zu + infinitive at the end says why someone does something: um Kaffee anzubauen = to grow coffee. In a separable verb, zu goes inside: anbauen → anzubauen.",
+              "example" : "Er ist 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, wie alle.",
+              "title" : "Um … zu: in order to"
+            },
+            {
+              "body" : "„Pro“ means for each: 1 Teelöffel pro 200 ml = one teaspoon for every 200 ml of water. You hear it in recipes and prices (2 Euro pro Stück).",
+              "example" : "Nimm 1 Teelöffel Blätter pro 200 ml kochendes Wasser.",
+              "title" : "Pro: for each"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1867 hat ein Schotte namens James Taylor bei Kandy fast 8 Hektar gerodet und Tee gepflanzt. Das war Ceylon, heute Sri Lanka.",
+            "Er ist 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, wie alle.",
+            "Aber dann hat eine Blattkrankheit den Kaffee kaputt gemacht. Also sind die Pflanzer auf Tee umgestiegen. Ein paar Jahre später ist der erste Tee aus Ceylon in London angekommen.",
+            "Lust auf eine Tasse? Mach die Teekanne mit heißem Wasser warm und gieß es weg. Nimm 1 Teelöffel Blätter pro 200 ml kochendes Wasser. Warte 3 bis 5 Minuten und riech mal am Tee. Nimm die Blätter heraus und gib Milch oder Zucker dazu, wenn du magst.",
+            "Fast 8 Hektar, und jetzt eine Tasse in deinen Händen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "War/hatte + Partizip II puts one past event before another: he came in 1852, long before the tea field of 1867. Verbs that take sein in the Perfekt take war here.",
+              "example" : "Er war 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, wie alle.",
+              "title" : "The Plusquamperfekt: er war hergekommen"
+            },
+            {
+              "body" : "„Die“ starts a relative clause and sends the verb to the end; with „man“ (people, they) it says who was brought without naming who did it: Arbeiter, die man geholt hat = workers who were brought.",
+              "example" : "Die Arbeit auf den Plantagen haben tamilische Arbeiter gemacht, die man aus Südindien geholt hat.",
+              "title" : "Die man … geholt hat: a relative clause with man"
+            },
+            {
+              "body" : "In speech, a short word + „und“ + a result means if you do that, this happens: länger, und der Tee wird bitter = if you wait longer, the tea turns bitter.",
+              "example" : "Warte 3 bis 5 Minuten, während sich die Blätter öffnen; länger, und der Tee wird bitter.",
+              "title" : "Länger, und …: a warning in two parts"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1867 hat der Schotte James Taylor auf der Plantage Loolecondera bei Kandy fast 8 Hektar gerodet und Tee gepflanzt. Das war Ceylon, heute Sri Lanka.",
+            "Er war 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, wie alle.",
+            "Ab 1869 hat eine Blattkrankheit namens Kaffeerost alle Kaffeegebiete erreicht. Die Pflanzer sind auf Tee umgestiegen. Die Arbeit auf den Plantagen haben tamilische Arbeiter gemacht, die man aus Südindien geholt hat. In den 1870ern ist der erste Tee aus Ceylon in London angekommen.",
+            "Lust auf Tee? Mach die Teekanne mit heißem Wasser warm und gieß es weg. Nimm 1 Teelöffel Blätter pro 200 ml frisch gekochtes Wasser. Warte 3 bis 5 Minuten, während sich die Blätter öffnen; länger, und der Tee wird bitter. Nimm sie heraus; Milch oder Zucker, wie du magst.",
+            "Fast 8 Hektar, und jetzt eine Tasse in deinen Händen."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a comma, „was“ refers to the whole idea before it, not to one noun: um Kaffee anzubauen, was jeder gemacht hat = to grow coffee, which is what everyone did.",
+              "example" : "Er war 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, was praktisch jeder gemacht hat.",
+              "title" : "Was: pointing back to a whole clause"
+            },
+            {
+              "body" : "Spoken German can drop „wenn“ and start the condition with its verb: zieht er länger = wenn er länger zieht. The result clause then starts with its verb too: wird er bitter.",
+              "example" : "Lass den Tee 3 bis 5 Minuten ziehen, während sich die Blätter entfalten und er sich rotbraun färbt; zieht er länger, wird er bitter.",
+              "title" : "Zieht er länger, wird er bitter: if without wenn"
+            },
+            {
+              "body" : "A whole ob-clause (whether …) can stand first as the object; the main verb follows straight after the comma, then the subject: ob Milch dazukommt, entscheidest du = you decide whether milk goes in.",
+              "example" : "Nimm sie heraus; ob Milch und Zucker dazukommen, entscheidest du.",
+              "title" : "Ob … entscheidest du: a clause in first place"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1867 hat der Schotte James Taylor auf der Plantage Loolecondera bei Kandy fast 8 Hektar gerodet und Tee gepflanzt. Das war Ceylon, heute Sri Lanka.",
+            "Er war 1852 mit etwa 17 hergekommen, um Kaffee anzubauen, was praktisch jeder gemacht hat.",
+            "1869 hat der Kaffeerost die Blätter befallen, und nach wenigen Jahren hatte er jedes Kaffeegebiet erreicht. Die Pflanzer sind auf Tee umgestiegen; die Arbeit auf den Plantagen haben tamilische Arbeiter gemacht, die man aus Südindien geholt hat. In den 1870ern ist der erste Tee aus Ceylon in London angekommen.",
+            "Wie wär's mit Tee? Schwenk die Teekanne mit heißem Wasser aus und gieß es weg. Nimm 1 Teelöffel Blätter pro 200 ml gerade gekochtes Wasser. Lass den Tee 3 bis 5 Minuten ziehen, während sich die Blätter entfalten und er sich rotbraun färbt; zieht er länger, wird er bitter. Nimm sie heraus; ob Milch und Zucker dazukommen, entscheidest du.",
+            "Fast 8 Hektar, und jetzt eine Tasse in deinen Händen."
+          ]
+        }
+      ],
+      "summary" : "Auf Ceylon haben 1867 alle Kaffee angebaut, aber ein Schotte hat fast 8 Hektar gerodet und Tee gepflanzt.",
+      "title" : "Tee statt Kaffee",
+      "translationGroup" : "nineteen-acres"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "id" : "nineteen-acres-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps speak to one friend with the tú imperative, which for regular verbs looks like the él/ella present: calienta, espera, saca; a few verbs are short and irregular: pon (poner).",
+              "example" : "Calienta la tetera con agua caliente y luego vacíala.",
+              "title" : "The tú imperative in a recipe"
+            },
+            {
+              "body" : "Estamos en + a year puts you inside the scene, and the story then stays in the present: planta, cultiva, mata. It sounds like a friend saying \"picture this\".",
+              "example" : "Estamos en 1867, en una colina cerca de Kandy, en Ceilán.",
+              "title" : "Estamos en 1867: a story told in the present"
+            },
+            {
+              "body" : "También (too, also) can close a short clause after a name or pronoun: y James también = and James does too. You don't repeat the verb.",
+              "example" : "Aquí todos cultivan café, y James también.",
+              "title" : "Y James también: también at the end"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Estamos en 1867, en una colina cerca de Kandy, en Ceilán. Hoy, Ceilán se llama Sri Lanka. Allí, un escocés llamado James Taylor planta té en 19 acres.",
+            "Aquí todos cultivan café, y James también. Para él, el té es algo nuevo. Pero luego una enfermedad mata las plantas de café. Así que muchos agricultores plantan té, como James.",
+            "Y ahora, prepara una taza. Calienta la tetera con agua caliente y luego vacíala. Pon una cucharadita de hojas oscuras y 200 ml de agua hirviendo. Espera de 3 a 5 minutos y huele el té. Saca las hojas y, si quieres, añade leche.",
+            "Diecinueve acres, y ahora una taza en tus manos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events at a known time, here 1867; -ar verbs end in -ó for él/ella: limpió, plantó, llegó.",
+              "example" : "En 1867, un escocés llamado James Taylor limpió 19 acres cerca de Kandy y plantó té.",
+              "title" : "Limpió, plantó, llegó: the pretérito indefinido"
+            },
+            {
+              "body" : "The imperfect venía sets the background rather than telling an event, and venir a + infinitive says what someone came to do: venía a cultivar café.",
+              "example" : "Venía a cultivar café, como todo el mundo allí.",
+              "title" : "Venía a + infinitive: background and purpose"
+            },
+            {
+              "body" : "Por cada + amount means \"for each\": una cucharadita por cada 200 ml = one teaspoon for every 200 ml. You hear it in recipes and prices.",
+              "example" : "Pon una cucharadita de hojas por cada 200 ml de agua hirviendo.",
+              "title" : "Por cada: per"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1867, un escocés llamado James Taylor limpió 19 acres cerca de Kandy y plantó té. Era la isla de Ceilán, hoy Sri Lanka.",
+            "Llegó a la isla en 1852, con unos 17 años. Venía a cultivar café, como todo el mundo allí.",
+            "Pero luego una enfermedad de las hojas mató las plantas de café. Así que los agricultores cambiaron el café por el té. Unos años después, el primer té de Ceilán llegó a Londres.",
+            "¿Te apetece una taza? Calienta la tetera con agua caliente y luego vacíala. Pon una cucharadita de hojas por cada 200 ml de agua hirviendo. Espera de 3 a 5 minutos mientras se abren las hojas oscuras. Después saca las hojas, huele el té y añade leche o azúcar, si quieres.",
+            "Diecinueve acres, y ahora una taza en tus manos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + past participle shows something that happened before another past moment: he arrived in 1852, long before the tea field of 1867.",
+              "example" : "Había llegado en 1852, con unos 17 años, para cultivar café, como todo el mundo.",
+              "title" : "Había llegado: the pluscuamperfecto"
+            },
+            {
+              "body" : "A past participle can follow a noun and describe it, agreeing like an adjective: tamiles traídos = Tamils (who were) brought. The place comes first and the subject after the verb, as people often say it.",
+              "example" : "En las fincas trabajaban tamiles traídos del sur de la India.",
+              "title" : "Traídos del sur: a participle after a noun"
+            },
+            {
+              "body" : "Si + present, then present, states what always happens: si lo dejas más, se pone amargo = if you leave it longer, it turns bitter.",
+              "example" : "Si lo dejas más, se pone amargo.",
+              "title" : "Si + present: a friendly warning"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1867, un escocés llamado James Taylor limpió 19 acres, unas 8 hectáreas, y plantó té. Fue en la finca Loolecondera, cerca de Kandy, en Ceilán, hoy Sri Lanka.",
+            "Había llegado en 1852, con unos 17 años, para cultivar café, como todo el mundo.",
+            "A partir de 1869, una enfermedad de la hoja llamada roya del café se extendió por todas las zonas cafeteras. Los plantadores cambiaron el café por el té. En las fincas trabajaban tamiles traídos del sur de la India. El primer té de Ceilán llegó a Londres en la década de 1870.",
+            "¿Te apetece una taza? Calienta la tetera con agua caliente y vacíala. Pon una cucharadita de hojas por cada 200 ml de agua recién hervida. Déjalo reposar de 3 a 5 minutos mientras se abren las hojas oscuras. Si lo dejas más, se pone amargo. Saca las hojas; leche o azúcar, al gusto.",
+            "Diecinueve acres, y ahora una taza en tus manos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a comma, que era a lo que refers back to the whole idea before it, here growing coffee, not to one noun; dedicarse a keeps its a: que era a lo que se dedicaba = which is what (almost) everyone did for a living.",
+              "example" : "Había llegado en 1852, con unos 17 años, para cultivar café, que era a lo que se dedicaba prácticamente todo el mundo.",
+              "title" : "Que era a lo que: pointing back to a whole activity"
+            },
+            {
+              "body" : "The pluscuamperfecto looks at the end point from the past: within a few years, the disease was already everywhere. Ya underlines that it was already done.",
+              "example" : "En 1869, la roya del café atacó las hojas, y en pocos años ya se había extendido por todas las zonas cafeteras.",
+              "title" : "Se había extendido: a finished spread"
+            },
+            {
+              "body" : "Descuidarse means to let your attention slip: si te descuidas = if you're not careful (and leave it too long). Amargar here means \"to taste bitter\".",
+              "example" : "Si te descuidas, amarga.",
+              "title" : "Si te descuidas: a friendly warning"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1867, un escocés llamado James Taylor desbrozó 19 acres de ladera, unas 8 hectáreas, y plantó té. Fue en la finca Loolecondera, cerca de Kandy, en Ceilán, hoy Sri Lanka.",
+            "Había llegado en 1852, con unos 17 años, para cultivar café, que era a lo que se dedicaba prácticamente todo el mundo.",
+            "En 1869, la roya del café atacó las hojas, y en pocos años ya se había extendido por todas las zonas cafeteras. Los plantadores cambiaron el café por el té, y en las fincas trabajaban tamiles traídos del sur de la India. El primer té de Ceilán llegó a Londres en la década de 1870.",
+            "¿Qué tal una taza? Echa agua caliente en la tetera, muévela un poco y vacíala. Pon una cucharadita de hojas por cada 200 ml de agua que acaba de dejar de hervir. Déjalo reposar de 3 a 5 minutos mientras las hojas se despliegan y el té se pone de un marrón rojizo. Si te descuidas, amarga. Saca las hojas; leche y azúcar, a tu gusto.",
+            "Diecinueve acres, y ahora una taza en tus manos."
+          ]
+        }
+      ],
+      "summary" : "En 1867, en una colina de Ceilán donde todos cultivaban café, un escocés limpió diecinueve acres y se atrevió con el té.",
+      "title" : "Diecinueve acres",
+      "translationGroup" : "nineteen-acres"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "id" : "nineteen-acres-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps speak to a friend with the tu imperative: -are verbs end in -a (scalda, aspetta), -ere verbs in -i (metti, togli). A pronoun joins the end: vuotala = empty it (the teapot).",
+              "example" : "Scalda la teiera con acqua calda, poi vuotala.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "Tutti (everyone, literally all) takes a plural verb: tutti coltivano = everyone grows. Anche (also, too) goes before the word it adds: anche James = James too, anche gli altri = the others too.",
+              "example" : "Sulla collina tutti coltivano il caffè, anche James.",
+              "title" : "Tutti + a plural verb; anche"
+            },
+            {
+              "body" : "Italian gives a name with the reflexive verb chiamarsi: Ceylon si chiama Sri Lanka = Ceylon is called Sri Lanka. With a person: mi chiamo James, my name is James.",
+              "example" : "Oggi Ceylon si chiama Sri Lanka.",
+              "title" : "Si chiama: names with chiamarsi"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "È il 1867, su una collina vicino a Kandy, a Ceylon. Oggi Ceylon si chiama Sri Lanka. Qui c'è uno scozzese, James Taylor. Prepara un campo di 19 acri e ci pianta il tè.",
+            "Sulla collina tutti coltivano il caffè, anche James. Ma il tè è una cosa nuova. Poi arriva una malattia, e le piante del caffè muoiono. Così anche gli altri passano al tè.",
+            "Ti va un tè? Scalda la teiera con acqua calda, poi vuotala. Metti 1 cucchiaino di foglie scure ogni 200 ml d'acqua bollente. Aspetta da 3 a 5 minuti e senti il profumo del tè. Togli le foglie e aggiungi latte, se ti piace.",
+            "Diciannove acri, e adesso una tazza nelle tue mani."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement and change take essere in the passato prossimo, and the participle agrees with the subject: James è arrivato, i piantatori sono passati.",
+              "example" : "James è arrivato sull'isola nel 1852, a circa 17 anni, per coltivare il caffè.",
+              "title" : "Passato prossimo with essere: è arrivato"
+            },
+            {
+              "body" : "A habit or a background fact takes the imperfetto: lo facevano tutti = everyone did it (back then). The events of the story take the passato prossimo: è arrivato, ha piantato.",
+              "example" : "Allora lo facevano tutti.",
+              "title" : "Facevano: the imperfetto for what everyone did"
+            },
+            {
+              "body" : "With the tu imperative, an object pronoun is written onto the end of the verb: togli + le = toglile, take them out (le foglie).",
+              "example" : "Poi toglile e aggiungi latte o zucchero, se ti piace.",
+              "title" : "Toglile: the pronoun joins the imperative"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1867 lo scozzese James Taylor ha preparato un campo di 19 acri e ci ha piantato il tè. Era vicino a Kandy, a Ceylon, che oggi si chiama Sri Lanka.",
+            "James è arrivato sull'isola nel 1852, a circa 17 anni, per coltivare il caffè. Allora lo facevano tutti.",
+            "Poi una malattia delle foglie ha ucciso il caffè. Così i piantatori sono passati al tè. Qualche anno dopo, il primo tè di Ceylon è partito per Londra.",
+            "Ti va un tè? Scalda la teiera con acqua calda, poi vuotala. Metti 1 cucchiaino di foglie ogni 200 ml di acqua bollente. Aspetta da 3 a 5 minuti e senti il profumo, mentre le foglie scure si aprono. Poi toglile e aggiungi latte o zucchero, se ti piace.",
+            "Diciannove acri, e adesso una tazza nelle tue mani."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto of essere or avere + the participle puts one past event before another: he arrived in 1852, long before the tea field of 1867.",
+              "example" : "Era arrivato nel 1852, a circa 17 anni, per coltivare il caffè, come facevano tutti.",
+              "title" : "Era arrivato: the trapassato prossimo"
+            },
+            {
+              "body" : "Reflexive verbs build the passato prossimo with essere, and the participle agrees with the subject: la ruggine si è diffusa = the rust spread.",
+              "example" : "Dal 1869 una malattia delle foglie chiamata ruggine del caffè si è diffusa in tutte le zone del caffè.",
+              "title" : "Si è diffusa: reflexive verbs take essere"
+            },
+            {
+              "body" : "Speech often puts the object first as the topic and picks it up again with a pronoun before the verb: il lavoro lo facevano lavoratori tamil = the work was done by Tamil workers.",
+              "example" : "I piantatori sono passati al tè, e il lavoro nelle piantagioni lo facevano lavoratori tamil portati dall'India del Sud.",
+              "title" : "Il lavoro lo facevano: the object first"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1867 lo scozzese James Taylor ha disboscato 19 acri, circa 8 ettari, e ci ha piantato il tè. Siamo nella tenuta di Loolecondera, vicino a Kandy, a Ceylon, che oggi è lo Sri Lanka.",
+            "Era arrivato nel 1852, a circa 17 anni, per coltivare il caffè, come facevano tutti.",
+            "Dal 1869 una malattia delle foglie chiamata ruggine del caffè si è diffusa in tutte le zone del caffè. I piantatori sono passati al tè, e il lavoro nelle piantagioni lo facevano lavoratori tamil portati dall'India del Sud. Negli anni Settanta dell'Ottocento il primo tè di Ceylon è arrivato a Londra.",
+            "Ti va un tè? Scalda la teiera con acqua calda, poi vuotala. Metti 1 cucchiaino di foglie ogni 200 ml di acqua appena bollita. Aspetta da 3 a 5 minuti, mentre le foglie si aprono; se lo lasci di più, diventa amaro. Poi togli le foglie; latte o zucchero, se vuoi.",
+            "Diciannove acri, e adesso una tazza nelle tue mani."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\", che poi era quello che…\" comments on the whole idea before it, not on one noun: growing coffee was simply what nearly everyone did. Poi here adds \"after all\", not \"then\".",
+              "example" : "Era arrivato nel 1852, a circa 17 anni, per coltivare il caffè, che poi era quello che facevano praticamente tutti.",
+              "title" : "Che poi era quello che: a spoken aside"
+            },
+            {
+              "body" : "The trapassato prossimo after nel giro di pochi anni (within a few years) looks at the result from the past: by then the rust was already everywhere.",
+              "example" : "Nel 1869 la ruggine del caffè ha attaccato le foglie, e nel giro di pochi anni era arrivata in tutte le zone del caffè.",
+              "title" : "Era arrivata: looking back at the end point"
+            },
+            {
+              "body" : "Fare + an infinitive means to make something happen: fai girare l'acqua = swirl the water (make it go round). The same pattern gives far bollire, to bring to the boil.",
+              "example" : "Fai girare dell'acqua calda nella teiera, poi svuotala.",
+              "title" : "Fai girare: fare + infinitive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1867, nella tenuta di Loolecondera, vicino a Kandy, lo scozzese James Taylor ha disboscato 19 acri, circa 8 ettari, e ci ha piantato il tè. Parliamo di Ceylon, cioè dello Sri Lanka di oggi.",
+            "Era arrivato nel 1852, a circa 17 anni, per coltivare il caffè, che poi era quello che facevano praticamente tutti.",
+            "Nel 1869 la ruggine del caffè ha attaccato le foglie, e nel giro di pochi anni era arrivata in tutte le zone del caffè. I piantatori sono passati al tè, e il lavoro nelle piantagioni lo facevano lavoratori tamil portati dall'India del Sud. Negli anni Settanta dell'Ottocento il primo tè di Ceylon è arrivato a Londra.",
+            "Che ne dici di un tè? Fai girare dell'acqua calda nella teiera, poi svuotala. Usa 1 cucchiaino di foglie ogni 200 ml di acqua appena tolta dal fuoco. Lascia in infusione da 3 a 5 minuti, mentre le foglie si distendono e il colore si scurisce fino al rosso bruno; se esageri, diventa amaro. Togli le foglie; latte e zucchero, vedi tu.",
+            "Diciannove acri, e adesso una tazza nelle tue mani."
+          ]
+        }
+      ],
+      "summary" : "Nel 1867, su una collina di Ceylon dove tutti coltivavano il caffè, uno scozzese ha disboscato diciannove acri e ci ha piantato il tè.",
+      "title" : "Diciannove acri",
+      "translationGroup" : "nineteen-acres"
     }
   ]
 }

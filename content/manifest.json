@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 34,
-  "generatedAt" : "2026-11-12",
+  "contentVersion" : 35,
+  "generatedAt" : "2026-11-13",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-13",
+      "titles" : {
+        "english" : "Nineteen Acres",
+        "french" : "Dix-neuf acres",
+        "german" : "Tee statt Kaffee",
+        "italian" : "Diciannove acri",
+        "spanish" : "Diecinueve acres"
+      },
+      "translationGroup" : "nineteen-acres"
+    },
     {
       "category" : "bookQuotes",
       "dateAdded" : "2026-11-12",
@@ -28,20 +40,8 @@
         "spanish" : "Una vacuna elegida en febrero"
       },
       "translationGroup" : "the-february-choice"
-    },
-    {
-      "category" : "lifeLessons",
-      "dateAdded" : "2026-11-10",
-      "titles" : {
-        "english" : "Lanterns for Martin",
-        "french" : "Des lanternes pour Martin",
-        "german" : "Laternen für Sankt Martin",
-        "italian" : "Le lanterne di san Martino",
-        "spanish" : "Farolillos para san Martín"
-      },
-      "translationGroup" : "martins-lantern"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "f3cd3c75828ae4769579bf9490bc4e2bc35fd96c2a20c337afa89e193e778961"
+  "sha256" : "97ac3103e388c550c2b26c48e02b4ca0c5c2ca5b7a352c3a95627739589c50e0"
 }
