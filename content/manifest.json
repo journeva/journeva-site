@@ -1,10 +1,34 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 35,
-  "generatedAt" : "2026-11-13",
+  "contentVersion" : 36,
+  "generatedAt" : "2026-11-15",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-15",
+      "titles" : {
+        "english" : "Before You Board",
+        "french" : "Avant de monter",
+        "german" : "Bevor du einsteigst",
+        "italian" : "Prima di salire",
+        "spanish" : "Antes de subir"
+      },
+      "translationGroup" : "validate-the-ticket"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-14",
+      "titles" : {
+        "english" : "Cairo: The Garden on the Rubbish Hill",
+        "french" : "Le Caire : le jardin sur la colline d'ordures",
+        "german" : "Kairo: Der Garten auf dem Müllberg",
+        "italian" : "Il Cairo: il giardino sulla collina di spazzatura",
+        "spanish" : "El Cairo: el jardín en la colina de basura"
+      },
+      "translationGroup" : "cairo"
+    },
     {
       "category" : "recipes",
       "dateAdded" : "2026-11-13",
@@ -16,32 +40,8 @@
         "spanish" : "Diecinueve acres"
       },
       "translationGroup" : "nineteen-acres"
-    },
-    {
-      "category" : "bookQuotes",
-      "dateAdded" : "2026-11-12",
-      "titles" : {
-        "english" : "Born Free and Equal",
-        "french" : "Née libre et égale",
-        "german" : "Frei und gleich geboren",
-        "italian" : "Nata libera e uguale",
-        "spanish" : "La mujer nace libre"
-      },
-      "translationGroup" : "born-free-and-equal"
-    },
-    {
-      "category" : "health",
-      "dateAdded" : "2026-11-11",
-      "titles" : {
-        "english" : "The February Choice",
-        "french" : "Le choix de février",
-        "german" : "Im Februar ausgewählt",
-        "italian" : "La scelta di febbraio",
-        "spanish" : "Una vacuna elegida en febrero"
-      },
-      "translationGroup" : "the-february-choice"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "97ac3103e388c550c2b26c48e02b4ca0c5c2ca5b7a352c3a95627739589c50e0"
+  "sha256" : "c8ba4024cbe7b0a580848db94516b76c6ae3a3238581cab86b8a0d707f130c29"
 }
