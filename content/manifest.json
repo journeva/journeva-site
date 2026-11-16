@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 37,
-  "generatedAt" : "2026-11-16",
+  "contentVersion" : 38,
+  "generatedAt" : "2026-11-17",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "lifeLessons",
+      "dateAdded" : "2026-11-17",
+      "titles" : {
+        "english" : "The Sixteenth Birthday",
+        "french" : "Pour ses seize ans",
+        "german" : "Der sechzehnte Geburtstag",
+        "italian" : "Il giorno dei sedici anni",
+        "spanish" : "Un cumpleaños en la ONU"
+      },
+      "translationGroup" : "the-sixteenth-birthday"
+    },
     {
       "category" : "news",
       "dateAdded" : "2026-11-16",
@@ -40,20 +52,8 @@
         "spanish" : "Antes de subir"
       },
       "translationGroup" : "validate-the-ticket"
-    },
-    {
-      "category" : "travel",
-      "dateAdded" : "2026-11-14",
-      "titles" : {
-        "english" : "Cairo: The Garden on the Rubbish Hill",
-        "french" : "Le Caire : le jardin sur la colline d'ordures",
-        "german" : "Kairo: Der Garten auf dem Müllberg",
-        "italian" : "Il Cairo: il giardino sulla collina di spazzatura",
-        "spanish" : "El Cairo: el jardín en la colina de basura"
-      },
-      "translationGroup" : "cairo"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "77195a4d092893aebaa86fcdcd6f95f3ac003ab474b842899b8aeb80fbcd7a23"
+  "sha256" : "7ea6acea83060525c09e89ce443ad94e9d1277833e42ff7c874c182ed77d28cb"
 }
