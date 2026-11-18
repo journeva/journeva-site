@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 38,
-  "generatedAt" : "2026-11-17",
+  "contentVersion" : 39,
+  "generatedAt" : "2026-11-18",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "titles" : {
+        "english" : "Two for the Night Feed",
+        "french" : "À deux pour le repas de nuit",
+        "german" : "Zu zweit durch die Nacht",
+        "italian" : "In due per la poppata di notte",
+        "spanish" : "Dos para la toma de noche"
+      },
+      "translationGroup" : "two-for-the-night-feed"
+    },
     {
       "category" : "lifeLessons",
       "dateAdded" : "2026-11-17",
@@ -40,20 +52,8 @@
         "spanish" : "El lago que vuelve a llenarse"
       },
       "translationGroup" : "baikal-fills-up"
-    },
-    {
-      "category" : "conversations",
-      "dateAdded" : "2026-11-15",
-      "titles" : {
-        "english" : "Before You Board",
-        "french" : "Avant de monter",
-        "german" : "Bevor du einsteigst",
-        "italian" : "Prima di salire",
-        "spanish" : "Antes de subir"
-      },
-      "translationGroup" : "validate-the-ticket"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "7ea6acea83060525c09e89ce443ad94e9d1277833e42ff7c874c182ed77d28cb"
+  "sha256" : "a9f79fde21c5f65e49b067365fedf1e48db77a85ed02fe3c648b09fc7070f5d5"
 }

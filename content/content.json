@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 38,
-  "generatedAt" : "2026-11-17",
+  "contentVersion" : 39,
+  "generatedAt" : "2026-11-18",
   "glossary" : {
     "english" : [
       {
@@ -205286,6 +205286,107 @@
         }
       }
     ],
+    "two-for-the-night-feed" : [
+      {
+        "answers" : [
+          {
+            "de" : "Um sieben Uhr",
+            "en" : "At seven o'clock",
+            "es" : "A las siete",
+            "fr" : "À sept heures",
+            "it" : "Alle sette"
+          },
+          {
+            "de" : "Am Mittag",
+            "en" : "At midday",
+            "es" : "A mediodía",
+            "fr" : "À midi",
+            "it" : "A mezzogiorno"
+          },
+          {
+            "de" : "Um drei Uhr",
+            "en" : "At three o'clock",
+            "es" : "A las tres",
+            "fr" : "À trois heures",
+            "it" : "Alle tre"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Um wie viel Uhr weint das Baby?",
+          "en" : "What time does the baby cry?",
+          "es" : "¿A qué hora llora el bebé?",
+          "fr" : "À quelle heure le bébé pleure ?",
+          "it" : "A che ora piange il bambino?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Der Partner",
+            "en" : "The partner",
+            "es" : "La pareja",
+            "fr" : "Le partenaire",
+            "it" : "Il partner"
+          },
+          {
+            "de" : "Der Nachbar",
+            "en" : "The neighbour",
+            "es" : "El vecino",
+            "fr" : "Le voisin",
+            "it" : "Il vicino"
+          },
+          {
+            "de" : "Der Briefträger",
+            "en" : "The postman",
+            "es" : "El cartero",
+            "fr" : "Le facteur",
+            "it" : "Il postino"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Wer steht auf, wenn das Baby weint?",
+          "en" : "Who gets up when the baby cries?",
+          "es" : "¿Quién se levanta cuando el bebé llora?",
+          "fr" : "Qui se lève quand le bébé pleure ?",
+          "it" : "Chi si alza quando il bambino piange?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Deinen Chef",
+            "en" : "Your boss",
+            "es" : "A tu jefe",
+            "fr" : "À ton chef",
+            "it" : "Al tuo capo"
+          },
+          {
+            "de" : "Deine Hebamme",
+            "en" : "Your midwife",
+            "es" : "A tu matrona",
+            "fr" : "À ta sage-femme",
+            "it" : "Alla tua ostetrica"
+          },
+          {
+            "de" : "Deinen Vermieter",
+            "en" : "Your landlord",
+            "es" : "A tu casero",
+            "fr" : "À ton propriétaire",
+            "it" : "Al tuo padrone di casa"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Länger als zwei Wochen traurig? Wen fragst du dann?",
+          "en" : "Sad for over two weeks? Who should you ask?",
+          "es" : "¿Triste más de dos semanas? ¿A quién le preguntas?",
+          "fr" : "Triste depuis plus de deux semaines ? Tu demandes à qui ?",
+          "it" : "Triste da più di due settimane? A chi chiedi aiuto?"
+        }
+      }
+    ],
     "validate-the-ticket" : [
       {
         "answers" : [
@@ -262636,6 +262737,596 @@
       "summary" : "Nel luglio 2013, una ragazza del Pakistan ha compiuto 16 anni all'ONU, e quello che ha chiesto lì era, in fondo, semplicissimo.",
       "title" : "Il giorno dei sedici anni",
       "translationGroup" : "the-sixteenth-birthday"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "id" : "two-for-the-night-feed",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 2015, the story uses had and was; the rest of the story stays in the present: the baby cries, the partner gets up.",
+              "example" : "In 2015, the World Health Organization had new pregnancy advice.",
+              "title" : "Was and had: one look back"
+            },
+            {
+              "body" : "\"So does\" + a person repeats the last verb for someone else: the baby sleeps, and so does the mother = the mother sleeps too.",
+              "example" : "Now the baby sleeps, and so does the mother.",
+              "title" : "So does the mother: the same for someone else"
+            },
+            {
+              "body" : "\"So\" joins a cause and what happens next: the baby cries, so the partner gets up.",
+              "example" : "At three o'clock, the baby cries, so the partner gets up.",
+              "title" : "So: what happens because of it"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In 2015, the World Health Organization had new pregnancy advice. And it was simple: the husband or partner matters too.",
+            "A baby's first weeks are lovely, but hard. And a lot happens at night.",
+            "At three o'clock, the baby cries, so the partner gets up. The mother feeds the baby, or the partner gives a bottle. Then the partner burps the baby and changes the nappy. Now the baby sleeps, and so does the mother. The partner is tired, but proud.",
+            "Is the mother sad for over two weeks, or are you? Then ask your midwife or doctor. A night feed is easier with two."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Should\" + the base verb gives advice: health workers should bring in the partner. No -s and no \"to\" after it.",
+              "example" : "Health workers should bring in the husband or partner.",
+              "title" : "Should: what is a good idea"
+            },
+            {
+              "body" : "English often uses \"they\" for one person when we don't say if it's a man or a woman: the partner gets up, and they bring the baby.",
+              "example" : "They bring the baby to the mother, or give a bottle.",
+              "title" : "They for one person"
+            },
+            {
+              "body" : "\"If it lasts…, get help\" puts the present after if and a tip in the other half: if this happens, do that.",
+              "example" : "If it lasts over two weeks, for her or for you, get help.",
+              "title" : "If + present: a real possibility"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 2015, the World Health Organization added something to its pregnancy advice. Health workers should bring in the husband or partner.",
+            "The first weeks with a baby are lovely but hard, and a lot happens at night.",
+            "At three in the morning, the baby cries and the partner gets up. They bring the baby to the mother, or give a bottle. Then they burp the baby and change the nappy. The mother goes back to sleep.",
+            "The partner is tired but proud. Feeling sad for a few days after birth is common. If it lasts over two weeks, for her or for you, get help.",
+            "What works for you two? Ask your midwife or doctor. Two people, one night feed."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"While\" joins two actions happening at the same moment: the partner settles the baby, and at the same time the mother sleeps.",
+              "example" : "Then they burp the baby, change the nappy and settle it again while she sleeps.",
+              "title" : "While: two things at the same time"
+            },
+            {
+              "body" : "An -ing form after a verb can say how something happens: the baby wakes up crying = it wakes up and is crying.",
+              "example" : "At three in the morning, the baby wakes up crying and the partner gets up.",
+              "title" : "Wake up + -ing: how someone wakes"
+            },
+            {
+              "body" : "\"Can\" doesn't only mean ability; it also says something is possible: partners can get depression too = it can happen to them.",
+              "example" : "But if low mood, hers or yours, lasts over two weeks, get help: partners can get depression too.",
+              "title" : "Can for something that is possible"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 2015, the World Health Organization added something to its pregnancy advice: health services should involve the husband or partner. Its 2022 guidelines kept that advice.",
+            "The first weeks with a newborn are wonderful but exhausting, and a lot happens at night.",
+            "At three in the morning, the baby wakes up crying and the partner gets up. They bring the baby to the mother, or give a bottle of expressed milk or formula. Then they burp the baby, change the nappy and settle it again while she sleeps.",
+            "The partner gets tired too, but feels quietly proud. Teary days after a birth are common. But if low mood, hers or yours, lasts over two weeks, get help: partners can get depression too.",
+            "What works for you two? Ask your midwife or doctor. Two people, one night feed."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"It's the partner who gets up\" stresses who does it, more than \"the partner gets up\" would: the cleft sentence points at one person.",
+              "example" : "At three in the morning the baby cries, and it's the partner who gets up, bringing the baby to the mother or giving a bottle of expressed milk or formula.",
+              "title" : "It's … who: putting one person in the spotlight"
+            },
+            {
+              "body" : "\"As long as\" sets a condition: bring the partner in, but only if the mother's choices come first.",
+              "example" : "Health services should bring in the husband or partner, as long as the mother's choices come first.",
+              "title" : "As long as: on one condition"
+            },
+            {
+              "body" : "\"Since\" can mean \"because\" when the reason is added after the main point: get help, since partners can get depression too.",
+              "example" : "Teary days after birth are common; if low mood, hers or yours, lasts over two weeks, get help, since partners can get depression too.",
+              "title" : "Since: because, in a relaxed way"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 2015, the World Health Organization added something that sounds obvious to its pregnancy advice. Health services should bring in the husband or partner, as long as the mother's choices come first. Its 2022 guidelines kept it.",
+            "The first weeks with a newborn are wonderful but exhausting, and a lot happens at night.",
+            "At three in the morning the baby cries, and it's the partner who gets up, bringing the baby to the mother or giving a bottle of expressed milk or formula. Then they burp the baby, change the nappy and rock the little one to sleep while the mother drifts off.",
+            "The partner gets tired too, but there's a quiet pride when a baby settles in your arms. Teary days after birth are common; if low mood, hers or yours, lasts over two weeks, get help, since partners can get depression too.",
+            "Ask your midwife or doctor what works for you two. Two people, one night feed."
+          ]
+        }
+      ],
+      "summary" : "In 2015, the World Health Organization said health workers should bring in the husband or partner too, and a lot of the new-baby work happens at three in the morning.",
+      "title" : "Two for the Night Feed",
+      "translationGroup" : "two-for-the-night-feed"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "id" : "two-for-the-night-feed-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 2015, the story uses the imparfait avait (had) and c'était (it was); the rest of the story stays in the present: le bébé pleure, le partenaire se lève.",
+              "example" : "En 2015, l'Organisation mondiale de la santé avait un nouveau conseil.",
+              "title" : "Avait and c'était: one look back"
+            },
+            {
+              "body" : "Getting up is reflexive in French: je me lève, tu te lèves, il se lève. The little se belongs to the verb and is not translated.",
+              "example" : "À trois heures, le bébé pleure, alors le partenaire se lève.",
+              "title" : "Se lever: a reflexive verb"
+            },
+            {
+              "body" : "French uses the present with depuis for something that started in the past and is still true: elle est triste depuis deux semaines = she has been sad for two weeks.",
+              "example" : "La mère est triste depuis plus de deux semaines ?",
+              "title" : "Depuis + present: still going on"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 2015, l'Organisation mondiale de la santé avait un nouveau conseil. Et c'était simple : le mari ou le partenaire a aussi sa place.",
+            "Les premières semaines avec un bébé sont belles, mais difficiles. Et beaucoup de choses se passent la nuit.",
+            "À trois heures, le bébé pleure, alors le partenaire se lève. La mère nourrit le bébé, ou le partenaire donne un biberon. Puis le bébé fait son rot, et le partenaire change la couche. Maintenant, le bébé et la mère dorment. Le partenaire est très fatigué, mais fier.",
+            "La mère est triste depuis plus de deux semaines ? Ou toi ? Alors demande conseil à ta sage-femme ou ton médecin. Un repas de nuit, c'est plus facile à deux."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avoir + past participle tells a finished event: elle a complété = it added to. Every -er verb makes the participle in -é: compléter → complété.",
+              "example" : "En 2015, l'Organisation mondiale de la santé a complété ses conseils sur la grossesse.",
+              "title" : "Passé composé for what happened"
+            },
+            {
+              "body" : "Il faut + an infinitive says what needs doing without naming who does it: il faut changer la couche = the nappy needs changing.",
+              "example" : "Ensuite, il faut faire faire son rot au bébé et changer la couche.",
+              "title" : "Il faut + infinitive: what has to be done"
+            },
+            {
+              "body" : "Si with the present sets a real condition, and the tip in the other half takes the tu imperative: si ça dure…, demande de l'aide.",
+              "example" : "Si ça dure plus de deux semaines, pour elle ou pour toi, demande de l'aide.",
+              "title" : "Si + present: a real possibility"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 2015, l'Organisation mondiale de la santé a complété ses conseils sur la grossesse. L'idée : faire participer aussi le mari ou le partenaire.",
+            "Avec un bébé, les premières semaines sont belles mais difficiles. En fait, beaucoup de choses se passent la nuit.",
+            "À trois heures du matin, le bébé pleure et le partenaire se lève. Le partenaire apporte le bébé à la mère, ou donne un biberon. Ensuite, il faut faire faire son rot au bébé et changer la couche. Et la mère se rendort.",
+            "Le partenaire est fatigué, mais fier. C'est normal d'être triste quelques jours après une naissance. Si ça dure plus de deux semaines, pour elle ou pour toi, demande de l'aide.",
+            "Chez toi, c'est quoi la bonne formule ? Demande à ta sage-femme ou à ton médecin. Deux personnes, un repas de nuit."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Pendant que joins two actions happening at the same moment: the partner settles the baby while the mother sleeps.",
+              "example" : "Puis il faut lui faire faire son rot, changer sa couche et le rendormir pendant qu'elle dort.",
+              "title" : "Pendant que: two things at the same time"
+            },
+            {
+              "body" : "En + the -ant form (the gérondif) says how or at the same time as what: le bébé se réveille en pleurant = the baby wakes up crying.",
+              "example" : "À trois heures du matin, le bébé se réveille en pleurant et le partenaire se lève.",
+              "title" : "En pleurant: how something happens"
+            },
+            {
+              "body" : "Faire before another infinitive means making someone do something: faire participer le partenaire = to get the partner involved; faire faire son rot au bébé = to make the baby burp.",
+              "example" : "En 2015, l'Organisation mondiale de la santé a ajouté un conseil sur la grossesse : faire participer le mari ou le partenaire.",
+              "title" : "Faire + infinitive: getting something done"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 2015, l'Organisation mondiale de la santé a ajouté un conseil sur la grossesse : faire participer le mari ou le partenaire. L'OMS l'a gardé en 2022.",
+            "Les premières semaines avec un nouveau-né sont merveilleuses mais épuisantes, et beaucoup de choses se passent la nuit.",
+            "À trois heures du matin, le bébé se réveille en pleurant et le partenaire se lève. Le partenaire apporte le bébé à la mère, ou donne un biberon de lait tiré ou infantile. Puis il faut lui faire faire son rot, changer sa couche et le rendormir pendant qu'elle dort.",
+            "Le partenaire est fatigué aussi, mais tellement fier. Pleurer pour un rien après une naissance, c'est fréquent. Si le moral de la mère, ou le tien, reste bas plus de deux semaines, demande de l'aide. Les partenaires aussi peuvent faire une dépression.",
+            "Chez toi, c'est quoi la bonne formule ? Demande à ta sage-femme ou à ton médecin. Deux personnes, un repas de nuit."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "C'est le partenaire qui se lève stresses who does it, more than le partenaire se lève would: the cleft sentence points at one person.",
+              "example" : "À trois heures du matin, le bébé pleure, et c'est le partenaire qui se lève pour l'apporter à la mère ou donner un biberon de lait tiré ou infantile.",
+              "title" : "C'est … qui: putting one person in the spotlight"
+            },
+            {
+              "body" : "À condition que sets a condition and always takes the subjunctive: que les choix de la mère passent en premier, here identical in form to the present.",
+              "example" : "Les soignants doivent faire participer le mari ou le partenaire, à condition que les choix de la mère passent en premier.",
+              "title" : "À condition que + subjunctive"
+            },
+            {
+              "body" : "Jusqu'à ce que (until) is followed by the subjunctive: jusqu'à ce qu'il se rendorme, from se rendormir, not se rendort.",
+              "example" : "Ensuite, il faut lui faire faire son rot, changer sa couche et le bercer jusqu'à ce qu'il se rendorme, pendant que la mère dort.",
+              "title" : "Jusqu'à ce que + subjunctive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 2015, l'Organisation mondiale de la santé a ajouté une évidence à ses conseils sur la grossesse. Les soignants doivent faire participer le mari ou le partenaire, à condition que les choix de la mère passent en premier. L'OMS l'a gardée en 2022.",
+            "Les premières semaines avec un nouveau-né sont merveilleuses mais épuisantes, et beaucoup de choses se passent la nuit.",
+            "À trois heures du matin, le bébé pleure, et c'est le partenaire qui se lève pour l'apporter à la mère ou donner un biberon de lait tiré ou infantile. Ensuite, il faut lui faire faire son rot, changer sa couche et le bercer jusqu'à ce qu'il se rendorme, pendant que la mère dort.",
+            "Côté partenaire, on est fatigué, mais quelle fierté quand le bébé s'apaise dans tes bras ! Pleurer pour un rien après une naissance, c'est fréquent. Si le moral de la mère, ou le tien, reste bas plus de deux semaines, demande de l'aide : les partenaires aussi peuvent faire une dépression.",
+            "Demande à ta sage-femme ou à ton médecin ce qui marche chez toi. Deux personnes, un repas de nuit."
+          ]
+        }
+      ],
+      "summary" : "En 2015, l'Organisation mondiale de la santé a dit qu'il fallait faire participer aussi le mari ou le partenaire, et avec un bébé, beaucoup de choses se passent à trois heures du matin.",
+      "title" : "À deux pour le repas de nuit",
+      "translationGroup" : "two-for-the-night-feed"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "id" : "two-for-the-night-feed-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 2015, the story uses only es gab (there was, there were) and war (was); with 2015 in first place, the verb comes second and es follows it: 2015 gab es. The rest of the story stays in the present: das Baby weint, der Partner steht auf.",
+              "example" : "2015 gab es von der WHO neue Tipps rund um die Geburt.",
+              "title" : "Es gab and war: one look back"
+            },
+            {
+              "body" : "Aufstehen (to get up) splits in a main clause: steht takes second place and auf goes to the very end. After also the verb still comes second: also steht der Partner auf.",
+              "example" : "Um drei Uhr weint das Baby, also steht der Partner auf.",
+              "title" : "Separable verbs: steht … auf"
+            },
+            {
+              "body" : "A sentence that starts with the verb is a yes/no question: Ist die Mutter traurig? Followed by dann, it works like \"if … then\": if she is sad, then ask.",
+              "example" : "Ist die Mutter über zwei Wochen traurig, oder bist du es?",
+              "title" : "Verb first: a question that sets a condition"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "2015 gab es von der WHO neue Tipps rund um die Geburt. Die Idee war einfach: Auch der Ehemann oder Partner ist wichtig.",
+            "Die ersten Wochen mit Baby sind schön, aber hart. Denn vieles passiert nachts.",
+            "Um drei Uhr weint das Baby, also steht der Partner auf. Die Mutter stillt, oder der Partner gibt die Flasche. Dann macht das Baby ein Bäuerchen, und der Partner wechselt die Windel. Das Baby schläft, und die Mutter auch. Der Partner ist müde, aber stolz.",
+            "Ist die Mutter über zwei Wochen traurig, oder bist du es? Dann frag deine Hebamme oder deinen Arzt. Zu zweit ist die Nacht leichter."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For the 2015 news the A2 uses the spoken past: hat in second place, the participle at the very end. In hinzufügen (to add) the zu sits inside the word: hinzu + ge + fügt.",
+              "example" : "2015 hat die Weltgesundheitsorganisation ihren Tipps zur Schwangerschaft etwas hinzugefügt.",
+              "title" : "Perfekt with hat: hat hinzugefügt"
+            },
+            {
+              "body" : "Sollen passes on a rule or advice from someone else: Ärzte und Hebammen sollen … einbeziehen = they are supposed to bring in. The second verb goes to the end.",
+              "example" : "Ärzte und Hebammen sollen auch den Ehemann oder Partner einbeziehen.",
+              "title" : "Sollen: what others say should happen"
+            },
+            {
+              "body" : "Lassen with a second verb means letting or making something happen: das Baby ein Bäuerchen machen lassen = to burp the baby (literally, to let it do a little burp).",
+              "example" : "Dann lässt der Partner das Baby ein Bäuerchen machen und wechselt die Windel.",
+              "title" : "Lassen + verb: having something happen"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "2015 hat die Weltgesundheitsorganisation ihren Tipps zur Schwangerschaft etwas hinzugefügt. Ärzte und Hebammen sollen auch den Ehemann oder Partner einbeziehen.",
+            "Die ersten Wochen mit Baby sind schön, aber hart, und vieles passiert nachts.",
+            "Um drei Uhr weint das Baby, und der Partner steht auf. Der Partner bringt das Baby zur Mutter oder gibt ihm die Flasche. Dann lässt der Partner das Baby ein Bäuerchen machen und wechselt die Windel. Jetzt schlafen Mutter und Baby.",
+            "Der Partner ist müde, aber stolz. Ein paar traurige Tage nach einer Geburt sind normal. Wenn es über zwei Wochen dauert, bei der Mutter oder bei dir, such dir Hilfe.",
+            "Was passt zu euch beiden? Frag deine Hebamme oder deinen Arzt. Zu zweit durch die Nacht."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Während (while) joins two things happening at the same moment and sends its verb to the end: während die Mutter schläft = while the mother sleeps.",
+              "example" : "Danach ein Bäuerchen, eine frische Windel, und der Partner wiegt es in den Schlaf, während die Mutter schläft.",
+              "title" : "Während: two things at the same time"
+            },
+            {
+              "body" : "The present participle (infinitive + d) says how someone does something: das Baby wacht weinend auf = the baby wakes up crying. English uses -ing here.",
+              "example" : "Um drei Uhr nachts wacht das Baby weinend auf, und der Partner steht auf.",
+              "title" : "Weinend: how something happens"
+            },
+            {
+              "body" : "German can put almost any part first; the verb still comes second and the subject moves behind it. With schon … aber you grant one thing and stress the other: müde ist der Partner schon, aber auch stolz = sure, the partner is tired, but proud too.",
+              "example" : "Müde ist der Partner schon, aber auch stolz.",
+              "title" : "Fronting with schon … aber: Müde ist der Partner schon"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "2015 hat die Weltgesundheitsorganisation ihren Empfehlungen zur Schwangerschaft etwas hinzugefügt: Ärzte und Hebammen sollen den Ehemann oder Partner einbeziehen. Daran hat sich auch 2022 nichts geändert.",
+            "Die ersten Wochen mit Baby sind wunderschön, aber anstrengend, und vieles passiert nachts.",
+            "Um drei Uhr nachts wacht das Baby weinend auf, und der Partner steht auf. Der Partner bringt es zur Mutter oder gibt ihm ein Fläschchen mit abgepumpter Milch oder Pulvermilch. Danach ein Bäuerchen, eine frische Windel, und der Partner wiegt es in den Schlaf, während die Mutter schläft.",
+            "Müde ist der Partner schon, aber auch stolz. Heultage nach der Geburt sind ganz normal. Wenn die Traurigkeit über zwei Wochen bleibt, bei ihr oder bei dir, such dir Hilfe: Auch Partner können Depressionen bekommen.",
+            "Was passt zu euch beiden? Frag deine Hebamme oder deinen Arzt. Zu zweit durch die Nacht."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Es ist der Partner, der aufsteht stresses who does it, more than der Partner steht auf would. Inside the relative clause the verbs go to the end: der aufsteht, … bringt.",
+              "example" : "Um drei Uhr nachts weint das Baby, und es ist der Partner, der aufsteht, das Baby zur Mutter bringt oder ihm abgepumpte Milch oder Pulvermilch gibt.",
+              "title" : "Es ist … der: putting one person in the spotlight"
+            },
+            {
+              "body" : "Solange (as long as) sets a condition and sends its verb to the end: bring the partner in, but only while the mother's wishes come first (Vorrang haben = to have priority).",
+              "example" : "Ärzte und Hebammen sollen den Ehemann oder Partner einbeziehen, solange die Wünsche der Mutter Vorrang haben.",
+              "title" : "Solange: on one condition"
+            },
+            {
+              "body" : "Putting the verb first can replace wenn (if): hält die Traurigkeit an = wenn die Traurigkeit anhält. It sounds natural in speech and saves a word.",
+              "example" : "Hält die Traurigkeit über zwei Wochen an, bei ihr oder bei dir, hol dir Hilfe, denn auch Partner können Depressionen bekommen.",
+              "title" : "Verb first instead of wenn"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "2015 hat die Weltgesundheitsorganisation ihrem Rat zur Schwangerschaft etwas hinzugefügt, das eigentlich selbstverständlich klingt. Ärzte und Hebammen sollen den Ehemann oder Partner einbeziehen, solange die Wünsche der Mutter Vorrang haben. Daran hat sich auch 2022 nichts geändert.",
+            "Die ersten Wochen mit einem Neugeborenen sind wunderschön, aber erschöpfend, und vieles passiert nachts.",
+            "Um drei Uhr nachts weint das Baby, und es ist der Partner, der aufsteht, das Baby zur Mutter bringt oder ihm abgepumpte Milch oder Pulvermilch gibt. Danach ein Bäuerchen, eine frische Windel, und der Partner wiegt es in den Schlaf, während die Mutter wegdämmert.",
+            "Müde wird der Partner auch, aber wenn sich ein Baby bei dir beruhigt, ist da ein leiser Stolz. Heultage nach der Geburt sind ganz normal. Hält die Traurigkeit über zwei Wochen an, bei ihr oder bei dir, hol dir Hilfe, denn auch Partner können Depressionen bekommen.",
+            "Was zu euch beiden passt, fragst du am besten deine Hebamme oder deinen Arzt. Zu zweit durch die Nacht."
+          ]
+        }
+      ],
+      "summary" : "2015 hat die Weltgesundheitsorganisation gesagt: Ärzte und Hebammen sollen auch den Ehemann oder Partner einbeziehen. Und mit einem Baby passiert vieles um drei Uhr nachts.",
+      "title" : "Zu zweit durch die Nacht",
+      "translationGroup" : "two-for-the-night-feed"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "id" : "two-for-the-night-feed-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 2015, A1 uses two background forms, tenía (from tener) and era (from ser); the rest of the story stays in the present: el bebé llora, la pareja se levanta.",
+              "example" : "En 2015, la Organización Mundial de la Salud tenía un consejo nuevo.",
+              "title" : "Tenía, era: one look back"
+            },
+            {
+              "body" : "Así que joins a cause to what happens because of it, like English so: the baby cries, so the partner gets up. It always comes after the cause.",
+              "example" : "A las tres, el bebé llora, así que la pareja se levanta.",
+              "title" : "Así que: so, what happens next"
+            },
+            {
+              "body" : "La pareja (the partner) is always feminine, whoever the partner is, so adjectives agree in the feminine: la pareja está cansada, pero orgullosa.",
+              "example" : "La pareja está cansada, pero orgullosa.",
+              "title" : "La pareja: a feminine word for anyone"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 2015, la Organización Mundial de la Salud tenía un consejo nuevo. Era sobre el embarazo. Y era muy sencillo: el marido o la pareja también importa.",
+            "Las primeras semanas con un bebé son preciosas, pero duras. Y por la noche pasan muchas cosas.",
+            "A las tres, el bebé llora, así que la pareja se levanta. La madre le da de comer. O la pareja le da un biberón. Luego la pareja le saca los gases y le cambia el pañal. El bebé duerme, y la madre también. La pareja está cansada, pero orgullosa.",
+            "¿La madre está triste más de dos semanas, o tú? Entonces pregunta a tu matrona o tu médico. Una toma de noche es más fácil entre dos."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido (añadió) tells what happened in 2015; the imperfect (debían) describes what was expected around it. The night scene then comes back to the present.",
+              "example" : "Médicos y matronas debían contar también con el marido o la pareja.",
+              "title" : "Añadió, debían: the event and the background"
+            },
+            {
+              "body" : "Spanish usually puts le in front of the verb even when it names the person after a: le lleva el bebé a la madre = takes the baby to the mother.",
+              "example" : "Le lleva el bebé a la madre o le da un biberón.",
+              "title" : "Le lleva el bebé a la madre: the doubled pronoun"
+            },
+            {
+              "body" : "Si with the present sets a real possibility, and the other half can be a tú imperative: si seguís tristes, pide ayuda = if you're still sad, get help. La madre o tú takes the vosotros form: seguís.",
+              "example" : "Si la madre o tú seguís tristes más de dos semanas, pide ayuda.",
+              "title" : "Si + present, then a tip"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 2015, la Organización Mundial de la Salud añadió un consejo sobre el embarazo. Médicos y matronas debían contar también con el marido o la pareja.",
+            "Las primeras semanas con un bebé son preciosas, pero también duras. Y por la noche pasan muchas cosas.",
+            "A las tres de la mañana, el bebé llora y la pareja se levanta. Le lleva el bebé a la madre o le da un biberón. Luego le saca los gases y le cambia el pañal. Y la madre vuelve a dormirse.",
+            "La pareja acaba cansada, pero orgullosa. Es normal estar triste unos días después del parto. Si la madre o tú seguís tristes más de dos semanas, pide ayuda.",
+            "¿Qué os va bien a los dos? Pregunta a tu matrona o a tu médico. Dos personas, una toma de noche."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A gerund (-ando, -iendo) after a verb says how something happens: se despierta llorando = it wakes up crying.",
+              "example" : "A las tres de la mañana, el bebé se despierta llorando y la pareja se levanta.",
+              "title" : "Se despierta llorando: the gerund for how"
+            },
+            {
+              "body" : "Volver a + infinitive means to do something again: se vuelve a dormir = it falls asleep again. Hasta que marks the point where the calming stops: until it sleeps.",
+              "example" : "Luego le saca los gases, le cambia el pañal y lo calma hasta que se vuelve a dormir, mientras la madre descansa.",
+              "title" : "Volver a + infinitive: doing it again"
+            },
+            {
+              "body" : "Poder doesn't only mean ability; it also says something can happen: la pareja también puede tener depresión = it can happen to the partner too.",
+              "example" : "Pero si la madre o tú seguís con el bajón más de dos semanas, pide ayuda: la pareja también puede tener depresión.",
+              "title" : "Puede tener: can for what is possible"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 2015, la Organización Mundial de la Salud añadió algo a sus consejos sobre el embarazo: implicar al marido o la pareja. Sus guías de 2022 lo mantuvieron.",
+            "Las primeras semanas con un recién nacido son maravillosas, pero agotadoras, y por la noche pasan muchas cosas.",
+            "A las tres de la mañana, el bebé se despierta llorando y la pareja se levanta. Le lleva el bebé a la madre o le da un biberón de leche extraída o de fórmula. Luego le saca los gases, le cambia el pañal y lo calma hasta que se vuelve a dormir, mientras la madre descansa.",
+            "La pareja también se cansa, pero se siente orgullosa. Llorar unos días después del parto es normal. Pero si la madre o tú seguís con el bajón más de dos semanas, pide ayuda: la pareja también puede tener depresión.",
+            "¿Qué os va bien a los dos? Pregunta a tu matrona o tu médico. Dos personas, una toma de noche."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Es + person + quien stresses who does it, more than la pareja se levanta would: it points at one person, like English it's the partner who gets up.",
+              "example" : "A las tres de la mañana el bebé llora, y es la pareja quien se levanta.",
+              "title" : "Es la pareja quien…: putting one person first"
+            },
+            {
+              "body" : "Siempre que followed by the subjunctive (sean) means as long as: it sets a condition, here that the mother's choices come first. With the indicative it would mean whenever.",
+              "example" : "Los sanitarios deben contar con el marido o la pareja, siempre que las decisiones de la madre sean lo primero.",
+              "title" : "Siempre que + subjunctive: on one condition"
+            },
+            {
+              "body" : "Ir + gerund shows something happening little by little: se va quedando dormida = she slowly drifts off to sleep.",
+              "example" : "Después le saca los gases, le cambia el pañal y lo mece hasta que se duerme, mientras la madre se va quedando dormida.",
+              "title" : "Se va quedando dormida: ir + gerund"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 2015, la Organización Mundial de la Salud añadió a sus consejos sobre el embarazo algo que parece obvio. Los sanitarios deben contar con el marido o la pareja, siempre que las decisiones de la madre sean lo primero. En 2022 lo mantuvo.",
+            "Las primeras semanas con un recién nacido son maravillosas, pero agotadoras, y mucho de lo que pasa, pasa de noche.",
+            "A las tres de la mañana el bebé llora, y es la pareja quien se levanta. Se lo lleva a la madre o le da un biberón de leche extraída o de fórmula. Después le saca los gases, le cambia el pañal y lo mece hasta que se duerme, mientras la madre se va quedando dormida.",
+            "La pareja termina agotada, pero hay un orgullo tranquilo cuando un bebé se calma en tus brazos. Llorar unos días tras el parto es habitual. Si pasadas dos semanas la madre o tú seguís de bajón, pide ayuda, ya que también la pareja puede deprimirse.",
+            "Pregúntale a tu matrona o tu médico qué os va bien a los dos. Dos personas, una toma de noche."
+          ]
+        }
+      ],
+      "summary" : "En 2015, la Organización Mundial de la Salud dijo que médicos y matronas deben contar también con el marido o la pareja. Y buena parte del trabajo con un bebé se hace a las tres de la mañana.",
+      "title" : "Dos para la toma de noche",
+      "translationGroup" : "two-for-the-night-feed"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-18",
+      "id" : "two-for-the-night-feed-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at 2015, the story uses the imperfetto aveva (had) and era (was); the rest of the story stays in the present: il bambino piange, il partner si alza.",
+              "example" : "Nel 2015, l'OMS aveva un consiglio nuovo sulla gravidanza.",
+              "title" : "Aveva and era: one look back"
+            },
+            {
+              "body" : "Alzarsi (to get up) carries the pronoun si: il partner si alza = the partner gets up (literally raises himself). Without si, alzare means to lift something.",
+              "example" : "Alle tre di notte il bambino piange, quindi il partner si alza.",
+              "title" : "Si alza: a reflexive verb"
+            },
+            {
+              "body" : "Italian doesn't say the adjective twice; lo stands in for it: O lo sei tu? = or are you (sad)? English just says \"are you?\".",
+              "example" : "O lo sei tu?",
+              "title" : "Lo sei tu? lo stands for a whole idea"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nel 2015, l'OMS aveva un consiglio nuovo sulla gravidanza. Ed era semplice: conta anche il marito o il partner.",
+            "Le prime settimane con un bambino sono belle, ma dure. E tante cose succedono proprio di notte.",
+            "Alle tre di notte il bambino piange, quindi il partner si alza. La mamma allatta il bambino, oppure il partner gli dà il biberon. Poi il partner gli fa fare il ruttino e cambia il pannolino. Il bambino dorme di nuovo, e dorme anche la mamma. Il partner è stanco, ma orgoglioso.",
+            "La mamma è triste da più di due settimane? O lo sei tu? Allora chiedi aiuto alla tua ostetrica o al tuo medico. La poppata di notte è più facile in due."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passato prossimo (avere + past participle) tells a finished event: ha aggiunto = added. The night scene that follows stays in the present, because it happens again and again.",
+              "example" : "Nel 2015, l'Organizzazione mondiale della sanità ha aggiunto qualcosa ai suoi consigli sulla gravidanza.",
+              "title" : "Passato prossimo for what happened"
+            },
+            {
+              "body" : "Dovrebbero is the conditional of dovere (must) and gives advice, like English should; the verb after it stays in the infinitive: dovrebbero coinvolgere.",
+              "example" : "Medici e ostetriche dovrebbero coinvolgere anche il marito o il partner.",
+              "title" : "Dovrebbero: should"
+            },
+            {
+              "body" : "Se (if) with the present sets a real possibility, and the other half gives the tip in the tu imperative: chiedi aiuto = ask for help.",
+              "example" : "Se dopo due settimane la tristezza non passa, a lei o a te, chiedi aiuto.",
+              "title" : "Se + present, then a tip"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 2015, l'Organizzazione mondiale della sanità ha aggiunto qualcosa ai suoi consigli sulla gravidanza. Medici e ostetriche dovrebbero coinvolgere anche il marito o il partner.",
+            "Le prime settimane con un neonato sono belle ma dure. E tante cose succedono proprio di notte.",
+            "Alle tre di notte il bambino piange e il partner si alza. Porta il bambino alla mamma, oppure gli dà il biberon. Poi gli fa fare il ruttino e gli cambia il pannolino. Intanto la mamma torna a dormire.",
+            "Il partner è stanco ma orgoglioso. Capita spesso di sentirsi tristi per qualche giorno dopo un parto. Se dopo due settimane la tristezza non passa, a lei o a te, chiedi aiuto.",
+            "Cosa va bene per voi due? Chiedi alla tua ostetrica o al tuo medico. Due persone, una poppata di notte."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Mentre (while) joins two actions happening at the same moment: the partner settles the baby, and meanwhile the mother sleeps.",
+              "example" : "Poi gli fa fare il ruttino, gli cambia il pannolino e lo riaddormenta mentre lei dorme.",
+              "title" : "Mentre: two things at the same time"
+            },
+            {
+              "body" : "The gerund (-ando, -endo) after a verb says how something happens: si sveglia piangendo = it wakes up crying. It never changes for gender or number.",
+              "example" : "Alle tre di notte il bambino si sveglia piangendo e il partner si alza.",
+              "title" : "Piangendo: the gerund says how"
+            },
+            {
+              "body" : "Verbs of staying and moving like rimanere take essere, and the participle agrees with the subject: il consiglio è rimasto, la regola è rimasta.",
+              "example" : "E nelle linee guida del 2022 questo consiglio è rimasto.",
+              "title" : "È rimasto: essere in the passato prossimo"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 2015, l'Organizzazione mondiale della sanità ha aggiunto qualcosa ai suoi consigli sulla gravidanza: i servizi sanitari dovrebbero coinvolgere anche il marito o il partner. E nelle linee guida del 2022 questo consiglio è rimasto.",
+            "Le prime settimane con un neonato sono meravigliose ma sfiancanti, e tante cose succedono di notte.",
+            "Alle tre di notte il bambino si sveglia piangendo e il partner si alza. Lo porta alla mamma, oppure gli dà un biberon di latte tirato o artificiale. Poi gli fa fare il ruttino, gli cambia il pannolino e lo riaddormenta mentre lei dorme.",
+            "Anche il partner è stanco, ma dentro di sé è orgoglioso. Dopo un parto capita spesso di piangere per qualche giorno. Ma se dopo due settimane la tristezza non passa, a lei o a te, chiedi aiuto: anche i partner possono soffrire di depressione.",
+            "Cosa va bene per voi due? Chiedi alla tua ostetrica o al tuo medico. Due persone, una poppata di notte."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "È + person + a + infinitive puts one person in the spotlight, more than il partner si alza would: it's the partner who gets up. Before a vowel, a often becomes ad.",
+              "example" : "Alle tre di notte il bambino piange, ed è il partner ad alzarsi: porta il piccolo alla mamma o gli dà un biberon di latte tirato o artificiale.",
+              "title" : "È il partner ad alzarsi: the spotlight on who"
+            },
+            {
+              "body" : "Purché (as long as) sets a condition and always takes the congiuntivo: purché le scelte della madre vengano prima, not vengono.",
+              "example" : "I servizi sanitari dovrebbero coinvolgere il marito o il partner, purché le scelte della madre vengano prima.",
+              "title" : "Purché + subjunctive: on one condition"
+            },
+            {
+              "body" : "Finché non + verb means until: lo culla finché non si riaddormenta = rocks him until he falls back asleep. The non adds no negation here; it is just how people say it.",
+              "example" : "Poi gli fa fare il ruttino, gli cambia il pannolino e lo culla finché non si riaddormenta, mentre la mamma prende sonno.",
+              "title" : "Finché non: until"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 2015, l'Organizzazione mondiale della sanità ha aggiunto ai suoi consigli sulla gravidanza una cosa che sembra ovvia. I servizi sanitari dovrebbero coinvolgere il marito o il partner, purché le scelte della madre vengano prima. E nelle linee guida del 2022 c'è ancora.",
+            "Le prime settimane con un neonato sono meravigliose ma sfiancanti, e tante cose succedono di notte.",
+            "Alle tre di notte il bambino piange, ed è il partner ad alzarsi: porta il piccolo alla mamma o gli dà un biberon di latte tirato o artificiale. Poi gli fa fare il ruttino, gli cambia il pannolino e lo culla finché non si riaddormenta, mentre la mamma prende sonno.",
+            "Anche il partner si stanca, ma c'è un orgoglio silenzioso quando il piccolo si calma tra le tue braccia. Dopo un parto capita spesso di piangere per qualche giorno. Ma se lei o tu restate giù di morale per più di due settimane, chiedi aiuto: anche i partner possono soffrire di depressione.",
+            "Chiedi alla tua ostetrica o al tuo medico cosa va bene per voi due. Due persone, una poppata di notte."
+          ]
+        }
+      ],
+      "summary" : "Nel 2015, l'Organizzazione mondiale della sanità ha detto che medici e ostetriche dovrebbero coinvolgere anche il marito o il partner, e con un neonato tante cose succedono alle tre di notte.",
+      "title" : "In due per la poppata di notte",
+      "translationGroup" : "two-for-the-night-feed"
     }
   ]
 }
