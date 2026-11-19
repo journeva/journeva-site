@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 39,
-  "generatedAt" : "2026-11-18",
+  "contentVersion" : 40,
+  "generatedAt" : "2026-11-19",
   "glossary" : {
     "english" : [
       {
@@ -204882,6 +204882,107 @@
         }
       }
     ],
+    "dyed-by-your-thoughts" : [
+      {
+        "answers" : [
+          {
+            "de" : "Der König von Ägypten",
+            "en" : "The king of Egypt",
+            "es" : "El rey de Egipto",
+            "fr" : "Le roi d'Égypte",
+            "it" : "Il re d'Egitto"
+          },
+          {
+            "de" : "Der Kaiser von Rom",
+            "en" : "The emperor of Rome",
+            "es" : "El emperador de Roma",
+            "fr" : "L'empereur de Rome",
+            "it" : "L'imperatore di Roma"
+          },
+          {
+            "de" : "Der König von Persien",
+            "en" : "The king of Persia",
+            "es" : "El rey de Persia",
+            "fr" : "Le roi de Perse",
+            "it" : "Il re di Persia"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Wer war Mark Aurel?",
+          "en" : "Who was Marcus Aurelius?",
+          "es" : "¿Quién era Marco Aurelio?",
+          "fr" : "Qui était Marc Aurèle ?",
+          "it" : "Chi era Marco Aurelio?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Am Nil",
+            "en" : "The Nile",
+            "es" : "Junto al Nilo",
+            "fr" : "Le Nil",
+            "it" : "Vicino al Nilo"
+          },
+          {
+            "de" : "An der Themse",
+            "en" : "The Thames",
+            "es" : "Junto al Támesis",
+            "fr" : "La Tamise",
+            "it" : "Vicino al Tamigi"
+          },
+          {
+            "de" : "An der Donau",
+            "en" : "The Danube",
+            "es" : "Junto al Danubio",
+            "fr" : "Le Danube",
+            "it" : "Vicino al Danubio"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "An welchem Fluss war er?",
+          "en" : "Which river was he by?",
+          "es" : "¿Junto a qué río estaban sus campamentos?",
+          "fr" : "Au bord de quel fleuve était-il ?",
+          "it" : "Vicino a quale fiume era?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Auf Griechisch",
+            "en" : "In Greek",
+            "es" : "En griego",
+            "fr" : "En grec",
+            "it" : "In greco"
+          },
+          {
+            "de" : "Auf Latein",
+            "en" : "In Latin",
+            "es" : "En latín",
+            "fr" : "En latin",
+            "it" : "In latino"
+          },
+          {
+            "de" : "Auf Englisch",
+            "en" : "In English",
+            "es" : "En inglés",
+            "fr" : "En anglais",
+            "it" : "In inglese"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "In welcher Sprache sind seine Notizen?",
+          "en" : "What language are his notes in?",
+          "es" : "¿En qué idioma están sus notas?",
+          "fr" : "Ses notes sont en quelle langue ?",
+          "it" : "In che lingua sono i suoi appunti?"
+        }
+      }
+    ],
     "martins-lantern" : [
       {
         "answers" : [
@@ -263327,6 +263428,556 @@
       "summary" : "Nel 2015, l'Organizzazione mondiale della sanità ha detto che medici e ostetriche dovrebbero coinvolgere anche il marito o il partner, e con un neonato tante cose succedono alle tre di notte.",
       "title" : "In due per la poppata di notte",
       "translationGroup" : "two-for-the-night-feed"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "id" : "dyed-by-your-thoughts",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at his time, A1 uses was (he was the emperor of Rome); the rest of the story stays in the present, because his notes are still here today.",
+              "example" : "Around 170, Marcus Aurelius was the emperor of Rome.",
+              "title" : "Was: one look back to the year 170"
+            },
+            {
+              "body" : "With he, she or it, English says no with \"does not\" and the base verb: it does not change you. At the end, \"do\" repeats the verb: your thoughts do (= change you).",
+              "example" : "One bad day does not change you, but your everyday thoughts do.",
+              "title" : "Does not + verb, and \"do\" to stand for it"
+            },
+            {
+              "body" : "To give a tip, English uses the base verb with no subject: notice them, choose good ones. It speaks to you directly, like a friend.",
+              "example" : "So notice them, and choose good ones.",
+              "title" : "The imperative: notice, choose"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Around 170, Marcus Aurelius was the emperor of Rome. But he was far away, in army camps by the river Danube.",
+            "His notes are in Greek, and they are only for him. One note says: \"the soul is dyed by the thoughts.\" In simple words, your mind takes the colour of your thoughts.",
+            "Put a white shirt in blue dye once, and it's light blue. Put it in every day, and it's dark blue.",
+            "One bad day does not change you, but your everyday thoughts do. So notice them, and choose good ones. Today, anyone can read his notes. What colour are your thoughts?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed for finished events at a known time (around 170): live → lived, rule → ruled. Irregular ones change: write → wrote.",
+              "example" : "He ruled Rome from 161 to 180.",
+              "title" : "The past simple: lived, ruled, wrote"
+            },
+            {
+              "body" : "\"Dip it every day, and it turns blue\" means \"if you dip it every day, it turns blue\": a spoken way to say what always happens.",
+              "example" : "Dip it every day, and it turns really blue.",
+              "title" : "Imperative + and: do this, and that happens"
+            },
+            {
+              "body" : "\"Keep\" with an -ing verb means you do it again and again: the thoughts you keep having = the thoughts that come back all the time.",
+              "example" : "So notice the thoughts you keep having, and choose the next ones.",
+              "title" : "Keep + -ing: again and again"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Around 170, the emperor Marcus Aurelius lived in army camps on the Danube. He ruled Rome from 161 to 180.",
+            "He wrote notes to himself in Greek. One note says: \"the soul is dyed by the thoughts.\" In simple words, your mind takes the colour of your thoughts.",
+            "One bad day doesn't change you. Think of a white shirt in blue dye: after one dip, it's a little blue. Dip it every day, and it turns really blue.",
+            "He tells himself to dye his mind with good thoughts, again and again. So notice the thoughts you keep having, and choose the next ones.",
+            "He wrote the notes for nobody, but today anyone can read them. What colour are your thoughts?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Was writing\" sets a scene in progress at that time: around 170, the notes grew day by day. The simple past (wrote) would make it one finished act.",
+              "example" : "Around the year 170, in army camps on the Danube, the emperor of Rome was writing notes in Greek, just for himself.",
+              "title" : "Past continuous: was writing"
+            },
+            {
+              "body" : "\"That\" joins a description to a noun and tells us which one: cloth that goes into the dye once, cloth that goes in every day.",
+              "example" : "What counts is \"habitual\": cloth that goes into the dye once comes out pale, but cloth that goes in every day takes the colour.",
+              "title" : "Relative clause with that: cloth that goes in"
+            },
+            {
+              "body" : "\"Yet\" works like \"but\" with a note of surprise: he wrote for nobody, and still anyone can read him today.",
+              "example" : "He wrote for nobody, yet today anyone can read him.",
+              "title" : "Yet: but, against what you'd expect"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Around the year 170, in army camps on the Danube, the emperor of Rome was writing notes in Greek, just for himself. Marcus Aurelius ruled from 161 to 180, often at war.",
+            "Here's a line from Book V, in George Long's 1862 translation. \"Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.\"",
+            "One dark thought won't stain you forever. What counts is \"habitual\": cloth that goes into the dye once comes out pale, but cloth that goes in every day takes the colour.",
+            "He tells himself to keep dyeing his mind with good thoughts. Anyone can try that: notice the thought you keep coming back to, and choose the next one.",
+            "He wrote for nobody, yet today anyone can read him. What colour are your thoughts?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Emperor of Rome from 161 until his death in 180\" sits between commas to say who he was; a title used like this often drops \"the\".",
+              "example" : "Around 170, in army camps on the Danube, Marcus Aurelius, emperor of Rome from 161 until his death in 180, was writing notes meant for nobody else.",
+              "title" : "A title between commas, with no article"
+            },
+            {
+              "body" : "Long's 1862 English uses \"thy\" for \"your\" when speaking to one person; \"such as are thy habitual thoughts\" = whatever your usual thoughts are.",
+              "example" : "In George Long's 1862 translation, Book V says: \"Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.\"",
+              "title" : "Old English in a quote: thy, will be"
+            },
+            {
+              "body" : "A past participle after a noun shortens a relative clause: cloth dipped once = cloth that is dipped once. It keeps a long sentence light.",
+              "example" : "What matters is \"habitual\": cloth dipped once comes out pale, while cloth dipped day after day takes the colour.",
+              "title" : "Participles after a noun: cloth dipped once"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Around 170, in army camps on the Danube, Marcus Aurelius, emperor of Rome from 161 until his death in 180, was writing notes meant for nobody else.",
+            "It's all in Greek, and two books even end by saying where: among the Quadi, beyond the river, and at Carnuntum, near today's Vienna. In George Long's 1862 translation, Book V says: \"Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.\"",
+            "It doesn't mean one gloomy thought stains you for good. What matters is \"habitual\": cloth dipped once comes out pale, while cloth dipped day after day takes the colour.",
+            "He tells himself to keep dyeing his mind with good thoughts, and that's what people reach for: notice the thought you keep returning to, and choose the next one.",
+            "He wrote for nobody, yet anyone can read him now, which leaves one quiet question: what colour are your thoughts?"
+          ]
+        }
+      ],
+      "summary" : "Around the year 170, in army camps on the Danube, the emperor of Rome wrote himself a note about how thoughts colour the mind.",
+      "title" : "Dyed by Your Thoughts",
+      "translationGroup" : "dyed-by-your-thoughts"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "id" : "dyed-by-your-thoughts-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at his time, A1 uses the imparfait était (was); the rest stays in the present, because his notes are still read today.",
+              "example" : "Vers l'an 170, Marc Aurèle était l'empereur de Rome.",
+              "title" : "Était: one look back to the year 170"
+            },
+            {
+              "body" : "French says no with two words around the verb: ne te change pas. The object pronoun te sits between ne and the verb.",
+              "example" : "Une mauvaise journée ne te change pas.",
+              "title" : "Ne … pas around the verb"
+            },
+            {
+              "body" : "A tip to a friend uses the tu imperative: the tu present with no subject, tu fais → fais, tu choisis → choisis; -er verbs also drop the -s (tu regardes → regarde).",
+              "example" : "Alors fais attention à tes pensées, et choisis les bonnes.",
+              "title" : "The tu imperative: fais attention, choisis"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Vers l'an 170, Marc Aurèle était l'empereur de Rome. Mais il était loin de Rome, avec l'armée, au bord du Danube.",
+            "Ses notes sont en grec, et elles sont juste pour lui. Une note parle des pensées. Pour le dire simplement, ton esprit prend la couleur de tes pensées.",
+            "Prends un tee-shirt blanc et de la teinture bleue. Mets-le dedans une fois, et il est bleu clair. Mets-le dedans tous les jours, et il est bleu foncé.",
+            "Une mauvaise journée ne te change pas. Mais tes pensées de tous les jours, oui. Alors fais attention à tes pensées, et choisis les bonnes. Aujourd'hui, tout le monde peut lire ses notes. Et toi, tes pensées sont de quelle couleur ?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Vivait (imparfait) sets the scene, how things were around 170; a régné and a écrit (passé composé) tell what he did, as finished facts.",
+              "example" : "Vers l'an 170, l'empereur Marc Aurèle vivait dans des camps militaires, au bord du Danube.",
+              "title" : "Imparfait for background, passé composé for events"
+            },
+            {
+              "body" : "In a positive imperative, the object pronoun comes after the verb, joined by a hyphen: trempe-le (dip it). In the negative it goes back in front: ne le trempe pas.",
+              "example" : "Trempe-le tous les jours, et il devient vraiment bleu.",
+              "title" : "Imperative + pronoun: trempe-le"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Vers l'an 170, l'empereur Marc Aurèle vivait dans des camps militaires, au bord du Danube. Il a régné sur Rome de 161 à 180.",
+            "Il a écrit des notes pour lui-même, en grec. Une note dit : « l'âme prend la couleur et la teinte des pensées qu'elle entretient ». En clair, ton esprit prend la couleur de tes pensées.",
+            "Une mauvaise journée ne te change pas. Pense à un tee-shirt blanc dans de la teinture bleue. Trempe-le une fois, et il est bleu clair. Trempe-le tous les jours, et il devient vraiment bleu.",
+            "Il se répète qu'il faut teindre son esprit de bonnes pensées. Alors remarque les pensées qui reviennent souvent, et choisis les suivantes.",
+            "Il n'a écrit pour personne, mais aujourd'hui, tout le monde peut le lire. Tes pensées sont de quelle couleur ?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imparfait describes what was going on at that time, again and again: he was writing notes, day after day, in the camps.",
+              "example" : "Vers l'an 170, dans des camps militaires au bord du Danube, l'empereur de Rome écrivait des notes en grec, juste pour lui.",
+              "title" : "Écrivait: the imparfait for a scene in progress"
+            },
+            {
+              "body" : "\"Ce qui compte, c'est l'habitude\" stresses the key idea by naming it at the end; ce qui = what, as the subject.",
+              "example" : "Ce qui compte, c'est l'habitude : un tissu trempé une fois ressort pâle, mais, trempé tous les jours, il prend la couleur.",
+              "title" : "Ce qui compte, c'est…: putting the point last"
+            },
+            {
+              "body" : "Personne works with ne like pas: il n'a écrit pour personne = he wrote for nobody. In speech the ne often drops, but in writing it stays.",
+              "example" : "Il n'a écrit pour personne, et pourtant, aujourd'hui, tout le monde peut le lire.",
+              "title" : "Ne … personne: nobody"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Vers l'an 170, dans des camps militaires au bord du Danube, l'empereur de Rome écrivait des notes en grec, juste pour lui. Marc Aurèle a régné de 161 à 180, souvent en guerre.",
+            "Dans le livre V, il parle des pensées. Barthélemy-Saint-Hilaire l'a traduit en 1876, et ça donne : « l'âme prend la couleur et la teinte des pensées qu'elle entretient ».",
+            "Une seule pensée sombre ne te tache pas pour toujours. Ce qui compte, c'est l'habitude : un tissu trempé une fois ressort pâle, mais, trempé tous les jours, il prend la couleur.",
+            "Il se répète qu'il faut continuer à teindre son esprit de bonnes pensées. Tout le monde peut essayer : remarque la pensée qui revient sans cesse, et choisis la suivante.",
+            "Il n'a écrit pour personne, et pourtant, aujourd'hui, tout le monde peut le lire. Alors, tes pensées sont de quelle couleur ?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Telles seront… tel sera… pairs two futures: whatever your thoughts are, so your mind will be. Telles agrees with pensées (feminine plural), tel with esprit.",
+              "example" : "« Telles seront les pensées que tu nourriras habituellement, tel aussi sera ton esprit ; car l'âme prend la couleur et la teinte des pensées qu'elle entretient. »",
+              "title" : "The future in an old quote: seront, nourriras, sera"
+            },
+            {
+              "body" : "\"Alors que\" sets two facts side by side as opposites: pale after one dip, while day after day it keeps the colour.",
+              "example" : "Ce qui compte, c'est « habituellement » : un tissu trempé une fois ressort pâle, alors que, trempé jour après jour, il garde la couleur.",
+              "title" : "Alors que: while, by contrast"
+            },
+            {
+              "body" : "After a comma, \"ce qui\" picks up everything said before it: and that leaves one small question.",
+              "example" : "Il n'a écrit pour personne, et pourtant aujourd'hui tout le monde peut le lire, ce qui laisse une petite question : tes pensées sont de quelle couleur ?",
+              "title" : "Ce qui laisse…: a comment on the whole sentence"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Vers 170, dans des camps militaires au bord du Danube, Marc Aurèle, empereur de Rome de 161 jusqu'à sa mort en 180, écrivait des notes pour lui seul.",
+            "Tout est en grec, et deux livres disent même où : chez les Quades, au-delà du fleuve, et à Carnuntum, près de l'actuelle Vienne. Le livre V, traduit en 1876 par Barthélemy-Saint-Hilaire, dit ceci. « Telles seront les pensées que tu nourriras habituellement, tel aussi sera ton esprit ; car l'âme prend la couleur et la teinte des pensées qu'elle entretient. »",
+            "Une seule pensée sombre ne te tache pas pour de bon. Ce qui compte, c'est « habituellement » : un tissu trempé une fois ressort pâle, alors que, trempé jour après jour, il garde la couleur.",
+            "Il se répète qu'il faut teindre son esprit de bonnes pensées, et c'est ce qu'on retient : remarque la pensée qui revient sans arrêt, et choisis la suivante.",
+            "Il n'a écrit pour personne, et pourtant aujourd'hui tout le monde peut le lire, ce qui laisse une petite question : tes pensées sont de quelle couleur ?"
+          ]
+        }
+      ],
+      "summary" : "Vers l'an 170, dans des camps militaires au bord du Danube, l'empereur de Rome s'est écrit une petite note sur la couleur des pensées.",
+      "title" : "La couleur de tes pensées",
+      "translationGroup" : "dyed-by-your-thoughts"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "id" : "dyed-by-your-thoughts-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at his time, A1 uses war (was): er war der Kaiser. The rest stays in the present, because his notes are still read today.",
+              "example" : "Um das Jahr 170 war Mark Aurel der Kaiser von Rom.",
+              "title" : "War: one look back to the year 170"
+            },
+            {
+              "body" : "When a sentence starts with a time phrase (Um das Jahr 170, Heute), the verb still comes second and the subject moves behind it: Heute kann jeder…",
+              "example" : "Heute kann jeder die Notizen von Mark Aurel lesen.",
+              "title" : "Verb second after a time phrase"
+            },
+            {
+              "body" : "A tip to a friend uses the du imperative: drop du and the -st ending: du legst → leg, du wählst → wähl. A stem ending in -t keeps an -e: du achtest → achte.",
+              "example" : "Also achte auf sie, und wähl die guten.",
+              "title" : "The du imperative: leg, achte, wähl"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Um das Jahr 170 war Mark Aurel der Kaiser von Rom. Aber er war nicht in Rom, sondern in Armeelagern an der Donau.",
+            "Seine Notizen sind auf Griechisch, und sie sind nur für ihn. In einer Notiz steht ungefähr: Deine Seele bekommt die Farbe deiner Gedanken.",
+            "Leg ein weißes T-Shirt einmal in blaue Farbe, und es ist hellblau. Leg es jeden Tag in die Farbe, und es ist dunkelblau.",
+            "Ein schlechter Tag ändert dich nicht, aber deine täglichen Gedanken schon. Also achte auf sie, und wähl die guten. Heute kann jeder die Notizen von Mark Aurel lesen. Welche Farbe haben deine Gedanken?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells past events in the Perfekt: haben + participle at the end of the clause: er hat gelebt, er hat regiert.",
+              "example" : "Er hat Rom von 161 bis 180 regiert.",
+              "title" : "Perfekt for what happened: hat gelebt, hat regiert"
+            },
+            {
+              "body" : "After die (= which), the verb goes to the end of its clause: die Gedanken, die oft wiederkommen. Wiederkommen stays in one piece there.",
+              "example" : "Also achte auf die Gedanken, die oft wiederkommen, und wähl die nächsten.",
+              "title" : "A relative clause sends the verb to the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Um 170 hat Kaiser Mark Aurel in Armeelagern an der Donau gelebt. Er hat Rom von 161 bis 180 regiert.",
+            "Er hat Notizen für sich selbst geschrieben, auf Griechisch. In einer steht: „von den Gedanken wird die Seele gesättigt“. Einfach gesagt: Deine Seele bekommt die Farbe deiner Gedanken.",
+            "Ein schlechter Tag ändert dich nicht. Denk an ein weißes T-Shirt und blaue Farbe: Nach dem ersten Mal ist es hellblau. Leg es jeden Tag in die Farbe, und es wird dunkelblau.",
+            "Er will seine Seele immer wieder mit guten Gedanken färben. Also achte auf die Gedanken, die oft wiederkommen, und wähl die nächsten.",
+            "Er hat für niemanden geschrieben, aber heute kann ihn jeder lesen. Welche Farbe haben deine Gedanken?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In a dass clause the verb moves to the end, the modal last of all: dass er … färben soll.",
+              "example" : "Er sagt sich, dass er seine Seele immer wieder mit guten Gedanken färben soll.",
+              "title" : "Dass + verb at the end"
+            },
+            {
+              "body" : "Trotzdem (nevertheless) takes the first place after und, so the verb comes right after it: trotzdem kann ihn heute jeder lesen.",
+              "example" : "Er hat für niemanden geschrieben, und trotzdem kann ihn heute jeder lesen.",
+              "title" : "Trotzdem: still, all the same"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Um 170 hat der Kaiser von Rom in Armeelagern an der Donau Notizen geschrieben, auf Griechisch und nur für sich. Mark Aurel hat von 161 bis 180 regiert, oft im Krieg.",
+            "Im fünften Buch heißt es so: „Wie die Gedanken sind, die du am häufigsten denkst, ganz so ist auch deine Gesinnung. Denn von den Gedanken wird die Seele gesättigt.“",
+            "Ein dunkler Gedanke färbt dich nicht für immer. Wichtig ist „am häufigsten“: Stoff, der einmal in die Farbe kommt, bleibt blass, aber Stoff, der jeden Tag hineinkommt, bekommt eine satte Farbe.",
+            "Er sagt sich, dass er seine Seele immer wieder mit guten Gedanken färben soll. Das kann jeder probieren: Achte auf den Gedanken, der oft wiederkommt, und wähl den nächsten.",
+            "Er hat für niemanden geschrieben, und trotzdem kann ihn heute jeder lesen. Welche Farbe haben deine Gedanken?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Werden + participle makes the passive: die Seele wird gesättigt = the soul is saturated. Von den Gedanken names who or what does it.",
+              "example" : "Denn von den Gedanken wird die Seele gesättigt.“",
+              "title" : "Wird gesättigt: the passive with werden"
+            },
+            {
+              "body" : "Erst with a time says it takes that long: erst Tag für Tag = only day after day, not after one dip. After und it fills the first place, so the verb comes next: erst Tag für Tag bekommt er…",
+              "example" : "Entscheidend ist „am häufigsten“: Stoff, den man einmal eintaucht, bleibt blass, und erst Tag für Tag bekommt er eine satte Farbe.",
+              "title" : "Erst: only then, not before"
+            },
+            {
+              "body" : "After sagen, spoken German can drop dass and keep main-clause order: er sagt sich, er soll… = he tells himself that he should…",
+              "example" : "Er sagt sich, er soll seine Seele immer wieder mit guten Gedanken färben, und daran halten sich viele: Achte auf den Gedanken, der wiederkommt, und wähl den nächsten.",
+              "title" : "Reported speech without dass"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Um 170 hat Mark Aurel, römischer Kaiser von 161 bis zu seinem Tod 180, in Armeelagern an der Donau Notizen geschrieben, nur für sich.",
+            "Alles ist auf Griechisch, und zwei Bücher nennen sogar den Ort: bei den Quaden und in Carnuntum, nahe beim heutigen Wien. Im fünften Buch heißt es in einer Ausgabe von 1913: „Wie die Gedanken sind, die du am häufigsten denkst, ganz so ist auch deine Gesinnung. Denn von den Gedanken wird die Seele gesättigt.“ Im Griechischen steht da eigentlich „gefärbt“.",
+            "Ein trüber Gedanke färbt dich nicht für immer. Entscheidend ist „am häufigsten“: Stoff, den man einmal eintaucht, bleibt blass, und erst Tag für Tag bekommt er eine satte Farbe.",
+            "Er sagt sich, er soll seine Seele immer wieder mit guten Gedanken färben, und daran halten sich viele: Achte auf den Gedanken, der wiederkommt, und wähl den nächsten.",
+            "Er hat für niemanden geschrieben, doch heute kann ihn jeder lesen. Bleibt die Frage: Welche Farbe haben deine Gedanken?"
+          ]
+        }
+      ],
+      "summary" : "Um das Jahr 170 hat sich der Kaiser von Rom in Armeelagern an der Donau eine Notiz geschrieben: über die Farbe der Gedanken.",
+      "title" : "Die Farbe deiner Gedanken",
+      "translationGroup" : "dyed-by-your-thoughts"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "id" : "dyed-by-your-thoughts-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at his time, A1 uses era and eran (was, were), the imperfect of ser; the rest stays in the present, because his notes are still read today.",
+              "example" : "Hacia el año 170, Marco Aurelio era el emperador de Roma.",
+              "title" : "Era: one look back to the year 170"
+            },
+            {
+              "body" : "Sus notas están en griego uses estar for the form they are in; son solo para él uses ser to say who they are for.",
+              "example" : "Sus notas están en griego, y son solo para él.",
+              "title" : "Estar for a state, ser for what something is"
+            },
+            {
+              "body" : "For regular verbs, the tú imperative looks like the él form (mete, fija); object pronouns join the end, and a written accent keeps the stress: mete + la = métela, fija + te = fíjate.",
+              "example" : "Pero métela cada día, y sale azul oscuro.",
+              "title" : "The tú imperative with a pronoun: métela, fíjate"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Hacia el año 170, Marco Aurelio era el emperador de Roma. Pero su casa eran campamentos del ejército, junto al río Danubio.",
+            "Sus notas están en griego, y son solo para él. Una nota habla de los pensamientos. Dicho de forma sencilla: tu mente toma el color de tus pensamientos.",
+            "Mete una camiseta blanca en tinte azul una vez: sale azul claro. Pero métela cada día, y sale azul oscuro.",
+            "Un mal día no te cambia. Pero tus pensamientos de cada día, sí. Así que fíjate en ellos y elige los buenos. Hoy, todo el mundo puede leer las notas de Marco Aurelio. ¿De qué color son tus pensamientos?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Vivía (imperfecto) describes how things were around 170; gobernó and escribió (indefinido) tell finished facts.",
+              "example" : "Hacia el año 170, el emperador Marco Aurelio vivía en campamentos del ejército junto al Danubio.",
+              "title" : "Imperfecto for background, indefinido for events"
+            },
+            {
+              "body" : "\"Si la metes cada día, se vuelve azul\" uses the present in both parts for something that always happens.",
+              "example" : "Si la metes cada día, se vuelve azul de verdad.",
+              "title" : "Si + present: what happens every time"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Hacia el año 170, el emperador Marco Aurelio vivía en campamentos del ejército junto al Danubio. Gobernó Roma del 161 al 180.",
+            "Allí escribió notas para sí mismo, en griego. Una nota habla de los pensamientos. Dicho de forma sencilla: tu mente toma el color de tus pensamientos.",
+            "Un mal día no te cambia. Piensa en una camiseta blanca en tinte azul. Si la metes una vez, sale azul claro. Si la metes cada día, se vuelve azul de verdad.",
+            "En la nota, se pide a sí mismo teñir su mente de buenos pensamientos, una y otra vez. Así que fíjate en los pensamientos que se repiten, y elige los próximos.",
+            "No escribió estas notas para nadie, pero hoy cualquiera puede leerlas. ¿De qué color son tus pensamientos?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfecto describes what was going on, again and again, at that time: he was writing notes in the camps.",
+              "example" : "Hacia el año 170, en campamentos del ejército junto al Danubio, el emperador de Roma escribía notas en griego, solo para él.",
+              "title" : "Escribía: the imperfecto for a scene in progress"
+            },
+            {
+              "body" : "Seguir with a gerund (-ando, -iendo) means to keep doing something: que siga tiñendo = that he keep dyeing, with siga in the subjunctive because se dice que here is an order. Teñir changes e to i and, after ñ, -iendo becomes -endo: tiñendo.",
+              "example" : "Se dice a sí mismo que siga tiñendo su alma de buenos pensamientos.",
+              "title" : "Seguir + gerundio: keep doing"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Hacia el año 170, en campamentos del ejército junto al Danubio, el emperador de Roma escribía notas en griego, solo para él. Marco Aurelio gobernó del 161 al 180, muchas veces en guerra.",
+            "En el libro V habla de los pensamientos. En la vieja traducción española de Díaz de Miranda, dice que «el alma queda imbuida y como penetrada de sus ideas y pensamientos». Imbuida quiere decir empapada, como una tela en el tinte.",
+            "Un solo pensamiento oscuro no te mancha para siempre. Lo que cuenta es la costumbre: una tela que metes una vez en el tinte sale pálida. Si la metes cada día, se queda con el color.",
+            "Se dice a sí mismo que siga tiñendo su alma de buenos pensamientos. Cualquiera puede probarlo: fíjate en el pensamiento que siempre vuelve, y elige el siguiente.",
+            "No escribió para nadie, y sin embargo hoy cualquiera puede leerlo. ¿De qué color son tus pensamientos?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a denied statement (no quiere decir que), Spanish uses the subjunctive: te manche, not te mancha.",
+              "example" : "Eso no quiere decir que un solo pensamiento triste te manche para siempre.",
+              "title" : "No quiere decir que + subjunctive"
+            },
+            {
+              "body" : "\"Mientras que\" sets two facts against each other; la que = the one that, standing for una tela.",
+              "example" : "Lo que importa es la costumbre: una tela que se moja una vez sale pálida, mientras que la que se moja día tras día se queda con el color.",
+              "title" : "Mientras que: while, by contrast"
+            },
+            {
+              "body" : "After a comma, \"lo que\" refers to the whole idea before it: and that leaves a quiet question.",
+              "example" : "No escribió para nadie, pero hoy cualquiera puede leerlo, lo que deja una pregunta tranquila: ¿de qué color son tus pensamientos?",
+              "title" : "Lo que after a comma: which"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Hacia el año 170, en campamentos del ejército junto al Danubio, Marco Aurelio, emperador de Roma desde el 161 hasta su muerte en el 180, escribía notas solo para él.",
+            "Todo está en griego, y dos libros hasta dicen dónde se escribieron: entre los cuados, al otro lado del río, y en Carnuntum, cerca de la actual Viena. En la traducción de Díaz de Miranda, el libro V dice que «el alma queda imbuida y como penetrada de sus ideas y pensamientos». En griego, el alma se tiñe.",
+            "Eso no quiere decir que un solo pensamiento triste te manche para siempre. Lo que importa es la costumbre: una tela que se moja una vez sale pálida, mientras que la que se moja día tras día se queda con el color.",
+            "Se dice a sí mismo que siga tiñendo su alma de buenos pensamientos. Eso es lo que busca la gente: fíjate en el pensamiento que vuelve, y elige el siguiente.",
+            "No escribió para nadie, pero hoy cualquiera puede leerlo, lo que deja una pregunta tranquila: ¿de qué color son tus pensamientos?"
+          ]
+        }
+      ],
+      "summary" : "Hacia el año 170, en campamentos del ejército junto al Danubio, el emperador de Roma se escribió una nota sobre cómo los pensamientos tiñen el alma.",
+      "title" : "El color de tus pensamientos",
+      "translationGroup" : "dyed-by-your-thoughts"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "id" : "dyed-by-your-thoughts-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To look back at his time, A1 uses era (was), the imperfetto of essere; the rest stays in the present, because his notes are still read today.",
+              "example" : "Verso l'anno 170, Marco Aurelio era l'imperatore di Roma.",
+              "title" : "Era: one look back to the year 170"
+            },
+            {
+              "body" : "The tu imperative of -ere verbs ends in -i (metti); an object pronoun joins the end: metti + la = mettila (put it).",
+              "example" : "Ma mettila dentro ogni giorno, e diventa blu scuro.",
+              "title" : "The tu imperative with a pronoun: mettila"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Verso l'anno 170, Marco Aurelio era l'imperatore di Roma. Ma era lontano da Roma, negli accampamenti militari vicino al fiume Danubio.",
+            "I suoi appunti sono in greco, e sono solo per lui. Un appunto parla dei pensieri. In parole semplici: la mente prende il colore dei pensieri.",
+            "Metti una maglietta bianca nella tinta blu una volta sola: diventa azzurra. Ma mettila dentro ogni giorno, e diventa blu scuro.",
+            "Una brutta giornata non ti cambia. Ma i pensieri di ogni giorno, sì. Allora fai attenzione ai tuoi pensieri, e scegli quelli buoni. Oggi chiunque può leggere gli appunti di Marco Aurelio. Di che colore sono i tuoi pensieri?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Viveva (imperfetto) describes how things were around 170; ha governato and ha scritto (passato prossimo) tell finished facts.",
+              "example" : "Verso l'anno 170, l'imperatore Marco Aurelio viveva negli accampamenti militari sul Danubio.",
+              "title" : "Imperfetto for background, passato prossimo for events"
+            },
+            {
+              "body" : "\"Se la metti dentro ogni giorno, diventa blu\" uses the present in both parts for something that always happens.",
+              "example" : "Se la metti dentro ogni giorno, diventa proprio blu.",
+              "title" : "Se + present: what happens every time"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Verso l'anno 170, l'imperatore Marco Aurelio viveva negli accampamenti militari sul Danubio. Ha governato Roma dal 161 al 180.",
+            "Lì ha scritto appunti per sé, in greco. In uno c'è questa frase: «l'anima infatti rimane come tinta dalle idee che riceve». In parole semplici: la mente prende il colore dei pensieri.",
+            "Una brutta giornata non ti cambia. Pensa a una maglietta bianca nella tinta blu: dopo un solo bagno, è azzurra. Se la metti dentro ogni giorno, diventa proprio blu.",
+            "Nell'appunto, dice a se stesso di tingere la mente di pensieri buoni, ancora e ancora. Allora nota i pensieri che tornano spesso, e scegli tu i prossimi.",
+            "Non ha scritto questi appunti per nessuno, ma oggi chiunque può leggerli. Di che colore sono i tuoi pensieri?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfetto describes what was going on, again and again, at that time: he was writing notes in the camps.",
+              "example" : "Verso l'anno 170, negli accampamenti militari sul Danubio, l'imperatore di Roma scriveva appunti in greco, solo per sé.",
+              "title" : "Scriveva: the imperfetto for a scene in progress"
+            },
+            {
+              "body" : "\"Quali saranno … tale sarà\" pairs two futures to compare: whatever your usual thoughts are, so your mind will be.",
+              "example" : "«Quali saranno i tuoi pensieri abituali, tale sarà la tua mente; l'anima infatti rimane come tinta dalle idee che riceve.»",
+              "title" : "Quale … tale: as … so"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Verso l'anno 170, negli accampamenti militari sul Danubio, l'imperatore di Roma scriveva appunti in greco, solo per sé. Marco Aurelio ha governato dal 161 al 180, spesso in guerra.",
+            "Nel quinto libro dei suoi appunti parla dei pensieri. Ecco la frase nella traduzione di Umberto Moricca del 1923. «Quali saranno i tuoi pensieri abituali, tale sarà la tua mente; l'anima infatti rimane come tinta dalle idee che riceve.»",
+            "Un solo pensiero cupo non ti macchia per sempre. Quello che conta è «abituali»: una stoffa che metti nella tinta una volta esce pallida. Se ce la metti ogni giorno, invece, prende il colore.",
+            "Marco Aurelio dice a se stesso di continuare a tingere la mente di pensieri buoni. Prova anche tu: nota il pensiero che torna sempre, e scegli il prossimo.",
+            "Non ha scritto per nessuno, eppure oggi chiunque può leggerlo. Di che colore sono i tuoi pensieri?"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a denied statement (non vuol dire che), Italian uses the subjunctive: ti macchi, not ti macchia.",
+              "example" : "Non vuol dire che un solo pensiero cupo ti macchi per sempre.",
+              "title" : "Non vuol dire che + congiuntivo"
+            },
+            {
+              "body" : "Essere + participle makes the passive, and the participle agrees: i libri sono stati scritti (masculine plural).",
+              "example" : "È tutto in greco, e due libri dicono perfino dove sono stati scritti: tra i Quadi, al di là del fiume, e a Carnuntum, non lontano dalla Vienna di oggi.",
+              "title" : "The passive with essere: sono stati scritti"
+            },
+            {
+              "body" : "\"Mentre\" sets two facts against each other: pale after one dip, while day after day it takes the colour.",
+              "example" : "Quello che conta è «abituali»: una stoffa immersa nella tinta una volta esce pallida, mentre una stoffa immersa giorno dopo giorno prende il colore.",
+              "title" : "Mentre: while, by contrast"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Verso il 170, negli accampamenti militari sul Danubio, Marco Aurelio, imperatore di Roma dal 161 fino alla morte nel 180, scriveva appunti che nessun altro doveva leggere.",
+            "È tutto in greco, e due libri dicono perfino dove sono stati scritti: tra i Quadi, al di là del fiume, e a Carnuntum, non lontano dalla Vienna di oggi. Nella traduzione di Umberto Moricca del 1923, il quinto libro dice così. «Quali saranno i tuoi pensieri abituali, tale sarà la tua mente; l'anima infatti rimane come tinta dalle idee che riceve.»",
+            "Non vuol dire che un solo pensiero cupo ti macchi per sempre. Quello che conta è «abituali»: una stoffa immersa nella tinta una volta esce pallida, mentre una stoffa immersa giorno dopo giorno prende il colore.",
+            "Marco Aurelio dice a se stesso di continuare a tingere la mente di pensieri buoni, ed è proprio questo che la gente cerca ancora. Allora nota il pensiero che torna sempre, e scegli tu il prossimo.",
+            "Non ha scritto per nessuno, eppure oggi chiunque può leggerlo, e resta una domanda semplice: di che colore sono i tuoi pensieri?"
+          ]
+        }
+      ],
+      "summary" : "Verso l'anno 170, negli accampamenti militari sul Danubio, l'imperatore di Roma ha scritto per sé un appunto su come i pensieri colorano la mente.",
+      "title" : "Il colore dei tuoi pensieri",
+      "translationGroup" : "dyed-by-your-thoughts"
     }
   ]
 }

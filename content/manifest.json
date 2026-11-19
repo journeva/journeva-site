@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 39,
-  "generatedAt" : "2026-11-18",
+  "contentVersion" : 40,
+  "generatedAt" : "2026-11-19",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-19",
+      "titles" : {
+        "english" : "Dyed by Your Thoughts",
+        "french" : "La couleur de tes pensées",
+        "german" : "Die Farbe deiner Gedanken",
+        "italian" : "Il colore dei tuoi pensieri",
+        "spanish" : "El color de tus pensamientos"
+      },
+      "translationGroup" : "dyed-by-your-thoughts"
+    },
     {
       "category" : "health",
       "dateAdded" : "2026-11-18",
@@ -28,32 +40,8 @@
         "spanish" : "Un cumpleaños en la ONU"
       },
       "translationGroup" : "the-sixteenth-birthday"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-16",
-      "titles" : {
-        "english" : "A Record for Kane, a Win in Madrid",
-        "french" : "Un record pour Kane, une victoire à Madrid",
-        "german" : "Ein Rekord für Kane, ein Sieg in Madrid",
-        "italian" : "Un record per Kane, una vittoria a Madrid",
-        "spanish" : "Un récord para Kane y una victoria en Madrid"
-      },
-      "translationGroup" : "weekend-sport-2026-11-15"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-16",
-      "titles" : {
-        "english" : "The Lake That Filled Up Again",
-        "french" : "Le lac qui se remplit à nouveau",
-        "german" : "Ein See füllt sich wieder",
-        "italian" : "Il lago che torna a riempirsi",
-        "spanish" : "El lago que vuelve a llenarse"
-      },
-      "translationGroup" : "baikal-fills-up"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "a9f79fde21c5f65e49b067365fedf1e48db77a85ed02fe3c648b09fc7070f5d5"
+  "sha256" : "eb9c18dd0bbea8f736b1f02e272154d648a444242751aa02d7921de414c4da60"
 }
