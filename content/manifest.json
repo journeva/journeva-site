@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 40,
-  "generatedAt" : "2026-11-19",
+  "contentVersion" : 41,
+  "generatedAt" : "2026-11-20",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "titles" : {
+        "english" : "The Charcoal Burners' Pasta",
+        "french" : "Les pâtes des charbonniers",
+        "german" : "Die Nudeln der Köhler",
+        "italian" : "La pasta dei carbonari",
+        "spanish" : "La pasta de los carboneros"
+      },
+      "translationGroup" : "carbonara"
+    },
     {
       "category" : "bookQuotes",
       "dateAdded" : "2026-11-19",
@@ -28,20 +40,8 @@
         "spanish" : "Dos para la toma de noche"
       },
       "translationGroup" : "two-for-the-night-feed"
-    },
-    {
-      "category" : "lifeLessons",
-      "dateAdded" : "2026-11-17",
-      "titles" : {
-        "english" : "The Sixteenth Birthday",
-        "french" : "Pour ses seize ans",
-        "german" : "Der sechzehnte Geburtstag",
-        "italian" : "Il giorno dei sedici anni",
-        "spanish" : "Un cumpleaños en la ONU"
-      },
-      "translationGroup" : "the-sixteenth-birthday"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "eb9c18dd0bbea8f736b1f02e272154d648a444242751aa02d7921de414c4da60"
+  "sha256" : "edf9176c79c2bd776ce4d8ca8f8eb00ab990d216f43308e9c1d2293acbcdd886"
 }

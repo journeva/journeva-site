@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 40,
-  "generatedAt" : "2026-11-19",
+  "contentVersion" : 41,
+  "generatedAt" : "2026-11-20",
   "glossary" : {
     "english" : [
       {
@@ -204882,6 +204882,107 @@
         }
       }
     ],
+    "carbonara" : [
+      {
+        "answers" : [
+          {
+            "de" : "Viel Sahne",
+            "en" : "A lot of cream",
+            "es" : "Mucha nata",
+            "fr" : "Beaucoup de crème",
+            "it" : "Tanta panna"
+          },
+          {
+            "de" : "Keine Sahne",
+            "en" : "No cream",
+            "es" : "Nada de nata",
+            "fr" : "Pas de crème",
+            "it" : "Niente panna"
+          },
+          {
+            "de" : "Ein bisschen Sahne",
+            "en" : "A little cream",
+            "es" : "Un poco de nata",
+            "fr" : "Un peu de crème",
+            "it" : "Un po' di panna"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Wie viel Sahne kommt in Rom in die Carbonara?",
+          "en" : "How much cream goes in a carbonara from Rome?",
+          "es" : "¿Cuánta nata lleva la carbonara de Roma?",
+          "fr" : "On met combien de crème dans la carbonara de Rome ?",
+          "it" : "Quanta panna ci va nella carbonara romana?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Käse und schwarzen Pfeffer",
+            "en" : "Cheese and black pepper",
+            "es" : "Queso y pimienta negra",
+            "fr" : "Du fromage et du poivre noir",
+            "it" : "Formaggio e pepe nero"
+          },
+          {
+            "de" : "Zucker und Milch",
+            "en" : "Sugar and milk",
+            "es" : "Azúcar y leche",
+            "fr" : "Du sucre et du lait",
+            "it" : "Zucchero e latte"
+          },
+          {
+            "de" : "Butter und Mehl",
+            "en" : "Butter and flour",
+            "es" : "Mantequilla y harina",
+            "fr" : "Du beurre et de la farine",
+            "it" : "Burro e farina"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Was mischst du mit den Eiern?",
+          "en" : "What do you mix with the eggs?",
+          "es" : "¿Qué mezclas con los huevos?",
+          "fr" : "Qu'est-ce que tu mélanges avec les œufs ?",
+          "it" : "Cosa sbatti con le uova?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Ein Koch aus Frankreich",
+            "en" : "A French chef",
+            "es" : "Un chef francés",
+            "fr" : "Un chef français",
+            "it" : "Uno chef francese"
+          },
+          {
+            "de" : "Ein König aus Rom",
+            "en" : "A Roman king",
+            "es" : "Un rey romano",
+            "fr" : "Un roi romain",
+            "it" : "Un re romano"
+          },
+          {
+            "de" : "Das weiß niemand",
+            "en" : "Nobody knows",
+            "es" : "Nadie lo sabe",
+            "fr" : "Personne ne sait",
+            "it" : "Nessuno lo sa"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Wer hat die Carbonara zuerst gekocht?",
+          "en" : "Who makes carbonara first?",
+          "es" : "¿Quién inventa la carbonara?",
+          "fr" : "Qui fait la carbonara en premier ?",
+          "it" : "Chi fa la carbonara per primo?"
+        }
+      }
+    ],
     "dyed-by-your-thoughts" : [
       {
         "answers" : [
@@ -263978,6 +264079,601 @@
       "summary" : "Verso l'anno 170, negli accampamenti militari sul Danubio, l'imperatore di Roma ha scritto per sé un appunto su come i pensieri colorano la mente.",
       "title" : "Il colore dei tuoi pensieri",
       "translationGroup" : "dyed-by-your-thoughts"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "id" : "carbonara",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe gives each step with the base form of the verb and no subject: cook, boil, mix, add, stir. Between friends it sounds helpful, not bossy.",
+              "example" : "Off the heat, add the pasta to the guanciale, then the eggs.",
+              "title" : "The imperative for a recipe"
+            },
+            {
+              "body" : "When \"who\" is the subject, the verb comes straight after it, with no \"do\" or \"does\": who makes it?, not who does make it?",
+              "example" : "But who makes it first?",
+              "title" : "Who in a question: the subject"
+            },
+            {
+              "body" : "The story is told in the present, but \"back then\" points to an earlier time, and \"had\" (the past of have) goes with it.",
+              "example" : "Back then, they had bacon and eggs.",
+              "title" : "Back then + had: one look at the past"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's August 1954, and an Italian magazine prints a carbonara recipe.",
+            "But who makes it first? Nobody knows. Maybe it's charcoal burners, the carbonari. Or American soldiers in Rome in 1944. Back then, they had bacon and eggs.",
+            "Now make it for 2. Cook 100 g of guanciale until the fat is clear. Then boil 200 g of spaghetti. Mix 1 egg and 2 yolks with pecorino cheese and black pepper.",
+            "Off the heat, add the pasta to the guanciale, then the eggs. Stir fast. The hot pasta makes a shiny sauce.",
+            "Nobody knows who makes it first. But in Rome, everybody agrees: no cream!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed for a finished past action: print → printed, start → started. Some common verbs have their own form: make → made.",
+              "example" : "In August 1954, an Italian food magazine printed a recipe for spaghetti alla carbonara.",
+              "title" : "The past simple: printed, started, cooked"
+            },
+            {
+              "body" : "After \"nobody knows\", the question keeps normal word order: who made it, not who did make it.",
+              "example" : "But nobody really knows who made it first.",
+              "title" : "Who made it: a question inside a sentence"
+            },
+            {
+              "body" : "\"Turn\" + an adjective says that something changes: the fat turns clear, the sauce turns shiny. It's like \"become\", but more spoken.",
+              "example" : "The sauce turns smooth and shiny.",
+              "title" : "Turn + adjective: a change"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In August 1954, an Italian food magazine printed a recipe for spaghetti alla carbonara.",
+            "But nobody really knows who made it first. Maybe charcoal burners, the carbonari, cooked it in the mountains. Or maybe it was American soldiers in Rome in 1944, with their bacon and eggs.",
+            "For two, cook 100 g of guanciale slowly until the fat turns clear. Boil 200 g of spaghetti.",
+            "Beat 1 egg and 2 yolks with 50 g of pecorino and black pepper. Mix the pasta with the guanciale, off the heat. Then pour in the eggs and stir fast, with a little pasta water. The sauce turns smooth and shiny.",
+            "Who was first? Nobody knows. But in Rome, everyone agrees: no cream."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"May\" + the base verb says something is possible but not sure: the name may come from = perhaps it comes from.",
+              "example" : "The name may come from the carbonari, charcoal burners in the Apennines.",
+              "title" : "May for a possibility"
+            },
+            {
+              "body" : "After a year or a moment, \"when\" adds what was happening then: in 1944, when soldiers wanted = in 1944, at the time soldiers wanted.",
+              "example" : "Or it was born in Rome in 1944, when American soldiers wanted their bacon and eggs.",
+              "title" : "When after a time: a relative of time"
+            },
+            {
+              "body" : "\"You'd\" (you would) + verb says what happens in a situation you only imagine: if it stays on the heat, the result is scrambled eggs.",
+              "example" : "On the heat, you'd get scrambled eggs; off it, a glossy sauce.",
+              "title" : "You'd get: the result of an imagined action"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In August 1954, the magazine La Cucina Italiana printed a carbonara recipe, with garlic and Gruyère.",
+            "Where's it from? Nobody knows. The name may come from the carbonari, charcoal burners in the Apennines. Or it was born in Rome in 1944, when American soldiers wanted their bacon and eggs. A cook, Renato Gualandi, said he made it in Riccione that September.",
+            "For two, cook 100 g of guanciale slowly until the fat turns clear. Boil 200 g of spaghetti. Beat 1 egg and 2 yolks with 50 g of pecorino romano and black pepper.",
+            "Toss the pasta with the guanciale, take the pan off the heat and stir in the eggs with a little pasta water. On the heat, you'd get scrambled eggs; off it, a glossy sauce.",
+            "Nobody knows who was first. But in Rome, everyone agrees: no cream."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle looks back from one past moment to an earlier one: the Chicago guide came out before the 1954 recipe.",
+              "example" : "A Chicago restaurant guide had beaten it by two years.",
+              "title" : "Had beaten: the past perfect for 'earlier'"
+            },
+            {
+              "body" : "\"Go\" + an -ing verb describes going out to do an activity: go looking, go shopping, go swimming. \"Went looking for\" = searched for.",
+              "example" : "The dish may go back to the carbonari, charcoal burners of the Apennines, or to Rome in 1944, when American soldiers went looking for something like their bacon and eggs.",
+              "title" : "Went looking for: go + -ing"
+            },
+            {
+              "body" : "An order followed by \"and\" + a result works like \"if\": leave it on the flame and you've got scrambled eggs = if you leave it, you get them.",
+              "example" : "The pasta's own heat makes a glossy sauce; leave it on the flame and you've got scrambled eggs.",
+              "title" : "Imperative + and: a warning"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In August 1954, the magazine La Cucina Italiana printed a carbonara recipe, with garlic and Gruyère. A Chicago restaurant guide had beaten it by two years.",
+            "The dish may go back to the carbonari, charcoal burners of the Apennines, or to Rome in 1944, when American soldiers went looking for something like their bacon and eggs. A cook, Renato Gualandi, said he made it in Riccione that September.",
+            "For two, slowly render 100 g of guanciale, cured pork cheek, until the fat goes translucent. Boil 200 g of spaghetti. Beat 1 egg and 2 yolks with 50 g of pecorino romano and plenty of black pepper.",
+            "Toss the pasta with the guanciale, pull the pan off the heat and stir in the eggs with a splash of pasta water. The pasta's own heat makes a glossy sauce; leave it on the flame and you've got scrambled eggs.",
+            "Nobody knows who was first. But in Rome, everyone agrees: no cream."
+          ]
+        }
+      ],
+      "summary" : "Nobody knows who made the first carbonara, but everyone in Rome agrees on one thing: there's no cream in it.",
+      "title" : "The Charcoal Burners' Pasta",
+      "translationGroup" : "carbonara"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "id" : "carbonara-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe step talks to one friend with the tu imperative and no subject: ajoute, remue, mélange. For -er verbs it is the tu present without the final -s: tu ajoutes → ajoute.",
+              "example" : "Hors du feu, ajoute les pâtes au guanciale, puis les œufs.",
+              "title" : "The tu imperative for a recipe"
+            },
+            {
+              "body" : "Personne at the start of a sentence means nobody, and it needs ne before the verb, but no pas: personne ne sait = nobody knows.",
+              "example" : "Personne ne sait.",
+              "title" : "Personne ne: nobody"
+            },
+            {
+              "body" : "The story is told in the present, but à l'époque (back then) points to an earlier time, and avaient (the imparfait of avoir, they had) goes with it.",
+              "example" : "À l'époque, ils avaient du bacon et des œufs.",
+              "title" : "À l'époque + avaient: one look back"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En août 1954, un magazine italien publie une recette. Et c'est la carbonara !",
+            "Mais qui la fait en premier ? Personne ne sait. Peut-être des charbonniers, les carbonari. Ou des soldats américains à Rome, en 1944. À l'époque, ils avaient du bacon et des œufs.",
+            "Pour 2, fais cuire 100 g de guanciale, et le gras devient transparent. Puis fais cuire 200 g de spaghetti. Prends 1 œuf et 2 jaunes. Mélange-les avec du fromage pecorino et du poivre noir.",
+            "Hors du feu, ajoute les pâtes au guanciale, puis les œufs. Remue vite. Avec les pâtes chaudes, ça donne une sauce brillante.",
+            "Personne ne sait qui fait la carbonara en premier. Mais à Rome, tout le monde est d'accord : pas de crème !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avoir + past participle tells a finished event in the past: a publié = printed. Every -er verb makes its participle in -é: publier → publié.",
+              "example" : "En août 1954, un magazine de cuisine italien a publié une recette de carbonara.",
+              "title" : "Passé composé for what happened"
+            },
+            {
+              "body" : "Something people did again and again in the past takes the imparfait, not the passé composé: ils la préparaient = they used to make it.",
+              "example" : "Peut-être que des charbonniers, les carbonari, la préparaient dans les montagnes.",
+              "title" : "Imparfait for a habit: la préparaient"
+            },
+            {
+              "body" : "Devenir (to become) + an adjective says that something changes; the adjective agrees with the noun: le gras devient transparent, la sauce devient lisse et brillante.",
+              "example" : "Et là, la sauce devient lisse et brillante.",
+              "title" : "Devenir + adjective: a change"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En août 1954, un magazine de cuisine italien a publié une recette de carbonara.",
+            "En fait, personne ne sait vraiment qui l'a faite en premier. Peut-être que des charbonniers, les carbonari, la préparaient dans les montagnes. Ou alors des soldats américains à Rome en 1944, avec leurs œufs au bacon.",
+            "Pour deux, fais cuire doucement 100 g de guanciale, et le gras devient transparent. Fais cuire 200 g de spaghetti.",
+            "Bats 1 œuf et 2 jaunes avec 50 g de pecorino et du poivre noir. Hors du feu, mélange les pâtes avec le guanciale. Puis verse les œufs et remue vite, avec un peu d'eau de cuisson. Et là, la sauce devient lisse et brillante.",
+            "Qui a fait la carbonara en premier ? Personne ne sait. Mais à Rome, tout le monde est d'accord : pas de crème."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Peut-être (maybe) after the verb turns a statement into a guess: son nom vient peut-être de… = perhaps its name comes from…",
+              "example" : "Son nom vient peut-être des carbonari, les charbonniers des Apennins.",
+              "title" : "Peut-être: a guess, not a fact"
+            },
+            {
+              "body" : "Jusqu'à ce que (until) is always followed by the subjunctive: le gras devient → jusqu'à ce que le gras devienne.",
+              "example" : "Pour deux, fais cuire doucement 100 g de guanciale, jusqu'à ce que le gras devienne transparent.",
+              "title" : "Jusqu'à ce que + subjunctive"
+            },
+            {
+              "body" : "The conditional (aurais, from avoir) says what would happen in a situation you only imagine: if the pan stayed on the heat, you would get scrambled eggs.",
+              "example" : "Sur le feu, tu aurais des œufs brouillés ; hors du feu, une sauce brillante.",
+              "title" : "Tu aurais: the result of an imagined action"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En août 1954, le magazine La Cucina Italiana a publié une recette de carbonara, avec de l'ail et du gruyère.",
+            "D'où elle vient ? Personne ne sait. Son nom vient peut-être des carbonari, les charbonniers des Apennins. Ou elle est peut-être née à Rome en 1944, quand les soldats américains voulaient leurs œufs au bacon. Un cuisinier, Renato Gualandi, a raconté qu'il l'avait préparée à Riccione, en septembre.",
+            "Pour deux, fais cuire doucement 100 g de guanciale, jusqu'à ce que le gras devienne transparent. Fais cuire 200 g de spaghetti. Bats 1 œuf et 2 jaunes avec 50 g de pecorino romano et du poivre noir.",
+            "Mélange les pâtes avec le guanciale, retire la poêle du feu et ajoute les œufs avec un peu d'eau de cuisson. Sur le feu, tu aurais des œufs brouillés ; hors du feu, une sauce brillante.",
+            "Personne ne sait qui était le premier. Mais à Rome, tout le monde est d'accord : pas de crème."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avait + past participle looks back from one past moment to an earlier one: the Chicago guide came out before the 1954 magazine. En stands for une recette.",
+              "example" : "Un guide des restaurants de Chicago en avait déjà publié une deux ans plus tôt.",
+              "title" : "Plus-que-parfait: something even earlier"
+            },
+            {
+              "body" : "Remonter à + a time or a source says where something comes from: le plat remonte aux carbonari. À + les contracts to aux.",
+              "example" : "Le plat remonte peut-être aux carbonari, les charbonniers des Apennins, ou à Rome en 1944, quand les soldats américains cherchaient l'équivalent de leurs œufs au bacon.",
+              "title" : "Remonter à: to go back to"
+            },
+            {
+              "body" : "An order followed by et + a result works like si: laisse la poêle sur le feu et tu te retrouves avec… = if you leave the pan on the heat, you end up with…",
+              "example" : "La chaleur des pâtes donne une sauce brillante ; laisse la poêle sur le feu et tu te retrouves avec des œufs brouillés.",
+              "title" : "Imperative + et: a warning"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En août 1954, le magazine La Cucina Italiana a publié une recette de carbonara, avec de l'ail et du gruyère. Un guide des restaurants de Chicago en avait déjà publié une deux ans plus tôt.",
+            "Le plat remonte peut-être aux carbonari, les charbonniers des Apennins, ou à Rome en 1944, quand les soldats américains cherchaient l'équivalent de leurs œufs au bacon. Un cuisinier, Renato Gualandi, a raconté qu'il l'avait préparé à Riccione en septembre 1944.",
+            "Pour deux, fais fondre doucement 100 g de guanciale, de la joue de porc séchée, jusqu'à ce que le gras devienne translucide. Fais cuire 200 g de spaghetti. Bats 1 œuf et 2 jaunes avec 50 g de pecorino romano et beaucoup de poivre noir.",
+            "Mélange les pâtes avec le guanciale, retire la poêle du feu et incorpore les œufs avec un filet d'eau de cuisson. La chaleur des pâtes donne une sauce brillante ; laisse la poêle sur le feu et tu te retrouves avec des œufs brouillés.",
+            "Personne ne sait qui était le premier. Mais à Rome, tout le monde est d'accord : pas de crème."
+          ]
+        }
+      ],
+      "summary" : "On ne sait toujours pas qui a inventé la carbonara, mais à Rome, une chose est sûre : on n'y met jamais de crème.",
+      "title" : "Les pâtes des charbonniers",
+      "translationGroup" : "carbonara"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "id" : "carbonara-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A recipe talks to a friend with the du imperative: the verb stem, no \"du\", the verb first: brat, koch, misch, gib, nimm.",
+              "example" : "Misch 1 Ei und 2 Eigelb mit 50 g Käse und schwarzem Pfeffer.",
+              "title" : "The du imperative in a recipe: brat, koch, misch"
+            },
+            {
+              "body" : "Separable verbs split in the imperative: the verb comes first and the little word goes to the end: dazugeben → gib die Eier dazu, umrühren → rühr um.",
+              "example" : "Dann gib die Eier dazu und rühr schnell um.",
+              "title" : "Gib … dazu: the little word goes to the end"
+            },
+            {
+              "body" : "The story is told in the present, but \"damals\" (back then) points to an earlier time, and \"hatten\" (the past of haben) goes with it.",
+              "example" : "Damals hatten sie Speck und Eier.",
+              "title" : "Damals hatten sie: one look back"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es ist August 1954, in Italien. Und ein Magazin druckt ein Rezept für Carbonara.",
+            "Aber wer macht sie zuerst? Vielleicht die Carbonari, also Köhler. Oder Soldaten aus Amerika, 1944 in Rom. Damals hatten sie Speck und Eier.",
+            "So kochst du Carbonara für 2. Brat 100 g Guanciale langsam, bis sein Fett klar wird. Dann koch 200 g Spaghetti. Misch 1 Ei und 2 Eigelb mit 50 g Käse und schwarzem Pfeffer.",
+            "Gib die Spaghetti in die Pfanne und nimm die Pfanne vom Herd. Dann gib die Eier dazu und rühr schnell um. Die heißen Spaghetti machen die Soße glänzend.",
+            "Niemand weiß, wer die Carbonara zuerst macht. Aber in Rom sagen alle: keine Sahne!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells a finished past event with haben (or sein) plus the past participle at the end: drucken → hat gedruckt, kochen → hat gekocht.",
+              "example" : "Im August 1954 hat eine italienische Zeitschrift ein Rezept für Carbonara gedruckt.",
+              "title" : "The Perfekt: hat gedruckt, hat gekocht"
+            },
+            {
+              "body" : "After \"niemand weiß\", the question word starts a side clause and the verb goes to the end: wer hat sie gekocht? → wer sie gekocht hat.",
+              "example" : "Aber niemand weiß so genau, wer sie zuerst gekocht hat.",
+              "title" : "Wer … gekocht hat: a question inside a sentence"
+            },
+            {
+              "body" : "\"Werden\" with an adjective says that something changes: das Fett wird klar, die Soße wird glänzend. It's the German \"turn\" or \"get\".",
+              "example" : "Die Soße wird glatt und glänzend.",
+              "title" : "Werden + adjective: a change"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im August 1954 hat eine italienische Zeitschrift ein Rezept für Carbonara gedruckt.",
+            "Aber niemand weiß so genau, wer sie zuerst gekocht hat. Vielleicht waren es Köhler in den Bergen, auf Italienisch Carbonari. Oder es waren amerikanische Soldaten 1944 in Rom, mit Speck und Eiern.",
+            "Für zwei Personen brat 100 g Guanciale langsam, bis sein Fett klar wird. Dann koch 200 g Spaghetti in Salzwasser.",
+            "Verquirl 1 Ei und 2 Eigelb mit 50 g Pecorino und schwarzem Pfeffer. Misch die Nudeln mit dem Guanciale, weg vom Herd. Dann gib die Eier und etwas Nudelwasser dazu und rühr schnell um. Die Soße wird glatt und glänzend.",
+            "Wer war der Erste? Keiner weiß es. Aber in Rom sind sich alle einig: keine Sahne."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "German often marks a guess with \"vielleicht\" (maybe) and keeps the verb in the plain present: der Name kommt vielleicht von … = the name may come from …",
+              "example" : "Der Name kommt vielleicht von den Carbonari, den Köhlern im Apennin.",
+              "title" : "Vielleicht: a theory, not a fact"
+            },
+            {
+              "body" : "For a single moment or period in the past, \"when\" is \"als\", and it sends the verb to the end: als die Soldaten Speck wollten.",
+              "example" : "Oder sie ist 1944 in Rom entstanden, als amerikanische Soldaten ihren Speck mit Eiern wollten.",
+              "title" : "Als for one moment in the past"
+            },
+            {
+              "body" : "\"Hättest\" (Konjunktiv II of haben) describes an imagined result: if the pan stayed on the heat, you would have scrambled eggs; \"so aber\" (but this way) gives the real result.",
+              "example" : "Auf dem Herd hättest du Rührei, so aber eine glänzende Soße.",
+              "title" : "Hättest du: what would happen (Konjunktiv II)"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im August 1954 hat die Zeitschrift La Cucina Italiana ein Carbonara-Rezept gedruckt, mit Knoblauch und Gruyère.",
+            "Woher kommt sie? Das weiß niemand. Der Name kommt vielleicht von den Carbonari, den Köhlern im Apennin. Oder sie ist 1944 in Rom entstanden, als amerikanische Soldaten ihren Speck mit Eiern wollten. Ein Koch, Renato Gualandi, hat erzählt, dass er sie im September 1944 in Riccione gekocht hat.",
+            "Für zwei Personen brat 100 g Guanciale langsam, bis das Fett klar wird. Koch 200 g Spaghetti. Verquirl 1 Ei und 2 Eigelb mit 50 g Pecorino Romano und schwarzem Pfeffer.",
+            "Misch die Nudeln mit dem Guanciale, nimm die Pfanne vom Herd und rühr die Eier mit etwas Nudelwasser unter. Auf dem Herd hättest du Rührei, so aber eine glänzende Soße.",
+            "Niemand weiß, wer der Erste war. Aber in Rom sind sich alle einig: keine Sahne."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Dran sein\" is spoken German for \"to be up, to have a turn\"; \"schon früher dran\" means someone did it before: the Chicago guide came first.",
+              "example" : "Ein Restaurantführer aus Chicago war schon zwei Jahre früher dran.",
+              "title" : "Schon früher dran sein: getting there first"
+            },
+            {
+              "body" : "In reported speech, spoken German often uses Konjunktiv II (hätte) instead of the indicative to show that this is someone's own claim, not a checked fact.",
+              "example" : "Ein Koch, Renato Gualandi, hat erzählt, er hätte die Carbonara im selben September in Riccione gekocht.",
+              "title" : "Er hätte: keeping your distance from a claim"
+            },
+            {
+              "body" : "An order followed by \"und\" + a result works like \"wenn\": lass sie auf dem Herd, und du hast Rührei = if you leave it on the heat, you get scrambled eggs.",
+              "example" : "Die Hitze der Nudeln macht daraus eine glänzende Soße; lass sie auf dem Herd, und du hast Rührei.",
+              "title" : "Imperative + und: a warning"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im August 1954 hat die Zeitschrift La Cucina Italiana ein Carbonara-Rezept gedruckt, mit Knoblauch und Gruyère. Ein Restaurantführer aus Chicago war schon zwei Jahre früher dran.",
+            "Vielleicht geht das Gericht auf die Carbonari zurück, die Köhler im Apennin. Oder auf Rom 1944, als amerikanische Soldaten so etwas wie ihr Frühstück mit Speck und Ei gesucht haben. Ein Koch, Renato Gualandi, hat erzählt, er hätte die Carbonara im selben September in Riccione gekocht.",
+            "Brat für zwei Personen 100 g Guanciale ganz langsam, also luftgetrocknete Schweinebacke, bis das Fett glasig wird. Koch 200 g Spaghetti. Verquirl 1 Ei und 2 Eigelb mit 50 g Pecorino Romano und schwarzem Pfeffer.",
+            "Schwenk die Nudeln mit dem Guanciale, zieh die Pfanne vom Herd und rühr die Eier mit einem Schuss Nudelwasser unter. Die Hitze der Nudeln macht daraus eine glänzende Soße; lass sie auf dem Herd, und du hast Rührei.",
+            "Niemand weiß, wer der Erste war. Aber in Rom sind sich alle einig: keine Sahne."
+          ]
+        }
+      ],
+      "summary" : "Wer die erste Carbonara gekocht hat, weiß keiner so genau, aber in Rom ist eins klar: Sahne kommt da nicht rein.",
+      "title" : "Die Nudeln der Köhler",
+      "translationGroup" : "carbonara"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "id" : "carbonara-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps speak to one friend with the tú imperative, which for regular verbs looks like the él/ella present: cocina, hierve, mezcla, añade, remueve.",
+              "example" : "Mezcla 1 huevo y 2 yemas con queso pecorino y pimienta negra.",
+              "title" : "The tú imperative in a recipe"
+            },
+            {
+              "body" : "The story stays in the present, but entonces (back then) points to 1944, and tenían (the imperfect of tener) describes what the soldiers had at that time.",
+              "example" : "Entonces tenían beicon y huevos.",
+              "title" : "Entonces tenían: one look back"
+            },
+            {
+              "body" : "Nada de + a noun with no article is a spoken way to say \"none of it, ever\": ¡nada de nata! = no cream at all.",
+              "example" : "Pero en Roma todos están de acuerdo: ¡nada de nata!",
+              "title" : "Nada de + noun: none at all"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es agosto de 1954. Y una revista italiana publica una receta de carbonara.",
+            "Pero ¿quién la inventa? Nadie lo sabe. A lo mejor son los carboneros, los carbonari. O unos soldados americanos en Roma, en 1944. Entonces tenían beicon y huevos.",
+            "Ahora, para 2: cocina 100 g de guanciale a fuego lento. Poco a poco, la grasa se pone transparente. Luego hierve 200 g de espaguetis. Mezcla 1 huevo y 2 yemas con queso pecorino y pimienta negra.",
+            "Fuera del fuego, añade la pasta al guanciale y luego los huevos. Remueve rápido y el calor de la pasta hace una salsa brillante.",
+            "La verdad, nadie sabe quién la inventa. Pero en Roma todos están de acuerdo: ¡nada de nata!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A finished event at a set time takes the indefinido: publicó (it published), fue (it was). A habit or background would take the imperfecto instead: preparaban.",
+              "example" : "En agosto de 1954, una revista italiana de cocina publicó una receta de carbonara.",
+              "title" : "Publicó: the pretérito indefinido for an event"
+            },
+            {
+              "body" : "A lo mejor means maybe and, unlike quizá, always takes the indicative: a lo mejor la preparaban, never a lo mejor la prepararan.",
+              "example" : "A lo mejor la preparaban los carboneros, los carbonari, en el monte.",
+              "title" : "A lo mejor: maybe, with the indicative"
+            },
+            {
+              "body" : "Quedar + an adjective says how something turns out at the end of a process: la salsa queda fina = the sauce ends up smooth.",
+              "example" : "Y la salsa queda fina y brillante.",
+              "title" : "Quedar + adjective: how it ends up"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En agosto de 1954, una revista italiana de cocina publicó una receta de carbonara.",
+            "Pero nadie sabe quién la hizo primero. A lo mejor la preparaban los carboneros, los carbonari, en el monte. O quizá fueron unos soldados americanos en Roma en 1944, con su beicon y sus huevos.",
+            "Para dos, cocina despacio 100 g de guanciale hasta que la grasa se vuelva transparente. Hierve 200 g de espaguetis.",
+            "Bate 1 huevo y 2 yemas con 50 g de pecorino y pimienta negra. Mezcla la pasta con el guanciale, fuera del fuego. Luego echa los huevos y remueve rápido, con un poco de agua de cocción. Y la salsa queda fina y brillante.",
+            "¿Quién fue el primero? Nadie lo sabe. Pero en Roma todos están de acuerdo: nada de nata."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Poder + infinitive doesn't only mean ability; it also says something is possible but not sure: puede venir de = it may come from.",
+              "example" : "El nombre puede venir de los carbonari, los carboneros de los Apeninos.",
+              "title" : "Puede venir: poder for a possibility"
+            },
+            {
+              "body" : "After a time, cuando + the imperfect adds the background of that moment: en 1944, cuando echaban de menos = in 1944, when they missed. Echar de menos = to miss.",
+              "example" : "O quizá nació en Roma en 1944, cuando los soldados americanos echaban de menos sus huevos con beicon.",
+              "title" : "Cuando after a year: what was going on then"
+            },
+            {
+              "body" : "The conditional (saldrían, from salir) says what would happen in a situation you only imagine: with the pan on the heat, you'd end up with scrambled eggs.",
+              "example" : "Con la sartén al fuego, te saldrían huevos revueltos; fuera, una salsa brillante.",
+              "title" : "Te saldrían: the conditional for an imagined result"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En agosto de 1954, la revista La Cucina Italiana publicó una receta de carbonara, con ajo y gruyer.",
+            "¿De dónde viene? Pues nadie lo sabe. El nombre puede venir de los carbonari, los carboneros de los Apeninos. O quizá nació en Roma en 1944, cuando los soldados americanos echaban de menos sus huevos con beicon. Un cocinero, Renato Gualandi, decía que la había hecho él en Riccione ese mismo septiembre.",
+            "Para dos, cocina despacio 100 g de guanciale hasta que la grasa se vuelva transparente. Hierve 200 g de espaguetis. Bate 1 huevo y 2 yemas con 50 g de pecorino romano y pimienta negra.",
+            "Mezcla la pasta con el guanciale y aparta la sartén del fuego. Añade los huevos con un poco de agua de cocción, sin dejar de remover. Con la sartén al fuego, te saldrían huevos revueltos; fuera, una salsa brillante.",
+            "Nadie sabe quién fue el primero. Pero en Roma todos están de acuerdo: nada de nata."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Había + participle looks back from one past moment to an earlier one: the Chicago guide came out before the 1954 recipe. Adelantarse a alguien = to get there before someone.",
+              "example" : "Pero una guía de restaurantes de Chicago ya se le había adelantado dos años.",
+              "title" : "Se le había adelantado: the pluperfect for earlier"
+            },
+            {
+              "body" : "The conditional of poder softens a claim into a guess, and remontarse a means to go back to (a time or an origin): it might go back to.",
+              "example" : "El plato podría remontarse a los carbonari, los carboneros de los Apeninos, o a la Roma de 1944, cuando los soldados americanos buscaban algo parecido a sus huevos con beicon.",
+              "title" : "Podría remontarse a: a careful maybe"
+            },
+            {
+              "body" : "In speech, como + present subjunctive at the start works like a threatening if: como la dejes al fuego = if you leave it on the heat (and you'll regret it).",
+              "example" : "El propio calor de la pasta crea una salsa brillante; como la dejes al fuego, acabas con unos huevos revueltos.",
+              "title" : "Como + subjunctive: a friendly warning"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En agosto de 1954, la revista La Cucina Italiana publicó una receta de carbonara, con ajo y gruyer. Pero una guía de restaurantes de Chicago ya se le había adelantado dos años.",
+            "El plato podría remontarse a los carbonari, los carboneros de los Apeninos, o a la Roma de 1944, cuando los soldados americanos buscaban algo parecido a sus huevos con beicon. Un cocinero, Renato Gualandi, aseguraba que la había hecho él en Riccione ese mismo septiembre.",
+            "Para dos, dora a fuego lento 100 g de guanciale, carrillada de cerdo curada, hasta que la grasa se vuelva translúcida. Hierve 200 g de espaguetis. Bate 1 huevo y 2 yemas con 50 g de pecorino romano y mucha pimienta negra.",
+            "Saltea la pasta con el guanciale, aparta la sartén del fuego y añade los huevos con un chorrito de agua de cocción, sin dejar de remover. El propio calor de la pasta crea una salsa brillante; como la dejes al fuego, acabas con unos huevos revueltos.",
+            "Nadie sabe quién fue el primero. Eso sí, en Roma todos están de acuerdo: nada de nata."
+          ]
+        }
+      ],
+      "summary" : "Nadie sabe quién hizo la primera carbonara, pero en Roma lo tienen clarísimo: de nata, ni hablar.",
+      "title" : "La pasta de los carboneros",
+      "translationGroup" : "carbonara"
+    },
+    {
+      "category" : "recipes",
+      "dateAdded" : "2026-11-20",
+      "id" : "carbonara-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Recipe steps speak to a friend with the tu imperative: -are verbs end in -a (mescola, scola), -ere and -ire verbs in -i (cuoci, togli, aggiungi). Sbatti is from sbattere, to beat.",
+              "example" : "Togli la padella dal fuoco, poi aggiungi le uova.",
+              "title" : "The tu imperative in a recipe"
+            },
+            {
+              "body" : "When nessuno (nobody) comes before the verb, Italian needs no non: nessuno sa = nobody knows. After the verb it does: non lo sa nessuno.",
+              "example" : "Nessuno sa chi la fa per primo.",
+              "title" : "Nessuno sa: no extra non"
+            },
+            {
+              "body" : "The story is told in the present, but allora (back then) points to 1944, and the imperfetto avevano (they had) goes with it.",
+              "example" : "Allora avevano uova e bacon.",
+              "title" : "Allora + avevano: one look back"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo nell'agosto del 1954 e una rivista italiana pubblica una ricetta della carbonara.",
+            "Ma chi la fa per primo? Nessuno lo sa. Forse i carbonari, gli uomini del carbone. O i soldati americani a Roma, nel 1944. Allora avevano uova e bacon.",
+            "Ora la prepari tu, per 2. Fai rosolare 100 g di guanciale a listarelle, finché il grasso diventa trasparente. Poi cuoci 200 g di spaghetti in acqua salata. Sbatti 1 uovo e 2 tuorli con formaggio pecorino e pepe nero.",
+            "Scola gli spaghetti nella padella del guanciale. Togli la padella dal fuoco, poi aggiungi le uova. Mescola veloce: la pasta calda fa una crema lucida.",
+            "Nessuno sa chi la fa per primo. Ma a Roma tutti sono d'accordo: niente panna!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passato prossimo (avere + past participle) tells what happened once: ha pubblicato = published. Italians use it in speech for the past, never the passato remoto.",
+              "example" : "Nell'agosto del 1954 una rivista di cucina italiana ha pubblicato una ricetta della carbonara.",
+              "title" : "Passato prossimo for a finished event"
+            },
+            {
+              "body" : "When the object pronoun la (it, the carbonara) comes before avere, the participle takes its ending: l'ha fatta, not l'ha fatto.",
+              "example" : "Ma nessuno sa davvero chi l'ha fatta per primo.",
+              "title" : "L'ha fatta: the participle agrees with la"
+            },
+            {
+              "body" : "The imperfetto tells what people used to do again and again: forse la cucinavano = maybe they used to cook it. A single event would take the passato prossimo.",
+              "example" : "Forse la cucinavano in montagna i carbonari, gli uomini del carbone.",
+              "title" : "Imperfetto for a habit: la cucinavano"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nell'agosto del 1954 una rivista di cucina italiana ha pubblicato una ricetta della carbonara.",
+            "Ma nessuno sa davvero chi l'ha fatta per primo. Forse la cucinavano in montagna i carbonari, gli uomini del carbone. O forse i soldati americani a Roma nel 1944, con le loro uova e bacon.",
+            "Per due, fai rosolare piano 100 g di guanciale a listarelle, finché il grasso diventa trasparente. Intanto cuoci 200 g di spaghetti in acqua salata.",
+            "Sbatti 1 uovo e 2 tuorli con 50 g di pecorino e tanto pepe nero. Scola la pasta al dente nella padella e togli la padella dal fuoco. Poi versa le uova con un po' d'acqua di cottura e mescola veloce. Viene fuori una crema liscia e lucida.",
+            "Chi l'ha fatta per primo? Nessuno lo sa. Ma a Roma tutti sono d'accordo: niente panna."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Che joins a second clause to a noun and stands for it: i carbonari, che facevano il carbone = the charcoal burners, who made charcoal. It never changes for gender or number.",
+              "example" : "Il nome forse viene dai carbonari, che facevano il carbone nei boschi dell'Appennino.",
+              "title" : "Che as a relative pronoun"
+            },
+            {
+              "body" : "When the subject is the same, Italian reports a past action with di + avere + participle: ha detto di averla fatta = he said he had made it. The pronoun la sticks to avere.",
+              "example" : "Un cuoco, Renato Gualandi, ha detto di averla fatta lui a Riccione, quel settembre.",
+              "title" : "Ha detto di averla fatta: di + past infinitive"
+            },
+            {
+              "body" : "The conditional (faresti = you would make) says what happens in a situation you only imagine: if the pan stays on the heat, you get an omelette.",
+              "example" : "Sul fuoco faresti una frittata; fuori, una crema lucida.",
+              "title" : "Faresti: the conditional for an imagined result"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nell'agosto del 1954 la rivista La Cucina Italiana ha pubblicato una ricetta della carbonara, con aglio e gruviera.",
+            "Da dove viene? Nessuno lo sa. Il nome forse viene dai carbonari, che facevano il carbone nei boschi dell'Appennino. O forse è nata a Roma nel 1944, quando i soldati americani cercavano uova e bacon. Un cuoco, Renato Gualandi, ha detto di averla fatta lui a Riccione, quel settembre.",
+            "Per due, fai rosolare piano 100 g di guanciale a listarelle, finché il guanciale è croccante e il grasso trasparente. Cuoci 200 g di spaghetti in acqua salata. Sbatti 1 uovo e 2 tuorli con 50 g di pecorino romano grattugiato e tanto pepe nero.",
+            "Scola la pasta al dente nella padella del guanciale e toglila dal fuoco. Aggiungi le uova con un po' d'acqua di cottura e mescola veloce. Sul fuoco faresti una frittata; fuori, una crema lucida.",
+            "Nessuno sa chi l'ha fatta per primo. Ma a Roma tutti sono d'accordo: niente panna."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avere in the imperfetto + participle looks back from one past moment to an earlier one: the Chicago guide printed a recipe before 1954. Ne … una means one of them, and the participle agrees with una.",
+              "example" : "Ma una guida ai ristoranti di Chicago ne aveva già stampata una due anni prima.",
+              "title" : "Ne aveva stampata una: the trapassato prossimo"
+            },
+            {
+              "body" : "È + noun + a + infinitive puts one thing in the spotlight: it's the heat of the pasta that makes the cream, not the stove.",
+              "example" : "È il calore della pasta a fare una crema lucida; sul fuoco, invece, ti ritrovi con le uova strapazzate.",
+              "title" : "È il calore a fare: the spotlight on the cause"
+            },
+            {
+              "body" : "Potrebbe (it could) + infinitive presents a theory, not a fact: il piatto potrebbe risalire = the dish may go back to. Risalire a means to date back to.",
+              "example" : "Il piatto potrebbe risalire ai carbonari, che facevano il carbone nei boschi dell'Appennino.",
+              "title" : "Potrebbe: the conditional for a guess"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nell'agosto del 1954 la rivista La Cucina Italiana ha pubblicato una ricetta della carbonara, con aglio e gruviera. Ma una guida ai ristoranti di Chicago ne aveva già stampata una due anni prima.",
+            "Il piatto potrebbe risalire ai carbonari, che facevano il carbone nei boschi dell'Appennino. O magari alla Roma del 1944, quando i soldati americani andavano in cerca di qualcosa come uova e bacon. Un cuoco, Renato Gualandi, ha raccontato di averlo preparato lui a Riccione, quel settembre.",
+            "Per due, taglia a listarelle 100 g di guanciale e fallo rosolare piano, finché è croccante e il grasso trasparente. Intanto cuoci 200 g di spaghetti in acqua salata. Sbatti 1 uovo e 2 tuorli con 50 g di pecorino romano grattugiato e una bella macinata di pepe nero.",
+            "Scola gli spaghetti al dente nella padella, toglila dal fuoco, aggiungi le uova con un goccio d'acqua di cottura e manteca veloce. È il calore della pasta a fare una crema lucida; sul fuoco, invece, ti ritrovi con le uova strapazzate.",
+            "Nessuno sa chi l'ha fatta per primo. Ma a Roma tutti sono d'accordo: niente panna."
+          ]
+        }
+      ],
+      "summary" : "Chi ha fatto la prima carbonara non lo sa nessuno, ma a Roma su una cosa sono tutti d'accordo: la panna non ci va.",
+      "title" : "La pasta dei carbonari",
+      "translationGroup" : "carbonara"
     }
   ]
 }
