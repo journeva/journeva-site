@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 41,
-  "generatedAt" : "2026-11-20",
+  "contentVersion" : 42,
+  "generatedAt" : "2026-11-23",
   "glossary" : {
     "english" : [
       {
@@ -205084,6 +205084,208 @@
         }
       }
     ],
+    "empadronamiento" : [
+      {
+        "answers" : [
+          {
+            "de" : "In Berlin",
+            "en" : "In Berlin",
+            "es" : "En Berlín",
+            "fr" : "À Berlin",
+            "it" : "A Berlino"
+          },
+          {
+            "de" : "In Madrid",
+            "en" : "In Madrid",
+            "es" : "En Madrid",
+            "fr" : "À Madrid",
+            "it" : "A Madrid"
+          },
+          {
+            "de" : "In Rom",
+            "en" : "In Rome",
+            "es" : "En Roma",
+            "fr" : "À Rome",
+            "it" : "A Roma"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "In welcher Stadt wohnt Otto jetzt?",
+          "en" : "Which city does Otto live in now?",
+          "es" : "¿En qué ciudad vive Otto ahora?",
+          "fr" : "Dans quelle ville est-ce qu'Otto habite maintenant ?",
+          "it" : "In che città vive Otto adesso?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Ihren Pass und den Mietvertrag",
+            "en" : "Her passport and rental contract",
+            "es" : "Su pasaporte y el contrato de alquiler",
+            "fr" : "Son passeport et son contrat de location",
+            "it" : "Il passaporto e il contratto d'affitto"
+          },
+          {
+            "de" : "Ihre Fahrkarte und einen Stadtplan",
+            "en" : "Her train ticket and a map",
+            "es" : "Su billete de tren y un mapa",
+            "fr" : "Son billet de train et un plan",
+            "it" : "Il biglietto del treno e una cartina"
+          },
+          {
+            "de" : "Ihre Bankkarte und ein Foto",
+            "en" : "Her bank card and a photo",
+            "es" : "Su tarjeta del banco y una foto",
+            "fr" : "Sa carte bancaire et une photo",
+            "it" : "La sua carta bancaria e una foto"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Was hat Otto im Büro dabei?",
+          "en" : "What does Otto bring to the office?",
+          "es" : "¿Qué lleva Otto a la oficina?",
+          "fr" : "Qu'est-ce qu'Otto apporte au bureau ?",
+          "it" : "Che cosa porta Otto in ufficio?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Zehn Euro",
+            "en" : "Ten euros",
+            "es" : "Diez euros",
+            "fr" : "Dix euros",
+            "it" : "Dieci euro"
+          },
+          {
+            "de" : "Fünfzig Euro",
+            "en" : "Fifty euros",
+            "es" : "Cincuenta euros",
+            "fr" : "Cinquante euros",
+            "it" : "Cinquanta euro"
+          },
+          {
+            "de" : "Nichts",
+            "en" : "Nothing",
+            "es" : "Nada",
+            "fr" : "Rien",
+            "it" : "Niente"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Was kostet die Anmeldung?",
+          "en" : "How much does it cost to register?",
+          "es" : "¿Cuánto cuesta empadronarse?",
+          "fr" : "Combien coûte l'inscription ?",
+          "it" : "Quanto costa l'iscrizione?"
+        }
+      }
+    ],
+    "kyoto" : [
+      {
+        "answers" : [
+          {
+            "de" : "Feuer",
+            "en" : "Fire",
+            "es" : "Fuego",
+            "fr" : "Le feu",
+            "it" : "Fuoco"
+          },
+          {
+            "de" : "Frieden",
+            "en" : "Peace",
+            "es" : "Paz",
+            "fr" : "La paix",
+            "it" : "Pace"
+          },
+          {
+            "de" : "Gold",
+            "en" : "Gold",
+            "es" : "Oro",
+            "fr" : "L'or",
+            "it" : "Oro"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Was bedeutet der alte Name der Stadt?",
+          "en" : "What does the city's old name mean?",
+          "es" : "¿Qué significa el antiguo nombre de la ciudad?",
+          "fr" : "Que veut dire l'ancien nom de la ville ?",
+          "it" : "Che cosa vuol dire il vecchio nome della città?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Rot",
+            "en" : "Red",
+            "es" : "Rojas",
+            "fr" : "Rouges",
+            "it" : "Rosse"
+          },
+          {
+            "de" : "Blau",
+            "en" : "Blue",
+            "es" : "Azules",
+            "fr" : "Bleus",
+            "it" : "Blu"
+          },
+          {
+            "de" : "Weiß",
+            "en" : "White",
+            "es" : "Blancas",
+            "fr" : "Blancs",
+            "it" : "Bianche"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Welche Farbe haben die Tore in Fushimi Inari?",
+          "en" : "What colour are the gates at Fushimi Inari?",
+          "es" : "¿De qué color son las puertas en Fushimi Inari?",
+          "fr" : "De quelle couleur sont les portiques à Fushimi Inari ?",
+          "it" : "Di che colore sono le porte a Fushimi Inari?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Den Mantel",
+            "en" : "Your coat",
+            "es" : "El abrigo",
+            "fr" : "Ton manteau",
+            "it" : "Il cappotto"
+          },
+          {
+            "de" : "Die Handschuhe",
+            "en" : "Your gloves",
+            "es" : "Los guantes",
+            "fr" : "Tes gants",
+            "it" : "I guanti"
+          },
+          {
+            "de" : "Die Schuhe",
+            "en" : "Your shoes",
+            "es" : "Los zapatos",
+            "fr" : "Tes chaussures",
+            "it" : "Le scarpe"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Was ziehst du im Tempel aus?",
+          "en" : "What do you take off in a temple?",
+          "es" : "¿Qué te quitas en un templo?",
+          "fr" : "Qu'est-ce que tu enlèves dans un temple ?",
+          "it" : "Che cosa ti togli in un tempio?"
+        }
+      }
+    ],
     "martins-lantern" : [
       {
         "answers" : [
@@ -264674,6 +264876,1271 @@
       "summary" : "Chi ha fatto la prima carbonara non lo sa nessuno, ma a Roma su una cosa sono tutti d'accordo: la panna non ci va.",
       "title" : "La pasta dei carbonari",
       "translationGroup" : "carbonara"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "id" : "kyoto",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is in the present, but \"had\" and \"was\" look back once to how things were in 794. \"For\" + a time says how long: for over a thousand years.",
+              "example" : "It was the capital for over a thousand years.",
+              "title" : "Was and had: one look back"
+            },
+            {
+              "body" : "A friend telling a story sets the scene with \"It's\" and the present: it's early morning, the air is cold. It puts you right there.",
+              "example" : "It's early morning, and the air is cold.",
+              "title" : "It's + a time of day: setting the scene"
+            },
+            {
+              "body" : "To tell a friend what to do, use the base verb with no subject: take off your shoes, talk quietly.",
+              "example" : "In a temple, take off your shoes and talk quietly.",
+              "title" : "The imperative for a tip: take off, talk"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In 794, Japan had a new capital, Heian-kyō. The name means \"capital of peace\". It was the capital for over a thousand years. And today it's Kyoto.",
+            "It's early morning, and the air is cold. At Fushimi Inari, thousands of red gates go up the mountain. The path is quiet.",
+            "At lunch, Kyoto eats yudofu, hot tofu from the temple kitchens. In the afternoon, the maples are red. So people go out just to see them.",
+            "In a temple, take off your shoes and talk quietly. Here's a surprise: Kyoto has over 1,600 temples! And in the evening, the capital of peace is quiet again."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For finished events in the past (in 794), English uses the past simple. Regular verbs add -ed: move → moved, call → called.",
+              "example" : "In 794, Emperor Kanmu moved Japan's capital to a new city.",
+              "title" : "The past simple: moved, called"
+            },
+            {
+              "body" : "English often drops the subject and the verb \"be\" after when: when asked = when you are asked. It keeps a tip short and friendly.",
+              "example" : "In a temple, take off your shoes when asked, and talk quietly.",
+              "title" : "When asked: a short way to say \"when someone asks you\""
+            },
+            {
+              "body" : "\"Get\" + an adjective says something changes: the city gets quiet = the city becomes quiet. It's the everyday spoken word for \"become\".",
+              "example" : "In the evening, the city gets quiet again, still the capital of peace.",
+              "title" : "Get + adjective: a change"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 794, Emperor Kanmu moved Japan's capital to a new city. He called it Heian-kyō, \"the capital of peace and quiet\". It was the capital for over a thousand years, and today it's Kyoto.",
+            "Early morning at Fushimi Inari is cold and quiet. Thousands of red gates climb the mountain.",
+            "Lunch is yudofu, soft tofu warmed in water with kombu seaweed. It comes from the old temple kitchens.",
+            "In the afternoon, the maple leaves are red, and people go out just to see them. In a temple, take off your shoes when asked, and talk quietly.",
+            "Here's a surprise: Kyoto has more than 1,600 Buddhist temples. In the evening, the city gets quiet again, still the capital of peace."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Since\" + a starting point goes with the present perfect, for something that began then and is still true now: have been on the list since 1994.",
+              "example" : "The surprise: Kyoto has more than 1,600 Buddhist temples, and seventeen sites in and around it have been on UNESCO's list since 1994.",
+              "title" : "The present perfect with since"
+            },
+            {
+              "body" : "A past participle after a noun works like a short relative clause: soft tofu warmed in water = soft tofu that is warmed in water.",
+              "example" : "Lunch is yudofu: soft tofu warmed in water with kombu seaweed.",
+              "title" : "A past participle as an adjective: warmed"
+            },
+            {
+              "body" : "\"Go\" + an adjective can describe a change, often a sudden or complete one: the city goes quiet, the screen went dark.",
+              "example" : "In the evening, the city goes quiet again: still the capital of peace.",
+              "title" : "Go + adjective: go quiet"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 794, Emperor Kanmu moved Japan's capital to a new city and called it Heian-kyō, \"the capital of peace and quiet\". It was the capital for over a thousand years, and today it's Kyoto.",
+            "Early morning at Fushimi Inari is cold and quiet, and thousands of red gates climb the mountain.",
+            "Lunch is yudofu: soft tofu warmed in water with kombu seaweed. It comes from the vegetarian cooking of Kyoto's temples.",
+            "In the afternoon, the maples are red, and people go out for momiji-gari, or \"leaf hunting\". A tip: take off your shoes when asked and talk quietly, because temples are places of prayer.",
+            "The surprise: Kyoto has more than 1,600 Buddhist temples, and seventeen sites in and around it have been on UNESCO's list since 1994. In the evening, the city goes quiet again: still the capital of peace."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"X belongs to Y\" can say that a time of day is best for a place: dawn belongs to Fushimi Inari = dawn is the time to be there.",
+              "example" : "Dawn belongs to Fushimi Inari, where thousands of red gates tunnel up the mountain and, until the crowds arrive, the only sound is footsteps.",
+              "title" : "Belong to: the time that suits a place"
+            },
+            {
+              "body" : "\"About the gentlest … there is\" softens a superlative: maybe not the gentlest in the world, but close. It's how people praise without exaggerating.",
+              "example" : "Lunch is yudofu, about the gentlest dish there is: tofu warmed in water with kombu, born in the vegetarian kitchens of Kyoto's temples.",
+              "title" : "About the + superlative: nearly the most"
+            },
+            {
+              "body" : "\"Since\" can mean \"because\" when the reason is something the listener can accept easily; here it gives the reason for the tip.",
+              "example" : "One tip: take off your shoes when asked and speak softly, since temples are places of prayer first.",
+              "title" : "Since as because"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 794, Emperor Kanmu moved Japan's capital to a new city with a hopeful name: Heian-kyō, the capital of peace and tranquillity. It stayed the imperial capital for over a thousand years; today it's Kyoto.",
+            "Dawn belongs to Fushimi Inari, where thousands of red gates tunnel up the mountain and, until the crowds arrive, the only sound is footsteps.",
+            "Lunch is yudofu, about the gentlest dish there is: tofu warmed in water with kombu, born in the vegetarian kitchens of Kyoto's temples.",
+            "By afternoon the maples blaze, and the gardens fill with people out for momiji-gari, literally \"leaf hunting\". One tip: take off your shoes when asked and speak softly, since temples are places of prayer first.",
+            "The twist is in the numbers: Kyoto has more than 1,600 Buddhist temples, and seventeen sites in and around it have been on UNESCO's list since 1994. By evening the gardens empty, and the old name fits again: the capital of peace."
+          ]
+        }
+      ],
+      "summary" : "In 794, Japan named its new capital after peace, and on a late-November day Kyoto still lives up to it: red gates at dawn, warm tofu at lunch and maples on fire in the temple gardens.",
+      "title" : "Kyoto: The Capital of Peace",
+      "translationGroup" : "kyoto"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "id" : "kyoto-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is in the present, but the imparfait (avait, c'était) looks back once to how things were in 794. \"Pendant\" + a time says how long: pendant plus de mille ans = for more than a thousand years.",
+              "example" : "Pendant plus de mille ans, c'était la capitale.",
+              "title" : "Était, avait: one look back"
+            },
+            {
+              "body" : "A friend telling a story sets the scene with \"c'est\" and the present: c'est le petit matin, l'air est froid. It puts you right there.",
+              "example" : "C'est le petit matin, et l'air est froid.",
+              "title" : "C'est + a time of day: setting the scene"
+            },
+            {
+              "body" : "To tell a friend what to do, use the tu form without \"tu\"; -er verbs drop the final -s: tu enlèves → enlève, tu parles → parle.",
+              "example" : "Dans un temple, enlève tes chaussures et parle doucement.",
+              "title" : "The tu imperative: enlève, parle"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 794, le Japon avait une nouvelle capitale, Heian-kyō. Le nom veut dire « capitale de la paix ». Pendant plus de mille ans, c'était la capitale. Et aujourd'hui, la ville s'appelle Kyoto.",
+            "C'est le petit matin, et l'air est froid. À Fushimi Inari, des milliers de portiques rouges montent dans la montagne. Le chemin est calme.",
+            "Au déjeuner, Kyoto mange du yudofu. C'est du tofu chaud, et la recette vient des temples. L'après-midi, les érables sont tout rouges. Alors les gens sortent juste pour les voir.",
+            "Dans un temple, enlève tes chaussures et parle doucement. Et voilà une surprise : Kyoto a plus de 1 600 temples ! Le soir, la capitale de la paix est de nouveau calme."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In the passé composé, an object pronoun goes before avoir, and the participle agrees with it when it comes first: la ville → il l'a appelée (feminine -e).",
+              "example" : "Il l'a appelée Heian-kyō, « capitale de la paix et du calme ».",
+              "title" : "Passé composé with an object pronoun: l'a appelée"
+            },
+            {
+              "body" : "Rester takes être in the passé composé, so the participle agrees with the subject: elle (la ville) est restée. With a length of time, French needs no \"for\": rester capitale plus de mille ans.",
+              "example" : "Elle est restée capitale plus de mille ans, et aujourd'hui, c'est Kyoto.",
+              "title" : "Rester with the passé composé: est restée"
+            },
+            {
+              "body" : "French has no short \"when asked\"; it says quand on te le demande, with on (someone), te (you) and le (it) before the verb, in that order.",
+              "example" : "Au temple, enlève tes chaussures quand on te le demande, et parle doucement.",
+              "title" : "Quand on te le demande: when asked"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 794, l'empereur Kanmu a déplacé la capitale du Japon dans une nouvelle ville. Il l'a appelée Heian-kyō, « capitale de la paix et du calme ». Elle est restée capitale plus de mille ans, et aujourd'hui, c'est Kyoto.",
+            "Tôt le matin, à Fushimi Inari, il fait froid et tout est calme. Des milliers de portiques rouges grimpent la montagne.",
+            "À midi, on mange du yudofu : du tofu tendre, chauffé dans l'eau avec des algues kombu. En fait, la recette vient des vieilles cuisines des temples.",
+            "L'après-midi, les érables sont rouges, et les gens sortent juste pour les voir. Au temple, enlève tes chaussures quand on te le demande, et parle doucement.",
+            "Voilà la surprise : Kyoto a plus de 1 600 temples bouddhistes. Le soir, la ville redevient calme : toujours la capitale de la paix."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For something that started in the past and is still true, French uses the present with depuis, where English uses the present perfect: sont classés depuis 1994 = have been listed since 1994.",
+              "example" : "La surprise ? Kyoto a plus de 1 600 temples bouddhistes, et dix-sept sites, en ville et autour, sont même classés par l'UNESCO depuis 1994.",
+              "title" : "Present + depuis: still true now"
+            },
+            {
+              "body" : "A past participle after a noun works like a short relative clause and agrees with the noun: du tofu chauffé = tofu that is warmed (masculine singular).",
+              "example" : "Au déjeuner, place au yudofu : du tofu tendre chauffé dans l'eau avec des algues kombu.",
+              "title" : "A past participle as an adjective: chauffé"
+            },
+            {
+              "body" : "\"Parce que\" introduces the reason and takes the indicative; before a vowel it becomes parce qu'. It answers the question pourquoi ?",
+              "example" : "Un conseil : enlève tes chaussures quand on te le demande et parle doucement, parce que les temples sont des lieux de prière.",
+              "title" : "Parce que: giving the reason"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 794, l'empereur Kanmu a installé une nouvelle capitale au Japon et l'a appelée Heian-kyō, « capitale de la paix et du calme ». Elle est restée capitale plus de mille ans, et aujourd'hui, c'est Kyoto.",
+            "Au petit matin, tout est froid et silencieux à Fushimi Inari, et des milliers de portiques rouges grimpent la montagne.",
+            "Au déjeuner, place au yudofu : du tofu tendre chauffé dans l'eau avec des algues kombu. En fait, il vient de la cuisine végétarienne des temples.",
+            "L'après-midi, les érables sont rouges, et les gens sortent pour le momiji-gari, la « chasse aux feuilles ». Un conseil : enlève tes chaussures quand on te le demande et parle doucement, parce que les temples sont des lieux de prière.",
+            "La surprise ? Kyoto a plus de 1 600 temples bouddhistes, et dix-sept sites, en ville et autour, sont même classés par l'UNESCO depuis 1994. Le soir, la ville redevient calme : toujours la capitale de la paix."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Ne … que\" means \"only\": que goes right before what is restricted. On n'entend que des pas = the only sound is footsteps.",
+              "example" : "Avant la foule, on n'entend que des pas.",
+              "title" : "Ne … que: only"
+            },
+            {
+              "body" : "After a superlative, a relative clause takes the subjunctive: le plat le plus doux qui soit = the gentlest dish there is. Sans doute softens the claim.",
+              "example" : "Au déjeuner, c'est yudofu, sans doute le plat le plus doux qui soit : du tofu chauffé dans l'eau avec du kombu, né dans les cuisines végétariennes des temples.",
+              "title" : "Superlative + qui soit: the subjunctive"
+            },
+            {
+              "body" : "\"Puisque\" gives a reason the listener already knows or easily accepts, unlike parce que, which brings new information.",
+              "example" : "Un conseil : enlève tes chaussures quand on te le demande et parle bas, puisque les temples sont d'abord des lieux de prière.",
+              "title" : "Puisque: a reason everyone accepts"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 794, l'empereur Kanmu a donné à la nouvelle capitale du Japon un nom plein d'espoir : Heian-kyō, la capitale de la paix et de la tranquillité. Capitale impériale pendant plus de mille ans, c'est aujourd'hui Kyoto.",
+            "À l'aube, place à Fushimi Inari : des milliers de portiques rouges forment un tunnel jusqu'au sommet de la montagne. Avant la foule, on n'entend que des pas.",
+            "Au déjeuner, c'est yudofu, sans doute le plat le plus doux qui soit : du tofu chauffé dans l'eau avec du kombu, né dans les cuisines végétariennes des temples.",
+            "L'après-midi, les érables flamboient, et les jardins se remplissent pour le momiji-gari, littéralement « chasse aux feuilles ». Un conseil : enlève tes chaussures quand on te le demande et parle bas, puisque les temples sont d'abord des lieux de prière.",
+            "Le coup de théâtre est dans les chiffres : Kyoto compte plus de 1 600 temples bouddhistes, et dix-sept sites, en ville et autour, sont classés par l'UNESCO depuis 1994. Le soir, les jardins se vident, et le vieux nom reprend son sens : la capitale de la paix."
+          ]
+        }
+      ],
+      "summary" : "En 794, le Japon a appelé sa nouvelle capitale « la capitale de la paix », et un jour de fin novembre, Kyoto mérite encore ce nom : des portiques rouges à l'aube, du tofu chaud à midi et des érables en feu dans les jardins des temples.",
+      "title" : "Kyoto : la capitale de la paix",
+      "translationGroup" : "kyoto"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "id" : "kyoto-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is in the present, but \"hatte\" and \"war\" look back once to 794. \"Über tausend Jahre lang\" says how long: for over a thousand years. \"Sie war Hauptstadt\" needs no article, like a job: it was the capital.",
+              "example" : "Über tausend Jahre lang war sie Hauptstadt.",
+              "title" : "War and hatte: one look back"
+            },
+            {
+              "body" : "A friend telling a story sets the scene with \"es ist\" and the present: es ist früh am Morgen = it's early morning. It puts you right there.",
+              "example" : "Es ist früh am Morgen, und die Luft ist kalt.",
+              "title" : "Es ist + a time of day: setting the scene"
+            },
+            {
+              "body" : "Ausziehen (to take off) splits in the imperative: the verb comes first, the particle \"aus\" goes to the end of the clause. The \"du\" drops: zieh die Schuhe aus = take your shoes off.",
+              "example" : "Zieh im Tempel die Schuhe aus, und sprich leise.",
+              "title" : "The du imperative of a separable verb: zieh … aus"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Im Jahr 794 hatte Japan eine neue Hauptstadt: Heian-kyō. Der Name bedeutet „Hauptstadt des Friedens“. Über tausend Jahre lang war sie Hauptstadt. Und heute heißt sie Kyoto.",
+            "Es ist früh am Morgen, und die Luft ist kalt. In Fushimi Inari führen Tausende rote Tore auf den Berg. Der Weg ist ganz still.",
+            "Mittags isst man in Kyoto Yudofu, heißen Tofu aus den Tempelküchen. Am Nachmittag sind die Ahornbäume rot. Also gehen viele raus, nur um sie zu sehen.",
+            "Zieh im Tempel die Schuhe aus, und sprich leise. Und eine Überraschung: Kyoto hat über 1.600 Tempel! Am Abend ist die Hauptstadt des Friedens dann wieder still."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells past events with haben + past participle at the end of the clause: er hat sie Heian-kyō genannt = he called it Heian-kyō.",
+              "example" : "Er hat sie Heian-kyō genannt: „Hauptstadt des Friedens und der Ruhe“.",
+              "title" : "Das Perfekt: hat … verlegt, hat … genannt"
+            },
+            {
+              "body" : "Hochgehen (to go up) splits in a main clause: the verb stays second, \"hoch\" goes to the end. \"Den Berg hoch\" = up the mountain.",
+              "example" : "Tausende rote Tore gehen den Berg hoch.",
+              "title" : "Separable verbs: gehen … hoch"
+            },
+            {
+              "body" : "\"Werden\" with an adjective says something changes: Kyoto wird still = Kyoto gets quiet. It's the everyday word for \"become\".",
+              "example" : "Am Abend wird Kyoto dann wieder still: immer noch die Hauptstadt des Friedens.",
+              "title" : "Werden + adjective: a change"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "794 hat Kaiser Kanmu Japans Hauptstadt in eine neue Stadt verlegt. Er hat sie Heian-kyō genannt: „Hauptstadt des Friedens und der Ruhe“. Über tausend Jahre lang war sie Hauptstadt, und heute heißt sie Kyoto.",
+            "Früh am Morgen ist es in Fushimi Inari kalt und still. Tausende rote Tore gehen den Berg hoch.",
+            "Mittags gibt's Yudofu, weichen Tofu in warmem Wasser mit Kombu, einem Seetang. Das kommt eigentlich aus den Tempelküchen.",
+            "Am Nachmittag sind die Ahornblätter rot, und viele gehen raus, nur um sie zu sehen. Zieh im Tempel die Schuhe aus, wenn man darum bittet, und sprich leise.",
+            "Die Überraschung: Kyoto hat mehr als 1.600 buddhistische Tempel. Am Abend wird Kyoto dann wieder still: immer noch die Hauptstadt des Friedens."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For something that began in the past and is still true, German uses the present with \"seit\", where English uses the present perfect: sind seit 1994 = have been since 1994.",
+              "example" : "Der Clou: Kyoto hat mehr als 1.600 buddhistische Tempel, und siebzehn Orte in und um die Stadt sind seit 1994 UNESCO-Welterbe.",
+              "title" : "Seit + the present tense"
+            },
+            {
+              "body" : "\"Der Tofu\" is the object of \"warm macht\", so the relative pronoun is accusative: den. The verb goes to the end of the relative clause.",
+              "example" : "Mittags gibt's Yudofu: weichen Tofu, den man in Wasser mit Kombu-Seetang warm macht.",
+              "title" : "The relative pronoun den: weichen Tofu, den man …"
+            },
+            {
+              "body" : "\"Nämlich\" after the verb adds the reason for what was just said, like \"you see\": Tempel sind nämlich Orte zum Beten. It never starts the sentence.",
+              "example" : "Tempel sind nämlich Orte zum Beten.",
+              "title" : "Nämlich: giving the reason afterwards"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "794 hat Kaiser Kanmu Japans Hauptstadt in eine neue Stadt verlegt und sie Heian-kyō genannt, „Hauptstadt des Friedens und der Ruhe“. Sie war über tausend Jahre lang die Hauptstadt, und heute heißt sie Kyoto.",
+            "Früh am Morgen ist es in Fushimi Inari kalt und still, und Tausende rote Tore gehen den Berg hoch.",
+            "Mittags gibt's Yudofu: weichen Tofu, den man in Wasser mit Kombu-Seetang warm macht. Das kommt aus der vegetarischen Tempelküche von Kyoto.",
+            "Am Nachmittag sind die Ahornbäume rot, und viele gehen zum Momiji-gari, oder „Blätterjagd“. Ein Tipp: Zieh die Schuhe aus, wenn man darum bittet, und sprich leise. Tempel sind nämlich Orte zum Beten.",
+            "Der Clou: Kyoto hat mehr als 1.600 buddhistische Tempel, und siebzehn Orte in und um die Stadt sind seit 1994 UNESCO-Welterbe. Am Abend wird Kyoto wieder still: immer noch die Hauptstadt des Friedens."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"X gehört Y\" can say that a time of day is best for a place: der frühe Morgen gehört Fushimi Inari = early morning is the time to be there. Gehören takes the dative.",
+              "example" : "Der frühe Morgen gehört Fushimi Inari, wo sich Tausende rote Tore, die Torii, wie ein Tunnel den Berg hinaufziehen.",
+              "title" : "Gehören + dative: the time that suits a place"
+            },
+            {
+              "body" : "\"Wohl\" softens a superlative (probably), and \"überhaupt\" stretches it to everything: wohl das sanfteste Gericht überhaupt = about the gentlest dish there is.",
+              "example" : "Mittags gibt's Yudofu, wohl das sanfteste Gericht überhaupt: Tofu, in Wasser mit Kombu gewärmt, ein Kind von Kyotos vegetarischer Tempelküche.",
+              "title" : "Wohl … überhaupt: nearly the most"
+            },
+            {
+              "body" : "German often says a place changes by itself with a reflexive verb: die Gärten füllen sich = the gardens fill up, die Gärten leeren sich = the gardens empty.",
+              "example" : "Am Abend leeren sich die Gärten, und wieder passt der alte Name: die Hauptstadt des Friedens.",
+              "title" : "Reflexive verbs for a change: sich füllen, sich leeren"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "794 hat Kaiser Kanmu Japans Hauptstadt in eine neue Stadt verlegt, mit einem Namen voller Hoffnung: Heian-kyō, die Hauptstadt des Friedens und der Ruhe. Über tausend Jahre ist sie Kaiserstadt geblieben; heute heißt sie Kyoto.",
+            "Der frühe Morgen gehört Fushimi Inari, wo sich Tausende rote Tore, die Torii, wie ein Tunnel den Berg hinaufziehen. Bis der Trubel losgeht, hört man nur Schritte.",
+            "Mittags gibt's Yudofu, wohl das sanfteste Gericht überhaupt: Tofu, in Wasser mit Kombu gewärmt, ein Kind von Kyotos vegetarischer Tempelküche.",
+            "Am Nachmittag glühen die Ahornbäume, und die Gärten füllen sich mit Leuten beim Momiji-gari, wörtlich „Blätterjagd“. Ein Tipp: Zieh die Schuhe aus, wenn man darum bittet, und sprich leise, denn Tempel sind vor allem Orte zum Beten.",
+            "Der Clou steckt in den Zahlen: Kyoto hat mehr als 1.600 buddhistische Tempel, und siebzehn Orte in und um die Stadt sind seit 1994 UNESCO-Welterbe. Am Abend leeren sich die Gärten, und wieder passt der alte Name: die Hauptstadt des Friedens."
+          ]
+        }
+      ],
+      "summary" : "794 hat Japan seine neue Hauptstadt nach dem Frieden benannt, und an einem Tag Ende November passt der Name in Kyoto immer noch: rote Tore im Morgengrauen, warmer Tofu zu Mittag und glühende Ahornbäume in den Tempelgärten.",
+      "title" : "Kyoto: Die Hauptstadt des Friedens",
+      "translationGroup" : "kyoto"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "id" : "kyoto-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is in the present, but tenía and era look back once to how things were, from 794 on. Todavía era = it was still: the imperfect describes a state, not an event.",
+              "example" : "Más de mil años después, la ciudad todavía era la capital.",
+              "title" : "Era and tenía: one look back"
+            },
+            {
+              "body" : "For the weather Spanish uses hacer: hace frío. For a thing you feel or touch it uses estar + adjective: el aire está frío.",
+              "example" : "Es muy temprano y el aire está frío.",
+              "title" : "Hace frío, está frío: two ways to say cold"
+            },
+            {
+              "body" : "The tú imperative of a reflexive verb puts the pronoun on the end: quitarse → quítate, with a written accent to keep the stress. Hablar → habla needs no pronoun.",
+              "example" : "En un templo, quítate los zapatos y habla bajito.",
+              "title" : "The tú imperative with a pronoun: quítate"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 794, Japón tenía una capital nueva, Heian-kyō. El nombre significa «capital de la paz». Más de mil años después, la ciudad todavía era la capital. Y hoy se llama Kioto.",
+            "Es muy temprano y el aire está frío. En Fushimi Inari, miles de puertas rojas suben por la montaña. Y el camino está muy tranquilo.",
+            "A mediodía, en Kioto se come yudofu, un tofu caliente. Viene de las cocinas de los templos. Por la tarde, los arces están rojos. Por eso la gente sale solo para verlos.",
+            "En un templo, quítate los zapatos y habla bajito. Y aquí viene la sorpresa: Kioto tiene más de 1.600 templos. Por la noche, la capital de la paz está tranquila otra vez."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "A finished event at a past time (en 794) takes the indefinido: llevar → llevó, llamar → llamó. With durante + a closed stretch of time, ser becomes fue.",
+              "example" : "En 794, el emperador Kanmu llevó la capital de Japón a una ciudad nueva.",
+              "title" : "The pretérito indefinido for events: llevó, llamó"
+            },
+            {
+              "body" : "Object pronouns go before a conjugated verb, the indirect one first: te (to you) + lo (it) + piden = they ask you for it. With the imperative they go on the end: quítate.",
+              "example" : "En un templo, quítate los zapatos si te lo piden, y habla bajito.",
+              "title" : "Si te lo piden: two pronouns before the verb"
+            },
+            {
+              "body" : "Volver a + infinitive means doing something again: vuelve a estar tranquila = it is quiet again. It's the everyday way to say \"again\" with a verb.",
+              "example" : "Por la noche, la ciudad vuelve a estar tranquila.",
+              "title" : "Volver a + infinitive: again"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 794, el emperador Kanmu llevó la capital de Japón a una ciudad nueva. La llamó Heian-kyō, «la capital de la paz y la tranquilidad». Fue la capital durante más de mil años, y hoy es Kioto.",
+            "A primera hora, en Fushimi Inari hace frío y todo está en silencio. Miles de puertas rojas suben por la montaña.",
+            "Para comer, toca yudofu: tofu blandito en agua caliente con alga kombu. Viene de las antiguas cocinas de los templos.",
+            "Por la tarde, los arces están rojos, y la gente sale solo para verlos. En un templo, quítate los zapatos si te lo piden, y habla bajito.",
+            "Aquí viene la sorpresa: Kioto tiene más de 1.600 templos budistas. Por la noche, la ciudad vuelve a estar tranquila. Pues sí, sigue siendo la capital de la paz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English uses the present perfect with since (have been on the list since 1994), Spanish uses the present with desde: están en la lista desde 1994.",
+              "example" : "Y diecisiete lugares de la ciudad y sus alrededores están en la lista de la UNESCO desde 1994.",
+              "title" : "Present + desde: still true since then"
+            },
+            {
+              "body" : "Cuando takes the subjunctive when it points to a moment that hasn't happened yet: cuando te lo pidan = when (and if) they ask you. Here it sits inside a tip.",
+              "example" : "Un consejo: quítate los zapatos cuando te lo pidan y habla bajito, porque los templos son lugares de oración.",
+              "title" : "Cuando + subjunctive: whenever it happens"
+            },
+            {
+              "body" : "Seguir + gerund says something continues: siguió siendo la capital = it remained the capital; sigue siendo = it is still.",
+              "example" : "Siguió siendo la capital durante más de mil años, y hoy es Kioto.",
+              "title" : "Seguir + gerund: still"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 794, el emperador Kanmu llevó la capital de Japón a una ciudad nueva. La llamó Heian-kyō, «la capital de la paz y la tranquilidad». Siguió siendo la capital durante más de mil años, y hoy es Kioto.",
+            "A primera hora, en Fushimi Inari hace frío y hay silencio, y miles de puertas rojas suben por la montaña.",
+            "Para comer, toca yudofu: tofu blandito calentado en agua con alga kombu. Viene de la cocina vegetariana de los templos de Kioto.",
+            "Por la tarde, los arces están rojos y la gente sale a hacer momiji-gari, o «caza de hojas». Un consejo: quítate los zapatos cuando te lo pidan y habla bajito, porque los templos son lugares de oración.",
+            "La sorpresa: Kioto tiene más de 1.600 templos budistas. Y diecisiete lugares de la ciudad y sus alrededores están en la lista de la UNESCO desde 1994. Por la noche, la ciudad vuelve a quedarse tranquila: sigue siendo la capital de la paz."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Ser de + a name can say who or what something belongs to, even a time of day: el amanecer es de Fushimi Inari = dawn is the time for Fushimi Inari.",
+              "example" : "El amanecer es de Fushimi Inari, donde miles de puertas rojas forman un túnel montaña arriba y, hasta que llega la gente, solo se oyen pasos.",
+              "title" : "Ser de: the time that belongs to a place"
+            },
+            {
+              "body" : "In conversation a plain que can give the reason for a tip or an order, like a lighter porque: habla bajito, que los templos son lugares de oración.",
+              "example" : "Un consejo: descálzate cuando te lo pidan y habla bajito, que los templos son ante todo lugares de oración.",
+              "title" : "Que as \"because\" in speech"
+            },
+            {
+              "body" : "El plato más delicado que hay = the gentlest dish there is; seguramente in front softens it, praise without exaggerating.",
+              "example" : "Para comer, yudofu, seguramente el plato más delicado que hay: tofu calentado en agua con kombu, nacido en la cocina vegetariana de los templos de Kioto.",
+              "title" : "El más … que hay: a softened superlative"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 794, el emperador Kanmu llevó la capital de Japón a una ciudad nueva con un nombre lleno de esperanza: Heian-kyō, la capital de la paz y la tranquilidad. Fue la capital imperial durante más de mil años; hoy se llama Kioto.",
+            "El amanecer es de Fushimi Inari, donde miles de puertas rojas forman un túnel montaña arriba y, hasta que llega la gente, solo se oyen pasos.",
+            "Para comer, yudofu, seguramente el plato más delicado que hay: tofu calentado en agua con kombu, nacido en la cocina vegetariana de los templos de Kioto.",
+            "Por la tarde, los arces arden y los jardines se llenan de gente que sale a hacer momiji-gari, literalmente «caza de hojas». Un consejo: descálzate cuando te lo pidan y habla bajito, que los templos son ante todo lugares de oración.",
+            "La sorpresa está en los números: Kioto tiene más de 1.600 templos budistas, y diecisiete lugares de la ciudad y sus alrededores están en la lista de la UNESCO desde 1994. Al anochecer, los jardines se vacían y el viejo nombre vuelve a encajar: la capital de la paz."
+          ]
+        }
+      ],
+      "summary" : "En 794, Japón llamó a su nueva capital «capital de la paz», y un día de finales de noviembre Kioto sigue haciendo honor a su nombre: puertas rojas al amanecer, tofu caliente a mediodía y arces en llamas en los jardines de los templos.",
+      "title" : "Kioto: la capital de la paz",
+      "translationGroup" : "kyoto"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "id" : "kyoto-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story stays in the present, but aveva (had) and era (was) look back once, to 794 and the thousand years after it; ancora (still) with mille anni dopo (a thousand years later) says it lasted.",
+              "example" : "E mille anni dopo la città era ancora la capitale.",
+              "title" : "Era and aveva: one look back"
+            },
+            {
+              "body" : "To say what a word or a name means, Italian uses voler dire, often shortened to vuol dire: il nome vuol dire = the name means.",
+              "example" : "Il nome vuol dire «capitale della pace».",
+              "title" : "Vuol dire: what a word means"
+            },
+            {
+              "body" : "To tell a friend what to do, Italian uses the tu imperative: parla (talk), and for your own clothes the reflexive togliti (take off), with ti joined to the end.",
+              "example" : "In un tempio togliti le scarpe e parla piano.",
+              "title" : "The tu imperative for a tip: togliti, parla"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Allora, nel 794 il Giappone aveva una nuova capitale, Heian-kyō. Il nome vuol dire «capitale della pace». E mille anni dopo la città era ancora la capitale. Oggi si chiama Kyoto.",
+            "È mattina presto, e l'aria è fredda. A Fushimi Inari migliaia di porte rosse salgono su per la montagna. Sul sentiero c'è proprio un gran silenzio.",
+            "A pranzo a Kyoto si mangia lo yudofu. È tofu caldo, e viene dalle cucine dei templi. Il pomeriggio gli aceri sono rossi. Così la gente esce solo per vederli.",
+            "In un tempio togliti le scarpe e parla piano. Ecco una sorpresa: Kyoto ha più di 1.600 templi! E la sera la capitale della pace torna tranquilla."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For events in the past, spoken Italian uses avere + past participle: ha spostato (spostare = to move). Rimanere takes essere instead: è rimasta.",
+              "example" : "Allora, nel 794 l'imperatore Kanmu ha spostato la capitale del Giappone in una città nuova.",
+              "title" : "Il passato prossimo: ha spostato"
+            },
+            {
+              "body" : "When lo or la comes before avere, it becomes l' and the participle takes its gender: l'ha chiamata, because la città is feminine.",
+              "example" : "L'ha chiamata Heian-kyō, «la capitale della pace e della tranquillità».",
+              "title" : "L'ha chiamata: the participle agrees with lo/la"
+            },
+            {
+              "body" : "Italian uses the loro form with no subject for people in general: te lo chiedono = they ask you, when you are asked. Te lo is ti + lo.",
+              "example" : "In un tempio togliti le scarpe quando te lo chiedono, e parla piano.",
+              "title" : "Quando te lo chiedono: \"they\" for anyone"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Allora, nel 794 l'imperatore Kanmu ha spostato la capitale del Giappone in una città nuova. L'ha chiamata Heian-kyō, «la capitale della pace e della tranquillità». È rimasta la capitale per più di mille anni, e oggi si chiama Kyoto.",
+            "La mattina presto, a Fushimi Inari, fa freddo e c'è un gran silenzio. Migliaia di porte rosse salgono su per la montagna.",
+            "A pranzo c'è lo yudofu: tofu morbido scaldato nell'acqua con l'alga kombu. Viene dalle antiche cucine dei templi.",
+            "Il pomeriggio le foglie degli aceri sono rosse, e la gente esce apposta per vederle. In un tempio togliti le scarpe quando te lo chiedono, e parla piano.",
+            "Ecco la sorpresa: Kyoto ha più di 1.600 templi buddisti. La sera la città torna tranquilla: è ancora la capitale della pace."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English says \"have been … since\", Italian uses the present + da: sono patrimonio UNESCO dal 1994 = they have been UNESCO heritage since 1994, and still are.",
+              "example" : "La sorpresa? Kyoto ha più di 1.600 templi buddisti, e diciassette siti in città e nei dintorni sono patrimonio UNESCO dal 1994.",
+              "title" : "Present + da: still true since then"
+            },
+            {
+              "body" : "A past participle after a noun works like a short relative clause and agrees with it: tofu morbido scaldato = soft tofu that is warmed.",
+              "example" : "A pranzo c'è lo yudofu: tofu morbido scaldato nell'acqua con l'alga kombu.",
+              "title" : "A past participle as an adjective: scaldato"
+            },
+            {
+              "body" : "Italian often says a dish, a word or an idea nasce (is born) somewhere: nasce dalla cucina dei templi = it comes from temple cooking. Proprio stresses it: right there.",
+              "example" : "Nasce proprio dalla cucina vegetariana dei templi di Kyoto.",
+              "title" : "Nascere da: where something comes from"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 794 l'imperatore Kanmu ha spostato la capitale del Giappone in una città nuova e l'ha chiamata Heian-kyō, «la capitale della pace e della tranquillità». È rimasta la capitale per più di mille anni, e oggi si chiama Kyoto.",
+            "La mattina presto a Fushimi Inari fa freddo e c'è silenzio, e migliaia di porte rosse, i torii, salgono su per la montagna.",
+            "A pranzo c'è lo yudofu: tofu morbido scaldato nell'acqua con l'alga kombu. Nasce proprio dalla cucina vegetariana dei templi di Kyoto.",
+            "Nel pomeriggio gli aceri sono rossi e la gente esce per il momiji-gari, o «caccia alle foglie». Un consiglio: togliti le scarpe quando te lo chiedono e parla piano, perché i templi sono luoghi di preghiera.",
+            "La sorpresa? Kyoto ha più di 1.600 templi buddisti, e diciassette siti in città e nei dintorni sono patrimonio UNESCO dal 1994. La sera la città torna tranquilla: è ancora la capitale della pace."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After a superlative, a che clause takes the subjunctive: il piatto più delicato che ci sia = the gentlest dish there is. Forse softens the claim.",
+              "example" : "A pranzo c'è lo yudofu, forse il piatto più delicato che ci sia: tofu scaldato nell'acqua con l'alga kombu, nato nelle cucine vegetariane dei templi.",
+              "title" : "Superlative + che + subjunctive: che ci sia"
+            },
+            {
+              "body" : "Finché non + verb means \"until\": finché non arriva la folla = until the crowds arrive. The non adds no negative meaning here.",
+              "example" : "L'alba è per Fushimi Inari, dove migliaia di porte rosse fanno da galleria su per la montagna e, finché non arriva la folla, si sentono solo i passi.",
+              "title" : "Finché non: until"
+            },
+            {
+              "body" : "Visto che (seeing that) gives a reason the listener can easily accept; it is the everyday spoken partner of poiché.",
+              "example" : "Un consiglio: togliti le scarpe quando te lo chiedono e parla sottovoce, visto che i templi sono prima di tutto luoghi di preghiera.",
+              "title" : "Visto che: since, as a reason"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 794 l'imperatore Kanmu ha spostato la capitale del Giappone in una città nuova dal nome pieno di speranza: Heian-kyō, la capitale della pace e della tranquillità. È rimasta la capitale imperiale per più di mille anni; oggi è Kyoto.",
+            "L'alba è per Fushimi Inari, dove migliaia di porte rosse fanno da galleria su per la montagna e, finché non arriva la folla, si sentono solo i passi.",
+            "A pranzo c'è lo yudofu, forse il piatto più delicato che ci sia: tofu scaldato nell'acqua con l'alga kombu, nato nelle cucine vegetariane dei templi.",
+            "Nel pomeriggio gli aceri si accendono di rosso e i giardini si riempiono di gente per il momiji-gari, letteralmente «caccia alle foglie rosse». Un consiglio: togliti le scarpe quando te lo chiedono e parla sottovoce, visto che i templi sono prima di tutto luoghi di preghiera.",
+            "Il colpo di scena? Kyoto ha più di 1.600 templi buddisti, e diciassette siti in città e nei dintorni sono patrimonio UNESCO dal 1994. La sera i giardini si svuotano, e il vecchio nome calza di nuovo a pennello: la capitale della pace."
+          ]
+        }
+      ],
+      "summary" : "Nel 794 il Giappone ha dato alla sua nuova capitale un nome che parla di pace, e in una giornata di fine novembre Kyoto lo merita ancora: porte rosse all'alba, tofu caldo a pranzo e aceri in fiamme nei giardini dei templi.",
+      "title" : "Kyoto: la capitale della pace",
+      "translationGroup" : "kyoto"
+    },
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "id" : "empadronamiento",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "To ask a yes-or-no question with most verbs, English puts do in front: Do you have your passport? The answer can be short: Yes, here they are.",
+              "example" : "Do you have your passport and your rental contract?",
+              "title" : "Questions with do: Do you have …?"
+            },
+            {
+              "body" : "Here's (here is) goes with one thing, here they are with more than one. Both are what you say when you hand something over.",
+              "example" : "Yes, here they are.",
+              "title" : "Here's and here they are"
+            },
+            {
+              "body" : "How much is it? is the everyday way to ask a price. The answer can be a number, or Nothing, it's free.",
+              "example" : "How much is it?",
+              "title" : "How much is it? for prices"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Clerk: Good morning. Please sit down. How can I help? 😊",
+            "Otto: Good morning. I'm new in Madrid, and I'm here to register on the padrón.",
+            "Clerk: OK. Do you have your passport and your rental contract?",
+            "Otto: Yes, here they are. And the padrón form, with my name and address.",
+            "Clerk: Perfect. One moment, please.",
+            "Otto: How much is it? 🤔",
+            "Clerk: Nothing, it's free. Here's your volante, with your address. Now you're a resident of Madrid.",
+            "Otto: Great, thanks! Bye! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"I'd like\" (I would like) is the normal polite request at a counter. \"I want to register\" sounds blunt.",
+              "example" : "I'd like to register on the padrón.",
+              "title" : "I'd like: the polite way to ask"
+            },
+            {
+              "body" : "For a finished action English uses the simple past: I moved, I got, I brought. Regular verbs add -ed or -d (move → moved); got and brought are irregular.",
+              "example" : "I moved to Madrid this month.",
+              "title" : "Simple past: I moved this month"
+            },
+            {
+              "body" : "Have to + verb says something is necessary. In a question: Do I have to…? The answer: No, you only need…",
+              "example" : "Do I have to bring a letter from the landlord too?",
+              "title" : "Have to for a duty"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Clerk: Good morning, have a seat. Do you have an appointment? 😊",
+            "Otto: Yes. I'd like to register on the padrón. I moved to Madrid this month.",
+            "Clerk: OK. Your passport, the padrón form and your rental contract, please.",
+            "Otto: Here you are. Do I have to bring a letter from the landlord too? 🤔",
+            "Clerk: No, the contract is in your name, so that's enough. You only need the landlord's letter if there's no contract.",
+            "Otto: Thank goodness! And how much does it cost?",
+            "Clerk: Nothing, it's free. You're on the padrón now: from today you're a resident of Madrid. Here's your volante.",
+            "Otto: A resident of Madrid, how nice! Thanks a lot, have a good day. 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Do you know if … wraps a question politely. After if the word order is that of a normal sentence: if I need, not if do I need.",
+              "example" : "Do you know if I need a letter from the landlord?",
+              "title" : "Indirect questions: Do you know if …?"
+            },
+            {
+              "body" : "To + verb says why you do something: to register you = in order to register you. In a question about purpose, English puts for at the end: What will I need it for?",
+              "example" : "To register you, I'll need your passport, the padrón form and your rental contract.",
+              "title" : "To + verb for a purpose"
+            },
+            {
+              "body" : "Will + verb talks about the future, here what Otto is going to need the padrón for.",
+              "example" : "What will I need it for?",
+              "title" : "Will for what comes later"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Clerk: Good morning, have a seat. Have you got an appointment? 😊",
+            "Otto: Yes. I moved to Madrid this month, and I'm here for the padrón.",
+            "Clerk: To register you, I'll need your passport, the padrón form and your rental contract.",
+            "Otto: Here's everything. Do you know if I need a letter from the landlord? 🤔",
+            "Clerk: No, the contract is in your name, so that's enough.",
+            "Otto: Thank goodness! And how much does it cost?",
+            "Clerk: Nothing, it's free. You're on the padrón now, so from today you're a resident of Madrid. Here's your volante. 🙂",
+            "Otto: A resident? That sounds lovely! What will I need it for?",
+            "Clerk: For your health card and lots of other things. If anyone asks for the certificate, we can do that here too.",
+            "Otto: Perfect, I'll remember that. Thanks, and have a nice day! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Adding I take it? to a statement turns a guess into a polite question, the way a clerk checks what you've come for.",
+              "example" : "Here for the padrón, I take it?",
+              "title" : "Tag phrases: I take it?"
+            },
+            {
+              "body" : "Officials like nouns and -ing forms (proving use of the dwelling, on record); Otto repeats the stiff phrase and answers in plain words: you mean my rental contract?",
+              "example" : "Proving use of the dwelling… you mean my rental contract?",
+              "title" : "Office style and plain answers"
+            },
+            {
+              "body" : "For a real possibility English puts the present after if and will in the other half: if anyone insists, we'll print it.",
+              "example" : "The volante is just for information; if anyone insists on the certificate, we'll print it here.",
+              "title" : "If + present, will + verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Clerk: Good morning, have a seat. Here for the padrón, I take it? 😊",
+            "Otto: That's right. I moved here this month, and I hear everyone living in Spain has to register.",
+            "Clerk: Quite right, it's the law. I'll need the form, a valid ID and something proving use of the dwelling.",
+            "Otto: Proving use of the dwelling… you mean my rental contract? Here. Does the landlord need to sign anything? 🤔",
+            "Clerk: No need, it's in your name.",
+            "Otto: Thank goodness! What do I owe you?",
+            "Clerk: Nothing, it's free. All done: you're now on record as a resident of Madrid, and here's your volante. 🙂",
+            "Otto: On record, so I officially live here now? What will I need it for?",
+            "Clerk: For your health card and lots more. The volante is just for information; if anyone insists on the certificate, we'll print it here.",
+            "Otto: Got it: the volante for almost everything, the certificate if they ask. Have a nice day! 😄"
+          ]
+        }
+      ],
+      "summary" : "At a Madrid town-hall office, Otto registers on the padrón with her rental contract and walks out, for free, as a resident of the city.",
+      "title" : "The Padrón",
+      "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "id" : "empadronamiento-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "An employee speaks to you with vous, and you answer with vous: Vous avez votre passeport ? With a friend you'd say tu as ton passeport ?",
+              "example" : "Vous avez votre passeport et votre contrat de location ?",
+              "title" : "Vous at the counter"
+            },
+            {
+              "body" : "Venir + infinitive says why you've come: je viens m'inscrire = I've come to register. The reflexive pronoun stays in front of the infinitive.",
+              "example" : "Je suis nouvelle à Madrid, alors je viens m'inscrire au padrón.",
+              "title" : "Je viens + infinitive: I'm here to"
+            },
+            {
+              "body" : "Otto is a woman, so the words that describe her are feminine: nouveau becomes nouvelle, résident becomes résidente.",
+              "example" : "Maintenant, vous êtes résidente de Madrid.",
+              "title" : "Nouvelle, résidente: feminine endings"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Employée : Bonjour. Asseyez-vous. Qu'est-ce qu'il vous faut ? 😊",
+            "Otto : Bonjour. Je suis nouvelle à Madrid, alors je viens m'inscrire au padrón.",
+            "Employée : Très bien. Vous avez votre passeport et votre contrat de location ?",
+            "Otto : Oui, les voilà. Et le formulaire, avec mon nom et mon adresse.",
+            "Employée : Parfait. Un moment, s'il vous plaît.",
+            "Otto : C'est combien ? 🤔",
+            "Employée : Rien, vous ne payez rien. Voici votre volante, avec votre adresse. Maintenant, vous êtes résidente de Madrid.",
+            "Otto : Super, merci beaucoup ! Au revoir ! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Je voudrais (I would like) is the normal polite request at a counter. Je veux sounds blunt.",
+              "example" : "Je voudrais m'inscrire au padrón.",
+              "title" : "Je voudrais: the polite way to ask"
+            },
+            {
+              "body" : "Reflexive verbs build the passé composé with être, and the participle agrees with the speaker: Otto says installée, with -e.",
+              "example" : "Je me suis installée à Madrid ce mois-ci.",
+              "title" : "Passé composé with être: je me suis installée"
+            },
+            {
+              "body" : "Devoir + infinitive says you have to: est-ce que je dois apporter… ? = do I have to bring…?",
+              "example" : "Est-ce que je dois aussi apporter un papier du propriétaire ?",
+              "title" : "Devoir + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Employée : Bonjour, asseyez-vous. Vous avez rendez-vous ? 😊",
+            "Otto : Oui. Je voudrais m'inscrire au padrón. Je me suis installée à Madrid ce mois-ci.",
+            "Employée : Très bien. Votre passeport, le formulaire du padrón et votre contrat de location, s'il vous plaît.",
+            "Otto : Voilà. Est-ce que je dois aussi apporter un papier du propriétaire ? 🤔",
+            "Employée : Non, le contrat est à votre nom, alors ça suffit. Le papier du propriétaire, c'est seulement si vous n'avez pas de contrat.",
+            "Otto : Ouf ! Et l'inscription, elle coûte combien ?",
+            "Employée : Rien, c'est gratuit. Vous êtes inscrite au padrón : à partir d'aujourd'hui, vous êtes résidente de Madrid. Voici votre volante.",
+            "Otto : Résidente de Madrid, super ! Merci beaucoup, bonne journée. 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Vous savez si … ? (do you know if …?) wraps a question politely; after si the word order stays normal.",
+              "example" : "Vous savez si j'ai aussi besoin d'un papier du propriétaire ?",
+              "title" : "Indirect questions: Vous savez si … ?"
+            },
+            {
+              "body" : "Pour + infinitive gives the purpose: pour vous inscrire = to register you. Servir à asks what something is useful for: ça va me servir à quoi ?",
+              "example" : "Pour vous inscrire, il me faut votre passeport, le formulaire du padrón et votre contrat de location.",
+              "title" : "Pour + infinitive: what for"
+            },
+            {
+              "body" : "Avoir besoin de + noun says you need something: j'ai besoin d'un papier. The clerk says the same with il me faut: il me faut votre passeport.",
+              "example" : "Vous savez si j'ai aussi besoin d'un papier du propriétaire ?",
+              "title" : "Avoir besoin de: to need"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Employée : Bonjour, asseyez-vous. Vous avez rendez-vous ? 😊",
+            "Otto : Oui. Je me suis installée à Madrid ce mois-ci, et je viens m'inscrire au padrón.",
+            "Employée : Très bien. Pour vous inscrire, il me faut votre passeport, le formulaire du padrón et votre contrat de location.",
+            "Otto : Tout est là. Vous savez si j'ai aussi besoin d'un papier du propriétaire ? 🤔",
+            "Employée : Non, le contrat est à votre nom, donc ça suffit.",
+            "Otto : Ouf ! Et ça coûte combien ?",
+            "Employée : Rien, c'est gratuit. Vous êtes inscrite au padrón, donc à partir d'aujourd'hui, vous êtes résidente de Madrid. Voici votre volante. 🙂",
+            "Otto : Résidente ? Ça sonne bien ! Et ça va me servir à quoi ?",
+            "Employée : Pour la carte de santé et plein d'autres démarches. Si on vous demande le certificat, on vous le donne ici aussi.",
+            "Otto : Parfait, je le note. Merci beaucoup, et bonne journée ! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After il faut que French uses the subjunctive: il faut que le propriétaire signe = the owner needs to sign. In speech the question is just a rising voice.",
+              "example" : "Il faut que le propriétaire signe quelque chose ?",
+              "title" : "Il faut que + subjunctive"
+            },
+            {
+              "body" : "Tous ceux qui (all those who) is the spoken way to say everyone who: tous ceux qui vivent en Espagne. The verb is plural.",
+              "example" : "Je me suis installée ce mois-ci et, d'après ce qu'on m'a dit, tous ceux qui vivent en Espagne doivent s'inscrire.",
+              "title" : "Tous ceux qui: everyone who"
+            },
+            {
+              "body" : "Officials say justificatif d'occupation du logement or vous figurez comme…; autrement dit (in other words) is how Otto brings it back to everyday French.",
+              "example" : "Je figure comme résidente… autrement dit, j'habite officiellement ici.",
+              "title" : "Office style and plain words: autrement dit"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Employée : Bonjour, asseyez-vous. Vous venez pour le padrón, je suppose ? 😊",
+            "Otto : C'est ça. Je me suis installée ce mois-ci et, d'après ce qu'on m'a dit, tous ceux qui vivent en Espagne doivent s'inscrire.",
+            "Employée : Exactement, c'est la loi. Il me faut le formulaire, une pièce d'identité valide et un justificatif d'occupation du logement.",
+            "Otto : Un justificatif d'occupation… vous voulez dire mon contrat de location ? Le voici. Il faut que le propriétaire signe quelque chose ? 🤔",
+            "Employée : Pas la peine, le contrat est à votre nom.",
+            "Otto : Ouf ! Je vous dois combien ?",
+            "Employée : Rien, c'est gratuit. Voilà : désormais, vous figurez comme résidente de Madrid, et voici votre volante. 🙂",
+            "Otto : Je figure comme résidente… autrement dit, j'habite officiellement ici. Ça va me servir à quoi ?",
+            "Employée : Pour la carte de santé et plein d'autres démarches. Le volante, c'est juste pour information ; si on exige le certificat, on vous l'imprime ici.",
+            "Otto : Compris : le volante pour presque tout, le certificat si on me le demande. Bonne journée ! 😄"
+          ]
+        }
+      ],
+      "summary" : "Dans un bureau de la mairie de Madrid, Otto s'inscrit au padrón avec son contrat de location et en ressort, sans payer un centime, résidente de la ville.",
+      "title" : "Le padrón",
+      "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "id" : "empadronamiento-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "At an office people say Sie (with a capital S) to each other, with the verb in the plural form: Haben Sie …? With a friend you'd say Hast du …?",
+              "example" : "Haben Sie Ihren Pass und den Mietvertrag?",
+              "title" : "Sie at the counter"
+            },
+            {
+              "body" : "After will (want), the main verb goes to the very end of the clause: ich will mich im Padrón anmelden.",
+              "example" : "Ich bin neu in Madrid und will mich im Padrón anmelden.",
+              "title" : "Modal verb + infinitive at the end"
+            },
+            {
+              "body" : "German adds -in for a woman: der Einwohner, die Einwohnerin (resident). No article is needed after sein here.",
+              "example" : "Jetzt sind Sie Einwohnerin von Madrid.",
+              "title" : "Einwohnerin: the feminine -in"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Sachbearbeiterin: Guten Morgen. Bitte nehmen Sie Platz. Wie kann ich helfen? 😊",
+            "Otto: Guten Morgen. Ich bin neu in Madrid und will mich im Padrón anmelden.",
+            "Sachbearbeiterin: Sehr gut. Haben Sie Ihren Pass und den Mietvertrag?",
+            "Otto: Ja, hier. Und das Formular, mit meinem Namen und meiner Adresse.",
+            "Sachbearbeiterin: Perfekt. Einen Moment, bitte.",
+            "Otto: Was kostet das? 🤔",
+            "Sachbearbeiterin: Nichts, das ist kostenlos. Hier ist Ihr Volante, mit Ihrer Adresse. Jetzt sind Sie Einwohnerin von Madrid.",
+            "Otto: Super, danke! Auf Wiedersehen! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Ich möchte (I would like) is the normal polite request at a counter. Ich will sounds blunt.",
+              "example" : "Ich möchte mich im Padrón anmelden.",
+              "title" : "Ich möchte: the polite way to ask"
+            },
+            {
+              "body" : "Verbs of moving from one place to another build the Perfekt with sein: ich bin nach Madrid gezogen = I moved to Madrid.",
+              "example" : "Ich bin diesen Monat nach Madrid gezogen.",
+              "title" : "Perfekt with sein: ich bin gezogen"
+            },
+            {
+              "body" : "Müssen says something is necessary; the second verb goes to the end: Muss ich … mitbringen?",
+              "example" : "Muss ich auch ein Papier vom Vermieter mitbringen?",
+              "title" : "Müssen + infinitive at the end"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Sachbearbeiterin: Guten Morgen, nehmen Sie Platz. Haben Sie einen Termin? 😊",
+            "Otto: Ja. Ich möchte mich im Padrón anmelden. Ich bin diesen Monat nach Madrid gezogen.",
+            "Sachbearbeiterin: Sehr gut. Ihren Pass, das Formular für den Padrón und Ihren Mietvertrag, bitte.",
+            "Otto: Hier, bitte. Muss ich auch ein Papier vom Vermieter mitbringen? 🤔",
+            "Sachbearbeiterin: Nein, der Mietvertrag läuft auf Ihren Namen, also reicht das. Das Papier vom Vermieter braucht man nur ohne Vertrag.",
+            "Otto: Zum Glück! Und was kostet die Anmeldung?",
+            "Sachbearbeiterin: Nichts, das ist kostenlos. Jetzt stehen Sie im Padrón: Ab heute sind Sie Einwohnerin von Madrid. Hier ist Ihr Volante.",
+            "Otto: Einwohnerin von Madrid, wie schön! Vielen Dank, schönen Tag noch. 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In a clause with ob (whether) or wenn (if) the conjugated verb goes to the end: ob ich … brauche; wenn jemand … verlangt.",
+              "example" : "Wissen Sie, ob ich auch ein Papier vom Eigentümer brauche?",
+              "title" : "Verb last after ob and wenn"
+            },
+            {
+              "body" : "Also (so) counts as the first part of the clause, so the verb comes right after it: also sind Sie …, also reicht das.",
+              "example" : "Jetzt stehen Sie im Padrón, also sind Sie ab heute Einwohnerin von Madrid.",
+              "title" : "Also: verb straight after it"
+            },
+            {
+              "body" : "Wofür (wo + für) asks what something is for. The answer starts with für: Für die Gesundheitskarte.",
+              "example" : "Und wofür brauche ich das?",
+              "title" : "Wofür: asking what for"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Sachbearbeiterin: Guten Morgen, nehmen Sie Platz. Haben Sie einen Termin? 😊",
+            "Otto: Ja. Ich bin diesen Monat nach Madrid gezogen und möchte mich im Padrón anmelden.",
+            "Sachbearbeiterin: Sehr gut. Für die Anmeldung brauche ich Ihren Pass, das Formular und Ihren Mietvertrag.",
+            "Otto: Hier ist alles. Wissen Sie, ob ich auch ein Papier vom Eigentümer brauche? 🤔",
+            "Sachbearbeiterin: Nein, der Vertrag läuft auf Ihren Namen, also reicht das.",
+            "Otto: Zum Glück! Und was kostet das?",
+            "Sachbearbeiterin: Nichts, das ist kostenlos. Jetzt stehen Sie im Padrón, also sind Sie ab heute Einwohnerin von Madrid. Hier ist Ihr Volante. 🙂",
+            "Otto: Einwohnerin? Das klingt schön! Und wofür brauche ich das?",
+            "Sachbearbeiterin: Für die Gesundheitskarte und für viele andere Behördengänge. Wenn jemand eine Bescheinigung verlangt, bekommen Sie die auch hier.",
+            "Otto: Perfekt, das merke ich mir. Vielen Dank und einen schönen Tag noch! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Bräuchte (would need) softens a demand at the counter; hätte, könnte and würde work the same way.",
+              "example" : "Ich bräuchte das Formular, ein gültiges Ausweisdokument und einen Nachweis über die Nutzung der Wohnung.",
+              "title" : "Konjunktiv II for polite requests: bräuchte"
+            },
+            {
+              "body" : "Sein + participle describes the result, a state: Sie sind eingetragen = you're registered (on record).",
+              "example" : "So, jetzt sind Sie als Einwohnerin von Madrid eingetragen, und hier ist Ihr Volante.",
+              "title" : "Zustandspassiv: Sie sind eingetragen"
+            },
+            {
+              "body" : "Officials say Nachweis über die Nutzung der Wohnung or gebührenfrei; Otto repeats the phrase and turns it into plain German: Sie meinen den Mietvertrag?",
+              "example" : "Einen Nachweis über die Nutzung … Sie meinen den Mietvertrag?",
+              "title" : "Office style and plain words"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Sachbearbeiterin: Guten Morgen, nehmen Sie Platz. Sie kommen zur Anmeldung, oder? 😊",
+            "Otto: Genau. Ich bin diesen Monat hergezogen, und soweit ich weiß, muss sich jeder anmelden, der in Spanien wohnt.",
+            "Sachbearbeiterin: Richtig, so steht es im Gesetz. Ich bräuchte das Formular, ein gültiges Ausweisdokument und einen Nachweis über die Nutzung der Wohnung.",
+            "Otto: Einen Nachweis über die Nutzung … Sie meinen den Mietvertrag? Hier. Muss der Eigentümer etwas unterschreiben? 🤔",
+            "Sachbearbeiterin: Nicht nötig, der Vertrag läuft ja auf Ihren Namen.",
+            "Otto: Zum Glück! Und was bin ich Ihnen schuldig?",
+            "Sachbearbeiterin: Nichts, das ist gebührenfrei. So, jetzt sind Sie als Einwohnerin von Madrid eingetragen, und hier ist Ihr Volante. 🙂",
+            "Otto: Als Einwohnerin eingetragen … also wohne ich offiziell hier. Und wofür brauche ich das?",
+            "Sachbearbeiterin: Für die Gesundheitskarte und jede Menge Behördengänge. Der Volante dient nur zur Information; wer eine Bescheinigung braucht, bekommt sie gleich hier.",
+            "Otto: Verstanden: der Volante für fast alles, die Bescheinigung, wenn man sie verlangt. Schönen Tag noch! 😄"
+          ]
+        }
+      ],
+      "summary" : "In einem Bürgerbüro der Stadt Madrid lässt sich Otto mit ihrem Mietvertrag in den Padrón eintragen und ist danach, ganz ohne Gebühr, Einwohnerin der Stadt.",
+      "title" : "Der Padrón",
+      "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "id" : "empadronamiento-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "A clerk speaks to you with usted, which takes the él/ella form of the verb: ¿tiene? = do you have? With a friend you'd say ¿tienes?",
+              "example" : "¿Tiene su pasaporte y el contrato de alquiler?",
+              "title" : "Usted at the counter: ¿Tiene…?"
+            },
+            {
+              "body" : "Empadronarse means to register yourself on the padrón. After quiero the infinitive keeps the pronoun on its end: quiero empadronarme = I want to register (myself).",
+              "example" : "Soy nueva en Madrid y quiero empadronarme.",
+              "title" : "Empadronarme: the pronoun glued on"
+            },
+            {
+              "body" : "Aquí tiene (literally \"here you have\") is what you say when you hand something to someone you call usted. Aquí están = here they are.",
+              "example" : "Aquí tiene su volante, con su dirección.",
+              "title" : "Aquí tiene: here you are"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Funcionaria: Buenos días. Siéntese, por favor. ¿Qué necesita? 😊",
+            "Otto: Buenos días. Soy nueva en Madrid y quiero empadronarme.",
+            "Funcionaria: Muy bien. ¿Tiene su pasaporte y el contrato de alquiler?",
+            "Otto: Sí, aquí están. Y la hoja del padrón, con mi nombre y mi dirección.",
+            "Funcionaria: Perfecto. Un momento, por favor.",
+            "Otto: ¿Cuánto cuesta? 🤔",
+            "Funcionaria: Nada, es gratis. Aquí tiene su volante, con su dirección. Ya es usted vecina de Madrid.",
+            "Otto: ¡Qué bien! Muchas gracias. ¡Adiós! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In Spain, for something that happened in a time that isn't over yet (este mes, hoy), people use haber + participle: me he mudado = I've moved, I moved.",
+              "example" : "Me he mudado a Madrid este mes.",
+              "title" : "Pretérito perfecto: me he mudado este mes"
+            },
+            {
+              "body" : "At a counter Spaniards ask with quería (imperfect of querer): quería empadronarme = I'd like to register. Quiero is correct but sounds blunt.",
+              "example" : "Quería empadronarme.",
+              "title" : "Quería: the polite \"I'd like\""
+            },
+            {
+              "body" : "Tener que + infinitive says you have to do something: ¿tengo que traer…? = do I have to bring…? Hace falta says what is needed, with no person.",
+              "example" : "¿Tengo que traer también un papel del propietario?",
+              "title" : "Tener que + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Funcionaria: Buenos días, siéntese. ¿Tiene cita previa? 😊",
+            "Otto: Sí. Quería empadronarme. Me he mudado a Madrid este mes.",
+            "Funcionaria: Muy bien. ¿Me da su pasaporte, la hoja padronal y el contrato de alquiler?",
+            "Otto: Aquí tiene. ¿Tengo que traer también un papel del propietario? 🤔",
+            "Funcionaria: No, el contrato está a su nombre, así que con eso basta. El papel del propietario solo hace falta si no hay contrato.",
+            "Otto: ¡Menos mal! ¿Y cuánto cuesta el empadronamiento?",
+            "Funcionaria: Nada, es gratis. Ya está en el padrón: desde hoy es usted vecina de Madrid. Aquí tiene su volante.",
+            "Otto: ¡Vecina de Madrid, qué bien! Muchas gracias, que tenga buen día. 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Para + infinitive gives the purpose: para empadronarla = to register you. ¿Para qué? asks what something is for.",
+              "example" : "Para empadronarla necesito su pasaporte, la hoja padronal y el contrato de alquiler.",
+              "title" : "Para + infinitive: what something is for"
+            },
+            {
+              "body" : "The pronoun on the end of the infinitive shows who: Otto says vengo a empadronarme (me), the clerk says para empadronarla (you, a woman, with usted).",
+              "example" : "Sí. Me he mudado a Madrid este mes y vengo a empadronarme.",
+              "title" : "Empadronarme, empadronarla: who gets registered"
+            },
+            {
+              "body" : "To ask politely, wrap the question in ¿sabe si…? (do you know if…?). After si the word order stays as in a normal sentence.",
+              "example" : "¿Sabe si hace falta también un papel del propietario?",
+              "title" : "Indirect questions: ¿Sabe si…?"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Funcionaria: Buenos días, siéntese. ¿Tiene cita previa? 😊",
+            "Otto: Sí. Me he mudado a Madrid este mes y vengo a empadronarme.",
+            "Funcionaria: Muy bien. Para empadronarla necesito su pasaporte, la hoja padronal y el contrato de alquiler.",
+            "Otto: Aquí lo tiene todo. ¿Sabe si hace falta también un papel del propietario? 🤔",
+            "Funcionaria: No, el contrato está a su nombre, así que con eso basta.",
+            "Otto: ¡Menos mal! ¿Y cuánto cuesta?",
+            "Funcionaria: Nada, es gratis. Ya está en el padrón, así que desde hoy es usted vecina de Madrid. Aquí tiene su volante. 🙂",
+            "Otto: ¿Vecina? ¡Qué bien suena! ¿Y para qué me va a servir?",
+            "Funcionaria: Para la tarjeta sanitaria y para muchos otros trámites. Si en alguno le piden el certificado, también se lo damos aquí.",
+            "Otto: Perfecto, me lo apunto. ¡Muchas gracias, que tenga buen día! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After hace falta que (it's necessary that) Spanish uses the subjunctive: ¿hace falta que firme? = does he need to sign? Without a person, hace falta + infinitive.",
+              "example" : "¿Hace falta que firme algo el propietario?",
+              "title" : "Hace falta que + subjunctive"
+            },
+            {
+              "body" : "When the thing isn't known yet, the relative clause takes the subjunctive: algo que acredite = something (anything) that proves. Office Spanish loves acreditar; Otto turns it into plain words.",
+              "example" : "Necesito la hoja padronal, un documento de identidad en vigor y algo que acredite el uso de la vivienda.",
+              "title" : "Algo que acredite: the subjunctive for \"any such thing\""
+            },
+            {
+              "body" : "O sea (that is, so) is how Spaniards turn officialese into everyday speech: consto como vecina, o sea, I'm officially from here now.",
+              "example" : "Consto como vecina… o sea, que ya soy oficialmente de aquí.",
+              "title" : "O sea: saying it in plain words"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Funcionaria: Buenos días, tome asiento. Viene por el padrón, ¿verdad? 😊",
+            "Otto: Eso es. Me he mudado este mes y, por lo que me han contado, todo el que vive en España tiene que empadronarse.",
+            "Funcionaria: Así es, lo dice la ley. Necesito la hoja padronal, un documento de identidad en vigor y algo que acredite el uso de la vivienda.",
+            "Otto: ¿Algo que acredite el uso…? ¿Se refiere al contrato de alquiler? Aquí lo tiene. ¿Hace falta que firme algo el propietario? 🤔",
+            "Funcionaria: No hace falta, el contrato está a su nombre.",
+            "Otto: ¡Menos mal! ¿Y qué le debo?",
+            "Funcionaria: Nada, es un trámite gratuito. Ya está: a partir de ahora consta usted como vecina de Madrid, y aquí tiene su volante. 🙂",
+            "Otto: Consto como vecina… o sea, que ya soy oficialmente de aquí. ¿Y para qué me sirve?",
+            "Funcionaria: Para la tarjeta sanitaria y un montón de trámites más. El volante es solo informativo; si le exigen el certificado, se lo imprimimos aquí mismo.",
+            "Otto: Entendido: el volante para casi todo, el certificado si me lo piden. ¡Que tenga buen día! 😄"
+          ]
+        }
+      ],
+      "summary" : "En una oficina del Ayuntamiento de Madrid, Otto se empadrona gratis con su contrato de alquiler y sale convertida en vecina.",
+      "title" : "El padrón",
+      "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "id" : "empadronamiento-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "An employee speaks to you with Lei, which takes the third-person verb: Ha il passaporto? = do you have your passport? With a friend you'd say hai il passaporto?",
+              "example" : "Ha il passaporto e il contratto d'affitto?",
+              "title" : "Lei at the counter"
+            },
+            {
+              "body" : "With Lei the imperative takes the -i ending and the pronoun goes in front: si accomodi = have a seat. With a friend: accomodati.",
+              "example" : "Si accomodi, prego.",
+              "title" : "Si accomodi: the formal imperative"
+            },
+            {
+              "body" : "Ecco (here is, here are) takes a pronoun on its end: eccoli = here they are (masculine plural, the passport and the contract).",
+              "example" : "Sì, eccoli.",
+              "title" : "Eccoli: ecco + pronoun"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Impiegata: Buongiorno. Si accomodi, prego. Di che cosa ha bisogno? 😊",
+            "Otto: Buongiorno. Sono nuova a Madrid e vengo per iscrivermi al padrón.",
+            "Impiegata: Molto bene. Ha il passaporto e il contratto d'affitto?",
+            "Otto: Sì, eccoli. E il modulo del padrón, con nome e indirizzo.",
+            "Impiegata: Perfetto. Un momento, per favore.",
+            "Otto: Quanto costa? 🤔",
+            "Impiegata: Niente, è gratis. Ecco il suo volante, con il suo indirizzo. Adesso Lei è residente a Madrid.",
+            "Otto: Che bello! Grazie mille. Arrivederci! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Vorrei (I would like) is the normal polite request at a counter. Voglio sounds blunt.",
+              "example" : "Vorrei iscrivermi al padrón.",
+              "title" : "Vorrei: the polite way to ask"
+            },
+            {
+              "body" : "Reflexive verbs build the passato prossimo with essere, and the participle agrees with the speaker: Otto says trasferita, with -a.",
+              "example" : "Mi sono trasferita a Madrid questo mese.",
+              "title" : "Passato prossimo with essere: mi sono trasferita"
+            },
+            {
+              "body" : "Dovere + infinitive says you have to: devo portare…? = do I have to bring…?",
+              "example" : "Devo portare anche un foglio del proprietario?",
+              "title" : "Dovere + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Impiegata: Buongiorno, si accomodi. Ha un appuntamento? 😊",
+            "Otto: Sì. Vorrei iscrivermi al padrón. Mi sono trasferita a Madrid questo mese.",
+            "Impiegata: Molto bene. Mi dà il passaporto, il modulo del padrón e il contratto d'affitto?",
+            "Otto: Ecco a Lei. Devo portare anche un foglio del proprietario? 🤔",
+            "Impiegata: No, il contratto è a suo nome, quindi basta quello. Il foglio del proprietario serve solo senza contratto.",
+            "Otto: Meno male! E quanto costa l'iscrizione?",
+            "Impiegata: Niente, è gratis. Adesso è iscritta al padrón: da oggi Lei è residente a Madrid. Ecco il suo volante.",
+            "Otto: Residente a Madrid, che bello! Grazie mille, buona giornata. 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Sa se …? (do you know if …?) wraps a question politely; after se the word order stays normal.",
+              "example" : "Sa se mi serve anche un foglio del proprietario?",
+              "title" : "Indirect questions: Sa se …?"
+            },
+            {
+              "body" : "Mi serve, mi servono (I need) work like piacere: the thing needed is the subject, so the verb is plural with plural things.",
+              "example" : "Per iscriverla mi servono il passaporto, il modulo del padrón e il contratto d'affitto.",
+              "title" : "Servire: what you need"
+            },
+            {
+              "body" : "When le (to you, with Lei) meets lo, they join into glielo: glielo diamo = we give it to you.",
+              "example" : "Se qualcuno le chiede il certificato, glielo diamo qui.",
+              "title" : "Glielo: two pronouns together"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Impiegata: Buongiorno, si accomodi. Ha un appuntamento? 😊",
+            "Otto: Sì. Mi sono trasferita a Madrid questo mese e vengo per iscrivermi al padrón.",
+            "Impiegata: Molto bene. Per iscriverla mi servono il passaporto, il modulo del padrón e il contratto d'affitto.",
+            "Otto: Ecco qui tutto. Sa se mi serve anche un foglio del proprietario? 🤔",
+            "Impiegata: No, il contratto è a suo nome, quindi basta così.",
+            "Otto: Meno male! E quanto costa?",
+            "Impiegata: Niente, è gratis. Adesso è iscritta al padrón, quindi da oggi è residente a Madrid. Ecco il suo volante. 🙂",
+            "Otto: Residente? Che bello! E a che cosa mi servirà?",
+            "Impiegata: Per la tessera sanitaria e per tante altre pratiche. Se qualcuno le chiede il certificato, glielo diamo qui.",
+            "Otto: Perfetto, me lo segno. Grazie mille, e buona giornata! 😄"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "After serve che, bisogna che and other expressions of need Italian uses the congiuntivo: serve che firmi? = does he need to sign?",
+              "example" : "Serve che il proprietario firmi qualcosa?",
+              "title" : "Serve che + congiuntivo"
+            },
+            {
+              "body" : "Chiunque (whoever) and qualcosa che (something that, still unknown) take the congiuntivo: chiunque viva, qualcosa che attesti.",
+              "example" : "Mi servono il modulo, un documento d'identità valido e qualcosa che attesti l'uso dell'abitazione.",
+              "title" : "Chiunque and qualcosa che + congiuntivo"
+            },
+            {
+              "body" : "Cioè (that is, I mean) turns office Italian into everyday speech: risulto residente, cioè, I officially live here now.",
+              "example" : "Risulto residente… cioè, adesso abito qui ufficialmente.",
+              "title" : "Cioè: saying it in plain words"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Impiegata: Buongiorno, si accomodi. È qui per il padrón, immagino? 😊",
+            "Otto: Esatto. Mi sono trasferita questo mese e, da quello che mi hanno detto, chiunque viva in Spagna deve iscriversi.",
+            "Impiegata: Proprio così, lo dice la legge. Mi servono il modulo, un documento d'identità valido e qualcosa che attesti l'uso dell'abitazione.",
+            "Otto: Qualcosa che attesti l'uso… intende il contratto d'affitto? Eccolo. Serve che il proprietario firmi qualcosa? 🤔",
+            "Impiegata: Non serve, il contratto è a suo nome.",
+            "Otto: Meno male! E quanto le devo?",
+            "Impiegata: Niente, la pratica è gratuita. Ecco fatto: da adesso Lei risulta residente a Madrid, e questo è il suo volante. 🙂",
+            "Otto: Risulto residente… cioè, adesso abito qui ufficialmente. E a che cosa mi servirà?",
+            "Impiegata: Per la tessera sanitaria e per un sacco di altre pratiche. Il volante ha solo valore informativo; se qualcuno pretende il certificato, glielo stampiamo qui.",
+            "Otto: Capito: il volante per quasi tutto, il certificato se me lo chiedono. Grazie, buona giornata! 😄"
+          ]
+        }
+      ],
+      "summary" : "In un ufficio del Comune di Madrid, Otto si iscrive al padrón con il suo contratto d'affitto e ne esce residente in città, senza spendere niente.",
+      "title" : "Il padrón",
+      "translationGroup" : "empadronamiento"
     }
   ]
 }

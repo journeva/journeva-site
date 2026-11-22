@@ -1,10 +1,34 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 41,
-  "generatedAt" : "2026-11-20",
+  "contentVersion" : 42,
+  "generatedAt" : "2026-11-23",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "conversations",
+      "dateAdded" : "2026-11-23",
+      "titles" : {
+        "english" : "The Padrón",
+        "french" : "Le padrón",
+        "german" : "Der Padrón",
+        "italian" : "Il padrón",
+        "spanish" : "El padrón"
+      },
+      "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "travel",
+      "dateAdded" : "2026-11-23",
+      "titles" : {
+        "english" : "Kyoto: The Capital of Peace",
+        "french" : "Kyoto : la capitale de la paix",
+        "german" : "Kyoto: Die Hauptstadt des Friedens",
+        "italian" : "Kyoto: la capitale della pace",
+        "spanish" : "Kioto: la capital de la paz"
+      },
+      "translationGroup" : "kyoto"
+    },
     {
       "category" : "recipes",
       "dateAdded" : "2026-11-20",
@@ -28,20 +52,8 @@
         "spanish" : "El color de tus pensamientos"
       },
       "translationGroup" : "dyed-by-your-thoughts"
-    },
-    {
-      "category" : "health",
-      "dateAdded" : "2026-11-18",
-      "titles" : {
-        "english" : "Two for the Night Feed",
-        "french" : "À deux pour le repas de nuit",
-        "german" : "Zu zweit durch die Nacht",
-        "italian" : "In due per la poppata di notte",
-        "spanish" : "Dos para la toma de noche"
-      },
-      "translationGroup" : "two-for-the-night-feed"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "edf9176c79c2bd776ce4d8ca8f8eb00ab990d216f43308e9c1d2293acbcdd886"
+  "sha256" : "ebbb81e21ad767938e563be690e0d70eb909c804c35eabac3fa9deffc37986f5"
 }
