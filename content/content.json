@@ -1,5 +1,5 @@
 {
-  "contentVersion" : 42,
+  "contentVersion" : 43,
   "generatedAt" : "2026-11-23",
   "glossary" : {
     "english" : [
@@ -23712,7 +23712,8 @@
       },
       {
         "forms" : [
-          "title"
+          "title",
+          "titles"
         ],
         "note" : "\"To win the title\" = to become champion. A title is also the name of a book.",
         "pos" : "noun",
@@ -26215,7 +26216,8 @@
       },
       {
         "forms" : [
-          "quick"
+          "quick",
+          "quickest"
         ],
         "note" : "\"Quick\" is the adjective, \"quickly\" the adverb: \"your stomach's quick\".",
         "pos" : "adjective",
@@ -26729,7 +26731,9 @@
       },
       {
         "forms" : [
-          "swap"
+          "swap",
+          "swapped",
+          "swapping"
         ],
         "note" : "\"Swap A for B\" = give up A and take B instead.",
         "pos" : "verb",
@@ -32845,6 +32849,135 @@
         "note" : "Melting fat goes from white to translucent.",
         "pos" : "adjective",
         "translation" : "letting light through, but not fully clear"
+      },
+      {
+        "forms" : [
+          "0.639"
+        ],
+        "note" : "Said \"nought point six three nine\" (or \"zero point…\"): after the point, English reads each digit on its own.",
+        "pos" : "number",
+        "translation" : "nought point six three nine"
+      },
+      {
+        "forms" : [
+          "17th"
+        ],
+        "note" : "The ordinal of 17 written with figures; places in a race take ordinals: start 17th, finish third.",
+        "pos" : "number",
+        "translation" : "seventeenth"
+      },
+      {
+        "forms" : [
+          "21"
+        ],
+        "note" : "In a date, \"21 November\" is said \"the twenty-first of November\".",
+        "pos" : "number",
+        "translation" : "twenty-one; the twenty-first"
+      },
+      {
+        "forms" : [
+          "35"
+        ],
+        "note" : "Here the number of times the lead changed in the race.",
+        "pos" : "number",
+        "translation" : "thirty-five"
+      },
+      {
+        "forms" : [
+          "37"
+        ],
+        "note" : "Here Verstappen's lead over Lewis Hamilton in the drivers' standings, in points.",
+        "pos" : "number",
+        "translation" : "thirty-seven"
+      },
+      {
+        "forms" : [
+          "abu"
+        ],
+        "note" : "The first half of Abu Dhabi, the capital of the United Arab Emirates, where the last race of the season is held.",
+        "pos" : "noun",
+        "translation" : "Abu (in Abu Dhabi)"
+      },
+      {
+        "forms" : [
+          "dhabi"
+        ],
+        "note" : "The second half of Abu Dhabi, the capital of the United Arab Emirates; the \"h\" is silent: \"DAH-bee\".",
+        "pos" : "noun",
+        "translation" : "Dhabi (in Abu Dhabi)"
+      },
+      {
+        "forms" : [
+          "chequered"
+        ],
+        "note" : "British spelling (American \"checkered\"); the chequered flag is waved when the winner crosses the line, so \"take the chequered flag\" = win the race.",
+        "pos" : "adjective",
+        "translation" : "with a pattern of black and white squares"
+      },
+      {
+        "forms" : [
+          "crashed"
+        ],
+        "note" : "The past of \"crash\", a regular verb: crash → crashed.",
+        "pos" : "verb",
+        "translation" : "had an accident; hit something hard"
+      },
+      {
+        "forms" : [
+          "fight"
+        ],
+        "note" : "In sport, \"the fight for second\" = the close contest for second place.",
+        "pos" : "noun",
+        "translation" : "a struggle to win something"
+      },
+      {
+        "forms" : [
+          "finale"
+        ],
+        "note" : "Said \"fi-NAH-lee\"; the season finale is the last race of the year.",
+        "pos" : "noun",
+        "translation" : "the last event of a series"
+      },
+      {
+        "forms" : [
+          "five-place"
+        ],
+        "note" : "A number + noun joined by a hyphen works as an adjective before a noun, and the noun stays singular: a five-place penalty, a ten-minute walk.",
+        "pos" : "adjective",
+        "translation" : "of five places"
+      },
+      {
+        "forms" : [
+          "flag"
+        ],
+        "note" : "In motor racing, flags give signals to the drivers; the chequered flag ends the race.",
+        "pos" : "noun",
+        "translation" : "a piece of cloth with a pattern, on a pole"
+      },
+      {
+        "forms" : [
+          "qatar",
+          "qatar's"
+        ],
+        "note" : "A country on the Persian Gulf, host of the next Grand Prix; \"Qatar's next\" = \"Qatar is next\".",
+        "pos" : "noun",
+        "translation" : "Qatar"
+      },
+      {
+        "forms" : [
+          "qualifying"
+        ],
+        "note" : "In Formula 1, qualifying is held before the race; the fastest driver usually starts from pole.",
+        "pos" : "noun",
+        "translation" : "the session that decides the starting order"
+      },
+      {
+        "forms" : [
+          "slipstream"
+        ],
+        "note" : "A car close behind another goes faster in its slipstream, which makes passing easier.",
+        "pos" : "noun",
+        "translation" : "the pocket of air behind a fast car"
       }
     ],
     "french" : [
@@ -53765,7 +53898,8 @@
       },
       {
         "forms" : [
-          "titre"
+          "titre",
+          "titres"
         ],
         "gender" : "masculine",
         "note" : "As in \"à ce titre.\"",
@@ -61612,7 +61746,8 @@
         "forms" : [
           "gagne",
           "gagné",
-          "gagnée"
+          "gagnée",
+          "gagnées"
         ],
         "note" : "Gagner: « la musique gagne » = the music wins; « il a gagné » = he won; also means to earn.",
         "pos" : "verb",
@@ -65216,7 +65351,8 @@
       },
       {
         "forms" : [
-          "champion"
+          "champion",
+          "champions"
         ],
         "gender" : "masculine",
         "note" : "The winner of a championship: « être champion » = to be champion, with no article after être.",
@@ -77408,6 +77544,142 @@
         "note" : "« Le gras devient transparent » = the fat turns clear.",
         "pos" : "adjective",
         "translation" : "clear, see-through"
+      },
+      {
+        "forms" : [
+          "0,639"
+        ],
+        "note" : "Said « zéro virgule six cent trente-neuf »: French writes decimals with a comma, and « seconde » stays singular under 2.",
+        "pos" : "number",
+        "translation" : "0.639"
+      },
+      {
+        "forms" : [
+          "17e"
+        ],
+        "note" : "Short for « dix-septième »: French writes ordinals as the number plus a raised « e », and « partir 17e » takes no article.",
+        "pos" : "number",
+        "translation" : "17th"
+      },
+      {
+        "forms" : [
+          "21"
+        ],
+        "note" : "« Vingt et un »: in dates French uses the plain number, « le 21 novembre », except « le 1er » for the first.",
+        "pos" : "number",
+        "translation" : "21, twenty-one"
+      },
+      {
+        "forms" : [
+          "35"
+        ],
+        "note" : "« Trente-cinq »; « 35 fois » = 35 times, with « fois » for how many times something happens.",
+        "pos" : "number",
+        "translation" : "35, thirty-five"
+      },
+      {
+        "forms" : [
+          "37"
+        ],
+        "note" : "« Trente-sept »; « 37 points d'avance » = a 37-point lead.",
+        "pos" : "number",
+        "translation" : "37, thirty-seven"
+      },
+      {
+        "forms" : [
+          "abou"
+        ],
+        "note" : "French press often spells the city « Abou Dhabi », with « ou » for the English « u » sound; it hosts the last race of the season.",
+        "pos" : "noun",
+        "translation" : "Abu (in Abou Dhabi)"
+      },
+      {
+        "forms" : [
+          "dhabi"
+        ],
+        "note" : "Second half of « Abou Dhabi », the capital of the United Arab Emirates; like most cities it takes no article: « à Abou Dhabi ».",
+        "pos" : "noun",
+        "translation" : "Dhabi (in Abou Dhabi)"
+      },
+      {
+        "forms" : [
+          "qatar"
+        ],
+        "gender" : "masculine",
+        "note" : "A country on the Persian Gulf; French puts the masculine article before it: « le Qatar », « au Qatar ».",
+        "pos" : "noun",
+        "translation" : "Qatar"
+      },
+      {
+        "forms" : [
+          "accident"
+        ],
+        "gender" : "masculine",
+        "note" : "« Avoir un accident » = to have a crash; French uses « avoir », not « faire ».",
+        "pos" : "noun",
+        "translation" : "accident, crash"
+      },
+      {
+        "forms" : [
+          "drapeau"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le drapeau à damier » = the chequered flag that ends a race; the plural is « drapeaux ».",
+        "pos" : "noun",
+        "translation" : "flag"
+      },
+      {
+        "forms" : [
+          "damier"
+        ],
+        "gender" : "masculine",
+        "note" : "A pattern of black and white squares, as on a draughts board; « à damier » = chequered.",
+        "pos" : "noun",
+        "translation" : "checkerboard"
+      },
+      {
+        "forms" : [
+          "l'aspiration"
+        ],
+        "gender" : "feminine",
+        "note" : "In racing, the pocket of still air behind a car that pulls the next car along; « dans l'aspiration » = in the slipstream.",
+        "pos" : "noun",
+        "translation" : "the slipstream"
+      },
+      {
+        "forms" : [
+          "puissance"
+        ],
+        "gender" : "feminine",
+        "note" : "« Perdre de la puissance » = to lose power; « de la » because it is an amount, not the whole thing.",
+        "pos" : "noun",
+        "translation" : "power"
+      },
+      {
+        "forms" : [
+          "qualifications"
+        ],
+        "gender" : "feminine",
+        "note" : "In Formula 1 the timed session that sets the starting order; French uses the plural: « en qualifications ».",
+        "pos" : "noun",
+        "translation" : "qualifying"
+      },
+      {
+        "forms" : [
+          "s'échanger",
+          "échangé"
+        ],
+        "note" : "Reciprocal verb, so it needs a plural subject: « ils se sont échangé la tête » = they swapped the lead; the participle doesn't agree because « la tête » comes after it.",
+        "pos" : "verb",
+        "translation" : "to swap (with each other); swapped"
+      },
+      {
+        "forms" : [
+          "tapé"
+        ],
+        "note" : "Past participle of « taper »; « taper le mur » is the everyday way to say a car hit the wall.",
+        "pos" : "verb",
+        "translation" : "hit"
       }
     ],
     "german" : [
@@ -92816,7 +93088,8 @@
           "schnell",
           "schnelle",
           "schneller",
-          "schnellsten"
+          "schnellsten",
+          "schnellster"
         ],
         "note" : "Schneller is the comparative.",
         "pos" : "adjective",
@@ -124069,6 +124342,149 @@
         "note" : "Schwein (pig) + Backe (cheek): „die Schweinebacke“.",
         "pos" : "noun",
         "translation" : "pork cheek"
+      },
+      {
+        "forms" : [
+          "0,639"
+        ],
+        "note" : "German writes a decimal comma and says „null Komma sechs drei neun“: „0,639 Sekunden“ = 0.639 seconds, Norris's gap to Verstappen.",
+        "pos" : "number",
+        "translation" : "0.639"
+      },
+      {
+        "forms" : [
+          "35-mal"
+        ],
+        "note" : "A number + „-mal“ says how many times: „35-mal“ is said „fünfunddreißigmal“, here how often the lead changed.",
+        "pos" : "adverb",
+        "translation" : "35 times"
+      },
+      {
+        "forms" : [
+          "abu"
+        ],
+        "note" : "First half of Abu Dhabi, the capital of the United Arab Emirates, where the Formula 1 season ends.",
+        "pos" : "noun",
+        "translation" : "Abu (Dhabi)"
+      },
+      {
+        "forms" : [
+          "dhabi"
+        ],
+        "note" : "Second half of Abu Dhabi, the city of the last race of the Formula 1 season.",
+        "pos" : "noun",
+        "translation" : "(Abu) Dhabi"
+      },
+      {
+        "forms" : [
+          "katar"
+        ],
+        "gender" : "neuter",
+        "note" : "German spelling of Qatar, the country on the Persian Gulf with the next Formula 1 race; used without an article: „nach Katar“.",
+        "pos" : "noun",
+        "translation" : "Qatar"
+      },
+      {
+        "forms" : [
+          "samstagabend"
+        ],
+        "gender" : "masculine",
+        "note" : "Compound of Samstag + Abend; „am Samstagabend“ = on Saturday night, the Las Vegas race being run late in the evening.",
+        "pos" : "noun",
+        "translation" : "Saturday evening, Saturday night"
+      },
+      {
+        "forms" : [
+          "qualifying"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Qualifying: German F1 talk keeps the English word for the session that decides the starting order; „im Qualifying“ = in qualifying.",
+        "pos" : "noun",
+        "translation" : "qualifying"
+      },
+      {
+        "forms" : [
+          "siebzehnter"
+        ],
+        "note" : "Ordinal of siebzehn used for a person, with a capital: „als Siebzehnter starten“ = to start 17th; in figures „auf Platz 17“.",
+        "pos" : "adjective",
+        "translation" : "seventeenth"
+      },
+      {
+        "forms" : [
+          "gekracht"
+        ],
+        "note" : "Partizip II of krachen (to crash, to bang), with sein when something moves into something: „in die Mauer gekracht“ = crashed into the wall.",
+        "pos" : "verb",
+        "translation" : "crashed"
+      },
+      {
+        "forms" : [
+          "mauer"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Mauer: a wall built of stone or concrete; on a street circuit like Las Vegas the track is lined with walls, so „in die Mauer krachen“ = to hit the barrier.",
+        "pos" : "noun",
+        "translation" : "wall"
+      },
+      {
+        "forms" : [
+          "durchs"
+        ],
+        "note" : "Short for „durch das“, the way people say it: „durchs Feld“ = through the field (of cars).",
+        "pos" : "preposition",
+        "translation" : "through the"
+      },
+      {
+        "forms" : [
+          "zurückgeworfen"
+        ],
+        "note" : "Partizip II of zurückwerfen, separable (zurück + werfen): „auf Rang sechs zurückgeworfen“ = pushed back to sixth place.",
+        "pos" : "verb",
+        "translation" : "thrown back, set back"
+      },
+      {
+        "forms" : [
+          "gutgemacht"
+        ],
+        "note" : "Partizip II of gutmachen, separable (gut + machen): „Plätze gutmachen“ = to gain places in a race.",
+        "pos" : "verb",
+        "translation" : "made up, gained"
+      },
+      {
+        "forms" : [
+          "doppelpodium"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Doppelpodium: two drivers of one team in the top three; a word of German F1 talk.",
+        "pos" : "noun",
+        "translation" : "double podium"
+      },
+      {
+        "forms" : [
+          "saisonfinale"
+        ],
+        "gender" : "neuter",
+        "note" : "Compound of Saison + Finale: the last race of the season, here in Abu Dhabi.",
+        "pos" : "noun",
+        "translation" : "season finale"
+      },
+      {
+        "forms" : [
+          "windschatten"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Windschatten: the calm air right behind a car (literally wind shadow), which helps the car behind catch up; „im Windschatten“ = in the slipstream.",
+        "pos" : "noun",
+        "translation" : "slipstream"
+      },
+      {
+        "forms" : [
+          "getauscht"
+        ],
+        "note" : "Past participle of tauschen (to swap): „die Führung tauschen“ = to swap the lead, said when two drivers keep passing each other.",
+        "pos" : "verb",
+        "translation" : "swapped, exchanged"
       }
     ],
     "italian" : [
@@ -125425,7 +125841,8 @@
       },
       {
         "forms" : [
-          "barriera"
+          "barriera",
+          "barriere"
         ],
         "gender" : "feminine",
         "note" : "Guides plastic into the collection basket.",
@@ -136839,6 +137256,7 @@
           "bruciare",
           "bruciargli",
           "bruciata",
+          "bruciato",
           "bruciavano",
           "bruciò"
         ],
@@ -140780,6 +141198,7 @@
       },
       {
         "forms" : [
+          "terza",
           "terzo"
         ],
         "note" : "As in 'un terzo,' a third (fraction).",
@@ -151512,6 +151931,7 @@
       },
       {
         "forms" : [
+          "titoli",
           "titolo"
         ],
         "gender" : "masculine",
@@ -151813,7 +152233,8 @@
       },
       {
         "forms" : [
-          "guadagnare"
+          "guadagnare",
+          "guadagnate"
         ],
         "note" : "To get money for your work: lavorava per guadagnare soldi = he worked to earn money; a regular -are verb.",
         "pos" : "verb",
@@ -153867,6 +154288,7 @@
       },
       {
         "forms" : [
+          "colpi",
           "colpo"
         ],
         "gender" : "masculine",
@@ -163733,6 +164155,167 @@
         "note" : "Plural of tuorlo: 1 uovo e 2 tuorli.",
         "pos" : "noun",
         "translation" : "egg yolks"
+      },
+      {
+        "forms" : [
+          "0,639"
+        ],
+        "note" : "Read \"zero virgola seicentotrentanove\": Italian writes decimals with a comma; Norris finished 0,639 secondi behind Verstappen.",
+        "pos" : "number",
+        "translation" : "0.639"
+      },
+      {
+        "forms" : [
+          "17º"
+        ],
+        "note" : "Read \"diciassettesimo\": the little º marks a masculine ordinal, so partire 17º = to start 17th, and dal 17º posto = from 17th place.",
+        "pos" : "number",
+        "translation" : "17th"
+      },
+      {
+        "forms" : [
+          "21"
+        ],
+        "note" : "Read \"ventuno\": dates use plain numbers in Italian, so sabato 21 novembre = Saturday 21 November.",
+        "pos" : "number",
+        "translation" : "21"
+      },
+      {
+        "forms" : [
+          "35"
+        ],
+        "note" : "Read \"trentacinque\": Verstappen and Russell swapped the lead 35 volte, 35 times.",
+        "pos" : "number",
+        "translation" : "35"
+      },
+      {
+        "forms" : [
+          "37"
+        ],
+        "note" : "Read \"trentasette\": Verstappen is 37 punti ahead of Lewis Hamilton in the drivers' standings.",
+        "pos" : "number",
+        "translation" : "37"
+      },
+      {
+        "forms" : [
+          "abu"
+        ],
+        "note" : "First half of Abu Dhabi, the capital of the United Arab Emirates, where the last race of the Formula 1 season is held; Italian uses no article: ad Abu Dhabi.",
+        "pos" : "noun",
+        "translation" : "Abu (in Abu Dhabi)"
+      },
+      {
+        "forms" : [
+          "dhabi"
+        ],
+        "note" : "Second half of Abu Dhabi, the city of the season's last Formula 1 race; the dh is said like a d.",
+        "pos" : "noun",
+        "translation" : "Dhabi (in Abu Dhabi)"
+      },
+      {
+        "forms" : [
+          "qatar"
+        ],
+        "gender" : "masculine",
+        "note" : "The country in the Gulf that hosts the next Formula 1 race; Italian gives it the article: il Qatar, tocca al Qatar.",
+        "pos" : "noun",
+        "translation" : "Qatar"
+      },
+      {
+        "forms" : [
+          "bandiera"
+        ],
+        "gender" : "feminine",
+        "note" : "La bandiera a scacchi is the chequered flag waved when the winner crosses the line.",
+        "pos" : "noun",
+        "translation" : "flag"
+      },
+      {
+        "forms" : [
+          "scacchi"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of scacco; a scacchi means chequered, like a chessboard, so la bandiera a scacchi = the chequered flag.",
+        "pos" : "noun",
+        "translation" : "chess; checks"
+      },
+      {
+        "forms" : [
+          "scia"
+        ],
+        "gender" : "feminine",
+        "note" : "The pocket of still air behind a car, which lets the car following catch up and pass; a colpi di scia = slipstreaming each other.",
+        "pos" : "noun",
+        "translation" : "slipstream; wake"
+      },
+      {
+        "forms" : [
+          "regalato"
+        ],
+        "note" : "Past participle of regalare, to give as a present; ha regalato la pole a Verstappen = it handed Verstappen pole, with avere in the passato prossimo.",
+        "pos" : "verb",
+        "translation" : "gave (as a gift)"
+      },
+      {
+        "forms" : [
+          "scambiarsi"
+        ],
+        "note" : "Reflexive infinitive of scambiare, to exchange: scambiarsi il comando = to swap the lead; the si is attached to the end of the infinitive.",
+        "pos" : "verb",
+        "translation" : "to swap (with each other)"
+      },
+      {
+        "forms" : [
+          "incidente"
+        ],
+        "gender" : "masculine",
+        "note" : "Avere un incidente = to crash, to have an accident; a false friend of English incident.",
+        "pos" : "noun",
+        "translation" : "accident, crash"
+      },
+      {
+        "forms" : [
+          "lotta"
+        ],
+        "gender" : "feminine",
+        "note" : "La lotta per il secondo posto = the fight for second place; in sport it means a close contest, not a real fight.",
+        "pos" : "noun",
+        "translation" : "fight, battle"
+      },
+      {
+        "forms" : [
+          "potenza"
+        ],
+        "gender" : "feminine",
+        "note" : "The power of an engine; perdere potenza = to lose power.",
+        "pos" : "noun",
+        "translation" : "power"
+      },
+      {
+        "forms" : [
+          "qualifiche"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of qualifica; in Formula 1 le qualifiche is the session that decides the starting order, and Italian uses the plural where English says qualifying.",
+        "pos" : "noun",
+        "translation" : "qualifying"
+      },
+      {
+        "forms" : [
+          "classifica"
+        ],
+        "gender" : "feminine",
+        "note" : "La classifica is the ranking of drivers or teams by points; in classifica Verstappen è secondo = Verstappen is second in the standings.",
+        "pos" : "noun",
+        "translation" : "standings, table"
+      },
+      {
+        "forms" : [
+          "continuo"
+        ],
+        "note" : "Di continuo = all the time, again and again: si sono passati il comando di continuo = they kept swapping the lead.",
+        "pos" : "adjective",
+        "translation" : "continuous"
       }
     ],
     "spanish" : [
@@ -163781,6 +164364,7 @@
       },
       {
         "forms" : [
+          "abriendo",
           "abrir",
           "abrió"
         ],
@@ -165925,7 +166509,8 @@
       },
       {
         "forms" : [
-          "heredado"
+          "heredado",
+          "heredó"
         ],
         "note" : "Past participle of heredar.",
         "pos" : "verb",
@@ -190287,6 +190872,7 @@
         "forms" : [
           "adelanta",
           "adelantado",
+          "adelantan",
           "adelantarlo",
           "adelantaron",
           "adelantó"
@@ -192709,6 +193295,7 @@
       },
       {
         "forms" : [
+          "campeones",
           "campeón"
         ],
         "gender" : "masculine",
@@ -192831,6 +193418,7 @@
       },
       {
         "forms" : [
+          "nocturna",
           "nocturno"
         ],
         "note" : "From noche: \"un Gran Premio nocturno\" is a Grand Prix run at night; the feminine is nocturna.",
@@ -192926,7 +193514,8 @@
       },
       {
         "forms" : [
-          "título"
+          "título",
+          "títulos"
         ],
         "gender" : "masculine",
         "note" : "In sport, the title of champion: \"ganar el título\" = to win the championship; it is also the title of a book or a film, and a university degree: \"un título completo\".",
@@ -204575,6 +205164,175 @@
         "note" : "« En el monte » = up in the hills, out in the wild woods; not only one mountain.",
         "pos" : "noun",
         "translation" : "the hills, the mountains (countryside)"
+      },
+      {
+        "forms" : [
+          "0,639"
+        ],
+        "note" : "Read \"cero coma seiscientos treinta y nueve\"; Spanish writes decimals with a comma, not a point.",
+        "pos" : "number",
+        "translation" : "0.639"
+      },
+      {
+        "forms" : [
+          "35"
+        ],
+        "note" : "Read \"treinta y cinco\"; from 31 to 99 Spanish joins tens and units with \"y\".",
+        "pos" : "number",
+        "translation" : "thirty-five"
+      },
+      {
+        "forms" : [
+          "37"
+        ],
+        "note" : "Read \"treinta y siete\"; \"le saca 37 puntos\" = he is 37 points ahead of him.",
+        "pos" : "number",
+        "translation" : "thirty-seven"
+      },
+      {
+        "forms" : [
+          "abu"
+        ],
+        "note" : "First half of \"Abu Dabi\", the capital of the United Arab Emirates, where the last Formula 1 race of the season is held.",
+        "pos" : "noun",
+        "translation" : "Abu (in \"Abu Dabi\")"
+      },
+      {
+        "forms" : [
+          "dabi"
+        ],
+        "note" : "Spanish spelling recommended for Abu Dhabi; many sports papers also write \"Abu Dhabi\".",
+        "pos" : "noun",
+        "translation" : "Dhabi (in \"Abu Dabi\")"
+      },
+      {
+        "forms" : [
+          "catar"
+        ],
+        "note" : "The Spanish spelling of Qatar, the country on the Persian Gulf that hosts the next Formula 1 race; you will also see \"Qatar\" in the press.",
+        "pos" : "noun",
+        "translation" : "Qatar"
+      },
+      {
+        "forms" : [
+          "accidente"
+        ],
+        "gender" : "masculine",
+        "note" : "\"Tener un accidente\" = to have an accident, to crash; the everyday way to say it in a race.",
+        "pos" : "noun",
+        "translation" : "accident, crash"
+      },
+      {
+        "forms" : [
+          "bandera"
+        ],
+        "gender" : "feminine",
+        "note" : "\"La bandera a cuadros\" = the chequered flag that ends a race; \"ver la bandera a cuadros\" = to cross the line.",
+        "pos" : "noun",
+        "translation" : "flag"
+      },
+      {
+        "forms" : [
+          "cuadros"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of \"cuadro\"; \"a cuadros\" = chequered or checked, as in \"una camisa a cuadros\".",
+        "pos" : "noun",
+        "translation" : "squares, checks"
+      },
+      {
+        "forms" : [
+          "chocó"
+        ],
+        "note" : "Pretérito indefinido of \"chocar\"; \"chocar contra el muro\" = to hit the wall.",
+        "pos" : "verb",
+        "translation" : "crashed, hit"
+      },
+      {
+        "forms" : [
+          "clasificación"
+        ],
+        "gender" : "feminine",
+        "note" : "In Formula 1 \"la clasificación\" is qualifying, the session that sets the starting order; \"la clasificación de pilotos\" is the drivers' standings.",
+        "pos" : "noun",
+        "translation" : "qualifying; standings"
+      },
+      {
+        "forms" : [
+          "colaron"
+        ],
+        "note" : "Pretérito indefinido of \"colarse\"; \"se le colaron los dos McLaren\" = both McLarens slipped past him, the \"le\" says who lost out.",
+        "pos" : "verb",
+        "translation" : "(they) slipped past"
+      },
+      {
+        "forms" : [
+          "decimoséptimo"
+        ],
+        "note" : "Ordinal of 17 (\"decimoséptimo\", 17.º); in speech people often say \"el puesto 17\" instead.",
+        "pos" : "adjective",
+        "translation" : "seventeenth"
+      },
+      {
+        "forms" : [
+          "intercambiaron",
+          "intercambiarse"
+        ],
+        "note" : "\"Intercambiarse el liderato\" = to swap the lead; \"intercambiaron\" is the pretérito indefinido, ellos form.",
+        "pos" : "verb",
+        "translation" : "to swap (with each other), swapped"
+      },
+      {
+        "forms" : [
+          "lucha"
+        ],
+        "gender" : "feminine",
+        "note" : "\"La lucha por ser segundo\" = the fight for second place; a sports word as common as \"pelea\".",
+        "pos" : "noun",
+        "translation" : "fight, battle"
+      },
+      {
+        "forms" : [
+          "muro"
+        ],
+        "gender" : "masculine",
+        "note" : "An outside wall or barrier; \"chocar contra el muro\" is how Spanish describes a crash into the barrier.",
+        "pos" : "noun",
+        "translation" : "wall"
+      },
+      {
+        "forms" : [
+          "potencia"
+        ],
+        "gender" : "feminine",
+        "note" : "Engine power; \"perder potencia\" = to lose power.",
+        "pos" : "noun",
+        "translation" : "power"
+      },
+      {
+        "forms" : [
+          "rebufo"
+        ],
+        "gender" : "masculine",
+        "note" : "The pocket of air behind a car; \"ir al rebufo\" = to follow in someone's slipstream, \"aprovechar el rebufo\" = to use it to pass more easily.",
+        "pos" : "noun",
+        "translation" : "slipstream"
+      },
+      {
+        "forms" : [
+          "aprovechando"
+        ],
+        "note" : "Gerund of aprovechar: \"aprovechando el rebufo\" = using the slipstream (to pass).",
+        "pos" : "verb",
+        "translation" : "making the most of, using"
+      },
+      {
+        "forms" : [
+          "remontar"
+        ],
+        "note" : "Infinitive after \"tras\": \"tras remontar catorce puestos\" = after climbing fourteen places.",
+        "pos" : "verb",
+        "translation" : "to make up places, to climb back"
       }
     ]
   },
@@ -205990,6 +206748,107 @@
           "es" : "¿Cuándo son los cuartos de final?",
           "fr" : "C'est quand, les quarts de finale ?",
           "it" : "Quando sono i quarti di finale?"
+        }
+      }
+    ],
+    "weekend-sport-2026-11-22" : [
+      {
+        "answers" : [
+          {
+            "de" : "In Monaco",
+            "en" : "In Monaco",
+            "es" : "En Mónaco",
+            "fr" : "À Monaco",
+            "it" : "A Monaco"
+          },
+          {
+            "de" : "In Las Vegas",
+            "en" : "In Las Vegas",
+            "es" : "En Las Vegas",
+            "fr" : "À Las Vegas",
+            "it" : "A Las Vegas"
+          },
+          {
+            "de" : "In Katar",
+            "en" : "In Qatar",
+            "es" : "En Catar",
+            "fr" : "Au Qatar",
+            "it" : "In Qatar"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Wo ist das Rennen am Samstagabend?",
+          "en" : "Where is the race on Saturday night?",
+          "es" : "¿Dónde es la carrera del sábado por la noche?",
+          "fr" : "La course de samedi soir, c'est où ?",
+          "it" : "Dove si corre la gara di sabato sera?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Lando Norris",
+            "en" : "Lando Norris",
+            "es" : "Lando Norris",
+            "fr" : "Lando Norris",
+            "it" : "Lando Norris"
+          },
+          {
+            "de" : "Oscar Piastri",
+            "en" : "Oscar Piastri",
+            "es" : "Oscar Piastri",
+            "fr" : "Oscar Piastri",
+            "it" : "Oscar Piastri"
+          },
+          {
+            "de" : "Max Verstappen",
+            "en" : "Max Verstappen",
+            "es" : "Max Verstappen",
+            "fr" : "Max Verstappen",
+            "it" : "Max Verstappen"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Wer gewinnt das Rennen?",
+          "en" : "Who wins the race?",
+          "es" : "¿Quién gana la carrera?",
+          "fr" : "Qui gagne la course ?",
+          "it" : "Chi vince la gara?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Auf Platz 17",
+            "en" : "17th",
+            "es" : "Desde el puesto 17",
+            "fr" : "17e",
+            "it" : "17º"
+          },
+          {
+            "de" : "Auf Platz eins",
+            "en" : "First",
+            "es" : "Desde el primer puesto",
+            "fr" : "Premier",
+            "it" : "Primo"
+          },
+          {
+            "de" : "Auf Platz sechs",
+            "en" : "Sixth",
+            "es" : "Desde el sexto puesto",
+            "fr" : "Sixième",
+            "it" : "Sesto"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Wo startet Oscar Piastri?",
+          "en" : "Where does Oscar Piastri start?",
+          "es" : "¿Desde qué puesto sale Oscar Piastri?",
+          "fr" : "Oscar Piastri part à quelle place ?",
+          "it" : "In che posizione parte Oscar Piastri?"
         }
       }
     ],
@@ -266141,6 +267000,596 @@
       "summary" : "In un ufficio del Comune di Madrid, Otto si iscrive al padrón con il suo contratto d'affitto e ne esce residente in città, senza spendere niente.",
       "title" : "Il padrón",
       "translationGroup" : "empadronamiento"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "id" : "weekend-sport-2026-11-22",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to before the race uses \"was\". Then the story goes back to the present: Piastri starts 17th and passes car after car.",
+              "example" : "Before the race, Kimi Antonelli from Mercedes was the fastest.",
+              "title" : "Was and had: one look back"
+            },
+            {
+              "body" : "\"Had to\" + verb is the past of \"have to\": there was no choice. It belongs to the look back to before the race, so it is in the past.",
+              "example" : "So he had to start sixth.",
+              "title" : "Had to: something you must do"
+            },
+            {
+              "body" : "Positions in a race take ordinal numbers: first, second, third, sixth, 17th. In numbers, add -st, -nd, -rd or -th: 1st, 2nd, 3rd, 17th.",
+              "example" : "Oscar Piastri from McLaren starts 17th.",
+              "title" : "Places with ordinal numbers"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "It's Saturday night, 21 November, and Formula 1 is in Las Vegas. Max Verstappen from Red Bull starts first and wins! Lando Norris from McLaren is second, just behind.",
+            "Before the race, Kimi Antonelli from Mercedes was the fastest. But he had a five-place penalty. So he had to start sixth.",
+            "Oscar Piastri from McLaren starts 17th. But he passes car after car. On the last lap, Antonelli's car loses power. So both McLarens go past, and Piastri is third!",
+            "Antonelli and Mercedes are already the champions. Next is Qatar, then Abu Dhabi. And Piastri goes from 17th to third in one night!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Regular verbs add -ed (started, passed, finished, crashed). Many common verbs change: win → won, go → went, lose → lost.",
+              "example" : "On the last lap, Antonelli's car lost power.",
+              "title" : "Simple past: won, went, lost"
+            },
+            {
+              "body" : "\"So\" joins a cause to its result: first what happened, then \"so\" and what follows from it.",
+              "example" : "Both McLarens went past him, so Piastri finished third.",
+              "title" : "So for a result"
+            },
+            {
+              "body" : "The race is over, so it is told in the past, but the standings are true now, so they stay in the present: Verstappen is second.",
+              "example" : "Verstappen is second, 37 points ahead of Lewis Hamilton.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On Saturday night, 21 November 2026, Max Verstappen won the Las Vegas Grand Prix for Red Bull. Lando Norris was second for McLaren, just 0.639 seconds behind.",
+            "Kimi Antonelli from Mercedes was the fastest in qualifying. But he had a five-place penalty, so Verstappen started from pole.",
+            "Oscar Piastri started 17th and passed car after car. About three laps from the end, George Russell crashed.",
+            "On the last lap, Antonelli's car lost power. Both McLarens went past him, so Piastri finished third. That's two McLarens on the podium!",
+            "Antonelli and Mercedes are already the champions. Verstappen is second, 37 points ahead of Lewis Hamilton. Next comes Qatar, then Abu Dhabi. And Piastri went from 17th to third in one night."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Had + past participle goes one step further back: qualifying came before the race that the story is about.",
+              "example" : "Kimi Antonelli had actually been fastest in qualifying, but a five-place penalty put him sixth.",
+              "title" : "Had been: the past before the past"
+            },
+            {
+              "body" : "After a comma, \"who\" adds more information about a person just named: Piastri is the best story, and he started 17th.",
+              "example" : "The best story, though, was Oscar Piastri, who started 17th and passed car after car.",
+              "title" : "Who for a person, after a comma"
+            },
+            {
+              "body" : "\"Keep\" + -ing says something happened again and again: they kept swapping the lead means the lead changed many times.",
+              "example" : "So Verstappen started from pole and kept swapping the lead with George Russell.",
+              "title" : "Kept + -ing for a repeated action"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On Saturday night, 21 November 2026, Max Verstappen won the Las Vegas Grand Prix for Red Bull. Lando Norris finished just 0.639 seconds behind.",
+            "Kimi Antonelli had actually been fastest in qualifying, but a five-place penalty put him sixth. So Verstappen started from pole and kept swapping the lead with George Russell.",
+            "The best story, though, was Oscar Piastri, who started 17th and passed car after car. About three laps from the end, Russell hit the barrier.",
+            "Then, on the last lap, Antonelli's car lost power and both McLarens went past him. Piastri finished third, so McLaren had two drivers on the podium.",
+            "Antonelli and Mercedes are already champions, but the fight for second goes on: Verstappen leads Lewis Hamilton by 37 points. Next it's Qatar, then Abu Dhabi. And Piastri? From 17th to the podium in one night."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Speakers often switch to the present to put the listener right in the moment (\"Verstappen takes the chequered flag\"), then go back to the past for the rest.",
+              "example" : "So, Saturday night, 21 November 2026, Las Vegas, and Max Verstappen takes the chequered flag for Red Bull, just 0.639 seconds ahead of Lando Norris.",
+              "title" : "The present for a lively scene"
+            },
+            {
+              "body" : "After a comma, \"which\" can refer to the whole idea before it: Antonelli's drop to sixth is what gave Verstappen pole.",
+              "example" : "Kimi Antonelli had been quickest in qualifying, but a five-place penalty dropped him to sixth, which handed Verstappen pole.",
+              "title" : "Which for a whole idea"
+            },
+            {
+              "body" : "To \"pick your way through\" something is to get through it carefully, one step at a time; in a race, passing cars one by one.",
+              "example" : "He'd started 17th and picked his way through the field lap after lap.",
+              "title" : "Pick your way through: a spoken idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "So, Saturday night, 21 November 2026, Las Vegas, and Max Verstappen takes the chequered flag for Red Bull, just 0.639 seconds ahead of Lando Norris.",
+            "Kimi Antonelli had been quickest in qualifying, but a five-place penalty dropped him to sixth, which handed Verstappen pole. He and George Russell kept swapping the lead in the slipstream.",
+            "The real story, though, was Oscar Piastri. He'd started 17th and picked his way through the field lap after lap. With about three laps to go, Russell hit the barrier and dropped to ninth.",
+            "Then, on the last lap, Antonelli's car lost power and both McLarens swept past. Piastri took third, up fourteen places, for a McLaren double podium.",
+            "Antonelli and Mercedes have wrapped up the titles, but Verstappen leads Lewis Hamilton by 37 points for second, and Red Bull are nine clear of McLaren for third. Qatar's next, then the Abu Dhabi finale. And Piastri? From 17th to the podium in one night."
+          ]
+        }
+      ],
+      "summary" : "On a Saturday night in Las Vegas, Max Verstappen won by just over half a second, and Oscar Piastri came all the way from 17th to stand on the podium.",
+      "title" : "Verstappen Wins in Vegas, Piastri Climbs from 17th",
+      "translationGroup" : "weekend-sport-2026-11-22"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "id" : "weekend-sport-2026-11-22-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to before the race uses the imparfait: était (was), avait (had), devait (had to). Then the story comes back to the present: il part, il gagne.",
+              "example" : "Avant la course, Kimi Antonelli, de Mercedes, était le plus rapide.",
+              "title" : "Était, avait, devait: one look back"
+            },
+            {
+              "body" : "\"Devoir\" is followed directly by the infinitive, with no preposition: il devait partir = he had to start. It belongs to the look back, so it is in the imparfait.",
+              "example" : "Alors, il devait partir sixième.",
+              "title" : "Devoir + infinitive: something you must do"
+            },
+            {
+              "body" : "Positions take ordinal numbers, with no article after partir or être: premier, deuxième, troisième, sixième. In figures, French adds a raised e: 17e = dix-septième.",
+              "example" : "Oscar Piastri, de McLaren, part 17e.",
+              "title" : "Places in a race: premier, deuxième, 17e"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "C'est samedi soir, le 21 novembre, et la Formule 1 est à Las Vegas. Max Verstappen, de Red Bull, part premier et il gagne ! Lando Norris, de McLaren, est deuxième, juste derrière.",
+            "Avant la course, Kimi Antonelli, de Mercedes, était le plus rapide. Mais il avait une pénalité de cinq places. Alors, il devait partir sixième.",
+            "Oscar Piastri, de McLaren, part 17e. Mais il passe voiture après voiture. Au dernier tour, la voiture d'Antonelli perd de la puissance. Du coup, les deux McLaren passent devant, et Piastri est troisième !",
+            "Antonelli et Mercedes sont déjà champions. La prochaine course, c'est au Qatar, puis à Abou Dhabi. Et en une nuit, Piastri passe de 17e à troisième !"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Most verbs build the passé composé with avoir (il a dépassé); partir is a verb of movement, so it takes être: il est parti.",
+              "example" : "Oscar Piastri est parti 17e et a dépassé voiture après voiture.",
+              "title" : "Passé composé with avoir or être"
+            },
+            {
+              "body" : "In the passé composé, an object pronoun like le (shortened to l') comes before avoir: les deux McLaren l'ont dépassé = both McLarens passed him.",
+              "example" : "Les deux McLaren l'ont dépassé, alors Piastri a fini troisième.",
+              "title" : "The object pronoun goes before the auxiliary"
+            },
+            {
+              "body" : "The race is over, so it is told in the passé composé, but the standings are true now, so they stay in the present: Verstappen est deuxième.",
+              "example" : "Verstappen est deuxième, 37 points devant Lewis Hamilton.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Samedi soir, 21 novembre 2026, Max Verstappen a gagné le Grand Prix de Las Vegas avec Red Bull. Lando Norris, de McLaren, a fini deuxième, à seulement 0,639 seconde.",
+            "En qualifications, Kimi Antonelli, de Mercedes, était le plus rapide. Mais il avait une pénalité de cinq places, donc Verstappen est parti en pole.",
+            "Oscar Piastri est parti 17e et a dépassé voiture après voiture. À environ trois tours de la fin, George Russell a eu un accident.",
+            "Au dernier tour, la voiture d'Antonelli a perdu de la puissance. Les deux McLaren l'ont dépassé, alors Piastri a fini troisième. Ça fait deux McLaren sur le podium !",
+            "Antonelli et Mercedes sont déjà champions. Verstappen est deuxième, 37 points devant Lewis Hamilton. Ensuite, c'est le Qatar, puis Abou Dhabi. Et Piastri est passé de 17e à troisième en une nuit."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Avait été\" (imparfait of avoir + past participle) goes one step further back: qualifying came before the race the story is about.",
+              "example" : "En fait, Kimi Antonelli avait été le plus rapide en qualifications, mais avec cinq places de pénalité, il est parti sixième.",
+              "title" : "Plus-que-parfait: the past before the past"
+            },
+            {
+              "body" : "After a comma, \"qui\" adds more about the person just named, and it is the subject of the verb that follows: qui est parti 17e = who started 17th.",
+              "example" : "La plus belle histoire, c'était Oscar Piastri, qui est parti 17e et a dépassé voiture après voiture.",
+              "title" : "Qui after a comma, for a person"
+            },
+            {
+              "body" : "\"Ne pas arrêter de\" + infinitive says something happened over and over: they never stopped swapping the lead. S'échanger is reciprocal, so it needs a plural subject.",
+              "example" : "Du coup, Verstappen est parti en pole, et George Russell et lui n'ont pas arrêté de s'échanger la tête.",
+              "title" : "Ne pas arrêter de: again and again"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Samedi soir, 21 novembre 2026, Max Verstappen a gagné le Grand Prix de Las Vegas avec Red Bull. Lando Norris a fini à seulement 0,639 seconde.",
+            "En fait, Kimi Antonelli avait été le plus rapide en qualifications, mais avec cinq places de pénalité, il est parti sixième. Du coup, Verstappen est parti en pole, et George Russell et lui n'ont pas arrêté de s'échanger la tête.",
+            "La plus belle histoire, c'était Oscar Piastri, qui est parti 17e et a dépassé voiture après voiture. À environ trois tours de la fin, Russell a tapé le mur.",
+            "Puis, au dernier tour, la voiture d'Antonelli a perdu de la puissance, et les deux McLaren l'ont dépassé. Piastri a fini troisième : deux McLaren sur le podium !",
+            "Antonelli et Mercedes sont déjà champions, mais la bataille continue : Verstappen est deuxième, 37 points devant Lewis Hamilton. Ensuite, le Qatar, puis Abou Dhabi. Et Piastri ? De la 17e place au podium en une nuit."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Speakers often switch to the present to put the listener right in the moment (\"Verstappen passe sous le drapeau à damier\"), then go back to the passé composé for the rest.",
+              "example" : "Alors, samedi soir, 21 novembre 2026, Las Vegas, et Max Verstappen passe sous le drapeau à damier pour Red Bull, à peine 0,639 seconde devant Lando Norris.",
+              "title" : "The present for a lively scene"
+            },
+            {
+              "body" : "After a comma, \"ce qui\" refers to the whole idea before it, not to one noun: Antonelli's drop to sixth is what handed Verstappen pole.",
+              "example" : "Kimi Antonelli avait été le plus rapide en qualifications, mais une pénalité de cinq places l'a renvoyé sixième, ce qui a offert la pole à Verstappen.",
+              "title" : "Ce qui for a whole idea"
+            },
+            {
+              "body" : "\"Remonter le peloton\" means to work your way up through the pack, passing the others one by one; \"parti 17e\" is a past participle standing for \"after starting 17th\".",
+              "example" : "La vraie histoire, en fait, c'est Oscar Piastri : parti 17e, il a remonté le peloton tour après tour.",
+              "title" : "Remonter le peloton: a spoken idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Alors, samedi soir, 21 novembre 2026, Las Vegas, et Max Verstappen passe sous le drapeau à damier pour Red Bull, à peine 0,639 seconde devant Lando Norris.",
+            "Kimi Antonelli avait été le plus rapide en qualifications, mais une pénalité de cinq places l'a renvoyé sixième, ce qui a offert la pole à Verstappen. Verstappen et George Russell se sont échangé la tête sans arrêt, dans l'aspiration.",
+            "La vraie histoire, en fait, c'est Oscar Piastri : parti 17e, il a remonté le peloton tour après tour. À environ trois tours de la fin, Russell a tapé le mur et est retombé neuvième.",
+            "Au dernier tour, la voiture d'Antonelli a perdu de la puissance, et les deux McLaren l'ont dépassé. Piastri a fini troisième, quatorze places gagnées : deux McLaren sur le podium.",
+            "Antonelli et Mercedes ont déjà les titres en poche, mais Verstappen devance Lewis Hamilton de 37 points pour la deuxième place. Et Red Bull devance McLaren de neuf points pour la troisième. Ensuite, le Qatar, puis la finale à Abou Dhabi. Et Piastri ? De la 17e place au podium en une nuit."
+          ]
+        }
+      ],
+      "summary" : "Un samedi soir à Las Vegas, Max Verstappen a gagné avec à peine plus d'une demi-seconde d'avance, et Oscar Piastri est remonté de la 17e place jusqu'au podium.",
+      "title" : "Verstappen gagne à Las Vegas, Piastri de la 17e place au podium",
+      "translationGroup" : "weekend-sport-2026-11-22"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "id" : "weekend-sport-2026-11-22-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to before the race uses \"war\", \"hatte\" and \"musste\", the simple past of sein, haben and müssen. Then the story goes back to the present: er startet, er gewinnt.",
+              "example" : "Vor dem Rennen war Kimi Antonelli von Mercedes am schnellsten.",
+              "title" : "War, hatte, musste: one look back"
+            },
+            {
+              "body" : "\"Also\" means \"so, therefore\", not English \"also\". When it starts the sentence, the verb comes right after it, and with a modal the infinitive goes to the end: \"Also musste er … starten\".",
+              "example" : "Also musste er als Sechster starten.",
+              "title" : "Also for a result, verb second"
+            },
+            {
+              "body" : "\"Als\" + an ordinal with a capital letter says in which place someone starts or finishes: als Erster, als Sechster. With \"Platz\" German uses the plain number: auf Platz 17.",
+              "example" : "Max Verstappen von Red Bull startet als Erster und gewinnt!",
+              "title" : "Als Erster, als Sechster: a place in a race"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Samstagabend, 21. November: Die Formel 1 ist in Las Vegas. Max Verstappen von Red Bull startet als Erster und gewinnt! Lando Norris von McLaren wird Zweiter, knapp dahinter.",
+            "Vor dem Rennen war Kimi Antonelli von Mercedes am schnellsten. Aber er hatte fünf Plätze Strafe. Also musste er als Sechster starten.",
+            "Oscar Piastri von McLaren startet auf Platz 17. Aber dann überholt er Auto um Auto. In der letzten Runde verliert Antonellis Auto Leistung. Also überholen ihn beide McLaren, und Piastri ist Dritter!",
+            "Antonelli und Mercedes sind schon Weltmeister. Dann kommen Katar und Abu Dhabi. Und Piastri fährt in einer Nacht von Platz 17 auf drei!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells the past with the Perfekt: the helper in second place, the participle at the end. Most verbs take haben (hat gewonnen, hat verloren); movement takes sein (ist gestartet, ist gekracht).",
+              "example" : "In der letzten Runde hat Antonellis Auto Leistung verloren.",
+              "title" : "Perfekt with haben or sein"
+            },
+            {
+              "body" : "A separable verb keeps its particle in front and puts -ge- between: vorbeifahren → vorbeigefahren. Überholen is not separable, so it has no -ge-: hat überholt.",
+              "example" : "Beide McLaren sind vorbeigefahren, also ist Piastri Dritter geworden.",
+              "title" : "Separable verbs in the Perfekt"
+            },
+            {
+              "body" : "The race is over, so it is told in the Perfekt, but the standings are true now, so they stay in the present: Verstappen ist Zweiter.",
+              "example" : "Verstappen ist Zweiter, 37 Punkte vor Lewis Hamilton.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am Samstagabend, 21. November 2026, hat Max Verstappen in Las Vegas für Red Bull gewonnen. Lando Norris von McLaren war Zweiter, nur 0,639 Sekunden dahinter.",
+            "Kimi Antonelli von Mercedes war im Qualifying Schnellster. Aber er hatte fünf Plätze Strafe, also hatte Verstappen die Pole.",
+            "Oscar Piastri ist als Siebzehnter gestartet und hat Auto um Auto überholt. Etwa drei Runden vor Schluss ist George Russell in die Mauer gekracht.",
+            "In der letzten Runde hat Antonellis Auto Leistung verloren. Beide McLaren sind vorbeigefahren, also ist Piastri Dritter geworden. Zwei McLaren auf dem Podium!",
+            "Antonelli und Mercedes sind schon Weltmeister. Verstappen ist Zweiter, 37 Punkte vor Lewis Hamilton. Dann kommen Katar und Abu Dhabi. Und Piastri? In einer Nacht von 17 auf drei."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"War\" or \"hatte\" + Partizip II goes one step further back than the Perfekt: qualifying came before the race the story is about.",
+              "example" : "Eigentlich war Kimi Antonelli im Qualifying Schnellster gewesen, aber fünf Plätze Strafe haben ihn auf Platz sechs gebracht.",
+              "title" : "Plusquamperfekt: war … gewesen"
+            },
+            {
+              "body" : "After a comma, \"der\" can add more about a man just named; in the relative clause the verbs go to the end: \"der … gestartet ist und … überholt hat\".",
+              "example" : "Das Beste war aber Oscar Piastri, der als Siebzehnter gestartet ist und Auto um Auto überholt hat.",
+              "title" : "Relative clause with der: verbs at the end"
+            },
+            {
+              "body" : "\"Ständig\" (constantly) with the Perfekt does the job of English kept + -ing: \"hat ständig die Führung getauscht\" = kept swapping the lead, so the lead changed hands again and again.",
+              "example" : "So hatte Verstappen die Pole und hat mit George Russell ständig die Führung getauscht.",
+              "title" : "Ständig for something that keeps happening"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am Samstagabend, 21. November 2026, hat Max Verstappen für Red Bull in Las Vegas gewonnen. Lando Norris war nur 0,639 Sekunden dahinter.",
+            "Eigentlich war Kimi Antonelli im Qualifying Schnellster gewesen, aber fünf Plätze Strafe haben ihn auf Platz sechs gebracht. So hatte Verstappen die Pole und hat mit George Russell ständig die Führung getauscht.",
+            "Das Beste war aber Oscar Piastri, der als Siebzehnter gestartet ist und Auto um Auto überholt hat. Etwa drei Runden vor Schluss ist Russell in die Mauer gekracht.",
+            "In der letzten Runde hat Antonellis Auto Leistung verloren, und beide McLaren sind vorbeigezogen. Piastri ist Dritter geworden: zwei McLaren auf dem Podium.",
+            "Antonelli und Mercedes sind schon Weltmeister, aber um Platz zwei geht's noch: Verstappen liegt 37 Punkte vor Lewis Hamilton. Dann Katar und Abu Dhabi. Und Piastri? In einer Nacht von Platz 17 aufs Podium."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Speakers often switch to the present to put the listener right in the moment (\"Verstappen gewinnt\"), then go back to the Perfekt for the rest.",
+              "example" : "Also, Samstagabend, 21. November 2026, Las Vegas: Max Verstappen gewinnt für Red Bull, nur 0,639 Sekunden vor Lando Norris.",
+              "title" : "The present for a lively scene"
+            },
+            {
+              "body" : "After a comma, \"was\" (which) can refer to the whole idea before it and sends its verb to the end; \"war … gewesen\" puts qualifying before the race.",
+              "example" : "Kimi Antonelli war im Qualifying Schnellster gewesen, aber fünf Plätze Strafe haben ihn auf Rang sechs zurückgeworfen, was Verstappen die Pole gebracht hat.",
+              "title" : "Was for a whole idea, after the Plusquamperfekt"
+            },
+            {
+              "body" : "\"Sich durch etwas kämpfen\" (to fight your way through) is said of getting past one obstacle after another; in a race, passing cars one by one. \"Runde für Runde\" = lap after lap.",
+              "example" : "Von Platz 17 hat er sich Runde für Runde durchs Feld gekämpft.",
+              "title" : "Sich durchs Feld kämpfen: a spoken idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Also, Samstagabend, 21. November 2026, Las Vegas: Max Verstappen gewinnt für Red Bull, nur 0,639 Sekunden vor Lando Norris.",
+            "Kimi Antonelli war im Qualifying Schnellster gewesen, aber fünf Plätze Strafe haben ihn auf Rang sechs zurückgeworfen, was Verstappen die Pole gebracht hat. Er und George Russell haben im Windschatten ständig die Führung getauscht.",
+            "Die eigentliche Geschichte war Oscar Piastri. Von Platz 17 hat er sich Runde für Runde durchs Feld gekämpft. Etwa drei Runden vor Schluss ist Russell in die Mauer gekracht und auf Platz neun zurückgefallen.",
+            "In der letzten Runde hat Antonellis Auto Leistung verloren, und beide McLaren sind vorbeigezogen. Piastri hat vierzehn Plätze gutgemacht und ist Dritter geworden: ein Doppelpodium für McLaren.",
+            "Antonelli und Mercedes sind schon Weltmeister, aber Verstappen liegt als Zweiter 37 Punkte vor Lewis Hamilton. Bei den Teams hält Red Bull Platz drei, neun Punkte vor McLaren. Dann Katar und das Saisonfinale in Abu Dhabi. Und Piastri? In einer Nacht von Platz 17 aufs Podium."
+          ]
+        }
+      ],
+      "summary" : "An einem Samstagabend in Las Vegas hat Max Verstappen mit gut einer halben Sekunde Vorsprung gewonnen, und Oscar Piastri ist sogar von Platz 17 bis aufs Podium gefahren.",
+      "title" : "Verstappen siegt in Las Vegas, Piastri fährt von Platz 17 aufs Podium",
+      "translationGroup" : "weekend-sport-2026-11-22"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "id" : "weekend-sport-2026-11-22-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to before the race uses the imperfecto: era, tenía. Then the story comes back to the present: sale, gana.",
+              "example" : "Antes de la carrera, Kimi Antonelli, de Mercedes, era el más rápido.",
+              "title" : "Era and tenía: one look back"
+            },
+            {
+              "body" : "\"Tener que\" + infinitive means \"to have to\": there is no choice. In the look back it is in the imperfecto, \"tenía que salir\".",
+              "example" : "Así que tenía que salir sexto.",
+              "title" : "Tener que + infinitive: something you must do"
+            },
+            {
+              "body" : "Spanish makes \"the fastest\" with the article + más + adjective: el más rápido, la más rápida. No special ending is needed.",
+              "example" : "Antes de la carrera, Kimi Antonelli, de Mercedes, era el más rápido.",
+              "title" : "El más rápido: the superlative"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es sábado por la noche, 21 de noviembre. Y la Fórmula 1 está en Las Vegas. Max Verstappen, de Red Bull, sale primero, ¡y gana! Lando Norris, de McLaren, llega segundo, justo detrás.",
+            "Antes de la carrera, Kimi Antonelli, de Mercedes, era el más rápido. Pero tenía una penalización de cinco puestos. Así que tenía que salir sexto.",
+            "Oscar Piastri, de McLaren, sale desde el puesto 17. Pero adelanta a un coche tras otro. En la última vuelta, el coche de Antonelli pierde potencia. Entonces los dos McLaren lo adelantan, ¡y Piastri es tercero!",
+            "Antonelli y Mercedes ya son los campeones. Luego viene Catar, y después Abu Dabi. ¡Y Piastri pasa del puesto 17 al tercero en una noche!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Finished events take the pretérito indefinido. For él/ella, -ar verbs end in -ó (ganó, adelantó) and -er/-ir verbs in -ió (salió, perdió); the plural is -aron (adelantaron).",
+              "example" : "En la última vuelta, el coche de Antonelli perdió potencia.",
+              "title" : "Pretérito indefinido: ganó, salió, perdió"
+            },
+            {
+              "body" : "\"Así que\" (so) joins a cause to its result: first what happened, then \"así que\" and what follows from it.",
+              "example" : "Los dos McLaren lo adelantaron, así que Piastri terminó tercero.",
+              "title" : "Así que for a result"
+            },
+            {
+              "body" : "The race is over, so it is told in the past, but the standings are true now, so they stay in the present: Verstappen es segundo.",
+              "example" : "Verstappen es segundo, 37 puntos por delante de Lewis Hamilton.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "El sábado 21 de noviembre de 2026 hubo carrera nocturna en Las Vegas. Max Verstappen ganó el Gran Premio con Red Bull. Lando Norris, de McLaren, quedó segundo, a solo 0,639 segundos.",
+            "Kimi Antonelli, de Mercedes, fue el más rápido en la clasificación. Pero tenía una penalización de cinco puestos, así que Verstappen salió desde la pole.",
+            "Oscar Piastri salió desde el puesto 17 y adelantó coche tras coche. A unas tres vueltas del final, George Russell tuvo un accidente.",
+            "En la última vuelta, el coche de Antonelli perdió potencia. Los dos McLaren lo adelantaron, así que Piastri terminó tercero. ¡Dos McLaren en el podio!",
+            "Antonelli y Mercedes ya son campeones. Verstappen es segundo, 37 puntos por delante de Lewis Hamilton. Ahora toca Catar, luego Abu Dabi. Y Piastri pasó del puesto 17 al tercero en una noche."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pluscuamperfecto (había + participle) goes one step further back: qualifying came before the race the story is about.",
+              "example" : "En realidad, Kimi Antonelli había sido el más rápido en la clasificación, pero una penalización de cinco puestos lo dejó sexto.",
+              "title" : "Había sido: the past before the past"
+            },
+            {
+              "body" : "After a comma, \"que\" adds information about a person just named: the best story was Piastri's, and he started 17th.",
+              "example" : "Pero la mejor historia fue la de Oscar Piastri, que salió desde el puesto 17 y adelantó coche tras coche.",
+              "title" : "Que for more about a person"
+            },
+            {
+              "body" : "\"No parar de\" + infinitive (literally \"not stop doing\") says something happened again and again: the lead kept changing hands.",
+              "example" : "Verstappen heredó la pole y no paró de intercambiarse el liderato con George Russell.",
+              "title" : "No parar de + infinitive: again and again"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El sábado 21 de noviembre de 2026, por la noche, Max Verstappen ganó el Gran Premio de Las Vegas con Red Bull. Lando Norris terminó a solo 0,639 segundos.",
+            "En realidad, Kimi Antonelli había sido el más rápido en la clasificación, pero una penalización de cinco puestos lo dejó sexto. Verstappen heredó la pole y no paró de intercambiarse el liderato con George Russell.",
+            "Pero la mejor historia fue la de Oscar Piastri, que salió desde el puesto 17 y adelantó coche tras coche. A unas tres vueltas del final, Russell chocó contra el muro.",
+            "En la última vuelta, el coche de Antonelli perdió potencia y los dos McLaren lo adelantaron. Piastri terminó tercero, así que McLaren tuvo dos pilotos en el podio.",
+            "Antonelli y Mercedes ya son campeones, pero sigue la lucha por el segundo puesto: Verstappen le saca 37 puntos a Lewis Hamilton. Ahora toca Catar, luego Abu Dabi. ¿Y Piastri? Del puesto 17 al podio en una noche."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Speakers often switch to the present to put the listener right in the moment (Verstappen recibe la bandera a cuadros), then go back to the indefinido for the rest. \"Pues mira\" opens the story the way \"so, look\" does.",
+              "example" : "Max Verstappen recibe la bandera a cuadros con Red Bull, solo 0,639 segundos antes que Lando Norris.",
+              "title" : "The present for a lively scene"
+            },
+            {
+              "body" : "After a comma, \"lo que\" refers to the whole idea before it, like English \"which\": Antonelli's drop to sixth is what gave Verstappen pole.",
+              "example" : "Kimi Antonelli había sido el más rápido en la clasificación, pero una penalización de cinco puestos lo mandó sexto, lo que le dejó la pole a Verstappen.",
+              "title" : "Lo que for a whole idea"
+            },
+            {
+              "body" : "\"Abrirse paso\" is to make your way through; with \"ir\" + gerund (se fue abriendo paso) it happens bit by bit, one car at a time. \"Colarse\" is to slip past or sneak in.",
+              "example" : "Pero lo mejor fue Oscar Piastri, que había salido decimoséptimo y se fue abriendo paso vuelta tras vuelta.",
+              "title" : "Irse abriendo paso: step by step"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Pues mira: sábado por la noche, 21 de noviembre de 2026, Las Vegas. Max Verstappen recibe la bandera a cuadros con Red Bull, solo 0,639 segundos antes que Lando Norris.",
+            "Kimi Antonelli había sido el más rápido en la clasificación, pero una penalización de cinco puestos lo mandó sexto, lo que le dejó la pole a Verstappen. Él y George Russell se intercambiaron el liderato sin parar, aprovechando el rebufo.",
+            "Pero lo mejor fue Oscar Piastri, que había salido decimoséptimo y se fue abriendo paso vuelta tras vuelta. A unas tres vueltas del final, Russell chocó contra el muro y cayó al noveno puesto.",
+            "En la última vuelta, Antonelli perdió potencia y se le colaron los dos McLaren. Piastri acabó tercero, tras remontar catorce puestos: doble podio para McLaren.",
+            "Antonelli y Mercedes ya tienen los títulos en el bolsillo. Pero Verstappen le saca 37 puntos a Lewis Hamilton por el segundo puesto, y Red Bull, nueve a McLaren por el tercero entre los equipos. Ahora toca Catar, luego el final en Abu Dabi. ¿Y Piastri? Del puesto 17 al podio en una noche."
+          ]
+        }
+      ],
+      "summary" : "Un sábado por la noche en Las Vegas, Max Verstappen ganó por poco más de medio segundo, y Oscar Piastri remontó desde el puesto 17 hasta el podio.",
+      "title" : "Verstappen gana en Las Vegas y Piastri sube del 17 al podio",
+      "translationGroup" : "weekend-sport-2026-11-22"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "id" : "weekend-sport-2026-11-22-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is told in the present, but the look back to before the race uses the imperfect: era, aveva, doveva. Then the story comes back to the present: parte, vince.",
+              "example" : "Prima della gara, Kimi Antonelli della Mercedes era il più veloce.",
+              "title" : "Era, aveva, doveva: one look back"
+            },
+            {
+              "body" : "\"Dovere\" plus an infinitive says something must happen; doveva partire = he had to start. It belongs to the look back, so it is in the imperfect.",
+              "example" : "Così doveva partire sesto.",
+              "title" : "Doveva + infinitive: there was no choice"
+            },
+            {
+              "body" : "Positions in a race take ordinal numbers: primo, secondo, terzo, sesto. In figures Italian adds a little º: 17º = diciassettesimo.",
+              "example" : "Oscar Piastri della McLaren parte 17º.",
+              "title" : "Places with ordinal numbers"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Sabato sera, 21 novembre, la Formula 1 corre a Las Vegas. Max Verstappen della Red Bull parte primo e vince! Lando Norris della McLaren è secondo, proprio dietro di lui.",
+            "Prima della gara, Kimi Antonelli della Mercedes era il più veloce. Ma aveva una penalità di cinque posizioni. Così doveva partire sesto.",
+            "Oscar Piastri della McLaren parte 17º. Ma supera una macchina dopo l'altra. All'ultimo giro, la macchina di Antonelli perde potenza. Così le due McLaren lo superano, e Piastri è terzo!",
+            "Antonelli e la Mercedes sono già i campioni. Adesso arriva il Qatar, poi Abu Dhabi. E Piastri, in una sola notte, va dal 17º al terzo posto!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The spoken past is avere or essere plus a past participle. Most verbs take avere (ha vinto, ha perso); verbs of movement like arrivare and partire take essere: è arrivato, è partito.",
+              "example" : "All'ultimo giro, la macchina di Antonelli ha perso potenza.",
+              "title" : "Passato prossimo: ha vinto, è arrivato"
+            },
+            {
+              "body" : "An object pronoun goes before the verb, and lo becomes l' before avere: l'hanno superato = they passed him.",
+              "example" : "Le due McLaren l'hanno superato, così Piastri è arrivato terzo.",
+              "title" : "L'hanno superato: the pronoun before the verb"
+            },
+            {
+              "body" : "The race is over, so it is told in the passato prossimo, but the standings are true now, so they stay in the present: Verstappen è secondo.",
+              "example" : "In classifica Verstappen è secondo, 37 punti davanti a Lewis Hamilton.",
+              "title" : "Present for what is still true"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Sabato sera, 21 novembre 2026, Max Verstappen della Red Bull ha vinto a Las Vegas. Lando Norris della McLaren è arrivato secondo, a soli 0,639 secondi.",
+            "Kimi Antonelli della Mercedes è stato il più veloce nelle qualifiche. Ma aveva una penalità di cinque posizioni, quindi Verstappen è partito dalla pole.",
+            "Oscar Piastri è partito 17º e ha superato una macchina dopo l'altra. A circa tre giri dalla fine, George Russell ha avuto un incidente.",
+            "All'ultimo giro, la macchina di Antonelli ha perso potenza. Le due McLaren l'hanno superato, così Piastri è arrivato terzo. Ecco, due McLaren sul podio!",
+            "Antonelli e la Mercedes sono già i campioni. In classifica Verstappen è secondo, 37 punti davanti a Lewis Hamilton. Adesso tocca al Qatar, poi ad Abu Dhabi. E Piastri? In una sola notte è passato dal 17º al terzo posto."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect of essere or avere plus a past participle goes one step further back: qualifying came before the race the story is about.",
+              "example" : "In realtà, nelle qualifiche il più veloce era stato Kimi Antonelli, ma una penalità di cinque posizioni l'ha mandato sesto.",
+              "title" : "Trapassato prossimo: era stato"
+            },
+            {
+              "body" : "\"Che\" (who, which) adds information about someone just named; it never changes form: Piastri, che è partito 17º = Piastri, who started 17th.",
+              "example" : "La storia più bella, però, è quella di Oscar Piastri, che è partito 17º e ha superato un'auto dopo l'altra.",
+              "title" : "Che for a person just named"
+            },
+            {
+              "body" : "\"Continuare a\" plus an infinitive says something happened again and again: ha continuato a scambiarsi il comando = the lead kept changing hands.",
+              "example" : "Così Verstappen è partito dalla pole e ha continuato a scambiarsi il comando con George Russell.",
+              "title" : "Continuare a + infinitive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Sabato sera, 21 novembre 2026, Max Verstappen ha vinto a Las Vegas con la Red Bull. Lando Norris gli è arrivato dietro di appena 0,639 secondi.",
+            "In realtà, nelle qualifiche il più veloce era stato Kimi Antonelli, ma una penalità di cinque posizioni l'ha mandato sesto. Così Verstappen è partito dalla pole e ha continuato a scambiarsi il comando con George Russell.",
+            "La storia più bella, però, è quella di Oscar Piastri, che è partito 17º e ha superato un'auto dopo l'altra. A circa tre giri dalla fine, Russell è finito sulle barriere.",
+            "Poi, all'ultimo giro, l'auto di Antonelli ha perso potenza e le due McLaren l'hanno passato. Piastri è arrivato terzo, quindi la McLaren ha portato due piloti sul podio.",
+            "Antonelli e la Mercedes sono già campioni, ma la lotta per il secondo posto continua: Verstappen ha 37 punti su Lewis Hamilton. Ora c'è il Qatar, poi Abu Dhabi. E Piastri? Dal 17º posto al podio in una notte."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Speakers often switch to the present to put the listener right in the moment (Verstappen passa sotto la bandiera a scacchi), then go back to the passato prossimo for the rest.",
+              "example" : "Allora, sabato sera, 21 novembre 2026, Las Vegas, e Max Verstappen passa sotto la bandiera a scacchi con la Red Bull, appena 0,639 secondi davanti a Lando Norris.",
+              "title" : "The present for a lively scene"
+            },
+            {
+              "body" : "After a comma, \"il che\" refers to the whole idea before it: Antonelli's drop to sixth is what gave Verstappen pole.",
+              "example" : "Kimi Antonelli era stato il più veloce nelle qualifiche, ma una penalità di cinque posizioni l'ha spedito sesto, il che ha regalato la pole a Verstappen.",
+              "title" : "Il che for a whole idea"
+            },
+            {
+              "body" : "\"Farsi strada\" means to make your way through something step by step; in a race, passing cars one by one. The reflexive verb takes essere: si è fatto strada.",
+              "example" : "Era partito 17º e si è fatto strada nel gruppo, giro dopo giro.",
+              "title" : "Farsi strada: a spoken idiom"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Allora, sabato sera, 21 novembre 2026, Las Vegas, e Max Verstappen passa sotto la bandiera a scacchi con la Red Bull, appena 0,639 secondi davanti a Lando Norris.",
+            "Kimi Antonelli era stato il più veloce nelle qualifiche, ma una penalità di cinque posizioni l'ha spedito sesto, il che ha regalato la pole a Verstappen. Lui e George Russell si sono passati il comando di continuo, a colpi di scia.",
+            "Ma il vero protagonista è stato Oscar Piastri. Era partito 17º e si è fatto strada nel gruppo, giro dopo giro. A circa tre giri dalla fine Russell è finito sulle barriere ed è sceso nono.",
+            "Poi, all'ultimo giro, l'auto di Antonelli ha perso potenza e le due McLaren l'hanno bruciato. Piastri terzo, quattordici posizioni guadagnate: doppio podio McLaren!",
+            "Antonelli e la Mercedes i titoli li hanno già in tasca. Per il secondo posto, però, Verstappen ha 37 punti su Lewis Hamilton, e la Red Bull, terza tra i costruttori, ne ha nove sulla McLaren. Ora il Qatar, poi si chiude ad Abu Dhabi. E Piastri? Dal 17º posto al podio in una notte."
+          ]
+        }
+      ],
+      "summary" : "Un sabato sera a Las Vegas Max Verstappen ha vinto per poco più di mezzo secondo, e Oscar Piastri è risalito dal 17º posto fino al podio.",
+      "title" : "Verstappen vince a Las Vegas, Piastri dal 17º posto al podio",
+      "translationGroup" : "weekend-sport-2026-11-22"
     }
   ]
 }

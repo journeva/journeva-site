@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 42,
+  "contentVersion" : 43,
   "generatedAt" : "2026-11-23",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-23",
+      "titles" : {
+        "english" : "Verstappen Wins in Vegas, Piastri Climbs from 17th",
+        "french" : "Verstappen gagne à Las Vegas, Piastri de la 17e place au podium",
+        "german" : "Verstappen siegt in Las Vegas, Piastri fährt von Platz 17 aufs Podium",
+        "italian" : "Verstappen vince a Las Vegas, Piastri dal 17º posto al podio",
+        "spanish" : "Verstappen gana en Las Vegas y Piastri sube del 17 al podio"
+      },
+      "translationGroup" : "weekend-sport-2026-11-22"
+    },
     {
       "category" : "conversations",
       "dateAdded" : "2026-11-23",
@@ -55,5 +67,5 @@
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "ebbb81e21ad767938e563be690e0d70eb909c804c35eabac3fa9deffc37986f5"
+  "sha256" : "d1158586eeadf8e015af78caec3285957dd2af7e0283090fb0602d1ced78787f"
 }
