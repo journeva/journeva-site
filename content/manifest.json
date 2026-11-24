@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 43,
-  "generatedAt" : "2026-11-23",
+  "contentVersion" : 44,
+  "generatedAt" : "2026-11-24",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "titles" : {
+        "english" : "The Leaks Seen from Space",
+        "french" : "Les fuites vues de l'espace",
+        "german" : "Die Lecks, die man nur aus dem All sieht",
+        "italian" : "Le perdite viste dallo spazio",
+        "spanish" : "Las fugas que se ven desde el espacio"
+      },
+      "translationGroup" : "leaks-seen-from-space"
+    },
     {
       "category" : "news",
       "dateAdded" : "2026-11-23",
@@ -52,20 +64,8 @@
         "spanish" : "La pasta de los carboneros"
       },
       "translationGroup" : "carbonara"
-    },
-    {
-      "category" : "bookQuotes",
-      "dateAdded" : "2026-11-19",
-      "titles" : {
-        "english" : "Dyed by Your Thoughts",
-        "french" : "La couleur de tes pensées",
-        "german" : "Die Farbe deiner Gedanken",
-        "italian" : "Il colore dei tuoi pensieri",
-        "spanish" : "El color de tus pensamientos"
-      },
-      "translationGroup" : "dyed-by-your-thoughts"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "d1158586eeadf8e015af78caec3285957dd2af7e0283090fb0602d1ced78787f"
+  "sha256" : "da58f71ea1d59a82e75d9eff039ada0a689e05718983af3c2b002428145b176e"
 }

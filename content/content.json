@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 43,
-  "generatedAt" : "2026-11-23",
+  "contentVersion" : 44,
+  "generatedAt" : "2026-11-24",
   "glossary" : {
     "english" : [
       {
@@ -32978,6 +32978,239 @@
         "note" : "A car close behind another goes faster in its slipstream, which makes passing easier.",
         "pos" : "noun",
         "translation" : "the pocket of air behind a fast car"
+      },
+      {
+        "forms" : [
+          "12"
+        ],
+        "note" : "Said \"twelve\"; on 12 November is said \"on the twelfth of November\" in British English.",
+        "pos" : "number",
+        "translation" : "12"
+      },
+      {
+        "forms" : [
+          "125,000"
+        ],
+        "note" : "Said \"a hundred and twenty-five thousand\"; English writes a comma between thousands (125,000), not a point or a space.",
+        "pos" : "number",
+        "translation" : "125,000"
+      },
+      {
+        "forms" : [
+          "2.5"
+        ],
+        "note" : "Said \"two point five\"; English writes a point for decimals, not a comma: 2.5 million = two and a half million.",
+        "pos" : "number",
+        "translation" : "2.5"
+      },
+      {
+        "forms" : [
+          "46"
+        ],
+        "note" : "Said \"forty-six\".",
+        "pos" : "number",
+        "translation" : "46"
+      },
+      {
+        "forms" : [
+          "twenty-six"
+        ],
+        "note" : "Twenty-six = 26; numbers from 21 to 99 take a hyphen: twenty-six million.",
+        "pos" : "number",
+        "translation" : "26"
+      },
+      {
+        "forms" : [
+          "ai"
+        ],
+        "note" : "Said \"A-I\", letter by letter: computer programs that learn from data.",
+        "pos" : "noun",
+        "translation" : "artificial intelligence"
+      },
+      {
+        "forms" : [
+          "antalya"
+        ],
+        "note" : "A city on the south coast of Türkiye; in November 2026 it hosted the UN climate summit.",
+        "pos" : "noun",
+        "translation" : "Antalya"
+      },
+      {
+        "forms" : [
+          "türkiye"
+        ],
+        "note" : "The country's own name, used by the UN since 2022; many people still say Turkey.",
+        "pos" : "noun",
+        "translation" : "Türkiye (Turkey)"
+      },
+      {
+        "forms" : [
+          "canada"
+        ],
+        "note" : "The country in North America.",
+        "pos" : "noun",
+        "translation" : "Canada"
+      },
+      {
+        "forms" : [
+          "cop31"
+        ],
+        "note" : "Said \"cop thirty-one\": the 31st UN climate summit (Conference of the Parties), in Antalya in November 2026.",
+        "pos" : "noun",
+        "translation" : "COP31"
+      },
+      {
+        "forms" : [
+          "mars"
+        ],
+        "note" : "The UN's Methane Alert and Response System; said like the planet Mars.",
+        "pos" : "noun",
+        "translation" : "MARS"
+      },
+      {
+        "forms" : [
+          "un's"
+        ],
+        "note" : "The UN + 's: the UN's alert system = the alert system of the UN.",
+        "pos" : "other",
+        "translation" : "the UN's"
+      },
+      {
+        "forms" : [
+          "summit"
+        ],
+        "note" : "A summit is a big meeting of countries' leaders; the climate summit = the yearly UN meeting on climate.",
+        "pos" : "noun",
+        "translation" : "summit, big meeting of leaders"
+      },
+      {
+        "forms" : [
+          "satellites"
+        ],
+        "note" : "Machines that go round the Earth in space; singular a satellite.",
+        "pos" : "noun",
+        "translation" : "satellites"
+      },
+      {
+        "forms" : [
+          "leaks"
+        ],
+        "note" : "A leak is a hole or crack where gas or liquid gets out; also a verb: it leaks out of oil and gas sites.",
+        "pos" : "noun",
+        "translation" : "leaks"
+      },
+      {
+        "forms" : [
+          "methane"
+        ],
+        "note" : "Said \"MEE-thane\" (British) or \"METH-ane\" (American): a gas with no colour that warms the air.",
+        "pos" : "noun",
+        "translation" : "methane"
+      },
+      {
+        "forms" : [
+          "carbon"
+        ],
+        "note" : "Carbon dioxide (CO₂) is the gas that most warms the planet; carbon alone is the element in coal and diamonds.",
+        "pos" : "noun",
+        "translation" : "carbon"
+      },
+      {
+        "forms" : [
+          "dioxide"
+        ],
+        "note" : "Only heard here in carbon dioxide (CO₂), the main gas behind global warming.",
+        "pos" : "noun",
+        "translation" : "dioxide"
+      },
+      {
+        "forms" : [
+          "cause"
+        ],
+        "note" : "What makes something happen: the second biggest cause of global warming.",
+        "pos" : "noun",
+        "translation" : "cause"
+      },
+      {
+        "forms" : [
+          "environment"
+        ],
+        "note" : "The natural world around us: air, water, land; the UN Environment Programme looks after it.",
+        "pos" : "noun",
+        "translation" : "environment"
+      },
+      {
+        "forms" : [
+          "pays"
+        ],
+        "note" : "To pay off = to bring a good result for the effort: every fixed leak pays off quickly.",
+        "pos" : "verb",
+        "translation" : "pays (off)"
+      },
+      {
+        "forms" : [
+          "plumes"
+        ],
+        "note" : "A plume is a long cloud of gas or smoke rising from one place.",
+        "pos" : "noun",
+        "translation" : "plumes, clouds (of gas or smoke)"
+      },
+      {
+        "forms" : [
+          "rare"
+        ],
+        "note" : "Not seen often: something rare.",
+        "pos" : "adjective",
+        "translation" : "rare"
+      },
+      {
+        "forms" : [
+          "sources"
+        ],
+        "note" : "Places where something comes from; here, sites where methane gets out.",
+        "pos" : "noun",
+        "translation" : "sources"
+      },
+      {
+        "forms" : [
+          "spot",
+          "spots"
+        ],
+        "note" : "To spot = to see or find something hard to see; it spots big plumes.",
+        "pos" : "verb",
+        "translation" : "spot, notice"
+      },
+      {
+        "forms" : [
+          "tonnes"
+        ],
+        "note" : "A tonne is 1,000 kilos; Americans write ton.",
+        "pos" : "noun",
+        "translation" : "tonnes"
+      },
+      {
+        "forms" : [
+          "unseen"
+        ],
+        "note" : "Un- + seen: nobody sees it; it leaks unseen.",
+        "pos" : "adjective",
+        "translation" : "unseen, without being seen"
+      },
+      {
+        "forms" : [
+          "warmer"
+        ],
+        "note" : "Warm + -er: it makes the air warmer = it makes the air more warm.",
+        "pos" : "adjective",
+        "translation" : "warmer"
+      },
+      {
+        "forms" : [
+          "warms"
+        ],
+        "note" : "To warm = to make warmer; it warms the air.",
+        "pos" : "verb",
+        "translation" : "warms"
       }
     ],
     "french" : [
@@ -35714,6 +35947,7 @@
       },
       {
         "forms" : [
+          "gère",
           "gérer"
         ],
         "note" : "Infinitive of gérer.",
@@ -38541,6 +38775,7 @@
       {
         "forms" : [
           "verrai",
+          "voie",
           "voir",
           "vois"
         ],
@@ -42465,7 +42700,9 @@
       },
       {
         "forms" : [
-          "réparée"
+          "réparé",
+          "réparée",
+          "réparées"
         ],
         "gender" : "feminine",
         "note" : "Past participle of réparer.",
@@ -43833,7 +44070,8 @@
       },
       {
         "forms" : [
-          "fuis"
+          "fuis",
+          "fuit"
         ],
         "note" : "Fuir, \"je\" form — of a container, to let liquid escape; also \"to flee.\"",
         "pos" : "verb",
@@ -53214,6 +53452,7 @@
       },
       {
         "forms" : [
+          "retirait",
           "retire",
           "retirer"
         ],
@@ -57397,7 +57636,8 @@
       },
       {
         "forms" : [
-          "satellite"
+          "satellite",
+          "satellites"
         ],
         "gender" : "masculine",
         "note" : "Noun.",
@@ -70096,7 +70336,8 @@
       },
       {
         "forms" : [
-          "repère"
+          "repère",
+          "repérer"
         ],
         "note" : "Present of repérer: « un rendez-vous repère les problèmes » = a check-up spots problems early.",
         "pos" : "verb",
@@ -77096,6 +77337,7 @@
       },
       {
         "forms" : [
+          "site",
           "sites"
         ],
         "gender" : "masculine",
@@ -77680,6 +77922,243 @@
         "note" : "Past participle of « taper »; « taper le mur » is the everyday way to say a car hit the wall.",
         "pos" : "verb",
         "translation" : "hit"
+      },
+      {
+        "forms" : [
+          "46"
+        ],
+        "note" : "Read « quarante-six », with a hyphen between the tens and the units.",
+        "pos" : "number",
+        "translation" : "46"
+      },
+      {
+        "forms" : [
+          "12"
+        ],
+        "note" : "Read « douze »; French dates use the plain number: le 12 novembre, but le 1er (premier) for the first.",
+        "pos" : "number",
+        "translation" : "12"
+      },
+      {
+        "forms" : [
+          "125 000"
+        ],
+        "note" : "Read « cent vingt-cinq mille »; French groups thousands with a space, not a comma, and mille never takes an -s.",
+        "pos" : "number",
+        "translation" : "125,000"
+      },
+      {
+        "forms" : [
+          "2,5"
+        ],
+        "note" : "Read « deux virgule cinq »: French writes a comma where English writes a decimal point.",
+        "pos" : "number",
+        "translation" : "2.5"
+      },
+      {
+        "forms" : [
+          "antalya",
+          "d'antalya"
+        ],
+        "note" : "A city name takes no article; « de » shortens to d' before the vowel: le sommet d'Antalya = the Antalya summit.",
+        "pos" : "noun",
+        "translation" : "Antalya (city on the south coast of Türkiye)"
+      },
+      {
+        "forms" : [
+          "turquie"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine country, so « en Turquie » for in or to it, and « la Turquie » when it is the subject.",
+        "pos" : "noun",
+        "translation" : "Türkiye, Turkey"
+      },
+      {
+        "forms" : [
+          "canada"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine country, so French says « au Canada » for in or to it and « le Canada » otherwise.",
+        "pos" : "noun",
+        "translation" : "Canada"
+      },
+      {
+        "forms" : [
+          "mexique"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine in spite of its -e ending, so « au Mexique »; the capital city is « Mexico ».",
+        "pos" : "noun",
+        "translation" : "Mexico (the country)"
+      },
+      {
+        "forms" : [
+          "cop31"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine, like « la conférence » it stands for: « la COP31 », read « la cop trente et un ».",
+        "pos" : "noun",
+        "translation" : "COP31 (the UN climate summit of 2026)"
+      },
+      {
+        "forms" : [
+          "méthane"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine, like most gases: « le méthane », « du méthane ».",
+        "pos" : "noun",
+        "translation" : "methane"
+      },
+      {
+        "forms" : [
+          "fuite",
+          "fuites"
+        ],
+        "gender" : "feminine",
+        "note" : "From the verb fuir (to leak, to flee); réparer or colmater une fuite = to fix a leak.",
+        "pos" : "noun",
+        "translation" : "leak(s)"
+      },
+      {
+        "forms" : [
+          "colmatée",
+          "colmatées"
+        ],
+        "note" : "Past participle of colmater, agreeing like an adjective: une fuite colmatée, des sources colmatées.",
+        "pos" : "adjective",
+        "translation" : "sealed, plugged (a leak or a hole)"
+      },
+      {
+        "forms" : [
+          "dioxyde"
+        ],
+        "gender" : "masculine",
+        "note" : "Used in « le dioxyde de carbone », carbon dioxide; in everyday talk people also just say « le CO₂ ».",
+        "pos" : "noun",
+        "translation" : "dioxide"
+      },
+      {
+        "forms" : [
+          "carbone"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine in spite of its -e: « le carbone »; le dioxyde de carbone = carbon dioxide.",
+        "pos" : "noun",
+        "translation" : "carbon"
+      },
+      {
+        "forms" : [
+          "d'alerte"
+        ],
+        "note" : "De + alerte shortened before the vowel: un système d'alerte = an alert system, where English puts the noun first.",
+        "pos" : "other",
+        "translation" : "alert (as in alert system)"
+      },
+      {
+        "forms" : [
+          "ia",
+          "l'ia"
+        ],
+        "gender" : "feminine",
+        "note" : "Short for l'intelligence artificielle, so feminine: « l'IA », read « l'i-a ».",
+        "pos" : "noun",
+        "translation" : "AI, artificial intelligence"
+      },
+      {
+        "forms" : [
+          "nuages"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of un nuage; un nuage de méthane = a methane cloud you can't see.",
+        "pos" : "noun",
+        "translation" : "clouds"
+      },
+      {
+        "forms" : [
+          "sources"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine: une source; here a place where a lot of methane escapes, also a spring of water.",
+        "pos" : "noun",
+        "translation" : "sources"
+      },
+      {
+        "forms" : [
+          "l'environnement"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: l'environnement; the UN agency is le Programme des Nations unies pour l'environnement (PNUE).",
+        "pos" : "noun",
+        "translation" : "the environment"
+      },
+      {
+        "forms" : [
+          "rare"
+        ],
+        "note" : "Same form for masculine and feminine; « quelque chose de rare » = something rare, with de before the adjective.",
+        "pos" : "adjective",
+        "translation" : "rare"
+      },
+      {
+        "forms" : [
+          "négociations"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural, the usual word for diplomatic talks: les négociations sur le climat.",
+        "pos" : "noun",
+        "translation" : "talks, negotiations"
+      },
+      {
+        "forms" : [
+          "notamment"
+        ],
+        "note" : "Points to some examples among others: notamment au Canada = including in Canada.",
+        "pos" : "adverb",
+        "translation" : "including, in particular"
+      },
+      {
+        "forms" : [
+          "dégrade"
+        ],
+        "note" : "Se dégrader = to break down, to decay; reflexive, so le méthane se dégrade.",
+        "pos" : "verb",
+        "translation" : "breaks down"
+      },
+      {
+        "forms" : [
+          "exploitant",
+          "l'exploitant"
+        ],
+        "gender" : "masculine",
+        "note" : "The company or person that runs a site, a mine or a farm: l'exploitant du site.",
+        "pos" : "noun",
+        "translation" : "the operator (of a site)"
+      },
+      {
+        "forms" : [
+          "panaches"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of un panache: a long trail of gas or smoke; « avoir du panache » also means to have style.",
+        "pos" : "noun",
+        "translation" : "plumes (of gas or smoke)"
+      },
+      {
+        "forms" : [
+          "co2"
+        ],
+        "gender" : "masculine",
+        "note" : "Read « cé-o-deux »; the everyday short name for le dioxyde de carbone: le CO2.",
+        "pos" : "noun",
+        "translation" : "CO2, carbon dioxide"
+      },
+      {
+        "forms" : [
+          "réchauffent"
+        ],
+        "note" : "From réchauffer (to warm up); qui réchauffent autant la planète que… = which warm the planet as much as… Same family as le réchauffement (global warming).",
+        "pos" : "verb",
+        "translation" : "warm, heat up (they)"
       }
     ],
     "german" : [
@@ -87119,7 +87598,8 @@
         "forms" : [
           "warm",
           "warmem",
-          "warmen"
+          "warmen",
+          "wärmer"
         ],
         "note" : "Case-inflected forms of warm.",
         "pos" : "adjective",
@@ -87253,7 +87733,8 @@
       },
       {
         "forms" : [
-          "wissenschaftler"
+          "wissenschaftler",
+          "wissenschaftlern"
         ],
         "gender" : "masculine",
         "note" : "Plural of Wissenschaftler.",
@@ -101516,7 +101997,8 @@
       },
       {
         "forms" : [
-          "satellit"
+          "satellit",
+          "satelliten"
         ],
         "gender" : "masculine",
         "note" : "Photographs the Amazon from above.",
@@ -124485,6 +124967,353 @@
         "note" : "Past participle of tauschen (to swap): „die Führung tauschen“ = to swap the lead, said when two drivers keep passing each other.",
         "pos" : "verb",
         "translation" : "swapped, exchanged"
+      },
+      {
+        "forms" : [
+          "125.000"
+        ],
+        "note" : "Said „hundertfünfundzwanzigtausend“; German writes thousands with a point: 125.000 = 125,000.",
+        "pos" : "number",
+        "translation" : "125,000"
+      },
+      {
+        "forms" : [
+          "2,5"
+        ],
+        "note" : "Said „zwei Komma fünf“; German writes decimals with a comma: 2,5 Millionen = 2.5 million.",
+        "pos" : "number",
+        "translation" : "2.5"
+      },
+      {
+        "forms" : [
+          "46"
+        ],
+        "note" : "Said „sechsundvierzig“: the units come first, then „und“, then the tens.",
+        "pos" : "number",
+        "translation" : "46"
+      },
+      {
+        "forms" : [
+          "abgedichtet",
+          "abgedichtete"
+        ],
+        "note" : "Partizip II of abdichten (to seal), with -ge- after the particle ab-; „ein abgedichtetes Leck“ uses it as an adjective with an ending.",
+        "pos" : "verb",
+        "translation" : "sealed, fixed (a leak)"
+      },
+      {
+        "forms" : [
+          "anlage",
+          "anlagen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Anlage, plural die Anlagen; „die Firma, die die Anlage betreibt“ = the company that runs the site; „diese Anlagen“ = these sites.",
+        "pos" : "noun",
+        "translation" : "site, plant, facility"
+      },
+      {
+        "forms" : [
+          "antalya"
+        ],
+        "note" : "A city on the south coast of Türkiye, host of the COP31 climate summit in 2026.",
+        "pos" : "other",
+        "translation" : "Antalya"
+      },
+      {
+        "forms" : [
+          "klimawirkung"
+        ],
+        "note" : "Die Klimawirkung = das Klima + die Wirkung (effect); mit der Klimawirkung von … Autos = with the same effect on the climate as … cars.",
+        "pos" : "noun",
+        "translation" : "effect on the climate"
+      },
+      {
+        "forms" : [
+          "bescheid"
+        ],
+        "gender" : "masculine",
+        "note" : "„Jemandem Bescheid sagen“ = to tell someone, to let them know; Bescheid comes at the end of the clause.",
+        "pos" : "noun",
+        "translation" : "word, notice; (Bescheid sagen) to let someone know"
+      },
+      {
+        "forms" : [
+          "betreiber"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Betreiber, from betreiben (to run, operate): „der Betreiber der Anlage“ = the company running the site.",
+        "pos" : "noun",
+        "translation" : "operator, the company running something"
+      },
+      {
+        "forms" : [
+          "cop31"
+        ],
+        "note" : "Die COP31, the UN climate conference held in Antalya in November 2026; COP stands for „Conference of the Parties“.",
+        "pos" : "other",
+        "translation" : "COP31"
+      },
+      {
+        "forms" : [
+          "einigung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Einigung, from sich einigen (to agree); „ohne Einigung“ = without a deal.",
+        "pos" : "noun",
+        "translation" : "agreement, deal"
+      },
+      {
+        "forms" : [
+          "entweicht"
+        ],
+        "note" : "Entweichen, er/sie/es form, used for gas or air slipping out: „das Gas entweicht“.",
+        "pos" : "verb",
+        "translation" : "escapes, leaks out"
+      },
+      {
+        "forms" : [
+          "erwärmung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Erwärmung, from erwärmen (to warm up); „die Erderwärmung“ = global warming.",
+        "pos" : "noun",
+        "translation" : "warming"
+      },
+      {
+        "forms" : [
+          "gasanlagen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Gasanlage; „Öl- und Gasanlagen“: the hyphen stands for the shared second half, = Ölanlagen und Gasanlagen.",
+        "pos" : "noun",
+        "translation" : "gas sites, gas facilities"
+      },
+      {
+        "forms" : [
+          "gaslecks"
+        ],
+        "gender" : "neuter",
+        "note" : "Plural of das Gasleck (Gas + Leck).",
+        "pos" : "noun",
+        "translation" : "gas leaks"
+      },
+      {
+        "forms" : [
+          "gipfel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Gipfel = the top of a mountain, and also a summit meeting of leaders: „der Klimagipfel“.",
+        "pos" : "noun",
+        "translation" : "summit"
+      },
+      {
+        "forms" : [
+          "kanada"
+        ],
+        "note" : "A country in North America.",
+        "pos" : "other",
+        "translation" : "Canada"
+      },
+      {
+        "forms" : [
+          "ki"
+        ],
+        "gender" : "feminine",
+        "note" : "Die KI, short for „künstliche Intelligenz“; said „ka-i“.",
+        "pos" : "noun",
+        "translation" : "AI, artificial intelligence"
+      },
+      {
+        "forms" : [
+          "klimagipfel"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Klimagipfel (Klima + Gipfel), the everyday word for the UN climate conference.",
+        "pos" : "noun",
+        "translation" : "climate summit"
+      },
+      {
+        "forms" : [
+          "kohleanlagen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Kohleanlage (Kohle + Anlage).",
+        "pos" : "noun",
+        "translation" : "coal sites, coal facilities"
+      },
+      {
+        "forms" : [
+          "kohlendioxid"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Kohlendioxid, the gas behind most global warming.",
+        "pos" : "noun",
+        "translation" : "carbon dioxide, CO₂"
+      },
+      {
+        "forms" : [
+          "leck",
+          "lecks"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Leck, plural die Lecks: a hole or crack that lets gas or water out; „ein Leck abdichten“ = to seal a leak.",
+        "pos" : "noun",
+        "translation" : "leak"
+      },
+      {
+        "forms" : [
+          "mars"
+        ],
+        "note" : "Short for „Methane Alert and Response System“, the UN system that spots methane from space; not the planet here.",
+        "pos" : "other",
+        "translation" : "MARS (the UN's methane alert system)"
+      },
+      {
+        "forms" : [
+          "meldet"
+        ],
+        "note" : "Melden, er/sie/es form: „meldet sie der Regierung“ = reports them to the government (dative).",
+        "pos" : "verb",
+        "translation" : "reports"
+      },
+      {
+        "forms" : [
+          "methan"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Methan, a gas with no colour and no smell; „Methanwolken“ = methane clouds.",
+        "pos" : "noun",
+        "translation" : "methane"
+      },
+      {
+        "forms" : [
+          "methanwolken"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Methanwolke (Methan + Wolke).",
+        "pos" : "noun",
+        "translation" : "methane clouds, plumes"
+      },
+      {
+        "forms" : [
+          "mexiko"
+        ],
+        "note" : "A country in North America.",
+        "pos" : "other",
+        "translation" : "Mexico"
+      },
+      {
+        "forms" : [
+          "quellen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Quelle: a source, also a spring of water; here the places the Methan comes from.",
+        "pos" : "noun",
+        "translation" : "sources"
+      },
+      {
+        "forms" : [
+          "seltenes"
+        ],
+        "note" : "Selten (rare) with the neuter ending after „etwas“, written with a capital: „etwas Seltenes“ = something rare.",
+        "pos" : "adjective",
+        "translation" : "rare (thing)"
+      },
+      {
+        "forms" : [
+          "treiber"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Treiber, from treiben (to drive, push): „der zweitgrößte Treiber der Erderwärmung“.",
+        "pos" : "noun",
+        "translation" : "driver, cause"
+      },
+      {
+        "forms" : [
+          "türkei"
+        ],
+        "note" : "Always with the article: „die Türkei“, „in der Türkei“.",
+        "pos" : "other",
+        "translation" : "Türkiye, Turkey"
+      },
+      {
+        "forms" : [
+          "umweltprogramm",
+          "un-umweltprogramm"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Umweltprogramm (Umwelt + Programm); „das UN-Umweltprogramm“ = the UN Environment Programme (UNEP).",
+        "pos" : "noun",
+        "translation" : "environment programme"
+      },
+      {
+        "forms" : [
+          "un"
+        ],
+        "note" : "„Die UN“, short for die Vereinten Nationen; said „u-en“, and it usually takes a singular verb: „die UN hat“.",
+        "pos" : "other",
+        "translation" : "the UN"
+      },
+      {
+        "forms" : [
+          "verhandlungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of die Verhandlung, from verhandeln (to negotiate).",
+        "pos" : "noun",
+        "translation" : "negotiations, talks"
+      },
+      {
+        "forms" : [
+          "warnsystem"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Warnsystem (warnen + System).",
+        "pos" : "noun",
+        "translation" : "alert system, warning system"
+      },
+      {
+        "forms" : [
+          "weltklimakonferenz"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Weltklimakonferenz (Welt + Klima + Konferenz), the official German name for the yearly COP.",
+        "pos" : "noun",
+        "translation" : "UN climate conference"
+      },
+      {
+        "forms" : [
+          "weltraum"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Weltraum; „aus dem Weltraum“ = from space, „im Weltraum“ = in space.",
+        "pos" : "noun",
+        "translation" : "space, outer space"
+      },
+      {
+        "forms" : [
+          "wärmt"
+        ],
+        "note" : "Wärmen, er/sie/es form: „es wärmt die Luft“ = it warms the air.",
+        "pos" : "verb",
+        "translation" : "warms"
+      },
+      {
+        "forms" : [
+          "zweitgrößte"
+        ],
+        "note" : "Zweit- + größte (biggest): „der zweitgrößte Grund“ = the second biggest reason.",
+        "pos" : "adjective",
+        "translation" : "second biggest"
+      },
+      {
+        "forms" : [
+          "ursache"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Ursache; „die zweitgrößte Ursache der Erderwärmung“ = the second biggest cause of global warming.",
+        "pos" : "noun",
+        "translation" : "cause"
       }
     ],
     "italian" : [
@@ -129112,7 +129941,8 @@
       },
       {
         "forms" : [
-          "fonte"
+          "fonte",
+          "fonti"
         ],
         "gender" : "feminine",
         "note" : "The origin of something.",
@@ -140726,7 +141556,8 @@
       },
       {
         "forms" : [
-          "tratta"
+          "tratta",
+          "trattava"
         ],
         "note" : "As in \"si tratta di.\"",
         "pos" : "verb",
@@ -140864,7 +141695,8 @@
           "vederla",
           "vederle",
           "vederli",
-          "vedi"
+          "vedi",
+          "vedono"
         ],
         "note" : "Forms of \"vedere.\"",
         "pos" : "verb",
@@ -142546,7 +143378,8 @@
       },
       {
         "forms" : [
-          "satellite"
+          "satellite",
+          "satelliti"
         ],
         "gender" : "masculine",
         "note" : "The satellite that photographs the forest.",
@@ -146264,8 +147097,11 @@
       {
         "forms" : [
           "ripara",
+          "riparano",
           "riparare",
           "ripararli",
+          "riparata",
+          "riparate",
           "riparato",
           "riparava",
           "riparavo",
@@ -149776,8 +150612,10 @@
       },
       {
         "forms" : [
+          "all'azienda",
           "azienda",
-          "dell'azienda"
+          "dell'azienda",
+          "l'azienda"
         ],
         "gender" : "feminine",
         "note" : "A business that makes or sells things; di + la becomes dell' before a vowel: la regola dell'azienda = the company's rule.",
@@ -159131,7 +159969,8 @@
       },
       {
         "forms" : [
-          "aria"
+          "aria",
+          "nell'aria"
         ],
         "gender" : "feminine",
         "note" : "Aria fresca = fresh air; before a vowel the article shortens: l'aria.",
@@ -160370,7 +161209,8 @@
       },
       {
         "forms" : [
-          "incontra"
+          "incontra",
+          "incontrano"
         ],
         "note" : "Incontrare, lui/lei form, present: «dove Colombo incontra l'oceano».",
         "pos" : "verb",
@@ -164316,6 +165156,267 @@
         "note" : "Di continuo = all the time, again and again: si sono passati il comando di continuo = they kept swapping the lead.",
         "pos" : "adjective",
         "translation" : "continuous"
+      },
+      {
+        "forms" : [
+          "12"
+        ],
+        "note" : "Dodici; dates use the plain number before the month: il 12 novembre = on 12 November.",
+        "pos" : "number",
+        "translation" : "12"
+      },
+      {
+        "forms" : [
+          "46"
+        ],
+        "note" : "Quarantasei, written as one word: 46 perdite = 46 leaks.",
+        "pos" : "number",
+        "translation" : "46"
+      },
+      {
+        "forms" : [
+          "125.000"
+        ],
+        "note" : "Centoventicinquemila; Italian marks thousands with a point, not a comma: 125.000 tonnellate = 125,000 tonnes.",
+        "pos" : "number",
+        "translation" : "125,000"
+      },
+      {
+        "forms" : [
+          "2,5"
+        ],
+        "note" : "Due virgola cinque; Italian writes decimals with a comma: 2,5 milioni = 2.5 million.",
+        "pos" : "number",
+        "translation" : "2.5"
+      },
+      {
+        "forms" : [
+          "ventisei"
+        ],
+        "note" : "Ventisei is venti + sei written as one word: ventisei milioni di auto = twenty-six million cars.",
+        "pos" : "number",
+        "translation" : "twenty-six"
+      },
+      {
+        "forms" : [
+          "antalya"
+        ],
+        "gender" : "feminine",
+        "note" : "Antalya is a city on the south coast of Turkey; it is feminine like most cities and takes ad before the vowel: ad Antalya = in Antalya.",
+        "pos" : "noun",
+        "translation" : "Antalya"
+      },
+      {
+        "forms" : [
+          "turchia"
+        ],
+        "gender" : "feminine",
+        "note" : "La Turchia takes the article like most countries, but not after in: in Turchia = in Türkiye.",
+        "pos" : "noun",
+        "translation" : "Turkey, Türkiye"
+      },
+      {
+        "forms" : [
+          "canada"
+        ],
+        "gender" : "masculine",
+        "note" : "Il Canada is masculine and takes the article, but in Canada has none: anche in Canada = in Canada too.",
+        "pos" : "noun",
+        "translation" : "Canada"
+      },
+      {
+        "forms" : [
+          "cop31"
+        ],
+        "gender" : "feminine",
+        "note" : "La COP31 is feminine because it stands for la conferenza: alla COP31 = at COP31.",
+        "pos" : "noun",
+        "translation" : "COP31 (the UN climate conference)"
+      },
+      {
+        "forms" : [
+          "mars"
+        ],
+        "gender" : "masculine",
+        "note" : "MARS is the name of the UN's satellite alert system for methane leaks; Italian keeps the English acronym.",
+        "pos" : "noun",
+        "translation" : "MARS (the UN's methane alert system)"
+      },
+      {
+        "forms" : [
+          "metano"
+        ],
+        "gender" : "masculine",
+        "note" : "Il metano is the gas in natural gas and is masculine: il metano non si vede = you can't see methane.",
+        "pos" : "noun",
+        "translation" : "methane"
+      },
+      {
+        "forms" : [
+          "dell'impianto",
+          "impianti",
+          "impianto",
+          "l'impianto"
+        ],
+        "gender" : "masculine",
+        "note" : "Un impianto is any industrial site or plant; plural impianti: impianti di petrolio e gas = oil and gas sites; dell'impianto = of the site (di + l').",
+        "pos" : "noun",
+        "translation" : "plant, site, installation"
+      },
+      {
+        "forms" : [
+          "allerta",
+          "un'allerta"
+        ],
+        "gender" : "feminine",
+        "note" : "Allerta is feminine, so un becomes un' before it: manda un'allerta = sends an alert; un sistema di allerta = an alert system.",
+        "pos" : "noun",
+        "translation" : "alert, warning"
+      },
+      {
+        "forms" : [
+          "vertice"
+        ],
+        "gender" : "masculine",
+        "note" : "Il vertice is the top of something, and also a summit meeting: il vertice sul clima = the climate summit.",
+        "pos" : "noun",
+        "translation" : "summit"
+      },
+      {
+        "forms" : [
+          "dell'anidride",
+          "l'anidride"
+        ],
+        "gender" : "feminine",
+        "note" : "Anidride is feminine and almost always comes with carbonica: l'anidride carbonica = carbon dioxide.",
+        "pos" : "noun",
+        "translation" : "anhydride (in: anidride carbonica)"
+      },
+      {
+        "forms" : [
+          "carbonica"
+        ],
+        "note" : "Carbonica agrees with the feminine anidride; together they mean carbon dioxide, which people also call CO2.",
+        "pos" : "adjective",
+        "translation" : "carbonic (in: anidride carbonica)"
+      },
+      {
+        "forms" : [
+          "l'ambiente"
+        ],
+        "gender" : "masculine",
+        "note" : "L'ambiente is masculine: il Programma delle Nazioni Unite per l'ambiente = the UN Environment Programme.",
+        "pos" : "noun",
+        "translation" : "the environment"
+      },
+      {
+        "forms" : [
+          "intelligenza"
+        ],
+        "gender" : "feminine",
+        "note" : "Intelligenza artificiale = artificial intelligence, AI; Italians also just say l'IA.",
+        "pos" : "noun",
+        "translation" : "intelligence"
+      },
+      {
+        "forms" : [
+          "nuvole"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la nuvola: grandi nuvole di metano = big clouds of methane.",
+        "pos" : "noun",
+        "translation" : "clouds"
+      },
+      {
+        "forms" : [
+          "pennacchi"
+        ],
+        "gender" : "masculine",
+        "note" : "Un pennacchio is a plume, like the feathers on a helmet or a column of smoke or gas; plural pennacchi.",
+        "pos" : "noun",
+        "translation" : "plumes"
+      },
+      {
+        "forms" : [
+          "trattative"
+        ],
+        "gender" : "feminine",
+        "note" : "Le trattative are the talks before a deal; it is usually plural: le trattative non c'entrano = the talks have nothing to do with it.",
+        "pos" : "noun",
+        "translation" : "talks, negotiations"
+      },
+      {
+        "forms" : [
+          "rara",
+          "raro"
+        ],
+        "note" : "Raro, feminine rara: una cosa rara = something rare, a rare thing; the adjective agrees with cosa.",
+        "pos" : "adjective",
+        "translation" : "rare"
+      },
+      {
+        "forms" : [
+          "avvisa"
+        ],
+        "note" : "Avvisare qualcuno is to let someone know or warn them; avvisa = he/she/it warns: avvisa il governo = it tells the government.",
+        "pos" : "verb",
+        "translation" : "warns, lets know"
+      },
+      {
+        "forms" : [
+          "individuare"
+        ],
+        "note" : "Individuare means to find exactly where something is: individuare una perdita = to pinpoint a leak.",
+        "pos" : "verb",
+        "translation" : "to spot, to pinpoint"
+      },
+      {
+        "forms" : [
+          "scaldano"
+        ],
+        "note" : "From scaldare (to warm, heat); che scaldano il pianeta quanto… = which warm the planet as much as…",
+        "pos" : "verb",
+        "translation" : "warm, heat up (they)"
+      },
+      {
+        "forms" : [
+          "degrada"
+        ],
+        "note" : "Degradarsi, of a substance, is to break down over time: il metano si degrada in fretta = methane breaks down fast.",
+        "pos" : "verb",
+        "translation" : "breaks down (si degrada)"
+      },
+      {
+        "forms" : [
+          "rallenta"
+        ],
+        "note" : "Rallentare = to slow down; rallenta il riscaldamento = it slows warming.",
+        "pos" : "verb",
+        "translation" : "slows (down)"
+      },
+      {
+        "forms" : [
+          "c'entrano"
+        ],
+        "note" : "Entrarci (ci + entrare) means to have something to do with it; ci becomes c' before e: non c'entrano = they have nothing to do with it.",
+        "pos" : "verb",
+        "translation" : "have to do with it"
+      },
+      {
+        "forms" : [
+          "siccome"
+        ],
+        "note" : "Siccome gives a reason and usually opens the sentence: siccome il metano si degrada in fretta… = since methane breaks down fast…",
+        "pos" : "conjunction",
+        "translation" : "since, as"
+      },
+      {
+        "forms" : [
+          "veda"
+        ],
+        "note" : "Veda is the present subjunctive of vedere, needed after senza che: senza che nessuno lo veda = without anyone seeing it.",
+        "pos" : "verb",
+        "translation" : "sees (subjunctive)"
       }
     ],
     "spanish" : [
@@ -177799,7 +178900,8 @@
           "reparado",
           "reparar",
           "repararse",
-          "reparo"
+          "reparo",
+          "reparó"
         ],
         "note" : "Infinitive.",
         "pos" : "verb",
@@ -184847,7 +185949,8 @@
       },
       {
         "forms" : [
-          "fuente"
+          "fuente",
+          "fuentes"
         ],
         "gender" : "feminine",
         "note" : "A baking dish; also a fountain in a square, and a source (of news, of water).",
@@ -186041,7 +187144,8 @@
       },
       {
         "forms" : [
-          "satélite"
+          "satélite",
+          "satélites"
         ],
         "gender" : "masculine",
         "note" : "A satellite.",
@@ -188515,7 +189619,8 @@
       },
       {
         "forms" : [
-          "detecta"
+          "detecta",
+          "detectar"
         ],
         "note" : "Present of detectar; \"detecta los problemas pequeños\".",
         "pos" : "verb",
@@ -201989,6 +203094,7 @@
         "forms" : [
           "reunieron",
           "reunió",
+          "reúne",
           "reúnen"
         ],
         "note" : "Preterite of reunir: «reunió esas notas en tablas» = he pulled those notes together into charts; reunirse = to meet: «se reunieron» = they met.",
@@ -205333,6 +206439,246 @@
         "note" : "Infinitive after \"tras\": \"tras remontar catorce puestos\" = after climbing fourteen places.",
         "pos" : "verb",
         "translation" : "to make up places, to climb back"
+      },
+      {
+        "forms" : [
+          "12"
+        ],
+        "note" : "Read «doce»: «el 12 de noviembre» = on 12 November; Spanish puts el before the day and uses de before the month.",
+        "pos" : "number",
+        "translation" : "12"
+      },
+      {
+        "forms" : [
+          "125.000"
+        ],
+        "note" : "Read «ciento veinticinco mil»: Spanish writes thousands with a point and reads mil without un or a plural: «125.000 toneladas».",
+        "pos" : "number",
+        "translation" : "125,000"
+      },
+      {
+        "forms" : [
+          "2,5"
+        ],
+        "note" : "Read «dos coma cinco»: Spanish writes decimals with a comma: «2,5 millones de coches» = 2.5 million cars.",
+        "pos" : "number",
+        "translation" : "2.5"
+      },
+      {
+        "forms" : [
+          "46"
+        ],
+        "note" : "Read «cuarenta y seis»: «46 fugas» = 46 leaks; Spanish joins tens and units with y.",
+        "pos" : "number",
+        "translation" : "46"
+      },
+      {
+        "forms" : [
+          "ambiente"
+        ],
+        "gender" : "masculine",
+        "note" : "«El medio ambiente» = the environment: «el Programa de las Naciones Unidas para el Medio Ambiente» (PNUMA).",
+        "pos" : "noun",
+        "translation" : "environment; atmosphere"
+      },
+      {
+        "forms" : [
+          "antalya"
+        ],
+        "note" : "A city on the south coast of Türkiye, host of the COP31 climate summit in November 2026.",
+        "pos" : "noun",
+        "translation" : "Antalya (city in Türkiye)"
+      },
+      {
+        "forms" : [
+          "artificial"
+        ],
+        "note" : "Same form for masculine and feminine: «inteligencia artificial» = artificial intelligence.",
+        "pos" : "adjective",
+        "translation" : "artificial"
+      },
+      {
+        "forms" : [
+          "canadá"
+        ],
+        "note" : "Stress on the last syllable, hence the accent: «en Canadá»; no article in everyday Spanish.",
+        "pos" : "noun",
+        "translation" : "Canada"
+      },
+      {
+        "forms" : [
+          "carbono"
+        ],
+        "gender" : "masculine",
+        "note" : "The element; el carbón is coal: «dióxido de carbono» = carbon dioxide.",
+        "pos" : "noun",
+        "translation" : "carbon"
+      },
+      {
+        "forms" : [
+          "carretera"
+        ],
+        "gender" : "feminine",
+        "note" : "«Sacar coches de la carretera» = to take cars off the road; la calle is a street in town.",
+        "pos" : "noun",
+        "translation" : "road (between towns)"
+      },
+      {
+        "forms" : [
+          "circulación"
+        ],
+        "note" : "Feminine: la circulación. «Retirar coches de la circulación» = to take cars off the road.",
+        "pos" : "noun",
+        "translation" : "traffic"
+      },
+      {
+        "forms" : [
+          "columnas"
+        ],
+        "gender" : "feminine",
+        "note" : "Una columna is a column; «una columna de metano» is a plume of methane rising into the air.",
+        "pos" : "noun",
+        "translation" : "columns; (gas) plumes"
+      },
+      {
+        "forms" : [
+          "cop31"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine because cumbre or conferencia is: «la COP31», the 31st UN climate conference, held in Antalya in November 2026.",
+        "pos" : "noun",
+        "translation" : "COP31 (the 2026 UN climate summit)"
+      },
+      {
+        "forms" : [
+          "cumbre"
+        ],
+        "gender" : "feminine",
+        "note" : "The top of a mountain, and a meeting of leaders: «la cumbre del clima» = the climate summit.",
+        "pos" : "noun",
+        "translation" : "summit"
+      },
+      {
+        "forms" : [
+          "descompone"
+        ],
+        "note" : "Present of descomponer; with se, something breaks down by itself: «el metano se descompone» = methane breaks down.",
+        "pos" : "verb",
+        "translation" : "breaks down"
+      },
+      {
+        "forms" : [
+          "dióxido"
+        ],
+        "gender" : "masculine",
+        "note" : "Always in «el dióxido de carbono» = carbon dioxide, CO₂.",
+        "pos" : "noun",
+        "translation" : "dioxide"
+      },
+      {
+        "forms" : [
+          "fuga",
+          "fugas"
+        ],
+        "gender" : "feminine",
+        "note" : "Una fuga is a leak of gas or water: «una fuga de gas»; reparar una fuga = to fix a leak.",
+        "pos" : "noun",
+        "translation" : "leak"
+      },
+      {
+        "forms" : [
+          "gestiona"
+        ],
+        "note" : "Present of gestionar: «la empresa que gestiona la instalación» = the company that runs the site.",
+        "pos" : "verb",
+        "translation" : "runs, manages"
+      },
+      {
+        "forms" : [
+          "instalaciones",
+          "instalación"
+        ],
+        "gender" : "feminine",
+        "note" : "A place with machines and buildings for one job: «instalaciones de petróleo y gas» = oil and gas sites.",
+        "pos" : "noun",
+        "translation" : "site, plant, facility"
+      },
+      {
+        "forms" : [
+          "inteligencia"
+        ],
+        "gender" : "feminine",
+        "note" : "«Inteligencia artificial» = artificial intelligence, AI (in Spanish IA).",
+        "pos" : "noun",
+        "translation" : "intelligence"
+      },
+      {
+        "forms" : [
+          "mars"
+        ],
+        "note" : "The acronym of the UN's Methane Alert and Response System; Spanish keeps the English letters: «el sistema MARS».",
+        "pos" : "noun",
+        "translation" : "MARS (the UN's methane alert system)"
+      },
+      {
+        "forms" : [
+          "metano"
+        ],
+        "gender" : "masculine",
+        "note" : "El metano is a gas with no colour or smell; it warms the air and comes out of oil, gas and coal sites.",
+        "pos" : "noun",
+        "translation" : "methane"
+      },
+      {
+        "forms" : [
+          "negociaciones"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la negociación: «esto no trata de las negociaciones» = this isn't about the talks.",
+        "pos" : "noun",
+        "translation" : "talks, negotiations"
+      },
+      {
+        "forms" : [
+          "nubes"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of la nube: «nubes de metano» = methane clouds.",
+        "pos" : "noun",
+        "translation" : "clouds"
+      },
+      {
+        "forms" : [
+          "reparada",
+          "reparadas"
+        ],
+        "note" : "Participle of reparar used as an adjective, agreeing with fuga: «cada fuga reparada» = every fixed leak; «46 fugas reparadas».",
+        "pos" : "adjective",
+        "translation" : "fixed, repaired"
+      },
+      {
+        "forms" : [
+          "turquía"
+        ],
+        "note" : "The usual Spanish name for Türkiye, with no article: «Antalya, en Turquía».",
+        "pos" : "noun",
+        "translation" : "Türkiye, Turkey"
+      },
+      {
+        "forms" : [
+          "verlo"
+        ],
+        "note" : "Infinitive ver + lo (it); «pueden verlo» = they can see it. The pronoun can join the infinitive: pueden verlo = lo pueden ver.",
+        "pos" : "verb",
+        "translation" : "to see it"
+      },
+      {
+        "forms" : [
+          "calientan"
+        ],
+        "note" : "From calentar (to warm, heat); the e becomes ie when stressed: calientan, but calentamos. Same family as el calentamiento (warming).",
+        "pos" : "verb",
+        "translation" : "warm, heat up (they)"
       }
     ]
   },
@@ -206041,6 +207387,107 @@
           "es" : "¿Qué te quitas en un templo?",
           "fr" : "Qu'est-ce que tu enlèves dans un temple ?",
           "it" : "Che cosa ti togli in un tempio?"
+        }
+      }
+    ],
+    "leaks-seen-from-space" : [
+      {
+        "answers" : [
+          {
+            "de" : "In Paris, in Frankreich",
+            "en" : "In Paris, France",
+            "es" : "En París, Francia",
+            "fr" : "À Paris, en France",
+            "it" : "A Parigi, in Francia"
+          },
+          {
+            "de" : "In Antalya, in der Türkei",
+            "en" : "In Antalya, Türkiye",
+            "es" : "En Antalya, Turquía",
+            "fr" : "À Antalya, en Turquie",
+            "it" : "Ad Antalya, in Turchia"
+          },
+          {
+            "de" : "In Rom, in Italien",
+            "en" : "In Rome, Italy",
+            "es" : "En Roma, Italia",
+            "fr" : "À Rome, en Italie",
+            "it" : "A Roma, in Italia"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Wo treffen sich die Menschen?",
+          "en" : "Where do the people meet?",
+          "es" : "¿Dónde se reúne la gente?",
+          "fr" : "Où est-ce que les gens se retrouvent ?",
+          "it" : "Dove si incontrano le persone?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Satelliten im Weltraum",
+            "en" : "Satellites in space",
+            "es" : "Satélites en el espacio",
+            "fr" : "Des satellites dans l'espace",
+            "it" : "I satelliti dallo spazio"
+          },
+          {
+            "de" : "Hunde auf dem Boden",
+            "en" : "Dogs on the ground",
+            "es" : "Perros en el suelo",
+            "fr" : "Des chiens au sol",
+            "it" : "I cani da terra"
+          },
+          {
+            "de" : "Boote auf dem Meer",
+            "en" : "Boats on the sea",
+            "es" : "Barcos en el mar",
+            "fr" : "Des bateaux sur la mer",
+            "it" : "Le barche dal mare"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Wer kann das Gas sehen?",
+          "en" : "What can see the gas?",
+          "es" : "¿Quién puede ver el gas?",
+          "fr" : "Qu'est-ce qui peut voir le gaz ?",
+          "it" : "Chi può vedere il gas?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "4",
+            "en" : "4",
+            "es" : "4",
+            "fr" : "4",
+            "it" : "4"
+          },
+          {
+            "de" : "460",
+            "en" : "460",
+            "es" : "460",
+            "fr" : "460",
+            "it" : "460"
+          },
+          {
+            "de" : "46",
+            "en" : "46",
+            "es" : "46",
+            "fr" : "46",
+            "it" : "46"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Wie viele große Lecks sind repariert?",
+          "en" : "How many big leaks are fixed?",
+          "es" : "¿Cuántas grandes fugas están reparadas?",
+          "fr" : "Combien de grosses fuites sont réparées ?",
+          "it" : "Quante grandi perdite sono riparate?"
         }
       }
     ],
@@ -267590,6 +269037,581 @@
       "summary" : "Un sabato sera a Las Vegas Max Verstappen ha vinto per poco più di mezzo secondo, e Oscar Piastri è risalito dal 17º posto fino al podio.",
       "title" : "Verstappen vince a Las Vegas, Piastri dal 17º posto al podio",
       "translationGroup" : "weekend-sport-2026-11-22"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "id" : "leaks-seen-from-space",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Can't\" (cannot) is followed by the base verb, with no \"to\" and no -s: you can't see, not you can't to see.",
+              "example" : "You can't see this gas, but it makes the air warmer.",
+              "title" : "Can't + verb: what is not possible"
+            },
+            {
+              "body" : "In the present simple, the verb takes -s after one person or thing: a satellite sees, the UN sends.",
+              "example" : "Now a satellite sees the gas, and the UN sends a message.",
+              "title" : "Present simple with he, she, it: sees, sends"
+            },
+            {
+              "body" : "\"Nobody\" already means \"not anybody\", so the verb stays positive: nobody can see, not nobody can't see.",
+              "example" : "From the ground, nobody can see this gas.",
+              "title" : "Nobody: a negative without not"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In November 2026, many people meet in Antalya, Türkiye. They talk about the climate, and the UN has good news.",
+            "Some oil and gas sites have big gas leaks. You can't see this gas, but it makes the air warmer. So the UN uses satellites, because they can see it.",
+            "Before, these places had big leaks. Now a satellite sees the gas, and the UN sends a message. Then people fix the leak.",
+            "So 46 leaks are fixed now, in 13 countries. That's like twenty-six million cars off the road for a year! From the ground, nobody can see this gas. From space, you can."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The past simple tells finished events: regular verbs add -ed (fix → fixed), others have their own form (get → got, make → made).",
+              "example" : "From June to November, people fixed five more big leaks.",
+              "title" : "Past simple: got, fixed, made"
+            },
+            {
+              "body" : "\"To\" + the base verb after an action tells you its purpose: the UN uses satellites to find leaks (= in order to find them).",
+              "example" : "The UN uses satellites to find big leaks from space.",
+              "title" : "To + verb: saying why"
+            },
+            {
+              "body" : "\"It's like\" + -ing compares a fact with an action people can picture: it's like taking cars off the road.",
+              "example" : "It's like taking twenty-six million cars off the road for a year.",
+              "title" : "Like + -ing: comparing with an action"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "On 12 November 2026, the climate summit in Antalya, Türkiye, got some good news from the UN.",
+            "It was about methane, a gas that leaks out of oil, gas and coal sites. You can't see it, but it warms the air.",
+            "The UN uses satellites to find big leaks from space. Then it sends an alert to the country and the company there.",
+            "From June to November, people fixed five more big leaks. That made 46 in 13 countries. It's like taking twenty-six million cars off the road for a year.",
+            "Methane doesn't stay in the air for long, so every fixed leak helps fast. From the ground, nobody can see this gas. From space, you can."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Since June\" names the start of a period that reaches the present, so English uses the present perfect (have been fixed), not the past simple.",
+              "example" : "Since June, five more big leaks have been fixed, in places like Canada and Mexico.",
+              "title" : "Since + present perfect: from then until now"
+            },
+            {
+              "body" : "\"That\" starts a clause which says exactly which thing or person we mean; it follows the noun directly, with no comma.",
+              "example" : "When it finds one, it tells the government and the company that runs the site.",
+              "title" : "Relative clause with that: the company that runs it"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "On 12 November 2026, at the COP31 climate summit in Antalya, Türkiye, the UN had some actually good news.",
+            "It was about methane, the second biggest cause of global warming after carbon dioxide. It leaks out of oil, gas and coal sites, and you can't see it.",
+            "A UN alert system uses satellites, AI and scientists to spot big methane clouds. When it finds one, it tells the government and the company that runs the site.",
+            "Since June, five more big leaks have been fixed, in places like Canada and Mexico. That makes 46 in 13 countries, and together that's like taking twenty-six million cars off the road for a year.",
+            "Methane doesn't stay in the air for long, so every fixed leak slows warming quickly. From the ground, nobody can see this gas. From space, you can."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had\" + past participle places one event before another past moment: the fixes came before the news was given in November.",
+              "example" : "On 12 November 2026, at the COP31 climate summit in Antalya, Türkiye, the UN Environment Programme brought something rare: good news that had already happened.",
+              "title" : "Past perfect: news that had already happened"
+            },
+            {
+              "body" : "\"Have been\" + past participle puts the result first when who did it matters less: the sources have been fixed, by the countries and companies.",
+              "example" : "Since June, five more big sources have been fixed, some in Canada and Mexico.",
+              "title" : "Present perfect passive: have been fixed"
+            },
+            {
+              "body" : "\"The company running the site\" is a shorter way of saying \"the company that runs the site\"; the -ing form does the work of the relative clause.",
+              "example" : "The UN's alert system, MARS, spots big plumes with satellites, AI and scientists, then tells the government and the company running the site.",
+              "title" : "-ing instead of a relative clause"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "On 12 November 2026, at the COP31 climate summit in Antalya, Türkiye, the UN Environment Programme brought something rare: good news that had already happened.",
+            "The summit closed ten days later without a deal, so this isn't about the talks. It's about methane, the second biggest driver of global warming after carbon dioxide. It leaks unseen from oil, gas and coal sites.",
+            "The UN's alert system, MARS, spots big plumes with satellites, AI and scientists, then tells the government and the company running the site.",
+            "Since June, five more big sources have been fixed, some in Canada and Mexico. That's about 125,000 tonnes of methane, with the warming effect of nearly 2.5 million cars in a year. That makes 46 in 13 countries, like taking twenty-six million cars off the road for a year.",
+            "Because methane breaks down faster than carbon dioxide, every fixed leak pays off quickly. From the ground, nobody can see this gas. From space, you can."
+          ]
+        }
+      ],
+      "summary" : "In November 2026, at the climate summit in Antalya, the UN said satellites had helped fix 46 big methane leaks in 13 countries.",
+      "title" : "The Leaks Seen from Space",
+      "translationGroup" : "leaks-seen-from-space"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "id" : "leaks-seen-from-space-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "French wraps the verb in two words to make it negative: ne before it, pas after it. On voit (you see) becomes on ne voit pas (you don't see).",
+              "example" : "On ne voit pas ce gaz, mais il rend l'air plus chaud.",
+              "title" : "Ne … pas: saying no"
+            },
+            {
+              "body" : "The story is in the present, but the imparfait (avaient, from avoir) looks back once to how things were before. Avant at the start of the sentence signals the look back.",
+              "example" : "Avant, ces endroits avaient de grosses fuites.",
+              "title" : "Avaient: one look back"
+            },
+            {
+              "body" : "On means \"people\" or \"you\" in general, and it takes the il/elle form of the verb: on voit, on le voit. The object pronoun le (it) goes before the verb.",
+              "example" : "Depuis l'espace, on le voit.",
+              "title" : "On: people in general"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "On est en novembre 2026, à Antalya, en Turquie. Beaucoup de gens se retrouvent là pour parler du climat. Et l'ONU a une bonne nouvelle !",
+            "Certains sites de pétrole et de gaz ont de grosses fuites. On ne voit pas ce gaz, mais il rend l'air plus chaud. Alors l'ONU utilise des satellites, parce qu'ils peuvent le voir.",
+            "Avant, ces endroits avaient de grosses fuites. Maintenant, un satellite voit le gaz, et l'ONU envoie un message. Puis des gens réparent la fuite.",
+            "Donc aujourd'hui, 46 fuites sont réparées, dans 13 pays. C'est comme 26 millions de voitures en moins pendant un an ! Depuis le sol, on ne voit pas ce gaz. Depuis l'espace, on le voit."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passé composé tells finished events: avoir in the present + the past participle. Réparer → on a réparé (people fixed).",
+              "example" : "De juin à novembre, on a réparé cinq autres grosses fuites.",
+              "title" : "Passé composé: ont réparé"
+            },
+            {
+              "body" : "Pour followed by a verb in the infinitive gives the purpose of an action, like English \"to\" or \"in order to\": pour trouver = to find.",
+              "example" : "L'ONU utilise des satellites pour trouver les grosses fuites depuis l'espace.",
+              "title" : "Pour + infinitive: saying why"
+            },
+            {
+              "body" : "Personne ne + verb means \"nobody\"; it replaces ne … pas, so there is no pas: personne ne voit, not personne ne voit pas.",
+              "example" : "Depuis le sol, personne ne voit ce gaz.",
+              "title" : "Personne ne: nobody"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Le 12 novembre 2026, au sommet sur le climat d'Antalya, en Turquie, l'ONU avait une bonne nouvelle.",
+            "Ça parlait du méthane, un gaz qui fuit des sites de pétrole, de gaz et de charbon. On ne le voit pas, mais il réchauffe l'air.",
+            "L'ONU utilise des satellites pour trouver les grosses fuites depuis l'espace. Ensuite, elle envoie une alerte au pays et à l'entreprise sur place.",
+            "De juin à novembre, on a réparé cinq autres grosses fuites. Au total, ça fait 46 fuites dans 13 pays. C'est comme retirer 26 millions de voitures de la circulation pendant un an.",
+            "Le méthane ne reste pas longtemps dans l'air, donc chaque fuite réparée, ça aide vite. Depuis le sol, personne ne voit ce gaz. Depuis l'espace, si."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "With depuis, French uses the present for a state that goes on, but the passé composé for actions already finished and counted since then: depuis juin, on a réparé cinq sources.",
+              "example" : "Depuis juin, on a réparé cinq autres grosses sources de méthane, dans des pays comme le Canada et le Mexique.",
+              "title" : "Depuis + passé composé: what got done since then"
+            },
+            {
+              "body" : "Comme si (as if) is followed by the imparfait, never the present or the conditional: comme si on retirait = as if you took away.",
+              "example" : "Ça fait 46 en tout, dans 13 pays : comme si on retirait 26 millions de voitures de la circulation pendant un an.",
+              "title" : "Comme si + imparfait: as if"
+            },
+            {
+              "body" : "When a number stands without its noun, French needs en before the verb to stand for it: il en trouve un = it finds one (of them).",
+              "example" : "Quand il en trouve un, il prévient le gouvernement et l'entreprise qui gère le site.",
+              "title" : "En + number: one of them"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Le 12 novembre 2026, à la COP31, le sommet sur le climat d'Antalya, en Turquie, l'ONU avait une vraie bonne nouvelle.",
+            "Elle parlait du méthane, la deuxième cause du réchauffement climatique après le dioxyde de carbone. Il fuit des sites de pétrole, de gaz et de charbon, et on ne le voit pas.",
+            "Un système d'alerte de l'ONU utilise des satellites, l'IA et des scientifiques pour repérer les gros nuages de méthane. Quand il en trouve un, il prévient le gouvernement et l'entreprise qui gère le site.",
+            "Depuis juin, on a réparé cinq autres grosses sources de méthane, dans des pays comme le Canada et le Mexique. Ça fait 46 en tout, dans 13 pays : comme si on retirait 26 millions de voitures de la circulation pendant un an.",
+            "Le méthane ne reste pas longtemps dans l'air, du coup chaque fuite réparée freine vite le réchauffement. Depuis le sol, personne ne voit ce gaz. Depuis l'espace, si."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The plus-que-parfait (imparfait of être or avoir + past participle) puts one event before another past moment: the fixes had already happened before the news was given.",
+              "example" : "Le 12 novembre 2026, à la COP31 d'Antalya, en Turquie, le Programme des Nations unies pour l'environnement a apporté quelque chose de rare : une bonne nouvelle qui était déjà devenue réalité.",
+              "title" : "Plus-que-parfait: news that had already come true"
+            },
+            {
+              "body" : "The passive puts the result first when who did it matters less: avoir été + past participle, which agrees with the subject (les sources → colmatées).",
+              "example" : "Depuis juin, cinq autres grosses sources ont été colmatées, notamment au Canada et au Mexique.",
+              "title" : "Passive in the passé composé: ont été colmatées"
+            },
+            {
+              "body" : "Sans que (without) is always followed by the subjunctive: sans qu'on le voie, not sans qu'on le voit. With one subject only, French says sans + infinitive instead.",
+              "example" : "Le méthane, deuxième moteur du réchauffement après le CO2, s'échappe des sites de pétrole, de gaz et de charbon sans qu'on le voie.",
+              "title" : "Sans que + subjunctive: without anyone seeing"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Le 12 novembre 2026, à la COP31 d'Antalya, en Turquie, le Programme des Nations unies pour l'environnement a apporté quelque chose de rare : une bonne nouvelle qui était déjà devenue réalité.",
+            "Le sommet s'est terminé dix jours plus tard sans accord, mais l'histoire est ailleurs. Le méthane, deuxième moteur du réchauffement après le CO2, s'échappe des sites de pétrole, de gaz et de charbon sans qu'on le voie.",
+            "Le système d'alerte de l'ONU repère les gros panaches avec des satellites, l'IA et des scientifiques, puis prévient le gouvernement et l'exploitant du site.",
+            "Depuis juin, cinq autres grosses sources ont été colmatées, notamment au Canada et au Mexique. Ça représente environ 125 000 tonnes de méthane, qui réchauffent autant la planète que près de 2,5 millions de voitures en un an. Au total, ça fait 46 dans 13 pays, comme si on retirait 26 millions de voitures de la circulation pendant un an.",
+            "Comme le méthane se dégrade bien plus vite que le CO2, chaque fuite colmatée porte vite ses fruits. Depuis le sol, personne ne voit ce gaz. Depuis l'espace, si."
+          ]
+        }
+      ],
+      "summary" : "Depuis le sol, personne ne voit le méthane, mais les satellites, si : en novembre 2026, l'ONU a annoncé 46 grosses fuites réparées dans 13 pays.",
+      "title" : "Les fuites vues de l'espace",
+      "translationGroup" : "leaks-seen-from-space"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "id" : "leaks-seen-from-space-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "„Man“ + the er/sie/es form of the verb talks about people in general, like English „you“ or „one“: man sieht = you see. Nicht goes near the end: man sieht es nicht.",
+              "example" : "Man sieht dieses Gas nicht, aber es macht die Luft wärmer.",
+              "title" : "Man: you, people in general"
+            },
+            {
+              "body" : "In a German main clause the verb is always the second part. When a word like „jetzt“ or „dann“ starts the sentence, the subject moves behind the verb: jetzt sieht ein Satellit, not jetzt ein Satellit sieht.",
+              "example" : "Jetzt sieht ein Satellit das Gas, und die UN schickt eine Nachricht.",
+              "title" : "The verb comes second: Jetzt sieht ein Satellit"
+            },
+            {
+              "body" : "„Niemand“ already means „not anybody“, so the sentence has no „nicht“: niemand sieht, not niemand sieht nicht.",
+              "example" : "Vom Boden aus sieht niemand dieses Gas.",
+              "title" : "Niemand: nobody, with no nicht"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Im November 2026 treffen sich viele Menschen in Antalya, in der Türkei. Sie reden über das Klima, und die UN hat gute Nachrichten.",
+            "Manche Öl- und Gasanlagen haben große Gaslecks. Man sieht dieses Gas nicht, aber es macht die Luft wärmer. Also nutzt die UN Satelliten, denn die sehen es.",
+            "Früher hatten diese Anlagen große Lecks. Jetzt sieht ein Satellit das Gas, und die UN schickt eine Nachricht. Dann repariert man das Leck.",
+            "Also sind 46 Lecks in 13 Ländern repariert. Das ist wie 26 Millionen Autos weniger auf der Straße, ein Jahr lang! Vom Boden aus sieht niemand dieses Gas. Aus dem Weltraum schon."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells finished events with haben + the past participle at the end of the clause: man hat repariert = people repaired, they fixed.",
+              "example" : "Von Juni bis November hat man noch fünf große Lecks repariert.",
+              "title" : "Das Perfekt: haben … repariert"
+            },
+            {
+              "body" : "„Um … zu“ + infinitive gives the purpose of an action, and the infinitive goes to the very end: um große Lecks zu finden = to find big leaks.",
+              "example" : "Die UN nutzt Satelliten, um große Lecks aus dem Weltraum zu finden.",
+              "title" : "Um … zu: saying why"
+            },
+            {
+              "body" : "In the participle of a separable verb, „ge“ goes between the particle and the stem: mitbringen → mitgebracht (brought along).",
+              "example" : "Am 12. November 2026 hat die UN gute Nachrichten mitgebracht.",
+              "title" : "Separable verb in the Perfekt: mitgebracht"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Am 12. November 2026 hat die UN gute Nachrichten mitgebracht. Das war beim Klimagipfel in Antalya, in der Türkei.",
+            "Es geht um Methan, ein Gas aus Lecks in Öl-, Gas- und Kohleanlagen. Man sieht es nicht, aber es wärmt die Luft.",
+            "Die UN nutzt Satelliten, um große Lecks aus dem Weltraum zu finden. Dann schickt sie eine Warnung an das Land und die Firma dort.",
+            "Von Juni bis November hat man noch fünf große Lecks repariert. Damit sind es 46 in 13 Ländern. Das ist wie 26 Millionen Autos weniger auf der Straße, ein Jahr lang.",
+            "Methan bleibt nicht lange in der Luft, also hilft jedes reparierte Leck schnell. Vom Boden aus sieht niemand dieses Gas. Aus dem Weltraum schon."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In a „wenn“ clause the verb goes to the end (wenn es eine findet); when that clause comes first, the main clause starts with its verb: …, sagt es.",
+              "example" : "Wenn es eine findet, sagt es der Regierung und der Firma Bescheid, die die Anlage betreibt.",
+              "title" : "Wenn-clause first: the verb goes to the end"
+            },
+            {
+              "body" : "„Die“ starts a clause about „die Firma“ and takes its gender; the verb of the relative clause goes to the end: die die Anlage betreibt = that runs the site.",
+              "example" : "Wenn es eine findet, sagt es der Regierung und der Firma Bescheid, die die Anlage betreibt.",
+              "title" : "Relative pronoun die: die Firma, die …"
+            },
+            {
+              "body" : "„Als“ + Konjunktiv II (würde + infinitive at the end) compares a real fact with something imagined: als würde man Autos von der Straße holen = as if you took cars off the road.",
+              "example" : "Damit sind es 46 in 13 Ländern, als würde man 26 Millionen Autos ein Jahr lang von der Straße holen.",
+              "title" : "Als würde man: comparing with an imagined action"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Am 12. November 2026 hatte die UN auf der Weltklimakonferenz COP31 in Antalya, in der Türkei, mal wirklich gute Nachrichten.",
+            "Es geht um Methan, nach Kohlendioxid die zweitgrößte Ursache der Erderwärmung. Es kommt aus Lecks in Öl-, Gas- und Kohleanlagen, und man kann es nicht sehen.",
+            "Ein Warnsystem der UN arbeitet mit Satelliten, KI und Wissenschaftlern, um große Methanwolken zu entdecken. Wenn es eine findet, sagt es der Regierung und der Firma Bescheid, die die Anlage betreibt.",
+            "Seit Juni hat man fünf weitere große Lecks abgedichtet, zum Beispiel in Kanada und Mexiko. Damit sind es 46 in 13 Ländern, als würde man 26 Millionen Autos ein Jahr lang von der Straße holen.",
+            "Methan bleibt nicht lange in der Luft, also bremst jedes reparierte Leck die Erwärmung schnell. Vom Boden aus sieht niemand dieses Gas. Aus dem Weltraum schon."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "War/hatte + past participle puts one event before another past moment: das schon passiert war = that had already happened before the news came in November.",
+              "example" : "Am 12. November 2026 hatte das UN-Umweltprogramm auf der COP31 in Antalya, in der Türkei, etwas Seltenes dabei: gute Nachrichten über etwas, das schon passiert war.",
+              "title" : "Plusquamperfekt: news that had already happened"
+            },
+            {
+              "body" : "The Perfekt passive is sein + past participle + „worden“ (not „geworden“): sind abgedichtet worden = have been sealed. It puts the result first when who did it matters less.",
+              "example" : "Seit Juni sind fünf weitere große Quellen abgedichtet worden, auch in Kanada und Mexiko: rund 125.000 Tonnen Methan, mit der Klimawirkung von fast 2,5 Millionen Autos im Jahr.",
+              "title" : "Passive in the Perfekt: sind abgedichtet worden"
+            },
+            {
+              "body" : "„Weil“ sends its verb to the end (weil Methan … zerfällt); a weil clause at the start counts as the first part, so the main clause begins with its verb: lohnt sich jedes Leck.",
+              "example" : "Weil Methan viel schneller zerfällt als Kohlendioxid, lohnt sich jedes abgedichtete Leck schnell.",
+              "title" : "Weil-clause first, then verb–subject"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Am 12. November 2026 hatte das UN-Umweltprogramm auf der COP31 in Antalya, in der Türkei, etwas Seltenes dabei: gute Nachrichten über etwas, das schon passiert war.",
+            "Der Gipfel ist zehn Tage später ohne Einigung zu Ende gegangen, also geht es nicht um die Verhandlungen. Es geht um Methan, nach Kohlendioxid der zweitgrößte Treiber der Erderwärmung, das unsichtbar aus Öl-, Gas- und Kohleanlagen entweicht.",
+            "Das Warnsystem der UN, MARS, sucht mit Satelliten, KI und Wissenschaftlern nach großen Methanwolken und meldet sie der Regierung und dem Betreiber der Anlage.",
+            "Seit Juni sind fünf weitere große Quellen abgedichtet worden, auch in Kanada und Mexiko: rund 125.000 Tonnen Methan, mit der Klimawirkung von fast 2,5 Millionen Autos im Jahr. Damit sind es 46 in 13 Ländern, als würde man 26 Millionen Autos ein Jahr lang von der Straße holen.",
+            "Weil Methan viel schneller zerfällt als Kohlendioxid, lohnt sich jedes abgedichtete Leck schnell. Vom Boden aus sieht niemand dieses Gas. Aus dem Weltraum schon."
+          ]
+        }
+      ],
+      "summary" : "Im November 2026 hat die UN beim Klimagipfel in Antalya gesagt: Satelliten haben geholfen, 46 große Methanlecks in 13 Ländern abzudichten.",
+      "title" : "Die Lecks, die man nur aus dem All sieht",
+      "translationGroup" : "leaks-seen-from-space"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "id" : "leaks-seen-from-space-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Poder (can) is followed directly by the infinitive, with no a or de in between: puedes ver = you can see. No goes before the verb: no puedes ver = you can't see.",
+              "example" : "No puedes ver este gas, pero calienta el aire.",
+              "title" : "Poder + infinitive: no puedes ver"
+            },
+            {
+              "body" : "Tenían is the imperfect of tener; it describes how things were before, not a single event: estos lugares tenían grandes fugas = these places had big leaks.",
+              "example" : "Antes, estos lugares tenían grandes fugas.",
+              "title" : "Tenían: looking back at how things were"
+            },
+            {
+              "body" : "When nadie (nobody) comes before the verb, the verb needs no no: nadie ve = nobody sees. If it comes after, Spanish adds no: no lo ve nadie.",
+              "example" : "Desde el suelo, nadie ve este gas.",
+              "title" : "Nadie: one negative word is enough"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Es noviembre de 2026 y mucha gente se reúne en Antalya, Turquía. Hablan del clima. Y la ONU tiene buenas noticias.",
+            "En algunos sitios de petróleo y gas hay grandes fugas de gas. No puedes ver este gas, pero calienta el aire. Por eso la ONU usa satélites, porque los satélites sí pueden verlo.",
+            "Antes, estos lugares tenían grandes fugas. Ahora un satélite ve el gas y la ONU manda un mensaje. Luego la gente repara la fuga.",
+            "Así que ya hay 46 fugas reparadas, en 13 países. ¡Es como quitar 26 millones de coches de la calle durante un año! Desde el suelo, nadie ve este gas. Desde el espacio, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events: dio (it gave), repararon (they repaired). With no subject, the ellos form means \"people\" in general: repararon = they (people) fixed.",
+              "example" : "De junio a noviembre repararon cinco grandes fugas más.",
+              "title" : "Pretérito for events: hubo, dio, repararon"
+            },
+            {
+              "body" : "Para + infinitive after an action tells its purpose: usa satélites para encontrar fugas = it uses satellites to find leaks.",
+              "example" : "La ONU usa satélites para encontrar grandes fugas desde el espacio.",
+              "title" : "Para + infinitive: saying why"
+            },
+            {
+              "body" : "Es como + infinitive compares a fact with an action people can picture; Spanish uses the infinitive where English uses -ing: es como sacar = it's like taking.",
+              "example" : "Es como quitar 26 millones de coches de la calle durante un año.",
+              "title" : "Es como + infinitive: comparing with an action"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En noviembre de 2026 hubo una cumbre del clima en Antalya, en Turquía. El día 12, la ONU dio allí una buena noticia.",
+            "Se trataba del metano, un gas que se escapa de instalaciones de petróleo, gas y carbón. No lo puedes ver, pero calienta el aire.",
+            "La ONU usa satélites para encontrar grandes fugas desde el espacio. Luego manda una alerta al país y a la empresa del lugar.",
+            "De junio a noviembre repararon cinco grandes fugas más. Con ellas, ya son 46 en 13 países. Es como quitar 26 millones de coches de la calle durante un año.",
+            "El metano no se queda mucho tiempo en el aire, así que cada fuga reparada ayuda rápido. Desde el suelo, nadie ve este gas. Desde el espacio, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish often says what has been done with se + verb, which agrees with the thing: se han reparado cinco fugas = five sources have been fixed. It sounds far more natural than han sido reparadas.",
+              "example" : "Desde junio se han reparado cinco grandes fugas más, en países como Canadá y México.",
+              "title" : "Se han reparado: the passive with se"
+            },
+            {
+              "body" : "Que starts a clause that says exactly which thing or person we mean; it follows the noun directly, with no comma: la empresa que gestiona la instalación = the company that runs the site.",
+              "example" : "Cuando encuentra una, avisa al gobierno y a la empresa que gestiona la instalación.",
+              "title" : "Que after a noun: la empresa que gestiona"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "El 12 de noviembre de 2026, en la cumbre del clima COP31, en Antalya, Turquía, la ONU dio una noticia buena de verdad.",
+            "Se trataba del metano, la segunda causa del calentamiento global después del dióxido de carbono. Se escapa de instalaciones de petróleo, gas y carbón, y no se ve.",
+            "Un sistema de alertas de la ONU usa satélites, inteligencia artificial y científicos para detectar grandes nubes de metano. Cuando encuentra una, avisa al gobierno y a la empresa que gestiona la instalación.",
+            "Desde junio se han reparado cinco grandes fugas más, en países como Canadá y México. Ya son 46 en 13 países, y eso es como quitar 26 millones de coches de la calle durante un año.",
+            "El metano no se queda mucho tiempo en el aire, así que cada fuga reparada frena el calentamiento enseguida. Desde el suelo, nadie ve este gas. Desde el espacio, sí."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Tratar de + noun says what a story or a matter is about: esto no trata de las negociaciones = this isn't about the talks. De + el contracts to del: trata del metano.",
+              "example" : "La cumbre terminó diez días después sin acuerdo, así que esto no trata de las negociaciones.",
+              "title" : "Tratar de: what something is about"
+            },
+            {
+              "body" : "Lo que means \"what\" or \"the amount that\" when there is no noun before it: lo que echan casi 2,5 millones de coches = what nearly 2.5 million cars put out.",
+              "example" : "Son unas 125.000 toneladas de metano, que calientan tanto como casi 2,5 millones de coches en un año.",
+              "title" : "Lo que: the thing that, what"
+            },
+            {
+              "body" : "Como at the beginning of a sentence gives the reason before the result, like since in English; in that position Spanish prefers como to porque.",
+              "example" : "Como el metano se descompone mucho antes que el dióxido de carbono, cada fuga reparada se nota enseguida.",
+              "title" : "Como at the start: giving the cause first"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "El 12 de noviembre de 2026, en la COP31 de Antalya, Turquía, el programa de medio ambiente de la ONU dio algo poco habitual: una buena noticia que ya había pasado.",
+            "La cumbre terminó diez días después sin acuerdo, así que esto no trata de las negociaciones. Trata del metano, la segunda causa del calentamiento tras el dióxido de carbono, que sale de instalaciones de petróleo, gas y carbón sin que nadie lo vea.",
+            "MARS, el sistema de alertas de la ONU, detecta grandes nubes de metano con satélites, inteligencia artificial y científicos. Luego avisa al gobierno y a la empresa responsable de la instalación.",
+            "Desde junio se han reparado cinco grandes fugas más, también en Canadá y México. Son unas 125.000 toneladas de metano, que calientan tanto como casi 2,5 millones de coches en un año. Ya son 46 en 13 países, como retirar 26 millones de coches de la circulación durante un año.",
+            "Como el metano se descompone mucho antes que el dióxido de carbono, cada fuga reparada se nota enseguida. Desde el suelo, nadie ve este gas. Desde el espacio, sí."
+          ]
+        }
+      ],
+      "summary" : "Nadie las ve desde el suelo, pero unos satélites ya han ayudado a reparar 46 grandes fugas de metano en 13 países, contó la ONU en la cumbre del clima de Antalya.",
+      "title" : "Las fugas que se ven desde el espacio",
+      "translationGroup" : "leaks-seen-from-space"
+    },
+    {
+      "category" : "news",
+      "dateAdded" : "2026-11-24",
+      "id" : "leaks-seen-from-space-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Si + the verb says what people in general can or cannot do, with no subject: non si vede = you can't see it, nobody sees it.",
+              "example" : "Questo gas non si vede, ma rende l'aria più calda.",
+              "title" : "Non si vede: the impersonal si"
+            },
+            {
+              "body" : "The story stays in the present, but prima (before) with avevano (they had, the imperfect of avere) looks back once at how things were.",
+              "example" : "Prima questi posti avevano grandi perdite.",
+              "title" : "Avevano: one look back"
+            },
+            {
+              "body" : "When nessuno (nobody) comes before the verb, Italian drops non: nessuno vede. After the verb you need both: non lo vede nessuno.",
+              "example" : "Da terra nessuno vede questo gas.",
+              "title" : "Nessuno before the verb: no non"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Siamo a novembre 2026, ad Antalya, in Turchia. Qui tante persone si incontrano e parlano del clima. E l'ONU ha proprio una bella notizia.",
+            "Alcuni impianti di petrolio e gas hanno grandi perdite di gas. Questo gas non si vede, ma rende l'aria più calda. Così l'ONU usa i satelliti, perché loro lo vedono.",
+            "Prima questi posti avevano grandi perdite. Ora un satellite vede il gas, e l'ONU manda un messaggio. Poi lì riparano la perdita.",
+            "Quindi adesso le perdite riparate sono 46, in 13 paesi. È come togliere ventisei milioni di auto dalla strada per un anno! Da terra nessuno vede questo gas. Dallo spazio, sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For finished events, spoken Italian uses avere + past participle: hanno riparato (riparare = to fix), ha dato (dare = to give). Hanno with no subject means \"they\", people in general. Verbs of change like diventare take essere, and the participle agrees: sono diventate.",
+              "example" : "Da giugno a novembre hanno riparato altre cinque grandi perdite.",
+              "title" : "Il passato prossimo: hanno riparato, ha dato"
+            },
+            {
+              "body" : "C'era (there was) sets the scene in the imperfect; the event that happened on one day takes the passato prossimo: ha dato.",
+              "example" : "A novembre 2026, ad Antalya, in Turchia, c'era il vertice sul clima.",
+              "title" : "C'era: the imperfect for the background"
+            },
+            {
+              "body" : "Per + the infinitive gives the purpose of an action: usa i satelliti per trovare = uses satellites (in order) to find.",
+              "example" : "L'ONU usa i satelliti per trovare le grandi perdite dallo spazio.",
+              "title" : "Per + infinitive: saying why"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "A novembre 2026, ad Antalya, in Turchia, c'era il vertice sul clima. Il 12 novembre l'ONU ha dato una bella notizia.",
+            "Riguardava il metano, un gas che esce da impianti di petrolio, gas e carbone. Il metano non si vede, ma scalda l'aria.",
+            "L'ONU usa i satelliti per trovare le grandi perdite dallo spazio. Poi avvisa il paese e l'azienda dell'impianto.",
+            "Da giugno a novembre hanno riparato altre cinque grandi perdite. Così in tutto sono diventate 46, in 13 paesi. È come togliere ventisei milioni di auto dalla strada per un anno.",
+            "Il metano non resta a lungo nell'aria, quindi ogni perdita riparata aiuta subito. Da terra nessuno vede questo gas. Dallo spazio, sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Essere + stato + past participle puts the result first when who did it matters less; both participles agree with the subject: le perdite sono state riparate.",
+              "example" : "Da giugno sono state riparate altre cinque grandi perdite, in paesi come il Canada e il Messico.",
+              "title" : "Passive passato prossimo: sono state riparate"
+            },
+            {
+              "body" : "Ne stands for \"of them\" when you count or pick from something already named: ne trova una = it finds one (of those clouds).",
+              "example" : "Quando ne trova una, avvisa il governo e l'azienda che gestisce l'impianto.",
+              "title" : "Ne trova una: ne for \"one of them\""
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Il 12 novembre 2026, al vertice sul clima COP31 di Antalya, in Turchia, l'ONU aveva una notizia bella davvero.",
+            "Si trattava del metano, la seconda causa del riscaldamento globale dopo l'anidride carbonica. Esce da impianti di petrolio, gas e carbone, e non si vede.",
+            "Un sistema di allerta dell'ONU usa satelliti, intelligenza artificiale e scienziati per scoprire grandi nuvole di metano. Quando ne trova una, avvisa il governo e l'azienda che gestisce l'impianto.",
+            "Da giugno sono state riparate altre cinque grandi perdite, in paesi come il Canada e il Messico. In tutto fanno 46, in 13 paesi: è come togliere ventisei milioni di auto dalla strada per un anno.",
+            "Il metano non resta a lungo nell'aria, quindi ogni perdita riparata rallenta subito il riscaldamento. Da terra nessuno vede questo gas. Dallo spazio, sì."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect of essere or avere + past participle places one event before another past moment: the fixes had already happened when the news came in November.",
+              "example" : "Il Programma delle Nazioni Unite per l'ambiente ha dato una bella notizia su qualcosa che era già successo.",
+              "title" : "Trapassato prossimo: era già successo"
+            },
+            {
+              "body" : "Senza che (without) is always followed by the subjunctive: senza che nessuno lo veda = without anyone seeing it, with veda, the present subjunctive of vedere.",
+              "example" : "Si parla del metano, la seconda causa del riscaldamento dopo l'anidride carbonica, che esce da impianti di petrolio, gas e carbone senza che nessuno lo veda.",
+              "title" : "Senza che + subjunctive"
+            },
+            {
+              "body" : "Più + adverb or adjective + di compares two things: più in fretta dell'anidride carbonica = faster than carbon dioxide; di joins the article (dell').",
+              "example" : "Siccome il metano si degrada molto più in fretta dell'anidride carbonica, ogni perdita riparata dà subito i suoi frutti.",
+              "title" : "Più … di: comparing two things"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Il 12 novembre 2026, al vertice sul clima COP31 di Antalya, in Turchia, è arrivata una cosa rara. Il Programma delle Nazioni Unite per l'ambiente ha dato una bella notizia su qualcosa che era già successo.",
+            "Il vertice si è chiuso dieci giorni dopo senza un accordo, quindi le trattative non c'entrano. Si parla del metano, la seconda causa del riscaldamento dopo l'anidride carbonica, che esce da impianti di petrolio, gas e carbone senza che nessuno lo veda.",
+            "Il sistema di allerta dell'ONU, MARS, usa satelliti, intelligenza artificiale e scienziati per individuare grandi pennacchi, poi avvisa il governo e l'azienda che gestisce l'impianto.",
+            "Da giugno sono state riparate altre cinque grandi perdite, anche in Canada e in Messico. Sono circa 125.000 tonnellate di metano, che scaldano il pianeta quanto quasi 2,5 milioni di auto in un anno. In tutto fanno 46, in 13 paesi: è come togliere ventisei milioni di auto dalla strada per un anno.",
+            "Siccome il metano si degrada molto più in fretta dell'anidride carbonica, ogni perdita riparata dà subito i suoi frutti. Da terra nessuno vede questo gas. Dallo spazio, sì."
+          ]
+        }
+      ],
+      "summary" : "Da terra nessuno vede il metano che esce dagli impianti, ma dallo spazio i satelliti lo trovano: così sono già state riparate 46 grandi perdite in 13 paesi.",
+      "title" : "Le perdite viste dallo spazio",
+      "translationGroup" : "leaks-seen-from-space"
     }
   ]
 }
