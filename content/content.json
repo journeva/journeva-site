@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 44,
-  "generatedAt" : "2026-11-24",
+  "contentVersion" : 45,
+  "generatedAt" : "2026-11-25",
   "glossary" : {
     "english" : [
       {
@@ -33211,6 +33211,312 @@
         "note" : "To warm = to make warmer; it warms the air.",
         "pos" : "verb",
         "translation" : "warms"
+      },
+      {
+        "forms" : [
+          "0"
+        ],
+        "note" : "Said \"zero\" (British English also says \"nought\"); on an egg, 0 means organic.",
+        "pos" : "number",
+        "translation" : "0"
+      },
+      {
+        "forms" : [
+          "10"
+        ],
+        "note" : "Said \"ten\"; 10% is said \"ten per cent\".",
+        "pos" : "number",
+        "translation" : "10"
+      },
+      {
+        "forms" : [
+          "1902"
+        ],
+        "note" : "Said \"nineteen oh two\".",
+        "pos" : "number",
+        "translation" : "1902"
+      },
+      {
+        "forms" : [
+          "22.5"
+        ],
+        "note" : "Said \"twenty-two point five\"; English writes a point for decimals, not a comma.",
+        "pos" : "number",
+        "translation" : "22.5"
+      },
+      {
+        "forms" : [
+          "98"
+        ],
+        "note" : "Said \"ninety-eight\"; 98 in 100 = 98 out of every 100.",
+        "pos" : "number",
+        "translation" : "98"
+      },
+      {
+        "forms" : [
+          "approved"
+        ],
+        "note" : "Approved = officially allowed; tested and approved.",
+        "pos" : "adjective",
+        "translation" : "approved, allowed"
+      },
+      {
+        "forms" : [
+          "borax"
+        ],
+        "note" : "A white mineral salt; around 1900 factories put it in food to keep it longer.",
+        "pos" : "noun",
+        "translation" : "borax"
+      },
+      {
+        "forms" : [
+          "caged"
+        ],
+        "note" : "From cage + -d: caged hens live in cages; on an egg, 3 means caged.",
+        "pos" : "adjective",
+        "translation" : "caged, kept in cages"
+      },
+      {
+        "forms" : [
+          "cages"
+        ],
+        "note" : "On egg boxes, code 3 means the hens were kept in cages; caged is the adjective (caged hens).",
+        "pos" : "noun",
+        "translation" : "boxes or rooms with bars, for keeping animals or birds in"
+      },
+      {
+        "forms" : [
+          "calories"
+        ],
+        "note" : "A calorie is a unit for the energy in food; under 10% of your calories.",
+        "pos" : "noun",
+        "translation" : "calories"
+      },
+      {
+        "forms" : [
+          "chemist"
+        ],
+        "note" : "A scientist who works with chemistry; in British English a chemist is also a pharmacy, but here it means the scientist.",
+        "pos" : "noun",
+        "translation" : "chemist, scientist"
+      },
+      {
+        "forms" : [
+          "codes"
+        ],
+        "note" : "A code is a short set of numbers or letters with a meaning; egg codes are printed on the shell.",
+        "pos" : "noun",
+        "translation" : "codes"
+      },
+      {
+        "forms" : [
+          "digit"
+        ],
+        "note" : "One of the numbers 0 to 9; the first digit on an egg.",
+        "pos" : "noun",
+        "translation" : "digit, single number"
+      },
+      {
+        "forms" : [
+          "e"
+        ],
+        "note" : "Said \"ee\"; an E number is the EU code for a food additive, like a preservative, written in the ingredients list.",
+        "pos" : "noun",
+        "translation" : "E (as in E number)"
+      },
+      {
+        "forms" : [
+          "egg's"
+        ],
+        "note" : "Egg + 's: an egg's first digit = the first digit on an egg.",
+        "pos" : "other",
+        "translation" : "the egg's"
+      },
+      {
+        "forms" : [
+          "factory"
+        ],
+        "note" : "A building where things are made by machines; factory food = food made in a factory.",
+        "pos" : "noun",
+        "translation" : "factory"
+      },
+      {
+        "forms" : [
+          "facts"
+        ],
+        "note" : "Things that are true; a table of facts.",
+        "pos" : "noun",
+        "translation" : "facts"
+      },
+      {
+        "forms" : [
+          "false"
+        ],
+        "note" : "False = not true; a false label says something that isn't true.",
+        "pos" : "adjective",
+        "translation" : "false, not true"
+      },
+      {
+        "forms" : [
+          "glucose"
+        ],
+        "note" : "Said \"GLOO-kose\": a kind of sugar; on a label it is another name to look for.",
+        "pos" : "noun",
+        "translation" : "glucose"
+      },
+      {
+        "forms" : [
+          "harvey"
+        ],
+        "note" : "A first name; Harvey Wiley was the US government's chief chemist.",
+        "pos" : "noun",
+        "translation" : "Harvey"
+      },
+      {
+        "forms" : [
+          "hygienic"
+        ],
+        "note" : "Said \"high-JEE-nik\": clean and good for health; the hygienic table was the name of Wiley's food test.",
+        "pos" : "adjective",
+        "translation" : "hygienic, clean and healthy"
+      },
+      {
+        "forms" : [
+          "ideally"
+        ],
+        "note" : "Ideally = in the best case: under 10%, ideally 5%.",
+        "pos" : "adverb",
+        "translation" : "ideally, at best"
+      },
+      {
+        "forms" : [
+          "meals"
+        ],
+        "note" : "A meal is breakfast, lunch or dinner; free meals = food you don't pay for.",
+        "pos" : "noun",
+        "translation" : "meals"
+      },
+      {
+        "forms" : [
+          "misleading"
+        ],
+        "note" : "Making you believe something that isn't true, even without a clear lie; a misleading label.",
+        "pos" : "adjective",
+        "translation" : "misleading"
+      },
+      {
+        "forms" : [
+          "organic"
+        ],
+        "note" : "Food grown or made without most chemicals, under fixed rules; on an egg, 0 means organic.",
+        "pos" : "adjective",
+        "translation" : "organic"
+      },
+      {
+        "forms" : [
+          "pesticide"
+        ],
+        "note" : "A chemical farmers spray on plants against insects and disease; pesticide residues = small amounts left on food.",
+        "pos" : "noun",
+        "translation" : "pesticide"
+      },
+      {
+        "forms" : [
+          "preservatives"
+        ],
+        "note" : "Things added to food so it lasts longer; singular a preservative.",
+        "pos" : "noun",
+        "translation" : "preservatives"
+      },
+      {
+        "forms" : [
+          "residue",
+          "residues"
+        ],
+        "note" : "A small amount left behind; pesticide residues = tiny amounts of pesticide left on fruit and vegetables.",
+        "pos" : "noun",
+        "translation" : "residue, what is left"
+      },
+      {
+        "forms" : [
+          "roosevelt"
+        ],
+        "note" : "Theodore Roosevelt, the US president who signed the food law on 30 June 1906.",
+        "pos" : "noun",
+        "translation" : "Roosevelt"
+      },
+      {
+        "forms" : [
+          "safety-tested"
+        ],
+        "note" : "A compound adjective with a hyphen: safety + tested; \"All safety-tested\" is short for \"They have all been safety-tested\".",
+        "pos" : "adjective",
+        "translation" : "checked in tests to make sure it is safe"
+      },
+      {
+        "forms" : [
+          "syrup"
+        ],
+        "note" : "A thick, sweet liquid; corn syrup is a sugar made from maize.",
+        "pos" : "noun",
+        "translation" : "syrup"
+      },
+      {
+        "forms" : [
+          "tracked"
+        ],
+        "note" : "To track = to follow something closely over time; Wiley tracked their health.",
+        "pos" : "verb",
+        "translation" : "tracked, followed closely"
+      },
+      {
+        "forms" : [
+          "untested"
+        ],
+        "note" : "Un- + tested: nobody has tested it.",
+        "pos" : "adjective",
+        "translation" : "untested, not tested"
+      },
+      {
+        "forms" : [
+          "usa"
+        ],
+        "note" : "The United States of America; said \"U-S-A\", letter by letter.",
+        "pos" : "noun",
+        "translation" : "USA"
+      },
+      {
+        "forms" : [
+          "veg"
+        ],
+        "note" : "Short for vegetables in everyday British English: fruit and veg.",
+        "pos" : "noun",
+        "translation" : "veg, vegetables"
+      },
+      {
+        "forms" : [
+          "view"
+        ],
+        "note" : "What someone thinks; his view = what he thought.",
+        "pos" : "noun",
+        "translation" : "view, opinion"
+      },
+      {
+        "forms" : [
+          "wiley",
+          "wiley's"
+        ],
+        "note" : "Harvey Wiley, the US government's chief chemist, who ran the hygienic table from 1902; Wiley's table = the table of Wiley.",
+        "pos" : "noun",
+        "translation" : "Wiley"
+      },
+      {
+        "forms" : [
+          "box"
+        ],
+        "note" : "A container with flat sides; here the box a food comes in, with its label.",
+        "pos" : "noun",
+        "translation" : "a container with flat sides"
       }
     ],
     "french" : [
@@ -58981,6 +59287,7 @@
       },
       {
         "forms" : [
+          "fausses",
           "faux"
         ],
         "note" : "Même forme au singulier et au pluriel masculin.",
@@ -59353,6 +59660,7 @@
       {
         "forms" : [
           "lire",
+          "lis",
           "lise",
           "lu",
           "lue",
@@ -62274,6 +62582,7 @@
           "figuraient",
           "figurait",
           "figure",
+          "figurer",
           "figurez"
         ],
         "note" : "Imparfait of figurer (to appear, be listed): « qui ne figuraient nulle part dans le livre » = that were nowhere in the book.",
@@ -71336,7 +71645,8 @@
       },
       {
         "forms" : [
-          "européenne"
+          "européenne",
+          "européennes"
         ],
         "note" : "Feminine of européen; « la loi européenne » = EU law, the rules all EU countries share.",
         "pos" : "adjective",
@@ -78159,6 +78469,380 @@
         "note" : "From réchauffer (to warm up); qui réchauffent autant la planète que… = which warm the planet as much as… Same family as le réchauffement (global warming).",
         "pos" : "verb",
         "translation" : "warm, heat up (they)"
+      },
+      {
+        "forms" : [
+          "0"
+        ],
+        "note" : "Read « zéro »; on an EU egg, 0 as the first digit means organic (bio).",
+        "pos" : "number",
+        "translation" : "0"
+      },
+      {
+        "forms" : [
+          "10"
+        ],
+        "note" : "Read « dix »; « 10 % » is read « dix pour cent ».",
+        "pos" : "number",
+        "translation" : "10"
+      },
+      {
+        "forms" : [
+          "1902"
+        ],
+        "note" : "Read « mille neuf cent deux »; French reads years as one number, never in pairs like nineteen-oh-two.",
+        "pos" : "number",
+        "translation" : "1902"
+      },
+      {
+        "forms" : [
+          "22,5"
+        ],
+        "note" : "Read « vingt-deux virgule cinq »: French writes a comma where English writes a decimal point.",
+        "pos" : "number",
+        "translation" : "22.5"
+      },
+      {
+        "forms" : [
+          "98"
+        ],
+        "note" : "Read « quatre-vingt-dix-huit » (four twenties and eighteen); Belgium and Switzerland say « nonante-huit ».",
+        "pos" : "number",
+        "translation" : "98"
+      },
+      {
+        "forms" : [
+          "ajout"
+        ],
+        "gender" : "masculine",
+        "note" : "Un ajout = something added; « tout ajout » = anything added. From the verb ajouter.",
+        "pos" : "noun",
+        "translation" : "addition, something added"
+      },
+      {
+        "forms" : [
+          "ajoutaient"
+        ],
+        "note" : "Imparfait of ajouter (ils/elles): an action going on in the past; « les usines ajoutaient » = factories were adding.",
+        "pos" : "verb",
+        "translation" : "were adding, used to add"
+      },
+      {
+        "forms" : [
+          "aliment",
+          "d'aliment",
+          "l'aliment"
+        ],
+        "gender" : "masculine",
+        "note" : "Un aliment = one food or foodstuff; « l'étiquette d'un aliment » = a food label.",
+        "pos" : "noun",
+        "translation" : "food, a food"
+      },
+      {
+        "forms" : [
+          "bio"
+        ],
+        "note" : "Short for biologique and the word people say; it never changes: « des œufs bio ».",
+        "pos" : "adjective",
+        "translation" : "organic"
+      },
+      {
+        "forms" : [
+          "borax"
+        ],
+        "gender" : "masculine",
+        "note" : "A white mineral salt once used to keep food from going off; « le borax ».",
+        "pos" : "noun",
+        "translation" : "borax"
+      },
+      {
+        "forms" : [
+          "cage"
+        ],
+        "gender" : "feminine",
+        "note" : "« En cage » = in a cage; on an EU egg, 3 as the first digit means hens kept in cages.",
+        "pos" : "noun",
+        "translation" : "cage"
+      },
+      {
+        "forms" : [
+          "calories"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « la calorie », the energy in food.",
+        "pos" : "noun",
+        "translation" : "calories"
+      },
+      {
+        "forms" : [
+          "chimiste"
+        ],
+        "note" : "A scientist who works with chemistry, not a pharmacist (« pharmacien »); the same form for a man or a woman.",
+        "pos" : "noun",
+        "translation" : "chemist (scientist)"
+      },
+      {
+        "forms" : [
+          "conservateurs"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « un conservateur », a substance added to keep food longer; on a label it often appears as a number E.",
+        "pos" : "noun",
+        "translation" : "preservatives"
+      },
+      {
+        "forms" : [
+          "contrôler",
+          "contrôlées"
+        ],
+        "note" : "Contrôler = to check, to inspect; « contrôlées » is the feminine plural past participle: « les limites sont contrôlées » = the limits are checked.",
+        "pos" : "verb",
+        "translation" : "to check; checked"
+      },
+      {
+        "forms" : [
+          "courante"
+        ],
+        "note" : "« L'eau courante » = running water, from the tap; feminine of courant.",
+        "pos" : "adjective",
+        "translation" : "running (water)"
+      },
+      {
+        "forms" : [
+          "e"
+        ],
+        "note" : "The letter E before a number marks an additive approved in the EU: « un numéro E » = an E number, read « un numéro eu ».",
+        "pos" : "noun",
+        "translation" : "E (the letter in EU additive codes)"
+      },
+      {
+        "forms" : [
+          "glucose"
+        ],
+        "gender" : "masculine",
+        "note" : "A simple sugar; on a label it is one of sugar's other names.",
+        "pos" : "noun",
+        "translation" : "glucose"
+      },
+      {
+        "forms" : [
+          "harvey"
+        ],
+        "note" : "Harvey Wiley (1844–1930), the American chemist who ran the « table hygiénique ».",
+        "pos" : "noun",
+        "translation" : "Harvey (first name)"
+      },
+      {
+        "forms" : [
+          "hygiénique"
+        ],
+        "note" : "« La table hygiénique » = the hygienic table, the name Wiley gave his test table; the same form for both genders.",
+        "pos" : "adjective",
+        "translation" : "hygienic"
+      },
+      {
+        "forms" : [
+          "idéalement"
+        ],
+        "note" : "From idéal + -ment: « idéalement 5 » = ideally 5 (per cent).",
+        "pos" : "adverb",
+        "translation" : "ideally"
+      },
+      {
+        "forms" : [
+          "indiquent"
+        ],
+        "note" : "Present of indiquer (ils/elles): « les miels indiquent la part de chaque pays » = the honeys state each country's share.",
+        "pos" : "verb",
+        "translation" : "show, state"
+      },
+      {
+        "forms" : [
+          "l'ue"
+        ],
+        "gender" : "feminine",
+        "note" : "L'Union européenne, said letter by letter « u-e »; « de l'UE » = from the EU, EU (as in EU limits).",
+        "pos" : "noun",
+        "translation" : "the EU"
+      },
+      {
+        "forms" : [
+          "limites"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « la limite »; « les limites de résidus » = the residue limits.",
+        "pos" : "noun",
+        "translation" : "limits"
+      },
+      {
+        "forms" : [
+          "listés"
+        ],
+        "note" : "Past participle of lister used as an adjective: « les numéros E listés » = the listed E numbers.",
+        "pos" : "adjective",
+        "translation" : "listed"
+      },
+      {
+        "forms" : [
+          "mentir"
+        ],
+        "note" : "« Ne peut pas mentir » = can't lie; present: il ment, ils mentent.",
+        "pos" : "verb",
+        "translation" : "to lie (tell a lie)"
+      },
+      {
+        "forms" : [
+          "miels"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le miel »; « les miels mélangés » = honey blends.",
+        "pos" : "noun",
+        "translation" : "honeys"
+      },
+      {
+        "forms" : [
+          "mélangés"
+        ],
+        "note" : "Masculine plural past participle of mélanger: « des miels mélangés » = blended honeys.",
+        "pos" : "adjective",
+        "translation" : "mixed, blended"
+      },
+      {
+        "forms" : [
+          "numéros"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le numéro »; « les numéros E » = the E numbers on a label.",
+        "pos" : "noun",
+        "translation" : "numbers"
+      },
+      {
+        "forms" : [
+          "piège"
+        ],
+        "gender" : "masculine",
+        "note" : "« Il y a un piège » = there's a catch.",
+        "pos" : "noun",
+        "translation" : "catch, trap"
+      },
+      {
+        "forms" : [
+          "respectaient"
+        ],
+        "note" : "Imparfait of respecter (ils/elles); « respecter les limites » = to stay within the limits.",
+        "pos" : "verb",
+        "translation" : "met, kept to"
+      },
+      {
+        "forms" : [
+          "roosevelt"
+        ],
+        "note" : "Theodore Roosevelt, President of the United States from 1901 to 1909.",
+        "pos" : "noun",
+        "translation" : "Roosevelt"
+      },
+      {
+        "forms" : [
+          "résidus"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le résidu », what is left; « les résidus de pesticides » = pesticide residues.",
+        "pos" : "noun",
+        "translation" : "residues"
+      },
+      {
+        "forms" : [
+          "sirop"
+        ],
+        "gender" : "masculine",
+        "note" : "« Le sirop de maïs » = corn syrup.",
+        "pos" : "noun",
+        "translation" : "syrup"
+      },
+      {
+        "forms" : [
+          "sucres"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le sucre »; on a French label, « dont sucres » = of which sugars.",
+        "pos" : "noun",
+        "translation" : "sugars"
+      },
+      {
+        "forms" : [
+          "suivait"
+        ],
+        "note" : "Imparfait of suivre (il/elle); « suivre la santé de quelqu'un » = to keep track of someone's health.",
+        "pos" : "verb",
+        "translation" : "was following, kept track of"
+      },
+      {
+        "forms" : [
+          "surveillait",
+          "surveillé"
+        ],
+        "note" : "Forms of surveiller (to keep an eye on): « surveillait » = imparfait (was watching), « a surveillé » = passé composé (watched).",
+        "pos" : "verb",
+        "translation" : "was watching; watched"
+      },
+      {
+        "forms" : [
+          "testait"
+        ],
+        "note" : "Imparfait of tester (il/elle/on): « personne ne les testait » = nobody tested them.",
+        "pos" : "verb",
+        "translation" : "tested, was testing"
+      },
+      {
+        "forms" : [
+          "tests"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of « le test »; « réussir un test » = to pass a test, « passer un test » = to take one.",
+        "pos" : "noun",
+        "translation" : "tests"
+      },
+      {
+        "forms" : [
+          "trompeuses"
+        ],
+        "note" : "Feminine plural of trompeur (trompeur, trompeuse): « des étiquettes trompeuses » = misleading labels.",
+        "pos" : "adjective",
+        "translation" : "misleading"
+      },
+      {
+        "forms" : [
+          "usines"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of « l'usine » (factory): « les usines ajoutaient » = factories were adding.",
+        "pos" : "noun",
+        "translation" : "factories"
+      },
+      {
+        "forms" : [
+          "wiley"
+        ],
+        "note" : "Harvey Wiley (1844–1930), chief chemist of the US Department of Agriculture.",
+        "pos" : "noun",
+        "translation" : "Wiley (surname)"
+      },
+      {
+        "forms" : [
+          "étiquette"
+        ],
+        "gender" : "feminine",
+        "note" : "The label on food or a product; plural étiquettes.",
+        "pos" : "noun",
+        "translation" : "label"
+      },
+      {
+        "forms" : [
+          "déguise"
+        ],
+        "note" : "Present of the reflexive se déguiser: « le sucre se déguise en glucose » = sugar hides under the name glucose; en = as.",
+        "pos" : "verb",
+        "translation" : "disguises itself, hides (as)"
       }
     ],
     "german" : [
@@ -89500,7 +90184,8 @@
       },
       {
         "forms" : [
-          "amerikanische"
+          "amerikanische",
+          "amerikanisches"
         ],
         "note" : "Declined form of amerikanisch.",
         "pos" : "adjective",
@@ -92170,6 +92855,7 @@
       },
       {
         "forms" : [
+          "kaufst",
           "kauft",
           "kaufte",
           "kauften"
@@ -97901,6 +98587,7 @@
       },
       {
         "forms" : [
+          "prüfen",
           "prüft"
         ],
         "note" : "From \"prüfen.\"",
@@ -100364,6 +101051,7 @@
       },
       {
         "forms" : [
+          "etikett",
           "etiketten"
         ],
         "gender" : "neuter",
@@ -109233,6 +109921,7 @@
       },
       {
         "forms" : [
+          "fabrik",
           "fabriken"
         ],
         "gender" : "feminine",
@@ -125314,6 +126003,351 @@
         "note" : "Die Ursache; „die zweitgrößte Ursache der Erderwärmung“ = the second biggest cause of global warming.",
         "pos" : "noun",
         "translation" : "cause"
+      },
+      {
+        "forms" : [
+          "0"
+        ],
+        "note" : "Said „null“; on an egg the first digit 0 means organic (Bio).",
+        "pos" : "number",
+        "translation" : "0, zero"
+      },
+      {
+        "forms" : [
+          "10"
+        ],
+        "note" : "Said „zehn“; „unter 10 % der Kalorien“ = under 10 percent of calories.",
+        "pos" : "number",
+        "translation" : "10"
+      },
+      {
+        "forms" : [
+          "1902"
+        ],
+        "note" : "Said „neunzehnhundertzwei“: German says years in hundreds, like English „nineteen-oh-two“.",
+        "pos" : "number",
+        "translation" : "1902"
+      },
+      {
+        "forms" : [
+          "22,5"
+        ],
+        "note" : "Said „zweiundzwanzig Komma fünf“; German writes decimals with a comma: 22,5 g = 22.5 g.",
+        "pos" : "number",
+        "translation" : "22.5"
+      },
+      {
+        "forms" : [
+          "98"
+        ],
+        "note" : "Said „achtundneunzig“: the units come first, then „und“, then the tens.",
+        "pos" : "number",
+        "translation" : "98"
+      },
+      {
+        "forms" : [
+          "anteil"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Anteil, plural die Anteile; „jedes Land und seinen Anteil“ = every country and its share.",
+        "pos" : "noun",
+        "translation" : "share, part"
+      },
+      {
+        "forms" : [
+          "behaupten"
+        ],
+        "note" : "Behaupten (to claim, to say something is true, often when it isn't): „Etiketten konnten alles behaupten“ = labels could say anything.",
+        "pos" : "verb",
+        "translation" : "to claim"
+      },
+      {
+        "forms" : [
+          "bestanden"
+        ],
+        "note" : "Partizip II of bestehen in the sense „to pass“: „einen Test bestehen“ = to pass a test; „hat … bestanden“ = has passed.",
+        "pos" : "verb",
+        "translation" : "passed (a test)"
+      },
+      {
+        "forms" : [
+          "bio"
+        ],
+        "note" : "Short for biologisch, the everyday word on shop labels: „Bio-Eier“ = organic eggs; on egg stamps the digit 0 means Bio.",
+        "pos" : "adjective",
+        "translation" : "organic"
+      },
+      {
+        "forms" : [
+          "borax"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Borax, a white mineral salt once used to keep food fresh; the first substance the men at Wiley's table took.",
+        "pos" : "noun",
+        "translation" : "borax"
+      },
+      {
+        "forms" : [
+          "chemiker",
+          "chemikers"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Chemiker, a scientist in chemistry (not a pharmacist, that's der Apotheker); „des Chemikers“ is the genitive: the chemist's.",
+        "pos" : "noun",
+        "translation" : "chemist"
+      },
+      {
+        "forms" : [
+          "e-nummer",
+          "e-nummern"
+        ],
+        "gender" : "feminine",
+        "note" : "Die E-Nummer, plural E-Nummern: the code of a food additive approved in the EU, such as E 300; one word with the hyphen.",
+        "pos" : "noun",
+        "translation" : "E number"
+      },
+      {
+        "forms" : [
+          "eiercode",
+          "eiercodes"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Eiercode, plural die Eiercodes: the code stamped on each egg; its first digit shows how the hens were kept (0 = Bio, 3 = Käfig).",
+        "pos" : "noun",
+        "translation" : "egg code"
+      },
+      {
+        "forms" : [
+          "eingehalten"
+        ],
+        "note" : "Partizip II of einhalten (to keep to, to meet a limit), with -ge- after the particle ein-: „die Grenzwerte eingehalten“ = met the limits.",
+        "pos" : "verb",
+        "translation" : "met, kept to (a limit)"
+      },
+      {
+        "forms" : [
+          "eu-honigmischungen"
+        ],
+        "gender" : "feminine",
+        "note" : "Die EU + Honig (honey) + Mischung (blend), plural: honey mixed from several countries and sold in the EU.",
+        "pos" : "noun",
+        "translation" : "EU honey blends"
+      },
+      {
+        "forms" : [
+          "eu-rückstandsgrenzwerte"
+        ],
+        "gender" : "masculine",
+        "note" : "Die EU + Rückstand (residue, here from pesticides) + Grenzwert (limit), plural: the most a food may contain under EU law.",
+        "pos" : "noun",
+        "translation" : "EU residue limits"
+      },
+      {
+        "forms" : [
+          "fakten"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of der Fakt (also das Fakt); „voller Fakten“ = full of facts.",
+        "pos" : "noun",
+        "translation" : "facts"
+      },
+      {
+        "forms" : [
+          "fließendem"
+        ],
+        "note" : "Fließend (flowing) with the dative ending after „unter“: „unter fließendem Wasser“ = under running water.",
+        "pos" : "adjective",
+        "translation" : "running (water)"
+      },
+      {
+        "forms" : [
+          "geschluckt"
+        ],
+        "note" : "Partizip II of schlucken (to swallow): „hat einen geschluckt“ = took one, swallowed one.",
+        "pos" : "verb",
+        "translation" : "swallowed, took"
+      },
+      {
+        "forms" : [
+          "glukose"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Glukose, also called Traubenzucker: one of the names sugar hides under on an ingredient list.",
+        "pos" : "noun",
+        "translation" : "glucose"
+      },
+      {
+        "forms" : [
+          "grundsatz"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Grundsatz, plural die Grundsätze: a rule you live by; „sein Grundsatz“ = his principle.",
+        "pos" : "noun",
+        "translation" : "principle, rule"
+      },
+      {
+        "forms" : [
+          "harvey"
+        ],
+        "note" : "First name of Harvey Wiley (1844–1930), the American chemist who ran the hygienic table.",
+        "pos" : "other",
+        "translation" : "Harvey"
+      },
+      {
+        "forms" : [
+          "hygienischen"
+        ],
+        "note" : "Hygienisch with the ending after „am“ (dative): „am hygienischen Tisch“ = at the hygienic table, the name Wiley gave his test table.",
+        "pos" : "adjective",
+        "translation" : "hygienic"
+      },
+      {
+        "forms" : [
+          "irreführende"
+        ],
+        "note" : "Irreführend (misleading, from irreführen = to lead astray) with the plural ending: „irreführende Etiketten“.",
+        "pos" : "adjective",
+        "translation" : "misleading"
+      },
+      {
+        "forms" : [
+          "kalorie",
+          "kalorien"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Kalorie, plural die Kalorien; „10 % der Kalorien“ = 10 percent of the calories you eat in a day.",
+        "pos" : "noun",
+        "translation" : "calorie(s)"
+      },
+      {
+        "forms" : [
+          "konservierungsstoff",
+          "konservierungsstoffe"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Konservierungsstoff, plural -stoffe: konservieren (to preserve) + Stoff (substance), an additive that keeps food from spoiling.",
+        "pos" : "noun",
+        "translation" : "preservative(s)"
+      },
+      {
+        "forms" : [
+          "kontrolliert"
+        ],
+        "note" : "Kontrollieren (to check): er/sie/es form and also the Partizip II, with no ge- because it ends in -ieren: „hat kontrolliert“, „werden kontrolliert“.",
+        "pos" : "verb",
+        "translation" : "checks; checked"
+      },
+      {
+        "forms" : [
+          "käfig"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Käfig, plural die Käfige; on eggs the digit 3 means hens kept in cages.",
+        "pos" : "noun",
+        "translation" : "cage"
+      },
+      {
+        "forms" : [
+          "lebensmitteletikett",
+          "lebensmitteletiketten"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Lebensmitteletikett, plural -etiketten: Lebensmittel (food) + Etikett (label).",
+        "pos" : "noun",
+        "translation" : "food label(s)"
+      },
+      {
+        "forms" : [
+          "lies"
+        ],
+        "note" : "The du imperative of lesen: du liest → lies! (the stem vowel change e → ie stays, the -st goes).",
+        "pos" : "verb",
+        "translation" : "read!"
+      },
+      {
+        "forms" : [
+          "maissirup"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Maissirup: Mais (corn, maize) + Sirup; a sweetener that counts as sugar on the label.",
+        "pos" : "noun",
+        "translation" : "corn syrup"
+      },
+      {
+        "forms" : [
+          "roosevelt"
+        ],
+        "note" : "Theodore Roosevelt, US president 1901–1909, who signed the food law on 30 June 1906.",
+        "pos" : "other",
+        "translation" : "Roosevelt"
+      },
+      {
+        "forms" : [
+          "rückstände"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Rückstand, plural die Rückstände: here what is left on food, for example from pesticides; „Grenzwerte für Rückstände“ = residue limits.",
+        "pos" : "noun",
+        "translation" : "residues"
+      },
+      {
+        "forms" : [
+          "sicherheitstests"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Sicherheitstest, plural -tests: Sicherheit (safety) + Test; „Sicherheitstests bestanden“ = passed safety tests.",
+        "pos" : "noun",
+        "translation" : "safety tests"
+      },
+      {
+        "forms" : [
+          "tarnt"
+        ],
+        "note" : "Sich tarnen (to disguise oneself, to camouflage): „er tarnt sich als Glukose“ = it disguises itself as glucose, it hides under the name glucose.",
+        "pos" : "verb",
+        "translation" : "disguises"
+      },
+      {
+        "forms" : [
+          "ungetestete"
+        ],
+        "note" : "Un- (not) + getestet (tested) with the plural ending: „ungetestete Konservierungsstoffe“.",
+        "pos" : "adjective",
+        "translation" : "untested"
+      },
+      {
+        "forms" : [
+          "wiley"
+        ],
+        "note" : "Harvey Wiley (1844–1930), chief chemist at the US Department of Agriculture, who tested food additives on volunteers from 1902.",
+        "pos" : "other",
+        "translation" : "Wiley"
+      },
+      {
+        "forms" : [
+          "ziffer"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Ziffer, plural die Ziffern: a single figure 0–9; „die erste Ziffer“ = the first digit.",
+        "pos" : "noun",
+        "translation" : "digit"
+      },
+      {
+        "forms" : [
+          "zugelassen"
+        ],
+        "note" : "Partizip II of zulassen (to approve, to allow), with -ge- after the particle zu-: „sind getestet und zugelassen“.",
+        "pos" : "verb",
+        "translation" : "approved, allowed"
+      },
+      {
+        "forms" : [
+          "zusatz"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Zusatz, plural die Zusätze: anything added to a food; „Zusatzstoff“ is the label word for additive.",
+        "pos" : "noun",
+        "translation" : "something added, additive"
       }
     ],
     "italian" : [
@@ -125815,6 +126849,7 @@
           "aggiunge",
           "aggiungendo",
           "aggiungeva",
+          "aggiungevano",
           "aggiungi",
           "aggiungono",
           "aggiunta",
@@ -130251,7 +131286,8 @@
       },
       {
         "forms" : [
-          "giovane"
+          "giovane",
+          "giovani"
         ],
         "note" : "Common adjective.",
         "pos" : "adjective",
@@ -136574,7 +137610,8 @@
       {
         "forms" : [
           "testate",
-          "testati"
+          "testati",
+          "testava"
         ],
         "note" : "Past participle of testare.",
         "pos" : "verb",
@@ -138440,7 +139477,9 @@
         "forms" : [
           "controlla",
           "controllando",
-          "controllare"
+          "controllare",
+          "controllati",
+          "controllava"
         ],
         "note" : "Forms of \"controllare.\"",
         "pos" : "verb",
@@ -142871,7 +143910,10 @@
       },
       {
         "forms" : [
-          "etichette"
+          "etichetta",
+          "etichette",
+          "l'etichetta",
+          "un'etichetta"
         ],
         "gender" : "feminine",
         "note" : "Plural of etichetta.",
@@ -144820,6 +145862,7 @@
       {
         "forms" : [
           "lava",
+          "lavale",
           "lavato",
           "lavava",
           "lavi"
@@ -144847,6 +145890,7 @@
           "leggere",
           "leggerli",
           "leggerlo",
+          "leggi",
           "lesse"
         ],
         "note" : "From leggere: legge = reads, lesse = read (passato remoto). Also the noun la legge (feminine) = the law: \"per legge\" = by law.",
@@ -147862,7 +148906,9 @@
       },
       {
         "forms" : [
-          "elenco"
+          "elenco",
+          "l'elenco",
+          "nell'elenco"
         ],
         "gender" : "masculine",
         "note" : "«Un elenco di peccati».",
@@ -153890,6 +154936,7 @@
       },
       {
         "forms" : [
+          "pasti",
           "pasto"
         ],
         "gender" : "masculine",
@@ -160081,7 +161128,8 @@
       },
       {
         "forms" : [
-          "additivi"
+          "additivi",
+          "additivo"
         ],
         "gender" : "masculine",
         "note" : "Plural of l'additivo; « senza additivi » = with nothing added.",
@@ -162698,6 +163746,7 @@
       },
       {
         "forms" : [
+          "approvati",
           "approvato"
         ],
         "note" : "Participle of approvare: aveva approvato = had adopted (trapassato prossimo), said of a law or a text voted through.",
@@ -165417,6 +166466,271 @@
         "note" : "Veda is the present subjunctive of vedere, needed after senza che: senza che nessuno lo veda = without anyone seeing it.",
         "pos" : "verb",
         "translation" : "sees (subjunctive)"
+      },
+      {
+        "forms" : [
+          "0"
+        ],
+        "note" : "Zero; on an egg the first digit 0 means organic: da 0 a 3 = from 0 to 3.",
+        "pos" : "number",
+        "translation" : "0"
+      },
+      {
+        "forms" : [
+          "10"
+        ],
+        "note" : "Dieci; with % Italian says per cento: il 10% = ten per cent, with the article.",
+        "pos" : "number",
+        "translation" : "10"
+      },
+      {
+        "forms" : [
+          "1902"
+        ],
+        "note" : "Millenovecentodue; years take the article in Italian: nel 1902 = in 1902.",
+        "pos" : "number",
+        "translation" : "1902"
+      },
+      {
+        "forms" : [
+          "22,5"
+        ],
+        "note" : "Ventidue virgola cinque; Italian writes decimals with a comma: 22,5 g = 22.5 g.",
+        "pos" : "number",
+        "translation" : "22.5"
+      },
+      {
+        "forms" : [
+          "98"
+        ],
+        "note" : "Novantotto: 98 campioni su 100 = 98 samples out of 100.",
+        "pos" : "number",
+        "translation" : "98"
+      },
+      {
+        "forms" : [
+          "harvey"
+        ],
+        "note" : "First name of Harvey Wiley, the American chemist; names are not translated.",
+        "pos" : "noun",
+        "translation" : "Harvey"
+      },
+      {
+        "forms" : [
+          "wiley"
+        ],
+        "note" : "Surname of Harvey Wiley, the chemist behind the hygienic table.",
+        "pos" : "noun",
+        "translation" : "Wiley"
+      },
+      {
+        "forms" : [
+          "roosevelt"
+        ],
+        "note" : "Theodore Roosevelt, US president, who signed the 1906 food law.",
+        "pos" : "noun",
+        "translation" : "Roosevelt"
+      },
+      {
+        "forms" : [
+          "chimico"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine noun; also an adjective, chemical: un chimico = a chemist.",
+        "pos" : "noun",
+        "translation" : "chemist"
+      },
+      {
+        "forms" : [
+          "condizione"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine; c'è una condizione = there's a condition, there's a catch.",
+        "pos" : "noun",
+        "translation" : "condition, catch"
+      },
+      {
+        "forms" : [
+          "confezione"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine; the box or wrapper food is sold in: ogni confezione = every pack.",
+        "pos" : "noun",
+        "translation" : "pack, package"
+      },
+      {
+        "forms" : [
+          "informazioni"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural; Italian counts information: tante informazioni = a lot of information.",
+        "pos" : "noun",
+        "translation" : "information"
+      },
+      {
+        "forms" : [
+          "test"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine, borrowed from English and the same in the plural: fare dei test = to run tests.",
+        "pos" : "noun",
+        "translation" : "test(s)"
+      },
+      {
+        "forms" : [
+          "igienica"
+        ],
+        "note" : "Feminine of igienico; la tavola igienica is the name Wiley gave his test table.",
+        "pos" : "adjective",
+        "translation" : "hygienic"
+      },
+      {
+        "forms" : [
+          "borace"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine; a salt once used to keep food from going off, the first thing Wiley tested.",
+        "pos" : "noun",
+        "translation" : "borax"
+      },
+      {
+        "forms" : [
+          "biologico"
+        ],
+        "note" : "Of food, farmed the organic way; people often just say bio.",
+        "pos" : "adjective",
+        "translation" : "organic"
+      },
+      {
+        "forms" : [
+          "gabbia"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine; on egg labels 3 means hens kept in cages (gabbie attrezzate).",
+        "pos" : "noun",
+        "translation" : "cage"
+      },
+      {
+        "forms" : [
+          "conservanti"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine plural of conservante, something added so food keeps longer.",
+        "pos" : "noun",
+        "translation" : "preservatives"
+      },
+      {
+        "forms" : [
+          "misti",
+          "misto"
+        ],
+        "note" : "Misto (plural misti) = mixed, blended: il miele misto = a honey blend, honey from more than one country.",
+        "pos" : "adjective",
+        "translation" : "mixed, blended"
+      },
+      {
+        "forms" : [
+          "percentuale"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine, though it ends in -e: la sua percentuale = its share, how much of the whole it is.",
+        "pos" : "noun",
+        "translation" : "percentage, share"
+      },
+      {
+        "forms" : [
+          "residui"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine plural of residuo; on food, what is left of pesticides after farming.",
+        "pos" : "noun",
+        "translation" : "residues"
+      },
+      {
+        "forms" : [
+          "calorie"
+        ],
+        "gender" : "feminine",
+        "note" : "Feminine plural of caloria: il 10% delle calorie = 10% of calories.",
+        "pos" : "noun",
+        "translation" : "calories"
+      },
+      {
+        "forms" : [
+          "glucosio"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine; one of the names sugar hides under on a label.",
+        "pos" : "noun",
+        "translation" : "glucose"
+      },
+      {
+        "forms" : [
+          "sciroppo"
+        ],
+        "gender" : "masculine",
+        "note" : "Masculine: sciroppo di mais = corn syrup.",
+        "pos" : "noun",
+        "translation" : "syrup"
+      },
+      {
+        "forms" : [
+          "alimentari"
+        ],
+        "note" : "Plural of alimentare, about food: etichette alimentari = food labels.",
+        "pos" : "adjective",
+        "translation" : "food (adjective)"
+      },
+      {
+        "forms" : [
+          "ingannevoli"
+        ],
+        "note" : "Plural of ingannevole, from ingannare (to deceive): etichette ingannevoli = misleading labels.",
+        "pos" : "adjective",
+        "translation" : "misleading"
+      },
+      {
+        "forms" : [
+          "false"
+        ],
+        "note" : "Feminine plural of falso: etichette false = false labels.",
+        "pos" : "adjective",
+        "translation" : "false"
+      },
+      {
+        "forms" : [
+          "indicano"
+        ],
+        "note" : "Present tense, loro form of indicare: indicano ogni paese = they list every country.",
+        "pos" : "verb",
+        "translation" : "show, state"
+      },
+      {
+        "forms" : [
+          "consiglia"
+        ],
+        "note" : "Present tense of consigliare: l'OMS consiglia = the WHO advises.",
+        "pos" : "verb",
+        "translation" : "advises, recommends"
+      },
+      {
+        "forms" : [
+          "dell'ue",
+          "nell'ue",
+          "ue"
+        ],
+        "gender" : "feminine",
+        "note" : "L'UE (l'Unione europea), feminine: dell'UE = of the EU; nell'UE = in the EU; i limiti UE = EU limits.",
+        "pos" : "noun",
+        "translation" : "EU"
+      },
+      {
+        "forms" : [
+          "rispettavano"
+        ],
+        "note" : "Imperfect of rispettare (to respect, to keep to): rispettavano i limiti = they were within the limits.",
+        "pos" : "verb",
+        "translation" : "met, kept to (they)"
       }
     ],
     "spanish" : [
@@ -167395,7 +168709,8 @@
       },
       {
         "forms" : [
-          "fruta"
+          "fruta",
+          "frutas"
         ],
         "gender" : "feminine",
         "note" : "As in \"fruta seca\" (dried fruit).",
@@ -168236,7 +169551,8 @@
       },
       {
         "forms" : [
-          "mezcla"
+          "mezcla",
+          "mezclas"
         ],
         "gender" : "feminine",
         "note" : "In a recipe mezcla is the tú command of mezclar: mezcla el pollo con yogur = mix the chicken with yoghurt; as a noun, la mezcla is a mixture.",
@@ -173015,7 +174331,8 @@
       },
       {
         "forms" : [
-          "prueba"
+          "prueba",
+          "pruebas"
         ],
         "gender" : "feminine",
         "note" : "As in \"poner a prueba\" (to put to the test). Also a form of probar (to taste, to try): \"no prueba ni pan\" = doesn't even taste bread.",
@@ -177273,7 +178590,8 @@
       },
       {
         "forms" : [
-          "indica"
+          "indica",
+          "indican"
         ],
         "note" : "Indicar, él/ella form.",
         "pos" : "verb",
@@ -200484,7 +201802,8 @@
       },
       {
         "forms" : [
-          "europea"
+          "europea",
+          "europeos"
         ],
         "note" : "Feminine of europeo; «la ley europea» = EU law, the rules all EU countries share.",
         "pos" : "adjective",
@@ -201847,6 +203166,7 @@
       },
       {
         "forms" : [
+          "aditivo",
           "aditivos"
         ],
         "gender" : "masculine",
@@ -202220,6 +203540,7 @@
       },
       {
         "forms" : [
+          "vigilaba",
           "vigilar"
         ],
         "note" : "Vigilar: «a vigilar el buzón» = time to keep an eye on the mailbox (a + infinitive, spoken).",
@@ -206679,6 +208000,313 @@
         "note" : "From calentar (to warm, heat); the e becomes ie when stressed: calientan, but calentamos. Same family as el calentamiento (warming).",
         "pos" : "verb",
         "translation" : "warm, heat up (they)"
+      },
+      {
+        "forms" : [
+          "0"
+        ],
+        "note" : "Read «cero»: on an egg, the first number goes «del 0, ecológico, al 3, jaula» = from 0, organic, to 3, cages.",
+        "pos" : "number",
+        "translation" : "0"
+      },
+      {
+        "forms" : [
+          "10"
+        ],
+        "note" : "Read «diez»: «menos del 10 % de calorías» = under 10 % of calories.",
+        "pos" : "number",
+        "translation" : "10"
+      },
+      {
+        "forms" : [
+          "1902"
+        ],
+        "note" : "Read «mil novecientos dos»: Spanish reads years as a full number: «en 1902» = in 1902.",
+        "pos" : "number",
+        "translation" : "1902"
+      },
+      {
+        "forms" : [
+          "22,5"
+        ],
+        "note" : "Read «veintidós coma cinco»: Spanish writes decimals with a comma: «22,5 g de azúcar» = 22.5 g of sugar.",
+        "pos" : "number",
+        "translation" : "22.5"
+      },
+      {
+        "forms" : [
+          "98"
+        ],
+        "note" : "Read «noventa y ocho»: «98 de cada 100 muestras» = 98 in every 100 samples.",
+        "pos" : "number",
+        "translation" : "98"
+      },
+      {
+        "forms" : [
+          "aconseja"
+        ],
+        "note" : "From aconsejar; it takes que + subjunctive, or a noun: «la OMS aconseja menos del 10 %» = the WHO advises under 10 %.",
+        "pos" : "verb",
+        "translation" : "advises, recommends"
+      },
+      {
+        "forms" : [
+          "analiza",
+          "analizaba",
+          "analizados",
+          "analizar"
+        ],
+        "note" : "From analizar, to test in a lab (not probar, which can mean taste): «Wiley analiza estas cosas» = Wiley tests these things; «sin analizar» = untested.",
+        "pos" : "verb",
+        "translation" : "tests, analyses; analysed; to test"
+      },
+      {
+        "forms" : [
+          "aprobados"
+        ],
+        "note" : "Plural of aprobado after estar: «están analizados y aprobados» = they are tested and approved.",
+        "pos" : "adjective",
+        "translation" : "approved"
+      },
+      {
+        "forms" : [
+          "aprobó"
+        ],
+        "note" : "Pretérito of aprobar: «Estados Unidos aprobó una ley» = the USA passed a law. A single event, so the pretérito.",
+        "pos" : "verb",
+        "translation" : "passed (a law), approved"
+      },
+      {
+        "forms" : [
+          "bórax"
+        ],
+        "gender" : "masculine",
+        "note" : "A white mineral salt once used to keep food from going off; «el bórax» was the first preservative Wiley tested.",
+        "pos" : "noun",
+        "translation" : "borax"
+      },
+      {
+        "forms" : [
+          "calorías"
+        ],
+        "gender" : "feminine",
+        "note" : "Plural of caloría: «el 10 % de calorías» = 10 % of calories.",
+        "pos" : "noun",
+        "translation" : "calories"
+      },
+      {
+        "forms" : [
+          "conservantes"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of conservante, the EU label word for a preservative: «conservantes sin analizar» = untested preservatives.",
+        "pos" : "noun",
+        "translation" : "preservatives"
+      },
+      {
+        "forms" : [
+          "controla",
+          "controlaba",
+          "controlan",
+          "controlar"
+        ],
+        "note" : "From controlar, to check or keep track of (not to control in English's strong sense): «Wiley controla su salud» = Wiley checks their health; «se controlan» = are checked.",
+        "pos" : "verb",
+        "translation" : "checks, monitors; was checking; to check"
+      },
+      {
+        "forms" : [
+          "cumplieron"
+        ],
+        "note" : "Pretérito of cumplir (they): «cumplieron los límites» = they met the limits. With an age, cumplir means to turn: «cumple 30».",
+        "pos" : "verb",
+        "translation" : "met, complied with"
+      },
+      {
+        "forms" : [
+          "disfraza"
+        ],
+        "note" : "From disfrazar(se), to dress up as: «se disfraza de glucosa» = it hides as glucose (literally dresses up as).",
+        "pos" : "verb",
+        "translation" : "disguises"
+      },
+      {
+        "forms" : [
+          "ecológico"
+        ],
+        "note" : "The EU word for organic food in Spain (also biológico, and orgánico in Latin America): «0, ecológico» = 0, organic.",
+        "pos" : "adjective",
+        "translation" : "organic"
+      },
+      {
+        "forms" : [
+          "engañosas"
+        ],
+        "note" : "Feminine plural of engañoso, from engañar (to deceive): «etiquetas engañosas» = misleading labels.",
+        "pos" : "adjective",
+        "translation" : "misleading"
+      },
+      {
+        "forms" : [
+          "falsas"
+        ],
+        "note" : "Feminine plural of falso: «etiquetas falsas o engañosas» = false or misleading labels.",
+        "pos" : "adjective",
+        "translation" : "false"
+      },
+      {
+        "forms" : [
+          "fábrica"
+        ],
+        "gender" : "feminine",
+        "note" : "«La comida de fábrica» = factory food, food made in a factory.",
+        "pos" : "noun",
+        "translation" : "factory"
+      },
+      {
+        "forms" : [
+          "glucosa"
+        ],
+        "gender" : "feminine",
+        "note" : "A sugar; on a label it is still sugar: «se disfraza de glucosa» = it hides as glucose.",
+        "pos" : "noun",
+        "translation" : "glucose"
+      },
+      {
+        "forms" : [
+          "grifo"
+        ],
+        "gender" : "masculine",
+        "note" : "«Bajo el grifo» = under the tap, under running water.",
+        "pos" : "noun",
+        "translation" : "tap, faucet"
+      },
+      {
+        "forms" : [
+          "harvey"
+        ],
+        "note" : "Harvey Wiley (1844–1930), the American chemist behind the hygienic table.",
+        "pos" : "noun",
+        "translation" : "Harvey (first name)"
+      },
+      {
+        "forms" : [
+          "higiénica"
+        ],
+        "note" : "Feminine of higiénico: «la mesa higiénica» = the hygienic table, the name Wiley gave his test table.",
+        "pos" : "adjective",
+        "translation" : "hygienic"
+      },
+      {
+        "forms" : [
+          "jarabe"
+        ],
+        "gender" : "masculine",
+        "note" : "«Jarabe de maíz» = corn syrup, another name for sugar on a label.",
+        "pos" : "noun",
+        "translation" : "syrup"
+      },
+      {
+        "forms" : [
+          "jaula"
+        ],
+        "gender" : "feminine",
+        "note" : "On eggs, 3 means hens kept in cages: «huevos de jaula» («jaulas acondicionadas» on the EU label).",
+        "pos" : "noun",
+        "translation" : "cage"
+      },
+      {
+        "forms" : [
+          "lees"
+        ],
+        "note" : "Tú form of leer: «y tú los lees» = and you read them.",
+        "pos" : "verb",
+        "translation" : "(you) read"
+      },
+      {
+        "forms" : [
+          "listado"
+        ],
+        "note" : "From listar, to list: «todo aditivo listado» = every listed additive.",
+        "pos" : "adjective",
+        "translation" : "listed"
+      },
+      {
+        "forms" : [
+          "mentir"
+        ],
+        "note" : "Infinitive after poder: «no puede mentir» = it can't lie.",
+        "pos" : "verb",
+        "translation" : "to lie (say what is not true)"
+      },
+      {
+        "forms" : [
+          "mezclada"
+        ],
+        "note" : "Participle of mezclar: «la miel mezclada» = blended honey, honey from several countries.",
+        "pos" : "adjective",
+        "translation" : "blended, mixed"
+      },
+      {
+        "forms" : [
+          "plaguicidas"
+        ],
+        "gender" : "masculine",
+        "note" : "Plural of plaguicida, the word on Spanish EU texts (also pesticidas): «restos de plaguicidas» = pesticide residues.",
+        "pos" : "noun",
+        "translation" : "pesticides"
+      },
+      {
+        "forms" : [
+          "porcentaje"
+        ],
+        "gender" : "masculine",
+        "note" : "«Cada país y su porcentaje» = every country and its share.",
+        "pos" : "noun",
+        "translation" : "percentage, share"
+      },
+      {
+        "forms" : [
+          "químico"
+        ],
+        "gender" : "masculine",
+        "note" : "A scientist who works with chemistry (not a pharmacist, which is farmacéutico): «un químico, Harvey Wiley».",
+        "pos" : "noun",
+        "translation" : "chemist"
+      },
+      {
+        "forms" : [
+          "restos"
+        ],
+        "gender" : "masculine",
+        "note" : "«Restos de plaguicidas» = pesticide residues, the tiny traces left on food.",
+        "pos" : "noun",
+        "translation" : "traces, residues"
+      },
+      {
+        "forms" : [
+          "roosevelt"
+        ],
+        "note" : "Theodore Roosevelt, US president, who signed the food law on 30 June 1906.",
+        "pos" : "noun",
+        "translation" : "Roosevelt"
+      },
+      {
+        "forms" : [
+          "ue"
+        ],
+        "gender" : "feminine",
+        "note" : "Short for la Unión Europea, always with la: «la UE», «de la UE».",
+        "pos" : "noun",
+        "translation" : "EU (European Union)"
+      },
+      {
+        "forms" : [
+          "wiley"
+        ],
+        "note" : "Harvey Wiley (1844–1930), the chemist who ran the hygienic table in Washington.",
+        "pos" : "noun",
+        "translation" : "Wiley (surname)"
       }
     ]
   },
@@ -207791,6 +209419,107 @@
           "es" : "¿Dónde tienes que toser?",
           "fr" : "Où est-ce que tu dois tousser ?",
           "it" : "Dove devi tossire?"
+        }
+      }
+    ],
+    "the-hygienic-table" : [
+      {
+        "answers" : [
+          {
+            "de" : "Neue Rezepte fürs Abendessen",
+            "en" : "New recipes for dinner",
+            "es" : "Recetas nuevas para la cena",
+            "fr" : "De nouvelles recettes pour le dîner",
+            "it" : "Su nuove ricette per cena"
+          },
+          {
+            "de" : "Neue Sachen im Essen aus der Fabrik",
+            "en" : "New things in factory food",
+            "es" : "Cosas nuevas en la comida de las fábricas",
+            "fr" : "De nouvelles choses dans la nourriture industrielle",
+            "it" : "Su cose nuove nel cibo delle fabbriche"
+          },
+          {
+            "de" : "Wie schnell die Männer essen",
+            "en" : "How fast the men eat",
+            "es" : "Lo rápido que comen los hombres",
+            "fr" : "Si les hommes mangent vite",
+            "it" : "Su quanto in fretta mangiano i ragazzi"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Was testet Harvey Wiley?",
+          "en" : "What does Harvey Wiley test?",
+          "es" : "¿Qué analiza Harvey Wiley?",
+          "fr" : "Qu'est-ce que Harvey Wiley teste ?",
+          "it" : "Su che cosa fa i test Harvey Wiley?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Zwei",
+            "en" : "Two",
+            "es" : "Dos",
+            "fr" : "Deux",
+            "it" : "Due"
+          },
+          {
+            "de" : "Hundert",
+            "en" : "A hundred",
+            "es" : "Cien",
+            "fr" : "Cent",
+            "it" : "Cento"
+          },
+          {
+            "de" : "Zwölf",
+            "en" : "Twelve",
+            "es" : "Doce",
+            "fr" : "Douze",
+            "it" : "Dodici"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Wie viele junge Männer essen an dem langen Tisch?",
+          "en" : "How many young men eat at the table?",
+          "es" : "¿Cuántos hombres jóvenes comen en la mesa larga?",
+          "fr" : "Combien de jeunes hommes mangent à la longue table ?",
+          "it" : "Quanti ragazzi mangiano alla tavola lunga?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Ein Etikett darf nicht lügen",
+            "en" : "A food label can't lie",
+            "es" : "La etiqueta de la comida no puede mentir",
+            "fr" : "L'étiquette d'un aliment ne peut pas mentir",
+            "it" : "L'etichetta del cibo non può mentire"
+          },
+          {
+            "de" : "Essen muss billig sein",
+            "en" : "Food must be cheap",
+            "es" : "La comida tiene que ser barata",
+            "fr" : "La nourriture doit être bon marché",
+            "it" : "Il cibo deve costare poco"
+          },
+          {
+            "de" : "Jede Packung braucht ein Bild",
+            "en" : "Every pack needs a picture",
+            "es" : "Cada paquete necesita una foto",
+            "fr" : "Chaque paquet doit avoir une image",
+            "it" : "Ogni confezione deve avere una foto"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "Was sagt das neue Gesetz von 1906?",
+          "en" : "What does the new law of 1906 say?",
+          "es" : "¿Qué dice la nueva ley de 1906?",
+          "fr" : "Que dit la nouvelle loi de 1906 ?",
+          "it" : "Che cosa dice la nuova legge del 1906?"
         }
       }
     ],
@@ -269612,6 +271341,601 @@
       "summary" : "Da terra nessuno vede il metano che esce dagli impianti, ma dallo spazio i satelliti lo trovano: così sono già state riparate 46 grandi perdite in 13 paesi.",
       "title" : "Le perdite viste dallo spazio",
       "translationGroup" : "leaks-seen-from-space"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "id" : "the-hygienic-table",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"Back then\" opens a short look at the past, so the verb changes to the past: there are → there were, has → had, can → could.",
+              "example" : "Back then, there were new things in factory food.",
+              "title" : "Was and were: one look back"
+            },
+            {
+              "body" : "\"Can't\" (cannot) is followed by the base verb with no \"to\" and no -s: a label can't lie, not can't to lie.",
+              "example" : "Now a food label can't lie.",
+              "title" : "Can't + verb: what is not allowed"
+            },
+            {
+              "body" : "A question word comes first, then the verb, then the subject: Where is the food from? How much sugar is in 100 grams?",
+              "example" : "How much sugar is in 100 grams?",
+              "title" : "Questions with how much and where"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In 1902, in Washington, twelve young men eat at a long table. The meals are free, but there's a catch.",
+            "Back then, there were new things in factory food. Nobody could check them, and labels could say anything.",
+            "So a chemist, Harvey Wiley, tests these things. Half the men eat them, and Wiley checks their health.",
+            "Then, in 1906, the USA gets a new law. Now a food label can't lie.",
+            "So look at the label. Where is the food from? How much sugar is in 100 grams? What's on the ingredients list? Every label is a little table of facts, and you read it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The past simple tells finished events: regular verbs add -ed (add → added, check → checked), others have their own form (eat → ate, say → said).",
+              "example" : "So half the men ate them, starting with borax, and Wiley checked their health.",
+              "title" : "Past simple: ate, added, checked"
+            },
+            {
+              "body" : "\"Couldn't\" is the past of \"can't\"; the verb after it stays in the base form: labels couldn't lie, not couldn't lied.",
+              "example" : "On 30 June 1906, the USA got a new law: food labels couldn't lie.",
+              "title" : "Couldn't: what was not allowed"
+            },
+            {
+              "body" : "\"Before you buy\" says which action comes first; after \"before\" English uses the present, even for advice about the future.",
+              "example" : "So look at the label before you buy.",
+              "title" : "Before + present: the order of two actions"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In 1902, in Washington, twelve young men ate free meals at chemist Harvey Wiley's hygienic table.",
+            "Back then, factories added new things to food, and nobody tested them. So half the men ate them, starting with borax, and Wiley checked their health.",
+            "On 30 June 1906, the USA got a new law: food labels couldn't lie.",
+            "So look at the label before you buy. Where's the food from? How much sugar is in 100 grams? On eggs, the first number goes from 0, organic, to 3, caged. At home, wash fruit and vegetables under running water.",
+            "Wiley died on 30 June 1930, 24 years later. Every label is a little table of facts, and you're the one who reads it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Were adding\" (was/were + -ing) shows something going on over a period in the past, the background to the story's events.",
+              "example" : "Factories were adding untested preservatives, and labels could say anything.",
+              "title" : "Past continuous: what was going on"
+            },
+            {
+              "body" : "\"While\" joins two actions happening at the same time: the men took the preservative, and during that time Wiley checked their health.",
+              "example" : "So half the men took one, borax first, while Wiley checked their health.",
+              "title" : "While: two things at the same time"
+            },
+            {
+              "body" : "Am/is/are + past participle puts the thing first when who does it matters less: the residues are checked (by the authorities).",
+              "example" : "Pesticide residues are checked every year, but still wash fruit and vegetables.",
+              "title" : "Present passive: is tested, are checked"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In 1902, in Washington, twelve young men ate free meals at chemist Harvey Wiley's hygienic table.",
+            "Factories were adding untested preservatives, and labels could say anything. So half the men took one, borax first, while Wiley checked their health.",
+            "On 30 June 1906, Roosevelt signed a law against false or misleading food labels.",
+            "So read the label. Since June 2026, blended EU honey lists every country and its share. Over 22.5 g of sugar per 100 g is high, 5 g or less is low. An egg's first digit runs from 0, organic, to 3, caged. Every E number is tested and approved. Pesticide residues are checked every year, but still wash fruit and vegetables.",
+            "Wiley died on 30 June 1930, exactly 24 years later. Every label is a little table of facts, and you're the one who reads it."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In relaxed speech and writing, a noun and a colon can replace \"His view was that…\": the colon introduces what the view was.",
+              "example" : "His view: anything added belongs on the label.",
+              "title" : "A colon instead of a full sentence"
+            },
+            {
+              "body" : "The past continuous (were adding) sets the scene, and \"so\" joins what people did because of it; \"while\" adds an action at the same time.",
+              "example" : "Factories were adding untested preservatives and labels could say anything, so half the men took one, borax first, while Wiley tracked their health.",
+              "title" : "Past continuous with so: background and result"
+            },
+            {
+              "body" : "Many English verbs come with a small word (over, up, out) that changes the meaning: turn over = flip to the other side. With a noun object, the small word can go after it: turn the box over or turn over the box.",
+              "example" : "Turn the box over.",
+              "title" : "Phrasal verbs: turn the box over"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In 1902, in Washington, twelve young men got free meals at chemist Harvey Wiley's hygienic table.",
+            "Factories were adding untested preservatives and labels could say anything, so half the men took one, borax first, while Wiley tracked their health. His view: anything added belongs on the label.",
+            "On 30 June 1906, Roosevelt signed a law against misleading food labels.",
+            "Turn the box over. Mixed EU honey shows each country's share. Over 22.5 g of sugar per 100 g is a lot, 5 g or less is little, and glucose or corn syrup are sugar too. The World Health Organization suggests under 10% of calories, ideally 5%. Egg codes run from 0, organic, to 3, cages. E numbers? All safety-tested. In 2024, 98 in 100 samples met EU residue limits, but still wash fruit and veg.",
+            "Wiley died on 30 June 1930, exactly 24 years later. Every label is a little table of facts, and you're the one who reads it."
+          ]
+        }
+      ],
+      "summary" : "In 1902, twelve young men in Washington ate free meals at Harvey Wiley's hygienic table, and that's where the story of today's food label begins.",
+      "title" : "The Hygienic Table",
+      "translationGroup" : "the-hygienic-table"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "id" : "the-hygienic-table-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "The story is in the present, but À l'époque (back then) opens one short look at the past in the imparfait: il y a → il y avait, peuvent → pouvaient.",
+              "example" : "À l'époque, il y avait de nouvelles choses dans la nourriture industrielle.",
+              "title" : "Il y avait, pouvaient: one look back"
+            },
+            {
+              "body" : "Ne and pas wrap the conjugated verb, and the infinitive comes after them: une étiquette ne peut pas mentir (a label can't lie).",
+              "example" : "Maintenant, l'étiquette d'un aliment ne peut pas mentir.",
+              "title" : "Ne … pas around pouvoir"
+            },
+            {
+              "body" : "In everyday French the question word can stay where the answer would go, with no inversion: elle dit quoi ? (what does it say?), like elle dit « sucre ».",
+              "example" : "Et la liste, elle dit quoi ?",
+              "title" : "Spoken questions: the question word at the end"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 1902, à Washington, douze jeunes hommes mangent à une longue table. Les repas sont gratuits, mais il y a un piège.",
+            "À l'époque, il y avait de nouvelles choses dans la nourriture industrielle. Personne ne pouvait les contrôler, et les étiquettes pouvaient dire n'importe quoi.",
+            "Alors un chimiste, Harvey Wiley, teste ces choses. La moitié des hommes les mangent, et Wiley surveille leur santé.",
+            "Puis, en 1906, les États-Unis ont une nouvelle loi. Maintenant, l'étiquette d'un aliment ne peut pas mentir.",
+            "Alors regarde l'étiquette. D'où vient l'aliment ? Combien de sucre il y a dans 100 grammes ? Et la liste, elle dit quoi ? Chaque paquet est une petite table de faits, et tu la lis."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "What went on at the time takes the imparfait (les usines ajoutaient); what happened in the story takes the passé composé (ils en ont mangé, Wiley a surveillé).",
+              "example" : "Alors la moitié des hommes en ont mangé, d'abord du borax, et Wiley a surveillé leur santé.",
+              "title" : "Imparfait for the background, passé composé for events"
+            },
+            {
+              "body" : "When both actions have the same person, French says avant de + infinitive: avant d'acheter (before you buy), not avant que tu achètes.",
+              "example" : "Alors regarde l'étiquette avant d'acheter.",
+              "title" : "Avant de + infinitive"
+            },
+            {
+              "body" : "C'est … qui points at one person, and the verb agrees with that person: c'est toi qui la lis (you're the one who reads it), not qui la lit.",
+              "example" : "Chaque paquet est une petite table de faits, et c'est toi qui la lis.",
+              "title" : "C'est toi qui: putting the stress on a person"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1902, à Washington, douze jeunes hommes ont mangé gratuitement à la table hygiénique du chimiste Harvey Wiley.",
+            "À l'époque, les usines ajoutaient de nouvelles choses à la nourriture, et personne ne les testait. Alors la moitié des hommes en ont mangé, d'abord du borax, et Wiley a surveillé leur santé.",
+            "Le 30 juin 1906, une nouvelle loi américaine a décidé que l'étiquette des aliments ne pouvait pas mentir.",
+            "Alors regarde l'étiquette avant d'acheter. Ça vient d'où ? Combien de sucre dans 100 grammes ? Sur les œufs, le premier chiffre va de 0, bio, à 3, en cage. Chez toi, lave les fruits et les légumes sous l'eau courante.",
+            "Wiley est mort le 30 juin 1930, 24 ans plus tard. Chaque paquet est une petite table de faits, et c'est toi qui la lis."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Pendant que (while) sets an ongoing background in the imparfait, against the event in the passé composé: they took it while Wiley was watching their health.",
+              "example" : "Alors la moitié des hommes en ont pris un, d'abord le borax, pendant que Wiley surveillait leur santé.",
+              "title" : "Pendant que + imparfait: what was going on"
+            },
+            {
+              "body" : "Être + past participle puts the thing first when who does it matters less; the participle agrees with the subject: chaque numéro est testé, les limites sont contrôlées.",
+              "example" : "Chaque numéro E est testé et autorisé.",
+              "title" : "Present passive: est testé, sont contrôlées"
+            },
+            {
+              "body" : "Spoken French often names a thing first, then sums it up with c'est: plus de 22,5 g, c'est beaucoup (more than 22.5 g is a lot).",
+              "example" : "Plus de 22,5 g de sucres pour 100 g, c'est beaucoup, 5 g ou moins, c'est peu.",
+              "title" : "C'est after a fronted idea"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1902, à Washington, douze jeunes hommes ont mangé gratuitement à la table hygiénique du chimiste Harvey Wiley.",
+            "Les usines ajoutaient des conservateurs jamais testés, et les étiquettes pouvaient dire n'importe quoi. Alors la moitié des hommes en ont pris un, d'abord le borax, pendant que Wiley surveillait leur santé.",
+            "Le 30 juin 1906, Roosevelt a signé une loi contre les étiquettes fausses ou trompeuses.",
+            "Alors lis l'étiquette. Depuis juin 2026, les miels mélangés de l'UE indiquent la part de chaque pays. Plus de 22,5 g de sucres pour 100 g, c'est beaucoup, 5 g ou moins, c'est peu. Le premier chiffre sur un œuf va de 0, bio, à 3, en cage. Chaque numéro E est testé et autorisé. Les limites de résidus sont contrôlées chaque année, mais lave quand même fruits et légumes.",
+            "Wiley est mort le 30 juin 1930, pile 24 ans après. Chaque paquet est une petite table de faits, et c'est toi qui la lis."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When a number stands without its noun, French puts en before the verb to stand for it: ils en ont pris un = they took one (of them).",
+              "example" : "Alors la moitié des hommes en ont pris un, d'abord le borax, pendant que Wiley suivait leur santé.",
+              "title" : "En + number: one of them"
+            },
+            {
+              "body" : "Talking to a friend, French uses the tu form of the imperative; for -er verbs it drops the final s of tu retournes: retourne le paquet = turn the pack over, lave = wash.",
+              "example" : "Retourne le paquet.",
+              "title" : "The tu imperative: retourne, lave"
+            },
+            {
+              "body" : "Spoken French names the thing first and then comments on it with c'est: plus de 22,5 g de sucres pour 100 g, c'est beaucoup = over 22.5 g of sugar per 100 g is a lot. C'est stays singular even after a plural amount.",
+              "example" : "Plus de 22,5 g de sucres pour 100 g, c'est beaucoup, 5 g ou moins, c'est peu, et le glucose ou le sirop de maïs comptent aussi.",
+              "title" : "C'est after an amount: that's a lot"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1902, à Washington, douze jeunes hommes ont mangé gratuitement à la table hygiénique du chimiste Harvey Wiley.",
+            "Les usines ajoutaient des conservateurs jamais testés, et les étiquettes pouvaient dire n'importe quoi. Alors la moitié des hommes en ont pris un, d'abord le borax, pendant que Wiley suivait leur santé. Pour lui, tout ajout devait figurer sur l'étiquette.",
+            "Le 30 juin 1906, Roosevelt a signé une loi contre les étiquettes trompeuses.",
+            "Retourne le paquet. Le miel mélangé de l'UE indique la part de chaque pays. Plus de 22,5 g de sucres pour 100 g, c'est beaucoup, 5 g ou moins, c'est peu, et le glucose ou le sirop de maïs comptent aussi. L'OMS conseille moins de 10 % des calories, idéalement 5. Les œufs vont de 0, bio, à 3, en cage. Les numéros E ? Tous testés et autorisés. En 2024, 98 échantillons sur 100 respectaient les limites européennes de résidus, mais lave quand même fruits et légumes.",
+            "Wiley est mort le 30 juin 1930, pile 24 ans après. Chaque paquet est une petite table de faits, et c'est toi qui la lis."
+          ]
+        }
+      ],
+      "summary" : "En 1902, à Washington, douze jeunes hommes ont mangé gratuitement à la table hygiénique de Harvey Wiley, et l'étiquette que tu lis aujourd'hui est née là.",
+      "title" : "La table hygiénique",
+      "translationGroup" : "the-hygienic-table"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "id" : "the-hygienic-table-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "„Damals“ (back then) opens a short look at the past, so the verbs change: es gibt → es gab (there was), kann → konnte (could). The rest of the story stays in the present.",
+              "example" : "Damals gab es neue Sachen im Essen aus der Fabrik.",
+              "title" : "Damals: one short look back with gab and konnte"
+            },
+            {
+              "body" : "„Dürfen“ + nicht says something is not allowed; the second verb goes to the end in the infinitive. „Nicht mehr“ = not any more: ein Etikett darf nicht mehr lügen = a label can't lie any more.",
+              "example" : "Jetzt darf ein Etikett nicht mehr lügen.",
+              "title" : "Darf nicht: what is not allowed"
+            },
+            {
+              "body" : "To tell a friend to do something, take the du form and drop -st: du schaust → schau! There is no „du“ in the sentence.",
+              "example" : "Schau aufs Etikett.",
+              "title" : "The du imperative: schau!"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "1902 essen zwölf junge Männer in Washington an einem langen Tisch. Das Essen ist gratis, aber es gibt einen Haken.",
+            "Damals gab es neue Sachen im Essen aus der Fabrik. Niemand konnte sie prüfen, und auf dem Etikett konnte alles stehen.",
+            "Also testet ein Chemiker, Harvey Wiley, diese Sachen. Die Hälfte der Männer isst sie, und Wiley untersucht die Männer.",
+            "1906 bekommen die USA ein neues Gesetz. Jetzt darf ein Etikett nicht mehr lügen.",
+            "Schau aufs Etikett. Woher kommt das Essen? Wie viel Zucker ist in 100 Gramm? Was steht auf der Liste? Jede Packung legt die Fakten auf den Tisch, und du liest sie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells finished events with haben + the past participle at the end of the clause: essen → hat gegessen, untersuchen → hat untersucht (no ge- when the verb starts with an unstressed prefix like unter- or be-).",
+              "example" : "Also hat die Hälfte der Männer davon gegessen, zuerst Borax, und Wiley hat sie untersucht.",
+              "title" : "Das Perfekt: haben + participle at the end"
+            },
+            {
+              "body" : "Verbs of a change of state take sein, not haben: er ist gestorben (he died), like er ist gekommen.",
+              "example" : "Wiley ist am 30. Juni 1930 gestorben, 24 Jahre später.",
+              "title" : "Sterben takes sein in the Perfekt"
+            },
+            {
+              "body" : "Beim (bei dem) + an infinitive used as a noun, with a capital letter, says while you do something: einkaufen → beim Einkaufen = while shopping.",
+              "example" : "Also schau beim Einkaufen aufs Etikett.",
+              "title" : "Beim + verb as a noun: beim Einkaufen"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "1902 haben zwölf junge Männer in Washington gratis gegessen, am hygienischen Tisch vom Chemiker Harvey Wiley.",
+            "Damals haben Fabriken neue Sachen ins Essen getan, und niemand hat sie getestet. Also hat die Hälfte der Männer davon gegessen, zuerst Borax, und Wiley hat sie untersucht.",
+            "Am 30. Juni 1906 gab es ein neues amerikanisches Gesetz: Ein Etikett darf nicht lügen.",
+            "Also schau beim Einkaufen aufs Etikett. Woher kommt das Essen? Wie viel Zucker ist in 100 Gramm? Bei Eiern geht die erste Zahl von 0, Bio, bis 3, Käfig. Wasch Obst und Gemüse zu Hause unter fließendem Wasser.",
+            "Wiley ist am 30. Juni 1930 gestorben, 24 Jahre später. Jede Packung legt die Fakten auf den Tisch, und du liest sie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "„Während“ (while) joins two actions happening at the same time and sends its verb to the end: während Wiley sie untersucht hat.",
+              "example" : "Also hat die Hälfte der Männer einen davon geschluckt, zuerst Borax, während Wiley sie untersucht hat.",
+              "title" : "Während: two things at the same time"
+            },
+            {
+              "body" : "Werden + past participle puts the thing first when who does it matters less: Rückstände werden kontrolliert = residues are checked (by the authorities).",
+              "example" : "Rückstände werden jedes Jahr kontrolliert, aber wasch Obst und Gemüse trotzdem.",
+              "title" : "Passive with werden: werden kontrolliert"
+            },
+            {
+              "body" : "Spoken German often says whose something is with von + the dative: der Tisch vom Chemiker (von dem → vom) = the chemist's table. The genitive „des Chemikers“ is the written form.",
+              "example" : "1902 haben zwölf junge Männer in Washington gratis am hygienischen Tisch vom Chemiker Harvey Wiley gegessen.",
+              "title" : "Vom + dative: the chemist's table"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "1902 haben zwölf junge Männer in Washington gratis am hygienischen Tisch vom Chemiker Harvey Wiley gegessen.",
+            "Fabriken haben damals ungetestete Konservierungsstoffe benutzt, und auf dem Etikett konnte alles stehen. Also hat die Hälfte der Männer einen davon geschluckt, zuerst Borax, während Wiley sie untersucht hat.",
+            "Am 30. Juni 1906 hat Roosevelt ein Gesetz gegen falsche oder irreführende Lebensmitteletiketten unterschrieben.",
+            "Lies also das Etikett. Seit Juni 2026 steht auf EU-Honigmischungen jedes Land mit seinem Anteil. Über 22,5 g Zucker pro 100 g ist viel, 5 g oder weniger wenig. Bei Eiern geht die erste Ziffer von 0, Bio, bis 3, Käfig. Alle E-Nummern sind getestet und zugelassen. Rückstände werden jedes Jahr kontrolliert, aber wasch Obst und Gemüse trotzdem.",
+            "Wiley ist am 30. Juni 1930 gestorben, genau 24 Jahre später. Jede Packung legt die Fakten auf den Tisch, und du liest sie."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "In relaxed speech and writing, a noun and a colon can replace „Sein Grundsatz war, dass …“: after the colon comes the idea itself, as a normal main clause.",
+              "example" : "Sein Grundsatz: Jeder Zusatz gehört aufs Etikett.",
+              "title" : "A colon instead of a full sentence"
+            },
+            {
+              "body" : "„Also“ (so) counts as the first part of its clause, so the verb follows it at once and the subject comes after: also hat die Hälfte der Männer, not also die Hälfte hat.",
+              "example" : "Fabriken haben damals ungetestete Konservierungsstoffe benutzt, und Etiketten konnten alles behaupten, also hat die Hälfte der Männer einen davon geschluckt, zuerst Borax, während Wiley sie beobachtet hat.",
+              "title" : "Also: the verb comes straight after"
+            },
+            {
+              "body" : "Many German verbs need „sich“ when the subject acts on itself: er tarnt sich als Glukose = it disguises itself as glucose. English often drops the „itself“ (it hides as…).",
+              "example" : "Über 22,5 g Zucker pro 100 g ist viel, 5 g oder weniger wenig, und er tarnt sich als Glukose oder Maissirup.",
+              "title" : "Sich tarnen: reflexive verbs"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "1902 durften zwölf junge Männer in Washington gratis am hygienischen Tisch vom Chemiker Harvey Wiley essen.",
+            "Fabriken haben damals ungetestete Konservierungsstoffe benutzt, und Etiketten konnten alles behaupten, also hat die Hälfte der Männer einen davon geschluckt, zuerst Borax, während Wiley sie beobachtet hat. Sein Grundsatz: Jeder Zusatz gehört aufs Etikett.",
+            "Am 30. Juni 1906 hat Roosevelt ein Gesetz gegen irreführende Lebensmitteletiketten unterschrieben.",
+            "Dreh die Packung um. Bei EU-Honigmischungen steht der Anteil jedes Landes drauf. Über 22,5 g Zucker pro 100 g ist viel, 5 g oder weniger wenig, und er tarnt sich als Glukose oder Maissirup. Die WHO rät: unter 10 % der Kalorien, am besten 5 %. Eiercodes gehen von 0, Bio, bis 3, Käfig. E-Nummern? Alle auf Sicherheit geprüft. 2024 haben 98 von 100 Proben die EU-Rückstandsgrenzwerte eingehalten, aber wasch Obst und Gemüse trotzdem.",
+            "Wiley ist am 30. Juni 1930 gestorben, genau 24 Jahre später. Jede Packung legt die Fakten auf den Tisch, und du liest sie."
+          ]
+        }
+      ],
+      "summary" : "1902 haben zwölf junge Männer in Washington gratis am hygienischen Tisch von Harvey Wiley gegessen, und genau da beginnt die Geschichte vom Etikett, das du heute liest.",
+      "title" : "Der hygienische Tisch",
+      "translationGroup" : "the-hygienic-table"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "id" : "the-hygienic-table-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "«En aquel entonces» opens a short look at the past, so the verbs move to the imperfect: hay → había, puede → podía, pueden → podían.",
+              "example" : "En aquel entonces, había cosas nuevas en la comida de las fábricas.",
+              "title" : "Había and podía: one look back"
+            },
+            {
+              "body" : "Poder is followed directly by the infinitive, and no goes before poder: no puede mentir = it can't lie.",
+              "example" : "Ahora la etiqueta de la comida no puede mentir.",
+              "title" : "No puede + infinitive: what is not allowed"
+            },
+            {
+              "body" : "Spanish opens a question with ¿ and puts the question word first; cuánto agrees with its noun: ¿cuánto azúcar?, ¿cuánta sal?",
+              "example" : "¿Cuánto azúcar hay en 100 gramos?",
+              "title" : "Questions with cuánto and dónde"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En 1902, en Washington, doce hombres jóvenes comen en una mesa larga. La comida es gratis, pero tiene truco.",
+            "En aquel entonces, había cosas nuevas en la comida de las fábricas. Nadie las podía controlar, y las etiquetas podían decir cualquier cosa.",
+            "Por eso un químico, Harvey Wiley, analiza estas cosas. La mitad de los hombres las comen, y Wiley controla su salud.",
+            "Luego, en 1906, Estados Unidos tiene una ley nueva. Ahora la etiqueta de la comida no puede mentir.",
+            "Así que mira la etiqueta. ¿De dónde viene la comida? ¿Cuánto azúcar hay en 100 gramos? ¿Qué ingredientes lleva? Cada paquete pone los datos sobre la mesa, y tú los lees."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect tells habits and the background of a story: comían gratis = they used to eat for free. A single event takes the pretérito: aprobó, murió.",
+              "example" : "En aquella época, las fábricas añadían cosas nuevas a la comida, y nadie las analizaba.",
+              "title" : "Imperfect for what kept happening: comían, añadían"
+            },
+            {
+              "body" : "The pretérito indefinido tells a finished event at a set moment: aprobó una ley = it passed a law, murió = he died.",
+              "example" : "Wiley murió el 30 de junio de 1930, 24 años después.",
+              "title" : "Pretérito for single events: aprobó, murió"
+            },
+            {
+              "body" : "After antes de Spanish uses the infinitive when the subject stays the same: antes de comprar = before you buy.",
+              "example" : "Así que mira la etiqueta antes de comprar.",
+              "title" : "Antes de + infinitive"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En 1902, en Washington, doce hombres jóvenes comían gratis en la mesa higiénica del químico Harvey Wiley.",
+            "En aquella época, las fábricas añadían cosas nuevas a la comida, y nadie las analizaba. Así que la mitad de los hombres se las comía, primero el bórax, y Wiley controlaba su salud.",
+            "El 30 de junio de 1906, Estados Unidos aprobó una ley: la etiqueta de la comida ya no podía mentir.",
+            "Así que mira la etiqueta antes de comprar. ¿De dónde viene? ¿Cuánto azúcar hay en 100 gramos? En los huevos, el primer número va del 0, ecológico, al 3, de jaula. En casa, lava la fruta y la verdura bajo el grifo.",
+            "Wiley murió el 30 de junio de 1930, 24 años después. Cada paquete pone los datos sobre la mesa, y quien los lee eres tú."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Estar in the imperfect + gerund (-ando, -iendo) shows something going on over a period in the past, the background to the events.",
+              "example" : "Las fábricas estaban añadiendo conservantes sin analizar, y las etiquetas podían decir cualquier cosa.",
+              "title" : "Estaban + gerund: what was going on"
+            },
+            {
+              "body" : "Mientras joins two actions happening at the same time; both usually go in the imperfect: tomaba … mientras controlaba.",
+              "example" : "Así que la mitad de ellos tomaba uno, primero el bórax, mientras Wiley controlaba su salud.",
+              "title" : "Mientras: two things at the same time"
+            },
+            {
+              "body" : "Se + verb says what is done without saying who does it; the verb agrees with the thing: se controlan los restos = the residues are checked.",
+              "example" : "Cada año se controlan los restos de plaguicidas, pero lava igual frutas y verduras.",
+              "title" : "Se controlan: the passive with se"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En 1902, en Washington, doce jóvenes comían gratis en la mesa higiénica del químico Harvey Wiley.",
+            "Las fábricas estaban añadiendo conservantes sin analizar, y las etiquetas podían decir cualquier cosa. Así que la mitad de ellos tomaba uno, primero el bórax, mientras Wiley controlaba su salud.",
+            "El 30 de junio de 1906, Roosevelt firmó una ley contra las etiquetas falsas o engañosas.",
+            "Lee la etiqueta. Desde junio de 2026, las mezclas de miel de la UE indican cada país y su porcentaje. Más de 22,5 g de azúcar por 100 g es mucho; 5 g o menos, poco. El primer número de un huevo va del 0, ecológico, al 3, de jaula. Los aditivos de la lista están analizados y aprobados. Cada año se controlan los restos de plaguicidas, pero lava igual frutas y verduras.",
+            "Wiley murió el 30 de junio de 1930, justo 24 años después. Cada paquete pone los datos sobre la mesa, y quien los lee eres tú."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (añadían, podían) sets the scene, así que joins what people did because of it, and mientras adds an action going on at the same time.",
+              "example" : "Las fábricas añadían conservantes sin analizar y las etiquetas podían decir cualquier cosa, así que la mitad tomaba uno, primero el bórax, mientras Wiley vigilaba su salud.",
+              "title" : "Imperfect for background, así que for the result"
+            },
+            {
+              "body" : "A colon can replace «his idea was that…», and si + present, present states a rule that always holds: si se añade, va = if it's added, it goes (on the label). Se añade is impersonal: whoever adds it.",
+              "example" : "Su idea: si se añade, va en la etiqueta.",
+              "title" : "Si + present after a colon: a rule that always holds"
+            },
+            {
+              "body" : "Haber + participle links a past test to now: the tests are done, and the result counts every time you read the label. Todos (all of them) points back to the additives in the question before.",
+              "example" : "Todos han pasado pruebas de seguridad.",
+              "title" : "Present perfect: han pasado"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En 1902, en Washington, doce jóvenes comían gratis en la mesa higiénica del químico Harvey Wiley.",
+            "Las fábricas añadían conservantes sin analizar y las etiquetas podían decir cualquier cosa, así que la mitad tomaba uno, primero el bórax, mientras Wiley vigilaba su salud. Su idea: si se añade, va en la etiqueta.",
+            "El 30 de junio de 1906, Roosevelt firmó una ley contra las etiquetas engañosas.",
+            "Dale la vuelta al paquete. La miel mezclada de la UE indica el porcentaje por país. Más de 22,5 g de azúcar por 100 g es mucho; hasta 5 g, poco, y la glucosa o el jarabe de maíz también cuentan. La OMS aconseja menos del 10 % de calorías, mejor un 5. Los huevos llevan un número: del 0, ecológico, al 3, de jaula. ¿Los aditivos? Todos han pasado pruebas de seguridad. En 2024, 98 de cada 100 muestras cumplieron los límites europeos de plaguicidas, pero lava igual frutas y verduras.",
+            "Wiley murió el 30 de junio de 1930, justo 24 años después. Cada paquete pone los datos sobre la mesa, y quien los lee eres tú."
+          ]
+        }
+      ],
+      "summary" : "En 1902, doce hombres jóvenes comían gratis en la mesa higiénica de Harvey Wiley en Washington, y allí empezó la etiqueta que lees hoy.",
+      "title" : "La mesa higiénica",
+      "translationGroup" : "the-hygienic-table"
+    },
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "id" : "the-hygienic-table-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "\"A quei tempi\" (back then) opens a short look at the past, so the verb moves to the imperfect: c'è → c'erano, può → poteva, possono → potevano.",
+              "example" : "A quei tempi nel cibo delle fabbriche c'erano cose nuove.",
+              "title" : "C'erano and poteva: one look back"
+            },
+            {
+              "body" : "Potere (can) is followed by the plain infinitive, with non before it: non può mentire = it can't lie.",
+              "example" : "Adesso l'etichetta del cibo non può mentire.",
+              "title" : "Non può + infinitive: what is not allowed"
+            },
+            {
+              "body" : "The question word comes first and the subject often goes after the verb: Da dove viene il cibo? Quanto (how much) agrees with its noun: quanto zucchero, quanta acqua.",
+              "example" : "Quanto zucchero c'è in 100 grammi?",
+              "title" : "Questions with dove, quanto and che cosa"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nel 1902, a Washington, dodici ragazzi mangiano a una tavola lunga. I pasti sono gratis, ma c'è una condizione.",
+            "A quei tempi nel cibo delle fabbriche c'erano cose nuove. Nessuno le poteva controllare, e le etichette potevano dire di tutto.",
+            "Così un chimico, Harvey Wiley, fa dei test su queste cose. Metà dei ragazzi le mangia, e Wiley controlla come stanno.",
+            "Poi, nel 1906, in America c'è una nuova legge. Adesso l'etichetta del cibo non può mentire.",
+            "Allora guarda l'etichetta. Da dove viene il cibo? Quanto zucchero c'è in 100 grammi? Che cosa c'è nella lista degli ingredienti? Ogni confezione è una piccola tavola di informazioni, e tu la leggi."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement and change like arrivare take essere, and the participle agrees with the subject: la legge è arrivata, Wiley è morto.",
+              "example" : "Il 30 giugno 1906 è arrivata una nuova legge americana.",
+              "title" : "Passato prossimo with essere: è arrivata"
+            },
+            {
+              "body" : "The men ate the new things again and again, so Italian uses the imperfect (mangiava, controllava), not the passato prossimo, which tells single events.",
+              "example" : "Così metà dei ragazzi le mangiava, a cominciare dal borace, e Wiley controllava come stavano.",
+              "title" : "The imperfect for what kept happening"
+            },
+            {
+              "body" : "When both actions have the same subject, Italian says prima di + infinitive: prima di comprare = before you buy.",
+              "example" : "Allora, prima di comprare, guarda bene l'etichetta.",
+              "title" : "Prima di + infinitive: before doing something"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel 1902, a Washington, dodici ragazzi avevano i pasti gratis. Mangiavano alla tavola igienica del chimico Harvey Wiley.",
+            "A quei tempi le fabbriche aggiungevano cose nuove al cibo, e nessuno le testava. Così metà dei ragazzi le mangiava, a cominciare dal borace, e Wiley controllava come stavano.",
+            "Il 30 giugno 1906 è arrivata una nuova legge americana. Da quel giorno un'etichetta sul cibo non poteva più mentire.",
+            "Allora, prima di comprare, guarda bene l'etichetta. Da dove viene il cibo, e quanto zucchero c'è in 100 grammi? Sulle uova il primo numero va da 0, biologico, a 3, in gabbia. A casa lava frutta e verdura sotto l'acqua corrente.",
+            "Wiley è morto il 30 giugno 1930, 24 anni dopo. Ogni confezione è una piccola tavola di informazioni, e chi la legge sei proprio tu."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The imperfect (aggiungevano, potevano) paints what was going on at the time; the passato prossimo (ha firmato) tells the event that happened against it.",
+              "example" : "Le fabbriche aggiungevano conservanti mai testati, e le etichette potevano dire di tutto.",
+              "title" : "The imperfect for the background"
+            },
+            {
+              "body" : "Ne stands for \"of them\" (one of the preservatives), and mentre (while) joins two actions going on at the same time, both in the imperfect.",
+              "example" : "Così metà dei ragazzi ne prendeva uno, prima il borace, mentre Wiley controllava come stavano.",
+              "title" : "Ne prendeva uno and mentre"
+            },
+            {
+              "body" : "Venire + past participle makes a passive for something that happens regularly; the participle agrees with the subject: i limiti vengono controllati.",
+              "example" : "I limiti per i residui vengono controllati ogni anno, ma lava comunque frutta e verdura.",
+              "title" : "Passive with venire: vengono controllati"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel 1902, a Washington, dodici ragazzi hanno mangiato gratis alla tavola igienica del chimico Harvey Wiley.",
+            "Le fabbriche aggiungevano conservanti mai testati, e le etichette potevano dire di tutto. Così metà dei ragazzi ne prendeva uno, prima il borace, mentre Wiley controllava come stavano.",
+            "Il 30 giugno 1906 Roosevelt ha firmato una legge contro le etichette false o ingannevoli sul cibo.",
+            "Quindi leggi l'etichetta. Da giugno 2026, nell'UE, sul miele misto c'è scritto ogni paese con la sua percentuale. Oltre 22,5 g di zucchero per 100 g è tanto, 5 g o meno è poco. Sulle uova la prima cifra va da 0, biologico, a 3, in gabbia. Gli additivi che trovi negli ingredienti sono testati e approvati. I limiti per i residui vengono controllati ogni anno, ma lava comunque frutta e verdura.",
+            "Wiley è morto il 30 giugno 1930, esattamente 24 anni dopo. Ogni confezione è una piccola tavola di informazioni, e chi la legge sei proprio tu."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Andare can mean \"belong, have to go\": quello che si aggiunge va in etichetta = whatever is added belongs on the label; si aggiunge is the impersonal si.",
+              "example" : "Per lui, quello che si aggiunge va in etichetta.",
+              "title" : "Va in etichetta: andare for where things belong"
+            },
+            {
+              "body" : "Spoken Italian often puts the object first for emphasis and repeats it as a pronoun joined to the imperative: frutta e verdura lavale = wash them, the fruit and vegetables.",
+              "example" : "Nel 2024, 98 campioni su 100 rispettavano i limiti UE sui residui, ma frutta e verdura lavale comunque.",
+              "title" : "Frutta e verdura lavale: object first"
+            },
+            {
+              "body" : "Nascondersi (to hide oneself) takes the reflexive pronoun: si nasconde = it hides; the subject, lo zucchero, is understood from the start of the sentence.",
+              "example" : "Oltre 22,5 g di zucchero per 100 g è tanto, 5 g o meno è poco, e si nasconde dietro nomi come glucosio o sciroppo di mais.",
+              "title" : "Si nasconde: a reflexive verb"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel 1902, a Washington, dodici ragazzi hanno mangiato gratis alla tavola igienica del chimico Harvey Wiley.",
+            "Le fabbriche aggiungevano conservanti mai testati e le etichette potevano dire di tutto, così metà dei ragazzi ne prendeva uno, prima il borace, mentre Wiley controllava come stavano. Per lui, quello che si aggiunge va in etichetta.",
+            "Il 30 giugno 1906 Roosevelt ha firmato una legge contro le etichette alimentari ingannevoli.",
+            "Gira la confezione. Nell'UE, sul miele misto c'è scritta la percentuale di ogni paese. Oltre 22,5 g di zucchero per 100 g è tanto, 5 g o meno è poco, e si nasconde dietro nomi come glucosio o sciroppo di mais. L'OMS consiglia meno del 10% delle calorie, meglio il 5%. Sulle uova le cifre vanno da 0, biologico, a 3, in gabbia. Gli additivi in elenco? Hanno superato tutti i test di sicurezza. Nel 2024, 98 campioni su 100 rispettavano i limiti UE sui residui, ma frutta e verdura lavale comunque.",
+            "Wiley è morto il 30 giugno 1930, esattamente 24 anni dopo. Ogni confezione è una piccola tavola di informazioni, e chi la legge sei tu."
+          ]
+        }
+      ],
+      "summary" : "Nel 1902, a Washington, dodici ragazzi mangiavano gratis alla tavola igienica di Harvey Wiley, e l'etichetta che leggi oggi è nata proprio lì.",
+      "title" : "La tavola igienica",
+      "translationGroup" : "the-hygienic-table"
     }
   ]
 }

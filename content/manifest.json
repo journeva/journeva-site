@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 44,
-  "generatedAt" : "2026-11-24",
+  "contentVersion" : 45,
+  "generatedAt" : "2026-11-25",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "health",
+      "dateAdded" : "2026-11-25",
+      "titles" : {
+        "english" : "The Hygienic Table",
+        "french" : "La table hygiénique",
+        "german" : "Der hygienische Tisch",
+        "italian" : "La tavola igienica",
+        "spanish" : "La mesa higiénica"
+      },
+      "translationGroup" : "the-hygienic-table"
+    },
     {
       "category" : "news",
       "dateAdded" : "2026-11-24",
@@ -52,20 +64,8 @@
         "spanish" : "Kioto: la capital de la paz"
       },
       "translationGroup" : "kyoto"
-    },
-    {
-      "category" : "recipes",
-      "dateAdded" : "2026-11-20",
-      "titles" : {
-        "english" : "The Charcoal Burners' Pasta",
-        "french" : "Les pâtes des charbonniers",
-        "german" : "Die Nudeln der Köhler",
-        "italian" : "La pasta dei carbonari",
-        "spanish" : "La pasta de los carboneros"
-      },
-      "translationGroup" : "carbonara"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "da58f71ea1d59a82e75d9eff039ada0a689e05718983af3c2b002428145b176e"
+  "sha256" : "91236e60616ce027c3daadfb616fc2645e4141e82ccd9e399eb4955436486294"
 }
