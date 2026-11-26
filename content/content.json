@@ -1,6 +1,6 @@
 {
-  "contentVersion" : 45,
-  "generatedAt" : "2026-11-25",
+  "contentVersion" : 46,
+  "generatedAt" : "2026-11-26",
   "glossary" : {
     "english" : [
       {
@@ -28102,7 +28102,8 @@
       },
       {
         "forms" : [
-          "magazine"
+          "magazine",
+          "magazine's"
         ],
         "note" : "Here a magazine of test results, sold in shops or by post.",
         "pos" : "noun",
@@ -33517,6 +33518,223 @@
         "note" : "A container with flat sides; here the box a food comes in, with its label.",
         "pos" : "noun",
         "translation" : "a container with flat sides"
+      },
+      {
+        "forms" : [
+          "1770"
+        ],
+        "note" : "Said \"seventeen seventy\": the year Kant became a professor in Königsberg.",
+        "pos" : "number",
+        "translation" : "1770"
+      },
+      {
+        "forms" : [
+          "1784"
+        ],
+        "note" : "Said \"seventeen eighty-four\": English says years in two halves.",
+        "pos" : "number",
+        "translation" : "1784"
+      },
+      {
+        "forms" : [
+          "60"
+        ],
+        "note" : "Said \"sixty\"; \"he's 60\" = he is 60 years old (English uses \"be\" for age).",
+        "pos" : "number",
+        "translation" : "60"
+      },
+      {
+        "forms" : [
+          "60-year-old"
+        ],
+        "note" : "Before a noun, the age takes hyphens and no -s: a 60-year-old professor, but he is 60 years old.",
+        "pos" : "adjective",
+        "translation" : "60-year-old"
+      },
+      {
+        "forms" : [
+          "sapere"
+        ],
+        "note" : "Latin, said \"SAH-peh-reh\". \"Sapere aude!\" = dare to be wise, dare to think for yourself.",
+        "pos" : "other",
+        "translation" : "sapere (Latin): to be wise, to know"
+      },
+      {
+        "forms" : [
+          "aude"
+        ],
+        "note" : "Latin, said \"OW-deh\". \"Sapere aude!\" = dare to be wise; the words come from the Roman poet Horace.",
+        "pos" : "other",
+        "translation" : "aude (Latin): dare!"
+      },
+      {
+        "forms" : [
+          "enlightenment"
+        ],
+        "note" : "Clear thinking for yourself, free from old ideas; with a capital, the Enlightenment is the age of reason in 18th-century Europe.",
+        "pos" : "noun",
+        "translation" : "enlightenment"
+      },
+      {
+        "forms" : [
+          "immanuel"
+        ],
+        "note" : "First name of Immanuel Kant.",
+        "pos" : "noun",
+        "translation" : "Immanuel"
+      },
+      {
+        "forms" : [
+          "kant",
+          "kant's"
+        ],
+        "note" : "Immanuel Kant (1724–1804), German philosopher and professor in Königsberg; Kant's = of Kant.",
+        "pos" : "noun",
+        "translation" : "Kant"
+      },
+      {
+        "forms" : [
+          "königsberg"
+        ],
+        "note" : "A city on the Baltic Sea, then in Prussia; today Kaliningrad, Russia. English often writes it Konigsberg.",
+        "pos" : "noun",
+        "translation" : "Königsberg"
+      },
+      {
+        "forms" : [
+          "horace"
+        ],
+        "note" : "Roman poet (65–8 BC), in Latin Horatius; \"sapere aude\" is from one of his letters in verse.",
+        "pos" : "noun",
+        "translation" : "Horace"
+      },
+      {
+        "forms" : [
+          "moses"
+        ],
+        "note" : "First name of Moses Mendelssohn.",
+        "pos" : "noun",
+        "translation" : "Moses"
+      },
+      {
+        "forms" : [
+          "mendelssohn"
+        ],
+        "note" : "Moses Mendelssohn (1729–1786), German-Jewish philosopher in Berlin; he answered the same question in 1784.",
+        "pos" : "noun",
+        "translation" : "Mendelssohn"
+      },
+      {
+        "forms" : [
+          "borrowing"
+        ],
+        "note" : "To borrow = to take and use something that belongs to someone else; borrowing words from a poet = quoting him.",
+        "pos" : "verb",
+        "translation" : "borrowing, taking"
+      },
+      {
+        "forms" : [
+          "brains"
+        ],
+        "note" : "In speech, \"brains\" = intelligence: it's not brains we lack.",
+        "pos" : "noun",
+        "translation" : "brains, intelligence"
+      },
+      {
+        "forms" : [
+          "cowardice"
+        ],
+        "note" : "Not being brave; a coward is a person without courage.",
+        "pos" : "noun",
+        "translation" : "cowardice"
+      },
+      {
+        "forms" : [
+          "dare"
+        ],
+        "note" : "Dare to = be brave enough to: dare to check.",
+        "pos" : "verb",
+        "translation" : "dare, be brave enough"
+      },
+      {
+        "forms" : [
+          "fault"
+        ],
+        "note" : "\"It's your own fault\" = you caused it yourself.",
+        "pos" : "noun",
+        "translation" : "fault"
+      },
+      {
+        "forms" : [
+          "immaturity"
+        ],
+        "note" : "Not being grown up; Kant means letting others think for you like a child.",
+        "pos" : "noun",
+        "translation" : "immaturity"
+      },
+      {
+        "forms" : [
+          "lack"
+        ],
+        "note" : "To lack something = not to have enough of it: it's not brains we lack.",
+        "pos" : "verb",
+        "translation" : "lack, don't have"
+      },
+      {
+        "forms" : [
+          "laziness"
+        ],
+        "note" : "Being lazy, not wanting to make an effort.",
+        "pos" : "noun",
+        "translation" : "laziness"
+      },
+      {
+        "forms" : [
+          "learner"
+        ],
+        "note" : "A person who is learning something, for example a language.",
+        "pos" : "noun",
+        "translation" : "learner"
+      },
+      {
+        "forms" : [
+          "missing"
+        ],
+        "note" : "Not there, absent: what's missing = what you don't have.",
+        "pos" : "adjective",
+        "translation" : "missing"
+      },
+      {
+        "forms" : [
+          "peeking"
+        ],
+        "note" : "To peek = to take a quick secret look: stop peeking at the answer.",
+        "pos" : "verb",
+        "translation" : "peeking"
+      },
+      {
+        "forms" : [
+          "simple-sounding"
+        ],
+        "note" : "That sounds simple, but maybe isn't: a simple-sounding question.",
+        "pos" : "adjective",
+        "translation" : "simple-sounding"
+      },
+      {
+        "forms" : [
+          "understanding"
+        ],
+        "note" : "Here the power to think and judge for yourself: use your own understanding = use your own mind.",
+        "pos" : "noun",
+        "translation" : "understanding, mind"
+      },
+      {
+        "forms" : [
+          "unguided"
+        ],
+        "note" : "Without someone to guide or lead you: to use your brains unguided.",
+        "pos" : "adjective",
+        "translation" : "unguided, without help"
       }
     ],
     "french" : [
@@ -78843,6 +79061,354 @@
         "note" : "Present of the reflexive se déguiser: « le sucre se déguise en glucose » = sugar hides under the name glucose; en = as.",
         "pos" : "verb",
         "translation" : "disguises itself, hides (as)"
+      },
+      {
+        "forms" : [
+          "1770"
+        ],
+        "note" : "Read « mille sept cent soixante-dix »; depuis 1770 = since 1770.",
+        "pos" : "number",
+        "translation" : "1770"
+      },
+      {
+        "forms" : [
+          "1783"
+        ],
+        "note" : "Read « mille sept cent quatre-vingt-trois »; en 1783 = in 1783.",
+        "pos" : "number",
+        "translation" : "1783"
+      },
+      {
+        "forms" : [
+          "1784"
+        ],
+        "note" : "Read « mille sept cent quatre-vingt-quatre »; en septembre 1784 = in September 1784.",
+        "pos" : "number",
+        "translation" : "1784"
+      },
+      {
+        "forms" : [
+          "60"
+        ],
+        "note" : "Read « soixante »; for age French uses avoir: il a 60 ans = he is 60.",
+        "pos" : "number",
+        "translation" : "60"
+      },
+      {
+        "forms" : [
+          "aie"
+        ],
+        "note" : "Imperative of avoir for tu: aie le courage de… = be brave enough to…; aie confiance = trust.",
+        "pos" : "verb",
+        "translation" : "have! (avoir, said to tu)"
+      },
+      {
+        "forms" : [
+          "sois"
+        ],
+        "note" : "Imperative of être for tu: sois courageux = be brave, sois calme = stay calm.",
+        "pos" : "verb",
+        "translation" : "be! (être, said to tu)"
+      },
+      {
+        "forms" : [
+          "apprenant"
+        ],
+        "note" : "Present participle of apprendre: en apprenant = while (you are) learning.",
+        "pos" : "verb",
+        "translation" : "while learning"
+      },
+      {
+        "forms" : [
+          "arrêtes"
+        ],
+        "note" : "Tu arrêtes = you stop; arrêter de + infinitive: tu arrêtes de lire = you stop reading.",
+        "pos" : "verb",
+        "translation" : "to stop"
+      },
+      {
+        "forms" : [
+          "essaies"
+        ],
+        "note" : "Tu essaies = you try, from essayer.",
+        "pos" : "verb",
+        "translation" : "tries; try! (to tu)"
+      },
+      {
+        "forms" : [
+          "aude"
+        ],
+        "note" : "Latin, not French: sapere aude = dare to be wise, two words Kant borrowed from the Roman poet Horace.",
+        "pos" : "other",
+        "translation" : "Latin: dare!"
+      },
+      {
+        "forms" : [
+          "sapere"
+        ],
+        "note" : "Latin, not French: sapere aude = dare to be wise.",
+        "pos" : "other",
+        "translation" : "Latin: to be wise"
+      },
+      {
+        "forms" : [
+          "confortable"
+        ],
+        "note" : "Same in the masculine and feminine: c'est confortable = it's comfortable, it's easy.",
+        "pos" : "adjective",
+        "translation" : "comfortable"
+      },
+      {
+        "forms" : [
+          "corrigé"
+        ],
+        "gender" : "masculine",
+        "note" : "Le corrigé = the page with the right answers to an exercise; lorgner le corrigé = to peek at the answers.",
+        "pos" : "noun",
+        "translation" : "answer key, worked answers"
+      },
+      {
+        "forms" : [
+          "coupables"
+        ],
+        "note" : "Plural of coupable: dont nous sommes coupables = that is our own fault.",
+        "pos" : "adjective",
+        "translation" : "guilty; at fault"
+      },
+      {
+        "forms" : [
+          "courageux"
+        ],
+        "note" : "Masculine form (the same in the plural); feminine courageuse: sois courageux = be brave.",
+        "pos" : "adjective",
+        "translation" : "courageous, brave"
+      },
+      {
+        "forms" : [
+          "cran"
+        ],
+        "gender" : "masculine",
+        "note" : "Informal: avoir du cran = to have nerve; le cran de… = the nerve to…",
+        "pos" : "noun",
+        "translation" : "nerve, guts"
+      },
+      {
+        "forms" : [
+          "d'horace"
+        ],
+        "note" : "Horace, the Roman poet (65–8 BC); deux mots d'Horace = two words by Horace.",
+        "pos" : "noun",
+        "translation" : "of Horace"
+      },
+      {
+        "forms" : [
+          "d'oser",
+          "oser"
+        ],
+        "note" : "Oser + infinitive = to dare to do something; il dit d'oser vérifier = he says to dare to check.",
+        "pos" : "verb",
+        "translation" : "to dare"
+      },
+      {
+        "forms" : [
+          "enseigne"
+        ],
+        "note" : "Present of enseigner (to teach): il enseigne à l'université = he teaches at the university.",
+        "pos" : "verb",
+        "translation" : "teaches"
+      },
+      {
+        "forms" : [
+          "entendement"
+        ],
+        "gender" : "masculine",
+        "note" : "The power to think and judge; a formal word, used for Kant's « Verstand ».",
+        "pos" : "noun",
+        "translation" : "understanding, reason"
+      },
+      {
+        "forms" : [
+          "faussement"
+        ],
+        "note" : "Faussement simple = it looks simple but isn't.",
+        "pos" : "adverb",
+        "translation" : "deceptively, falsely"
+      },
+      {
+        "forms" : [
+          "immanuel"
+        ],
+        "note" : "First name of the philosopher Immanuel Kant.",
+        "pos" : "noun",
+        "translation" : "Immanuel"
+      },
+      {
+        "forms" : [
+          "kant"
+        ],
+        "note" : "Immanuel Kant (1724–1804), German philosopher from Königsberg.",
+        "pos" : "noun",
+        "translation" : "Kant"
+      },
+      {
+        "forms" : [
+          "königsberg"
+        ],
+        "note" : "Historical name of a Prussian city near the Baltic Sea, where Kant lived and taught.",
+        "pos" : "noun",
+        "translation" : "Königsberg"
+      },
+      {
+        "forms" : [
+          "intelligence",
+          "l'intelligence"
+        ],
+        "gender" : "feminine",
+        "note" : "L'intelligence = being clever; ce n'est pas l'intelligence qui manque = it's not brains that are missing.",
+        "pos" : "noun",
+        "translation" : "intelligence, brains"
+      },
+      {
+        "forms" : [
+          "latins"
+        ],
+        "note" : "Masculine plural of latin: deux mots latins = two Latin words; no capital letter in French.",
+        "pos" : "adjective",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "lorgner"
+        ],
+        "note" : "Informal: to look at something you want, often secretly; lorgner le corrigé = to peek at the answers.",
+        "pos" : "verb",
+        "translation" : "to eye, peek at"
+      },
+      {
+        "forms" : [
+          "lâcheté"
+        ],
+        "gender" : "feminine",
+        "note" : "From lâche (cowardly): la paresse et la lâcheté = laziness and cowardice.",
+        "pos" : "noun",
+        "translation" : "cowardice"
+      },
+      {
+        "forms" : [
+          "mendelssohn"
+        ],
+        "note" : "Moses Mendelssohn (1729–1786), Jewish philosopher in Berlin.",
+        "pos" : "noun",
+        "translation" : "Mendelssohn"
+      },
+      {
+        "forms" : [
+          "moses"
+        ],
+        "note" : "First name of the philosopher Moses Mendelssohn (French also writes Moïse).",
+        "pos" : "noun",
+        "translation" : "Moses"
+      },
+      {
+        "forms" : [
+          "minorité"
+        ],
+        "gender" : "feminine",
+        "note" : "Usually a smaller group; in Kant, the state of not yet thinking for yourself, like a child who is not of age.",
+        "pos" : "noun",
+        "translation" : "minority; (Kant) immaturity"
+      },
+      {
+        "forms" : [
+          "paresse"
+        ],
+        "gender" : "feminine",
+        "note" : "Par paresse = out of laziness; the adjective is paresseux (lazy).",
+        "pos" : "noun",
+        "translation" : "laziness"
+      },
+      {
+        "forms" : [
+          "parue"
+        ],
+        "note" : "Past participle of paraître for a book or text: la réponse est parue = the answer came out; it agrees with a feminine subject.",
+        "pos" : "verb",
+        "translation" : "came out, was published"
+      },
+      {
+        "forms" : [
+          "passage"
+        ],
+        "gender" : "masculine",
+        "note" : "Le passage célèbre = the famous part of a text.",
+        "pos" : "noun",
+        "translation" : "passage, part (of a text)"
+      },
+      {
+        "forms" : [
+          "retenu"
+        ],
+        "note" : "Past participle of retenir: il aurait retenu la sienne = he would have held his own back.",
+        "pos" : "verb",
+        "translation" : "held back, kept back"
+      },
+      {
+        "forms" : [
+          "sortie"
+        ],
+        "note" : "Feminine of sorti, with être: la réponse est sortie = the answer came out.",
+        "pos" : "verb",
+        "translation" : "went out, exited; came out (was published)"
+      },
+      {
+        "forms" : [
+          "soutenait-il"
+        ],
+        "note" : "Soutenir = to support, and also to argue a point; after or inside a quote the subject comes after the verb: soutenait-il = he argued.",
+        "pos" : "verb",
+        "translation" : "he argued, he maintained"
+      },
+      {
+        "forms" : [
+          "vérifier"
+        ],
+        "note" : "Infinitive: oser vérifier = to dare to check.",
+        "pos" : "verb",
+        "translation" : "to check"
+      },
+      {
+        "forms" : [
+          "élève"
+        ],
+        "gender" : "masculine",
+        "note" : "Someone who is learning, in a school or a class (un or une élève); chaque élève = every learner.",
+        "pos" : "noun",
+        "translation" : "pupil, learner"
+      },
+      {
+        "forms" : [
+          "crois"
+        ],
+        "note" : "Croire (to believe) with tu; ne crois personne = trust nobody, believe nobody (ne … personne = nobody).",
+        "pos" : "verb",
+        "translation" : "believe, trust (tu form)"
+      },
+      {
+        "forms" : [
+          "enseignait"
+        ],
+        "note" : "Imparfait of enseigner (to teach), for a job that went on: il y enseignait = he taught there.",
+        "pos" : "verb",
+        "translation" : "taught, was teaching"
+      },
+      {
+        "forms" : [
+          "immaturité"
+        ],
+        "gender" : "feminine",
+        "note" : "Not being grown up in your thinking yet; in Kant, sortir d'une immaturité = to grow out of it, to start thinking for yourself.",
+        "pos" : "noun",
+        "translation" : "immaturity"
       }
     ],
     "german" : [
@@ -87079,6 +87645,7 @@
       },
       {
         "forms" : [
+          "probierst",
           "probiert"
         ],
         "note" : "Past participle of probieren.",
@@ -89342,7 +89909,8 @@
           "deine",
           "deinem",
           "deinen",
-          "deiner"
+          "deiner",
+          "deines"
         ],
         "note" : "Case-inflected forms of dein (the possessive for du).",
         "pos" : "other",
@@ -101785,6 +102353,7 @@
           "kannte",
           "kannten",
           "kennen",
+          "kennst",
           "kennt"
         ],
         "note" : "Kennen: preterite and present \"er/sie/es\" form.",
@@ -103621,7 +104190,8 @@
         "forms" : [
           "wort",
           "worten",
-          "wörter"
+          "wörter",
+          "wörtern"
         ],
         "gender" : "neuter",
         "note" : "\"Ein freundliches Wort\" = a kind word.",
@@ -110209,6 +110779,7 @@
       },
       {
         "forms" : [
+          "lateinische",
           "lateinischen"
         ],
         "note" : "Form of lateinisch, the adjective of Latein: „nach dem lateinischen Wort für Blatt“ = after the Latin word for leaf.",
@@ -126348,6 +126919,344 @@
         "note" : "Der Zusatz, plural die Zusätze: anything added to a food; „Zusatzstoff“ is the label word for additive.",
         "pos" : "noun",
         "translation" : "something added, additive"
+      },
+      {
+        "forms" : [
+          "1770"
+        ],
+        "note" : "Said „siebzehnhundertsiebzig“: German says years in hundreds.",
+        "pos" : "number",
+        "translation" : "1770"
+      },
+      {
+        "forms" : [
+          "1783"
+        ],
+        "note" : "Said „siebzehnhundertdreiundachtzig“: German says years in hundreds, and in the tens the units come first. A year alone needs no „im“: „1783 gab es …“.",
+        "pos" : "number",
+        "translation" : "1783"
+      },
+      {
+        "forms" : [
+          "1784"
+        ],
+        "note" : "Said „siebzehnhundertvierundachtzig“: German says years in hundreds, and in the tens the units come first.",
+        "pos" : "number",
+        "translation" : "1784"
+      },
+      {
+        "forms" : [
+          "60"
+        ],
+        "note" : "Said „sechzig“; for age German uses sein: „er ist 60“ = he's 60.",
+        "pos" : "number",
+        "translation" : "60"
+      },
+      {
+        "forms" : [
+          "60-jähriger"
+        ],
+        "note" : "60 + jährig (…years old), here with the masculine ending after „ein“: „ein 60-jähriger Professor“; said „sechzigjähriger“.",
+        "pos" : "adjective",
+        "translation" : "60-year-old"
+      },
+      {
+        "forms" : [
+          "abgeben"
+        ],
+        "note" : "Separable: ab + geben; „das Denken abgeben“ = to hand the thinking over to someone else; du gibst … ab.",
+        "pos" : "verb",
+        "translation" : "to hand over, to give up"
+      },
+      {
+        "forms" : [
+          "abnehmen"
+        ],
+        "note" : "Infinitive. „Sich das Denken abnehmen lassen“ = to let someone else do your thinking. (Also: to lose weight, to take off a hat; here it means taking a job off you.)",
+        "pos" : "verb",
+        "translation" : "to take off someone's hands"
+      },
+      {
+        "forms" : [
+          "anleitung"
+        ],
+        "gender" : "feminine",
+        "note" : "„Ohne Anleitung“ = without anyone guiding you; also the instructions that come with a kit.",
+        "pos" : "noun",
+        "translation" : "guidance, instructions"
+      },
+      {
+        "forms" : [
+          "aude"
+        ],
+        "note" : "Latin: the command form of audere, to dare; „sapere aude“ = dare to be wise, Kant's motto, borrowed from the Roman poet Horace.",
+        "pos" : "other",
+        "translation" : "dare!"
+      },
+      {
+        "forms" : [
+          "aufklärung"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Aufklärung: the age of reason in the 1700s; „Was ist Aufklärung?“ was the 1783 question Kant answered. In everyday German it also means clarification or explanation.",
+        "pos" : "noun",
+        "translation" : "the Enlightenment (18th-century movement); also clarification"
+      },
+      {
+        "forms" : [
+          "aufruf"
+        ],
+        "gender" : "masculine",
+        "note" : "Der Aufruf: a call to do something; „kein Aufruf, niemandem zu trauen“ = no call to trust nobody.",
+        "pos" : "noun",
+        "translation" : "call, appeal"
+      },
+      {
+        "forms" : [
+          "aussucht"
+        ],
+        "note" : "Aussuchen (to pick out, to choose), er/sie/es form, joined because the clause ends here: „wenn ein Arzt dein Essen aussucht“ = when a doctor chooses your food.",
+        "pos" : "verb",
+        "translation" : "picks, chooses"
+      },
+      {
+        "forms" : [
+          "berliner"
+        ],
+        "note" : "A city name + -er makes an adjective that never changes its ending and keeps the capital: „eine Berliner Zeitschrift“ = a Berlin magazine.",
+        "pos" : "adjective",
+        "translation" : "Berlin (adjective), from Berlin"
+      },
+      {
+        "forms" : [
+          "berühmtester"
+        ],
+        "note" : "Superlative of berühmt (famous) with the masculine ending after „sein“: „sein berühmtester Satz“ = his most famous line.",
+        "pos" : "adjective",
+        "translation" : "most famous"
+      },
+      {
+        "forms" : [
+          "faulheit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Faulheit, from faul (lazy); „aus Faulheit“ = out of laziness.",
+        "pos" : "noun",
+        "translation" : "laziness"
+      },
+      {
+        "forms" : [
+          "feigheit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Feigheit, from feige (cowardly); Kant names „Faulheit und Feigheit“ as the reasons people stay immature.",
+        "pos" : "noun",
+        "translation" : "cowardice"
+      },
+      {
+        "forms" : [
+          "geborgten"
+        ],
+        "note" : "Partizip II of borgen (to borrow) used as an adjective, with the dative plural ending: „mit zwei von Horaz geborgten Wörtern“ = with two words borrowed from Horace.",
+        "pos" : "adjective",
+        "translation" : "borrowed"
+      },
+      {
+        "forms" : [
+          "herauszuwachsen"
+        ],
+        "note" : "Herauswachsen (heraus + wachsen) with zu in the middle: „aus etwas herauszuwachsen“ = to grow out of something; du wächst … heraus.",
+        "pos" : "verb",
+        "translation" : "to grow out of"
+      },
+      {
+        "forms" : [
+          "horaz"
+        ],
+        "note" : "Horaz (65–8 BC), the Roman poet whose line „sapere aude“ Kant borrowed.",
+        "pos" : "other",
+        "translation" : "Horace"
+      },
+      {
+        "forms" : [
+          "immanuel"
+        ],
+        "note" : "First name of Immanuel Kant (1724–1804), the philosopher from Königsberg.",
+        "pos" : "other",
+        "translation" : "Immanuel"
+      },
+      {
+        "forms" : [
+          "kant"
+        ],
+        "note" : "Immanuel Kant (1724–1804), German philosopher, professor in Königsberg; his essay „Was ist Aufklärung?“ came out in December 1784.",
+        "pos" : "other",
+        "translation" : "Kant"
+      },
+      {
+        "forms" : [
+          "kants"
+        ],
+        "note" : "Genitive of Kant: a name takes -s with no apostrophe: „Kants Antwort“ = Kant's answer.",
+        "pos" : "other",
+        "translation" : "Kant's"
+      },
+      {
+        "forms" : [
+          "königsberg"
+        ],
+        "note" : "The historical name of the city on the Pregel near the Baltic Sea where Kant lived and taught all his life.",
+        "pos" : "other",
+        "translation" : "Königsberg"
+      },
+      {
+        "forms" : [
+          "köpfchen"
+        ],
+        "gender" : "neuter",
+        "note" : "Das Köpfchen, the small form of der Kopf (head); in speech „Köpfchen haben“ = to be clever.",
+        "pos" : "noun",
+        "translation" : "brains, smarts"
+      },
+      {
+        "forms" : [
+          "mendelssohn"
+        ],
+        "note" : "Moses Mendelssohn (1729–1786), Berlin philosopher, whose answer to „Was ist Aufklärung?“ came out in 1784 just before Kant's.",
+        "pos" : "other",
+        "translation" : "Mendelssohn"
+      },
+      {
+        "forms" : [
+          "mitdenkt"
+        ],
+        "note" : "Mitdenken (to think along), er/sie/es form, joined because the clause ends here: „wenn ein Buch für dich mitdenkt“ = when a book does your thinking for you.",
+        "pos" : "verb",
+        "translation" : "does the thinking (for someone)"
+      },
+      {
+        "forms" : [
+          "moses"
+        ],
+        "note" : "First name of Moses Mendelssohn, the Berlin philosopher.",
+        "pos" : "other",
+        "translation" : "Moses"
+      },
+      {
+        "forms" : [
+          "nachzuprüfen"
+        ],
+        "note" : "Nachprüfen with „zu“ in the middle, as separable verbs build „zu“ + infinitive: „Trau dich, nachzuprüfen“ = dare to check.",
+        "pos" : "verb",
+        "translation" : "to check (for yourself)"
+      },
+      {
+        "forms" : [
+          "ostsee"
+        ],
+        "note" : "Die Ostsee (literally the East Sea), the sea between Germany, Poland, the Baltic states and Scandinavia; „nahe der Ostsee“ = near the Baltic Sea.",
+        "pos" : "other",
+        "translation" : "Baltic Sea"
+      },
+      {
+        "forms" : [
+          "sapere"
+        ],
+        "note" : "Latin: to be wise, to have sense; „sapere aude“ = dare to be wise.",
+        "pos" : "other",
+        "translation" : "(Latin) to be wise"
+      },
+      {
+        "forms" : [
+          "schuld"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Schuld; „an etwas schuld sein“ = to be to blame for something: „an der wir selbst schuld sind“ = that is our own fault.",
+        "pos" : "noun",
+        "translation" : "fault, blame"
+      },
+      {
+        "forms" : [
+          "spicken"
+        ],
+        "note" : "Spicken: to look at someone else's answers or the solution instead of working it out; school talk.",
+        "pos" : "verb",
+        "translation" : "to peek, to crib"
+      },
+      {
+        "forms" : [
+          "trau"
+        ],
+        "note" : "The du imperative of sich trauen (to dare): „trau dich“ = go on, dare; „trau dich zu prüfen“ = dare to check.",
+        "pos" : "verb",
+        "translation" : "dare! (trau dich)"
+      },
+      {
+        "forms" : [
+          "trauen"
+        ],
+        "note" : "Trauen + dative = to trust someone: „niemandem trauen“ = to trust nobody; reflexive „sich trauen“ = to dare.",
+        "pos" : "verb",
+        "translation" : "to trust; (sich trauen) to dare"
+      },
+      {
+        "forms" : [
+          "unmündigkeit"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Unmündigkeit: un- (not) + mündig (of age, able to speak for yourself); Kant's word for letting others think for you.",
+        "pos" : "noun",
+        "translation" : "immaturity, not being of age"
+      },
+      {
+        "forms" : [
+          "unterrichtet"
+        ],
+        "note" : "Unterrichten, er/sie/es form; inseparable, so also the Partizip II: „er unterrichtet an der Universität“ = he teaches at the university.",
+        "pos" : "verb",
+        "translation" : "teaches"
+      },
+      {
+        "forms" : [
+          "unterschrift"
+        ],
+        "gender" : "feminine",
+        "note" : "Die Unterschrift, from unterschreiben (to sign); „am Tag der Unterschrift“ = on the day he signed.",
+        "pos" : "noun",
+        "translation" : "signature, signing"
+      },
+      {
+        "forms" : [
+          "verstandes"
+        ],
+        "gender" : "masculine",
+        "note" : "Genitive of der Verstand, the mind's power to understand; „sich seines Verstandes bedienen“ = to use one's own understanding. Not to be confused with verstand, the past of verstehen.",
+        "pos" : "noun",
+        "translation" : "understanding, reason (genitive)"
+      },
+      {
+        "forms" : [
+          "vertrau"
+        ],
+        "note" : "The du imperative of vertrauen + dative: „vertrau niemandem“ = trust nobody.",
+        "pos" : "verb",
+        "translation" : "trust!"
+      },
+      {
+        "forms" : [
+          "wir's"
+        ],
+        "note" : "Spoken short form of „wir es“: „Warum tun wir's nicht?“ = why don't we do it?",
+        "pos" : "pronoun",
+        "translation" : "we … it"
+      },
+      {
+        "forms" : [
+          "zurückgehalten"
+        ],
+        "note" : "Partizip II of zurückhalten, with -ge- after the separable particle zurück-: „hätte er seine zurückgehalten“ = he would have held his back.",
+        "pos" : "verb",
+        "translation" : "held back"
       }
     ],
     "italian" : [
@@ -129164,7 +130073,8 @@
       {
         "forms" : [
           "coraggiosa",
-          "coraggiose"
+          "coraggiose",
+          "coraggioso"
         ],
         "note" : "Feminine plural of coraggioso.",
         "pos" : "adjective",
@@ -129628,6 +130538,7 @@
       },
       {
         "forms" : [
+          "decidano",
           "decide",
           "decidere",
           "deciderlo",
@@ -130710,6 +131621,7 @@
       },
       {
         "forms" : [
+          "facciamo",
           "fanno",
           "fare",
           "farebbe",
@@ -131444,6 +132356,7 @@
       },
       {
         "forms" : [
+          "abbi",
           "ha",
           "hai",
           "hanno",
@@ -132695,6 +133608,7 @@
       },
       {
         "forms" : [
+          "mar",
           "mare",
           "mari"
         ],
@@ -133319,6 +134233,7 @@
       },
       {
         "forms" : [
+          "nostra",
           "nostre",
           "nostro"
         ],
@@ -133896,6 +134811,7 @@
           "pensavi",
           "pensi",
           "pensiamo",
+          "pensino",
           "penso"
         ],
         "note" : "From pensare.",
@@ -134864,7 +135780,8 @@
           "provarlo",
           "provata",
           "provato",
-          "provava"
+          "provava",
+          "provi"
         ],
         "note" : "Provare (verb: to try, to test); la prova (noun: proof, test).",
         "pos" : "other",
@@ -140102,7 +141019,8 @@
       },
       {
         "forms" : [
-          "fidarsi"
+          "fidarsi",
+          "fidarti"
         ],
         "note" : "Reflexive infinitive.",
         "pos" : "verb",
@@ -144931,6 +145849,7 @@
       },
       {
         "forms" : [
+          "pigra",
           "pigri",
           "pigro"
         ],
@@ -146060,6 +146979,7 @@
       {
         "forms" : [
           "prende",
+          "prendendo",
           "prendeva",
           "prendo",
           "prese",
@@ -152250,7 +153170,8 @@
       },
       {
         "forms" : [
-          "latina"
+          "latina",
+          "latine"
         ],
         "note" : "Feminine of latino: la parola latina = the Latin word; languages take no capital letter in Italian.",
         "pos" : "adjective",
@@ -158367,6 +159288,7 @@
       },
       {
         "forms" : [
+          "manca",
           "mancano"
         ],
         "note" : "From mancare: mancano dieci minuti all'esame = there are ten minutes to go before the exam.",
@@ -166731,6 +167653,152 @@
         "note" : "Imperfect of rispettare (to respect, to keep to): rispettavano i limiti = they were within the limits.",
         "pos" : "verb",
         "translation" : "met, kept to (they)"
+      },
+      {
+        "forms" : [
+          "1770"
+        ],
+        "note" : "Millesettecentosettanta; with da it means since: dal 1770 = since 1770.",
+        "pos" : "number",
+        "translation" : "1770"
+      },
+      {
+        "forms" : [
+          "1784"
+        ],
+        "note" : "Millesettecentoottantaquattro; with a month Italian says nel settembre 1784 = in September 1784.",
+        "pos" : "number",
+        "translation" : "1784"
+      },
+      {
+        "forms" : [
+          "60"
+        ],
+        "note" : "Sessanta; age takes avere: ha 60 anni = he is 60.",
+        "pos" : "number",
+        "translation" : "60"
+      },
+      {
+        "forms" : [
+          "aude"
+        ],
+        "note" : "Latin imperative from Horace: sapere aude = dare to be wise, Kant's motto for thinking for yourself.",
+        "pos" : "other",
+        "translation" : "dare (Latin)"
+      },
+      {
+        "forms" : [
+          "comodo"
+        ],
+        "note" : "È comodo = it's comfortable, it's convenient: è comodo se qualcuno decide per te.",
+        "pos" : "adjective",
+        "translation" : "comfortable, easy"
+      },
+      {
+        "forms" : [
+          "immanuel"
+        ],
+        "gender" : "masculine",
+        "note" : "Immanuel Kant (1724–1804), the German philosopher from Königsberg; the first name is never translated.",
+        "pos" : "noun",
+        "translation" : "Immanuel"
+      },
+      {
+        "forms" : [
+          "intelletto"
+        ],
+        "gender" : "masculine",
+        "note" : "The mind's power to think and judge; in Kant's motto, servirti del tuo intelletto = use your own understanding.",
+        "pos" : "noun",
+        "translation" : "intellect, understanding"
+      },
+      {
+        "forms" : [
+          "kant"
+        ],
+        "gender" : "masculine",
+        "note" : "Immanuel Kant (1724–1804), German philosopher who taught all his life at the university of Königsberg.",
+        "pos" : "noun",
+        "translation" : "Kant"
+      },
+      {
+        "forms" : [
+          "königsberg"
+        ],
+        "gender" : "feminine",
+        "note" : "Königsberg was Kant's city near the Baltic Sea; Italian keeps the German name with the umlaut: a Königsberg = in Königsberg.",
+        "pos" : "noun",
+        "translation" : "Königsberg"
+      },
+      {
+        "forms" : [
+          "l'illuminismo"
+        ],
+        "gender" : "masculine",
+        "note" : "L'Illuminismo is the 18th-century movement of reason in Europe; the article l' joins the word: che cos'è l'Illuminismo? = what is enlightenment?",
+        "pos" : "noun",
+        "translation" : "the Enlightenment"
+      },
+      {
+        "forms" : [
+          "mendelssohn"
+        ],
+        "gender" : "masculine",
+        "note" : "Moses Mendelssohn (1729–1786), Jewish philosopher in Berlin who also answered the question about enlightenment in 1784.",
+        "pos" : "noun",
+        "translation" : "Mendelssohn"
+      },
+      {
+        "forms" : [
+          "minorità"
+        ],
+        "gender" : "feminine",
+        "note" : "Kant's word (Unmündigkeit) for letting others think for you; it ends in stressed -à, so the plural is the same: la minorità, le minorità.",
+        "pos" : "noun",
+        "translation" : "immaturity, not being of age"
+      },
+      {
+        "forms" : [
+          "moses"
+        ],
+        "gender" : "masculine",
+        "note" : "Moses Mendelssohn's first name, kept in its German form; in Italian the prophet is Mosè.",
+        "pos" : "noun",
+        "translation" : "Moses"
+      },
+      {
+        "forms" : [
+          "orazio"
+        ],
+        "gender" : "masculine",
+        "note" : "Orazio (65–8 BC) is the Roman poet Horace; Kant took the words sapere aude from one of his letters in verse.",
+        "pos" : "noun",
+        "translation" : "Horace"
+      },
+      {
+        "forms" : [
+          "sbirciare"
+        ],
+        "note" : "Sbirciare = to look quickly, often where you shouldn't: smettere di sbirciare = to stop peeking.",
+        "pos" : "verb",
+        "translation" : "to peek, to sneak a look"
+      },
+      {
+        "forms" : [
+          "servirti"
+        ],
+        "note" : "Servirsi di qualcosa = to make use of it; servirti is the tu form after abbi il coraggio di: servirti del tuo intelletto.",
+        "pos" : "verb",
+        "translation" : "to make use of (servirti di)"
+      },
+      {
+        "forms" : [
+          "viltà"
+        ],
+        "gender" : "feminine",
+        "note" : "Viltà is cowardice; it ends in stressed -à, so the plural is the same: la pigrizia e la viltà = laziness and cowardice.",
+        "pos" : "noun",
+        "translation" : "cowardice"
       }
     ],
     "spanish" : [
@@ -170144,6 +171212,7 @@
           "piensa",
           "piensas",
           "piense",
+          "piensen",
           "pienses"
         ],
         "note" : "Pensar (to think), \"él/ella\" form.",
@@ -170822,6 +171891,7 @@
       {
         "forms" : [
           "servir",
+          "servirte",
           "servía",
           "servían",
           "sirven",
@@ -171113,6 +172183,7 @@
       },
       {
         "forms" : [
+          "ten",
           "tendrás",
           "tenemos",
           "tener",
@@ -172626,7 +173697,8 @@
       },
       {
         "forms" : [
-          "dejar"
+          "dejar",
+          "dejarle"
         ],
         "note" : "Infinitive of dejar.",
         "pos" : "verb",
@@ -174349,6 +175421,7 @@
       },
       {
         "forms" : [
+          "publicado",
           "publicó"
         ],
         "note" : "Past tense of publicar.",
@@ -175847,6 +176920,8 @@
       },
       {
         "forms" : [
+          "nuestra",
+          "nuestras",
           "nuestro",
           "nuestros"
         ],
@@ -177118,7 +178193,8 @@
         "forms" : [
           "confiaba",
           "confió",
-          "confía"
+          "confía",
+          "confíes"
         ],
         "note" : "Confiar; confiaba is imperfect tense.",
         "pos" : "verb",
@@ -177465,6 +178541,8 @@
       },
       {
         "forms" : [
+          "decida",
+          "decidan",
           "decide",
           "deciden",
           "decidir",
@@ -180880,6 +181958,7 @@
         "forms" : [
           "toma",
           "tomaban",
+          "tomadas",
           "tomar",
           "tomarse",
           "tomes"
@@ -181875,6 +182954,7 @@
       {
         "forms" : [
           "comprobando",
+          "comprobar",
           "comprobarlo",
           "comprueba"
         ],
@@ -182477,6 +183557,7 @@
       {
         "forms" : [
           "entenderlo",
+          "entienda",
           "entiende"
         ],
         "note" : "From \"entender.\"",
@@ -187493,7 +188574,8 @@
       },
       {
         "forms" : [
-          "intenta"
+          "intenta",
+          "intentas"
         ],
         "note" : "Present of intentar.",
         "pos" : "verb",
@@ -187972,6 +189054,7 @@
       },
       {
         "forms" : [
+          "perezosa",
           "perezoso"
         ],
         "note" : "Lazy.",
@@ -191993,6 +193076,7 @@
       },
       {
         "forms" : [
+          "prestadas",
           "prestado"
         ],
         "note" : "Past participle of prestar (to lend); \"pidió prestado\" = he borrowed, literally asked for as a loan.",
@@ -199248,6 +200332,7 @@
       },
       {
         "forms" : [
+          "atrevas",
           "atreverse"
         ],
         "note" : "Reflexive: atreverse a + infinitive = to dare to, to find the nerve to.",
@@ -208307,6 +209392,231 @@
         "note" : "Harvey Wiley (1844–1930), the chemist who ran the hygienic table in Washington.",
         "pos" : "noun",
         "translation" : "Wiley (surname)"
+      },
+      {
+        "forms" : [
+          "1770"
+        ],
+        "note" : "Read «mil setecientos setenta»: «era profesor allí desde 1770» = he had been a professor there since 1770.",
+        "pos" : "number",
+        "translation" : "1770"
+      },
+      {
+        "forms" : [
+          "1784"
+        ],
+        "note" : "Read «mil setecientos ochenta y cuatro»: Spanish reads years as a full number: «en septiembre de 1784».",
+        "pos" : "number",
+        "translation" : "1784"
+      },
+      {
+        "forms" : [
+          "60"
+        ],
+        "note" : "Read «sesenta»: Spanish gives age with tener: «tiene 60 años» = he's 60.",
+        "pos" : "number",
+        "translation" : "60"
+      },
+      {
+        "forms" : [
+          "immanuel"
+        ],
+        "note" : "Immanuel Kant (1724–1804), the German philosopher who lived and taught in Königsberg.",
+        "pos" : "noun",
+        "translation" : "Immanuel (first name)"
+      },
+      {
+        "forms" : [
+          "kant"
+        ],
+        "note" : "Immanuel Kant (1724–1804), the philosopher who wrote the 1784 answer «¿qué es la Ilustración?».",
+        "pos" : "noun",
+        "translation" : "Kant (surname)"
+      },
+      {
+        "forms" : [
+          "königsberg"
+        ],
+        "note" : "Kant's city near the Baltic Sea; Spanish keeps the German name with its umlaut: «en Königsberg».",
+        "pos" : "noun",
+        "translation" : "Königsberg"
+      },
+      {
+        "forms" : [
+          "ilustración"
+        ],
+        "gender" : "feminine",
+        "note" : "With a capital, «la Ilustración» is the 18th-century movement of reason (the Enlightenment); in lower case una ilustración is a picture in a book.",
+        "pos" : "noun",
+        "translation" : "the Enlightenment; illustration"
+      },
+      {
+        "forms" : [
+          "latín"
+        ],
+        "gender" : "masculine",
+        "note" : "The language of ancient Rome; Spanish uses en for a language: «dos palabras en latín» = two Latin words.",
+        "pos" : "noun",
+        "translation" : "Latin"
+      },
+      {
+        "forms" : [
+          "sapere"
+        ],
+        "note" : "Latin, not Spanish: in «sapere aude», sapere means to be wise or to know; Spanish saber comes from it.",
+        "pos" : "other",
+        "translation" : "Latin: to be wise"
+      },
+      {
+        "forms" : [
+          "aude"
+        ],
+        "note" : "Latin imperative to one person, like Spanish atrévete: «sapere aude» = dare to be wise, Kant's motto, borrowed from Horace.",
+        "pos" : "other",
+        "translation" : "Latin: dare!"
+      },
+      {
+        "forms" : [
+          "entendimiento"
+        ],
+        "gender" : "masculine",
+        "note" : "From entender: the power to understand and judge, Kant's Verstand: «tu propio entendimiento» = your own understanding.",
+        "pos" : "noun",
+        "translation" : "understanding, reason"
+      },
+      {
+        "forms" : [
+          "minoría"
+        ],
+        "gender" : "feminine",
+        "note" : "«La minoría de edad» is the legal state of a child; Kant uses it for adults who let others think for them (immaturity).",
+        "pos" : "noun",
+        "translation" : "minority; (minoría de edad) being under age"
+      },
+      {
+        "forms" : [
+          "tanta"
+        ],
+        "note" : "Feminine of tanto before a noun: «tanta gente» = so many people (gente is singular in Spanish).",
+        "pos" : "adjective",
+        "translation" : "so much, so many"
+      },
+      {
+        "forms" : [
+          "cómodo"
+        ],
+        "note" : "«Es cómodo que…» = it's comfortable when…, followed by the subjunctive.",
+        "pos" : "adjective",
+        "translation" : "comfortable, convenient"
+      },
+      {
+        "forms" : [
+          "pereza"
+        ],
+        "gender" : "feminine",
+        "note" : "«Por pereza» = out of laziness; «me da pereza» = I can't be bothered.",
+        "pos" : "noun",
+        "translation" : "laziness"
+      },
+      {
+        "forms" : [
+          "moses"
+        ],
+        "note" : "Moses Mendelssohn (1729–1786), the Berlin philosopher who answered the same question before Kant.",
+        "pos" : "noun",
+        "translation" : "Moses (first name)"
+      },
+      {
+        "forms" : [
+          "mendelssohn"
+        ],
+        "note" : "Moses Mendelssohn (1729–1786), Berlin philosopher, grandfather of the composer Felix Mendelssohn.",
+        "pos" : "noun",
+        "translation" : "Mendelssohn (surname)"
+      },
+      {
+        "forms" : [
+          "defendía"
+        ],
+        "note" : "Imperfect of defender: to defend, and also to argue for an idea: «la Ilustración, defendía, es…» = Enlightenment, he argued, is…",
+        "pos" : "verb",
+        "translation" : "argued, maintained"
+      },
+      {
+        "forms" : [
+          "culpables"
+        ],
+        "note" : "Plural of culpable: «somos culpables» = we are to blame; compare «tener la culpa».",
+        "pos" : "adjective",
+        "translation" : "guilty, to blame"
+      },
+      {
+        "forms" : [
+          "agallas"
+        ],
+        "gender" : "feminine",
+        "note" : "Literally a fish's gills; in everyday Spanish «tener agallas» = to have the guts, the nerve.",
+        "pos" : "noun",
+        "translation" : "guts, nerve"
+      },
+      {
+        "forms" : [
+          "horacio"
+        ],
+        "note" : "The Roman poet (65–8 BC), whose line «sapere aude» Kant borrowed; Spanish calls him Horacio.",
+        "pos" : "noun",
+        "translation" : "Horace"
+      },
+      {
+        "forms" : [
+          "cobardía"
+        ],
+        "gender" : "feminine",
+        "note" : "From cobarde (coward): «por pereza y cobardía» = out of laziness and cowardice.",
+        "pos" : "noun",
+        "translation" : "cowardice"
+      },
+      {
+        "forms" : [
+          "invitación"
+        ],
+        "gender" : "feminine",
+        "note" : "«Una invitación a comprobar» = a call, an encouragement to check; no es ninguna invitación = it's no call at all.",
+        "pos" : "noun",
+        "translation" : "invitation; call (to do something)"
+      },
+      {
+        "forms" : [
+          "fiarse"
+        ],
+        "note" : "Reflexive, with de: «fiarse de alguien» = to trust someone; a little more everyday than confiar en.",
+        "pos" : "verb",
+        "translation" : "to trust"
+      },
+      {
+        "forms" : [
+          "desconfiar"
+        ],
+        "note" : "Infinitive; the opposite of confiar: «desconfiar de todo el mundo» = to trust nobody.",
+        "pos" : "verb",
+        "translation" : "to distrust"
+      },
+      {
+        "forms" : [
+          "inmadurez"
+        ],
+        "gender" : "feminine",
+        "note" : "From inmaduro (not grown up): «dejar atrás una inmadurez» = to grow out of an immaturity; Kant's word for adults who let others think for them.",
+        "pos" : "noun",
+        "translation" : "immaturity"
+      },
+      {
+        "forms" : [
+          "latinas"
+        ],
+        "note" : "Feminine plural of latino, agreeing with palabras: «dos palabras latinas» = two Latin words, the same as «dos palabras en latín».",
+        "pos" : "adjective",
+        "translation" : "Latin"
       }
     ]
   },
@@ -208914,6 +210224,107 @@
           "es" : "¿Cuánto cuesta empadronarse?",
           "fr" : "Combien coûte l'inscription ?",
           "it" : "Quanto costa l'iscrizione?"
+        }
+      }
+    ],
+    "have-courage" : [
+      {
+        "answers" : [
+          {
+            "de" : "In Königsberg",
+            "en" : "In Königsberg",
+            "es" : "En Königsberg",
+            "fr" : "À Königsberg",
+            "it" : "A Königsberg"
+          },
+          {
+            "de" : "In Wien",
+            "en" : "In Vienna",
+            "es" : "En Viena",
+            "fr" : "À Vienne",
+            "it" : "A Vienna"
+          },
+          {
+            "de" : "In Paris",
+            "en" : "In Paris",
+            "es" : "En París",
+            "fr" : "À Paris",
+            "it" : "A Parigi"
+          }
+        ],
+        "correct" : 0,
+        "q" : {
+          "de" : "In welcher Stadt ist Kant mit seiner Antwort fertig?",
+          "en" : "In which city does Kant finish his answer?",
+          "es" : "¿En qué ciudad termina Kant su respuesta?",
+          "fr" : "Dans quelle ville Kant finit-il sa réponse ?",
+          "it" : "In quale città Kant finisce la sua risposta?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Was ist Liebe?",
+            "en" : "What is love?",
+            "es" : "¿Qué es el amor?",
+            "fr" : "Qu'est-ce que l'amour ?",
+            "it" : "Che cos'è l'amore?"
+          },
+          {
+            "de" : "Was ist Geld?",
+            "en" : "What is money?",
+            "es" : "¿Qué es el dinero?",
+            "fr" : "Qu'est-ce que l'argent ?",
+            "it" : "Che cosa sono i soldi?"
+          },
+          {
+            "de" : "Was ist Aufklärung?",
+            "en" : "What is enlightenment?",
+            "es" : "¿Qué es la Ilustración?",
+            "fr" : "Qu'est-ce que les Lumières ?",
+            "it" : "Che cos'è l'Illuminismo?"
+          }
+        ],
+        "correct" : 2,
+        "q" : {
+          "de" : "Was fragt die Berliner Zeitschrift?",
+          "en" : "What is the Berlin magazine's question?",
+          "es" : "¿Cuál es la pregunta de la revista de Berlín?",
+          "fr" : "Quelle est la question du magazine de Berlin ?",
+          "it" : "Qual è la domanda della rivista di Berlino?"
+        }
+      },
+      {
+        "answers" : [
+          {
+            "de" : "Still sein und auf Hilfe warten",
+            "en" : "Be quiet and wait for help",
+            "es" : "Callar y esperar ayuda",
+            "fr" : "Tais-toi et attends de l'aide",
+            "it" : "Stare zitto e aspettare aiuto"
+          },
+          {
+            "de" : "Mutig sein und selbst denken",
+            "en" : "Be brave and think for yourself",
+            "es" : "Ser valiente y pensar por ti mismo",
+            "fr" : "Sois courageux et pense par toi-même",
+            "it" : "Essere coraggioso e pensare con la tua testa"
+          },
+          {
+            "de" : "Schneller lesen und alles behalten",
+            "en" : "Read faster and remember everything",
+            "es" : "Leer más rápido y recordarlo todo",
+            "fr" : "Lis plus vite et retiens tout",
+            "it" : "Leggere più veloce e ricordare tutto"
+          }
+        ],
+        "correct" : 1,
+        "q" : {
+          "de" : "Wozu rät dir Kant?",
+          "en" : "What does Kant tell you to do?",
+          "es" : "¿Qué te pide Kant?",
+          "fr" : "Qu'est-ce que Kant te dit de faire ?",
+          "it" : "Che cosa ti dice di fare Kant?"
         }
       }
     ],
@@ -271936,6 +273347,596 @@
       "summary" : "Nel 1902, a Washington, dodici ragazzi mangiavano gratis alla tavola igienica di Harvey Wiley, e l'etichetta che leggi oggi è nata proprio lì.",
       "title" : "La tavola igienica",
       "translationGroup" : "the-hygienic-table"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "id" : "have-courage",
+      "language" : "english",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "English uses \"be\" for age, not \"have\": he's 60 (he is 60), never he has 60.",
+              "example" : "He's 60 and teaches at the university.",
+              "title" : "Be + number for age: he's 60"
+            },
+            {
+              "body" : "\"The year before\" opens a short look at the past, so the verb changes for that one sentence: there is → there was. The rest of the story stays in the present.",
+              "example" : "The year before, there was a question in a Berlin magazine.",
+              "title" : "There was: one look back"
+            },
+            {
+              "body" : "To tell someone not to do something, English puts \"don't\" before the base verb, with no subject: don't let, don't stop.",
+              "example" : "He says: don't let others decide everything.",
+              "title" : "Don't + verb: advice to a friend"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "In September 1784, in Königsberg, Immanuel Kant finishes an answer. He's 60 and teaches at the university.",
+            "The year before, there was a question in a Berlin magazine. What is enlightenment? And in December, the magazine prints Kant's answer.",
+            "The famous part is two Latin words: \"Sapere aude!\" In plain English: be brave and think for yourself. Many people don't, because they're lazy and afraid. A book thinks for them, and a doctor chooses their food.",
+            "Kant doesn't say: trust nobody. He says: don't let others decide everything. You know this moment: you stop looking at the answer and try. Two Latin words: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The past simple tells finished events at a known time: regular verbs add -ed (finish → finished, print → printed), others have their own form (say → said, mean → meant).",
+              "example" : "In December, the same magazine printed Kant's answer.",
+              "title" : "Past simple: finished, printed, said"
+            },
+            {
+              "body" : "In the past, \"no\" is didn't + the base verb, with no -ed: he didn't say, not he didn't said.",
+              "example" : "But he didn't say: trust nobody.",
+              "title" : "Didn't + base verb"
+            },
+            {
+              "body" : "\"For yourself\" or \"for themselves\" means without help, on your own. The -self word matches the person: you → yourself, they → themselves.",
+              "example" : "So why don't people think for themselves?",
+              "title" : "Think for yourself, for themselves"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "In September 1784, in Königsberg, near the Baltic Sea, Immanuel Kant finished an essay. He was 60 and a professor there.",
+            "The year before, a Berlin magazine printed a big question: what is enlightenment? In December, the same magazine printed Kant's answer.",
+            "His most famous line starts with two Latin words: \"Sapere aude! Have courage to use your own understanding!\"",
+            "So why don't people think for themselves? Kant said they're lazy and afraid. Life is easy when a book thinks for you and a doctor chooses your food. But he didn't say: trust nobody. He meant: don't let others decide everything.",
+            "Every learner knows this moment: you stop looking at the answer and try. Two Latin words: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "\"Had been … since 1770\" looks back from 1784 to a starting point further in the past: in 1784 he was a professor, and he had been one since 1770.",
+              "example" : "He was 60 and had been a professor there since 1770.",
+              "title" : "Past perfect with since: had been"
+            },
+            {
+              "body" : "\"Isn't X but Y\" corrects an idea in one go: the problem is not X, it is Y. Here, people don't lack brains; they lack courage.",
+              "example" : "For Kant, it means growing out of an immaturity that's your own fault: what's missing isn't brains but courage.",
+              "title" : "Not … but: what is missing"
+            },
+            {
+              "body" : "In speech, \"though\" after a statement works like \"however\": it adds a contrast to what was just said, here before the semicolon that brings what he does mean.",
+              "example" : "He doesn't mean trust nobody, though; he means dare to check.",
+              "title" : "Though at the end of a sentence"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "In September 1784, in Königsberg, near the Baltic Sea, Immanuel Kant finished an essay. He was 60 and had been a professor there since 1770.",
+            "The year before, a Berlin magazine had printed a simple-sounding question: what is enlightenment? The magazine printed Kant's answer that December.",
+            "For Kant, it means growing out of an immaturity that's your own fault: what's missing isn't brains but courage. Then comes his famous line: \"Sapere aude! Have courage to use your own understanding!\"",
+            "Why do so many people let others think for them? Laziness and fear, says Kant: it's comfortable when a book thinks for you and a doctor decides your diet. He doesn't mean trust nobody, though; he means dare to check.",
+            "Every learner knows the moment you stop looking at the answer and actually try. Two Latin words for it: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When a sentence opens with an adverb of place or time (then, here, there), English can put the verb before a long subject: then comes the line, instead of then the line comes.",
+              "example" : "Then, borrowing two words from Horace, comes the line: \"Sapere aude! Have courage to use your own understanding!\"",
+              "title" : "Inversion after an opening adverb: then comes"
+            },
+            {
+              "body" : "\"Had already answered\" and \"hadn't seen\" go one step further back than the story's past: Mendelssohn's answer was out before Kant signed, and at that point Kant still hadn't read it.",
+              "example" : "He hadn't seen it, or he'd have held his own back, he wrote; his went to print that December anyway.",
+              "title" : "Past perfect for the time before the story"
+            },
+            {
+              "body" : "\"That's no call to…\" is stronger than \"that isn't a call to…\": \"no\" before a noun denies it completely, and the second half says what it is instead.",
+              "example" : "That's no call to trust nobody, though; it's a call to check before you hand the thinking over.",
+              "title" : "No + noun for a strong \"not\""
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "In September 1784, in Königsberg, near the Baltic Sea, Immanuel Kant, a 60-year-old professor, finished his answer to a Berlin magazine's question: what is enlightenment?",
+            "The day he signed it, he read that Moses Mendelssohn had already answered. He hadn't seen it, or he'd have held his own back, he wrote; his went to print that December anyway.",
+            "Enlightenment, he argued, means leaving an immaturity that's our own fault: it's not brains we lack but the nerve to use them unguided. Then, borrowing two words from Horace, comes the line: \"Sapere aude! Have courage to use your own understanding!\"",
+            "What stops us? Laziness and cowardice: it's comfortable to have a book that thinks for you and a doctor who decides your diet. That's no call to trust nobody, though; it's a call to check before you hand the thinking over.",
+            "Every learner knows the moment you stop peeking and try. Two Latin words, still doing their job: sapere aude."
+          ]
+        }
+      ],
+      "summary" : "In 1784, a professor in Königsberg answered a magazine's big question, and his two Latin words still push every learner to stop peeking and try.",
+      "title" : "Have Courage",
+      "translationGroup" : "have-courage"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "id" : "have-courage-fr",
+      "language" : "french",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "French gives age with avoir (to have) and the word ans (years): il a 60 ans. Never il est 60, and ans is never left out.",
+              "example" : "Il a 60 ans et enseigne à l'université.",
+              "title" : "Avoir + ans for age: il a 60 ans"
+            },
+            {
+              "body" : "The story is in the present, but l'année d'avant (the year before) opens one short look at the past in the imparfait: c'est → c'était. The next sentence is back in the present.",
+              "example" : "C'était la question d'un magazine de Berlin, l'année d'avant.",
+              "title" : "C'était: one look back"
+            },
+            {
+              "body" : "For advice with tu, the imperative drops the tu and ne … pas wraps the verb: tu laisses → ne laisse pas (don't let). Laisser + infinitive means to let someone do something.",
+              "example" : "Mais ne laisse pas toujours livres et médecins penser pour toi.",
+              "title" : "Ne laisse pas: telling a friend not to"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En septembre 1784, à Königsberg, Immanuel Kant finit une réponse. Il a 60 ans et enseigne à l'université.",
+            "Qu'est-ce que les Lumières ? C'était la question d'un magazine de Berlin, l'année d'avant. Et en décembre, le magazine publie la réponse de Kant.",
+            "Le passage célèbre, c'est deux mots latins : « Sapere aude ! » En clair, sois courageux et pense par toi-même. Beaucoup ne le font pas, parce qu'ils ont peur. C'est facile, un livre pense pour eux, un médecin choisit leurs repas.",
+            "Kant ne dit pas : ne crois personne. Mais ne laisse pas toujours livres et médecins penser pour toi. Tu connais ça : tu arrêtes de regarder la solution, tu essaies. Deux mots latins : sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The passé composé tells finished events: avoir + past participle (poser → a posé, publier → a publié, finir → a fini). Background, such as age or a job, stays in the imparfait: il avait 60 ans, il y enseignait.",
+              "example" : "En décembre, il a publié la réponse de Kant.",
+              "title" : "Passé composé with avoir: a posé, a publié"
+            },
+            {
+              "body" : "Ne and pas wrap the helper verb: il n'a pas dit, not il n'a dit pas. Dire de + infinitive reports advice: il a dit de ne croire personne (he said to trust nobody).",
+              "example" : "Il n'a pas dit de ne croire personne, mais de ne pas tout laisser aux autres.",
+              "title" : "Il n'a pas dit de + infinitive"
+            },
+            {
+              "body" : "Penser par soi-même means to think without help. The -même word matches the person: toi → par toi-même, eux → par eux-mêmes (with an -s in the plural).",
+              "example" : "Pourquoi les gens ne pensent pas par eux-mêmes ?",
+              "title" : "Par eux-mêmes: on their own"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En septembre 1784, à Königsberg, près de la mer Baltique, Immanuel Kant a fini un essai. Il avait 60 ans et y enseignait.",
+            "L'année d'avant, un magazine de Berlin a posé une question : qu'est-ce que les Lumières ? En décembre, il a publié la réponse de Kant.",
+            "Sa phrase célèbre commence par deux mots latins : « Sapere aude ! Aie le courage de te servir de ton propre entendement ! »",
+            "Pourquoi les gens ne pensent pas par eux-mêmes ? Paresse et peur, selon Kant. C'est facile : un livre pense pour toi, un médecin choisit tes repas. Il n'a pas dit de ne croire personne, mais de ne pas tout laisser aux autres.",
+            "Tu connais ça quand tu apprends : tu arrêtes de regarder la solution et tu essaies. Deux mots latins : sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English says had been … since, French keeps the imparfait with depuis, because the situation was still going on in 1784. Il avait été professeur depuis 1770 would sound wrong.",
+              "example" : "Il avait 60 ans et était professeur depuis 1770.",
+              "title" : "Imparfait + depuis: il était professeur depuis 1770"
+            },
+            {
+              "body" : "This pattern corrects an idea in one go: the problem is not X, it is Y. Ce qui te manque, ce n'est pas… puts what is missing first, so the answer lands at the end.",
+              "example" : "Ce qui te manque, ce n'est pas l'intelligence, mais le courage.",
+              "title" : "Ce n'est pas X, mais Y"
+            },
+            {
+              "body" : "Attention at the start of a sentence works like \"mind you\" or \"careful\": it stops the listener from drawing too strong a conclusion from what came before. Here the colon then brings what Kant does say: il dit d'oser vérifier (dire de + infinitive).",
+              "example" : "Attention, il ne dit pas de ne croire personne : il dit d'oser vérifier.",
+              "title" : "Attention: a spoken warning"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En septembre 1784, à Königsberg, près de la mer Baltique, Immanuel Kant a terminé un essai. Il avait 60 ans et était professeur depuis 1770.",
+            "L'année d'avant, un magazine de Berlin avait posé une question faussement simple : qu'est-ce que les Lumières ? En décembre, il a publié la réponse de Kant.",
+            "Pour Kant, les Lumières, c'est sortir d'une immaturité dont tu es toi-même responsable. Ce qui te manque, ce n'est pas l'intelligence, mais le courage. Puis vient sa phrase célèbre : « Sapere aude ! Aie le courage de te servir de ton propre entendement ! »",
+            "Pourquoi laisser les autres penser pour toi ? Paresse et peur, dit Kant : c'est confortable, un livre qui comprend pour toi, un médecin qui choisit tes repas. Attention, il ne dit pas de ne croire personne : il dit d'oser vérifier.",
+            "Chaque élève connaît ce moment où on arrête de regarder la solution pour vraiment essayer. Deux mots latins : sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "When a verb of saying sits inside or after the words it reports, French puts the subject after the verb, even in speech: disait-il, a-t-il écrit. A -t- goes between two vowels.",
+              "example" : "Les Lumières, disait-il, c'est sortir d'une immaturité dont nous sommes coupables : ce n'est pas l'intelligence qui nous manque, c'est le cran de nous en servir sans guide.",
+              "title" : "Inversion with a verb of saying: disait-il"
+            },
+            {
+              "body" : "For a past that did not happen, French uses si + plus-que-parfait (s'il l'avait lue) and the conditionnel passé for the result (il aurait gardé). Never a conditional after si.",
+              "example" : "S'il l'avait lue, il aurait gardé la sienne, a-t-il écrit, mais elle est parue en décembre.",
+              "title" : "Si + plus-que-parfait, conditionnel passé"
+            },
+            {
+              "body" : "After an opening adverb such as puis or ensuite, French can put a short verb like venir before a long subject: puis vient la phrase, rather than puis la phrase vient.",
+              "example" : "Puis, avec deux mots d'Horace, vient la phrase : « Sapere aude ! Aie le courage de te servir de ton propre entendement ! »",
+              "title" : "Puis vient la phrase: verb before the subject"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En septembre 1784, à Königsberg, près de la mer Baltique, Immanuel Kant, professeur de 60 ans, a terminé sa réponse à la question d'un magazine de Berlin : qu'est-ce que les Lumières ?",
+            "Le jour où il l'a signée, il a lu que Moses Mendelssohn avait déjà répondu. S'il l'avait lue, il aurait gardé la sienne, a-t-il écrit, mais elle est parue en décembre.",
+            "Les Lumières, disait-il, c'est sortir d'une immaturité dont nous sommes coupables : ce n'est pas l'intelligence qui nous manque, c'est le cran de nous en servir sans guide. Puis, avec deux mots d'Horace, vient la phrase : « Sapere aude ! Aie le courage de te servir de ton propre entendement ! »",
+            "Pourquoi on ne le fait pas ? Paresse et lâcheté : c'est confortable, un livre qui comprend pour toi, un médecin qui choisit tes repas. Ce n'est pas un appel à ne croire personne, mais à vérifier avant de passer la main.",
+            "Tout élève connaît ce moment : on arrête de lorgner le corrigé, on essaie. Deux mots latins qui font toujours leur effet : sapere aude."
+          ]
+        }
+      ],
+      "summary" : "En 1784, un professeur de Königsberg a répondu à la grande question d'un magazine, et ses deux mots latins poussent encore chaque élève à arrêter de regarder la solution pour essayer.",
+      "title" : "Aie le courage",
+      "translationGroup" : "have-courage"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "id" : "have-courage-de",
+      "language" : "german",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "German uses „sein“ for age, like English „be“: er ist 60 (he's 60). You can add „Jahre alt“, but „er hat 60“ is wrong.",
+              "example" : "Er ist 60 und unterrichtet an der Universität.",
+              "title" : "Sein + number for age: er ist 60"
+            },
+            {
+              "body" : "The year 1783 opens a short look at the past, so that one sentence uses „es gab“ (there was) instead of „es gibt“ (there is). The rest of the story stays in the present.",
+              "example" : "1783 gab es eine Frage in einer Berliner Zeitschrift: Was ist Aufklärung?",
+              "title" : "Es gab: one look back"
+            },
+            {
+              "body" : "To tell a friend what to do, take the du form and drop -st: du lässt → lass!, du denkst → denk! The umlaut goes too, and „sein“ gives sei!; „nicht“ makes it advice not to do something.",
+              "example" : "Aber lass nicht immer Bücher und Ärzte für dich denken.",
+              "title" : "The du imperative: lass, sei, denk"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Im September 1784 ist Immanuel Kant in Königsberg mit einer Antwort fertig. Er ist 60 und unterrichtet an der Universität.",
+            "1783 gab es eine Frage in einer Berliner Zeitschrift: Was ist Aufklärung? Im Dezember druckt sie Kants Antwort.",
+            "Berühmt sind zwei lateinische Wörter: „Sapere aude!“ Einfach gesagt: Sei mutig und denk selbst. Viele machen das nicht, denn es ist bequem und sie haben Angst. Ein Buch denkt für sie, und ein Arzt plant ihr Essen.",
+            "Kant sagt nicht: Vertrau niemandem. Aber lass nicht immer Bücher und Ärzte für dich denken. Du kennst das. Du schaust nicht in die Lösung und probierst es. Also: sapere aude!"
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Spoken German tells finished events with haben + the past participle at the end of the clause: drucken → hat gedruckt, schreiben → hat geschrieben.",
+              "example" : "Im Jahr davor hat eine Berliner Zeitschrift eine große Frage gedruckt: Was ist Aufklärung?",
+              "title" : "Das Perfekt: hat … gedruckt"
+            },
+            {
+              "body" : "Some verbs build the Perfekt with sein, not haben, above all verbs of coming and appearing: erscheinen (to come out) → ist erschienen, like kommen → ist gekommen.",
+              "example" : "Im Dezember ist dort Kants Antwort erschienen.",
+              "title" : "Erscheinen takes sein: ist erschienen"
+            },
+            {
+              "body" : "„Lassen“ + an infinitive at the end means to let someone do something: andere entscheiden lassen = to let others decide. In the du imperative it is just „lass“.",
+              "example" : "Aber er sagt nicht: Vertrau niemandem, sondern: Lass andere nicht alles entscheiden.",
+              "title" : "Lassen + infinitive: let someone do it"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Im September 1784 hat Immanuel Kant in Königsberg, nahe der Ostsee, einen Aufsatz fertig geschrieben. Er war 60 und dort Professor.",
+            "Im Jahr davor hat eine Berliner Zeitschrift eine große Frage gedruckt: Was ist Aufklärung? Im Dezember ist dort Kants Antwort erschienen.",
+            "Sein berühmtester Satz beginnt mit zwei lateinischen Wörtern: „Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+            "Warum denken so viele nicht selbst? Kant sagt: Sie sind faul und haben Angst. Das Leben ist bequem: Ein Buch denkt für dich, ein Arzt plant dein Essen. Aber er sagt nicht: Vertrau niemandem, sondern: Lass andere nicht alles entscheiden.",
+            "Du kennst das vom Lernen. Du schaust nicht mehr in die Lösung und probierst es. Zwei lateinische Wörter: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For something that started earlier and was still going on, German uses seit + the plain past: er war seit 1770 Professor = he had been a professor since 1770. English needs the past perfect here; German does not.",
+              "example" : "Er war 60 und seit 1770 Professor dort.",
+              "title" : "Seit with the past: war seit 1770 Professor"
+            },
+            {
+              "body" : "After a „nicht“, German corrects with „sondern“, not „aber“: es fehlt nicht an Köpfchen, sondern an Mut = it's not brains that are missing but courage.",
+              "example" : "Es fehlt nicht an Köpfchen, sondern an Mut.",
+              "title" : "Nicht … sondern: not this, but that"
+            },
+            {
+              "body" : "When the verb in a relative clause needs a preposition (schuld sein an), the preposition comes first, then the pronoun, and the verb goes to the end: eine Unmündigkeit, an der man selbst schuld ist.",
+              "example" : "Für Kant heißt Aufklärung, aus einer Unmündigkeit herauszuwachsen, an der man selbst schuld ist.",
+              "title" : "Preposition + relative pronoun: an der"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Im September 1784 hat Immanuel Kant in Königsberg, nahe der Ostsee, einen Aufsatz fertig geschrieben. Er war 60 und seit 1770 Professor dort.",
+            "Im Jahr davor hatte eine Berliner Zeitschrift eine scheinbar einfache Frage gedruckt: Was ist Aufklärung? Kants Antwort ist dort im Dezember erschienen.",
+            "Für Kant heißt Aufklärung, aus einer Unmündigkeit herauszuwachsen, an der man selbst schuld ist. Es fehlt nicht an Köpfchen, sondern an Mut. Dann kommt sein berühmter Satz: „Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+            "Warum lassen sich so viele das Denken abnehmen? Aus Faulheit und Angst, sagt Kant. Es ist bequem, wenn ein Buch für dich mitdenkt und ein Arzt dein Essen aussucht. Er meint nicht: Vertrau niemandem, sondern: Trau dich, nachzuprüfen.",
+            "Wer lernt, kennt das: Du schaust nicht mehr in die Lösung und probierst es wirklich. Zwei lateinische Wörter: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "For something that did not happen, German uses hätte (or wäre) + the participle: sonst hätte er seine Antwort zurückgehalten = otherwise he would have held his answer back.",
+              "example" : "Er hatte das nicht gesehen, sonst hätte er seine zurückgehalten, schreibt er; so ist sie im Dezember erschienen.",
+              "title" : "Konjunktiv II in the past: hätte … zurückgehalten"
+            },
+            {
+              "body" : "German can pack a relative clause into a participle before the noun: Wörter, die er von Horaz geborgt hat → von Horaz geborgte Wörter. The participle takes an adjective ending.",
+              "example" : "Dann kommt, mit zwei von Horaz geborgten Wörtern, der Satz: „Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+              "title" : "A participle as an adjective: geborgte Wörter"
+            },
+            {
+              "body" : "„Kein“ denies a noun completely and is stronger than „nicht ein“: das ist kein Aufruf = that's no call; the second half then says what it is instead.",
+              "example" : "Das ist aber kein Aufruf, niemandem zu trauen, sondern: Erst prüfen, dann das Denken abgeben.",
+              "title" : "Kein + noun for a strong „not“"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Im September 1784 hat Immanuel Kant, ein 60-jähriger Professor in Königsberg nahe der Ostsee, seine Antwort fertig geschrieben. Gefragt hatte eine Berliner Zeitschrift: Was ist Aufklärung?",
+            "Am Tag der Unterschrift hat er gelesen, dass Moses Mendelssohn schon geantwortet hatte. Er hatte das nicht gesehen, sonst hätte er seine zurückgehalten, schreibt er; so ist sie im Dezember erschienen.",
+            "Aufklärung heißt für ihn: raus aus der Unmündigkeit, an der wir selbst schuld sind. Uns fehlt nicht das Köpfchen, sondern der Mut, es ohne Anleitung zu benutzen. Dann kommt, mit zwei von Horaz geborgten Wörtern, der Satz: „Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+            "Warum tun wir's nicht? Faulheit und Feigheit: Es ist bequem, wenn ein Buch für dich mitdenkt und ein Arzt dein Essen aussucht. Das ist aber kein Aufruf, niemandem zu trauen, sondern: Erst prüfen, dann das Denken abgeben.",
+            "Wer lernt, kennt den Moment: nicht mehr spicken, einfach probieren. Zwei lateinische Wörter, die bis heute wirken: sapere aude."
+          ]
+        }
+      ],
+      "summary" : "1784 hat ein Professor in Königsberg auf die große Frage einer Zeitschrift geantwortet, und seine zwei lateinischen Wörter sagen allen Lernenden bis heute: Schau nicht in die Lösung, probier es selbst.",
+      "title" : "Hab Mut",
+      "translationGroup" : "have-courage"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "id" : "have-courage-es",
+      "language" : "spanish",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Spanish uses tener (to have) for age, never ser: tiene 60 años = he's 60, literally he has 60 years.",
+              "example" : "Tiene 60 años y da clases en la universidad.",
+              "title" : "Tener for age: tiene 60 años"
+            },
+            {
+              "body" : "«Un año antes» opens a short look at the past, so that one sentence moves to the imperfect: hay → había (there was). The rest of the story stays in the present.",
+              "example" : "Un año antes, en una revista de Berlín había una pregunta.",
+              "title" : "Había: one look back"
+            },
+            {
+              "body" : "A negative order to tú uses the subjunctive form, not the plain imperative: confía → no confíes, deja → no dejes.",
+              "example" : "Kant no dice: no confíes en nadie.",
+              "title" : "No confíes: telling a friend not to"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "En septiembre de 1784, en Königsberg, Immanuel Kant termina una respuesta. Tiene 60 años y da clases en la universidad.",
+            "Un año antes, en una revista de Berlín había una pregunta. ¿Qué es la Ilustración? Y en diciembre, la revista publica la respuesta de Kant.",
+            "Lo más famoso son dos palabras latinas: «¡Sapere aude!». O sea: sé valiente y piensa por ti mismo. Muchos no lo hacen porque es más cómodo y da miedo. Un libro piensa por ellos, y un médico elige su comida.",
+            "Kant no dice: no confíes en nadie. Pero los libros y los médicos no deben pensar siempre por ti. Conoces ese momento: dejas de leer la respuesta y lo intentas. Dos palabras en latín: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "The pretérito indefinido tells finished events at a known time: terminar → terminó, publicar → publicó, salir → salió (it came out).",
+              "example" : "La respuesta de Kant salió en la misma revista en diciembre.",
+              "title" : "Pretérito for events: terminó, publicó, salió"
+            },
+            {
+              "body" : "Age and description take the imperfect, even in a story told in the pretérito: tenía 60 años, era profesor. The events around them take the pretérito: terminó.",
+              "example" : "Tenía 60 años y era profesor allí.",
+              "title" : "Tenía, era: the background"
+            },
+            {
+              "body" : "«Pensar por uno mismo» means to think without help. La gente is singular and feminine in Spanish, so it takes por sí misma; to a friend you say por ti mismo or por ti misma.",
+              "example" : "Entonces, ¿por qué la gente no piensa por sí misma?",
+              "title" : "Por sí misma: on your own"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "En septiembre de 1784, en Königsberg, cerca del mar Báltico, Immanuel Kant terminó un ensayo. Tenía 60 años y era profesor allí.",
+            "Un año antes, una revista de Berlín publicó una gran pregunta: ¿qué es la Ilustración? La respuesta de Kant salió en la misma revista en diciembre.",
+            "Su frase más famosa empieza con dos palabras en latín: «¡Sapere aude! ¡Ten valor para usar tu propio entendimiento!».",
+            "Entonces, ¿por qué la gente no piensa por sí misma? Según Kant, por pereza y por miedo. La vida es fácil cuando un libro piensa por ti y un médico elige tu comida. Pero Kant no dijo: no confíes en nadie. Quería decir: no dejes que otros lo decidan todo.",
+            "Si aprendes algo, conoces ese momento: dejas de leer la respuesta y lo intentas. Solo dos palabras en latín: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English says «had been … since», Spanish keeps the imperfect with desde: era profesor desde 1770 = he had been a professor since 1770, and still was in 1784.",
+              "example" : "Tenía 60 años y era profesor allí desde 1770.",
+              "title" : "Imperfect + desde: how long it had been going on"
+            },
+            {
+              "body" : "After a negative, «sino» (not pero) brings the correct idea that replaces the first one: no te falta inteligencia, sino valor = it's not brains you lack, but courage.",
+              "example" : "No te falta inteligencia, sino valor.",
+              "title" : "No … sino: not this, but that"
+            },
+            {
+              "body" : "«Querer decir» means to mean. When what is meant is an order or a wish, the verb after que goes into the subjunctive: que no confíes, que te atrevas.",
+              "example" : "Eso sí, no quiere decir que no confíes en nadie; quiere decir que te atrevas a comprobar las cosas.",
+              "title" : "Querer decir que + subjunctive"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "En septiembre de 1784, en Königsberg, cerca del mar Báltico, Immanuel Kant terminó un ensayo. Tenía 60 años y era profesor allí desde 1770.",
+            "Un año antes, una revista de Berlín había publicado una pregunta que parecía sencilla: ¿qué es la Ilustración? La respuesta de Kant salió en la misma revista en diciembre.",
+            "Para Kant, significa dejar atrás una inmadurez que es culpa tuya. No te falta inteligencia, sino valor. Luego llega su famosa frase: «¡Sapere aude! ¡Ten valor para usar tu propio entendimiento!».",
+            "¿Por qué tanta gente deja que otros piensen por ella? Por pereza y por miedo, dice Kant: es cómodo que un libro entienda por ti y un médico decida lo que comes. Eso sí, no quiere decir que no confíes en nadie; quiere decir que te atrevas a comprobar las cosas.",
+            "Quien aprende conoce ese momento en que deja de leer la respuesta y lo intenta de verdad. Dos palabras en latín para eso: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "«Había respondido» and «no había visto» go one step further back than the story's past: Mendelssohn's answer was already out when Kant signed, and Kant still hadn't read it.",
+              "example" : "El mismo día que la firmó, leyó que Moses Mendelssohn ya había respondido.",
+              "title" : "Pluscuamperfecto: the time before the story"
+            },
+            {
+              "body" : "The conditional perfect (habría guardado) says what would have happened if things had gone differently; here «si no» (otherwise): if Kant had seen Mendelssohn's answer, he would have kept his own back.",
+              "example" : "Aún no había visto esa respuesta, escribió; si no, se habría guardado la suya.",
+              "title" : "Habría + participle: what would have happened"
+            },
+            {
+              "body" : "«No es ninguna invitación» is stronger than «no es una invitación»: ninguna denies the noun completely, and the second half says what it is instead.",
+              "example" : "Eso sí, no es ninguna invitación a desconfiar de todo el mundo; es una invitación a comprobar antes de dejarle a otro el trabajo de pensar.",
+              "title" : "Ninguno/ninguna + noun: a strong no"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "En septiembre de 1784, en Königsberg, cerca del mar Báltico, Immanuel Kant, profesor de 60 años, terminó su respuesta a la pregunta de una revista de Berlín: ¿qué es la Ilustración?",
+            "El mismo día que la firmó, leyó que Moses Mendelssohn ya había respondido. Aún no había visto esa respuesta, escribió; si no, se habría guardado la suya. Así que salió igualmente ese diciembre.",
+            "La Ilustración, según él, es dejar atrás una inmadurez que es culpa nuestra: no nos falta inteligencia, sino agallas para usarla solos. Luego, con dos palabras prestadas de Horacio, llega la frase: «¡Sapere aude! ¡Ten valor para usar tu propio entendimiento!».",
+            "¿Por qué no lo hacemos? Por pereza y por cobardía: es cómodo tener un libro que entienda por ti y un médico que decida lo que comes. Eso sí, no es ninguna invitación a desconfiar de todo el mundo; es una invitación a comprobar antes de dejarle a otro el trabajo de pensar.",
+            "Quien aprende conoce ese momento en que deja de mirar la solución y lo intenta. Dos palabras en latín que siguen haciendo su trabajo: sapere aude."
+          ]
+        }
+      ],
+      "summary" : "En 1784, un profesor de Königsberg respondió a la gran pregunta de una revista, y sus dos palabras en latín todavía animan a quien aprende a dejar de mirar la solución y probar.",
+      "title" : "Ten valor",
+      "translationGroup" : "have-courage"
+    },
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "id" : "have-courage-it",
+      "language" : "italian",
+      "levels" : [
+        {
+          "grammar" : [
+            {
+              "body" : "Italian uses avere (to have) for age, not essere: ha 60 anni = he is 60, literally he has 60 years.",
+              "example" : "Ha 60 anni e insegna all'università.",
+              "title" : "Avere + anni for age: ha 60 anni"
+            },
+            {
+              "body" : "\"L'anno prima\" (the year before) opens a short look at the past, so that one sentence uses the imperfect c'era (there was) instead of c'è. The rest of the story stays in the present.",
+              "example" : "Che cos'è l'Illuminismo? L'anno prima c'era questa domanda in una rivista di Berlino.",
+              "title" : "C'era: one look back"
+            },
+            {
+              "body" : "To tell a friend (tu) not to do something, Italian puts non before the infinitive: non lasciare, non fidarti. After lasciare che the verb takes the subjunctive: pensino.",
+              "example" : "Ma non lasciare che libri e medici pensino sempre per te.",
+              "title" : "Non + infinitive: advice to a friend"
+            }
+          ],
+          "level" : "A1",
+          "paragraphs" : [
+            "Nel settembre del 1784, a Königsberg, Immanuel Kant finisce una risposta. Ha 60 anni e insegna all'università.",
+            "Che cos'è l'Illuminismo? L'anno prima c'era questa domanda in una rivista di Berlino. E a dicembre la rivista pubblica la risposta di Kant.",
+            "La parte famosa sono due parole latine: «Sapere aude!» In parole semplici: sii coraggioso e pensa con la tua testa. Molte persone non lo fanno, perché è più facile e hanno paura. Un libro pensa per loro e un medico sceglie cosa mangiano.",
+            "Kant non dice: non fidarti di nessuno. Ma non lasciare che libri e medici pensino sempre per te. Lo conosci, questo momento: smetti di leggere la risposta e provi. Due parole latine: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Verbs of movement like uscire (to come out) take essere, and the participle agrees with the subject: la risposta è uscita, il libro è uscito.",
+              "example" : "A dicembre è uscita proprio lì la risposta di Kant.",
+              "title" : "Passato prossimo with essere: è uscita"
+            },
+            {
+              "body" : "La gente (people) is a singular noun in Italian, so its verb, adjectives and possessives are singular too: la gente pensa con la sua testa, è pigra.",
+              "example" : "Allora perché la gente non pensa con la sua testa?",
+              "title" : "La gente + singular verb"
+            },
+            {
+              "body" : "Avere has an irregular imperative for tu: abbi (have). Abbi il coraggio di + infinitive = have the courage to do something.",
+              "example" : "La sua frase più famosa comincia con due parole latine: «Sapere aude! Abbi il coraggio di servirti del tuo intelletto!»",
+              "title" : "Abbi: the tu imperative of avere"
+            }
+          ],
+          "level" : "A2",
+          "paragraphs" : [
+            "Nel settembre del 1784, a Königsberg, vicino al mar Baltico, Immanuel Kant ha finito un saggio. Aveva 60 anni e lì faceva il professore.",
+            "L'anno prima una rivista di Berlino ha pubblicato una grande domanda: che cos'è l'Illuminismo? A dicembre è uscita proprio lì la risposta di Kant.",
+            "La sua frase più famosa comincia con due parole latine: «Sapere aude! Abbi il coraggio di servirti del tuo intelletto!»",
+            "Allora perché la gente non pensa con la sua testa? Per Kant è pigra e ha paura. La vita è facile quando un libro pensa per te e un medico sceglie cosa mangi. Ma Kant non ha detto: non fidarti di nessuno. Voleva dire: non lasciare che gli altri decidano tutto.",
+            "Quando studi, lo conosci questo momento: smetti di leggere la risposta e provi. Due parole latine: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Where English says \"had been … since\", Italian uses the imperfect with da: era professore (già) dal 1770 = he had been a professor since 1770 (and still was). Già (already) stresses how long.",
+              "example" : "Aveva 60 anni ed era professore lì già dal 1770.",
+              "title" : "Imperfect + da: era professore dal 1770"
+            },
+            {
+              "body" : "Aveva or era + past participle goes one step further back than the story's past: the question came out the year before Kant's essay.",
+              "example" : "L'anno prima una rivista di Berlino aveva pubblicato una domanda che sembrava semplice: che cos'è l'Illuminismo?",
+              "title" : "Trapassato prossimo: aveva pubblicato"
+            },
+            {
+              "body" : "With mancare (to be missing), the thing you lack is the subject and the person is an indirect object: ti manca il coraggio = you lack courage, literally courage is missing to you.",
+              "example" : "Per Kant vuol dire uscire da una minorità che è colpa tua: non ti manca il cervello, ti manca il coraggio.",
+              "title" : "Mancare: the missing thing is the subject"
+            }
+          ],
+          "level" : "B1",
+          "paragraphs" : [
+            "Nel settembre del 1784, a Königsberg, vicino al mar Baltico, Immanuel Kant ha finito un saggio. Aveva 60 anni ed era professore lì già dal 1770.",
+            "L'anno prima una rivista di Berlino aveva pubblicato una domanda che sembrava semplice: che cos'è l'Illuminismo? La risposta di Kant è uscita sulla stessa rivista a dicembre.",
+            "Per Kant vuol dire uscire da una minorità che è colpa tua: non ti manca il cervello, ti manca il coraggio. Poi arriva la sua frase famosa: «Sapere aude! Abbi il coraggio di servirti del tuo intelletto!»",
+            "Perché così tante persone lasciano pensare gli altri al posto loro? Pigrizia e paura, dice Kant: è comodo se un libro capisce per te e un medico decide cosa mangi. Ma attenzione: non dice «non fidarti di nessuno». Dice: abbi il coraggio di controllare.",
+            "Chi studia conosce bene il momento in cui smette di leggere la risposta e prova davvero. Due parole latine per dirlo: sapere aude."
+          ]
+        },
+        {
+          "grammar" : [
+            {
+              "body" : "Avrebbe + past participle says what would have happened but didn't: if he had seen that answer, he would have kept his own in the drawer.",
+              "example" : "Quella risposta non l'aveva ancora vista, ha scritto, altrimenti avrebbe tenuto la sua nel cassetto; invece a dicembre è andata in stampa.",
+              "title" : "Condizionale passato: avrebbe tenuto"
+            },
+            {
+              "body" : "The gerund (-ando, -endo) adds an action that happens alongside the main one, with the same subject: prendendo in prestito = borrowing.",
+              "example" : "Poi, prendendo in prestito due parole da Orazio, Kant scrive la frase: «Sapere aude! Abbi il coraggio di servirti del tuo intelletto!»",
+              "title" : "Gerundio for a side action: prendendo in prestito"
+            },
+            {
+              "body" : "When both actions share a subject, before doing something is prima di + infinitive, with no che and no subjunctive: prima di lasciar pensare = before letting (others) think.",
+              "example" : "Però non è un invito a non fidarsi di nessuno; è un invito a controllare prima di lasciar pensare gli altri al posto tuo.",
+              "title" : "Prima di + infinitive"
+            }
+          ],
+          "level" : "B2",
+          "paragraphs" : [
+            "Nel settembre del 1784, a Königsberg, vicino al mar Baltico, Immanuel Kant, un professore di 60 anni, ha finito la sua risposta alla domanda di una rivista di Berlino: che cos'è l'Illuminismo?",
+            "Il giorno in cui l'ha firmata, ha letto che Moses Mendelssohn aveva già risposto. Quella risposta non l'aveva ancora vista, ha scritto, altrimenti avrebbe tenuto la sua nel cassetto; invece a dicembre è andata in stampa.",
+            "L'Illuminismo, secondo lui, è uscire da una minorità che è colpa nostra: non ci manca il cervello, ma il coraggio di usarlo senza una guida. Poi, prendendo in prestito due parole da Orazio, Kant scrive la frase: «Sapere aude! Abbi il coraggio di servirti del tuo intelletto!»",
+            "Perché non lo facciamo? Pigrizia e viltà: è comodo avere un libro che capisce per te e un medico che decide cosa mangi. Però non è un invito a non fidarsi di nessuno; è un invito a controllare prima di lasciar pensare gli altri al posto tuo.",
+            "Chi studia conosce bene il momento in cui smette di sbirciare e prova. Due parole latine che funzionano ancora: sapere aude."
+          ]
+        }
+      ],
+      "summary" : "Nel 1784 un professore di Königsberg ha risposto alla grande domanda di una rivista, e le sue due parole latine spingono ancora chi impara a smettere di sbirciare e a provare.",
+      "title" : "Abbi coraggio",
+      "translationGroup" : "have-courage"
     }
   ]
 }

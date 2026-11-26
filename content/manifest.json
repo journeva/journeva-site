@@ -1,10 +1,22 @@
 {
   "bundleURL" : "content.json",
-  "contentVersion" : 45,
-  "generatedAt" : "2026-11-25",
+  "contentVersion" : 46,
+  "generatedAt" : "2026-11-26",
   "imageBaseURL" : "images/",
   "minAppVersion" : "1.2",
   "newest" : [
+    {
+      "category" : "bookQuotes",
+      "dateAdded" : "2026-11-26",
+      "titles" : {
+        "english" : "Have Courage",
+        "french" : "Aie le courage",
+        "german" : "Hab Mut",
+        "italian" : "Abbi coraggio",
+        "spanish" : "Ten valor"
+      },
+      "translationGroup" : "have-courage"
+    },
     {
       "category" : "health",
       "dateAdded" : "2026-11-25",
@@ -28,44 +40,8 @@
         "spanish" : "Las fugas que se ven desde el espacio"
       },
       "translationGroup" : "leaks-seen-from-space"
-    },
-    {
-      "category" : "news",
-      "dateAdded" : "2026-11-23",
-      "titles" : {
-        "english" : "Verstappen Wins in Vegas, Piastri Climbs from 17th",
-        "french" : "Verstappen gagne à Las Vegas, Piastri de la 17e place au podium",
-        "german" : "Verstappen siegt in Las Vegas, Piastri fährt von Platz 17 aufs Podium",
-        "italian" : "Verstappen vince a Las Vegas, Piastri dal 17º posto al podio",
-        "spanish" : "Verstappen gana en Las Vegas y Piastri sube del 17 al podio"
-      },
-      "translationGroup" : "weekend-sport-2026-11-22"
-    },
-    {
-      "category" : "conversations",
-      "dateAdded" : "2026-11-23",
-      "titles" : {
-        "english" : "The Padrón",
-        "french" : "Le padrón",
-        "german" : "Der Padrón",
-        "italian" : "Il padrón",
-        "spanish" : "El padrón"
-      },
-      "translationGroup" : "empadronamiento"
-    },
-    {
-      "category" : "travel",
-      "dateAdded" : "2026-11-23",
-      "titles" : {
-        "english" : "Kyoto: The Capital of Peace",
-        "french" : "Kyoto : la capitale de la paix",
-        "german" : "Kyoto: Die Hauptstadt des Friedens",
-        "italian" : "Kyoto: la capitale della pace",
-        "spanish" : "Kioto: la capital de la paz"
-      },
-      "translationGroup" : "kyoto"
     }
   ],
   "schemaVersion" : 1,
-  "sha256" : "91236e60616ce027c3daadfb616fc2645e4141e82ccd9e399eb4955436486294"
+  "sha256" : "96c973ee339c182a0e40e6ff4d83231b29d308bdc9a3774cce1b069d7c148125"
 }
